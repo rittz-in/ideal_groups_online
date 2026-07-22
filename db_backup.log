@@ -172,3 +172,136 @@ Old backups removed.
 Database : idealgro_web
 Started  : 15:44:02
 mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Status   : SUCCESS
+
+==================================================
+Backup Summary
+==================================================
+Total Databases : 1
+Successful      : 1
+Failed          : 0
+
+Backup Folder:
+/home1/idealgro/ideal_db_backups
+
+Completed At : 2026-07-22 15:44:07
+==================================================
+==================================================
+Database Backup Started : 2026-07-22 15:45:01
+==================================================
+
+Cleaning old backups...
+Old backups removed.
+
+----------------------------------------
+Database : idealgro_web
+Started  : 15:45:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Status   : SUCCESS
+
+==================================================
+Backup Summary
+==================================================
+Total Databases : 1
+Successful      : 1
+Failed          : 0
+
+Backup Folder:
+/home1/idealgro/ideal_db_backups
+
+Completed At : 2026-07-22 15:45:06
+==================================================
+==================================================
+Database Backup Started : 2026-07-22 15:46:01
+==================================================
+
+Cleaning old backups...
+Old backups removed.
+
+----------------------------------------
+Database : idealgro_web
+Started  : 15:46:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Status   : SUCCESS
+
+==================================================
+Backup Summary
+==================================================
+Total Databases : 1
+Successful      : 1
+Failed          : 0
+
+Backup Folder:
+/home1/idealgro/ideal_db_backups
+
+Completed At : 2026-07-22 15:46:06
+==================================================
+==================================================
+Database Backup Started : 2026-07-22 15:47:01
+==================================================
+
+Cleaning old backups...
+Old backups removed.
+
+----------------------------------------
+Database : idealgro_web
+Started  : 15:47:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Status   : SUCCESS
+
+==================================================
+Backup Summary
+==================================================
+Total Databases : 1
+Successful      : 1
+Failed          : 0
+
+Backup Folder:
+/home1/idealgro/ideal_db_backups
+
+Completed At : 2026-07-22 15:47:06
+==================================================
+==============================
+Backup started: Wed Jul 22 15:48:02 IST 2026
+==================================================
+Database Backup Started : 2026-07-22 15:48:02
+==================================================
+
+Cleaning old backups...
+Old backups removed.
+
+----------------------------------------
+Database : idealgro_web
+Started  : 15:48:02
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+warning: You ran 'git add' with neither '-A (--all)' or '--ignore-removal',
+whose behaviour will change in Git 2.0 with respect to paths you removed.
+Paths like '.cpanel/datastore/_Cpanel::Quota.pm__idealgro' that are
+removed from your working tree are ignored with this version of Git.
+
+* 'git add --ignore-removal <pathspec>', which is the current default,
+  ignores paths you removed from your working tree.
+
+* 'git add --all <pathspec>' will let you also record the removals.
+
+Run 'git status' to check the paths you removed from your working tree.
+
+fatal: unable to stat 'ideal_db_backups/idealgro_web_2026-07-22_15-47-01.sql.gz': No such file or directory
+No changes found.
+==============================
+Status   : SUCCESS
+
+==================================================
+Backup Summary
+==================================================
+Total Databases : 1
+Successful      : 1
+Failed          : 0
+
+Backup Folder:
+/home1/idealgro/ideal_db_backups
+
+Completed At : 2026-07-22 15:48:07
+==================================================
+==============================
+Backup started: Wed Jul 22 15:48:39 IST 2026

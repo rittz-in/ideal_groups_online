@@ -1,0 +1,432 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202411 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.ugi.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2694                
+POS_VISITOR 8425                
+POS_DAY 11414               
+POS_DOMAIN 3355                
+POS_LOGIN 3718                
+POS_ROBOT 3873                
+POS_WORMS 4174                
+POS_EMAILSENDER 4305                
+POS_EMAILRECEIVER 4448                
+POS_SESSION 11579               
+POS_SIDER 11785               
+POS_FILETYPES 4583                
+POS_DOWNLOADS 4820                
+POS_OS 4868                
+POS_BROWSER 5084                
+POS_SCREENSIZE 5597                
+POS_UNKNOWNREFERER 5671                
+POS_UNKNOWNREFERERBROWSER 6148                
+POS_ORIGIN 6433                
+POS_SEREFERRALS 6570                
+POS_PAGEREFS 6714                
+POS_SEARCHWORDS 6862                
+POS_KEYWORDS 7014                
+POS_MISC 2357                
+POS_ERRORS 7073                
+POS_CLUSTER 3574                
+POS_SIDER_404 7238                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20241203155041 1 0 11104749083454
+FirstTime 20241119101635
+LastTime 20241122123801
+LastUpdate 20241203183619 1 0 0 0 0
+TotalVisits 79                  
+TotalUnique 65                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 76                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 13 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 40437 3 9 2840
+1 8 115 8373781 5 5 1420
+2 14 63 3403698 7 9 14899
+3 3 33 4068571 3 6 1743
+4 1 11 1356166 0 1 226
+5 0 0 0 0 0 0
+6 2 2 13552 0 0 0
+7 1 1 0 1 1 0
+8 2 4 16615 2 4 13832
+9 3 7 33230 2 5 710
+10 28 151 8853096 55 74 218229
+11 7 8 28558 5 6 10877
+12 33 80 3378463 12 13 164874
+13 27 297 21361530 8 10 28544
+14 0 0 0 2 2 710
+15 2 2 13479 4 4 1162
+16 0 0 0 2 2 710
+17 1 3 16615 0 1 0
+18 1 3 16615 2 4 355
+19 45 120 5339080 40 42 281974
+20 0 0 0 0 0 0
+21 0 0 0 1 1 583
+22 8 106 5814396 7 13 56401
+23 5 44 1759557 3 9 30727
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+in 115 265 12999777
+us 59 669 47316598
+ca 8 12 443096
+gb 7 76 1897327
+be 4 11 64892
+ru 1 2 15047
+id 1 16 1118965
+ua 1 2 15048
+gr 1 2 15121
+fr 0 1 1568
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Go\-http\-client/ 6 55484 20241120021545 0
+archive\.org_bot 4 53916 20241119224901 0
+no_user_agent 3 163809 20241119122614 0
+Googlebot\-Mobile/ 1 13477 20241120085755 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+svg 1 1521 0 0
+jpeg 44 4214595 0 0
+woff2 13 2910596 0 0
+js 165 2743706 0 0
+html 113 1834584 0 0
+php 71 3063 0 0
+jpg 282 41561433 0 0
+css 129 1921395 0 0
+png 238 8696546 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+ios_iphone 123 10
+macosx10 1 1
+wince 1 1
+macosx15 168 6
+androidoreo 109 5
+android10 57 5
+linux 169 21
+androidnougat 28 6
+win10 273 31
+Unknown 127 111
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+firefox83.0 2 2
+chrome126.0.0.0 81 5
+chrome39.0.2171.95 1 1
+chrome113.0.0.0 57 2
+Unknown 104 103
+chrome121.0.0.0 55 3
+chrome63.0.3239.111 109 5
+safari17.5 17 1
+safari16.1 103 5
+edge18 59 4
+chrome130.0.0.0 173 20
+firefox120.0 13 13
+chrome23.0.1271.64 50 0
+mozilla 23 8
+safari17.0 2 2
+chrome123.0.0.0 110 4
+chrome129.0.0.0 2 1
+safari 2 2
+chrome124.0.0.0 59 6
+chrome59.0.3071.125 27 5
+msie6.0 1 1
+chrome91.0.4472.164 1 1
+chrome110.0.0.0 4 2
+chrome60.0.3112.107 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20241120105227
+WordPress/5.8.2;_https://ugi.net.in 20241119101634
+WhatsApp/2.23.20.0 20241119193810
+WordPress/6.7.1;_https://ugi.idealgroups.org 20241122123241
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20241121023650
+WordPress/6.7;_https://ugi.idealgroups.org 20241122020631
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WordPress/6.7.1;_https://ugi.idealgroups.org 20241122123241
+WordPress/6.7;_https://ugi.idealgroups.org 20241122020631
+WhatsApp/2.23.20.0 20241119193810
+WordPress/5.8.2;_https://ugi.net.in 20241119101634
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 167 285
+From1 1 1
+From2 0 0
+From3 0 0
+From4 29 770
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+500 1 1191
+404 79 522337
+406 22 4972
+302 2 0
+301 35 0
+401 2 220
+403 34 12982
+409 16 2428
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 42
+/cloud-config.yml 1 -
+/config.php 1 -
+/.svn/wc.db 1 -
+/config/production.json 1 -
+/config.yaml 1 -
+/ads.txt 2 -
+/.kube/config 1 -
+/_vti_pvt/service.pwd 1 -
+/.git/HEAD 1 -
+/sellers.json 2 -
+/debug/default/view 2 -
+/ 3 -
+/app-ads.txt 2 -
+/.vscode/sftp.json 3 -
+/config.yml 1 -
+/s/5333e24353e28313e2931313/_/ 2 -
+/server 2 -
+/_all_dbs 2 -
+/secrets.json 1 -
+/.env.production 1 -
+/user_secrets.yml 1 -
+/server.key 1 -
+/backup.zip 1 -
+/.ssh/id_ecdsa 1 -
+/v2/_catalog 2 -
+/.git/config 8 -
+/.aws/credentials 1 -
+/config.xml 1 -
+/phpinfo.php 2 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 2 -
+/config.json 3 -
+/.ssh/id_ed25519 1 -
+/config/database.php 1 -
+/_vti_pvt/authors.pwd 1 -
+/login.action 2 -
+/telescope/requests 2 -
+/.DS_Store 2 -
+/docker-compose.yml 1 -
+/_vti_pvt/administrators.pwd 1 -
+/_profiler/phpinfo 1 -
+/backup.tar.gz 1 -
+//cdn.js 12 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 76
+119.18.54.35 102 102 431562 20241122123241
+49.43.240.188 8 105 8395598 20241119102140
+106.196.20.96 5 58 4172617 20241119193910
+52.16.245.145 5 50 3253700 20241119120614
+51.158.205.64 4 39 513530 20241119235531
+34.212.185.223 4 111 8351410 20241119131934
+54.191.157.184 4 111 8351410 20241119132033
+51.159.14.99 2 20 263264 20241119101939
+104.253.214.11 2 54 4160309 20241119225023
+44.222.230.227 2 55 4179367 20241120015217
+52.87.44.246 2 54 4175180 20241119132118
+35.86.122.189 2 2 26956 20241119131020
+64.233.172.169 2 8 269590 20241119193800
+3.231.94.187 2 55 4179367 20241120011646
+192.175.111.236 1 1 54603 20241119132505
+206.168.34.198 1 3 16615 20241120091032
+104.166.80.109 1 1 13479 20241120122014
+87.236.176.103 1 1 13479 20241120184400
+34.34.253.65 1 11 1356166 20241121041305
+3.141.194.0 1 1 13552 20241122061652
+52.12.85.253 1 1 0 20241121120631
+104.166.80.183 1 1 13479 20241119120249
+64.233.172.168 1 13 359258 20241119193801
+104.166.80.104 1 1 13477 20241121124720
+104.166.80.164 1 1 13480 20241119121704
+87.236.176.100 0 1 1568 
+82.64.198.149 0 1 1568 
+34.34.253.126 1 11 1356166 20241121033314
+104.166.80.72 1 1 13479 20241120004228
+35.93.141.120 1 1 13478 20241119131022
+64.233.172.170 1 5 146724 20241119193757
+3.139.101.130 1 1 13479 20241121152833
+107.172.179.170 1 10 298902 20241119225022
+107.172.179.231 1 10 298902 20241119225030
+192.175.111.246 1 1 54603 20241119132523
+104.166.80.196 1 1 13477 20241121124222
+34.34.253.240 1 11 1356166 20241120232135
+104.166.80.81 1 1 13479 20241121004838
+192.175.111.234 1 1 54603 20241119132520
+34.96.52.115 1 11 1356166 20241121033315
+206.168.34.35 1 3 16615 20241120090701
+87.236.176.167 0 1 1568 
+87.236.176.58 0 1 1568 
+192.175.111.253 1 1 54603 20241119132509
+87.236.176.146 1 1 13479 20241120175750
+87.236.176.18 1 1 13479 20241121014722
+107.172.166.204 1 29 1056283 20241119225030
+185.156.46.142 1 2 15047 20241119111645
+34.224.165.197 1 1 13479 20241119102630
+68.183.245.101 1 16 1118965 20241120021741
+87.236.176.87 0 1 1568 
+104.166.80.8 1 1 13553 20241122122958
+87.236.176.45 0 1 1568 
+51.75.141.254 1 17 1120533 20241120021740
+102.129.152.129 1 16 1118965 20241120021742
+206.168.34.203 1 3 16615 20241120105220
+104.166.80.28 1 1 13552 20241122020642
+192.175.111.237 1 2 56171 20241119132515
+37.19.221.168 1 2 15048 20241119121130
+178.128.174.215 1 2 15121 20241122123801
+104.166.80.149 1 1 13479 20241121004806
+104.166.80.241 1 1 13479 20241122020627
+87.236.176.168 0 1 1568 
+192.175.111.243 1 1 54603 20241119132517
+192.175.111.245 1 1 54603 20241119132530
+34.34.253.176 1 11 1356239 20241122031553
+64.233.173.194 1 1 13479 20241119193755
+87.236.176.212 0 1 1568 
+199.45.154.127 1 3 16615 20241120082711
+104.166.80.113 1 1 13479 20241120115145
+192.175.111.250 0 1 1568 
+104.166.80.147 1 1 13553 20241122123242
+64.15.129.119 1 1 54603 20241119132532
+192.175.111.239 0 1 1568 
+87.236.176.44 1 1 13479 20241121023646
+64.15.129.107 0 1 1568 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20241119 125 765 45065632 36
+20241120 33 208 13215090 19
+20241121 23 56 4167615 14
+20241122 16 27 1439102 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 1
+30s-2mn 7
+30mn-1h 1
+0s-30s 64
+5mn-15mn 1
+2mn-5mn 1
+1h+ 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 109 1785157 64 56
+/wp-cron.php 55 0 12 14
+/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 13 2910596 1 8
+/wp-admin/admin-ajax.php 12 192 0 0
+/wp-admin/upgrade.php 2 42 1 0
+/portfolio/ 1 11745 0 0
+/contact/ 1 11205 0 0
+/products/ 1 12835 0 0
+/wp-content/plugins/index.php 1 0 1 1
+/about/ 1 13642 0 0
+/wp-login.php 1 2829 0 0
+END_SIDER

@@ -1,0 +1,834 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202606 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.fizznfreeze.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2096                
+POS_TIME 2768                
+POS_VISITOR 18029               
+POS_DAY 19643               
+POS_DOMAIN 3427                
+POS_LOGIN 3775                
+POS_ROBOT 3930                
+POS_WORMS 4130                
+POS_EMAILSENDER 4261                
+POS_EMAILRECEIVER 4404                
+POS_SESSION 20203               
+POS_FILESIZE 20562               
+POS_REQUESTTIME 20704               
+POS_SIDER 20350               
+POS_FILETYPES 4539                
+POS_DOWNLOADS 4718                
+POS_OS 4766                
+POS_BROWSER 4892                
+POS_SCREENSIZE 5257                
+POS_UNKNOWNREFERER 5331                
+POS_UNKNOWNREFERERBROWSER 5761                
+POS_ORIGIN 5999                
+POS_SEREFERRALS 6133                
+POS_PAGEREFS 6277                
+POS_SEARCHWORDS 6425                
+POS_KEYWORDS 6577                
+POS_MISC 2431                
+POS_ERRORS 6636                
+POS_CLUSTER 3631                
+POS_SIDER_404 6776                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260701203524 1 0 8906043723669
+FirstTime 20260601000857
+LastTime 20260630224239
+LastUpdate 20260702191500 1 0 0 0 0
+TotalVisits 40                  
+TotalUnique 38                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 39                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 10 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 220659 563 658 214480
+1 0 0 0 32 37 2172
+2 2 3 151107 3 5 630
+3 2 2 184576 17 17 3879
+4 0 0 0 0 0 0
+5 2 3 207304 16 16 3636
+6 2 3 151103 4 4 1069
+7 8 76 3779636 4 5 845
+8 0 0 0 1 1 0
+9 1 2 115043 3 3 438
+10 1 2 115016 4 4 1067
+11 1 1 36071 1 2 209
+12 1 2 115026 2 3 615
+13 4 6 414636 31 34 7116
+14 3 3 220654 33 34 7273
+15 2 2 128519 2 3 857
+16 3 5 230078 5 5 1053
+17 1 1 36084 17 20 4367
+18 1 1 92288 19 20 76257
+19 3 5 322504 18 21 3885
+20 2 3 151086 2 3 418
+21 0 0 0 8 8 109684
+22 7 12 476891 27 27 5350
+23 0 0 0 2 2 36304
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 34 113 5810994
+ca 4 4 369464
+it 3 3 220650
+ro 2 2 184576
+pt 2 2 184576
+de 1 1 92288
+ir 1 1 0
+gb 1 2 115016
+bg 1 6 91775
+be 0 1 78942
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+checker 7 252584 20260613004430 0
+scanner 6 140053 20260602000449 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+Unknown 45 2431074 0 0
+png 6 253544 0 0
+js 37 1016907 0 0
+woff2 4 1620584 0 0
+svg 17 1342014 0 0
+css 26 484158 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+macosx 1 1
+win10 88 21
+linux 14 9
+Unknown 24 15
+macosx15 8 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+firefox149.0 2 2
+chrome135.0.0.0 1 1
+chrome136.0.0.0 1 1
+firefox126.0 1 1
+chrome78.0.3904.108 11 11
+chrome142.0.0.0 4 2
+chrome131.0.0.0 1 1
+chrome117.0.5938.132 72 6
+Unknown 4 4
+safari17.6 6 1
+chrome125.0.0.0 1 1
+chrome126.0.0.0 1 1
+mozilla 20 11
+firefox99.0 2 1
+firefox150.0 1 1
+firefox139.0 1 1
+firefox142.0 6 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260624221109
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260627203251
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260625051207
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260624221109
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 32 47
+From1 0 0
+From2 0 0
+From3 0 0
+From4 17 88
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+406 264 59664
+301 17 5006
+404 511 2485
+409 53 4399
+302 64 17413
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 485
+/var/task/amplify.yml 1 -
+/rest/executions 1 -
+/.gitlab/merge_request_templates 1 -
+/.git/info/exclude 1 -
+/.env.dev 1 -
+/payment/stripe.json 1 -
+/wp-json/wp/v2/users 1 -
+/app/amplify.yml 1 -
+/test 1 -
+/var/task/next.config.ts 1 -
+/src/app.js 1 -
+/docker/registry/config.yml 1 -
+/app/serverless.yaml 1 -
+/graphql 1 -
+/.git/FETCH_HEAD 1 -
+/s3.yml 1 -
+/DOCS.md 1 -
+/root/.s3cfg 1 -
+/appsettings.Test.json 1 -
+/.boto 1 -
+/root/.aws/credentials 1 -
+/.git/HEAD 6 -
+/server/config/common.js 1 -
+/webhook 1 -
+/config/constants.js 1 -
+/aws/ses/smtp.env 1 -
+/.env.save 1 -
+/.git/packed-refs 1 -
+/fr/* 1 -
+/s3.secret 1 -
+/api/node/config.js 1 -
+/.well-known/* 1 -
+/insta-compose.yml 1 -
+/Dockerfile 1 -
+/config/application.yml 2 http://fizznfreeze.idealgroups.org/
+/root/.netrc 1 -
+/docker-compose.yml 2 http://fizznfreeze.idealgroups.org/
+/app/terraform.tfstate 1 -
+/vercel.json 1 -
+/_next/data/*/*.json 1 -
+/.docker/secrets.json 1 -
+/.terraform.lock.hcl 1 -
+/.git-credentials 1 -
+/aws.properties 1 -
+/api/settings.py 1 -
+/notifications/* 1 -
+/config/config.js 1 -
+/chat 1 -
+/[workspace]/* 1 -
+/s3/bucket 1 -
+/projects/* 1 -
+/symfony/_profiler/phpinfo 1 -
+/editor/* 1 -
+/__nextjs_action/* 1 -
+/oauth/* 1 -
+/aws_credentials.ini 1 -
+/.env.docker 1 -
+/env 1 -
+/stripe.yaml 1 -
+/package-updates/index.cgi 1 -
+/.s3cfg 1 -
+/*/[slug] 1 -
+/staging/config/config.js 1 -
+/* 1 -
+/api/constant.js 1 -
+/constants.ini 1 -
+/root/.boto 1 -
+/api/credentials 1 -
+/.github/CODEOWNERS 1 -
+/package-updates/download.cgi 1 -
+/src/config/stripe.ts 1 -
+/config/secrets.yml 1 -
+/.git/hooks/pre-commit 1 -
+/backend/env.js 1 -
+/app/amplify.yaml 1 -
+/.vercel/functions/* 1 -
+/s3.yaml 1 -
+/proc/index.cgi 1 -
+/media/* 1 -
+/terraform/terraform.tfvars.json 1 -
+/.git/logs/refs/remotes/origin/master 1 -
+/app/next.config.js 1 -
+/elasticsearch.yml 1 -
+/var/task/vercel.json 1 -
+/API/common.js 1 -
+/_layouts/15/* 1 -
+/rest/workflows/run 1 -
+/[id] 1 -
+/.well-known/stripe.txt 1 -
+/src/FileUpload.js 1 -
+/config.rb 1 -
+/[[...optional]] 1 -
+/package-updates/perform.cgi 1 -
+/app/next.config.mjs 1 -
+/.github/dependabot.yml 1 -
+/server/env.js 1 -
+/package-updates/refresh.cgi 1 -
+/docker-cloud.yml 1 -
+/.git/config 8 http://fizznfreeze.idealgroups.org/
+/.git/refs/remotes/origin/HEAD 1 -
+/public/stripe.js 1 -
+/server/app.js 1 -
+/login/wp-includes/ID3/license.txt 5 -
+/.gitattributes 1 -
+/backend/config.js 1 -
+/.git/logs/refs/heads/master 1 -
+/rest/oauth2-credential/auth 1 -
+/config/constant.js 1 -
+/v1/* 1 -
+/elasticsearch_cluster_yml 1 -
+/app/docker-compose.yml 1 -
+/config/stripe.yaml 1 -
+/.env.docker.dev 1 -
+/var/task/next.config.js 1 -
+/api/webhook/* 1 -
+/composer.json 1 http://fizznfreeze.idealgroups.org/
+/stripe-credentials.json 1 -
+/blog 1 -
+/.env.example 1 -
+/rest/* 1 -
+/app/vercel.json 1 -
+/stripe.json 1 -
+/settings.yaml 1 -
+/.env.testing 1 -
+/config/environment.rb 1 -
+/credentials.json 1 -
+/_profiler/phpinfo 1 -
+/.github/workflows/main.yml 1 -
+/backend/node/constants.js 1 -
+/content/* 1 -
+/_next/data/*/index.json 1 -
+/api/constants.js 1 -
+/docs 1 -
+/api/v1/credentials 1 -
+/stripe.env 1 -
+/config/env.json 1 -
+/..%5c..%5c..%5c..%5c..%5c..%5cvar/log/apache2/access.log 1 -
+/var/task/amplify/backend/function/*/src/index.js 1 -
+/rest/users 1 -
+/healthz 1 -
+/config/environment.json 1 -
+/old/aws_config 1 -
+/var/task/serverless.json 1 -
+/configs/application.ini 1 -
+/software/update.cgi 1 -
+/.git/logs/refs/remotes/origin/main 1 -
+/config.js 2 http://fizznfreeze.idealgroups.org/
+/web/app.js 1 -
+/admin/* 1 -
+/[locale]/* 1 -
+/env.txt 1 -
+/backend/constant.js 1 -
+/root/.gitconfig 1 -
+/wp-json/gravitysmtp/v1/tests/mock-data 1 -
+/src/config/config.json 1 -
+/dashboard/* 1 -
+/api/* 1 -
+/metrics 1 -
+/.env.development 1 -
+/api/config/constants.js 1 -
+/rest/oauth1-credential/auth 1 -
+/[tenant]/* 1 -
+/aws.yml 1 -
+/myproject/settings.py 1 -
+/rest/credentials-for-node 1 -
+/app.yaml 1 -
+/software/*.cgi 1 -
+/sam-template.yaml 1 -
+/[...catchAll] 1 -
+/s3/backup 1 -
+/appsettings.Local.json 1 -
+/constant.js 1 -
+/.github/workflows 1 -
+/serverless.yml 1 -
+/package-updates/update.cgi 1 -
+/_react/data/* 1 -
+/env.js 1 -
+/.cache 1 -
+/staging/config/constants.js 1 -
+/app/netlify.toml 1 -
+/%2fbackend%2f.env 1 -
+/settings.ini 1 -
+/contact 1 -
+/console/* 1 -
+/apis/index.js 1 -
+/API.md 1 -
+/s3.properties 1 -
+/var/task/amplify.yaml 1 -
+/services/environments.ini 1 -
+/rest/tags 1 -
+/app/config/parameters.yml 2 http://fizznfreeze.idealgroups.org/
+/var/task/docker-compose.yml 1 -
+/.env.sample 1 -
+/.gitmodules 1 -
+/var/task/netlify.toml 1 -
+/Docker.md 1 -
+/.github/funding.yml 1 -
+/.git/COMMIT_EDITMSG 1 -
+/plugins/payments/stripe.json 1 -
+/app/.git/config 1 -
+/wp-content/debug.log 1 -
+/s3/credentials 1 -
+/.terraform.tfstate 1 -
+/settings/* 1 -
+/app/.terraform/terraform.tfstate 1 -
+/rest/logout 1 -
+/constants.yml 1 -
+/__debug 1 -
+/appsettings.QA.json 1 -
+/aws/buckets 1 -
+/backend/node/config.js 1 -
+/pages/* 1 -
+/api/env.js 1 -
+/software/install-updates.cgi 1 -
+/webhook-waiting/* 1 -
+/var/task/next.config.mjs 1 -
+/api/config/common.js 1 -
+/stripe/config.json 1 -
+/posts/* 1 -
+/s3/bucket.env 1 -
+/.aws/credentials 2 http://fizznfreeze.idealgroups.org/
+/NOTES.md 1 -
+/secrets.yaml 1 -
+/rest/settings 1 -
+/chat/* 1 -
+/backend/config/common.js 1 -
+/phpinfo 1 -
+/.well-known/acme-challenge/ 1 -
+/config/aws.json 1 -
+/API/config.js 1 -
+/profile/* 1 -
+/admin.html 1 -
+/package-updates/install.cgi 1 -
+/trpc/* 1 -
+/.env.config 1 -
+/backend/node/common.js 1 -
+/rest/license 1 -
+/orders/* 1 -
+/amplify/team-provider-info.json 1 -
+/.git/logs/HEAD 1 -
+/webmin/package-updates/update.cgi 1 -
+/API/config/constants.js 1 -
+/appsettings.Development.json 1 -
+/webhook-test/* 1 -
+/.well-known/acme-challenge/* 1 -
+/stripe-keys.json 1 -
+/rest/variables 1 -
+/deploy.sh 1 -
+/index.js 1 -
+/backend/node/constant.js 1 -
+/readme.md 1 -
+/.aws/config 1 -
+/prod/config.js 1 -
+/rest/credential-translation 1 -
+/rest/node-types 1 -
+/src/config/stripe.js 1 -
+/terraform.tfstate 1 -
+/_layouts/* 1 -
+/.env.dist 1 -
+/.terraform/credentials.tfrc.json 1 -
+/api/v1/executions 1 -
+/.git/logs/refs/heads/main 1 -
+/sysinfo.cgi 1 -
+/template.yaml 1 -
+/backend/constants.js 1 -
+/config.prod.ini 1 -
+/API/constants.js 1 -
+/app/.env.production 1 -
+/.github/workflows/ci.yml 1 -
+/config/server.js 1 -
+/config/stripe.json 1 -
+/.github/PULL_REQUEST_TEMPLATE.md 1 -
+/[slug] 1 -
+/publish/* 1 -
+/form 1 -
+/.env-sample 1 -
+/.env.prod 1 -
+/blog/[year]/[month]/[slug] 1 -
+/conf.yaml 1 -
+/.github 1 -
+/root/.git-credentials 1 -
+/src/env.js 1 -
+/env.rb 1 -
+/_waku/* 1 -
+/waku/* 1 -
+/%2f.aws%2fcredentials 1 -
+/.gitlab/issue_templates 1 -
+/api/users/* 1 -
+/%2f.env 1 -
+/config.yaml 1 -
+/src/config/common.js 1 -
+/v2/* 1 -
+/API/config/database.js 1 -
+/controller.js 1 -
+/app/config/development.ini 1 -
+/aws.env.json 1 -
+/api/serverless/* 1 -
+/API/config/common.js 1 -
+/staging/config.js 1 -
+/app.js 2 http://fizznfreeze.idealgroups.org/
+/_vercel/insights 1 -
+/.gitignore 1 -
+/.github/ISSUE_TEMPLATE 1 -
+/admin/config/constants.js 1 -
+/config/common.js 1 -
+/.env.live 1 -
+/aws/s3/env.env 1 -
+/package-updates/*.cgi 1 -
+/.env.test 1 -
+/webhooks/incoming/stripe.json 1 -
+/api/config.js 1 -
+/api/server.js 1 -
+/billing/* 1 -
+/env.json 1 -
+/env.yaml 1 -
+/.amplifyrc 1 -
+/credentials.csv 1 -
+/src/constants.js 1 -
+/workspaces/* 1 -
+/.gitconfig 1 http://fizznfreeze.idealgroups.org/
+/var/task/serverless.yml 1 -
+/api/auth/* 1 -
+/api/data/* 1 -
+/app/.env.local 1 -
+/_next/static/* 1 -
+/.env.qa 1 -
+/README.md 1 -
+/admin/config/common.js 1 -
+/about 1 -
+/aws.env 1 -
+/settings.json 1 -
+/user/* 1 -
+/credentials.js 1 -
+/settings.py 2 http://fizznfreeze.idealgroups.org/
+/appsettings.json 2 http://fizznfreeze.idealgroups.org/
+/api/node/constant.js 1 -
+/stripe.config.js 1 -
+/BackEnd/config.js 1 -
+/web/constant.js 1 -
+/.github/stale.yml 1 -
+/IAM.md 1 -
+/src/config/constants.js 1 -
+/app/nuxt.config.js 1 -
+/.git/refs/heads/master 1 -
+/s3/.aws/config 1 -
+/var/task/docker-compose.yaml 1 -
+/admin/.env 1 -
+/cms/* 1 -
+/staging/config/common.js 1 -
+/server.js 2 http://fizznfreeze.idealgroups.org/
+/config.json 1 -
+/_react/action/* 1 -
+/manage/* 1 -
+/server/config/constants.js 1 -
+/config/aws.ini 1 -
+/.git-askpass.sh 1 -
+/config/parameters.yml 2 http://fizznfreeze.idealgroups.org/
+/sendgrid.env 1 -
+/.env.local 1 -
+/.env-example 1 -
+/.gitlab-ci 1 -
+/aws/s3/credentials 1 -
+/config/env.js 1 -
+/api/v1/* 1 -
+/config/app.js 1 -
+/.git/description 1 -
+/config.env 1 -
+/aws/config/s3.json 1 -
+/.env.js 1 http://fizznfreeze.idealgroups.org/
+/.env.project 1 -
+/server/constant.js 1 -
+/integrations/* 1 -
+/admin/constants.js 1 -
+/docker/overlay/config.json 1 -
+/opt/mailcow-dockerized/mailcow.conf 1 -
+/appsettings.Production.json 1 -
+/.env.aws 1 -
+/.dockerignore 1 -
+/en/* 1 -
+/.gitlab-ci.yml 1 -
+/backend/config/constants.js 1 -
+/_vti_bin/* 1 -
+/.git/ORIG_HEAD 1 -
+/api/login 1 -
+/var/task/serverless.yaml 1 -
+/src/config/environment.json 1 -
+/aws.yaml 1 -
+/articles/* 1 -
+/config/utils.js 1 -
+/web/config/common.js 1 -
+/aws.json 1 -
+/app.yml 1 -
+/app/* 1 -
+/shop/[category]/* 1 -
+/credentials.go 1 -
+/config/aws.yml 1 -
+/.env-config.js 1 http://fizznfreeze.idealgroups.org/
+/s3/buckets 1 -
+/aws_s3_bucket 1 -
+/.git-secret 1 -
+/config/test.json 1 -
+/servers/link.cgi 1 -
+/web/env.js 1 -
+/.gitlab 1 -
+/signup 1 -
+/_next/data/*/about.json 1 -
+/wp_mail_smtp.ini 1 -
+/webhook/* 1 -
+/home/*/.git-credentials 1 -
+/servers/save.cgi 1 -
+/loaders/* 1 -
+/.git/refs/heads/main 1 -
+/var/task/nuxt.config.ts 1 -
+/credentials.ini 1 -
+/rest/login 1 -
+/terraform.tfvars 1 -
+/app/config/parameters.yml.dist 1 -
+/constants.json 1 -
+/aws/bucket 1 -
+/backend/index.js 1 -
+/constants.js 1 -
+/payment_gateways/stripe.yaml 1 -
+/api/node/common.js 1 -
+/admin/utils.js 1 -
+/root/.aws/config 1 -
+/config.yml 1 -
+/application.yml 1 http://fizznfreeze.idealgroups.org/
+/client/stripe.config.js 1 -
+/var/task/nuxt.config.js 1 -
+/compose.yaml 1 -
+/.env.production 1 -
+/web/constants.js 1 -
+/teams/* 1 -
+/.env.int 1 -
+/server/config.js 1 -
+/s3.key 1 -
+/payment/* 1 -
+/oauth/authorize 1 -
+/dnscfg.cgi 1 -
+/home/*/.netrc 1 -
+/products 1 -
+/app/serverless.yml 1 -
+/appsettings.Staging.json 1 -
+/rest/workflows 1 -
+/_api/* 1 -
+/api/node/constants.js 1 -
+/.git/index 1 -
+/aws/metadata 1 -
+/api/v1/workflows 1 -
+/aws_s3_config.json 1 -
+/attacker/docker-compose.yml 1 -
+/home/*/.gitconfig 1 -
+/form-test/* 1 -
+/package-updates/save.cgi 1 -
+/admin/config 1 -
+/.git/hooks/post-commit 1 -
+/actions/* 1 -
+/auth/* 1 -
+/form/* 1 -
+/admin/config/database.js 1 -
+/package-updates/apt.cgi 1 -
+/web/config/constants.js 1 -
+/messages/* 1 -
+/LOG.md 1 -
+/app/package.json 1 -
+/var/task/package.json 1 -
+/config/config.json 1 -
+/src/constant.js 1 -
+/__nextjs_action 1 -
+/admin/server.js 1 -
+/circle.yml 1 -
+/package-updates/yum.cgi 1 -
+/home/*/.aws/credentials 1 -
+/package-updates/* 1 -
+/*/[id] 1 -
+/.netlify/functions/* 1 -
+/threads/* 1 -
+/server/constants.js 1 -
+/aws-ses.json 1 -
+/.docker/config.json 1 -
+/admin/constant.js 1 -
+/api/common.js 1 -
+/serverless.yaml 1 -
+/dev/env.js 1 -
+/config.ts 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 39
+205.169.39.26 3 36 1774791 20260615073720
+205.169.39.12 3 36 1774767 20260615075706
+85.204.70.112 2 2 184576 20260618142155
+64.89.160.64 2 2 72145 20260625220217
+143.244.57.86 2 2 184576 20260628032138
+143.244.57.118 2 2 184576 20260605223151
+34.195.135.127 2 2 72167 20260630224239
+84.17.60.236 2 2 184576 20260618003122
+82.102.18.222 2 2 184576 20260610132408
+157.230.83.5 1 2 115053 20260616165738
+143.110.219.47 1 2 115025 20260608162806
+198.235.24.10 1 1 92288 20260624221109
+3.216.193.107 1 1 36091 20260603065520
+13.216.227.78 1 1 36097 20260630224239
+139.28.219.70 1 1 92288 20260609052424
+66.132.172.180 1 2 115019 20260605130648
+66.132.224.232 1 1 36093 20260618024852
+199.45.154.150 1 2 115046 20260610190532
+205.210.31.30 1 1 92444 20260623154659
+199.45.154.153 1 2 115014 20260613023555
+167.94.146.52 1 2 115013 20260627203250
+66.132.186.194 1 2 115014 20260604194425
+66.132.195.113 1 2 115041 20260603134732
+198.235.24.23 1 1 92288 20260613180603
+208.84.100.215 1 1 36075 20260606152908
+205.210.31.180 1 1 92444 20260606190303
+31.58.51.24 1 1 0 20260601165859
+167.172.132.60 1 2 115016 20260622100122
+87.236.176.251 0 1 78942 
+199.45.154.118 1 2 115040 20260625072833
+208.84.100.238 1 1 36083 20260601000857
+66.132.186.191 1 1 36071 20260620113450
+104.236.107.28 1 2 115043 20260602090558
+93.123.109.52 1 6 91775 20260607222356
+68.183.109.130 1 2 115038 20260630071832
+23.95.96.140 1 2 115012 20260626064242
+195.96.139.224 1 1 36074 20260625051205
+66.132.172.97 1 2 115026 20260605125126
+3.151.194.164 1 1 36078 20260615142317
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20260601 2 2 36083 2
+20260602 1 2 115043 1
+20260603 2 3 151132 2
+20260604 1 2 115014 1
+20260605 4 6 414621 3
+20260606 2 2 128519 2
+20260607 1 6 91775 1
+20260608 1 2 115025 1
+20260609 1 1 92288 1
+20260610 3 4 299622 2
+20260613 2 3 207302 2
+20260615 7 73 3585636 3
+20260616 1 2 115053 1
+20260618 5 5 405245 3
+20260620 1 1 36071 1
+20260622 1 2 115016 1
+20260623 2 2 128517 2
+20260624 1 1 92288 1
+20260625 3 5 266128 3
+20260626 1 2 115012 1
+20260627 1 2 115013 1
+20260628 3 3 220660 2
+20260630 3 4 187218 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 40
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/login 45 2431074 40 38
+/assets/vendor/fonts/tabler/tabler-icons.woff2 2 1404544 0 2
+/assets/vendor/fonts/fontawesome/fa-brands-400.woff2 2 216040 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+500-1K 15
+1K-2K 8
+44-100 53
+0-44 516
+2K-5K 4
+5K+ 120
+100-500 351
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

@@ -1,0 +1,414 @@
+/*************  About banner Section   **********/
+
+.about-banner {
+  background-image: url("../img/about_banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 300px;
+  position: relative;
+  .banner-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    left: 0;
+    right: 0;
+    position: absolute;
+    margin: auto;
+    .main-heading {
+      color: $white;
+      font-size: 70px;
+      font-weight: 700;
+      text-transform: uppercase;
+      @include media-breakpoint-down(lg) {
+        font-size: 45px;
+      }
+    }
+  }
+}
+
+/*************  About Us Section   **********/
+
+.about_us {
+  padding-top: 0;
+  .main-content {
+    background-color: $card-bg;
+    text-align: center;
+    padding: 100px 0;
+    @include media-breakpoint-down(md) {
+      padding: 50px 0;
+    }
+    .main-title {
+      margin-bottom: 20px;
+      @include media-breakpoint-down(md) {
+        margin-bottom: 10px;
+      }
+    }
+    p {
+      margin-bottom: 0;
+    }
+  }
+  .sub-content {
+    margin-top: 100px;
+    @include media-breakpoint-down(md) {
+      margin-top: 50px;
+    }
+    .content-info {
+      h4 {
+        font-size: 24px;
+        font-weight: 600;
+        color: $secondary;
+        margin-bottom: 20px;
+        @include media-breakpoint-down(md) {
+          font-size: 22px;
+          margin-bottom: 10px;
+        }
+      }
+      p {
+        color: $secondary;
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+
+/*************  WHO WE ARE Section   **********/
+.what-we {
+  background-color: $card-bg;
+  .content {
+    display: flex;
+    height: 100%;
+    padding-left: 15px;
+    @include media-breakpoint-down(lg) {
+      padding-top: 30px;
+      padding-left: 0;
+    }
+    .info-area {
+      margin: auto 0;
+      @include media-breakpoint-down(lg) {
+        padding-top: 30px;
+      }
+      @include media-breakpoint-down(md) {
+        padding-top: 0px;
+      }
+      .sub-title {
+        margin-bottom: 15px;
+        @include media-breakpoint-down(xl) {
+          margin-bottom: 10px;
+        }
+      }
+      .main-title {
+        margin-bottom: 15px;
+      }
+      .main-para {
+        color: $secondary;
+      }
+      p {
+        color: $gray-color;
+        line-height: 1.7;
+        margin-bottom: 15px;
+      }
+    }
+  }
+}
+
+/*************  WHY WE ARE Section   **********/
+
+.why-us {
+  background-image: url("../img/achivement-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  .title-area {
+    padding-bottom: 50px;
+    text-align: center;
+    @include media-breakpoint-down(md) {
+      padding-bottom: 30px;
+    }
+    p {
+      color: $white;
+      margin-bottom: 0;
+    }
+    .main-title {
+      color: $white;
+    }
+  }
+  .box {
+    padding: 50px 30px;
+    box-shadow: 0 0 25px rgba($white, 0.3) inset;
+    transition: 0.5s;
+    position: relative;
+    background: rgba($white, 0.4);
+    max-height: 230px;
+    overflow: hidden;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    z-index: 1;
+    @include media-breakpoint-down(xl) {
+      padding: 30px;
+    }
+    @include media-breakpoint-down(lg) {
+      padding: 20px;
+    }
+    &:hover {
+      padding: 30px 30px 70px 30px;
+      box-shadow: 0 0 25px rgba($white, 0.3) inset;
+      background-color: $white;
+      @include media-breakpoint-down(xl) {
+        padding: 30px;
+      }
+      @include media-breakpoint-down(lg) {
+        padding: 20px;
+      }
+    }
+    &:hover span,
+    &:hover h4 a,
+    &:hover p {
+      color: $primary;
+    }
+    span {
+      display: block;
+      font-size: 55px;
+      font-weight: 700;
+      color: $footer-bg;
+      position: absolute;
+      right: 10px;
+      top: 0px;
+      line-height: normal;
+      @include media-breakpoint-down(xl) {
+        font-size: 35px;
+      }
+    }
+    h4 {
+      a {
+        font-size: 24px;
+        font-weight: 600;
+        padding: 0;
+        margin: 10px 0;
+        color: $footer-bg;
+        text-decoration: none;
+        @include media-breakpoint-down(xl) {
+          font-size: 20px;
+        }
+      }
+    }
+    p {
+      color: $footer-bg;
+      font-size: 16px;
+      margin: 0;
+      padding: 0;
+      height: 100px;
+      overflow: hidden;
+      -o-text-overflow: ellipsis;
+      text-overflow: ellipsis;
+      white-space: initial;
+      display: -webkit-box;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical;
+    }
+  }
+}
+
+/*************  Team Section   **********/
+
+.team {
+  @include media-breakpoint-down(md) {
+    padding-bottom: 80px;
+  }
+  .title-area {
+    padding-bottom: 50px;
+    text-align: center;
+    @include media-breakpoint-down(md) {
+      padding-bottom: 30px;
+    }
+    p {
+      color: $secondary;
+      margin-bottom: 0;
+    }
+  }
+  .img-card-slider {
+    .owl-item {
+      &.center {
+        .card {
+          background-color: $blue-color;
+        }
+        .card-info {
+          p {
+            color: $white;
+          }
+          h6 {
+            color: $white;
+          }
+        }
+      }
+    }
+    .card {
+      background-color: $card-bg;
+      border: 0;
+      .card-info {
+        padding: 30px;
+        text-align: center;
+        @include media-breakpoint-down(xl) {
+          padding: 20px;
+        }
+        h6 {
+          font-size: 22px;
+          font-weight: 600;
+          color: $secondary;
+          min-height: 30px;
+          overflow: hidden;
+          -o-text-overflow: ellipsis;
+          text-overflow: ellipsis;
+          white-space: initial;
+          display: -webkit-box;
+          -webkit-line-clamp: 1;
+          -webkit-box-orient: vertical;
+          margin-bottom: 0;
+          @include media-breakpoint-down(xl) {
+            font-size: 18px;
+          }
+        }
+      }
+    }
+  }
+  .owl-nav > button {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    color: $primary !important;
+    transition: all 0.15s ease-in-out;
+    @media only screen and (max-width: $desktop-1280) {
+      top: initial;
+      bottom: -50px;
+    }
+    @media only screen and (max-width: $desktop-1280) {
+    }
+    &:hover {
+      color: $blue-color !important;
+    }
+    i {
+      font-size: 30px;
+    }
+
+    &.owl-prev {
+      left: -5%;
+      @media only screen and (max-width: $desktop-1440) {
+        left: -2.5%;
+      }
+      @media only screen and (max-width: $desktop-1280) {
+        left: 45%;
+      }
+      @include media-breakpoint-down(md) {
+        left: 35%;
+      }
+    }
+
+    &.owl-next {
+      right: -5%;
+      @media only screen and (max-width: $desktop-1440) {
+        right: -2.5%;
+      }
+      @media only screen and (max-width: $desktop-1280) {
+        right: 45%;
+      }
+      @include media-breakpoint-down(md) {
+        right: 35%;
+      }
+    }
+  }
+}
+
+/*************  Career Section   **********/
+
+.career {
+  padding-top: 0;
+  .title-area {
+    padding-bottom: 50px;
+    text-align: center;
+    @include media-breakpoint-down(md) {
+      padding-bottom: 30px;
+    }
+    p {
+      color: $secondary;
+      margin-bottom: 0;
+    }
+  }
+  .accordion {
+    .accordion-item {
+      .accordion-button {
+        font-size: 16px;
+        font-weight: 600;
+        color: $primary;
+        padding: 15px 30px;
+        @include media-breakpoint-down(md) {
+          padding: 10px 15px;
+          font-size: 14px;
+        }
+        &:focus {
+          border-color: $blue-color;
+          outline: 0;
+          box-shadow: none;
+        }
+      }
+      .accordion-body {
+        padding: 15px;
+        @include media-breakpoint-down(md) {
+          padding: 10px;
+        }
+        p {
+          font-size: 16px;
+          color: $secondary;
+          margin-bottom: 10px;
+          &:last-child {
+            margin-bottom: 20px;
+          }
+        }
+        ul {
+          li {
+            position: relative;
+            padding-left: 25px;
+            font-size: 16px;
+            color: $secondary;
+            margin-bottom: 15px;
+            @include media-breakpoint-down(md) {
+              margin-bottom: 10px;
+            }
+            &:last-child {
+              margin-bottom: 0;
+            }
+            &::before {
+              content: "";
+              position: absolute;
+              left: 0;
+              top: 0;
+              bottom: 0;
+              margin: auto;
+              width: 10px;
+              height: 10px;
+              border-radius: 50px;
+              background-color: $primary;
+            }
+          }
+        }
+        .btn-apply {
+          line-height: 1.6;
+          margin-left: auto;
+          width: 120px;
+        }
+      }
+    }
+  }
+}
+
+.newslatter {
+  .btn-stay {
+    background-color: $blue-color;
+    border-color: $blue-color;
+    &:hover {
+      background-color: transparent;
+      border-color: $white;
+    }
+  }
+}

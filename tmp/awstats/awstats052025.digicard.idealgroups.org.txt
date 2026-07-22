@@ -1,0 +1,921 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202505 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2056                
+POS_TIME 2739                
+POS_VISITOR 21592               
+POS_DAY 26743               
+POS_DOMAIN 3485                
+POS_LOGIN 3912                
+POS_ROBOT 4067                
+POS_WORMS 4237                
+POS_EMAILSENDER 4368                
+POS_EMAILRECEIVER 4511                
+POS_SESSION 27442               
+POS_FILESIZE 27798               
+POS_SIDER 27600               
+POS_FILETYPES 4646                
+POS_DOWNLOADS 4786                
+POS_OS 4874                
+POS_BROWSER 5039                
+POS_SCREENSIZE 5672                
+POS_UNKNOWNREFERER 5746                
+POS_UNKNOWNREFERERBROWSER 6383                
+POS_ORIGIN 6828                
+POS_SEREFERRALS 6962                
+POS_PAGEREFS 7146                
+POS_SEARCHWORDS 7294                
+POS_KEYWORDS 7446                
+POS_MISC 2403                
+POS_ERRORS 7505                
+POS_CLUSTER 3768                
+POS_SIDER_404 7673                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250601005544 589 137870 14198415829666
+FirstTime 20250501084510
+LastTime 20250531154802
+LastUpdate 20250601183348 589 0 588 0 0
+TotalVisits 152                 
+TotalUnique 136                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 136                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 6302 5 5 421906
+1 9 9 7349 877 878 699908
+2 5 5 5240 8 8 8569
+3 8 8 8546 769 770 204149
+4 11 12 73799110 107 118 156163
+5 7 7 6287 529 534 199513
+6 3 3 3146 20 20 406530
+7 7 7 9617 41 43 37761
+8 8 9 73791432 99 112 155302
+9 6 6 13079 32 32 12124
+10 13 13 29461 92 92 31429
+11 9 9 9450 1342 1350 665174
+12 9 9 10634 1189 1193 1366187
+13 7 7 7343 17 21 14195
+14 6 6 10814 57 62 35963
+15 8 8 8393 31 35 16809
+16 5 6 73788271 106 117 158009
+17 8 8 8400 0 0 0
+18 14 15 73811283 132 142 161314
+19 5 5 5252 948 948 263982
+20 5 5 9759 34 35 10455
+21 11 11 20577 614 618 514269
+22 5 5 5240 9 9 1033
+23 6 6 5255 13 13 4010
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+ca 97 97 110901
+us 45 45 87114
+sc 18 22 295151023
+zz 3 3 3128
+th 2 2 6624
+cn 2 2 4349
+be 2 2 1048
+in 2 2 2086
+ru 2 2 2119
+nl 1 1 1050
+ma 1 1 1043
+gb 1 1 3308
+cz 1 1 1041
+za 1 1 3316
+pk 1 1 1040
+kz 1 1 0
+pa 1 1 1050
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 3 9932 20250531030849 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+json 8 10008 0 0
+log 4 295133728 0 0
+html 164 230251 0 0
+Unknown 9 6253 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/storage/logs/laravel.log 4 0 295133728
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+win7 4 4
+macosx 1 1
+Unknown 8 8
+win10 157 153
+linuxubuntu 1 1
+psp 1 1
+androidnougat 2 2
+linux 11 11
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 28
+firefox24.0 1 1
+chrome40.0.2214.89 1 1
+chrome71.0.2623.112 1 1
+chrome60.0.3112.107 2 2
+chrome70.0.3538.77 1 1
+chrome117.0.5938.132 1 1
+chrome63.0.3239.132 3 3
+chrome79.0.3945.130 1 1
+msie10.0 1 1
+chrome95.0.4638.69 4 4
+chrome121.0.0.0 3 3
+chrome89.0.4389.114 3 3
+firefox79.0 1 1
+chrome91.0.4472.124 27 23
+chrome114.0.0.0 93 93
+firefox45.0 1 1
+Unknown 3 3
+netscape5.0 1 1
+chrome58.0.3029.110 1 1
+chrome135.0.0.0 9 9
+chrome78.0.3904.108 5 5
+chrome104.0.0.0 1 1
+chrome126.0.0.0 1 1
+firefox136.0 1 1
+chrome69.0.3497.100 1 1
+chrome81.0.4044.129 1 1
+chrome80.0.3987.149 12 12
+mozilla 5 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+python-httpx/0.25.2 20250512073119
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250511153009
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250516174857
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250530144218
+Python/3.11_aiohttp/3.11.11 20250524050321
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250530144218
+Python/3.11_aiohttp/3.11.11 20250524050321
+python-httpx/0.25.2 20250512073119
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 85 89
+From1 1 1
+From2 2 2
+From3 0 0
+From4 93 93
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_co_in 1 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+301 2621 684629
+403 77 37367
+406 1103 249052
+405 4 1619383
+404 1074 2756396
+409 2265 187995
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 443
+/test/.env.staging 2 -
+/cgi-bin/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wso.php 1 -
+/js/fileman/index.html 1 -
+/stage.env 4 -
+/config/production.json 5 -
+/var/logs/dev.log 4 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/production/.env.local 2 -
+/.well-known/acme-challenge/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/old/alfacgiapi/perl.alfa 2 -
+/current/.env.production 2 -
+/admin/.env.local 2 -
+/settings.py 1 -
+/backup/.env.staging 2 -
+/wp-content/plugins/alfacgiapi/bash.alfa 2 -
+/portal/.env.local 2 -
+/secrets/aws_ses.env 1 -
+/.git/logs 4 -
+/old/alfacgiapi/py.alfa 2 -
+/wp-content/upgrade/alfacgiapi/py.alfa 2 -
+/cgi-bin/alfacgiapi/perl.alfa 2 -
+/wp-content/alfacgiapi/perl.alfa 2 -
+/src/config.js 5 -
+/storage/.env.local 2 -
+/demo/.env.production 2 -
+/nova-api/styles 4 -
+/assets/alfacgiapi/py.alfa 2 -
+/logs/aws/ses.log 1 -
+/wp-content/updraft/alfacgiapi/perl.alfa 2 -
+/var/spool/mail/smtp_auth 2 -
+/settings/staging.env 2 -
+/develop/.env.staging 2 -
+/old/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/backend/.env.local 2 -
+/opt/postfix/smtp.conf 2 -
+/wp/alfacgiapi/py.alfa 2 -
+/aws/credentials 3 -
+/credentials.env 4 -
+/wp-content/plugins/library/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp-content/updraft/alfacgiapi/bash.alfa 2 -
+/assets/uploads/alfacgiapi/py.alfa 2 -
+/settings/production.env 2 -
+/old/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/website/.env.staging 2 -
+/usr/local/etc/mail.conf 2 -
+/assets/editor/fileman/dev.html 1 -
+/new/alfacgiapi/py.alfa 2 -
+/.env.prod 3 -
+/.well-known/acme-challenge/alfacgiapi/bash.alfa 2 -
+/.quarantine/alfacgiapi/py.alfa 2 -
+/client/.env.staging 2 -
+/images/alfacgiapi/bash.alfa 2 -
+/usr/local/etc/postfix/smtp_auth 2 -
+/wp-content/upgrade/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/ss.php 1 -
+/wp-includes/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/app/.env.staging 2 -
+/opt/aws/sns.env 1 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp-content/themes/alfacgiapi/bash.alfa 2 -
+/helm/values.yaml 5 -
+/images/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/server/.env.production 2 -
+/live/.env.staging 2 -
+/kyc/.env.staging 2 -
+/wp-content/updraft/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/upload/alfacgiapi/perl.alfa 2 -
+/lib/fileman/index.html 1 -
+/prod/.env.staging 2 -
+/public_html/.env.local 2 -
+/var/mail/smtp.conf 2 -
+/config/local.yml 1 -
+/assets/uploads/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/config/secrets.json 5 -
+/new/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/cgi-bin/alfacgiapi/bash.alfa 2 -
+/apis/.env.production 2 -
+/wp-includes/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/api/config.json 4 -
+/project/.env.staging 2 -
+/components/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/ALFA_DATA/alfacgiapi/perl.alfa 7 -
+/app/.env.local 2 -
+/staging/.env.staging 2 -
+/wp-content/upgrade/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/crm/.env.production 2 -
+/uploads/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/upload/alfacgiapi/bash.alfa 2 -
+/wp-mails.ph 1 -
+/.dockerignore 4 -
+/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/py.alfa 2 -
+/.well-known/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/assets/upload/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/cgi-bin/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/settings/local.env 2 -
+/.git/objects 4 -
+/var/log/exception.log 4 -
+/kyc/.env.local 2 -
+/config.js 6 -
+/cgi-bin/alfacgiapi/py.alfa 2 -
+/new/.env.local 2 -
+/wordpress/alfacgiapi/bash.alfa 2 -
+/node/.env.example 1 -
+/.env.local 7 -
+/docker-compose.yml 3 -
+/.well-known/alfacgiapi/py.alfa 2 -
+/old/.env.staging 2 -
+/assets/alfacgiapi/perl.alfa 2 -
+/current/.env.staging 2 -
+/wp-content/themes/alfacgiapi/py.alfa 2 -
+/dev/.env.production 2 -
+/usr/local/etc/smtp.conf 2 -
+/assets/alfacgiapi/bash.alfa 2 -
+/uploads/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/.git/packed-refs 4 -
+/cron/.env.production 2 -
+/upload/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/wp-content 2 -
+/.well-known/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/app.js 4 -
+/wp-admin/css 4 binance.com
+/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/bash.alfa 2 -
+/prod/.env.local 2 -
+/config/database.yml 5 -
+/fileman/dev.html 1 -
+/new/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/public_html/.env.production 2 -
+/.git-credentials 1 -
+/live/.env.local 2 -
+/api-docs 4 -
+/secure-config.json 5 -
+/blog/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/.quarantine/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/client/.env.local 2 -
+/application.properties 1 -
+/new/.env.staging 2 -
+/.tmb/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/old/.env.local 2 -
+/settings.yaml 5 -
+/develop/.env.production 2 -
+/settings/test.env 2 -
+/var/mail/.email_settings 2 -
+/admin/fileman/dev.html 1 -
+/.quarantine/alfacgiapi/bash.alfa 2 -
+/.well-known/security.txt 4 -
+/wp-content/upgrade/alfacgiapi/bash.alfa 2 -
+/wp-content/plugins/library/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/assets/uploads/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/.env.save 4 -
+/.git/HEAD 15 -
+/backup/alfacgiapi/perl.alfa 2 -
+/openapi.json 4 -
+/website/.env.production 2 -
+/wp-content/plugins/library/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/wp-content/themes/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/uploads/alfacgiapi/bash.alfa 2 -
+/.quarantine/alfacgiapi/perl.alfa 2 -
+/wp/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/market/.env.production 2 -
+/.aws/config 1 -
+/config/default.json 5 -
+/stg/.env.local 2 -
+/service/.env.local 2 -
+/web/.env.production 2 -
+/wp-content/themes/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/public_html/.env.staging 2 -
+/.env.test 6 -
+/test/.env.local 2 -
+/xampp/.env.production 2 -
+/product/.env.local 2 -
+/wp-content/plugins/library/alfacgiapi/py.alfa 2 -
+/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/portal/.env.staging 2 -
+/backup/.env.local 2 -
+/.well-known/pki-validation/ 10 -
+/new/alfacgiapi/bash.alfa 2 -
+/services/config.env 2 -
+/.well-known/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/sites/all/modules 4 -
+/admin/.env.staging 2 -
+/assets/upload/alfacgiapi/py.alfa 2 -
+/Dockerfile 4 -
+/yarn.lock 4 -
+/wp-content/upgrade/alfacgiapi/perl.alfa 2 -
+/marketing/.env.production 2 -
+/app/etc/local.xml 4 -
+/wp-admin/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/.env.test.local 2 -
+/stg/.env.staging 2 -
+/usr/local/php/php.ini 2 -
+/wp-content/updraft/alfacgiapi/py.alfa 2 -
+/project/.env.production 2 -
+/admin.php 1 -
+/.well-known/acme-challenge/alfacgiapi/perl.alfa 2 -
+/js/fileman/dev.html 1 -
+/staging/.env.production 2 -
+/development/.env.staging 2 -
+/shop/.env.production 2 -
+/wp-admin 1 -
+/api/.env.production 2 -
+/images/alfacgiapi/perl.alfa 2 -
+/production/.env.production 2 -
+/wp-content/themes/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/lib/fileman/dev.html 1 -
+/swagger.json 4 -
+/backup/alfacgiapi/py.alfa 2 -
+/randkeyword.PhP7 7 -
+/wp-content/uploads/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/assets/uploads/alfacgiapi/perl.alfa 2 -
+/upload/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/project/.env.local 2 -
+/qa/.env.production 2 -
+/crm/.env.local 2 -
+/components/alfacgiapi/perl.alfa 2 -
+/app/.env.production 2 -
+/uploads/alfacgiapi/perl.alfa 2 -
+/phpinfo 4 -
+/staging/.env.local 2 -
+/cron/.env.staging 2 -
+/backup.env 5 -
+/new/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/blog/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/root/.msmtprc 2 -
+/production/.env.staging 2 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/root/.email_config 2 -
+/env.js 4 -
+/index.html 1 -
+/wp-content/uploads/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/kyc/.env.production 2 -
+/.svn/entries 4 -
+/ads.txt 5 -
+/api/credentials 5 -
+/ioxi002.PhP7 1 -
+/home/username/.smtp_config 2 -
+/assets/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/server/.env.local 2 -
+/sendgrid.env 2 -
+/backup/alfacgiapi/bash.alfa 2 -
+/assets/upload/alfacgiapi/bash.alfa 2 -
+/apis/.env.local 2 -
+/usr/local/etc/php/php.ini 2 -
+/crm/.env.staging 2 -
+/wp-content/alfacgiapi/py.alfa 2 -
+/service/.env.production 2 -
+/js/script.js 1 -
+/opt/aws/ses.env 1 -
+/opt/lampp/etc/php.ini 2 -
+/fileman/index.html 1 -
+/wordpress/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/product/.env.production 2 -
+/market/.env.staging 2 -
+/images/alfacgiapi/py.alfa 2 -
+/backup/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/config/storage.yml 1 -
+/wp-content/debug.log 4 -
+/wordpress/alfacgiapi/py.alfa 2 -
+/usr/local/mail/smtp.config 2 -
+/.env.stage 3 -
+/srv/exim4/configure 2 -
+/.envs 2 -
+/wp-content/alfacgiapi/bash.alfa 2 -
+/wp-content/plugins/alfacgiapi/py.alfa 2 -
+/.tmb/alfacgiapi/perl.alfa 2 -
+/wp/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/assets/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/wp-includes/js/wp-emoji-release.min.js 1 www.google.com
+/blog/alfacgiapi/bash.alfa 2 -
+/user/.env.local 2 -
+/old/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp/alfacgiapi/perl.alfa 2 -
+/develop/.env.local 2 -
+/thoms.php 1 www.google.com
+/wp-content/plugins/library/alfacgiapi/perl.alfa 2 -
+/usr/local/lib/php.ini 2 -
+/.circleci/configs/development.yml 1 -
+/wp-content/updraft/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/storage/.env.staging 2 -
+/.well-known/acme-challenge/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/media/system/js/core.js 8 -
+/retu11.PhP7 2 -
+/randkeyword.PhP8 1 -
+/website/.env.local 2 -
+/swagger-ui.html 4 -
+/prod.env 4 -
+/wordpress/alfacgiapi/perl.alfa 2 -
+/backend/.env.staging 2 -
+/wp-content/plugins/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/perl.alfa 2 -
+/wp-admin/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/.tmb/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/.AWS_/credentials 1 -
+/portal/.env.production 2 -
+/blog/alfacgiapi/perl.alfa 2 -
+/.quarantine/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/chosen.php 1 -
+/services/.env.local 2 -
+/images/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/assets/upload/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp-content/plugins/alfacgiapi/perl.alfa 2 -
+/wp-includes/ID3/license.txt 4 -
+/config.json 1 -
+/demo/.env.local 2 -
+/sites/all/themes 4 -
+/shop/.env.staging 2 -
+/services/.env.staging 2 -
+/.tmb/alfacgiapi/py.alfa 2 -
+/env.txt 4 -
+/opt/bitnami/php/etc/php.ini 2 -
+/config.env 2 -
+/backup/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/wp-includes/ID3 5 -
+/xampp/.env.local 2 -
+/.git/refs 4 -
+/assets/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/alfacgiapi/perl.alfa 3 www.google.com
+/backup/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/database.json 5 -
+/.env.dev 6 -
+/upload/alfacgiapi/py.alfa 2 -
+/old/alfacgiapi/bash.alfa 2 -
+/api/.env.local 2 -
+/.git/logs/HEAD 4 -
+/local_settings.py 5 -
+/test/.env.production 2 -
+/user/.env.staging 2 -
+/components/alfacgiapi/bash.alfa 2 -
+/blog/alfacgiapi/py.alfa 2 -
+/upload/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/assets/upload/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/.tmb/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/.environment 2 -
+/web/.env.staging 2 -
+/wp-content/updraft/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/var/logs/prod.log 4 -
+/.env.docker.dev 2 -
+/qa/.env.local 2 -
+/db.ini 5 -
+/admin/.env 4 -
+/.quarantine/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/uploads/alfacgiapi/py.alfa 2 -
+/wp-content/upgrade/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/.aws/credentials 8 -
+/wp-admin/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/blog/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/wordpress/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/backup/.env.production 2 -
+/shop/.env.local 2 -
+/demo/.env.staging 2 -
+/components/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/marketing/.env.staging 2 -
+/product/.env.staging 2 -
+/b374k.php 1 -
+/.well-known/pki-validation/alfacgiapi/perl.alfa 2 -
+/api/.env.staging 2 -
+/wp-content/themes/alfacgiapi/perl.alfa 2 -
+/new/alfacgiapi/perl.alfa 2 -
+/.env.development.local 2 -
+/xampp/.env.staging 2 -
+/cgi-bin/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/stg/.env.production 2 -
+/images/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/service/.env.staging 2 -
+/.envrc 2 -
+/.git/index 4 -
+/web/.env.local 2 -
+/.well-known/pki-validation/alfacgiapi/bash.alfa 2 -
+/wp-includes/alfacgiapi/perl.alfa 2 -
+/.git/config 9 -
+/development/.env.production 2 -
+/.npmrc 4 -
+/var/spool/exim/configure 2 -
+/wp-includes/alfacgiapi/py.alfa 2 -
+/admin/fileman/index.html 1 -
+/.env.staging 2 -
+/alfacgiapi/py.alfa 2 -
+/admin/.env.production 2 -
+/baxa1.phP8 5 -
+/.well-known/pki-validation/alfacgiapi/py.alfa 2 -
+/.tmb/alfacgiapi/bash.alfa 2 -
+/auth.json 5 -
+/root/.smtp_auth 2 -
+/about.php 1 -
+/secrets.json 5 -
+/.git/branches 4 -
+/.env.production 7 -
+/dev/.env.staging 2 -
+/server/.env.staging 2 -
+/.env.dist 2 -
+/services/.env.production 2 -
+/cron/.env.local 2 -
+/storage/.env.production 2 -
+/wp-content/plugins/library/alfacgiapi/bash.alfa 2 -
+/.well-known/alfacgiapi/bash.alfa 2 -
+/server.js 4 -
+/pgs.phP7 5 -
+/old/.env.production 2 -
+/1975.phP 1 www.google.com
+/wp-content/plugins/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/backend/.env.production 2 -
+/live/.env.production 2 -
+/wp/alfacgiapi/bash.alfa 2 -
+/client/.env.production 2 -
+/css/index.php 1 -
+/docker-compose.override.yml 2 -
+/api/config.env 1 -
+/prod/.env.production 2 -
+/wp-content/uploads/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp-content/plugins/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/uploads/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/config/packages 4 -
+/.well-known/acme-challenge/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/development.env 4 -
+/dev/.env.local 2 -
+/wordpress/wp-admin/includes 5 -
+/wp-includes/js/jquery/jquery.js 8 -
+/wp-includes/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/qa/.env.staging 2 -
+/.well-known/alfacgiapi/perl.alfa 2 -
+/assets/uploads/alfacgiapi/bash.alfa 2 -
+/wp/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/components/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/wp-includes/alfacgiapi/bash.alfa 2 -
+//wp-includes/js/tinymce/skins/lightgray/img/index.php 2 www.google.com
+/alfacgiapi/bash.alfa 2 -
+/assets/uploads/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/.env.production.local 3 -
+/new/.env.production 2 -
+/wordpress/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/marketing/.env.local 2 -
+/current/.env.local 2 -
+/components/alfacgiapi/py.alfa 2 -
+/apis/.env.staging 2 -
+/market/.env.local 2 -
+/development/.env.local 2 -
+/baxa1.phP7 5 -
+/assets/upload/alfacgiapi/perl.alfa 2 -
+/_profiler/phpinfo 2 -
+/assets/editor/fileman/index.html 1 -
+/staging.env 4 -
+/.well-known/acme-challenge/alfacgiapi/py.alfa 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 136
+107.151.208.83 6 6 19848 20250516184338
+154.83.103.202 4 5 73787230 20250505162212
+154.83.103.201 4 5 73787230 20250507081543
+154.83.103.107 4 5 73787230 20250508041618
+154.83.103.204 4 5 73787230 20250510181832
+198.44.189.11 3 3 9924 20250504181152
+100.27.214.3 3 3 6616 20250514104457
+159.89.207.69 3 3 9924 20250518121920
+18.141.186.178 3 3 9924 20250513211354
+198.44.191.118 3 3 9924 20250508105021
+47.79.123.171 3 3 3146 20250525044932
+52.221.199.45 2 2 6616 20250511203058
+47.79.98.246 2 2 2100 20250523194913
+47.79.1.203 2 2 2101 20250526142108
+47.82.60.76 2 2 2100 20250516183633
+47.82.61.241 2 2 2100 20250523170535
+115.231.78.15 2 2 4349 20250516034522
+47.82.60.49 2 2 2096 20250520135532
+47.82.61.40 2 2 2098 20250519004130
+185.177.72.202 2 2 2119 20250530073244
+34.10.151.2 2 2 2093 20250513031314
+47.82.61.49 2 2 2102 20250519195127
+47.82.60.132 2 2 2099 20250527024221
+23.27.110.52 2 2 0 20250508015203
+23.27.110.54 2 2 0 20250507031226
+47.82.60.53 1 1 1051 20250522003624
+47.82.60.118 1 1 1049 20250518050354
+47.82.60.70 1 1 1051 20250517145247
+203.159.81.28 1 1 3316 20250515045639
+47.82.61.109 1 1 1052 20250521234337
+47.79.118.217 1 1 1046 20250525003249
+205.169.39.13 1 1 1048 20250512154051
+47.79.5.178 1 1 1052 20250528031155
+47.82.61.95 1 1 1053 20250522174404
+47.82.60.30 1 1 1050 20250522020715
+47.82.60.51 1 1 1049 20250524172629
+47.82.60.69 1 1 1052 20250524034352
+47.82.60.84 1 1 1051 20250517001530
+47.82.60.177 1 1 1051 20250516211346
+47.82.60.6 1 1 1050 20250527222608
+159.223.212.185 1 1 1051 20250529122052
+47.82.61.130 1 1 1051 20250516153856
+47.82.60.142 1 1 1050 20250527104810
+47.82.60.83 1 1 1051 20250527041618
+47.79.123.148 1 1 1050 20250519013717
+179.43.149.114 1 1 1050 20250519125752
+47.82.60.43 1 1 1049 20250528013547
+167.94.138.171 1 1 1040 20250504121424
+47.82.62.27 1 1 1051 20250522190600
+47.82.60.133 1 1 1049 20250517184205
+47.82.60.8 1 1 1052 20250523122439
+47.82.61.28 1 1 1048 20250521213330
+47.79.122.22 1 1 1051 20250516020110
+47.82.60.67 1 1 1050 20250527014302
+47.79.5.167 1 1 1053 20250517171306
+154.83.103.104 1 1 1053 20250513231018
+47.82.60.13 1 1 1048 20250522210342
+140.245.35.223 1 1 3308 20250525075943
+47.82.61.50 1 1 1050 20250521170956
+47.82.61.73 1 1 1050 20250523011606
+196.251.118.209 1 1 3316 20250522105754
+119.156.228.177 1 1 1040 20250512073119
+47.82.60.237 1 1 1049 20250523224457
+206.81.2.228 1 1 1052 20250507072446
+159.223.15.216 1 1 1041 20250517165645
+47.82.60.32 1 1 1051 20250518212815
+47.82.60.155 1 1 1047 20250524065026
+206.168.34.43 1 1 1051 20250501084510
+47.82.61.182 1 1 1049 20250526080646
+47.79.7.122 1 1 1051 20250522081142
+57.180.45.73 1 1 0 20250521053922
+47.82.60.29 1 1 1048 20250519140021
+47.82.60.217 1 1 1051 20250517015714
+188.166.166.207 1 1 1050 20250531122408
+47.82.60.2 1 1 1051 20250520063205
+154.83.103.115 1 1 1050 20250502155239
+47.82.60.241 1 1 1051 20250520015307
+47.79.121.70 1 1 1048 20250518171650
+5.62.56.249 1 1 3308 20250514104458
+54.162.151.246 1 1 1044 20250507220908
+5.253.205.222 1 1 0 20250531125031
+47.82.60.111 1 1 1052 20250527000129
+47.82.61.56 1 1 1050 20250516110545
+64.227.159.214 1 1 1048 20250507140249
+162.142.125.216 1 1 1044 20250511153009
+47.82.60.228 1 1 1046 20250522132132
+47.82.60.123 1 1 1048 20250527054838
+170.39.218.59 1 1 1040 20250517021955
+161.35.233.167 1 1 1042 20250503201445
+170.39.218.60 1 1 1047 20250518210447
+44.197.216.89 1 1 1051 20250517114744
+47.82.60.140 1 1 1051 20250524214947
+87.236.176.112 1 1 1048 20250516174857
+209.97.135.49 1 1 1048 20250503132730
+47.82.61.132 1 1 1051 20250522151750
+164.92.102.168 1 1 1044 20250531154802
+47.82.60.230 1 1 1050 20250522233441
+47.82.61.91 1 1 1052 20250523074115
+47.82.61.192 1 1 1053 20250521180439
+3.249.245.170 1 1 1050 20250515053215
+47.82.61.8 1 1 1051 20250520103445
+47.82.61.151 1 1 1049 20250521190458
+47.82.60.210 1 1 1051 20250515152352
+47.82.60.231 1 1 1052 20250527132624
+47.82.61.93 1 1 1053 20250523104806
+47.82.60.141 1 1 1046 20250527073319
+47.79.98.205 1 1 1051 20250524193608
+47.82.61.180 1 1 1054 20250523150754
+203.159.81.22 1 1 3308 20250515045638
+47.82.61.169 1 1 1051 20250522092358
+47.79.121.230 2 2 2098 20250526053710
+47.82.60.227 1 1 1050 20250525231722
+47.79.123.96 1 1 1052 20250528002138
+47.82.60.50 1 1 1051 20250527093150
+47.82.60.170 1 1 1051 20250522111306
+47.82.60.73 1 1 1048 20250518015551
+45.128.199.205 1 1 1044 20250524050321
+47.82.60.135 1 1 1053 20250525115210
+47.82.61.13 1 1 1049 20250521210509
+162.142.125.198 1 1 1051 20250509082629
+47.82.60.33 1 1 1049 20250526221037
+47.79.3.239 1 1 1052 20250524103851
+3.239.111.180 1 1 1052 20250512184042
+47.82.62.12 1 1 1050 20250526023136
+47.79.7.116 1 1 1052 20250523044300
+103.163.161.30 1 1 1042 20250524123651
+170.39.218.58 1 1 1041 20250531102515
+47.82.60.15 1 1 1050 20250518201034
+205.210.31.208 1 1 3308 20250530144218
+64.23.160.17 1 1 1051 20250505115307
+79.127.164.86 1 1 1041 20250511121421
+159.223.221.209 1 1 1053 20250521115542
+47.82.60.183 1 1 1053 20250523090255
+47.82.61.26 2 2 2101 20250526105229
+47.82.61.106 1 1 1051 20250517200222
+41.77.119.186 1 1 1043 20250521111330
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20250501 1 1 1051 1
+20250502 1 1 1050 1
+20250503 2 2 2090 2
+20250504 4 4 10964 2
+20250505 5 6 73788281 2
+20250507 9 10 73790374 5
+20250508 9 10 73797154 3
+20250509 1 1 1051 1
+20250510 4 5 73787230 1
+20250511 4 4 8701 3
+20250512 3 3 3140 3
+20250513 7 7 13070 4
+20250514 6 6 19848 3
+20250515 4 4 8725 4
+20250516 15 15 27035 12
+20250517 15 15 17990 15
+20250518 9 9 11699 9
+20250519 6 6 6301 6
+20250520 4 4 4201 4
+20250521 9 9 8397 9
+20250522 12 12 14869 12
+20250523 11 11 11562 11
+20250524 8 8 8388 8
+20250525 5 5 7507 5
+20250526 6 6 6297 6
+20250527 10 10 10499 10
+20250528 3 3 3153 3
+20250529 1 1 1051 1
+20250530 3 3 5427 2
+20250531 4 4 3135 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 151
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 159 230251 145 144
+/.env.example 5 5345 0 1
+/cgi-sys/ 5 0 3 3
+/composer.json 4 7932 0 0
+/.gitignore 4 908 4 0
+/package.json 4 2076 0 4
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+500-1K 58
+100-500 3760
+5K+ 54
+1K-2K 137
+44-100 2265
+0-44 20
+2K-5K 1046
+END_FILESIZE

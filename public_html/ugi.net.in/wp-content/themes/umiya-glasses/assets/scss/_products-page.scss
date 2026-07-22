@@ -1,0 +1,104 @@
+/*************  Products banner  **********/
+
+.product-banner {
+  background-image: linear-gradient(rgba($blue, 0.6), rgba($blue, 0.6)),
+    url("../img/product-banner.jpg");
+}
+
+/*************  Products Section   **********/
+
+.bg-gray {
+  background-color: $card-bg;
+  .content {
+    padding-right: 15px;
+    @include media-breakpoint-down(lg) {
+      padding-bottom: 30px;
+      padding-right: 0;
+      padding-top: 0 !important;
+    }
+  }
+}
+
+.product {
+  .content {
+    display: flex;
+    height: 100%;
+    padding-left: 15px;
+    @include media-breakpoint-down(lg) {
+      padding-top: 30px;
+      padding-left: 0;
+    }
+    .info-area {
+      margin: auto 0;
+      .sub-title {
+        margin-bottom: 15px;
+        @include media-breakpoint-down(xl) {
+          margin-bottom: 10px;
+        }
+      }
+      .main-title {
+        margin-bottom: 15px;
+      }
+      .main-para {
+        color: $secondary;
+      }
+      p {
+        color: $gray-color;
+        line-height: 1.7;
+        margin-bottom: 15px;
+      }
+    }
+  }
+}
+.view-more {
+  line-height: 1.8;
+  width: 130px;
+}
+
+/*************  Products Details Page   **********/
+
+.products-details {
+  text-align: center;
+  background-color: $card-bg;
+  .main-heading {
+    color: $primary;
+    font-size: 70px;
+    font-weight: 700;
+    text-transform: uppercase;
+    @include media-breakpoint-down(lg) {
+      font-size: 45px;
+    }
+  }
+}
+
+.nav-tabs {
+  .nav-link {
+    color: $secondary;
+    font-size: 18px;
+    font-weight: 600;
+    &.active {
+      color: $white;
+      background-color: $blue-color;
+      border-color: $blue-color $blue-color $white;
+      &:hover {
+        color: $white;
+      }
+    }
+    &:hover {
+      color: $blue-color;
+    }
+  }
+}
+
+.tab-content {
+  .tab-pane {
+    p {
+      color: $secondary;
+      line-height: 1.7;
+    }
+    h3 {
+      font-size: 20px;
+      color: $secondary;
+    }
+  }
+}

@@ -1,0 +1,460 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202402 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2681                
+POS_VISITOR 13844               
+POS_DAY 15257               
+POS_DOMAIN 3282                
+POS_LOGIN 3581                
+POS_ROBOT 3736                
+POS_WORMS 4022                
+POS_EMAILSENDER 4153                
+POS_EMAILRECEIVER 4296                
+POS_SESSION 15621               
+POS_SIDER 15778               
+POS_FILETYPES 4431                
+POS_DOWNLOADS 4531                
+POS_OS 4579                
+POS_BROWSER 4743                
+POS_SCREENSIZE 5072                
+POS_UNKNOWNREFERER 5146                
+POS_UNKNOWNREFERERBROWSER 5745                
+POS_ORIGIN 6150                
+POS_SEREFERRALS 6282                
+POS_PAGEREFS 6445                
+POS_SEARCHWORDS 6593                
+POS_KEYWORDS 6745                
+POS_MISC 2345                
+POS_ERRORS 6804                
+POS_CLUSTER 3437                
+POS_SIDER_404 6956                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240301174750 1 0 13347785013970
+FirstTime 0
+LastTime 20240229063505
+LastUpdate 20240302191250 1 0 0 0 0
+TotalVisits 37                  
+TotalUnique 35                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 35                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 83
+1 2 2 2101 1 3 83
+2 0 0 0 0 0 0
+3 1 1 3308 82 90 2499643
+4 1 1 3308 8 8 1808
+5 2 2 2091 2 4 166
+6 1 1 1050 0 1 0
+7 0 0 0 0 0 0
+8 0 0 0 2 2 166
+9 0 0 0 0 0 0
+10 1 1 1041 2 2 453612
+11 1 1 1051 0 0 0
+12 6 6 15332 17 17 19372
+13 3 3 7663 17 17 17054
+14 1 1 1039 28 28 502104
+15 1 1 3308 0 0 0
+16 18 18 36670 16 18 32446
+17 2 2 2102 9 9 1891
+18 1 1 3316 1 1 83
+19 0 0 0 7 7 3498
+20 0 0 0 56 57 33362
+21 1 1 3316 5 5 987
+22 0 0 0 11 12 9568
+23 1 1 3308 10 10 4176
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 18 18 19216
+ca 10 10 33120
+gb 8 8 26472
+fr 3 3 9932
+in 2 2 128
+ru 1 1 1049
+zz 1 1 87
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+curl 2 3308 20240207030448 0
+bot[\s_+:,\.\;\/\\-] 2 2092 20240224220950 0
+no_user_agent 1 3316 20240219163102 0
+Go\-http\-client/ 1 1048 20240219163111 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+Unknown 5 389 0 0
+html 38 89615 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+linuxubuntu 2 2
+ios_iphone 1 1
+win7 1 1
+linux 7 7
+win10 20 20
+androidmarshmallow 1 1
+Unknown 11 11
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 14
+chrome122.0.0.0 8 8
+chrome52.0.1997.98 1 1
+chrome99.0.4859.172 1 1
+firefox115.0 1 1
+chrome108.0.0.0 7 7
+safari15.1 1 1
+chrome83.0.4103.61 1 1
+chrome79.0.3945.79 1 1
+mozilla 7 7
+chrome117.0.5938.132 1 1
+chrome51.0.2704.106 8 8
+firefox105.0 1 1
+Unknown 4 4
+chrome94.0.4606.61 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Cpanel-HTTP-Client/1.0 20240219162938
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240229063505
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240227234451
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20240219162944
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Cpanel-HTTP-Client/1.0 20240219162938
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240227234451
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 42 42
+From1 0 0
+From2 1 1
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 1 355
+404 160 539090
+301 20 5722
+409 20 1660
+406 74 16724
+405 4 3006787
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 140
+/.well-known/acme-challenge/FFJ_B93HJB5Q3ICCV7G0V7E35LWY3DDE 1 -
+/.env.dev 4 -
+/.well-known/acme-challenge/UIV4LJQU-JB_L-8VUZF8MP-RPFXN8C6U 1 -
+/coaster/jquery/gallery-upload/server/php 1 -
+/tinymce/filemanager/dialog.php 1 -
+/asset/kcfinder/upload.php 1 -
+/.well-known/acme-challenge/IBIWVY50LUAKV58YA2_7B2LA3HN3IE0C 1 -
+/.well-known/acme-challenge/OICNSHEW7TP0PCTC-DS-WIXQPBNCNCVY 1 -
+/.well-known/acme-challenge/G1A42IVB-7VA0-H-ND38RVEH5TBKR6M1 1 -
+/assets/tinymce/plugins/filemanager/dialog.php 1 -
+/.well-known/acme-challenge/MGMPDJONGEVAEHHAW3CJDGA_LTP18HHA 1 -
+/.well-known/acme-challenge/EG2D5UB72-GDYEUMHHBD5_BC82MJNAQQ 1 -
+/.well-known/acme-challenge/FE1MVTGA3H0L5MDVK638P9O_38GOH7AA 1 -
+/login.action 1 -
+/js/jquery-file-upload/server/php 1 -
+/tinymce/plugins/filemanager/dialog.php 1 -
+/.well-known/acme-challenge/V_BJ3SZ99BME50-TKXSJET8TQD4XT88Y 1 -
+/scripts/filemanager/dialog.php 1 -
+/.well-known/acme-challenge/9-N26AP-LJWIUP9WSTZPVARF8HF5N_IS 1 -
+/.DS_Store 1 -
+/thumb.php 1 -
+/.well-known/acme-challenge/MX5W37DNFEXMRJILE-N5RHHKUBMCYMCL 1 -
+/.well-known/acme-challenge/NZM_IMPGQ3UTLM29ROP0_7Q3VSWZ1FGG 1 -
+/vendor/laravel-filemanager/js/script.js 1 -
+/blog 1 -
+/assets/backend/plugins/jquery-file-upload/server/php 1 -
+/admin/filemanager/dialog.php 1 -
+/.well-known/acme-challenge/4XOP2X7T-JHQ7_ROC0YFFIJI4KHKOLN2 1 -
+/.well-known/acme-challenge/U75_T0EZWQ-RH__CUX98A3JZY_3SX3AN 1 -
+/.env.www 4 -
+/jquery.filer/php/readme.txt 1 -
+/.well-known/acme-challenge/6CMVQL8ORJKQAIG-X9LM--C1ZDNMB0_T 1 -
+/blog/wp-admin/setup-config.php 1 -
+/assets/lib/jquery-file-upload/server/php 1 -
+/s/5333e24353e28313e2931313/_/ 1 -
+/wp-login.php 1 -
+/js/kcfinder/upload.php 1 -
+/.well-known/acme-challenge/GBB-1URPKTFMUR_WH_QGR4-DE4TC8HFT 1 -
+/.well-known/acme-challenge/SMP3UFNLLGRJ3WK_R1BYX92EL-F3Z0GO 1 -
+/assets/admin/tinymce/plugins/filemanager/dialog.php 1 -
+/assets/kcfinder/upload.php 1 -
+/.well-known/acme-challenge/-IW4-RLFXCEYUXYCH8LYJRRH637NXTFE 1 -
+/assets/global/plugins/jquery-file-upload/server/php 1 -
+/assets/color_admin/plugins/jquery-file-upload/server/php 1 -
+/assets/filemanager/dialog.php 1 -
+/assets/plugins/kcfinder/upload.php 1 -
+/assets/plugins/jquery-file-upload/server/php 1 -
+/media/mediamgr/other/jq_fileupload/server/php 1 -
+/assets/scripts/filemanager/dialog.php 1 -
+/assets/themes/metronic/global/jquery-file-upload/server/php 1 -
+/.well-known/acme-challenge/8NPI6Q3T275-NUWV81F6YFXSDFHLGYJG 1 -
+/wp 1 -
+/coloradmin/assets/plugins/jquery-file-upload/server/php 1 -
+/.git/HEAD 1 -
+/.well-known/acme-challenge/9V5S0PT_WYILWKGTBRMGLIS_M23DPEGL 1 -
+/wordpress 1 -
+/.well-known/acme-challenge/2LTQHIBCEKNIYZOHFF7V509804VQ_3CC 1 -
+/.well-known/acme-challenge/01_TKMTL-N_5NMRUMUSDKTV7XJN55LDQ 1 -
+/.well-known/acme-challenge/DXKKDKUNEUE8U70L6HNJCWPQLMP2AW3Y 1 -
+/timthumb.php 1 -
+/old/wp-admin/setup-config.php 1 -
+/.well-known/acme-challenge/C-3VB7E3WAP22M5A59U1GJDQ4WUBJHZP 1 -
+/.git/config 2 -
+/.well-known/acme-challenge/WPHI2GSEWM-_35BY0CI50_AK7_CGXFEW 1 -
+/app/webroot/global/plugins/jquery-file-upload/server/php 1 -
+/.well-known/acme-challenge/KV2P9M26QBQNPYP22KI7KLIIEBU3DTE5 1 -
+/assets/libs/jquery-file-upload/server/php 1 -
+/new 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/js/tinymce4/plugins/filemanager/dialog.php 1 -
+/.env.bak%20 4 -
+/plugins/jquery-file-upload/server/php 1 -
+/.well-known/acme-challenge/K6QVNJ15UNO9HRTJ76CBI3PHTDJMDC1V 1 -
+/.well-known/acme-challenge/LKMABNLFBWI8K98GS649B6DJ-_36VG4C 1 -
+/alfacgiapi/perl.alfa 1 -
+/phpformbuilder/plugins/filemanager/dialog.php 1 -
+/wp-admin/setup-config.php 1 -
+/assets/jquery-file-upload/server/php 1 -
+/debug/default/view 1 -
+/.well-known/acme-challenge/J_FI26_WBREG_A_I78LE52_CKGT_3S36 1 -
+/.aws/credentials 4 -
+/.well-known/acme-challenge/SA_305RBQO1KE148Q2_A4FBET2Y83JU3 1 -
+/plugins/jquery.filer/php/readme.txt 1 -
+/lib/jquery-file-upload/server/php 1 -
+/v2/_catalog 1 -
+/.env_1 4 -
+/assets/plugins/jquery.filer/php/readme.txt 1 -
+/assets/admin/bower_components/jquery.filer/php/readme.txt 1 -
+/assets/admin/js/tinymce/plugins/filemanager/dialog.php 1 -
+/.well-known/acme-challenge/AZ1OE7-BARGND3KN9EZKE4KJUVOV4MQ1 1 -
+/.well-known/acme-challenge/UMEHE9B7_K8N8AMM03KLK4_UF7S0Y_2V 1 -
+/wordpress/wp-admin/setup-config.php 1 -
+/.well-known/acme-challenge/X-QCI-6Y_T9VGGK7_S07GTBTC6KJ2S_Y 1 -
+/.well-known/acme-challenge/_4G92H3TOR8X3A08EFNN6S3PYHHINNPA 1 -
+/assets/elfinder/elfinder.html 1 -
+/.well-known/acme-challenge/_GAHTNV3OD_N1WJJ361R4PSRTS0WA7B4 1 -
+/debug/default/index 1 -
+/resources/global/plugins/jquery-file-upload/server/php 1 -
+/telescope/requests 1 -
+/.well-known/acme-challenge/BP544RYDLC8OWX5OJZZDHFC6IJ-GFRMB 1 -
+/.well-known/acme-challenge/4W_MR-8NXXZUG1_CPWI6UTYBCHOOCHKF 1 -
+/demo 1 -
+/_all_dbs 1 -
+/.well-known/acme-challenge/3EB8YTGW3I6IEWYLMN-C4D6U90Q7HORK 1 -
+/filemanager/filemanager/dialog.php 1 -
+/public/javascript/jquery.upload/server/php 1 -
+/.well-known/acme-challenge/6YDZWBMB7N6XXUSU5Z3DB2P1AG47DY-Q 1 -
+/.well-known/acme-challenge/50VCC338AY4D680-9Z3TAZ0YWXB0XIP- 1 -
+/assets/vendor/jquery.filer/php/readme.txt 1 -
+/plugins/kcfinder/upload.php 1 -
+/assets/plugins/filemanager/dialog.php 1 -
+/kcfinder/upload.php 1 -
+/.well-known/acme-challenge/CD-OENWJNM3RZ_T2OLF-NEBIOSF2-SXN 1 -
+/filemanager/dialog.php 1 -
+/assets/plugins/elfinder/elfinder.html 1 -
+/.well-known/acme-challenge/7V0PGL2GK4NYSOF1X4740KI4_X35XPAZ 1 -
+/assets/vendor_admin/plugins/jquery-file-upload/server/php 1 -
+/formcraft/file-upload/server/php 1 -
+/.well-known/acme-challenge/_HW60F3CJ4G6WJ-QFS442U9GKTHAM84S 1 -
+/public/vendor/laravel-filemanager/js/script.js 1 -
+/.well-known/acme-challenge/J5VTI5-3CYOTFW7XKKMEOA_YAE1UHHD8 1 -
+//wordpress/wp-admin/setup-config.php 1 www.google.com
+/.env_sample 4 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 -
+/assets/js/kcfinder/upload.php 1 -
+/robots.txt 2 -
+/.well-known/acme-challenge/DBH7452QZFLLOTUCC8FSKHAB2ZF7EIBS 1 -
+/metronic/assets/global/plugins/jquery-file-upload/server/php 1 -
+/.well-known/acme-challenge/M-0H9D2UQ4KI6MI5Q3P8ZPFU0WG7FFCI 1 -
+/.well-known/acme-challenge/UC57UOA5BZHRBO7M7ANNYF_-1SLH5KBV 1 -
+/.vscode/sftp.json 1 -
+/.well-known/acme-challenge/GWNXLCA-AUZGU9OHP689ANEH9V3GZE3T 1 -
+/about 1 -
+//idealgroups.org/digicard/public/js/coreui.bundle.min.js 1 -
+//wp-admin/setup-config.php 1 www.google.com
+/.well-known/acme-challenge/K0W2V1ROBDIDM2MRNPWUTAYC1L4QRCJA 1 -
+/config.json 1 -
+/.well-known/acme-challenge/QMK7_E2CA6YZ4VVK_LCH_VR7IU99O_YF 1 -
+/.well-known/acme-challenge/LAJQAVZ6PTSF_ILMWNR-GVLFN1NJDDXH 1 -
+/.well-known/acme-challenge/HQZZ99AMFP9BA8Y9_J8AQRFSOXSCW1HO 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 35
+51.77.112.6 5 5 16540 20240228120343
+205.169.39.200 2 2 2102 20240219163141
+64.15.129.121 2 2 6616 20240228161554
+119.18.54.35 2 2 128 20240219162938
+87.98.140.71 2 2 6616 20240228120202
+64.23.202.56 1 1 1047 20240224132922
+176.53.218.44 1 1 1049 20240220010707
+199.45.155.34 1 1 1050 20240229063505
+167.172.77.49 1 1 3308 20240207030216
+23.178.112.109 1 1 87 20240219162944
+199.45.155.18 1 1 1052 20240211013415
+159.203.182.222 1 1 3316 20240219163104
+51.89.142.176 1 1 3308 20240224150533
+192.175.111.250 1 1 3308 20240228161549
+192.175.111.230 1 1 3316 20240228161558
+68.183.204.41 1 1 1051 20240220114615
+192.175.111.242 1 1 3316 20240228161557
+143.110.219.213 1 1 1041 20240224104109
+3.138.186.53 1 1 87 20240219162944
+64.15.129.116 1 1 3316 20240228161604
+51.81.167.146 1 1 3316 20240219165312
+167.248.133.39 1 1 1043 20240217055032
+199.45.155.19 1 1 1048 20240212051812
+174.138.95.247 1 1 1048 20240222122622
+188.165.87.111 1 1 3316 20240223214103
+65.154.226.170 1 1 1051 20240219163131
+34.219.50.209 1 1 87 20240219162944
+64.227.181.204 1 1 1052 20240212124013
+164.92.166.216 1 1 1039 20240210141017
+167.99.190.91 1 1 1049 20240214174652
+205.210.31.215 1 1 3316 20240227183308
+192.175.111.246 1 1 3316 20240228161603
+198.235.24.183 1 1 3308 20240227234451
+64.15.129.119 1 1 3308 20240228161555
+134.209.17.56 1 1 1053 20240228175736
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20240207 1 1 3308 1
+20240210 1 1 1039 1
+20240211 1 1 1052 1
+20240212 2 2 2100 2
+20240214 1 1 1049 1
+20240217 1 1 1043 1
+20240219 10 10 10174 8
+20240220 2 2 2100 2
+20240222 1 1 1048 1
+20240223 2 2 6624 2
+20240224 3 3 5396 3
+20240226 2 2 6616 1
+20240227 2 2 6624 2
+20240228 13 13 40781 10
+20240229 1 1 1050 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 36
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 38 89615 33 33
+/.well-known/acme-challenge/h-e7u9gAuDezBuGxKq8ieyjkAyAGj8aUkYm8x1YDpuY 3 261 3 3
+/.well-known/acme-challenge/UPTW-6UIP4AV4L-V1EYCODTU_7QYFR3M 1 64 0 1
+/.well-known/acme-challenge/KZ4-56FIAKYJT5X_KWD2Q437HHNNNO_1 1 64 1 0
+END_SIDER

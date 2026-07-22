@@ -1,0 +1,352 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202604 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.fizznfreeze.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2096                
+POS_TIME 2770                
+POS_VISITOR 7149                
+POS_DAY 8723                
+POS_DOMAIN 3440                
+POS_LOGIN 3796                
+POS_ROBOT 3951                
+POS_WORMS 4117                
+POS_EMAILSENDER 4248                
+POS_EMAILRECEIVER 4391                
+POS_SESSION 9242                
+POS_FILESIZE 9474                
+POS_REQUESTTIME 9615                
+POS_SIDER 9389                
+POS_FILETYPES 4526                
+POS_DOWNLOADS 4668                
+POS_OS 4716                
+POS_BROWSER 4878                
+POS_SCREENSIZE 5277                
+POS_UNKNOWNREFERER 5351                
+POS_UNKNOWNREFERERBROWSER 5660                
+POS_ORIGIN 5777                
+POS_SEREFERRALS 5910                
+POS_PAGEREFS 6054                
+POS_SEARCHWORDS 6202                
+POS_KEYWORDS 6354                
+POS_MISC 2434                
+POS_ERRORS 6413                
+POS_CLUSTER 3652                
+POS_SIDER_404 6548                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260501003650 3 666 13587446212556
+FirstTime 20260401020504
+LastTime 20260429083058
+LastUpdate 20260501203021 3 0 2 0 0
+TotalVisits 40                  
+TotalUnique 36                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 38                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 7 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 4 151111 8 10 1021
+1 2 3 151124 2 2 421
+2 2 2 184576 17 17 3879
+3 1 1 36081 1 1 209
+4 4 10 284707 30 31 5989
+5 0 0 0 0 0 0
+6 4 4 369152 28 28 6462
+7 3 4 299584 14 14 3327
+8 6 7 576459 53 54 11560
+9 3 4 299587 15 15 3553
+10 2 8 156415 8 8 899
+11 1 2 115011 1 2 209
+12 2 3 151134 2 3 650
+13 0 0 0 0 0 0
+14 3 4 299621 17 18 4091
+15 3 60 1584159 18 18 3788
+16 2 2 128355 5 5 37149
+17 2 3 151117 4 5 421
+18 6 8 486790 29 31 6616
+19 0 0 0 3 3 36496
+20 0 0 0 2 2 36280
+21 1 2 115050 4 4 36705
+22 2 2 184576 20 20 111787
+23 4 6 414634 27 31 41753
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 30 41 2737742
+nl 7 7 533614
+in 5 5 461440
+id 4 16 312764
+bg 3 3 72135
+ro 2 2 184576
+py 2 59 1491871
+be 2 3 151114
+ca 1 2 115045
+ru 0 1 78942
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+checker 8 288692 20260428225754 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+js 43 1103940 0 0
+css 26 484158 0 0
+Unknown 56 3445957 0 0
+svg 14 1105188 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+win10 33 33
+macosx15 1 1
+macosx 1 1
+macosx9 1 1
+macosx13 1 1
+linux 69 8
+Unknown 32 10
+win8.1 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+Unknown 12 0
+mozilla 20 10
+chrome58.0.3029.110 4 4
+firefox122.0 1 1
+chrome76.0.3809.100 1 1
+chrome61.0.3163.100 1 1
+chrome139.0.7258.5 59 2
+chrome100.0.4896.60 1 1
+chrome136.0.0.0 2 2
+chrome80.0.3987.149 2 2
+chrome142.0.0.0 8 4
+chrome79.0 2 2
+chrome78.0.3904.108 22 22
+chrome109.0.5414.119 1 1
+safari26.0 1 1
+firefox121.0 1 1
+chrome32.0.1664.3 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260428013836
+python-httpx/0.28.1 20260423100016
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260426235127
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+python-httpx/0.28.1 20260423100016
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 49 71
+From1 0 0
+From2 0 0
+From3 0 0
+From4 7 68
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+301 7 1759
+406 199 44974
+409 23 1909
+302 62 15931
+404 16 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 8
+/wp-json 1 http://fizznfreeze.idealgroups.org/wp-json/
+/login/blog/robots.txt 1 https://fisioinvasiva.cl//wp-login.php
+/login/wp-includes/ID3/license.txt 2 -
+/_profiler/phpinfo 2 -
+/wp-admin 1 http://fizznfreeze.idealgroups.org/wp-admin/
+/.git/HEAD 2 -
+/.git/config 5 -
+/.aws/credentials 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 38
+45.154.98.206 5 5 461440 20260421045518
+194.26.192.251 5 5 461440 20260420222242
+34.9.16.37 2 2 184576 20260424182940
+181.127.206.253 2 59 1491871 20260427155843
+136.107.239.243 2 2 184576 20260407145256
+94.26.106.205 2 2 36068 20260412000644
+34.148.238.214 2 2 184576 20260424230327
+36.83.124.166 2 8 156415 20260423100019
+32.194.215.91 2 2 72163 20260419182617
+36.81.233.32 2 8 156349 20260410045302
+157.245.157.166 2 2 184576 20260402062559
+138.197.181.177 2 2 184576 20260402082906
+34.150.183.255 2 2 184576 20260401020507
+85.204.70.116 2 2 184576 20260429083058
+136.118.130.201 1 1 92288 20260401162713
+87.236.176.190 1 1 36070 20260404184637
+167.94.146.48 1 2 115018 20260419174618
+66.132.195.40 1 2 115011 20260412113735
+91.134.35.95 1 1 36067 20260405161859
+66.132.195.116 1 2 115039 20260413183621
+168.144.72.7 1 2 115045 20260421140526
+104.236.84.231 1 2 115050 20260407215111
+66.132.172.181 1 2 115044 20260426231456
+199.45.155.87 1 2 115040 20260406123641
+98.90.210.252 1 1 36099 20260411173820
+185.247.137.219 0 1 78942 
+104.248.172.68 1 2 115011 20260427092224
+66.132.186.185 1 2 115014 20260426235121
+66.132.172.101 1 2 115043 20260421005932
+88.151.32.185 1 1 36080 20260419013055
+64.227.124.5 1 2 115008 20260413075344
+104.198.198.236 1 1 36070 20260402045628
+107.173.171.201 1 1 36081 20260410034803
+66.132.186.178 1 2 115019 20260405084023
+88.151.34.105 1 1 36094 20260418122606
+87.236.176.209 0 1 78942 
+87.236.176.131 1 1 36102 20260428013835
+34.82.78.136 1 1 92288 20260407082946
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20260401 3 3 276864 2
+20260402 5 5 405222 3
+20260404 1 2 115012 1
+20260405 2 3 151086 2
+20260406 1 2 115040 1
+20260407 4 5 391914 3
+20260410 3 9 192430 2
+20260411 1 1 36099 1
+20260412 3 4 151079 2
+20260413 2 4 230047 2
+20260416 1 1 92288 1
+20260418 3 3 220670 2
+20260419 6 7 407837 4
+20260420 4 4 369152 2
+20260421 3 5 322376 3
+20260423 2 8 156415 1
+20260424 4 4 369152 2
+20260426 2 4 230058 2
+20260427 3 61 1606882 2
+20260428 1 2 115044 1
+20260429 2 2 184576 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 40
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/login 56 3445957 40 40
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+2K-5K 4
+500-1K 18
+44-100 23
+1K-2K 6
+5K+ 118
+0-44 28
+100-500 264
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

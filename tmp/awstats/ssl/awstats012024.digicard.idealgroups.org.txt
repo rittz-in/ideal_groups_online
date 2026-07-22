@@ -1,0 +1,925 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202401 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2026                
+POS_TIME 2698                
+POS_VISITOR 19551               
+POS_DAY 21105               
+POS_DOMAIN 3355                
+POS_LOGIN 3660                
+POS_ROBOT 3815                
+POS_WORMS 4041                
+POS_EMAILSENDER 4172                
+POS_EMAILRECEIVER 4315                
+POS_SESSION 21544               
+POS_SIDER 21750               
+POS_FILETYPES 4450                
+POS_DOWNLOADS 4570                
+POS_OS 4618                
+POS_BROWSER 4779                
+POS_SCREENSIZE 4994                
+POS_UNKNOWNREFERER 5068                
+POS_UNKNOWNREFERERBROWSER 5661                
+POS_ORIGIN 6062                
+POS_SEREFERRALS 6198                
+POS_PAGEREFS 6361                
+POS_SEARCHWORDS 6547                
+POS_KEYWORDS 6699                
+POS_MISC 2362                
+POS_ERRORS 6758                
+POS_CLUSTER 3516                
+POS_SIDER_404 6937                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240203232648 1 0 11987983683816
+FirstTime 20240101164751
+LastTime 20240131075352
+LastUpdate 20240204184919 1 0 0 0 0
+TotalVisits 41                  
+TotalUnique 38                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 38                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 34 34 272406 14 25 429911
+1 0 0 0 2 2 4856
+2 1 1 3318 1 1 3318
+3 0 0 0 0 0 0
+4 0 0 0 1 1 2428
+5 1 1 1044 1 2 2428
+6 1 1 3310 0 0 0
+7 3 3 5404 5 6 10398
+8 3 3 12365 7 7 859326
+9 3 3 5388 0 1 0
+10 4 4 11027 1283 1312 3914640
+11 1 1 1036 2 2 5738
+12 7 7 9700 7 8 10324
+13 30 30 146961 15 18 1389551
+14 0 0 0 0 0 0
+15 12 12 40134 5 6 1037
+16 4 4 11967 2 7 16489
+17 5 5 17561 4 5 3946
+18 3 3 8340 3 4 739
+19 9 9 27607 5 7 1037
+20 6 6 18635 1281 1311 3905609
+21 1 1 3318 1 1 2428
+22 5 5 17463 8 9 429379
+23 34 34 223667 23 33 2148782
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+in 121 121 718574
+us 31 31 81452
+ca 9 9 29830
+fr 2 2 6636
+be 2 2 2079
+gb 1 1 1045
+au 1 1 1035
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+no_user_agent 7 23202 20240127112721 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 1039 20240117164524 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+Unknown 109 746039 0 0
+php 2 6660 0 0
+html 56 87952 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+linux 5 5
+win10 129 129
+linuxubuntu 2 2
+Unknown 17 17
+android10 7 7
+ios_iphone 1 1
+macosx12 6 6
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+safari16.6 1 1
+firefox115.0 2 2
+chrome120.0.0.0 77 77
+Unknown 11 11
+chrome56.0.2924.87 6 6
+chrome119.0.0.0 2 2
+chrome121.0.0.0 57 57
+chrome108.0.0.0 5 5
+mozilla 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240130051641
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240112192202
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240116102431
+WhatsApp/2.23.20.0 20240130235823
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WhatsApp/2.23.20.0 20240130235823
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240116102431
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 54 54
+From1 0 0
+From2 3 3
+From3 2 2
+From4 108 108
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://rs200.webhostbox.net:2083 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+406 1484 335384
+302 60 12502
+419 3 7302
+404 1154 7532187
+403 7 2941
+301 2 524
+500 14 5226961
+421 1 322
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 576
+/product/.env.local 2 -
+/viewinfo.php 2 -
+/phpinfo.php5 2 -
+/wp-config.new 2 -
+/wp-config.vb 2 -
+/wp-config.in 2 -
+/wp-config.ORG 2 -
+/pi.php7 2 -
+/wp-config.csproj 2 -
+/l.php 2 -
+/wp-config.1 2 -
+/staging/.env.local 2 -
+/dev/.env.production 2 -
+/wp-config.sass-cache 2 -
+/.env.{{DN}} 2 -
+/dev/phpinfo.php 2 -
+/help/phpinfo.php 2 -
+/production/.env.production 2 -
+/public/.env.production 2 -
+/backup/.env.production 2 -
+/.env.test 2 -
+/development/.env.local 2 -
+/wp-config.php______ 2 -
+/website/.env.staging 2 -
+/.lanproxy/config.json 2 -
+/admin/dashboard/phpinfo.php 2 -
+/services/.env.staging 2 -
+/api/.env.staging 2 -
+/wp-config.phpn 2 -
+/wp-config.tmp 2 -
+/info/phpinfo.php 2 -
+/production/.env.local 2 -
+/wp-config.stage 2 -
+/wp-config.8 2 -
+/backup/phpinfo.php 2 -
+/phpsysinfo/info.php 2 -
+/dashboard/admin/phpinfo 2 -
+/test3.php 2 -
+/.envs 2 -
+/phpsysinfo 2 -
+/.env.save 2 -
+/wp-config.php_bak 2 -
+/install/.env 2 -
+/public_html/.env.production 2 -
+/webdav/phpinfo 2 -
+/s3.js 2 -
+/cron/.env.staging 2 -
+/test_phpinfo1.php 2 -
+/wp-config.php_new 2 -
+/dev/.env.staging 2 -
+/phpsysinfo/phpsysinfo.php 2 -
+/phpinfo2.php 2 -
+/api/.env.production 2 -
+/local-phpinfo.php 2 -
+/api/phpinfo.php 2 -
+/wp-config.php_bk 2 -
+/development/iinfo.php 2 -
+/wp-config-sample.php 2 -
+/server/s3.js 2 -
+/wp-config.vbproj 2 -
+/env/phpinfo 2 -
+/.travis.yml 2 -
+/File/PHP/phpinfo.php 2 -
+/test_phpinfo3.php 2 -
+/wp-config.cs 2 -
+/main.php 2 -
+/phpinfos.php 2 -
+/old/.env.local 2 -
+/config.js 2 -
+/backend/.env.staging 2 -
+/.env.live 2 -
+/service/.env.production 2 -
+/wp-config.us 2 -
+/wp-config.php_orig 2 -
+/xampp/.env.local 2 -
+/wp-config.dev 2 -
+/console/base/config.json 2 -
+/of.php 2 -
+/wp-config.phpa 2 -
+/wp-config.phptmp 2 -
+/wp-config.php_old2003 2 -
+/wp-config.phps 2 -
+/test9.php 2 -
+/admin/infophp.php 2 -
+/storage/.env.staging 2 -
+/wp-config.txt 2 -
+/.config/gatsby/config.json 2 -
+/wp-config-good 2 -
+/apache.php 2 -
+/wp-config.rej 2 -
+/kyc/.env.production 2 -
+/app/.env.staging 2 -
+/wp-config.maj 2 -
+/fedora.php 2 -
+/xampp/phpinfo.php 2 -
+/new/.env.production 2 -
+/wp-config.local.php 2 -
+/web/.env.production 2 -
+/inf.php 2 -
+/.cordova/config.json 2 -
+/asdf.php 2 -
+/project/.env.staging 2 -
+/wp-config.templ 2 -
+/user/.env.staging 2 -
+/jo.php 2 -
+/x.php 2 -
+/admin/.env 2 -
+/wp-config.php_old2023 2 -
+/wp-config-backup 2 -
+/stg/.env.local 2 -
+/linusadmin-phpinfo.php 2 -
+/wp-config 2 -
+/wp-configbak 2 -
+/.env.development.local 2 -
+/backup/.env.staging 2 -
+/root/infophp 2 -
+/public/.env.staging 2 -
+/test1 2 -
+/php-info/info.php 2 -
+/secrets.yml 2 -
+/info/info.php 2 -
+/wp-config.sample 2 -
+/help/info.php 2 -
+/new/.env.staging 2 -
+/client/.env.local 2 -
+/kyc/.env.staging 2 -
+/app/.env.production 2 -
+/admin/dashboard/info.php 2 -
+/wp-config.uk 2 -
+/testphp.php 2 -
+/phpinfo/php-details.php 2 -
+/laravel/.env.staging 2 -
+/settings.py 2 -
+/current/.env.production 2 -
+/wp-config.php_old2010 2 -
+/wp-config.phpold 2 -
+/web/.env.staging 2 -
+/backup/info.php 2 -
+/infophp.php 2 -
+/php1.php 2 -
+/server/.env.production 2 -
+/phpinfo.php3 2 -
+/tools/phpinfo.php 2 -
+/js/config.js 2 -
+/wp-config.php6 2 -
+/.msmtprc 2 -
+/wp-config.phpc 2 -
+/web/.env.local 2 -
+/forum/phpinfo.php 2 -
+/new/.env.local 2 -
+/wp-config.7 2 -
+/apache2.php 2 -
+/console/payments/config.json 2 -
+/website/123456789 3 -
+/index.js 2 -
+/kyc/.env.local 2 -
+/phpdetails 2 -
+/backend/.env.local 2 -
+/test_info3.php 2 -
+/wp-config.tar.gz 2 -
+/wp-config.php_old2011 2 -
+/phpsysinfo/phpinfo.php 2 -
+/_phpinfo.php 2 -
+/server/phpinfo.php 2 -
+/index1.php 2 -
+/wp-config.phporiginal 2 -
+/.docker/config.json 2 -
+/stg/.env.staging 2 -
+/php_info.php 2 -
+/test_info4.php 2 -
+/scripts/info.php 2 -
+/test_phpinfo2.php 2 -
+/wp-config.cust 2 -
+/helper/phpinfo.php 2 -
+/sysinfo/tabs/php-info.php 2 -
+/laravel/core/.env.production 2 -
+/wp-config-backup.php 2 -
+/dashboardadmin/phpinfo.php 2 -
+/website/.env.local 2 -
+/wp-config.php_original 2 -
+/o.php 2 -
+/qa/.env.production 2 -
+/wp-config.htm 2 -
+/wp-config. 2 -
+/backend/phpinfo.php 2 -
+/portal/.env.production 2 -
+/market/.env.staging 2 -
+/123.php 2 -
+/ocp.php 2 -
+/admin/.git/config 1 -
+/laravel/info.php 2 -
+/php-info 2 -
+/app/.env.local 2 -
+/.env.uat 2 -
+/pi.php8 2 -
+/wp-config.cache 2 -
+/laravel10/phpinfo.php 2 -
+/product/.env.staging 2 -
+/app/.git/config 1 -
+/test0.php 2 -
+/user/.env.local 2 -
+/wp-config.3 2 -
+/rest.php 2 -
+/staging/.env.staging 2 -
+/wp-config.cfg 2 -
+/stg/.env.production 2 -
+/wp-config.php_old2017 2 -
+/wp-config.prod.txt 2 -
+/File/PHP/phpinfo 2 -
+/phpinfo 4 -
+/.svn/wc.db 1 -
+/portal/.env.staging 2 -
+/market/.env.production 2 -
+/dashboard/info.php 2 -
+/cron/.env.local 2 -
+/wp-config.php5 2 -
+/qa/.env.local 2 -
+/laravel/.env.local 2 -
+/services/phpinfo.php 2 -
+/build.php 2 -
+/dev/info.php 2 -
+/wp-config.2 2 -
+/wp-config.php_old2018 2 -
+/old/.env.staging 2 -
+/wp-config.phpb 2 -
+/services/.env.production 2 -
+/config/secrets.yml 2 -
+/wp-config.bk 2 -
+/PHPConf.php 2 -
+/.s3cfg 2 -
+/qa/.env.staging 2 -
+/wp-config.php_old2019 2 -
+/cron/.env.production 2 -
+/env.development.local 2 -
+/wp.php 2 -
+/main.yml 2 -
+//idealgroups.org/digicard/public/js/coreui.bundle.min.js 5 -
+/.env.dev 2 -
+/develop/.env.production 2 -
+/administrator/phpinfo.php 2 -
+/dev/.env.local 2 -
+/wp-config.5 2 -
+/.git/config 4 -
+/laravel9/phpinfo.php 2 -
+/in.php 2 -
+/pi.php6 2 -
+/wp-config.prod 2 -
+/wp-config.lst 2 -
+/wp-config.php_old2015 2 -
+/configuration.php 2 -
+/_profiler/phpinfo/phpinfo.php 2 -
+/scripts/phpinfo.php 2 -
+/old/.env.production 2 -
+/wp-config.gz 2 -
+/backend/info.php 2 -
+/wp-config.html 2 -
+/phptest.php 2 -
+/admin/.env.local 2 -
+/wp-config.com 2 -
+/wp-config.php_old2022 2 -
+/wp-config.php_old2004 2 -
+/~cats/php/info.php 2 -
+/database.yml 2 -
+/server/.env.staging 2 -
+/info3.php 2 -
+/.env.docker.dev 2 -
+/project/.env.local 2 -
+/api/.env.local 2 -
+/.env.sample.php 2 -
+/laravel/phpinfo.php 2 -
+/wp-config.inc 2 -
+/.deployment-config.json 2 -
+/dep.php 2 -
+/phpinformation 2 -
+/admin/phpinfo.php 2 -
+/server/info.php 2 -
+/wp-config.bkp 2 -
+/wp-config.data 2 -
+/wp-config.php_old2006 2 -
+/test6.php 2 -
+/api/.git/config 2 -
+/u.php 2 -
+/storage/.env.local 2 -
+/api/info.php 2 -
+/wp-config.php1 2 -
+/helper/info.php 2 -
+/wp-config.good 2 -
+/.env.staging 2 -
+/php.php 2 -
+/php52/phpinfo.php 2 -
+/phpinfo3.php 2 -
+/service/phpinfo.php 2 -
+/testphpinfo.php 2 -
+/marketing/.env.local 2 -
+/wp-config.php_old2012 2 -
+/_profiler/phpinfo/info.php 2 -
+/wp-config.php_old2009 2 -
+/dashboardadmin/info.php 2 -
+/tools/info.php 2 -
+/.env.dist 2 -
+/demo/.env.local 2 -
+/website 1 -
+/wp-config.php_1 2 -
+/phpinfo.txt 2 -
+/develop/.env.staging 2 -
+/dashboard/phpinfo 2 -
+/phpinfo/info.php 2 -
+/forum/info.php 2 -
+/.env.www 2 -
+/wp-config.php_old2008 2 -
+/dashboard/phpinfo.php 2 -
+/shop/.env.staging 2 -
+/phpinfo.html 2 -
+/.env.prod 2 -
+/development/.env.staging 2 -
+/q.php 2 -
+/admin/.env.production 2 -
+/wp-config.c 2 -
+/core/.git/config 1 -
+/info/phpinfo 2 -
+/laravel8/phpinfo.php 2 -
+/.env_sample 2 -
+/server/config.json 2 -
+/dashboard/test.php 2 -
+/current/.env.local 2 -
+/webdav/info.php 2 -
+/demo/.env.production 2 -
+/wp-config.php_old2005 2 -
+/test.php 2 -
+/.phpinfo 2 -
+/php_details 2 -
+/information 1 -
+/wp-config.log 2 -
+/wp-config.disabled 2 -
+/server/.env.local 2 -
+/test_info5.php 2 -
+/pi.php 2 -
+/wp-config.php_backup 2 -
+/.env_1 2 -
+/.env.{{SD}} 2 -
+/beta/.env.staging 2 -
+/test_info1.php 2 -
+/test_info.php 2 -
+/laravel/core/.env.local 2 -
+/laravel/core/.env.staging 2 -
+/wp-config.tar 2 -
+/wp-config.php_old2014 2 -
+/service/.env.local 2 -
+/services/info.php 2 -
+/~cats/php/phpinfo.php 2 -
+/wp-config.temp 2 -
+/~cats/php/phpinfo 2 -
+/cache.php 2 -
+/wp-config.0 2 -
+/test2.php 2 -
+/wp-config.phpd 2 -
+/phpversion.php 2 -
+/marketing/.env.production 2 -
+/portal/.env.local 2 -
+/index.json 2 -
+/tz.php 2 -
+/phpinfo.php 2 -
+/.docker/daemon.json 2 -
+/current/phpinfo.php 2 -
+/.env.test.local 2 -
+/wp-config.php_old2016 2 -
+/php/phpinfo.php 2 -
+/admin/.env.staging 2 -
+/infophp/testphp.php 2 -
+/service/info.php 2 -
+/test/.env.staging 2 -
+/wp-config.production 2 -
+/wp-config.php__olds 2 -
+/vendor/.git/config 1 -
+/administrator/info.php 2 -
+/apis/.env.local 2 -
+/wp-config.php3 2 -
+/admin/dashboard/phpinfo 2 -
+/time.php 2 -
+/marketing/.env.staging 2 -
+/live/.env.production 2 -
+/crm/info.php 2 -
+/phpinfo/phpinfo.php 2 -
+/wp-config._1 2 -
+/test_phpinfo5.php 2 -
+/wp-config._backup 2 -
+/wp-config.dump 2 -
+/apis/.env.production 2 -
+/wp-config.rar 2 -
+/wp-config.local 2 -
+/.jupyter/jupyter_notebook_config.json 2 -
+/test_phpinfo.php 2 -
+/check.php 2 -
+/wp-config.php2 2 -
+/market/.env.local 2 -
+/wp-config.part 2 -
+/crm/.env.local 2 -
+/i.php 2 -
+/wp-config.map 2 -
+/live/.env.local 2 -
+/wp-config.sublime-project 2 -
+/wp-config.php 2 -
+/staging/.env.production 2 -
+/dashboardadmin/phpinfo 2 -
+/phpinfodev.php 2 -
+/ini.php 2 -
+/wp-config-backup.txt 2 -
+/wp-config.zip 2 -
+/deploy.php 2 -
+/wp-config.dist 2 -
+/prod/.env.staging 2 -
+/a.php 2 -
+/frontend_dev.php/$ 2 -
+/info4.php 2 -
+/temp.php 2 -
+/product/.env.production 2 -
+/info1.php 2 -
+/token.php 2 -
+/foo.php 2 -
+/dashboard/admin/info.php 2 -
+/app/config.yml 2 -
+/webdav/phpinfo.php 2 -
+/wp-config.php_ 2 -
+/admin/info.php 2 -
+/wp-config.php_old2007 2 -
+/config/config.json 2 -
+/xampp/phpinfo 2 -
+/wp-config.php_old2021 2 -
+/p.php 2 -
+/public_html/.env.staging 2 -
+/current/info.php 2 -
+/._wp-config.php 2 -
+/php-info/phpinfo 2 -
+/wp-config.bac 2 -
+/env.template 2 -
+/env.config.js 2 -
+/project/.env.production 2 -
+/crm/.env.production 2 -
+/client/.env.staging 2 -
+/crm/phpinfo.php 2 -
+/prod/.env.local 2 -
+/wp-config_good 2 -
+/scripts/index.php 2 -
+/wp-config.php_old2013 2 -
+/config/config.js 2 -
+/test7.php 2 -
+/php-info/phpinfo.php 2 -
+/old_phpinfo.php 2 -
+/testing.php 2 -
+/developer.php 2 -
+/wp-config.php4 2 -
+/pi.php5 2 -
+/config.json 2 -
+/apache/i.php 2 -
+/public_html/.env.local 2 -
+/prod/.env.production 2 -
+/storage/.env.production 2 -
+/public/.env.local 2 -
+/develop/phpinfo.php 2 -
+/backup/.env.local 2 -
+/new.php 2 -
+/test1.php 2 -
+/web.php 2 -
+/_profiler/phpinfo 2 -
+/service/.env.staging 2 -
+/wp-config.php_old2020 2 -
+/test4.php 2 -
+/lara/phpinfo.php 2 -
+/test/.env.local 2 -
+/dashboard/i.php 2 -
+/apis/.env.staging 2 -
+/root/phpinfo.php 2 -
+/test_info2.php 2 -
+/wp-config.php__ 2 -
+/wp-config.err 2 -
+/crm/.env.staging 2 -
+/tools/phpinfo 2 -
+/current/.env.staging 2 -
+/.env.stage 2 -
+/info.json 2 -
+/test_phpinfo4.php 2 -
+/lindex.php 2 -
+/laravel/.env.production 2 -
+/infophp/index.php 2 -
+/development/.env.production 2 -
+/wp-config.php_old 2 -
+/test123.php 2 -
+/wp-config_backup 2 -
+/dashboard/admin/phpinfo.php 2 -
+/wp-config.phpnew 2 -
+/test/.env.production 2 -
+/backup.wp-config.php 2 -
+/apache/info.php 2 -
+/wp-config.staging 2 -
+/console/phpinfo.php 2 -
+/xampp/.env.production 2 -
+/services/.env.local 2 -
+/local-info.php 2 -
+/wp-config.sublime-workspace 2 -
+/admin.php 2 -
+/develop/.env.local 2 -
+/live/.env.staging 2 -
+/phpinfo4.php 2 -
+/wp-config.9 2 -
+/phpsysinfo.php 2 -
+/qq.php 2 -
+/.env.production 2 -
+/info2.php 2 -
+/debug/default/view 2 -
+/wp-config.sav 2 -
+/beta/.env.local 2 -
+/dev.php 2 -
+/information.php 2 -
+/production/.env.staging 2 -
+/.env.production.local 2 -
+/wp-config-backup1.txt 2 -
+/phpinfo.php4 2 -
+/website/.env.production 2 -
+/devs.php 2 -
+/phpcustom_info/phpinfo.php 2 -
+/channel/team/phpinfo.php 2 -
+/config.env 2 -
+/wp-config.b 2 -
+/File/PHP/info.php 2 -
+/admin/phpinfo 2 -
+/wp-config._2 2 -
+/js/envConfig.js 2 -
+/testphpinfo 2 -
+/wp-config.dif 2 -
+/test8.php 2 -
+/apache/phpinfo.php 2 -
+/.envrc 2 -
+/beta/.env.production 2 -
+/develop/info.php 2 -
+/xampp/info.php 4 -
+/up.php 2 -
+/aws-secret.yaml 2 -
+/wp-config.4 2 -
+/wp-config.vi 2 -
+/test5.php 2 -
+/modules/.git/config 1 -
+/.environment 2 -
+/wp-config.php0 2 -
+/_wpeprivate/config.json 2 -
+/phpinfo1.php 2 -
+/scripts/phpinfo 2 -
+/root/info.php 2 -
+/wp-config.ini 2 -
+/wp-config.6 2 -
+/demo/.env.staging 2 -
+/infos.php 2 -
+/wp-config.conf 2 -
+/wp-config.a 2 -
+/wp-config.org 2 -
+/info.php 2 -
+/backend/.env.production 2 -
+/lara/info.php 2 -
+/xampp/.env.staging 2 -
+/env.js 2 -
+/client/.env.production 2 -
+/development/phpinfo.php 2 -
+/.env.php 2 -
+/shop/.env.local 2 -
+/pinfo.php 2 -
+/adminphp.php 2 -
+/app/config/parameters.yml 2 -
+/console/info.php 2 -
+/isadmin.php 2 -
+/tester.php 2 -
+/wp-config.azure 2 -
+/wp-config.aws 2 -
+/wp-config.java 2 -
+/shop/.env.production 2 -
+/.aws/credentials 2 -
+/w.php 2 -
+/.env.local 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 38
+103.58.152.230 58 58 470417 20240131002554
+223.235.158.254 29 29 145924 20240105135924
+152.59.35.109 12 12 34362 20240118230615
+122.170.62.191 11 11 44625 20240104160018
+106.221.201.90 7 7 28471 20240112194931
+35.175.200.67 6 6 15418 20240105202442
+103.240.207.221 5 5 5355 20240122124034
+49.43.240.178 5 5 12936 20240104173445
+152.59.36.65 3 3 12365 20240119085835
+49.43.242.105 2 2 6701 20240104173600
+152.59.35.99 2 2 5447 20240119001603
+49.44.76.170 1 1 1037 20240105131106
+138.197.150.117 1 1 1039 20240113184742
+198.235.24.59 1 1 3318 20240105190353
+198.235.24.223 1 1 3310 20240110061226
+167.71.243.73 1 1 1044 20240131075352
+171.50.254.156 1 1 1036 20240105110559
+87.236.176.121 1 1 1041 20240112092132
+188.165.87.104 1 1 3318 20240101164751
+162.142.125.222 1 1 1044 20240130051641
+42.104.120.132 1 1 1035 20240122123854
+198.235.24.133 1 1 3310 20240113231513
+128.199.22.105 1 1 1045 20240103190726
+199.45.154.48 1 1 1042 20240111072331
+152.58.232.37 1 1 6573 20240112200302
+199.45.155.19 1 1 1036 20240107194559
+165.227.196.2 1 1 1045 20240117152941
+198.235.24.25 1 1 3310 20240102091342
+139.59.12.228 1 1 1035 20240127202727
+199.45.154.49 1 1 1037 20240117090719
+198.235.24.118 1 1 3318 20240113214621
+205.210.31.37 1 1 3318 20240116102431
+198.235.24.80 1 1 3318 20240110073503
+205.210.31.253 1 1 3310 20240105120201
+87.236.176.127 1 1 1038 20240112192202
+198.235.24.142 1 1 3318 20240104023603
+51.254.49.98 1 1 3318 20240101201756
+112.133.228.69 1 1 1037 20240104153527
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20240101 2 2 6636 2
+20240102 1 1 3310 1
+20240103 1 1 1045 1
+20240104 20 20 68617 6
+20240105 39 39 170043 7
+20240107 1 1 1036 1
+20240110 2 2 6628 2
+20240111 1 1 1042 1
+20240112 10 10 37123 4
+20240113 3 3 7667 3
+20240116 1 1 3318 1
+20240117 2 2 2082 2
+20240118 12 12 34362 1
+20240119 5 5 17812 2
+20240122 6 6 6390 2
+20240127 1 1 1035 1
+20240130 27 27 204502 2
+20240131 33 33 268003 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 2
+1h+ 1
+2mn-5mn 1
+15mn-30mn 2
+5mn-15mn 1
+30mn-1h 2
+0s-30s 32
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 25
+/ 56 87952 37 27
+/website/IdealGroups 25 128176 0 1
+/super-admin 21 114161 1 3
+/services 12 126184 1 0
+/website/123456789 6 39437 1 3
+/dashboards 6 66588 0 0
+/services/62/edit 6 64410 0 1
+/services/create 4 42234 0 0
+/home 4 42144 0 0
+/services/63/edit 3 32305 0 0
+/profile 3 12556 0 0
+/website/560076 2 1438 0 1
+/website/NewTestingDigi 2 5753 0 1
+/.env.example 2 2138 0 2
+/testimonials 2 20356 0 0
+/super-admin/create 2 8565 0 1
+/about_us 2 20930 0 0
+/index.php 2 6660 0 0
+/website/123456123456 1 719 0 0
+/testimonials/create 1 10247 0 0
+/website/0002 1 785 0 0
+/website/0001 1 785 0 0
+/website/1269 1 719 0 0
+/login 1 1037 1 1
+/super-admin/28/edit 1 4372 0 0
+END_SIDER

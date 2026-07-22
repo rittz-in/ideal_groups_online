@@ -1,0 +1,530 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202412 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2026                
+POS_TIME 2700                
+POS_VISITOR 14452               
+POS_DAY 16219               
+POS_DOMAIN 3356                
+POS_LOGIN 3703                
+POS_ROBOT 3858                
+POS_WORMS 4172                
+POS_EMAILSENDER 4303                
+POS_EMAILRECEIVER 4446                
+POS_SESSION 16660               
+POS_SIDER 16807               
+POS_FILETYPES 4581                
+POS_DOWNLOADS 4682                
+POS_OS 4730                
+POS_BROWSER 4898                
+POS_SCREENSIZE 5458                
+POS_UNKNOWNREFERER 5532                
+POS_UNKNOWNREFERERBROWSER 5933                
+POS_ORIGIN 6102                
+POS_SEREFERRALS 6234                
+POS_PAGEREFS 6378                
+POS_SEARCHWORDS 6526                
+POS_KEYWORDS 6678                
+POS_MISC 2364                
+POS_ERRORS 6737                
+POS_CLUSTER 3559                
+POS_SIDER_404 6862                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250101043051 3 399 18025572470001
+FirstTime 20241201013947
+LastTime 20241231202709
+LastUpdate 20250101183617 3 0 2 0 0
+TotalVisits 45                  
+TotalUnique 44                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 44                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 2091 1 2 2428
+1 3 3 3135 15 18 26697
+2 1 1 1046 152 152 370828
+3 0 0 0 1 1 2428
+4 0 0 0 1 1 1046
+5 0 0 0 1 1 226
+6 2 2 4364 15 16 23691
+7 1 1 1035 153 154 369508
+8 0 0 0 4 4 20035
+9 2 2 2089 1 1 226
+10 4 4 6419 149 151 359796
+11 1 1 1036 1 1 3318
+12 1 1 1036 2 3 452
+13 2 2 2113 22 22 40204
+14 2 2 2080 252 253 614526
+15 0 0 0 257 257 623996
+16 18 18 19966 106 116 267958
+17 1 1 1047 4 5 3332
+18 0 0 0 2 2 452
+19 0 0 0 298 298 722232
+20 3 3 5407 2 5 452
+21 1 1 1046 147 153 371484
+22 0 0 0 2 2 6628
+23 2 2 2104 20 21 39752
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 24 24 29566
+ru 4 4 3113
+au 4 4 4157
+cn 3 3 5383
+gb 3 3 3131
+bg 2 2 2138
+in 2 2 2082
+ca 1 1 1046
+np 1 1 1046
+de 1 1 3318
+fr 1 1 1034
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+no_user_agent 10 33172 20241230064949 0
+java 4 13256 20241230021837 0
+curl 2 6636 20241230064602 0
+Go\-http\-client/ 2 2087 20241230011614 0
+archive\.org_bot 1 1046 20241221042918 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 44 53876 0 0
+Unknown 2 2138 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+Unknown 16 16
+linux 2 2
+winxp 1 1
+android 1 1
+androidmarshmallow 1 1
+win7 3 3
+win10 21 21
+macosx13 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 25
+chrome63.0.3239.132 1 1
+chrome75.0.3770.100 2 2
+msie11.0 1 1
+chrome79.0.3945.130 1 1
+chrome80.0.3987.163 1 1
+chrome70.0.3538.102 1 1
+chrome124.0.0.0 5 5
+chrome71.0.2623.112 1 1
+chrome100.0.4896.60 1 1
+chrome81.0.4044.113 1 1
+chrome108.0.0.0 2 2
+chrome114.0.0.0 1 1
+chrome99.0.4844.84 1 1
+chrome129.0.0.0 1 1
+firefox51.0 1 1
+Unknown 1 1
+firefox75.0 1 1
+chrome123.0.0.0 1 1
+chrome52.0.1997.98 1 1
+firefox50.0 1 1
+firefox52.0 1 1
+chrome110.0.0.0 1 1
+chrome68.0.3440.106 1 1
+mozilla 16 16
+chrome74.0.3729.131 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20241231202709
+httpx_-_Open-source_project_(github.com/Cloudsek-Engineering/fdf-httpx) 20241223095939
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20241220114115
+Mozilla/5.0_(compatible) 20241228071300
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+httpx_-_Open-source_project_(github.com/Cloudsek-Engineering/fdf-httpx) 20241223095939
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 46 46
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 1 355
+301 1 249
+406 40 9040
+404 1563 3805854
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 187
+/cgi-bin/mariju.php 10 www.google.com
+/wp-content/plugins/moon.php 10 www.google.com
+/wp-content/plugins/pwnd-3/pwnd.php 10 www.google.com
+/shell20211028.php 10 www.google.com
+/mini.php 10 www.google.com
+/cgi-bin/class_api.php 10 www.google.com
+/go.php 10 www.google.com
+/wp-gp.php 10 www.google.com
+/.env.dev.local 2 -
+/wp-content/plugins/pwnd-1/pwnd.php 10 www.google.com
+/wp-head.php 10 www.google.com
+/wp-includes/pomo/plugins.php 10 www.google.com
+/wp-content/packed.php 10 www.google.com
+/themes.php 10 www.google.com
+/wp-content/plugins/Cache/Cache.php 10 www.google.com
+/.env.production 2 -
+/wp-content/themes/travel/issue.php 10 www.google.com
+/mah/function.php 10 www.google.com
+/wp-includes/ID3/moon.php 10 www.google.com
+/wp-delete1.php 10 www.google.com
+/wp-admin/network/mariju.php 10 www.google.com
+/wp-content/plugins/pwnd/pwnd.php 10 www.google.com
+/wp-content/plugins/press/wp-class.php 10 www.google.com
+/yanz.php 10 www.google.com
+/wp-content/plugins/not/up.php 10 www.google.com
+/classwithtostring.php 10 www.google.com
+/wp-admin/css/colors/blue/uploader.php 10 www.google.com
+/geju.php 10 www.google.com
+/wp-content/upgrade/moon.php 10 www.google.com
+/.env_sample 2 -
+/wp-admin/includes/moon.php 10 www.google.com
+/wp-content/plugins/download-plugin/wp-access.php 10 www.google.com
+/wp-admin/images/headergi.php 10 www.google.com
+/info.php 1 -
+/wp-content/plugins/simple/simple.php 10 www.google.com
+/wp-includes/IXR/mariju.php 10 www.google.com
+/wp-includes/IXR/moon.php 10 www.google.com
+/robots.txt 1 -
+/.well-known/pki-validation/mariju.php 10 www.google.com
+/wp-admin/js/footerm.php 10 www.google.com
+/wp-content/plugins/index.php 20 www.google.com
+/.vscode/sftp.json 1 -
+/wp-content/plugins/linkpreview/db.php 10 www.google.com
+/wp-content/plugins/fix/about.php 10 www.google.com
+/dropdown.php 10 www.google.com
+/wp-content/json.php 10 www.google.com
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/doc/function.php 10 www.google.com
+/ayk.php 10 www.google.com
+/.env_1 2 -
+/wp-admin/includes/mariju.php 10 www.google.com
+/wp-includes/Requests/src/system.php 10 www.google.com
+/wp-content/plugins/wordpresss3cll/up.php 10 www.google.com
+/wp-content/plugins/seoo/wsoyanz.php 10 www.google.com
+/wp-admin/maint/moon.php 10 www.google.com
+/marju.php 10 www.google.com
+/wp-includes/ID3/mariju.php 10 www.google.com
+/wp-content/admin.php 10 www.google.com
+/wp-content/themes/gaukingo/db.php 10 www.google.com
+/wp-includes/sitemaps/providers/mariju.php 10 www.google.com
+/wp-admin/js/widgets/moon.php 10 www.google.com
+/wp-delete2.php 10 www.google.com
+/wp-plain.php 1 www.google.com
+/.env.local 2 -
+/wp-content/about.php 10 www.google.com
+/cong.php 10 www.google.com
+/wp-content/themes/seotheme/mar.php 10 www.google.com
+/chosen.php 10 www.google.com
+/wp-admin/css/OK.php 4 www.google.com
+/nf_tracking.php 10 www.google.com
+/_profiler/phpinfo 2 -
+/lo.php 10 www.google.com
+/wp-content/themes/seotheme/db.php 11 www.google.com
+/radio.php 10 www.google.com
+/.tmb/moon.php 10 www.google.com
+/about 1 -
+/bless.php 10 www.google.com
+/.env.www 2 -
+/app-ads.txt 3 -
+//idealgroups.org/digicard/public/js/coreui.bundle.min.js 6 -
+/style.php 10 www.google.com
+/_all_dbs 1 -
+/rafosul.php 10 www.google.com
+/sellers.json 3 -
+/wp-includes/class-wp-cmd.php 4 www.google.com
+/wp-content/plugins/yyobang/mar.php 10 www.google.com
+/wp-content/plugins/seoplugins/mar.php 10 www.google.com
+/alfa.php 10 www.google.com
+/config.json 1 -
+/.DS_Store 1 -
+/.env.save 4 -
+/wp-content/plugins/null/pgon.php 10 www.google.com
+/about/function.php 10 www.google.com
+/wp-includes/php-compat/combat.php 10 www.google.com
+/.git 1 https://www.digicard.idealgroups.org/.git/
+/wp-content/plugins/fix/up.php 10 www.google.com
+/wp-delete4.php 10 www.google.com
+/.env.www.digicard 1 -
+/plugins/function.php 10 www.google.com
+/.env.dev 2 -
+/wp-admin/images/footerw.php 10 www.google.com
+/wp-content/themes/hello-element/footer.php 10 www.google.com
+/wp.php 10 www.google.com
+/debug/default/view 1 -
+/telescope/requests 1 -
+/content.php 10 www.google.com
+/xmrlpc.php 10 www.google.com
+/wp-content/themes/wp-pridmag/init.php 10 www.google.com
+/.env.prod.local 2 -
+/wp-admin/images/moon.php 10 www.google.com
+/class.api.php 10 www.google.com
+/wp-admin/css/commenth.php 10 www.google.com
+/.well-known/acme-challenge/moon.php 10 www.google.com
+/hoot.php 10 www.google.com
+/pzlhaqzy.php 1 www.google.com
+/403.php 20 www.google.com
+/wp-admin/css/colors/blue/blue.php 10 www.google.com
+/wp-content/plugins/pwnd-5/pwnd.php 10 www.google.com
+/.git/config 8 -
+/delete4.php 10 www.google.com
+/phpinfo 2 -
+/wp-content/themes/pridmag/db.php 20 www.google.com
+/wp-admin/images/plugins.php 10 www.google.com
+/.env.digicard 1 -
+/wp-includes/SimplePie/index.php 10 www.google.com
+/s/5333e24353e28313e2931313/_/ 1 -
+/.env.prod 2 -
+/wp-includes/Requests/src/Utility/tiny.php 10 www.google.com
+/class_api.php 10 www.google.com
+/wp-content/themes/too.php 10 www.google.com
+/phpinfo.php 2 -
+/wp-admin/images/headerg.php 10 www.google.com
+/wp-admin/css/colors/coffee/mariju.php 10 www.google.com
+/wp-content/plugins/dummyyummy/wp-signup.php 20 www.google.com
+/wp-includes/assets/winnner.php 10 www.google.com
+/file/function.php 10 www.google.com
+/wp-admin/fmadmin.php 10 www.google.com
+/as/function.php 10 www.google.com
+/.well-known/acme-challenge/mariju.php 10 www.google.com
+/wp-includes/php-compat/mariju.php 10 www.google.com
+/marjuana.php 20 www.google.com
+/about.php 10 www.google.com
+/delete1.php 10 www.google.com
+/.well-known/pki-validation/class_api.php 10 www.google.com
+/delete3.php 10 www.google.com
+/repeater.php 10 www.google.com
+/.env.production.local 2 -
+/delete2.php 10 www.google.com
+/.env.stage 2 -
+/.env.development.local 2 -
+/.env.idealgroups 2 -
+/admin/function.php 10 www.google.com
+/license.php 10 www.google.com
+/wp-content/plugins/wp-theme-editor/include.php 10 www.google.com
+/wp-admin/user/moon.php 10 www.google.com
+/wp-delete3.php 10 www.google.com
+/wp-includes/customize/mariju.php 10 www.google.com
+/wp-content/plugins/hellopress/wp_filemanager.php 10 www.google.com
+/cgi-bin/moon.php 10 www.google.com
+/wp-content/plugins/pwnd-2/pwnd.php 10 www.google.com
+/wp-includes/certificates/moon.php 10 www.google.com
+/wp-admin/css/colors/coffee/index.php 10 www.google.com
+/wp-content/plugins/wp-help/admin/wp-fclass.php 10 www.google.com
+/wp-content/wso.php 10 www.google.com
+/wp-delete.php 10 www.google.com
+/wp-content/plugins/seoplugins/db.php 10 www.google.com
+/login.action 1 -
+/wp-content/themes/finley/min.php 10 www.google.com
+/wp-admin/js/widgets/class.api.php 10 www.google.com
+/v2/_catalog 1 -
+/images/mariju.php 10 www.google.com
+/wp-includes/css/dist/niil.php 10 www.google.com
+/wp-includes/rest-api/fields/yoxdu.php 10 www.google.com
+/wp-content/plugins/plugin/class-autoload.php 10 www.google.com
+/ads.txt 6 -
+/_a.php 10 www.google.com
+/wp-content/plugins/wp-help/index.php 10 www.google.com
+/wp-logout.php 10 www.google.com
+/server 1 -
+/wp-includes/images/smilies/dd.php 10 www.google.com
+/wp-content/plugins/pwnd-4/pwnd.php 10 www.google.com
+/actuator/env 1 -
+/.env.live 2 -
+/wp-admin/images/class.api.php 10 www.google.com
+/wp-admin/maint/mariju.php 10 www.google.com
+/index/function.php 10 www.google.com
+/tccsh3ll2024.php 10 www.google.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 44
+87.120.113.158 2 2 2138 20241215131211
+115.231.78.6 2 2 4347 20241221100736
+162.142.125.192 1 1 1042 20241231202709
+162.249.164.141 1 1 1046 20241228160733
+103.136.147.233 1 1 1047 20241220201234
+209.38.208.202 1 1 3318 20241220163125
+119.13.221.38 1 1 1034 20241228160804
+59.52.102.236 1 1 1036 20241221100736
+103.30.15.183 1 1 1035 20241230161611
+162.142.125.198 1 1 1035 20241203231234
+35.208.27.10 1 1 1036 20241218104330
+185.247.137.30 1 1 1046 20241217023901
+119.12.176.72 1 1 1036 20241227161044
+195.211.77.140 1 1 0 20241220163142
+64.226.119.233 1 1 1047 20241204170723
+47.242.224.70 1 1 1046 20241221003216
+51.159.14.99 1 1 1046 20241220165509
+54.213.249.100 1 1 1045 20241223095939
+199.45.155.81 1 1 1036 20241228141718
+152.39.136.181 1 1 1044 20241230162850
+199.45.155.97 1 1 1046 20241214011059
+134.122.103.71 1 1 1044 20241222132931
+152.39.252.92 1 1 1036 20241229160925
+164.92.189.52 1 1 1044 20241224144850
+206.168.34.216 1 1 1046 20241228014435
+167.94.146.48 1 1 1046 20241205060851
+13.215.50.161 1 1 1046 20241220215645
+119.12.177.94 1 1 1037 20241231164232
+174.138.54.207 1 1 1046 20241218165828
+199.45.155.70 1 1 1043 20241201013947
+119.13.216.156 1 1 1050 20241227161508
+195.211.77.142 1 1 1031 20241220163204
+44.234.115.201 1 1 1044 20241223094105
+51.159.111.112 1 1 1043 20241220165620
+199.45.154.131 1 1 1045 20241231003433
+51.158.205.64 1 1 1042 20241220165831
+89.244.95.80 1 1 3318 20241220200843
+199.45.155.76 1 1 1036 20241217123749
+152.39.210.246 1 1 1042 20241229161023
+212.103.43.200 1 1 1034 20241227161049
+203.78.169.33 1 1 1046 20241228160730
+147.182.129.111 1 1 1035 20241228071300
+35.171.144.152 1 1 3318 20241211061140
+185.247.137.19 1 1 1036 20241220114115
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20241201 1 1 1043 1
+20241203 1 1 1035 1
+20241204 1 1 1047 1
+20241205 1 1 1046 1
+20241211 1 1 3318 1
+20241214 2 2 2115 2
+20241215 1 1 1069 1
+20241217 2 2 2082 2
+20241218 2 2 2082 2
+20241220 10 10 13927 10
+20241221 4 4 6429 3
+20241222 1 1 1044 1
+20241223 2 2 2089 2
+20241224 1 1 1044 1
+20241227 3 3 3120 3
+20241228 6 6 6243 6
+20241229 2 2 2078 2
+20241230 2 2 2079 2
+20241231 3 3 3124 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 45
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 44 53876 43 43
+/.env.example 2 2138 2 2
+END_SIDER

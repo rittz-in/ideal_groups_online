@@ -1,0 +1,501 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202602 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.fizznfreeze.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2100                
+POS_TIME 2773                
+POS_VISITOR 9964                
+POS_DAY 12478               
+POS_DOMAIN 3471                
+POS_LOGIN 3811                
+POS_ROBOT 3966                
+POS_WORMS 4098                
+POS_EMAILSENDER 4229                
+POS_EMAILRECEIVER 4372                
+POS_SESSION 13072               
+POS_FILESIZE 18375               
+POS_REQUESTTIME 18520               
+POS_SIDER 13278               
+POS_FILETYPES 4507                
+POS_DOWNLOADS 4768                
+POS_OS 4816                
+POS_BROWSER 4994                
+POS_SCREENSIZE 5506                
+POS_UNKNOWNREFERER 5580                
+POS_UNKNOWNREFERERBROWSER 6010                
+POS_ORIGIN 6248                
+POS_SEREFERRALS 6386                
+POS_PAGEREFS 6549                
+POS_SEARCHWORDS 6723                
+POS_KEYWORDS 6875                
+POS_MISC 2436                
+POS_ERRORS 6934                
+POS_CLUSTER 3667                
+POS_SIDER_404 7106                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260301060826 1 0 12393475020700
+FirstTime 20260201115452
+LastTime 20260228085818
+LastUpdate 20260301192848 1 0 0 0 0
+TotalVisits 68                  
+TotalUnique 60                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 61                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+AddToFavourites 0 14 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 5 101185 6 6 3463
+1 3 4 187193 3 4 633
+2 1 2 115037 3 4 652
+3 0 0 0 0 0 0
+4 2 2 128422 5 5 1301
+5 2 3 151080 5 6 3484
+6 1 2 115041 2 3 439
+7 2 2 128402 2 2 620
+8 2 2 97894 3 3 620
+9 2 2 72139 2 2 436
+10 2 16 798691 4 4 2864
+11 10 12 920631 6 6 1118
+12 205 332 12970705 10 14 1902
+13 91 93 536875 4 4 1472
+14 100 245 8685458 12 13 11109
+15 88 154 6804696 54 160 27558
+16 8 23 1072511 4 20 1056
+17 51 147 2903343 14 181 2504
+18 39 78 4747949 10 11 2547
+19 14 51 2118589 77 78 469393
+20 1 2 115014 5 5 3250
+21 2 2 72144 3 3 646
+22 0 3 29007 0 0 0
+23 1 2 115044 2 2 6816
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+in 544 1027 34988499
+us 77 145 7205077
+ca 2 2 184654
+fi 2 4 342694
+se 1 1 0
+ru 1 1 36102
+nl 1 2 115014
+de 1 1 36068
+be 0 1 78942
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 161 2231982 0 0
+Unknown 597 7858437 0 0
+svg 32 2131434 0 0
+jpg 95 6210245 0 0
+woff2 22 7292628 0 0
+jpeg 40 4007030 0 0
+js 194 11970998 0 0
+html 3 32079 0 0
+png 33 1152672 0 0
+json 7 99545 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+Unknown 19 11
+win10 370 139
+linux 235 81
+macosx15 495 365
+win7 2 1
+android 26 10
+ios_iphone 23 9
+android10 14 13
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+chrome136.0.0.0 133 29
+safari17.2 1 1
+safari26.3 7 7
+Unknown 2 2
+chrome86.0.4240.193 1 1
+chrome142.0.0.0 6 3
+firefox140.0 1 1
+safari26.2 16 2
+chrome83.0.4093.0 1 1
+chrome137.0.0.0 2 1
+chrome124.0.0.0 1 1
+chrome145.0.0.0 218 104
+chrome134.0.0.0 16 4
+chrome138.0.0.0 1 1
+firefox141.0 1 1
+chrome143.0.0.0 36 3
+edge123 1 1
+chrome136.0.7103.125 26 10
+chrome144.0.0.0 678 430
+firefox120.0 8 8
+chrome92.0.4515.159 2 1
+safari13.1.2 2 1
+mozilla 17 9
+chrome126.0.0.0 7 7
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260228012022
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260203160710
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260223234709
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260203160710
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 98 120
+From1 0 0
+From2 2 2
+From3 1 1
+From4 528 1061
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://wordpress.org 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+409 7 581
+301 7 2082
+500 91 474295
+401 4 200
+403 12 4260
+406 14 3164
+302 79 18294
+404 307 41007
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 35
+/app/orders/list 3 -
+/storage/products/Maggi_1769238936.png 7 https://fizznfreeze.idealgroups.org/cart/101
+/old/public/assets/vendor/libs/popper/popper.min.js.map 1 -
+/wp-admin 1 https://wordpress.org/
+/old/ 3 -
+/product//106 1 https://fizznfreeze.idealgroups.org/product/all/106
+/storage/products/images_1769782193.jpg 19 https://fizznfreeze.idealgroups.org/product/all/102
+/public/login 1 -
+/storage/products/Panjabi%20Puff_1769584306.jpg 19 https://fizznfreeze.idealgroups.org/product/all/102
+/storage/products/Masala%20Maggi_1769238803.jpg 4 https://fizznfreeze.idealgroups.org/cart/101
+/old/public/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js.map 1 -
+/public/wp-admin 4 https://wordpress.org/
+/storage/products/Veg%20Cheese%20Masala%20Maggi_1769238700.jpg 2 https://fizznfreeze.idealgroups.org/product/Maggi/101
+/storage/products/81f0d6debddc801fabebec956cd0312d_1769238500.jpg 2 https://fizznfreeze.idealgroups.org/product/Maggi/101
+/storage/products/watermenlon_1767778496.jpeg 19 https://fizznfreeze.idealgroups.org/product/all/102
+/storage/products/cofee_1768195873.jpeg 19 https://fizznfreeze.idealgroups.org/product/all/102
+/storage/products/Cheese%20Chillee%20Sandwich_1769239536.jpg 21 https://fizznfreeze.idealgroups.org/product/all/102
+/storage/products/Cheese%20Fries_1769584108.jpg 19 https://fizznfreeze.idealgroups.org/product/all/102
+/storage/products/7%20Cheese%20Pizza_1769584522.jpg 19 https://fizznfreeze.idealgroups.org/product/all/102
+/pold 1 -
+//fizznfreeze.idealgroups.org/login' 1 -
+/admin 1 https://www.google.com/
+/login 1 -
+/storage/products/Cheese%20Puff_1769584082.jpg 19 https://fizznfreeze.idealgroups.org/product/all/102
+/css/theme-styles.css 23 https://fizznfreeze.idealgroups.org/track-order
+/storage/products/Watermelon%20Mocktail_1769590178.jpg 19 https://fizznfreeze.idealgroups.org/product/all/102
+/.git/config 1 -
+/storage/products/Pineapple%20Juice_1769584847.jpg 14 https://fizznfreeze.idealgroups.org/product/all/102
+/assets/img/qr/payment_qr_1769790000.jpg 1 https://fizznfreeze.idealgroups.org/order/payment/ORD202602020002
+/storage/products/Peri%20Peri%20Fries_1769583888.jpeg 19 https://fizznfreeze.idealgroups.org/product/all/102
+/storage/products/Chinese%20Puff_1769584391.jpg 19 https://fizznfreeze.idealgroups.org/product/all/102
+/index.php 1 -
+/storage/products/Veg%20Paneer%20Masala%20Maggi_1769238767.jpg 2 https://fizznfreeze.idealgroups.org/product/Maggi/101
+/storage/products/regular_fries_1767769279.jpeg 19 https://fizznfreeze.idealgroups.org/product/all/102
+/public/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 61
+42.106.13.160 232 247 2654049 20260202134010
+122.170.32.100 42 81 4582134 20260211125119
+182.77.120.3 40 40 46275 20260202144923
+223.236.48.49 37 111 6076037 20260213174435
+106.215.39.212 37 76 4675786 20260220182446
+42.111.218.22 32 169 8373847 20260217144717
+106.201.187.52 25 46 2025056 20260226153112
+223.179.150.191 22 22 25459 20260202150207
+223.236.28.163 18 18 332159 20260226174509
+49.14.126.23 14 16 295508 20260227160235
+223.226.211.241 13 46 2001934 20260223195320
+49.34.233.75 12 50 161822 20260209175236
+152.58.35.173 12 50 3759415 20260202120534
+122.177.91.29 11 32 112075 20260227170452
+157.32.34.112 11 19 210757 20260202144116
+157.32.34.37 9 10 805621 20260201115609
+172.225.136.165 5 5 0 20260226152410
+204.76.203.25 4 16 485336 20260227072909
+3.151.194.164 3 3 108223 20260227124658
+103.3.32.69 3 36 1774770 20260202120347
+171.61.167.75 2 16 798691 20260221104801
+98.88.203.1 2 2 72163 20260226181658
+3.18.186.238 2 2 72149 20260205165945
+42.111.192.51 2 17 877601 20260212164729
+3.139.242.79 2 2 72141 20260215004231
+23.27.145.46 1 1 36080 20260222155017
+188.166.4.19 1 2 115014 20260216204129
+23.27.145.204 1 1 36075 20260202050129
+66.132.153.140 1 2 115007 20260213120727
+203.192.221.132 1 2 87648 20260227170257
+138.197.100.246 1 2 115010 20260202115833
+138.197.46.214 1 1 36077 20260202123307
+104.28.37.209 1 1 5567 20260228085818
+199.45.154.159 1 2 115005 20260206054917
+185.247.137.164 1 1 36102 20260223234706
+54.162.95.96 1 1 36102 20260215015734
+164.92.127.195 1 2 115033 20260210153518
+87.236.176.117 0 1 78942 
+149.57.180.155 1 1 36103 20260202005932
+199.45.155.72 1 2 115015 20260228012020
+146.75.205.0 1 1 0 20260226152323
+134.209.170.10 1 1 36067 20260202091656
+194.180.49.38 1 1 36068 20260213144606
+106.221.77.16 1 2 87648 20260226190427
+104.236.223.36 1 1 36072 20260215092029
+162.142.125.217 1 2 115037 20260222021141
+35.172.9.70 1 1 36095 20260209044343
+206.168.34.35 1 2 115041 20260206060718
+23.27.145.2 1 1 36103 20260201172604
+167.94.138.63 1 1 36089 20260220174925
+54.227.223.64 2 2 72180 20260218154837
+167.94.146.53 1 2 115039 20260213122651
+199.45.154.150 1 2 115011 20260220174802
+81.29.142.6 2 4 342694 20260219133033
+23.27.145.179 1 1 36076 20260206014321
+157.245.124.54 1 1 1128 20260202153148
+23.27.145.114 1 1 36073 20260205175053
+198.235.24.39 1 1 92327 20260202040722
+205.210.31.159 1 1 92327 20260203160710
+23.27.145.49 1 1 36090 20260222154906
+23.27.145.254 1 1 36097 20260205175036
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20260201 10 11 841724 2
+20260202 327 422 8823512 13
+20260203 1 1 92327 1
+20260204 1 1 36075 1
+20260205 4 4 144321 4
+20260206 5 7 338266 5
+20260209 14 55 319251 3
+20260210 1 2 115033 1
+20260211 42 81 4582134 1
+20260212 2 17 877601 1
+20260213 40 116 6342151 5
+20260215 3 3 108249 3
+20260216 2 6 236348 2
+20260217 32 169 8373847 1
+20260218 2 2 72180 1
+20260219 2 4 342694 1
+20260220 39 79 4826886 3
+20260221 3 20 920025 2
+20260222 3 4 187207 3
+20260223 14 48 2116978 2
+20260226 52 74 2517026 6
+20260227 28 52 623626 5
+20260228 2 6 149589 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 4
+1h+ 1
+5mn-15mn 3
+15mn-30mn 3
+30s-2mn 5
+0s-30s 51
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 76
+/app/orders/getAll 136 259763 0 2
+/app/orders/statistics 134 14444 2 1
+/login 65 2795322 53 46
+/home/102 29 61324 7 3
+/app/orders/active 28 21731 0 0
+/app/customers/getAll 16 7388 0 1
+/product/all/102 16 398482 0 4
+/app/orders/list 15 648710 1 0
+/app/orders/kitchen 14 611571 0 0
+/app/tables/payment-qr 12 510252 0 0
+/assets/vendor/fonts/fontawesome/fa-brands-400.woff2 10 864160 0 0
+/assets/vendor/fonts/tabler/tabler-icons.woff2 10 5618176 0 1
+/app/reports/sales/data 9 1668 0 0
+/app/customers/list 9 379572 0 0
+/assets/json/search-vertical.json 7 99545 0 0
+/home/101 6 33514 0 0
+/product/all 5 124651 0 0
+/cart 5 46313 0 0
+/product/all/101 5 124830 0 0
+/app/tables/list 5 210742 0 0
+/app/tables/getAll 5 17672 0 0
+/app/products/getAll 4 21865 0 0
+/track-order 4 35023 2 2
+/app/reports/sales 4 170849 0 0
+/app/site-users/getAllSiteUsers 3 7386 0 1
+/app/tables/qr/eyJpdiI6IkEyaitSWGxWUnNIYnYzdnRIVGVyNFE9PSIsInZhbHVlIjoiL0tQekIxYlFzUGh4RUtiTFMrNVB2dz09IiwibWFjIjoiZTg0OWVjNWE3ODVkMzJjNDA4NjlmYjU1OGQxYzAyNmQyYmM5NDMwNTJhMWE1MDlkOTliYzZmMjFiZTJmZjJlMiIsInRhZyI6IiJ9 1 45093 0 0
+/home/108 1 5596 0 0
+/app/orders/print/eyJpdiI6Ik14L3hCSy9qbE95SUF0ZHFJUmp1Mmc9PSIsInZhbHVlIjoiQnFjdm5iMFlkSFczeGNmQjhSOTF1dz09IiwibWFjIjoiMmI0ZTdiZTZkZTgyYjlkZGJmNDM2ZjJlZTkxM2JkMzYxODcyOWU2MzVkZjY1MDZhNGVkY2M5ODVjNDg1NzNhMSIsInRhZyI6IiJ9 1 1446 0 0
+/app/orders/view/eyJpdiI6IjFiYnl2TlpQTXdKRzNRSjMrZWlhQUE9PSIsInZhbHVlIjoid2IvdGZ4Wm1FNkozdWtuQ3R4a0hPUT09IiwibWFjIjoiNjAxYjQ2ZmM0M2ZlODg1NTBmNDc2NmRjMjUzNWMyYjI1Njg1OTM0OWYwYjA5ZmM1NDJhZDU4NDYxYTdhMjBmMiIsInRhZyI6IiJ9 1 43814 0 0
+/register 1 37009 0 1
+/product/all/104 1 24983 0 0
+/app/users/list 2 84615 0 0
+/product/Maggi/101 1 13938 0 0
+/order/place 3 476 0 0
+/cart/101 2 18534 0 0
+/ 3 32079 0 0
+/order/my-orders/8673047576 2 392 0 0
+/checkout/101 3 21508 0 0
+/app/tables/add 1 41381 0 0
+/app/categories/getAll 1 4138 0 0
+/app/orders/update-status/eyJpdiI6ImdDY3c5WGJkaE5YRE1ja3hhWk9EeHc9PSIsInZhbHVlIjoiZDVFQ0dNeFNEOEJDcEMzMWlqREV1dz09IiwibWFjIjoiZDRhNzAzMTBhZjkyNDUyODA4MTIwMzUyMDc0NTVhYzMzMmJiYjc1ODMzYWEwZjYxNDFhN2JhYTI0ZTM1ZjcxMCIsInRhZyI6IiJ9 1 88 0 0
+/order/status/ORD202602020002 1 179 0 0
+/home/106 2 11192 1 0
+/order/payment/ORD202602020002 1 6300 0 0
+/product/all/108 1 24975 0 1
+/app/products/list 2 85750 0 0
+/product/Maggi/102 1 13934 0 0
+/home 1 5583 0 1
+/app/roles/getAll 1 2271 0 0
+/app/tables/qr/eyJpdiI6ImJ1MHBPTkJPYjMvZmF5ZGE3MUNMM3c9PSIsInZhbHVlIjoiR0J2NTJrRm1rVW8yUkRDZDlvcWFJQT09IiwibWFjIjoiZDJlZGNmOWE0ZTJkZDFlZWUzODNlY2QwYjJhZmIyNmE2Njk1NTkxN2VhY2QzNTU3Y2ZkNmVhNThiOTBiMzQ4MyIsInRhZyI6IiJ9 1 45093 0 0
+/home/107 1 5596 0 0
+/product/all/105 1 24991 0 0
+/product/all/106 2 49953 0 0
+/home/104 1 5596 0 0
+/app/orders/view/eyJpdiI6IktxSFRWYlJZM0hucWFzbmJrNUwrdFE9PSIsInZhbHVlIjoibTluRzlaZFdraWRyVVQwZkc0S0ZZdz09IiwibWFjIjoiYWVhNGEwZjhiYWRkYzEwZTY0OWI5OGNjMGY3M2E1ZWE1NDdkMGY1MGExNDlkYzgzODNjZjFlNjNhNzc3MWE3YiIsInRhZyI6IiJ9 2 87533 0 0
+/old/public/assets/vendor/fonts/fontawesome/fa-brands-400.woff2 1 108020 0 0
+/product/all/107 1 24970 0 0
+/password/reset 1 1128 1 1
+/app/site-users/list 2 84527 0 0
+/app/roles/edit/eyJpdiI6InpsQkpmNTRJVE1DMFJGVnhXdDh0M0E9PSIsInZhbHVlIjoieHdRYy93RkZ3RUdTYkExVDJrRk1Odz09IiwibWFjIjoiNTMxNDg0ZWQ0MjEyMDg0OTUwYzcwNTVmNjc5MmQyM2ViZjZlYjY2MjkwNjFhZmNhZjc1ZmU4YzI0NmU0NDA5NiIsInRhZyI6IiJ9 1 44630 0 0
+/app/orders/view/eyJpdiI6IlZRRFBqNGYyWnVic3ZScTZhVWt3VFE9PSIsInZhbHVlIjoidGtSM2JacGZHU05WdUNnamtONUMxUT09IiwibWFjIjoiMTY2OGFhZWZhMWNjZGY3ZWQxZTYxZTNjMTA4MDZkZDRhN2M2NTgwZmQyNzAwOWU2NDgwZDE4ZGU1MzI3MGZjMSIsInRhZyI6IiJ9 1 43829 0 0
+/app/orders/update-status/eyJpdiI6InpnNEx3bnFUa045cEVCWWxPYXBYc3c9PSIsInZhbHVlIjoiZ0FTcy80QlFkZmpTQnlyVk9jVk9PZz09IiwibWFjIjoiZGFiYjc1MDkwZDc4OTNhYTI3MTY1NjkwZTQ0ZDExODE0NTdkOGYzNDE5MjFmYmJiNDhiN2M3Njc1MDk0Mzg2NSIsInRhZyI6IiJ9 1 89 0 0
+/home/105 1 5596 0 0
+/product 2 49742 0 1
+/app/orders/update-payment/eyJpdiI6IkdBb1ZTTG9CRVQ2VnlMSGxMTitNb2c9PSIsInZhbHVlIjoiRnNlZjhWZHAxNHBETm02RVZzREpJQT09IiwibWFjIjoiNjhhYjliOGE2MzIxOTdlYzliOTQxOTkwNGVhZDU4NzMwMjcxZTc4MzFkMzE2ZmIwNGFlNjA1NzMyNTc4MmNjNyIsInRhZyI6IiJ9 1 93 0 0
+/app/users/getAll 3 10930 0 0
+/app/categories/list 1 42073 0 0
+/app/customers/export 3 18689 0 1
+/app/orders/update-status/eyJpdiI6InJxbnY0NWkvejJ4L0xPbTYwUnA2TVE9PSIsInZhbHVlIjoicVdrcnMwaGtnMVRZUlgxRTA4dkJ4UT09IiwibWFjIjoiNDE0NjRjYzE0M2RjOGE3YmJhZTM1NmJkZTgwMTY3ODIzOTk0ZjUwN2NmZjUyMWY1NDhiZjJmNTI1ZjlmNjBjMCIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6IjFnb2g4MktZd3FRclRySHZZOFgzaWc9PSIsInZhbHVlIjoieFI3ajRvSUdDWUp4eHFQME9RaUdmdz09IiwibWFjIjoiZmU0MWU5NWE2NTFlN2U3NGVjODE1ZmE4ZWU4NDQ2NGQ4Mzg3ZDU4MzIxZDhjODg0OTg1Mzk1OWRmZDllMmJkYyIsInRhZyI6IiJ9 1 92 0 0
+/app/roles/list 1 42495 0 0
+/order/status/ORD202602020001 1 178 0 1
+/app/orders/view/eyJpdiI6IlpoOWpCbkVxNHNnYXFsd2RZMW9PVVE9PSIsInZhbHVlIjoiZXZjajMzellGWkNIckh2NFZxL1gyZz09IiwibWFjIjoiODM3YmRjNmVjZWNiNTZkNTkyNTA5Nzc3MWM4MDBkNDJmMTAyNjBkZTE3YzU4MWQ0ZDY0MDFmOTlhNDlhYjdmYiIsInRhZyI6IiJ9 1 43609 0 0
+/old/public/assets/vendor/fonts/tabler/tabler-icons.woff2 1 702272 0 0
+/app/tables/print-all-qr 3 158390 0 0
+/old/public/login 2 72256 1 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+44-100 56
+5K+ 616
+2K-5K 171
+500-1K 83
+0-44 480
+1K-2K 58
+100-500 256
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

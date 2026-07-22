@@ -1,0 +1,595 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202501 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.ugi.net.in.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2058                
+POS_TIME 2736                
+POS_VISITOR 14077               
+POS_DAY 15087               
+POS_DOMAIN 3477                
+POS_LOGIN 3772                
+POS_ROBOT 3927                
+POS_WORMS 4387                
+POS_EMAILSENDER 4518                
+POS_EMAILRECEIVER 4661                
+POS_SESSION 15774               
+POS_FILESIZE 17088               
+POS_SIDER 15984               
+POS_FILETYPES 4796                
+POS_DOWNLOADS 4962                
+POS_OS 5033                
+POS_BROWSER 5212                
+POS_SCREENSIZE 5421                
+POS_UNKNOWNREFERER 5495                
+POS_UNKNOWNREFERERBROWSER 5774                
+POS_ORIGIN 5945                
+POS_SEREFERRALS 6079                
+POS_PAGEREFS 6223                
+POS_SEARCHWORDS 6371                
+POS_KEYWORDS 6523                
+POS_MISC 2400                
+POS_ERRORS 6582                
+POS_CLUSTER 3628                
+POS_SIDER_404 6764                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250201001254 23 5170 10939490699766
+FirstTime 20250101064523
+LastTime 20250131234300
+LastUpdate 20250201185033 23 0 22 0 0
+TotalVisits 243                 
+TotalUnique 24                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 26                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 3 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 44 44 0 73 80 148902
+1 33 33 0 330 334 8596447
+2 41 42 9258 342 351 8734378
+3 26 26 514 38 41 105698
+4 25 25 0 43 45 104248
+5 25 25 0 37 39 132462
+6 20 20 0 51 53 174319
+7 40 40 13464 78 87 312683
+8 47 47 514 373 380 8824441
+9 33 33 0 96 102 465292
+10 34 34 0 62 71 397887
+11 33 33 0 65 66 139759
+12 45 46 9258 81 85 286102
+13 40 40 0 66 71 174677
+14 37 38 111433 50 56 123600
+15 36 36 0 55 60 220691
+16 61 63 122572 175 194 892602
+17 31 31 0 89 100 767656
+18 47 47 0 577 581 3678189
+19 37 37 0 613 620 17082696
+20 31 32 35623 67 71 190062
+21 27 27 0 46 58 271605
+22 31 31 0 70 73 331864
+23 23 23 0 51 54 258930
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+in 821 823 19092
+us 15 19 269819
+ru 5 5 0
+zz 3 3 261
+gb 1 1 0
+ca 1 1 13464
+pl 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Googlebot/ 30 3210 20250131190333 30
+unknown 14 1498 20250128075843 14
+facebookexternalhit/ 8 872 20250126100531 8
+Pinterestbot 5 535 20250131165223 5
+bot[\s_+:,\.\;\/\\-] 5 535 20250126092805 5
+no_user_agent 2 285334 20250126175321 0
+bingbot/ 1 107 20250111210516 1
+link 1 107 20250117162256 1
+Applebot/ 1 107 20250127170226 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 1 35623 0 0
+txt 3 26232 0 0
+html 2 13464 0 0
+Unknown 24 1881 0 0
+php 821 2570 0 0
+js 2 222866 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/license.txt 3 0 26232
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+macosx10 3 1
+android 1 0
+androidnougat 4 3
+win10 2 0
+androidkitkat 1 1
+android13 2 2
+macosx15 6 6
+Unknown 834 834
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+chrome60.0.3112.107 4 3
+safari15.6.1 1 1
+android 1 1
+firefox117.0 1 0
+Unknown 819 819
+firefox77.0 5 5
+chrome39.0.2171.95 3 1
+mozilla 15 15
+chrome117.0.0.0 4 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20250122163011
+WordPress/6.7.1;_https://ugi.net.in 20250131234300
+Cpanel-HTTP-Client/1.0 20250122163002
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/6.7.1;_https://ugi.net.in 20250131234300
+Cpanel-HTTP-Client/1.0 20250122163002
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 846 851
+From1 1 2
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+409 242 252788
+404 1952 50832047
+401 5 550
+101 3 0
+301 898 0
+500 2 0
+302 8 0
+403 173 965406
+406 319 72094
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 231
+/backup 4 www.google.com
+/blog/wp-json/wp/v2/users 1 -
+/.well-known/security.txt 1 http://www.ugi.net.in/.well-known/security.txt
+/wp.php 1 -
+/xmrlpc.php 10 -
+/wp-admin/images/cloud.php 10 -
+/admin-post.php 10 -
+/wp-admin/network/xmrlpc.php 10 -
+/.ll/.qiodetme.php 1 -
+/wp-includes/block-patterns/about.php 10 -
+/wp-includes/pomo/about.php 10 -
+/wp-content/banners/about.php 10 -
+/wp-content/plugins/not/includes/about.php 10 -
+/wp-admin/css/colors/blue/cloud.php 10 -
+/sitemap 1 -
+/wp-p.php7 10 -
+/berlin.php 10 -
+/.well-known/autoconfig/mail/config-v1.1.xml 1 -
+/wp-admin/includes/about.php 10 -
+/.json 1 -
+/wordpress/wp-admin/setup-config.php 212 -
+/install.php 1 -
+/wp 8 www.google.com
+/wp-admin/css/colors/coffee/cloud.php 10 -
+/.well-known/pki-validation/cloud.php 10 -
+/media/system/js/core.js 2 -
+/sellers.json 1 -
+/geju.php 2 -
+/updates.php 10 -
+/.qiodetme.php 1 -
+/wp-json/payu/v1/ 1 -
+/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_style_safe.css 1 -
+/s/5333e24353e28313e2931313/_/ 3 -
+/wordpress/wp-json/wp/v2/users 1 -
+/up.php 1 -
+/application-dev.properties 1 -
+/wp/wp-json/wp/v2/users 1 -
+/css/xmrlpc.php 10 -
+/ws.php7 10 -
+/wp-content/about.php 11 -
+/payload.php 1 -
+/installer.php 3 -
+/cache-compat.php 10 -
+/config/php.ini 1 -
+/.well-known/pki-validation/about.php 11 -
+/wp-admin/js/about.php 20 -
+/avaa.php 10 -
+/blog 4 www.google.com
+/.env.production 1 -
+/ads.txt 4 http://www.ugi.net.in/ads.txt
+/wp-includes/images/about.php 10 -
+/old/wp-admin/setup-config.php 3 -
+/main.js 1 -
+/wp-content/plugins/seoplugins/db.php 10 -
+/wp-includes/ID3/about.php 10 -
+/repeater.php 10 -
+/.AWS_/credentials 1 -
+/wp/xmlrpc.php 85 -
+/modules/mod_simplefileuploadv1.3/elements/wcg9LbOHD14.php 2 -
+/.git/config 7 -
+/wp-content/plugins/WordPressCore/include.php 2 -
+/sitemap_index.xml 1 -
+/blog/xmlrpc.php 85 -
+/wp-content/admin.php 1 -
+/.well-known/acme-challenge/xmrlpc.php 10 -
+/admin/config/search/xmlsitemap 1 -
+/debug/default/view 3 -
+/app-ads.txt 1 -
+/wp-content/themes/aahana/json.php 10 -
+/wp-admin/xmrlpc.php 10 -
+/.env.save 1 -
+/index/function.php 1 -
+/util/login.aspx 1 -
+/alfanew2.php7 10 -
+/wp-admin/user/cloud.php 10 -
+/content.php 10 -
+/wp-includes.bak/html-api/about.php 10 -
+/wp-content/themes/about.php 10 -
+/wp-admin/includes/xmrlpc.php 10 -
+/wp-includes/widgets/about.php 10 -
+/wp-content/plugins/simple/simple.php 10 -
+/php_info.php 1 -
+/wp-content/plugins/pwnd-1/pwnd.php 1 -
+/wp-content/plugins/awesome-coming-soon/come.php 10 -
+/images/xmrlpc.php 10 -
+/config.json 3 -
+/sftp-config.json 5 -
+/wp-includes/SimplePie/about.php 10 -
+/wp-content/repeater.php 10 -
+/admin/.env 1 -
+/package.json 1 -
+/wp-includes/IXR/about.php 10 -
+/_all_dbs 3 -
+/about.php 10 -
+/wp-content/themes/seotheme/mar.php 10 -
+/login.action 3 -
+/wp-content/updraft/about.php 10 -
+/wp-admin/images/xmrlpc.php 10 -
+/wp-content/plugins/seoo/wsoyanz.php 10 -
+/wp-content/plugins/wp-automatic/css/style.css 1 -
+/modules/mod_ariimageslidersa/mod_ariimageslidersa.php 1 -
+/wp-includes/about.php 10 -
+/modules/mod_simplefileuploadv1.3/elements/udd.php 2 -
+/.well-known/about.php 10 -
+/wp-admin/js/widgets/about.php7 10 -
+/magento_version 1 -
+/wp-content/blogs.dir/about.php 10 -
+/.well-known/acme-challenge/cloud.php 20 -
+/img/cloud.php 10 -
+/sitemap_index.xml.gz 1 -
+/wp-content/updates.php 10 -
+/.env.development 1 -
+/wp-content/plugins/core-plugin/include.php 1 -
+/telescope/requests 3 -
+/libraries/legacy/updates.php 10 -
+/ajax-actions.php 10 -
+/wp-includes/Requests/about.php 10 -
+/api/env 1 -
+/wp-content/plugins/payu-india/images/payubizlogo.png 1 -
+/img/xmrlpc.php 10 -
+/.vscode/sftp.json 8 -
+/administrator/templates/hathor/error.php 1 -
+/admin.php 20 -
+/img/about.php 10 -
+/wsoyanz.php 10 -
+/wp-admin/style.php 1 -
+/wp-content/plugins/mainwp-child/css/1.11.1/jquery-ui.min.css 2 -
+/sftp.json 1 -
+/wp-admin/ajax-actions.php 10 -
+/alfanew.php7 10 -
+/sitemap-index.xml 1 -
+/wp-admin/css/about.php 10 -
+/wp-admin/cloud.php 10 -
+/cgi-bin/about.php 10 -
+/wp-admin/network/cloud.php 10 -
+/wp-content/languages/about.php 10 -
+/sites/all/themes/adminimal_theme/uqPfX5TiZbY.php 1 -
+/wp-content/themes/seotheme/db.php 10 -
+/wp-admin/maint/maint/ajax-actions.php 10 -
+/libraries/vendor/updates.php 10 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/sitemap-index.xml.gz 1 -
+/wp-content/plugins/wp-theme-editor/include.php 10 -
+/wp-admin/js/widgets/xmrlpc.php 10 -
+/humans.txt 1 http://www.ugi.net.in/humans.txt
+/wp-admin/includes/cloud.php 10 -
+/wp-content/plugins/wp-conflg.php 10 -
+/public/vendor/laravel-filemanager/js/script.js 1 -
+/admin/controller/extension/extension/daDTLv3YPn6.php 2 -
+/wp-includes/repeater.php 10 -
+/v2/_catalog 3 -
+/alfa-rex.php7 10 -
+/test 4 www.google.com
+/style.php 2 -
+/server 3 -
+/adminfuns.php7 10 -
+/cgi-bin/xmrlpc.php 10 -
+/wp-admin/repeater.php 10 -
+/.sitemap.xml 1 -
+/info.php 4 -
+/hoot.php 1 -
+/_profiler/phpinfo 1 -
+/wp-content/themes/hideo/network.php 2 -
+/wp-content/plugins/hunk-companion/gogolite/customizer/customizer-scroll/js/script.js 1 -
+/about.php7 10 -
+/wp-content/upgrade-temp-backup/about.php 10 -
+/wp-content/gallery/about.php 10 -
+/actuator/env 3 -
+/ugi 4 www.google.com
+/403.php 10 -
+/wp-includes/rest-api/about.php 10 -
+/wp-content/plugins/linkpreview/db.php 10 -
+/wp-content/plugins/fix/up.php 2 -
+/dropdown.php 10 -
+/wp-includes/style-engine/about.php 10 -
+/sitemap/sitemap-index.xml 1 -
+/wp-content/plugins/style.php 1 -
+/wp-admin/css/colors/cloud.php 10 -
+/wp-consar.php 10 -
+/.env.json 1 -
+/wp-admin/dropdown.php 10 -
+/.DS_Store 3 -
+/alfanew.php 10 -
+/wp-content/style.php 1 -
+/wp-includes/Requests/Text/admin.php 10 -
+/cgi-bin/cloud.php 10 -
+/ebs.php7 10 -
+/new 4 www.google.com
+/wp-content/plugins/seoplugins/mar.php 10 -
+/wp-admin/css/colors/coffee/xmrlpc.php 10 -
+/db_config.php 1 -
+/css/cloud.php 10 -
+/wp-includes/customize/about.php 10 -
+/images/about.php 10 -
+/old 4 www.google.com
+/wp-content/plugins/hellopress/wp_filemanager.php 5 -
+/wp-admin/css/colors/blue/xmrlpc.php 10 -
+/new/xmlrpc.php 85 -
+/cloud.php 10 -
+/old/wp-json/wp/v2/users 1 -
+/old/xmlrpc.php 84 -
+/wp-admin/user/xmrlpc.php 10 -
+/new/wp-json/wp/v2/users 1 -
+/karma.conf.json 1 -
+/chosen.php 2 -
+/file.php 1 -
+/libraries/phpmailer/updates.php 10 -
+/yanz.php 10 -
+/wp-admin/images/about.php 10 -
+/phpinfo.php 1 -
+/wordpress/ 1 -
+/alfa-rex2.php7 10 -
+/wordpress 8 www.google.com
+/wp-content/plugins/pwnd/pwnd.php 2 -
+/.well-known/pki-validation/xmrlpc.php 10 -
+/templates/beez3/jsstrings.php 1 -
+/wp-includes/blocks/about.php 10 -
+/security.txt 1 http://www.ugi.net.in/security.txt
+/wp-includes/Text/about.php 10 -
+/wp-content/plugins/about.php 1 -
+/images/cloud.php 10 -
+/wp-content/themes/pridmag/db.php 10 -
+/wp-includes/style.php 1 -
+/wp/wp-admin/setup-config.php 3 -
+/nf_tracking.php 1 -
+/wp-admin/js/widgets/cloud.php 10 -
+/vendor/laravel-filemanager/js/script.js 1 -
+/wp-content/plugins/Cache/Cache.php 10 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 3 -
+/wp-content/plugins/seoo/wsoyanz1.php 10 -
+/wp-admin/css/colors/xmrlpc.php 10 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 26
+119.18.54.35 819 819 576 20250131234300
+185.194.178.31 2 2 0 20250120082329
+45.154.98.170 2 4 18516 20250128123506
+16.170.239.250 2 2 174 20250122163010
+3.133.118.54 2 2 174 20250122163010
+13.229.89.126 2 2 174 20250122163010
+185.194.178.43 1 1 0 20250120082329
+34.213.189.44 1 1 87 20250122163011
+185.194.178.14 1 1 0 20250120082335
+23.178.112.103 1 1 87 20250122163010
+35.87.14.202 1 1 87 20250122163010
+185.194.178.20 1 1 0 20250120082336
+23.178.112.101 1 1 87 20250122163009
+23.178.112.106 1 1 87 20250122163010
+185.94.29.109 1 1 0 20250130070952
+170.64.237.218 1 1 514 20250124085642
+165.154.254.160 1 1 13464 20250113074806
+94.72.109.40 1 1 0 20250126080254
+13.251.105.111 1 1 87 20250122163011
+13.48.85.26 1 1 87 20250122163011
+34.219.109.125 1 1 87 20250122163011
+165.22.252.197 1 2 36137 20250107032357
+18.188.10.204 1 1 87 20250122163011
+128.90.0.16 1 2 9258 20250118020713
+34.82.252.237 0 1 111433 
+35.185.182.248 0 1 111433 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20250101 14 14 0 5
+20250102 13 13 0 6
+20250103 19 19 0 7
+20250104 12 12 0 6
+20250105 15 15 0 8
+20250106 15 16 35623 8
+20250107 23 23 514 8
+20250108 19 19 0 6
+20250109 16 16 0 8
+20250110 17 17 0 6
+20250111 17 17 0 7
+20250112 15 15 0 10
+20250113 25 25 13464 9
+20250114 31 32 111433 5
+20250115 72 73 9258 3
+20250116 68 68 0 1
+20250117 72 72 0 3
+20250118 54 55 9258 4
+20250119 17 18 111433 10
+20250120 27 27 0 13
+20250121 21 21 0 7
+20250122 53 53 1881 22
+20250123 26 26 0 7
+20250124 29 29 514 10
+20250125 26 26 0 9
+20250126 22 22 0 8
+20250127 22 22 0 9
+20250128 26 27 9258 10
+20250129 17 17 0 11
+20250130 29 29 0 9
+20250131 15 15 0 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 6
+30mn-1h 43
+15mn-30mn 10
+1h+ 61
+0s-30s 118
+2mn-5mn 2
+30s-2mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/wp-cron.php 810 0 218 219
+/wp-content/plugins/index.php 6 0 5 6
+/.well-known/acme-challenge/Ckc7WRkuqiTTLm0jH7ZJYL8q2dkGnY5ipC0Z2OTvJXM 5 435 5 2
+/.well-known/acme-challenge/_vZvcqg9ClRqbxoKooHTRmxAayL1ZnLdrq_GpzSPftA 5 435 2 5
+/.well-known/acme-challenge/Yt3QspUOL6L9p94GGOT0BSssoqn-FYToWOiv9OaKVWw 5 435 5 5
+/wp-admin/install.php 4 2056 4 4
+/ 1 13464 1 1
+/wp-content/ 1 0 1 0
+/.well-known/acme-challenge/O2DSWGE1TIB1QYYYKFVA-DKX18S2EK-F 1 64 0 0
+/.well-known/acme-challenge/LKM1SHKKJ7BMLZI98Y9X4DAH37CZN7_U 1 64 0 0
+/.well-known/acme-challenge/GXVFLLPSL6MCOOFD4ENN-117HXLSZAAO 1 64 0 0
+/.well-known/acme-challenge/OG9RXDLP4FOCKD0SK7KRFWKX-_L7AV29 1 64 0 0
+/.well-known/acme-challenge/GTR1K81UNGU76LE3_OGRVZJJELGSVJGM 1 64 0 0
+/.well-known/acme-challenge/61RYDM10YO5G7D9Z6QYRHIAGDYFZN7A_ 1 64 0 0
+/.well-known/acme-challenge/8JWV5BU1FXEJ4OE-3FH509TR9LK917RX 1 64 1 0
+//wp-admin/install.php 1 514 1 1
+/.well-known/acme-challenge/ZBNN9RIY5HB9V66N1K7TRLMOSBQ9KZWK 1 64 0 0
+/.well-known/acme-challenge/CFCKB0KNAIZW3I3WVGWDAY6MXPTDF6SJ 1 64 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 6
+5K+ 829
+500-1K 28
+44-100 44
+1K-2K 163
+0-44 1059
+100-500 155
+END_FILESIZE

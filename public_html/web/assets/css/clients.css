@@ -1,0 +1,13 @@
+.clientsExperience{
+	font-size: 40px;
+	text-transform: capitalize;
+}
+.clientsLogo{
+	padding: 40px;
+    background: #fff;
+    border-radius: 7px;
+	-webkit-box-shadow: 0px 1px 13px 4px rgba(230,230,230,1);
+	-moz-box-shadow: 0px 1px 13px 4px rgba(230,230,230,1);
+	/*box-shadow: 0px 1px 13px 4px rgba(230,230,230,1);*/
+	box-shadow: 0px 1px 13px 4px rgb(230 230 230 / 50%);
+}

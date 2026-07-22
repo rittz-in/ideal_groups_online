@@ -1,0 +1,33 @@
+/*
+Theme Name:   Umiya Glasses
+Theme URI:    
+Description:  This is Child Theme of Twenty Twenty-One made by ArtchaStudio.com
+Author:       Artchastudio.com
+Author URI:   https://wordpresschildthemes.com/
+Template:		  twentytwenty
+Version:		  1.0.0
+Text Domain:	ttwentytwenty-child
+-------------------------------------------------------------- */
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+section.blog-details div.col-lg-4 .card-body ul > li > a{pointer-events: none;}
+section.blogpage div.col-lg-4 .card-body ul > li > a{pointer-events: none;}
+body:not(.singular) main > article:first-of-type{padding: 0px !important;}
+main#site-content section.blog-details .blog-body div.small{display:none;}
+.blog-details img.card-img-top{display: block !important; width: 100%; max-width: 520px; height: auto; text-align: center; margin: 0px auto;}
+.info-area a{background-color: #112c61; color: #ffffff; font-size: 18px; font-weight: 700; padding: 14px;}
+.info-area a:hover{background-color:#2c95ff;}
+section.blog-details img.card-img-top.mt-4 { float: left; padding-right: 50px; width: 40%; } 
+section.blog-details .blog-body {float: right;width: 60%;}
+.testimonials .img-card-slider .card .card-info h6, .testimonials .img-card-slider .card .card-info .h6{font-size:13px;}
+
+.home-banner .banner-content p{font-size:18px;}
+footer .copyright-area .social-links a i.fab.fa-facebook-f{color: #4267B2;}
+footer .copyright-area .social-links a i.fab.fa-google{color: #DB4437;}
+footer .copyright-area .social-links a i.fab.fa-linkedin-in{color: #313335;}
+footer .copyright-area .social-links a i.fab.fa-instagram{color: #8a3ab9;;}
+.projects .min-height .project-img img {min-height: 380px;}
+.border-after::after{display:none;}
+.copyright-area a{padding:0px;}
+.copyright-area a:hover{color:#77d9ff;}

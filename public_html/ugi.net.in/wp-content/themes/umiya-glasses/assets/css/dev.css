@@ -1,0 +1,171 @@
+/* Developer CSS */
+body {
+  font-size: 18px !important;
+  font-weight: 400 !important;
+  font-family: "Open Sans", sans-serif !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+ul {
+  margin: 0 !important;
+}
+li {
+  margin-left: 0 !important;
+}
+img {
+  display: initial !important;
+}
+.navbar-nav li {
+  margin-top: 0 !important;
+}
+h6,
+h4,
+h2,
+.main-title {
+  margin-top: 0 !important;
+}
+h4,
+h6 {
+  margin-bottom: 0 !important;
+}
+.card-info p {
+  min-height: 30px !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: initial !important;
+  display: -webkit-box !important;
+  -webkit-line-clamp: 1 !important;
+  -webkit-box-orient: vertical !important;
+  margin-bottom: 0 !important;
+}
+.card-info h6 {
+  line-height: 1.3;
+  min-height: 90px !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: initial !important;
+  display: -webkit-box !important;
+  -webkit-line-clamp: 3 !important;
+  -webkit-box-orient: vertical !important;
+}
+
+.achievments .achive-content h4 {
+  margin-bottom: 30px !important;
+}
+.menu-main-menu-container {
+  margin-left: auto;
+}
+.about_us .main-content p {
+  color: #444444;
+}
+.about_us .sub-content .content-info h4 {
+  margin-bottom: 20px !important;
+}
+
+.about_us .sub-content .content-info h3 {
+  color: #444444 !important;
+}
+
+.card-img {
+  text-align: center;
+}
+
+.blogpage ul li a,
+.blog-details ul li a {
+  color: #112c61 !important;
+}
+
+.blogpage form,
+.blog-details form {
+  padding: 20px !important;
+}
+.blogpage .search-submit,
+.blog-details .search-submit {
+  background-color: #112c61 !important;
+}
+
+.blog-details .title,
+.blog-details .arrow {
+  color: #112c61 !important;
+}
+.contact-caption h1 {
+  margin: 0 !important;
+}
+
+.contact-info-title {
+  margin: 0 !important;
+}
+
+.form-control {
+  display: block !important;
+  width: 100% !important;
+  padding: 15px !important;
+  font-size: 18px !important;
+  font-weight: 400 !important;
+  line-height: 1.5 !important;
+  color: #212529 !important;
+  background-color: #fff !important;
+  background-clip: padding-box !important;
+  border: 1px solid #ced4da !important;
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
+  appearance: none !important;
+  border-radius: 0.25rem !important;
+}
+
+.btn-primary {
+  font-size: 18px !important;
+  font-weight: 400 !important;
+  line-height: 2.5 !important;
+  text-align: center !important;
+  color: #fff !important;
+  background-color: #112c61 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  border: 1px solid #112c61 !important;
+  width: 160px !important;
+  border-radius: 0 !important;
+  z-index: 1 !important;
+  transition: all 0.15s ease-in-out !important;
+  white-space: nowrap !important;
+}
+
+.contact-form form #submit {
+  line-height: 1.6 !important;
+  width: 200px !important;
+}
+.contact-form form #submit:hover {
+  text-decoration: none;
+  background-color: transparent !important;
+  color: #112c61 !important;
+}
+
+.address h3 {
+  margin: 0 !important;
+}
+.contact-info p {
+  flex-wrap: wrap;
+}
+.contact-info p a {
+  flex: 0 0 100%;
+}
+.newslatter-info div,
+.newslatter-info form {
+  width: 100% !important;
+}
+.newslatter-info {
+  width: 50%;
+  margin: auto;
+}
+.newslatter .newslatter-info .input-group {
+  flex-wrap: nowrap;
+}
+
+.newslatter .newslatter-info .input-group input[type="submit"]{
+      color: #fff !important;
+    background-color: #112c61 !important;
+    text-decoration: none;
+}

@@ -1,0 +1,1189 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202602 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.fizznfreeze.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2096                
+POS_TIME 2768                
+POS_VISITOR 26629               
+POS_DAY 27531               
+POS_DOMAIN 3387                
+POS_LOGIN 3657                
+POS_ROBOT 3812                
+POS_WORMS 4011                
+POS_EMAILSENDER 4142                
+POS_EMAILRECEIVER 4285                
+POS_SESSION 27850               
+POS_FILESIZE 28081               
+POS_REQUESTTIME 28216               
+POS_SIDER 27997               
+POS_FILETYPES 4420                
+POS_DOWNLOADS 4525                
+POS_OS 4573                
+POS_BROWSER 4708                
+POS_SCREENSIZE 4940                
+POS_UNKNOWNREFERER 5014                
+POS_UNKNOWNREFERERBROWSER 5288                
+POS_ORIGIN 5370                
+POS_SEREFERRALS 5502                
+POS_PAGEREFS 5646                
+POS_SEARCHWORDS 5794                
+POS_KEYWORDS 5946                
+POS_MISC 2432                
+POS_ERRORS 6005                
+POS_CLUSTER 3513                
+POS_SIDER_404 6182                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260301073047 1 0 12346179392162
+FirstTime 20260202115819
+LastTime 20260228133350
+LastUpdate 20260301192848 1 0 0 0 0
+TotalVisits 20                  
+TotalUnique 20                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 21                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 8 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 5 5 72678
+1 1 1 36099 1 1 212
+2 1 2 115045 4 5 461
+3 1 2 115023 1 2 209
+4 0 0 0 0 0 0
+5 3 4 187209 4 5 633
+6 0 0 0 1 1 226
+7 0 0 0 0 0 0
+8 1 2 115018 1 2 209
+9 0 0 0 2043 2229 5051241
+10 0 0 0 12 14 9223
+11 2 4 230047 2 3 418
+12 2 3 151108 2 3 421
+13 4 6 414802 4 4 1249
+14 0 0 0 5 5 72711
+15 1 2 115045 1 1 212
+16 1 1 36070 1 1 209
+17 3 5 266144 9 12 109759
+18 0 0 0 0 1 226
+19 0 0 0 0 1 226
+20 1 2 115017 10 10 73322
+21 0 0 0 21 21 75636
+22 1 2 115046 1 1 212
+23 0 0 0 15 16 117595
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 18 28 1438994
+fi 2 4 342616
+be 1 2 115046
+nl 1 2 115017
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+curl 24 709476 20260217095418 0
+checker 14 505233 20260226210001 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+svg 14 1105188 0 0
+Unknown 22 906485 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win10 3 2
+Unknown 18 9
+ios_ipad 1 1
+linux 7 4
+macosx15 5 4
+macosx 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+chrome142.0.0.0 2 1
+firefox142.0 4 2
+mozilla 18 9
+safari26.0 2 2
+chrome92.0.4515.159 2 1
+safari14.0.2 2 1
+safari 1 1
+chrome126.0.0.0 3 3
+chrome76.0.3809.100 1 1
+chrome112.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260227223544
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260228031010
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 16 27
+From1 0 0
+From2 0 0
+From3 0 0
+From4 6 9
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+405 6 3858
+301 84 25158
+302 56 12586
+404 1773 4275880
+406 153 34578
+403 8 2840
+500 4 0
+409 213 17679
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 887
+/form/profile/photo 2 -
+/rest/variables 2 -
+/.aws/config 2 -
+/app/config.py 2 -
+/app/etc/local.xml 2 -
+/webhook/submit 2 -
+/files/upload 2 -
+/.env.dist 2 -
+/app/.terraform/terraform.tfstate 2 -
+/src/config/env.js 2 -
+/*/[slug] 2 -
+/webhook/documents 2 -
+/webhook/image 2 -
+/webhook/backup 2 -
+/_layouts/15/* 2 -
+/[slug] 2 -
+/root/.netrc 2 -
+/graphql 2 -
+/form/v2/files 2 -
+/form/photo 2 -
+/posts/* 2 -
+/config/routes.rb 2 -
+/webhook/api/blob 2 -
+/helpers/utility.js 2 -
+/aws.env.json 2 -
+/Dockerfile 2 -
+/proc/index.cgi 2 -
+/config/views.js 2 -
+/webhook/media 2 -
+/config/configmap.yaml 2 -
+/gists/cache 2 -
+/.svn/entries 2 -
+/provider.tf 2 -
+/api/media 1 -
+/jobs/config.xml 2 -
+/api/webhook/* 2 -
+/manifest.json 2 -
+/.git/refs/remotes/origin/HEAD 2 -
+/nuxt.config.js 2 -
+/kubeconfig 2 -
+/* 2 -
+/upload 2 -
+/*/[id] 2 -
+/src/main.js 2 -
+/.git/logs/refs/remotes/origin/main 2 -
+/crossdomain.xml 2 -
+/public/aws-codecommit 2 -
+/main.js 2 -
+/form/content 2 -
+/rest/logout 2 -
+/public/env.js 2 -
+/stripe/config.json 2 -
+/var/task/amplify.yaml 2 -
+/config/docker-compose.prod.yml 2 -
+/sysinfo.cgi 2 -
+/rest/workflows/run 2 -
+/.laravel.env 2 -
+/secrets/credentials.xml 2 -
+/rest/users 2 -
+/webhook/user/upload 2 -
+/oauth/* 2 -
+/terraform.tfstate 2 -
+/api/debug 2 -
+/config/daemon.json 2 -
+/config/urls.py 2 -
+/webhook/v1/files 2 -
+/.git/logs/refs/heads/main 2 -
+/.git/hooks/post-commit 2 -
+/config/aws.json 2 -
+/form/api/submit 2 -
+/config/initializers/secret_token.rb 2 -
+/public/.git/info 2 -
+/root/.boto 2 -
+/settings/* 2 -
+/api/v1/workflows 2 -
+/__nextjs_action 2 -
+/package-updates/*.cgi 2 -
+/api/credentials 2 -
+/.Thumbs.db 2 -
+/.bzr/branch/branch.conf 2 -
+/webhook/api/content 2 -
+/var/task/amplify.yml 2 -
+/s3.key 2 -
+/sendgrid.env 2 -
+/src/config/settings.ts 2 -
+/webhook/api/storage 2 -
+/app.py 2 -
+/admin/test 2 -
+/pipeline/jobs/config.xml 2 -
+/trpc/* 2 -
+/config/application-prod.properties 2 -
+/aws.yml 2 -
+/appsettings.Test.json 2 -
+/webhook/api/attachment 2 -
+/config/production.py 2 -
+/composer.lock 2 -
+/development.py 2 -
+/api/profile/avatar 1 -
+/rest/tags 2 -
+/config/initializers/session_store.rb 2 -
+/.git/refs/heads/main 2 -
+/aws_s3_config.json 2 -
+/config/docker-compose.override.yml 2 -
+/form/api/images 2 -
+/.id_rsa.pub 2 -
+/webhook/files 2 -
+/config/packages/twig.yaml 2 -
+/servers/save.cgi 2 -
+/home/*/.netrc 2 -
+/form/* 2 -
+/.git/refs/heads/master 2 -
+/public/db_backup 2 -
+/terraform.tfvars 2 -
+/.hg/hgrc 2 -
+/dnscfg.cgi 2 -
+/root/.git-credentials 2 -
+/$(pwd)/.env.staging 2 -
+/api/v1/* 2 -
+/products 2 -
+/.travis.yml 2 -
+/webhook/uploadfile 2 -
+/.env.development 2 -
+/profile/* 2 -
+/public/.vs 2 -
+/src/config/config.json 2 -
+/webhook/photo 2 -
+/form/internal/upload 2 -
+/webhook/api/attachments 2 -
+/conf/application.json 2 -
+/webhook/batch 1 -
+/content/* 2 -
+/form/blob 2 -
+/public/.git/objects 2 -
+/var/task/serverless.json 2 -
+/config/connections.js 2 -
+/src/config/stripe.js 2 -
+/package-lock.json 2 -
+/package-updates/refresh.cgi 2 -
+/playbooks/web.yml 2 -
+/.git/info/exclude 2 -
+/[[...optional]] 2 -
+/config/routes/dev/twig.yaml 2 -
+/config/development.js 2 -
+/$(pwd)/*.auto.tfvars 2 -
+/gcp-credentials.json 2 -
+/config/secret.yaml 2 -
+/.env.production 2 -
+/var/log/apache2/error.log 2 -
+/app/etc/config/core.xml 2 -
+/rest/settings 4 -
+/.gitlab-ci 2 -
+/src/environments/environment.ts 2 -
+/.project 2 -
+/app/.env.production 2 -
+/gulpfile.js 2 -
+/config/environments/test.rb 2 -
+/config/settings.js 2 -
+/config/packages/test.yaml 2 -
+/webhook 2 -
+/config/env.js 2 -
+/config/config.ini 2 -
+/server/settings.js 2 -
+/next.config.js 2 -
+/src/setupTests.js 2 -
+/server/env.js 2 -
+/publish/* 2 -
+/form/uploadfile 2 -
+/config/routes.js 2 -
+/$(pwd)/next.config.js 2 -
+/docker-compose.override.yml 2 -
+/config/email.py 2 -
+/wp-json/wp/v2/users 2 -
+/config/prod.json 2 -
+/form/user/avatar 2 -
+/appsettings.json 2 -
+/form/api/attachments 2 -
+/form/batch 2 -
+/form/submit 2 -
+/articles/* 2 -
+/config/packages/dev.yaml 2 -
+/__nextjs_action/* 2 -
+/.github/stale.yml 2 -
+/rest/workflows 2 -
+/inventory/hosts 2 -
+/webhook/v2/files 2 -
+/api/v1/executions 2 -
+/stripe.env 2 -
+/conf/logback.xml 2 -
+/config/production.js 2 -
+/form/document 2 -
+/.git/logs/HEAD 2 -
+/public/environments/prod 2 -
+/app/etc/settings.xml 2 -
+/private/config.json 2 -
+/.env.prod 2 -
+/webhook/admin/files 2 -
+/config.js 2 -
+/config/packages/prod/doctrine.yaml 2 -
+/appsettings.QA.json 2 -
+/config/config.go 2 -
+/root/.aws/config 2 -
+/aws/config/s3.json 2 -
+/~/.git-credentials 2 -
+/:27017 2 -
+/api/users/* 2 -
+/webhook/profile/photo 2 -
+/webhook/api/files 2 -
+/server.js 2 -
+/s3.properties 2 -
+/loaders/* 2 -
+/aws/buckets 2 -
+/webhook/v1/media 2 -
+/appsettings.Local.json 2 -
+/app.js 2 -
+/form/images 2 -
+/config/dev.env.js 2 -
+/.git/description 2 -
+/src/main/resources/appsettings.yml 2 -
+/group_vars/all 2 -
+/src/config/app.config.ts 2 -
+/package-updates/install.cgi 2 -
+/instance/config.py 2 -
+/src/config/settings.js 2 -
+/public/logs 2 -
+/vue.config.js 2 -
+/config/compose-file 2 -
+/cms/* 2 -
+/public/config 2 -
+/jenkins/config.xml 2 -
+/form/api/media 2 -
+/README.md 2 -
+/roles/web/tasks/main.yml 2 -
+/config/packages/security.yaml 2 -
+/s3/bucket.env 2 -
+/webhook/* 2 -
+/config/service.yaml 2 -
+/src/environments/environment.dev.ts 2 -
+/admin.html 2 -
+/stripe.json 2 -
+/var/log/nginx/error.log 2 -
+/rest/oauth1-credential/auth 2 -
+/_react/data/* 2 -
+/admin/* 2 -
+/form/files 2 -
+/webhook/attachment 2 -
+/local_settings.py 2 -
+/public/config.js 2 -
+/*.sql.gz 2 -
+/api/media/upload 2 -
+/phpinfo 2 -
+/conf/test.conf 2 -
+/sitemap.xml 2 -
+/.vscode/settings.json 2 -
+/en/* 2 -
+/billing/* 2 -
+/protractor.conf.js 2 -
+/config/env/development.js 2 -
+/.dockerignore 2 -
+/environment.ts 2 -
+/.env.aws 2 -
+/src/config/config.ts 2 -
+/.git/logs/refs/remotes/origin/master 2 -
+/rest/oauth2-credential/auth 2 -
+/s3/backup 2 -
+/rest/license 2 -
+/client/config.js 2 -
+/config/test.json 2 -
+/s3/buckets 2 -
+/webhook/api/assets 2 -
+/config/local.json 2 -
+/webhook/assets 2 -
+/webhook/bulk 1 -
+/public/stripe.js 2 -
+/sftp-config.json 2 -
+/config/models.js 2 -
+/manage/* 2 -
+/chat/* 2 -
+/config/env.go 2 -
+/.ssh/sftp-config.json 2 -
+/webhook/fileupload 2 -
+/appsettings.Development.json 2 -
+/webhook/file 2 -
+/roles/common/tasks/main.yml 2 -
+/healthz 2 -
+/prevlaravel/sftp-config.json 2 -
+/private/env.json 2 -
+/~/.s3cfg 2 -
+/src/setupProxy.js 2 -
+/webhook/resource 2 -
+/config/policies.js 2 -
+/.gitattributes 2 -
+/.well-known/security.txt 2 -
+/bitbucket-pipelines.yml 2 -
+/form/api/document 2 -
+/config/staging.json 2 -
+/config/kubeconfig.yaml 2 -
+/webhook/api/avatar 2 -
+/src/main/resources/application.properties 2 -
+/ansible.cfg 2 -
+/attacker/docker-compose.yml 2 -
+/Pipfile.lock 2 -
+/src/config/configuration.js 2 -
+/api/profile/photo 2 -
+/config/env.json 2 -
+/web.Release.config 2 -
+/karma.conf.js 2 -
+/template.yaml 2 -
+/home/*/.git-credentials 2 -
+/s3/bucket 2 -
+/package-updates/index.cgi 2 -
+/.local 2 -
+/.gitlab-ci.yml 2 -
+/.terraform.lock.hcl 2 -
+/form/api/content 2 -
+/debug/default/toolbar 2 -
+/form/api/image 2 -
+/.git-secret 2 -
+/gatsby-ssr.js 2 -
+/.well-known/* 2 -
+/form/api/files 2 -
+/rest/executions 2 -
+/public/nodes 2 -
+/aws.json 2 -
+/form/resources 2 -
+/form/api/blob 2 -
+/var/task/next.config.mjs 2 -
+/webhook/api/images 2 -
+/s3.secret 2 -
+/server/key 2 -
+/api/uploads 2 -
+/config/environments/development.rb 2 -
+/config/packages/doctrine.yaml 2 -
+/config/secrets.js 2 -
+/_vercel/insights 2 -
+/config/namespace.yaml 2 -
+/jenkins/secrets/hudson.util.Secret 2 -
+/form/file 2 -
+/.github/PULL_REQUEST_TEMPLATE.md 2 -
+/config/packages/prod.yaml 2 -
+/config/configuration.js 2 -
+/serverless.yml 2 -
+/public/hot 2 -
+/notifications/* 2 -
+/[workspace]/* 2 -
+/tsconfig.spec.json 2 -
+/docker-compose.yml 2 -
+/.buildpath 2 -
+/app/package.json 2 -
+/shop/[category]/* 2 -
+/config/development.json 2 -
+/payment/* 2 -
+/var/task/nuxt.config.js 2 -
+/config/secrets.yml 2 -
+/form/admin/files 2 -
+/app/.git/config 2 -
+/:28017 2 -
+/conf/dev-application.conf 2 -
+/config/rolebinding.yaml 2 -
+/old/aws_config 2 -
+/media/* 2 -
+/form/import 2 -
+/gatsby-node.js 2 -
+/uploads 2 -
+/config/config.js 2 -
+/client/stripe.config.js 2 -
+/editor/* 2 -
+/src/main/resources/application-context.xml 2 -
+/.github/dependabot.yml 2 -
+/.s3cfg 2 -
+/webhook/import 2 -
+/projects/* 2 -
+/secrets/initialAdminPassword 2 -
+/.git/modules 2 -
+/server/config.js 2 -
+/app/serverless.yaml 2 -
+/sam-template.yaml 2 -
+/roles/db/tasks/main.yml 2 -
+/form/attachment 2 -
+/Thumbs.db 2 -
+/config/dev.json 2 -
+/symfony/_profiler/phpinfo 2 -
+/[tenant]/* 2 -
+/~/.gitconfig 2 -
+/.profile 2 -
+/config/initializers/sidekiq.rb 2 -
+/config.py 2 -
+/src/settings.json 2 -
+/jenkins.yaml 2 -
+/.drone.yml 2 -
+/config/database.py 2 -
+/.envrc 2 -
+/Gemfile.lock 2 -
+/var/task/vercel.json 2 -
+/package-updates/apt.cgi 2 -
+/package-updates/update.cgi 2 -
+/live_env 2 -
+/main.tf 2 -
+/api/v1/users/avatar 1 -
+/var/task/next.config.js 2 -
+/$(pwd)/docker-compose.yml 2 -
+/webhook/shared/upload 2 -
+/config/db.js 2 -
+/api/config/tsconfig.json 2 -
+/config/dev_settings.py 2 -
+/signup 2 -
+/webhook-test/* 2 -
+/oauth/authorize 2 -
+/config/settings.py 2 -
+/api/v1/media 2 -
+/var/task/nuxt.config.ts 2 -
+/public/data_bags 2 -
+/meteor.settings.json 2 -
+/server.key 2 -
+/%2f.aws%2fcredentials 2 -
+/webhook/admin/import 2 -
+/error.log 2 -
+/.env.js 2 -
+/.amplifyrc 2 -
+/.gitlab/issue_templates 2 -
+/form/profile/avatar 2 -
+/webhook/profile/avatar 2 -
+/config/default.json 2 -
+/conf/application.properties 2 -
+/form/export 2 -
+/_profiler/phpinfo 2 -
+/env.py 2 -
+/plugins/payments/stripe.json 2 -
+/.git/COMMIT_EDITMSG 2 -
+/app/amplify.yaml 2 -
+/webhook/public/upload 2 -
+/src/main/resources/bootstrap.yml 2 -
+/.env.staging 2 -
+/public/pma 2 -
+/src/config/environment.json 2 -
+/webhook/attachments 2 -
+/app/code/local.xml 2 -
+/.env.testing 2 -
+/var/task/docker-compose.yaml 2 -
+/blog/[year]/[month]/[slug] 2 -
+/form/api/upload 2 -
+/form/v1/upload 2 -
+/variables.tf 2 -
+/form/asset 2 -
+/public/phpmyadmin 2 -
+/.well-known/acme-challenge/* 2 -
+/storage/logs/laravel.log 2 -
+/var/task/next.config.ts 2 -
+/gatsby-config.js 2 -
+/pages/* 2 -
+/rest/node-types 2 -
+/profiler 2 -
+/webhook/data 2 -
+/webhook/api/submit 2 -
+/.git-credentials 2 -
+/.env.test 2 -
+/.gitlab/merge_request_templates 2 -
+/conf/application.yaml 2 -
+/config/cable.yml 2 -
+/webhook/document 2 -
+/login/wp-includes/ID3/license.txt 2 -
+/.vscode/sftp.json 2 -
+/public/policies 2 -
+/rest/credential-translation 2 -
+/js/config.js 2 -
+/src/config.js 2 -
+/webhook/upload 2 -
+/conf/prod-application.conf 2 -
+/app/amplify.yml 2 -
+/.github/workflows/ci.yml 2 -
+/.github 2 -
+/webhook/storage 2 -
+/conf/application-test.conf 2 -
+/[...catchAll] 2 -
+/webhook/file-upload 1 -
+/[id] 2 -
+/gatsby-browser.js 2 -
+/form/api/avatar 2 -
+/.kube/config 2 -
+/Gemfile 2 -
+/sftp.json 2 -
+/api/v1/files 2 -
+/settings.json 2 -
+/.azure/credentials 2 -
+/form/file-upload 2 -
+/config/puma.rb 2 -
+/public/.git 4 -
+/aws.env 2 -
+/.aws/credentials 2 -
+/aws/ses/smtp.env 2 -
+/s3/credentials 2 -
+/config/stripe.yaml 2 -
+/config.ini 2 -
+/public/js/main.js 2 -
+/settings.js 2 -
+/package-updates/perform.cgi 2 -
+/config/settings.json 2 -
+/stripe.yaml 2 -
+/config/prod_settings.py 2 -
+/software/*.cgi 2 -
+/var/task/serverless.yml 2 -
+/metrics 2 -
+/serverless.yaml 2 -
+/src/environments/environment.prod.ts 2 -
+/static/.gitlab-ci.yml 2 -
+/v1/* 2 -
+/aws/s3/env.env 2 -
+/config/production.json 2 -
+/stripe.config.js 2 -
+/webhook/admin/upload 2 -
+/teams/* 2 -
+/opt/mailcow-dockerized/mailcow.conf 2 -
+/server.pem 2 -
+/config/environments/production.rb 2 -
+/app/etc/config/local.xml 2 -
+/webhook/api/documents 2 -
+/.git/hooks/pre-commit 2 -
+/webhook/export 2 -
+/.git/HEAD 2 -
+/docs 2 -
+/config/application.rb 2 -
+/var/task/amplify/backend/function/*/src/index.js 2 -
+/webhook/user/avatar 2 -
+/.netlify/functions/* 2 -
+/config/env/production.js 2 -
+/conf/messages 2 -
+/debug.log 2 -
+/root/.gitconfig 2 -
+/%2fbackend%2f.env 2 -
+/server/environment.js 2 -
+/config/settings/local.py 2 -
+/.github/workflows 2 -
+/src/main/resources/logback-spring.xml 2 -
+/config/packages/test/security.yaml 2 -
+/.terraform/credentials.tfrc.json 2 -
+/config.json 2 -
+/_react/action/* 2 -
+/$(pwd)/terraform.tfstate 2 -
+/application.properties 2 -
+/public/environments/dev 2 -
+/public/.github/workflows 2 -
+/config/environment.js 2 -
+/config/application.yml 2 -
+/src/main/resources/database.properties 2 -
+/bundleconfig.json 2 -
+/~/.aws/config 2 -
+/_api/* 2 -
+/rest/login 2 -
+/form/account/avatar 2 -
+/form/v1/import 2 -
+/home/*/.aws/credentials 2 -
+/.cache 2 -
+/form/v2/upload 2 -
+/backend.tf 2 -
+/.docker/config.json 2 -
+/form/api/asset 2 -
+/form/api/attachment 2 -
+/webhook/content 2 -
+/root/.s3cfg 2 -
+/$(pwd)/.terraform/terraform.tfstate 2 -
+/app/next.config.mjs 2 -
+/src/configuration.js 2 -
+/aws.yaml 2 -
+/.env.local 2 -
+/resources/application.conf 2 -
+/Properties/launchSettings.json 2 -
+/waku/* 2 -
+/.DS_Store 2 -
+/s3/.aws/config 2 -
+/form/api/import 2 -
+/:27019 2 -
+/payment/stripe.json 2 -
+/config/pod.yaml 2 -
+/src/environments/environment.staging.ts 2 -
+/config/session.js 2 -
+/form/assets 2 -
+/conf/application-prod.conf 2 -
+/.github/funding.yml 2 -
+/public/.git/objects/pack 2 -
+/config/test.env.js 2 -
+/jenkins/secrets/master.key 2 -
+/software/install-updates.cgi 2 -
+/config/database.go 2 -
+/playbooks/db.yml 2 -
+/.boto 2 -
+/form/admin/upload 2 -
+/config/prod_config.py 2 -
+/webhook/drive 2 -
+/api/account/avatar 2 -
+/$(pwd)/terraform.tfvars 2 -
+/config/sockets.js 2 -
+/_layouts/* 2 -
+/config.properties 2 -
+/rest/* 2 -
+/debug/bar 2 -
+/config/settings/__init__.py 2 -
+/device/device.js 2 -
+/form/attachments 2 -
+/form/api/file 2 -
+/form/resource 2 -
+/products/.gitlab-ci.yml 2 -
+/host_vars/local 2 -
+/form/storage 2 -
+/.git/logs/refs/heads/master 2 -
+/wp-content/debug.log 2 -
+/$(pwd)/package.json 2 -
+/.gitmodules 2 -
+/form/api/storage 2 -
+/public/.settings 2 -
+/package-updates/* 2 -
+/form/drive 2 -
+/conf/development.conf 2 -
+/$(pwd)/vercel.json 2 -
+/config/docker-compose.dev.yml 2 -
+/config/application-dev.properties 2 -
+/api/files/upload 2 -
+/config/index.js 2 -
+/.git/config 4 -
+/app/docker-compose.yml 2 -
+/admin/config 2 -
+/form/upload 2 -
+/app/settings.py 2 -
+/webhook/v1/import 2 -
+/chat 2 -
+/form/data 2 -
+/payment_gateways/stripe.yaml 2 -
+/form/media 2 -
+/config/development.py 2 -
+/package-updates/download.cgi 2 -
+/var/task/package.json 2 -
+/webhook/api/file 2 -
+/webhook-waiting/* 2 -
+/_waku/* 2 -
+/config/settings/base.py 2 -
+/$(pwd)/serverless.yml 2 -
+/api/serverless/* 2 -
+/public/package-updates 2 -
+/configs/application.ini 2 -
+/config/packages/cache.yaml 2 -
+/launchSettings.json 2 -
+/application-dev.properties 2 -
+/.git-askpass.sh 2 -
+/vercel.json 2 -
+/messages/* 2 -
+/app/vercel.json 2 -
+/app/serverless.yml 2 -
+/orders/* 2 -
+/Pipfile 2 -
+/env.json 2 -
+/secrets/jenkins.util.Secret 2 -
+/__debug 2 -
+/actuator/info 2 -
+/app/nuxt.config.js 2 -
+/form/api/uploads 2 -
+/id_rsa.pub 2 -
+/software/update.cgi 2 -
+/config/master.key 2 -
+/var/task/netlify.toml 2 -
+/webhook/asset 2 -
+/config/asgi.py 2 -
+/:27018 2 -
+/.git/packed-refs 2 -
+/_next/static/* 2 -
+/config/dockerfile 2 -
+/config/application-test.properties 2 -
+/config/local.js 2 -
+/config/env/test.js 2 -
+/public/cookbooks 2 -
+/config/keys.js 2 -
+/webhook/uploads 2 -
+/.gcp/credentials 2 -
+/.pem 2 -
+/webhook/api/image 2 -
+/webhook/v1/documents 2 -
+/config/prod.env.js 2 -
+/public/.git/hooks 2 -
+/config/bootstrap.js 2 -
+/aws-ses.json 2 -
+/form/avatar 2 -
+/src/constants.js 2 -
+/webhook/v1/upload 2 -
+/secrets/master.key 2 -
+/webhook/avatar 2 -
+/form/documents 2 -
+/config/staging.env.js 2 -
+/webhook/internal/upload 2 -
+/appsettings.Staging.json 2 -
+/angular.json 2 -
+/public/modules 2 -
+/actuator/health 2 -
+/form/internal/import 2 -
+/settings.py 2 -
+/webhook/api/media 2 -
+/user/* 2 -
+/stripe/webhook_secret.env 2 -
+/config/deploy.js 2 -
+/~/.boto 2 -
+/webhook/account/avatar 2 -
+/index.html 2 -
+/src/main/resources/application-prod.yml 2 -
+/api/* 2 -
+/public/error 2 -
+/public/configs 2 -
+/config/deployment.yaml 2 -
+/form/api/documents 2 -
+/config/database.yml 2 -
+/rest/credentials-for-node 2 -
+/stripe-credentials.json 2 -
+/src/environments/environment.test.ts 2 -
+/config/constants.js 2 -
+/public/backup 2 -
+/.well-known/stripe.txt 2 -
+/app/.env.local 2 -
+/public/roles 2 -
+/.env.example 2 -
+/var/task/docker-compose.yml 2 -
+/config/test_config.py 2 -
+/config/routes.yaml 2 -
+/v2/* 2 -
+/requirements.txt 2 -
+/api/auth/* 2 -
+/s3.yml 2 -
+/actuator/env 2 -
+/src/config/index.js 2 -
+/.gitlab 2 -
+/webhook/api/asset 2 -
+/_next/data/*/about.json 2 -
+/.github/ISSUE_TEMPLATE 2 -
+/config/services.yaml 2 -
+/config/config.json 2 -
+/tsconfig.app.json 2 -
+/src/env.js 2 -
+/public/.vscode 2 -
+/app/* 2 -
+/webhook/resources 2 -
+/form/bulk 2 -
+/webmin/package-updates/update.cgi 2 -
+/web.Debug.config 2 -
+/src/main/resources/security.properties 2 -
+/s3.yaml 2 -
+/app/netlify.toml 2 -
+/var/task/serverless.yaml 2 -
+/api/upwload 2 -
+/outputs.tf 2 -
+/api/v1/upload 2 -
+/terraform/terraform.tfvars.json 2 -
+/$(pwd)/.env.production 2 -
+/nuget.config 2 -
+/conf/application.conf 2 -
+/%2f.env 2 -
+/appsettings.Production.json 2 -
+/.well-known/stripe/ 2 -
+/about 2 -
+/form/photos 2 -
+/webhook/api/document 2 -
+/.terraform.tfstate 2 -
+/public/.idea 2 -
+/src/config/stripe.ts 2 -
+/_vti_bin/* 2 -
+/.docker/secrets.json 2 -
+/config/stripe.json 2 -
+/form/multipart 2 -
+/blog 2 -
+/docker/overlay/config.json 2 -
+/src/main/resources/log4j2.xml 2 -
+/config/packages/framework.yaml 2 -
+/webhook/api/upload 2 -
+/test 2 -
+/hosting.json 2 -
+/form/public/upload 2 -
+/dashboard/* 2 -
+/public/.stripe 2 -
+/config/environment.json 2 -
+/form/api/assets 2 -
+/form/admin/import 2 -
+/webhook/blob 2 -
+/config-overrides.js 2 -
+/config/aws.yml 2 -
+/_next/data/*/index.json 2 -
+/$(pwd)/.git/config 2 -
+/pipeline/config.xml 2 -
+/src/settings.js 2 -
+/public/log 2 -
+/$(pwd)/netlify.toml 2 -
+/form/v1/files 2 -
+/.well-known/acme-challenge/ 2 -
+/package-updates/save.cgi 2 -
+/staticfiles 2 -
+/aws_s3_bucket 2 -
+/app/terraform.tfstate 2 -
+/$(pwd)/serverless.yaml 2 -
+/amplify/team-provider-info.json 2 -
+/public/env 2 -
+/src/main/resources/application-dev.yml 2 -
+/config/initializers/devise.rb 2 -
+/form/user/upload 2 -
+/aws/bucket 2 -
+/config/role.yaml 2 -
+/src/main/resources/application.yml 2 -
+/playbooks/site.yml 2 -
+/config/test.js 2 -
+/aws-credentials 2 -
+/form-test/* 2 -
+/form/image 2 -
+/webhook/api/uploads 2 -
+/form 2 -
+/$(pwd)/.env.development 2 -
+/$(pwd)/.env.local 2 -
+/package-updates/yum.cgi 2 -
+/config/test_settings.py 2 -
+/src/main/resources/bootstrap.properties 2 -
+/api/v1/credentials 2 -
+/form/shared/upload 2 -
+/.github/CODEOWNERS 2 -
+/servers/link.cgi 2 -
+/webhook/photos 2 -
+/config/ingress.yaml 2 -
+/public/client/planinfo 2 -
+/home/*/.gitconfig 2 -
+/~/.aws/credentials 2 -
+/info 2 -
+/actions/* 2 -
+/app/next.config.js 2 -
+/access.log 2 -
+/webhooks/incoming/stripe.json 2 -
+/tsconfig.json 2 -
+/$(pwd)/next.config.mjs 2 -
+/aws/s3/credentials 2 -
+/docker/registry/config.yml 2 -
+/console/* 2 -
+/webhook/internal/import 2 -
+/.git/ORIG_HEAD 2 -
+/config/secrets.json 2 -
+/.git/FETCH_HEAD 2 -
+/form/fileupload 2 -
+/Node.js/JavaScript 2 -
+/aws/metadata 2 -
+/.git/index 2 -
+/_profiler 2 -
+/webhook/api/import 2 -
+/ecosystem.config.js 2 -
+/.gitignore 2 -
+/package.json 2 -
+/src/main/resources/application-test.yml 2 -
+/.remote 2 -
+/form/uploads 2 -
+/form/dropzone 2 -
+/config/dev_config.py 2 -
+/root/.aws/credentials 2 -
+/config/secrets.py 2 -
+/..%5c..%5c..%5c..%5c..%5c..%5cvar/log/apache2/access.log 2 -
+/conf/play.plugins 2 -
+/[locale]/* 2 -
+/form/backup 2 -
+/debug/default 2 -
+/.production 2 -
+/webhook/images 2 -
+/conf/production.conf 2 -
+/stripe-keys.json 2 -
+/api/login 2 -
+/app/code/core.xml 2 -
+/.circleci/config.yml 2 -
+/config/wsgi.py 2 -
+/config/test.py 2 -
+/webhook/v2/upload 2 -
+/workspaces/* 2 -
+/form/v1/documents 2 -
+/conf/application-dev.conf 2 -
+/fr/* 2 -
+/config/credentials.yml.enc 2 -
+/~/.netrc 2 -
+/auth/* 2 -
+/public/environments 2 -
+/api/users/avatar 1 -
+/_next/data/*/*.json 2 -
+/api/data/* 2 -
+/.github/workflows/main.yml 2 -
+/webhook/dropzone 2 -
+/env 2 -
+/config/packages/dev/twig.yaml 2 -
+/threads/* 2 -
+/conf/routes 2 -
+/form/v1/media 2 -
+/.vercel/functions/* 2 -
+/integrations/* 2 -
+/yarn.lock 2 -
+/composer.json 2 -
+/public/.git/objects/info 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 21
+98.87.115.128 2 2 72186 20260228133350
+81.29.142.100 2 4 342616 20260219133019
+162.142.125.204 1 2 115045 20260220175321
+188.166.4.19 1 2 115017 20260216204116
+3.151.194.164 1 1 36067 20260227124600
+66.132.153.113 1 2 115018 20260206083554
+3.139.242.79 1 1 36074 20260212055923
+138.197.100.246 1 2 115024 20260202115819
+206.168.34.221 1 2 115041 20260213123842
+3.18.186.238 1 1 36070 20260205165845
+107.173.171.201 1 1 36078 20260206173448
+167.94.138.182 1 2 115023 20260213115528
+34.192.244.187 1 1 36093 20260216050427
+167.94.146.59 1 2 115023 20260228031009
+66.132.153.142 1 2 115021 20260220174459
+104.168.98.195 1 1 36099 20260205014722
+199.45.154.122 1 2 115045 20260222025845
+167.94.138.114 1 2 115042 20260206054500
+87.236.176.32 1 1 36104 20260227223543
+164.92.127.195 1 2 115045 20260210153503
+87.236.176.95 0 1 78942 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20260202 1 2 115024 1
+20260205 2 2 72169 2
+20260206 3 5 266138 3
+20260210 1 2 115045 1
+20260212 1 1 36074 1
+20260213 2 4 230064 2
+20260216 2 3 151110 2
+20260219 2 4 342616 1
+20260220 2 4 230066 2
+20260222 1 2 115045 1
+20260227 2 3 151113 2
+20260228 3 4 187209 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 20
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/login 22 906485 20 20
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 6
+0-44 12
+2K-5K 1753
+44-100 213
+100-500 319
+500-1K 6
+5K+ 76
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

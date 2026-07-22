@@ -1,0 +1,350 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202606 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2084                
+POS_TIME 2754                
+POS_VISITOR 10288               
+POS_DAY 10746               
+POS_DOMAIN 3485                
+POS_LOGIN 3745                
+POS_ROBOT 3900                
+POS_WORMS 4032                
+POS_EMAILSENDER 4163                
+POS_EMAILRECEIVER 4306                
+POS_SESSION 10928               
+POS_FILESIZE 12499               
+POS_REQUESTTIME 12626               
+POS_SIDER 11074               
+POS_FILETYPES 4441                
+POS_DOWNLOADS 4543                
+POS_OS 4591                
+POS_BROWSER 4680                
+POS_SCREENSIZE 4781                
+POS_UNKNOWNREFERER 4855                
+POS_UNKNOWNREFERERBROWSER 5169                
+POS_ORIGIN 5289                
+POS_SEREFERRALS 5421                
+POS_PAGEREFS 5565                
+POS_SEARCHWORDS 5713                
+POS_KEYWORDS 5865                
+POS_MISC 2416                
+POS_ERRORS 5924                
+POS_CLUSTER 3601                
+POS_SIDER_404 6083                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260701001940 360 85600 7679608244562
+FirstTime 0
+LastTime 20260615094656
+LastUpdate 20260701190929 360 0 359 0 0
+TotalVisits 8                   
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 12                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 105 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 404 443 104783
+1 0 1 38870 525 699 146345
+2 0 0 0 502 754 183964
+3 0 0 0 336 564 136660
+4 0 0 0 397 466 125107
+5 0 0 0 324 555 150436
+6 0 0 0 531 603 146092
+7 0 0 0 319 387 102391
+8 0 1 38870 593 628 158713
+9 2 2 27156 846 914 240848
+10 0 0 0 467 504 127567
+11 0 1 38870 378 458 124289
+12 0 0 0 836 1131 289501
+13 0 1 38870 740 823 218155
+14 0 0 0 602 640 173136
+15 0 0 0 1475 1569 420450
+16 23 23 1587 609 702 183628
+17 0 0 0 2169 2178 601691
+18 0 0 0 505 548 141805
+19 0 0 0 1107 1226 332622
+20 0 1 38870 880 942 269261
+21 0 0 0 2465 2607 711978
+22 0 0 0 635 702 178703
+23 0 0 0 805 881 231169
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+in 18 18 1152
+us 5 10 221767
+zz 1 1 87
+ca 1 1 87
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+png 5 194350 0 0
+Unknown 25 28743 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 2
+Unknown 28 23
+win10 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 3
+Unknown 18 18
+mozilla 10 5
+chrome58.0.3029.110 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20260604162254
+Cpanel-HTTP-Client/1.0 20260604162249
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260626203110
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20260604162249
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 25 30
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+406 1356 306004
+409 522 41085
+403 16 8872
+408 1 611
+301 18856 5074654
+404 68 39644
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 58
+/.ssh/%2Fid_rsa 1 http://idealgroups.org/
+/assets/%2F.env 1 http://idealgroups.org/
+http://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+/%2F.env.old 1 http://idealgroups.org/
+http://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+http://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+/storage/%2F.env 1 http://idealgroups.org/
+/%2F.%2565nv 1 http://idealgroups.org/
+/%2F.env.bak 1 http://idealgroups.org/
+/%2F%c0.env 1 http://idealgroups.org/
+http://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+/%2F.env.backup 1 http://idealgroups.org/
+http://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+http://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+/.env%00.txt 1 http://idealgroups.org/
+///%2F.env 1 http://idealgroups.org/
+http://idealgroups.org/static/..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+/static/%2F.env 1 http://idealgroups.org/
+/%2F.env.orig 1 http://idealgroups.org/
+/.env%00 1 http://idealgroups.org/
+/actuator/%2Fheapdump 1 http://idealgroups.org/
+http://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+/%2Fbackup.sql 1 http://idealgroups.org/
+/%2F.ENV 1 http://idealgroups.org/
+/api/%2Fkernels 1 http://idealgroups.org/
+/%2F.env.copy 1 http://idealgroups.org/
+/dist/%2F.env 1 http://idealgroups.org/
+/web/%2F.env 1 http://idealgroups.org/
+http://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+/%2Ftrace 1 http://idealgroups.org/
+http://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+/actuator/%2Fconfigprops 1 http://idealgroups.org/
+/%2F.env.prod 1 http://idealgroups.org/
+/%2F.env~ 1 http://idealgroups.org/
+http://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+/files/%2F.env 1 http://idealgroups.org/
+http://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+/./.env%00.jpg 1 http://idealgroups.org/
+/media/%2F.env 1 http://idealgroups.org/
+http://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+http://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+/%2F%252Eenv 1 http://idealgroups.org/
+/./%2F.env 1 http://idealgroups.org/
+/actuator/env/%2Fspring.mail.password 1 http://idealgroups.org/
+/%2Fimages.env 1 http://idealgroups.org/
+/%2F.env.swo 1 http://idealgroups.org/
+http://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+/%2F.env 11 http://idealgroups.org/
+http://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+/%2Fapi.env 1 http://idealgroups.org/
+http://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+http://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+/build/%2F.env 1 http://idealgroups.org/
+/public/%2F.env 1 http://idealgroups.org/
+/%2F.env.swp 1 http://idealgroups.org/
+/%2F%252e%2565%256e%2576 1 http://idealgroups.org/
+http://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+http://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 http://idealgroups.org/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 12
+119.18.54.35 18 18 1152 20260604162249
+198.71.56.21 2 2 27156 20260615094656
+47.128.228.74 1 1 87 20260604162253
+16.59.53.152 1 1 87 20260604162254
+54.244.159.19 1 1 87 20260604162254
+23.178.112.103 1 1 87 20260604162253
+13.51.207.120 1 1 87 20260604162254
+66.132.186.180 0 1 38870 
+66.132.172.110 0 1 38870 
+66.132.172.100 0 1 38870 
+167.94.146.50 0 1 38870 
+167.94.146.61 0 1 38870 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20260603 9 9 576 1
+20260604 14 15 39881 6
+20260612 0 1 38870 0
+20260615 2 2 27156 1
+20260619 0 1 38870 0
+20260626 0 2 77740 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/.well-known/acme-challenge/Z9PoMSkW6fPUS6IhvTM2aMiB07WAmd7NQLNELvogXHw 5 435 5 5
+/webmail 2 27156 1 1
+/.well-known/acme-challenge/3O5GSCDGQEGI5TV-488_ZR02J9B3W3AW 1 64 0 1
+/.well-known/acme-challenge/_P74IK4O764POX8-PMI22LFZXO6MNYCE 1 64 0 0
+/.well-known/acme-challenge/DDPEVSC8W203EQBJ1786RT6RA9CSUUTM 1 64 0 0
+/.well-known/acme-challenge/33AQQ02_X6GF2YPQ0D4TIJEO7L3PQM7D 1 64 0 0
+/.well-known/acme-challenge/S6LPS_4WP7C1P-R8FNGDRV3UXT2OC6AU 1 64 0 1
+/.well-known/acme-challenge/TW8G74DL05JQ-SZQ0E7ZH6LUS4RS6ZHC 1 64 0 0
+/.well-known/acme-challenge/F-BKXQIET1Q9_DFW2NOAGL9Y0QWLY4R_ 1 64 0 0
+/.well-known/acme-challenge/6HSPDO07T5FIF9PPMMOJCSLSSSIW_E89 1 64 0 0
+/.well-known/acme-challenge/AAL7BQWYVET4Y805GKOTP93L-Q7B9QG2 1 64 0 0
+/.well-known/acme-challenge/MH0GM49I45SHH_Z0NRMC3TEH5OSXNNQL 1 64 1 0
+/.well-known/acme-challenge/CMMKZMV39TG1ZTU1OK45PK5MKSJ103YL 1 64 0 0
+/.well-known/acme-challenge/PTV2L9796L87-4OJ_FVLAJOZFNZD1ZHE 1 64 0 0
+/.well-known/acme-challenge/VSEIWSMK7CK240LG7TX8YNK89DNS5JIG 1 64 0 0
+/.well-known/acme-challenge/110CRI-4MFO-QZ7FIHNGHNRNE-2CUQU3 1 64 0 0
+/.well-known/acme-challenge/SOQ2LSY0USOPZD-8SDM4T_V272Y9HGOS 1 64 0 0
+/.well-known/acme-challenge/9JZNV6AD2BXFA5XP7H6-R_XSAYGIB36T 1 64 0 0
+/.well-known/acme-challenge/26Y78X2QVDUKQ10TB52MVC6C3ZY9FCBN 1 64 0 0
+/.well-known/acme-challenge/JYU1ZX6FTOXKVSNZEUC50RVLK3_8ZXSL 1 64 1 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 5
+44-100 518
+0-44 704
+100-500 19642
+500-1K 83
+5K+ 7
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

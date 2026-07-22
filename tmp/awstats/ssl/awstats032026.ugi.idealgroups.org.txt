@@ -1,0 +1,1181 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202603 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.ugi.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2092                
+POS_TIME 2753                
+POS_VISITOR 27134               
+POS_DAY 27240               
+POS_DOMAIN 3332                
+POS_LOGIN 3552                
+POS_ROBOT 3707                
+POS_WORMS 3839                
+POS_EMAILSENDER 3970                
+POS_EMAILRECEIVER 4113                
+POS_SESSION 27313               
+POS_FILESIZE 27530               
+POS_REQUESTTIME 27648               
+POS_SIDER 27459               
+POS_FILETYPES 4248                
+POS_DOWNLOADS 4325                
+POS_OS 4373                
+POS_BROWSER 4450                
+POS_SCREENSIZE 4516                
+POS_UNKNOWNREFERER 4590                
+POS_UNKNOWNREFERERBROWSER 4763                
+POS_ORIGIN 4845                
+POS_SEREFERRALS 4975                
+POS_PAGEREFS 5119                
+POS_SEARCHWORDS 5267                
+POS_KEYWORDS 5419                
+POS_MISC 2417                
+POS_ERRORS 5478                
+POS_CLUSTER 3408                
+POS_SIDER_404 5623                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260401000048 2 230 12396095832222
+FirstTime 0
+LastTime 20260322162616
+LastUpdate 20260401193251 2 0 1 0 0
+TotalVisits 1                   
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 17 18 6231
+1 0 0 0 6 16 4874
+2 0 0 0 10 12 3057
+3 0 0 0 7 7 2098
+4 0 0 0 6 7 2356
+5 0 0 0 6 7 2941
+6 0 0 0 8 8 2711
+7 0 0 0 22 24 7748
+8 0 0 0 10 10 3034
+9 0 0 0 2 3 710
+10 0 0 0 4 4 1155
+11 0 0 0 8 8 1079
+12 0 0 0 10 12 3624
+13 0 0 0 1495 1626 407016
+14 0 0 0 8 9 2810
+15 0 0 0 65 66 20161
+16 1 1 0 544 609 175920
+17 0 0 0 3 3 1293
+18 0 0 0 6 8 2941
+19 0 0 0 14 16 4940
+20 0 0 0 7 7 3040
+21 0 0 0 9 13 4333
+22 0 0 0 3 4 1392
+23 0 0 0 4 5 1876
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ca 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 1 0 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+Unknown 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 1
+netscape5.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(l9scan/2.0.5333e24353e28313e2931313;__https://leakix.net) 20260322162616
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1 1
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 101 41656
+404 1089 387963
+421 2 724
+406 908 205208
+409 383 31789
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 936
+/assets/index-[hash].js 1 -
+/.env.example 2 -
+/legacy/tests/9.1.1 1 -
+/private/sendgrid_keys.json 1 -
+/secrets/stripe.json 1 -
+/.yarnrc 1 -
+/web/api/config.js 1 -
+/blog/wp-content/themes/.git/config 1 -
+/.env-db 1 -
+/config/packages/sendgrid.yaml 1 -
+/backend/.git/config 1 -
+/laravel/.env.local 2 -
+/api/v1/finchat/open-api/auth/token 1 -
+/keys.json 2 -
+/config/stripe.go 1 -
+/dev/.git/config 1 -
+/config.js 1 -
+/apikeys.json 1 -
+/.env.prod.local 2 -
+/api_keys.txt 1 -
+/backup.tar 1 -
+/staging/ 1 -
+/.env_1 1 -
+/.env.local 3 -
+/webpack.config.js 1 -
+/graphql 1 -
+/scripts/deploy.sh 1 -
+/logs.sh 1 -
+/test/.env.staging 1 -
+/database.yml 1 -
+/build/_app/immutable/chunks/[chunk].[hash].js 1 -
+/start.sh 1 -
+/.env.production 5 -
+/docker-compose.env 1 -
+/.env.save 3 -
+/build/entry.client-[hash].js 1 -
+/plans 1 -
+/.secrets 1 -
+/graphql/api 1 -
+/production/.env.production 1 -
+/php5.ini 1 -
+/.npmrc 1 -
+/secrets/config.json 1 -
+/.vscode/sftp.json 1 -
+/new/.env.local 2 -
+/.aws/config 2 -
+/aws-credentials.sh 1 -
+/new/.env.staging 2 -
+/services/.env.local 1 -
+/service/.env.production 1 -
+/api/config.json 1 -
+/.powenv 1 -
+/config.zip 1 -
+/client/.env.production 1 -
+/api/admin/user/status 1 -
+/staging/.env.local 1 -
+/down.html 1 -
+/service.pwd 1 -
+/.envrc 3 -
+/v2/_catalog 1 -
+/index.js 1 -
+/public/system 1 -
+/api/v1/debug 1 -
+/env.template 1 -
+/static/js/main.335d17a0.js 1 -
+/phpMyAdmin/ 1 -
+/.git/refs/heads/master 1 -
+/yarn.lock 1 -
+/admin-api/ 1 -
+/wp-content/themes/.git/config 1 -
+/env.test.js 1 -
+/main.457ddfd2b1341056.js 1 -
+/admin/config 1 -
+/environment 1 -
+/debug.sql.tar.gz 1 -
+/.env_sample 1 -
+/private/keys.json 1 -
+/src/lib/stripe.js 1 -
+/app/.git/config 1 -
+/wp-content/uploads/wp-mail-smtp/sendgrid_keys.json 1 -
+/wp-content/uploads/sendgrid_keys.json 1 -
+/config/secrets/prod/sendgrid_keys.json 1 -
+/aws.yml 1 -
+/.settings.json 1 -
+/sendgrid_keys.json 1 -
+/backup/sendgrid_config 1 -
+/wp-includes/js/quicktags.js 1 -
+/gists/pusher 1 -
+/console/ 1 -
+/backup.zip 2 -
+/keys/stripe.txt 1 -
+/tokens.json 1 -
+/stripe_config.py 1 -
+/debug.sql.zip 1 -
+/debug.xml 1 -
+/app/checkout/stripe.js 1 -
+/.env.sendgrid 1 -
+/portal/.env.local 1 -
+/composer.json 1 -
+/api/v2/payment/keys.js 1 -
+/test/config/payment.js 1 -
+/logs/application.log 1 -
+/test/.env.local 1 -
+/sendgrid_keys.txt 1 -
+/server/.env.production 1 -
+/wp-content/plugins/.git/config 1 -
+/build.sh 1 -
+/aws-config.json 1 -
+/api/.env.sample 1 -
+/.output/ 1 -
+/_next/static/chunks/app/layout-a908fe02173ed4b1.js 1 -
+/environment.ts 1 -
+/debug.tar.gz 1 -
+/env.ts 1 -
+/sendgrid.json 1 -
+/.env.credentials 1 -
+/.env.payment 1 -
+/aws-secret.json 1 -
+/.rbenv-version 1 -
+/.env.2 2 -
+/config/database.json 1 -
+/instance/sendgrid_keys.py 1 -
+/config/env/sendgrid.env 1 -
+/order 1 -
+/demo/.env.production 1 -
+/.aws/credentials 3 -
+/api/auth/v1/pin/verify 1 -
+/_debug 1 -
+/admin/settings.ini 1 -
+/phpinfo-server 1 -
+/__debugbar 1 -
+/env.save 1 -
+/under-construction.html 1 -
+/storage/app/stripe.json 1 -
+/database.tar.gz 1 -
+/hc/restricted 1 -
+/config/payment.yml 1 -
+/config/initializers/cashier.rb 1 -
+/root/.aws/credentials 1 -
+/backup/database.zip 1 -
+/.config/config.json 1 -
+/wp-content/backup/sendgrid_keys.json 1 -
+/.circleci/config.yml 2 -
+/swagger/swagger-ui.html 1 -
+/.env1 2 -
+/api/swagger.json 1 -
+/wp-content/plugins/sendgrid_keys.json 1 -
+/api/info 1 -
+/laravel/core/.env.local 2 -
+/backend/.env.production 1 -
+/stripe/index.js 1 -
+/current/.env.production 1 -
+/maintenance.html 1 -
+/main.0ad61943313a734cc3ac.js 1 -
+/storage/sendgrid.json 1 -
+/azure/payment-config.json 1 -
+/admin/.env.staging 1 -
+/.env.dist 3 -
+/.gitlab-ci.yml 2 -
+/app/api/stripe/route.ts 1 -
+/configs/application.ini 1 -
+/api/auth 1 -
+/live/.env.production 1 -
+/.remote 1 -
+/backup/sendgrid_keys.json 1 -
+/config/stripe.ts 1 -
+/phpinfo-preprod 1 -
+/wp-content/debug.log 1 -
+/js/chunks/[chunk-name].[hash].js 1 -
+/app/.env.production 1 -
+/test.sh 1 -
+/subscribe 2 -
+/api/.env.back 1 -
+/config/.env.local 2 -
+/phpinfo.txt 1 -
+/properties.ini 1 -
+/var/log/nginx/error.log 1 -
+/package.json 1 -
+/.git/logs/HEAD 1 -
+/vendor/.env.example 1 -
+/k8s/stripe-secret.yaml 1 -
+/swagger/index.html 1 -
+/backup/.git/config 1 -
+/phpinfo-prod 1 -
+/api/stripe.ts 1 -
+/client/.env.staging 1 -
+/.gcloud/credentials 1 -
+/config/sendgrid.py 1 -
+/develop/.env.local 1 -
+/secrets/stripe.env 1 -
+/src/utils/payment.js 1 -
+/.aws/secretsmanager/ 1 -
+/storage/.env.staging 1 -
+/Makefile 1 -
+/sapi/debug/default/view 1 -
+/wp-config.txt 1 -
+/db-admin/ 1 -
+/backup/.env.local 1 -
+/static/js/main.36e5ec99.js 1 -
+/prod/.env.production 1 -
+/sendgrid.env 2 -
+/admin 1 -
+/api/v2/config 1 -
+/envrc 1 -
+/gcloud.json 1 -
+/errors.log 2 -
+/config.json 2 -
+/dev/.env.production 1 -
+/admin/sql.conf 1 -
+/dump.sh 1 -
+/server/.env.staging 1 -
+/api/config 1 -
+/wp-content/plugins/phpinfo 1 -
+/shop 1 -
+/.env-sample 1 -
+/phpinfodev 1 -
+/web.xml 1 -
+/.rbenv-vars 1 -
+/api/admin/user 1 -
+/pkg/stripe/keys.go 1 -
+/.env.test.local 2 -
+/api/.env.example 1 -
+/.env_private 1 -
+/public_html/.env.production 1 -
+/secrets.json 2 -
+/actuator/ 1 -
+/gists/cache 1 -
+/admin/.env.local 1 -
+/yarn-debug.log 1 -
+/%c0/ 1 -
+/WEB-INF/web.xml 1 -
+/config.ini 1 -
+/_next/static/chunks/pages/_app-d25b242610000153a081.js 1 -
+/.aws/secrets/ 1 -
+/static/js/main.ef8ecb99.chunk.js 1 -
+/current/.env.local 1 -
+/tmp/logs 1 -
+/user/.env.staging 2 -
+/api/.env.local 1 -
+/assets/index-GquDNGwd.js 1 -
+/qa/.env.local 1 -
+/config/config.yml 1 -
+/config/mailgun.json 1 -
+/backend/.env.local 2 -
+/gcp-credentials.json 1 -
+/laravel/.git/config 1 -
+/api/.env.staging 1 -
+/credentials/stripe.json 1 -
+/production/.git/config 1 -
+/qa/.env.staging 1 -
+/functions/payment.js 1 -
+/admin/.git/config 1 -
+/backup/sendgrid_keys 1 -
+/sample.env 1 -
+/.github/workflows/stripe.yml 1 -
+/static/js/main.1b34ee2a.js 1 -
+/src/config/stripe.js 1 -
+/cron/.env.staging 1 -
+/market/.env.local 1 -
+/server 1 -
+/deployment-config.json 1 -
+/assets/index-[hash].mjs 1 -
+/develop/.env.production 1 -
+/phpmyadmin/ 1 -
+/vendor/drupal/coder/.git/info/exclude 1 -
+/v1/admin/ 1 -
+/api/upload 1 -
+/.maintenance 1 -
+/oauth.json 1 -
+/config/secrets/dev/sendgrid_keys.json 1 -
+/graphiql/ 1 -
+/cmsmessages/information.aspx 1 -
+/.env_bak 1 -
+/cmsmessages/information.aspx.cs 1 -
+/backup.sh 1 -
+/instance/config.py 1 -
+/config/stripe.js 1 -
+/api/docs/ 1 -
+/debug.txt 1 -
+/staging/.git/config 1 -
+/.dockerignore 2 -
+/phpinfo.phtml 1 -
+/site-backup.zip 1 -
+/phpinfoapi 1 -
+/debugbar 1 -
+/debug/default/view.html 1 -
+/config/env/sendgrid_keys.env 1 -
+/modules/contrib/sendgrid_mail/translations/sendgrid_mail.fr.po 1 -
+/product/.env.staging 2 -
+/vercel.json 1 -
+/wp-includes/sendgrid_keys.json 1 -
+/config/.env.stripe 1 -
+/config/keys.yml 1 -
+/application/.env.sample 1 -
+/core/settings/stripe.py 1 -
+/.sendgrid/credentials 1 -
+/stripe.env 1 -
+/kubernetes.yml 1 -
+/netlify.toml 1 -
+/kyc/.env.local 1 -
+/kyc/.env.staging 1 -
+/config/secrets.json 1 -
+/aws-credentials.txt 1 -
+/public/.env.staging 1 -
+/.env.back 1 -
+/helm/values/stripe.yaml 1 -
+/test 1 -
+/config.properties 1 -
+/auth.json 1 -
+/build/ 1 -
+/env.json 1 -
+/v1/private/ 1 -
+/%c0 1 -
+/wp-content/sendgrid_keys.json 1 -
+/components/payment/config.js 1 -
+/routes/webhook.js 1 -
+/member/space/company/info.txt 1 -
+/configure.sh 1 -
+/phpinfo-api 1 -
+/aws-secret.yaml 1 -
+/stack.json 1 -
+/cert.pem 1 -
+/old/.git/config 1 -
+/.env2 1 -
+/dev-api/ 1 -
+/web/.env.production 1 -
+/api/v1/account/oauth/ticket 1 -
+/connectionstrings.json 1 -
+/uninstall.sh 1 -
+/sendgrid_keys.py 1 -
+/.hsenv 1 -
+/api/gateway 1 -
+/config/production.json 1 -
+/.gitignore 1 -
+/Dockerfile 2 -
+/.env.remote 1 -
+/about 1 -
+/phpinfo 2 -
+/crm/.env.production 1 -
+/marketing/.env.production 1 -
+/chunk-B2FODB4I.js 1 -
+/api/v1/sms-sender 1 -
+/config/settings.ini 1 -
+/static/js/main.87c766e3.js 1 -
+/assets/js/app.js 1 -
+/main-es2018.96dcf91e05121e327dcb.js 1 -
+/_next/static/chunks/app/error.js 1 -
+/cron/.env.local 1 -
+/storage/debug.log 1 -
+/debug.sh 1 -
+/aws/secrets/stripe.json 1 -
+/api/v1/finchat/open-api 1 -
+/config/settings.local.yml 1 -
+/static/js/main.4aa2819f.js 1 -
+/.github/workflows/deploy.yml 1 -
+/core/payment.py 1 -
+/sendgrid_keys 1 -
+/user/.env.local 1 -
+/website/.env.staging 1 -
+/.env.email 1 -
+/printenv 1 -
+/.env.docker 2 -
+/symfony/_profiler/phpinfo 1 -
+/config/environments/production/stripe.rb 1 -
+/phpinfo.srv 1 -
+/config/private/sendgrid_keys.json 1 -
+/marketing/.env.local 1 -
+/api/v1/account/oauth/token 1 -
+/.jenv-version 1 -
+/app//.env.back 1 -
+/_environment 1 -
+/webjars/swagger-ui/index.html 1 -
+/credentials.json 1 -
+/assets/vendor-[hash].js 1 -
+/private/sendgrid.json 1 -
+/apis/.env.local 1 -
+/laravel/.env.production 2 -
+/.git/ 1 -
+/azure.json 1 -
+/v1/debug/ 1 -
+/api/login 1 -
+/modules/stripe.js 1 -
+/settings.py 2 -
+/config/aws.json 1 -
+/info.txt 1 -
+/pages/api/payment.js 1 -
+/main-WTCAS2AO.js 1 -
+/php-information 1 -
+/debug.txt.gz 1 -
+/cron.sh 1 -
+/install.sh 1 -
+/actuator/env 2 -
+/_dev 1 -
+/test/.git/config 1 -
+/.env.smtp 1 -
+/.env_backup 2 -
+/donate 2 -
+/secrets.yml 2 -
+/project/.env.staging 1 -
+/legacy/tests/9.2.0 1 -
+/staging/.env.production 1 -
+/.travis.yml 1 -
+/config/config.env 1 -
+/secrets.js 1 -
+/shop/.env.staging 1 -
+/.aws/config.yaml 1 -
+/service/.env.local 1 -
+/beta/.env.local 1 -
+/modules/contrib/sendgrid_mail/sendgrid_mail.module 1 -
+/old/.env.production 1 -
+/vendor/ 1 -
+/var/debug.log 1 -
+/.env.json 1 -
+/app/etc/local.xml 1 -
+/keys/sendgrid_keys.json 1 -
+/scripts/db.sh 1 -
+/js/app.[hash].js 1 -
+/selfsigned.key 1 -
+/backend/debug 1 -
+/Booking/Default.aspx 1 -
+/stripe_keys.txt 1 -
+/project/settings/payment.py 1 -
+/Thumbs.db 1 -
+/shop/.env.local 1 -
+/.vite/ 1 -
+/public/.env.production 1 -
+/beta/.env.staging 1 -
+/_ignition/execute-solution 1 -
+/info 2 -
+/.aws/secret_access_key.txt 1 -
+/private/sendgrid_config 1 -
+/app/settings_stripe.py 1 -
+/printenv.tmp 1 -
+/.env.docker.dev 2 -
+/storage/debugbar/*.json 1 -
+/js/contact_me.js 1 -
+/main.yml 1 -
+/app/config/api/stripe.js 1 -
+/dev/stripe-test.env 1 -
+/secrets/sendgrid_keys 1 -
+/trace.axd 1 -
+/server/s3.js 1 -
+/config/payment_settings.py 1 -
+/.envs 2 -
+/@vite/env 1 -
+/config/env 1 -
+/admin/.env.production 1 -
+/stg/.env.production 1 -
+/api/savefile 1 -
+/.pypirc 1 -
+/app/config.js 1 -
+/build/_app/immutable/entry/app.[hash].js 1 -
+/qa/.env.production 1 -
+/static/js/main.602cea98.chunk.js 1 -
+/vendor/composer/installed.json 1 -
+/firebase.json 1 -
+/apis/.env.staging 1 -
+/.env.development.sample 1 -
+/api/.env.save 1 -
+/nginx.conf 1 -
+/old/ 1 -
+/_next/static/chunks/945-34f67d7c0866cf61b970.js 1 -
+/_profiler/phpinfo 2 -
+/node_modules/ 1 -
+/index.html 1 -
+/.sendgrid/config 1 -
+/_next/static/chunks/framework-[hash].js 1 -
+/lib/stripe_helper.rb 1 -
+/test-api/ 1 -
+/config/settings/sendgrid_keys.json 1 -
+/api/files.remote.share 1 -
+/assets/.git/config 1 -
+/php.log 1 -
+/.env_secret 2 -
+/beta/.env.production 1 -
+/.pam_environment 1 -
+/.env.testing 1 -
+/.env_aws 1 -
+/xampp/.env.local 1 -
+/storage/.env.local 2 -
+/config/database.yml 1 -
+/internal-api/ 1 -
+/api/secrets.json 1 -
+/development/.env.production 1 -
+/js 1 -
+/api/admin/auth 1 -
+/api/v1/files 1 -
+/web/debug/default/view 1 -
+/static/js/main.8c18b542.js 1 -
+/remove.sh 1 -
+/config/settings/sendgrid_config.json 1 -
+/swagger/ 1 -
+/env.txt 1 -
+/app/.env.sample 1 -
+/api/gql 1 -
+/storage/oauth-private.key 1 -
+/api/keys 1 -
+/laravel/core/.env.production 2 -
+/backend 1 -
+/js/chunk-vendors.[hash].js 1 -
+/website/.env.production 1 -
+/vendors~main.f286c0f60bdc707d91a8.bundle.js 1 -
+/phpinfo.test 1 -
+/debug.log 2 -
+/startup.sh 1 -
+/uploads/.git/config 1 -
+/apis/.env.production 1 -
+/sendgrid_keys.js 1 -
+/api/admin 1 -
+/k8s/payment-secret.yaml 1 -
+/data.tar.gz 1 -
+/api/system/info 1 -
+/main.js 2 -
+/stg/.env.local 1 -
+/stg/.env.staging 1 -
+/.env.tmp 1 -
+/api/admin/role 1 -
+/api/.git/config 2 -
+/api/webhook.js 1 -
+/config.yml 1 -
+/vendor/drupal/coder/.git/info/refs 1 -
+/.next/ 1 -
+/docker/.env.local 1 -
+/serverless.yml 1 -
+/static/js/main.bfa51071.js 1 -
+/api/register 1 -
+/stripe.txt 1 -
+/init.sh 1 -
+/internal/payment/config.go 1 -
+/config/stripe.yaml 1 -
+/ssl.key 1 -
+/app/config/stripe.yml 1 -
+/wp-admin/sendgrid_keys.json 1 -
+/.well-known/openid-configuration 1 -
+/api/v1/finchat/contact/manager 1 -
+/config/sendgrid_keys.json 1 -
+/.env.prod 4 -
+/phpinfo.staging 1 -
+/dump.tar.gz 1 -
+/.github/workflows/*.yml 1 -
+/_ignition/ 1 -
+/.env.hide 1 -
+/config/mail.json 1 -
+/.zshenv 1 -
+/debug-output.txt 1 -
+/npm-debug.log 1 -
+/billing 1 -
+/utils/stripe.js 1 -
+/.git/config 15 -
+/log/development.log 1 -
+/public_html/.env.local 1 -
+/api_keys/sendgrid_keys.json 1 -
+/s3.yml 1 -
+/pages/api/stripe.js 1 -
+/META-INF/context.xml 1 -
+/payment.env 1 -
+/api/stripe.js 1 -
+/config/default.json 1 -
+/YK_KZ_Base.js 1 -
+/.env.mail 1 -
+/env.prod.js 1 -
+/.git/index 1 -
+/app/config.json 1 -
+/backend/stripe.js 1 -
+/id_rsa.pub 1 -
+/product/.env.production 1 -
+/.env.dev 3 -
+/api/v1/finchat/privilege-api/forwarder/event 1 -
+/old/.env.local 1 -
+/xampp/.env.staging 1 -
+/vendor/.git/config 1 -
+/old/.env.staging 1 -
+/admin/db.conf 1 -
+/error.log 2 -
+/pricing 2 -
+/.environment 2 -
+/k8s-config.yml 1 -
+/pages/api/checkout.js 1 -
+/.dockerenv 1 -
+/_astro/[chunk-name].[hash].js 1 -
+/aws.env 1 -
+/security.txt 3 -
+/api/internal/ 1 -
+/sitemap.xml 1 -
+/debug 1 -
+/cart 2 -
+/config/settings.py 1 -
+/ 15 -
+/wp-content/themes/sendgrid_keys.json 1 -
+/market/.env.production 1 -
+/.bitbucket/pipelines.yml 1 -
+/shop/.env.production 1 -
+/develop/.env.staging 1 -
+/_debugbar/open 1 -
+/app/.env.example 1 -
+/.nvmrc 1 -
+/local.settings.json 1 -
+/.azure/credentials 1 -
+/web/.env.local 1 -
+/log.txt 1 -
+/.github/workflows/build.yml 1 -
+/private.key 1 -
+/web/.env.staging 1 -
+/config/settings/stripe.py 1 -
+/api/v1/stripe/config.js 1 -
+/server/stripe.js 1 -
+/static/js/main.48389ac6.js 1 -
+/js/chunk-79be581b.c4b0f5e4.js 1 -
+/kyc/.env.production 1 -
+/.bzr/ 1 -
+/api_keys.json 2 -
+/.env.dev.local 3 -
+/settings/sendgrid_keys 1 -
+/env.list 1 -
+/wp-content/.git/config 2 -
+/.env.live 1 -
+/phpsysinfo 1 -
+/api/debug 1 -
+/sandbox/stripe.env 1 -
+/config/sendgrid_config.json 1 -
+/gcp/stripe-keys.json 1 -
+/api/authentication 1 -
+/static/js/*.chunk.js 1 -
+/dist/js/app.[hash].js 1 -
+/.git/refs/heads/main 1 -
+/login/ 1 -
+/webpack-stats.json 1 -
+/.env_old 1 -
+/scripts/install.sh 1 -
+/config.ts 1 -
+/mobile/config/stripe.json 1 -
+/controllers/stripeController.js 1 -
+/config/secrets.yml 2 -
+/app/logs/prod.log 1 -
+/main.702787bb88cacd05b11d.js 1 -
+/public/.env.local 1 -
+/settings.ini 1 -
+/.env.test.sample 1 -
+/.env.test 3 -
+/server.key 1 -
+/vendor/drupal/coder/.git/objects/info/packs 1 -
+/modules/contrib/sendgrid_mail/sendgrid_mail.services.yml 1 -
+/.env.js 1 -
+/main.48f1bbcf6201c5ea.js 1 -
+/crm/.env.local 1 -
+/.git/HEAD 2 -
+/crm/.env.staging 1 -
+/cgi-bin/pass.txt 1 -
+/.docker/config.json 2 -
+/api/private/ 1 -
+/lib/stripe.js 1 -
+/wp-config 1 -
+/.s3cfg 1 -
+/build/routes/index-[hash].js 1 -
+/debug.json 1 -
+//cdn.js 4 -
+/public_html/.env.staging 1 -
+/main.2b8841d1a101dd041285.js 1 -
+/main-es2015.3c3aa123423ff18c0b00.js 1 -
+/laravel/.env.staging 2 -
+/_next/static/chunks/webpack-[hash].js 1 -
+/administrator/ 1 -
+/storage/logs/stack.log 1 -
+/.aws/credentials/admin/.env 1 -
+/php_error.log 1 -
+/config.inc 1 -
+/appsettings.json 1 -
+/api/v1/tokens 1 -
+/wordpress/.git/config 1 -
+/content/debug.log 1 -
+/phpinfo.html 1 -
+/mysql/ 1 -
+/lib/.git/config 1 -
+/public/.git/config 1 -
+/api/.env.production 1 -
+/cron/.env.production 1 -
+/functions/stripe.js 1 -
+/tests/fixtures/stripe.json 1 -
+/app-7d66de919618d3830635.js 1 -
+/static/js/main.11bc02d8.chunk.js 1 -
+/db_backup.zip 1 -
+/app/info 1 -
+/config/credentials.yml.enc 1 -
+/.env.production.local 4 -
+/.production 1 -
+/debug.zip 1 -
+/dashboard 2 -
+/swagger/v1/swagger.json 1 -
+/assets/js/app.f8ec9fb3.js 1 -
+/server.log 1 -
+/admin/ 1 -
+/private/secret.txt 1 -
+/secrets.env 1 -
+/wp-content/plugins/wp-mail-smtp/sendgrid_keys.json 1 -
+/laravel/core/.env.staging 2 -
+/staging/.env.staging 1 -
+/install/.env 1 -
+/_next/static/chunks/app/global-error.js 1 -
+/vendor/drupal/coder/.git/objects/info 1 -
+/project/.env.production 1 -
+/music.js 1 -
+/market/.env.staging 1 -
+/server.sh 1 -
+/.env.txt 1 -
+/core/.git/config 1 -
+/artisan 1 -
+/s/5333e24353e28313e2931313/_/ 1 -
+/api/v1/finchat/privilege-api/forwarder 1 -
+/env 1 -
+/prod/.env.staging 1 -
+/.svn/ 1 -
+/portal/.env.production 1 -
+/.env.hidden 1 -
+/.well-known/credentials.json 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/config/initializers/stripe.rb 1 -
+/server/.env.local 1 -
+/public.key 1 -
+/.env.bkp 1 -
+/secrets/sendgrid_keys.json 1 -
+/live/.env.local 1 -
+/config.local 1 -
+/env.js 1 -
+/log/error.log 1 -
+/swagger-ui.html 1 -
+/marketing/.env.staging 1 -
+/main-TDTOTK7F.js 1 -
+/.ssh/id_rsa.pub 1 -
+/graphql/ 1 -
+/xampp/.env.production 1 -
+/.aws/s3/config.json 1 -
+/production/.env.staging 1 -
+/service-worker.js 1 -
+/backup/sendgrid.json 1 -
+/credentials/payment.json 1 -
+/src/app.js 1 -
+/_next/static/chunks/pages/_app-a9fba37d935ce3f3.js 1 -
+/example.env 1 -
+/.env.key 1 -
+/build.log 1 -
+/backup/.env.staging 1 -
+/secrets/k8s/stripe.txt 1 -
+/settings/payment.py 1 -
+/config/aws.yml 1 -
+/composer.lock 1 -
+/functions/webhook.js 1 -
+/app.tar.gz 1 -
+/.boto 1 -
+/api 2 -
+/dev/.env.staging 1 -
+/wp-admin/ 5 https://t.co/
+/internal/ 1 -
+/api/v1 1 -
+/dev/.env.local 2 -
+/.env.stripe 1 -
+/env.example 1 -
+/docker-compose.override.yml 2 -
+/.venv 1 -
+/var/www/html/error_log 1 -
+/docker-compose.yml 2 -
+/logs/ 1 -
+/config.env 2 -
+/.env.development 3 -
+/api/command 1 -
+/telescope/requests 1 -
+/project/config/stripe.py 1 -
+/.vscode/settings.json 1 -
+/config/payment.rb 1 -
+/.env.php 1 -
+/robots.txt 6 -
+/.env.sh 1 -
+/v3/api-docs 1 -
+/vite.config.ts 1 -
+/keys.txt 1 -
+/account 1 -
+/phpinfo_details 1 -
+/logs/app.log 1 -
+/.well-known/config.json 1 -
+/.cache/payment.json 1 -
+/api/admin/user/password 1 -
+/_next/static/chunks/pages/_app-d1b5411bacd03f02.js 1 -
+/.env-example 1 -
+/.ghc.environment 1 -
+/.env.stage 2 -
+/config/stripe.json 1 -
+/selfsigned.crt 1 -
+/api/v1/config 1 -
+/.rbenv-gemsets 1 -
+/webhooks/settings.json 1 -
+/services/.env.production 1 -
+/client/.env.local 1 -
+/.bashrc 1 -
+/app.yaml 1 -
+/tmp/ 1 -
+/static/js/main.89c971fa.js 1 -
+/logs/error.log 2 -
+/manifest.json 1 -
+/cache/stripe.json 1 -
+/api/v1/netdisk/download 1 -
+/testing/ 1 -
+/settings/production/stripe.py 1 -
+/config/sendgrid.json 1 -
+/.hg/hgrc 1 -
+/logs/access.log 1 -
+/private/secret.key 1 -
+/storage/logs/laravel.log 2 -
+/aws.json 2 -
+/live/.env.staging 1 -
+/.DS_Store 3 -
+/s3.js 1 -
+/settings_stripe.py 1 -
+/info.log 1 -
+/production/.env.local 1 -
+/docker-compose.yaml 1 -
+/project/.env.local 1 -
+/api/resetpassword 1 -
+/.env.staging 3 -
+/_next/static/chunks/main-app-[hash].js 1 -
+/app/config/parameters.yml 1 -
+/admin/.env 3 -
+/service/.env.staging 1 -
+/.local 1 -
+/.env.travis 1 -
+/.hg/ 1 -
+/api/graphql 1 -
+/app/.env.local 1 -
+/prod/.env.local 1 -
+/.env.www 1 -
+/app/.env.staging 1 -
+/Procfile 1 -
+/test1 1 -
+/frontend/web/debug/default/view 1 -
+/payment.txt 1 -
+/run.sh 1 -
+/payment_config.py 1 -
+/lib/config.js 1 -
+/config.yaml 1 -
+/.bitbucket-pipelines.yml 1 -
+/.api_keys 1 -
+/main.58a95e8d8659972f.js 1 -
+/old/stripe.config.js 1 -
+/storage/app/keys/stripe.key 1 -
+/test/ 1 -
+/portal/.env.staging 1 -
+/main.b610bd7c7b9b7a47.js 1 -
+/docker/stripe.env 1 -
+/__debug__ 1 -
+/api/service 1 -
+/_next/static/chunks/app/%5B...not-found%5D/page-63e952e68a371605.js 1 -
+/staging-api/ 1 -
+/internal/stripe/keys.go 1 -
+/main.35a08c25eb91de70487f.js 1 -
+/storage/.env.production 1 -
+/app/.env.save 1 -
+/phpinfo.stg 1 -
+/cmd/api/stripe.go 1 -
+/.env.uat 1 -
+/service.grp 1 -
+/gists/laravel 1 -
+/checkout 2 -
+/.env.sample 2 -
+/development/.env.staging 1 -
+/backup/.env.production 1 -
+/tmp/stripe.config 1 -
+/.nuxt/ 1 -
+/settings/sendgrid_config 1 -
+/config/initializers/payment.rb 1 -
+/config/sendgrid.js 1 -
+/user/login 1 -
+/app/logs/dev.log 1 -
+/secrets/sendgrid.json 1 -
+/config/.env.dev 1 -
+/demo/.env.staging 1 -
+/.well-known/security.txt 5 -
+/backup.tar.gz 2 -
+/application/.env.save 1 -
+/.env.container 1 -
+/website/.env.local 1 -
+/build/main.ba0c34b7.js 1 -
+/js/vendor.[hash].js 1 -
+/demo/.env.local 1 -
+/firebase-debug.log 1 -
+/devtools 1 -
+/keys/payment.key 1 -
+/current/.env.staging 1 -
+/lib/payment.js 1 -
+/api-docs/swagger.json 1 -
+/debug/default/view 3 -
+/credentials.txt 1 -
+/app/api/stripe/route.js 1 -
+/_profiler/empty/search/results 1 -
+/backend/.env.staging 1 -
+/rollup.config.js 1 -
+/docker.sh 1 -
+/.github/stripe.env 1 -
+/.env.development.local 3 -
+/old_site/ 1 -
+/src/api/config.js 1 -
+/storage/oauth-public.key 1 -
+/.azure-pipelines.yml 1 -
+/test/.env.production 1 -
+/.env_config 1 -
+/internal/config 1 -
+/.env_copy 1 -
+/config/.env.production 1 -
+/system/config 1 -
+/secrets.txt 2 -
+/v2/api-docs 1 -
+/terraform/stripe.tfvars 1 -
+/test/stripe.config.js 1 -
+/routes/stripe.js 1 -
+/secret.env 1 -
+/env.sh 1 -
+/api/env 1 -
+/development/.env.local 1 -
+/.env_settings 1 -
+/phpinfo.dev 1 -
+/swagger.json 1 -
+/.env_example 1 -
+/var/log/apache2/error.log 1 -
+/now.json 1 -
+/.svn/entries 1 -
+/.env.1 1 -
+/js/app.bundle.min.js 1 -
+/private/sendgrid_keys 1 -
+/config/config.json 1 -
+/.flaskenv 1 -
+/routes/payment.js 1 -
+/secrets/sendgrid_config 1 -
+/database.zip 1 -
+/api/admin/role/id 1 -
+/new/.env.production 2 -
+/product/.env.local 1 -
+/login.action 1 -
+/services/.env.staging 1 -
+/deploy.sh 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1
+142.93.143.8 1 1 0 20260322162616
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20260322 1 1 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 1 0 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 4
+500-1K 44
+100-500 2074
+44-100 383
+0-44 2
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

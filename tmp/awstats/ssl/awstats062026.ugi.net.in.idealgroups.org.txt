@@ -1,0 +1,747 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202606 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.ugi.net.in.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2099                
+POS_TIME 2760                
+POS_VISITOR 17317               
+POS_DAY 17888               
+POS_DOMAIN 3445                
+POS_LOGIN 3708                
+POS_ROBOT 3863                
+POS_WORMS 4099                
+POS_EMAILSENDER 4230                
+POS_EMAILRECEIVER 4373                
+POS_SESSION 18171               
+POS_FILESIZE 18522               
+POS_REQUESTTIME 18641               
+POS_SIDER 18328               
+POS_FILETYPES 4508                
+POS_DOWNLOADS 4642                
+POS_OS 4690                
+POS_BROWSER 4797                
+POS_SCREENSIZE 4966                
+POS_UNKNOWNREFERER 5040                
+POS_UNKNOWNREFERERBROWSER 5127                
+POS_ORIGIN 5209                
+POS_SEREFERRALS 5343                
+POS_PAGEREFS 5487                
+POS_SEARCHWORDS 5635                
+POS_KEYWORDS 5787                
+POS_MISC 2424                
+POS_ERRORS 5846                
+POS_CLUSTER 3564                
+POS_SIDER_404 6020                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260701011624 4 709 15392227168540
+FirstTime 0
+LastTime 20260625155026
+LastUpdate 20260701190933 4 0 3 0 0
+TotalVisits 19                  
+TotalUnique 13                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 13                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 9 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 17 18 103650
+1 0 0 0 144 155 627075
+2 1 1 244 12 17 82480
+3 0 0 0 21 30 201898
+4 0 0 0 15 15 41893
+5 0 0 0 16 18 82759
+6 0 0 0 39 51 155352
+7 2 2 12510 13 14 62514
+8 0 0 0 17 20 68325
+9 0 0 0 147 158 639456
+10 4 4 25020 499 525 1301085
+11 5 5 38662 418 433 1363813
+12 5 5 31275 407 410 776742
+13 0 0 0 14 26 94189
+14 3 3 12754 8 11 100438
+15 2 2 6574 11 25 82527
+16 0 0 0 6 6 6315
+17 1 1 179109 12 13 12511
+18 1 1 6255 8 11 806
+19 0 0 0 153 168 470474
+20 2 2 12510 339 349 721360
+21 1 1 6255 142 153 759851
+22 0 0 0 9 9 6889
+23 2 2 12510 16 17 39846
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 25 25 163762
+cn 2 2 488
+de 1 1 179109
+jp 1 1 319
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+bot[\s_+:,\.\;\/\\-] 7 749 20260615134356 7
+crawl 3 333 20260610185349 3
+unknown 3 321 20260623151745 3
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+xml 2 488 0 0
+Unknown 2 179428 0 0
+php 1 13642 0 0
+html 24 150120 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+macosx15 17 17
+win10 11 11
+ios_iphone 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+safari18.3.1 1 1
+chrome131.0.0.0 13 13
+chrome146.0.0.0 3 3
+chrome145.0.0.0 7 7
+chrome120.0.0.0 3 3
+chrome144.0.0.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 17 17
+From1 0 0
+From2 0 0
+From3 0 0
+From4 12 12
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+421 2 724
+301 121 0
+409 216 17928
+429 82 21894
+302 6 0
+401 6 636
+404 1172 7528013
+406 1025 231650
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 457
+/www.zip 2 -
+/docker-compose.prod.yaml 4 -
+/server/actuator/heapdump 4 -
+/_ignition/health-check 1 -
+/fake-env-backup.txt 1 -
+/assets/vendor/bootstrap/js/bootstrap.bundle.min.js 4 -
+/cart 1 -
+/application-production.yml 1 -
+/threaddump 3 -
+/config/service-account.json 4 -
+/cloud-key.json 1 -
+/www/.git/config 2 -
+/private/credentials.json 4 -
+/application-staging.properties 1 -
+/env-variables.md 1 -
+/env.template 1 -
+/infra/docker-compose.yml 4 -
+/api/docker-compose.prod.yml 4 -
+/api/.env.production 2 -
+/docker-compose.local.yml 4 -
+/.gitconfig 1 -
+/actuator/threaddump 4 -
+/server/.env.production 3 -
+/info.php 1 -
+/v1/actuator/configprops 4 -
+/p.php 1 -
+/.terraform/terraform.tfstate 2 -
+/.env.lc 1 -
+/phpinfo.php.save 1 -
+/dist/.git/config 2 -
+/env.bash 1 -
+/htdocs/.git/config 2 -
+/gcp_key.json 1 -
+/htdocs/phpinfo.php 1 -
+/aws_credentials.json 3 -
+/server/docker-compose.yml 4 -
+/user/login 1 -
+/logfile 3 -
+/.env.sh 1 -
+/firebase-key.json 3 -
+/.env.dist 6 -
+/service_account.json 1 -
+/api/.env.dev 3 -
+/.env_example 1 -
+/k8s.yml 4 -
+/old_phpinfo.php 1 -
+/frontend/.env.production 3 -
+/code/.git/config 2 -
+/admin/api/.env 3 -
+/env_template 1 -
+/app/.git/config 2 -
+/_environment 3 -
+/docker/docker-compose.yml 4 -
+/_profiler 4 -
+/src/.env.production 2 -
+/wp-content/plugins/kirki/assets/css/kirki.min.css 1 -
+/docker-compose.dev.yml 4 -
+/_phpinfo.php 1 -
+/wp-content/plugins/updraftplus/index.html 2 -
+/env.jsx 1 -
+/qa/phpinfo.php 1 -
+/.env.development.example 1 -
+/phpinfo 4 -
+/actuator/auditevents 4 -
+/keyfile.json 3 -
+/wp-content/plugins/wp-google-map-plugin/assets/css/modal.css 1 -
+/wp-content/plugins/wp-security-audit-log/css/admin-notices.css 1 -
+/uat/phpinfo.php 1 -
+/.envrc 1 -
+/env_scan.py 1 -
+/.env.save.1 1 -
+/dev/phpinfo.php 1 -
+/app/.env.staging 2 -
+/assets/vendor/swiper/swiper-bundle.min.css 1 -
+/v1/.git/config 2 -
+/kubernetes.yaml 4 -
+/.env.demo 2 -
+/env 6 -
+/terraform.tfstate 2 -
+/create_env.py 1 -
+/_.env.prod 1 -
+/.env.yml 4 -
+/.env-production 1 -
+/api 1 -
+/v2/actuator/heapdump 3 -
+/default-env.json 1 -
+/internal/.env.production 3 -
+/api/actuator/logfile 4 -
+/environment.prod.ts 1 -
+/assets/css/aos.css 1 -
+/config.yml 1 -
+/wordpress/.git/config 2 -
+/.env.live 7 -
+/aws.json 2 -
+/.aws/credentials 2 -
+/environment.ci.ts 1 -
+/.git-credentials 1 -
+/set-aws-env.sh 1 -
+/config.js 1 -
+/.env.qa 2 -
+/wp-json/gravitysmtp/v1/config 6 -
+/assets/vendor/swiper/swiper-bundle.min.js 5 -
+/.env.local 6 -
+/backend/aws.json 4 -
+/app/.env.local 2 -
+/assets/vendor/aos/aos.css 2 -
+/api/.env.prod 3 -
+/.env.json 4 -
+/.env_dev 1 -
+/pi.php 1 -
+/.env.staging 6 -
+/assets/vendor/purecounter/purecounter_vanilla.js 5 -
+/firebase-config.json 1 -
+/.env.development 7 -
+/META-INF/context.xml 1 -
+/.env.sample 6 -
+/backend/actuator/configprops 4 -
+/assets/vendor/aos/aos.js 5 -
+/rest/V1/store/storeConfigs 1 -
+/firebase-adminsdk.json 6 -
+/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js 5 -
+/app/actuator/logfile 4 -
+/application-prod.yml 1 -
+/docker-compose.yaml 4 -
+/app/service-account.json 4 -
+/assets/img/favicon.png 2 -
+/.env-dist 1 -
+/wp-content/themes/wp-classic/inc/ 1 -
+/env.md 1 -
+/wp-includes/.cache_key 2 -
+/terraform.tfvars 2 -
+/backend/.env.production 3 -
+/app/.env.prod 3 -
+/.credentials 4 -
+/.env.backup2 4 -
+/env.development 1 -
+/application.yaml 1 -
+/api/.env.local 3 -
+/assets/js/aos.js 5 -
+/register 1 -
+/site/phpinfo.php 1 -
+/internal/actuator/env 3 -
+/v1/actuator/env 4 -
+/administrator/phpinfo.php 1 -
+/app/config/gcp.json 1 -
+/api/actuator/configprops 3 -
+/k8s.yaml 3 -
+/gcloud-service-key.json 1 -
+/.env.txt 6 -
+/gcp-credentials.json 7 -
+/.env.stage 7 -
+/.gcloud/credentials.json 3 -
+/backend/.git/config 2 -
+/sa.json 3 -
+/.env.production.example 1 -
+/.git/HEAD 6 -
+/trace 4 -
+/shop/.git/config 2 -
+/server-info.php 1 -
+/src/.env.local 2 -
+/api/.env.staging 2 -
+/application.yml 1 -
+/assets/js/main.js 5 -
+/webroot/_environment 1 -
+/docker-compose.yml 4 -
+/wp-content/plugins/profilegrid-user-profiles-groups-and-communities/public/css/pg-profile-menu.css 1 -
+/deploy/service-account.json 4 -
+/application.properties 1 -
+/db.sql.gz 2 -
+/env.example 1 -
+/config.json 1 -
+/.env.docker 6 -
+/.env.prod 6 -
+/secrets/azure.json 4 -
+/.docker/config.json 4 -
+/.env.default 3 -
+/services/docker-compose.yml 4 -
+/web.zip 2 -
+/.env.production 6 -
+/web/.git/config 2 -
+/.env.example2 1 -
+/core/phpinfo.php 1 -
+/Dockerfile 4 -
+/db.zip 2 -
+/.env.example-local 1 -
+/backend/service-account.json 3 -
+/.env.yaml 4 -
+/.env.prd 1 -
+/app-env.yaml 1 -
+/.env.uat 7 -
+/app/.env.dev 3 -
+/frontend/.env.local 3 -
+/environment.ts 1 -
+/debug.php 1 -
+/frontend/.env.dev 3 -
+/backend/docker-compose.yml 4 -
+/private/service-account.json 4 -
+/serviceaccount.json 3 -
+/set_env_vars.sh 1 -
+/.env.local.example 1 -
+/appsettings.json 1 -
+/api/.git/config 2 -
+/backend/actuator/heapdump 3 -
+/.git/credentials 1 -
+/internal/actuator/heapdump 4 -
+/env-list.txt 1 -
+/api/env 4 -
+/.envrc.sample 1 -
+/service-account.json 6 -
+/staging/phpinfo.php 1 -
+/i.php 1 -
+/configprops 4 -
+/env.production 1 -
+/config/credentials.yml.enc 1 -
+/blog-verify 15 -
+/wp-content/plugins/updraftplus/css/updraftplus-notices.css 1 -
+/example.env.txt 1 -
+/.env.testing 4 -
+/api/aws.json 4 -
+/backend/.env.prod 3 -
+/credentials 2 -
+/app/.env.production 2 -
+/server/actuator/env 4 -
+/config/.env.production 3 -
+/php.php 1 -
+/config/docker-compose.yml 4 -
+/assets/vendor/glightbox/js/glightbox.min.js 5 -
+/src/.git/config 2 -
+/wp-content/themes/twentystd/ 1 -
+/.env_copy 4 -
+/wp-admin/phpinfo.php 1 -
+/docker-compose.prod.yml 4 -
+/project/.git/config 2 -
+/set_env.sh 1 -
+/deploy/credentials.json 4 -
+/docker-compose.production.yml 4 -
+/.env.email 1 -
+/.env.local.exported 1 -
+/.env.remote 4 -
+/backup.tar.gz 2 -
+/laravel/.git/config 2 -
+/internal/docker-compose.yml 4 -
+/docker/docker-compose.prod.yml 4 -
+/wp-content/plugins/cidaas-pro-master/composer.json 6 -
+/.env.heroku.example 1 -
+/helm/values-production.yaml 2 -
+/.env.dev.local 3 -
+/cart.js 1 -
+/_.env.dev 1 -
+/symfony/.git/config 2 -
+/app/actuator/heapdump 4 -
+/v3/.git/config 2 -
+/.envec2 1 -
+/.config/gcloud/application_default_credentials.json 3 -
+/deploy/docker-compose.yml 4 -
+/env.ts 1 -
+/.env.save 6 -
+/wp-json/teknocore/v1/ 2 -
+/actuator/env 5 -
+/application-prod.properties 1 -
+/dashboard/.git/config 2 -
+/gcp/sa.json 1 -
+/api/docker-compose.yml 4 -
+/tmp/phpinfo.php 1 -
+/public/phpinfo.php 1 -
+/.env.dev 6 -
+/WEB-INF/web.xml 1 -
+/devops/docker-compose.yml 4 -
+/admin/phpinfo.php 1 -
+/public/.git/config 2 -
+/profiler/phpinfo 4 -
+/.env.development.local 2 -
+/infra/terraform.tfvars 2 -
+/config/master.key 1 -
+/__/firebase/init.json 1 -
+/frontend/.env.prod 3 -
+/keys/service-account.json 1 -
+/assets/css/main.css 1 -
+/public_html/phpinfo.php 1 -
+/test.php 1 -
+/services/.env.production 3 -
+/profiler 4 -
+/php-info 1 -
+/appsettings.Production.json 1 -
+/.env.backup1 4 -
+/aaa-debug-probe 1 -
+/includes/phpinfo.php 1 -
+/test/phpinfo.php 1 -
+/admin/.env.local 3 -
+/cloud.json 2 -
+/docker-compose.override.yml 4 -
+/credentials.json 3 -
+/wp-content/plugins/hippoo/assets/css/owl.theme.default.min.css 1 -
+/site.zip 2 -
+/.git/logs/HEAD 1 -
+/v2/actuator/env 4 -
+/env_utils.py 1 -
+/admin/.env.production 3 -
+/.env.ollama 1 -
+/assets/vendor/php-email-form/validate.js 5 -
+/.env.backup.txt 3 -
+/app/actuator/env 4 -
+/services/.env.local 3 -
+/.env.heroku 1 -
+/backup.zip 2 -
+/doors-test-article 2 -
+/backend/actuator/env 4 -
+/env_2.txt 1 -
+/.env.server 1 -
+/.env.pre-production 3 -
+/frontend/.git/config 2 -
+/wp-json/wp/v3/ 1 -
+/portal/.git/config 2 -
+/.env.template 3 -
+/html/.git/config 2 -
+/google-key.json 3 -
+/environment.py 1 -
+/.env.aws 1 -
+/assets/.git/config 2 -
+/beta/phpinfo.php 1 -
+/phpversion.php 1 -
+/_profiler/open 4 -
+/dump.sql.gz 2 -
+/.env.preprod 7 -
+/env_variables.py 1 -
+/actuator/logfile 4 -
+/firebase-credentials.json 4 -
+/application-production.properties 1 -
+/assets/vendor/bootstrap/css/bootstrap.min.css 1 -
+/infrastructure/docker-compose.yml 4 -
+/config/initializers/secret_token.rb 1 -
+/google-credentials.json 4 -
+/old/phpinfo.php 1 -
+/site/.git/config 2 -
+/assets/css/about.css 1 -
+/dump 4 -
+/env_creation.sh 1 -
+/info 3 -
+/.env.example 6 -
+/blog/.git/config 2 -
+/docs/phpinfo.php 1 -
+/.env-backup 1 -
+/admin/.git/config 2 -
+/app/heapdump 3 -
+/server/.env.local 3 -
+/actuator/trace 4 -
+/secrets/credentials.json 4 -
+/.git/config 23 -
+/local_env.yml 1 -
+/backup.tar.bz2 2 -
+/env.js 1 -
+/gcp.json 4 -
+/wp-content/plugins/fancy-elementor-gallery-box/assets/js/fancy-elementor-flipbox.js 4 -
+/build/.git/config 2 -
+/v2/.git/config 2 -
+/smtp/phpinfo.php 1 -
+/assets/css/style.css 1 -
+/wp-json/wc/v3/ 1 -
+/.env-dev 1 -
+/.env_prd 1 -
+/wp-json/gravitysmtp/v1/tests/mock-data 13 -
+/pinfo.php 1 -
+/helm/values.yaml 3 -
+/.env%20copy 1 -
+/config/.env.local 3 -
+/appsettings.Staging.json 1 -
+/.env.behat 1 -
+/config/aws.json 3 -
+/backend/.env.dev 3 -
+/administrator/ 1 -
+/wp-json/gravitysmtp/v1/settings 6 -
+/wp-config.txt 1 -
+/production.env.example 1 -
+/cpanel/phpinfo.php 1 -
+/_profiler/phpinfo 8 -
+/.env.build 1 -
+/actuator/httptrace 2 -
+/api/heapdump 4 -
+/config/.aws/credentials 4 -
+/deploy/docker-compose.prod.yml 4 -
+/gcp-key.json 3 -
+/.env.dev.example 1 -
+/docker-compose.staging.yml 4 -
+/.env2 4 -
+/heapdump 4 -
+/.env%20copy%202 1 -
+/.env_hlg 1 -
+/helm/values.yml 3 -
+/backend/.env.local 3 -
+/livewire/preview-file/123 1 -
+/phpinfo.php 1 -
+/assets/vendor/glightbox/css/glightbox.min.css 2 -
+/api/credentials.json 4 -
+/appsettings.Development.json 1 -
+/kubernetes.yml 4 -
+/admin/.env 7 -
+/api/actuator/env 4 -
+/key.json 3 -
+/actuator/configprops 5 -
+/frontend/.env.staging 3 -
+/static/.git/config 2 -
+/config/database.yml 1 -
+/.azure/credentials 2 -
+/actuator/heapdump 3 -
+/app/actuator/configprops 2 -
+/secrets/gcp.json 5 -
+/.env.test 6 -
+/config/secrets.yml 1 -
+/env-template 1 -
+/v1/actuator/heapdump 4 -
+/php-info.php 1 -
+/dev_env.tfvars 1 -
+/.env.testing.example 1 -
+/preview/phpinfo.php 1 -
+/v2/actuator/configprops 2 -
+/server-status.php 1 -
+/app/docker-compose.yml 4 -
+/backend/.env.staging 3 -
+/env_setup 1 -
+/gcp-sa.json 3 -
+/.gcp/credentials.json 1 -
+/.env-example 1 -
+/actuator/dump 3 -
+/wp-content/.git/config 2 -
+/dump.zip 2 -
+/deploy/terraform.tfvars 2 -
+/assets/vendor/isotope-layout/isotope.pkgd.min.js 5 -
+/.config/gcloud/credentials.db 2 -
+/assets/vendor/bootstrap-icons/bootstrap-icons.css 2 -
+/assets/css/product.css 1 -
+/env.sh 1 -
+/environ_names.txt 1 -
+/secrets/aws.json 3 -
+/assets/img/apple-touch-icon.png 2 -
+/google-service-account.json 1 -
+/api/configprops 2 -
+/.env1 4 -
+/.env.production.local 2 -
+/env.py 1 -
+/backend/docker-compose.prod.yml 4 -
+/actuator/sessions 3 -
+/env.txt 4 -
+/api/actuator/heapdump 4 -
+/wp-content/plugins/FoxPanel/assets/login/cpanel-login.css 1 -
+/parseable-env-secret 1 -
+/backup.sql.gz 2 -
+/hosting/phpinfo.php 1 -
+/mail/phpinfo.php 1 -
+/.aws/config 3 -
+/app/docker-compose.prod.yml 4 -
+/www/phpinfo.php 1 -
+/application_default_credentials.json 3 -
+/enviar_email.py 1 -
+/.env.ci 4 -
+/application-dev.properties 1 -
+/private/.env.production 3 -
+/config/gcloud.json 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 13
+18.236.192.26 5 5 38662 20260606112348
+35.183.186.49 4 4 25020 20260606121041
+54.177.169.36 4 4 25020 20260603104928
+35.254.244.123 3 3 18765 20260614233651
+40.87.20.23 3 3 18765 20260616202004
+34.42.34.237 2 2 12510 20260606122953
+34.122.16.212 2 2 12510 20260611233449
+4.227.232.143 1 1 6255 20260610150759
+106.63.26.148 1 1 244 20260623145404
+43.165.127.126 1 1 319 20260625155026
+106.63.26.28 1 1 244 20260602020144
+5.175.189.24 1 1 179109 20260602173857
+54.234.161.168 1 1 6255 20260604140828
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20260602 2 2 179353 2
+20260603 6 6 37530 3
+20260604 1 1 6255 1
+20260606 11 11 76192 4
+20260607 2 2 12510 2
+20260610 1 1 6255 1
+20260611 2 2 12510 2
+20260614 1 1 6255 1
+20260616 1 1 6255 1
+20260623 1 1 244 1
+20260625 1 1 319 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 18
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 24 150120 15 14
+/sitemap.xml 2 488 2 2
+/wp-json/wp/v2 1 179109 1 1
+/wp-json/wp/v2/users 1 319 1 1
+/webmail/phpinfo.php 1 13642 0 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 4
+44-100 216
+100-500 1160
+5K+ 1167
+0-44 138
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

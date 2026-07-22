@@ -1,0 +1,477 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202506 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.kmanimalhealthcare.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2066                
+POS_TIME 2728                
+POS_VISITOR 16212               
+POS_DAY 17284               
+POS_DOMAIN 3340                
+POS_LOGIN 3676                
+POS_ROBOT 3831                
+POS_WORMS 4004                
+POS_EMAILSENDER 4135                
+POS_EMAILRECEIVER 4278                
+POS_SESSION 17745               
+POS_FILESIZE 18020               
+POS_SIDER 17892               
+POS_FILETYPES 4413                
+POS_DOWNLOADS 4532                
+POS_OS 4580                
+POS_BROWSER 4724                
+POS_SCREENSIZE 5122                
+POS_UNKNOWNREFERER 5196                
+POS_UNKNOWNREFERERBROWSER 5790                
+POS_ORIGIN 6192                
+POS_SEREFERRALS 6324                
+POS_PAGEREFS 6508                
+POS_SEARCHWORDS 6656                
+POS_KEYWORDS 6808                
+POS_MISC 2392                
+POS_ERRORS 6867                
+POS_CLUSTER 3532                
+POS_SIDER_404 7007                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250701033031 7 1310 12314451019449
+FirstTime 0
+LastTime 20250630222945
+LastUpdate 20250701184616 7 0 6 0 0
+TotalVisits 28                  
+TotalUnique 26                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 26                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 7788 2 2 452
+1 1 1 307 2 2 452
+2 3 3 8601 233 233 595371
+3 1 1 7174 11 11 434704
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 2 4 55328 1 6 4856
+7 0 0 0 12 12 399622
+8 0 0 0 10 10 399168
+9 0 0 0 0 0 0
+10 2 2 14328 0 2 4856
+11 0 0 0 0 0 0
+12 1 1 7174 10 10 398884
+13 1 1 35549 10 10 399373
+14 1 1 7174 0 1 2428
+15 0 0 0 0 0 0
+16 2 2 7481 11 11 399759
+17 2 3 34833 13 16 798643
+18 3 3 21512 1 1 823
+19 1 1 7174 0 0 0
+20 1 1 307 0 0 0
+21 3 3 14645 0 1 2428
+22 1 3 48164 1 3 2428
+23 1 1 7174 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 16 21 189761
+ru 2 2 8294
+ca 2 2 42723
+za 2 2 614
+zz 2 2 14338
+in 1 1 7164
+be 1 1 7164
+lt 1 1 7174
+vn 1 1 7174
+ir 1 1 307
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 50 267561 20250614025409 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+png 5 102475 0 0
+Unknown 8 3269 0 0
+html 21 178969 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+palmos 1 1
+Unknown 12 7
+linux 5 5
+win10 11 11
+macosx15 1 1
+win7 2 2
+macosx 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+chrome137.0.0.0 2 2
+chrome135.0.0.0 2 2
+firefox137.0 1 1
+firefox127.0 1 1
+netscape4.0 1 1
+chrome74.0.3729.157 1 1
+chrome121.0.0.0 2 2
+safari17.5 1 1
+Unknown 2 2
+firefox91.0 2 2
+chrome116.0.5845.96 1 1
+mozilla 10 5
+chrome87.0.4280.141 1 1
+chrome91.0.4472.124 2 2
+chrome117.0.5938.132 2 2
+safari17.3.1 1 1
+chrome126.0.0.0 1 1
+chrome49.0.2623.87 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250619173918
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250604131134
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250630223006
+python-httpx/0.28.1 20250615000453
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250604131134
+python-httpx/0.28.1 20250615000453
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 27 32
+From1 0 0
+From2 2 2
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_ca 1 1
+www_google_com_sg 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+301 21 5887
+406 81 18306
+405 8 3176437
+409 6 498
+404 156 375558
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 146
+/.git/objects/51/c552cdf23f658d43bc10162f0b774cd311fd8b 1 -
+/demo/guestId/1749985344869 1 http://www.kmanimalhealthcare.idealgroups.org/
+/.git/objects/d4/9aec1636205e2d929dc8ccdf1b0606825906ff 1 -
+/.git/objects/06/0b037d291f23fd62040441c8ea12758d1c16ab 1 -
+/wp-admin/css/about.php/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/wp-admin/css/about.php/alfacgiapi/
+/.git/objects/77/f2b6870f9700e30ae948d39a837ea49213e531 1 -
+/files/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/files/ALFA_DATA/alfacgiapi/
+/.git/objects/3c/bf59b790c57c168f7343d2052b8c21d27ed322 1 -
+/ALFA_DATA/alfacgiapi 1 -
+/.git/objects/3d/66664a0f9231e39ed53dc138c6dcab01428794 1 -
+/.git/objects/0b/bc396807cf41eb75f7096f185fc49a107f45d9 1 -
+/assets/upload/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/assets/upload/ALFA_DATA/alfacgiapi/
+/.git/objects/3d/c45eb3fc9ef7a970b104b9c6090aa046201c74 1 -
+/sftp.json 2 -
+/.git/objects/eb/0536286f3081c6c0646817037faf5446e3547d 1 -
+/.git/objects/df/34cc18b6ab7e39a59c8a12fc149183c2d532b3 1 -
+/appsettings.json 1 -
+/wp-content/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/wp-content/ALFA_DATA/alfacgiapi/
+/.git/objects/63/8ec96066aa83821c4b7dfd5be4a0bec922a6a2 1 -
+/.git/objects/f1/12c0c8286087ec4dacd69a81a6b25895d59347 1 -
+/.git/objects/a9/1eb2daf86c297c9005cc2a1cc0927b6646b701 1 -
+/.git/objects/7b/600d1a938c3a1018d995f754042ec0292cce33 1 -
+/config.json 2 -
+/demo/guestId/1749647434971 1 http://www.kmanimalhealthcare.idealgroups.org/
+/.env.production 1 -
+/.git/objects/1e/b321407f7f05126d4bc680692d0a33249b1e11 1 -
+/.git/objects/fc/b21d396d657f597ef8b6729f73d89b0a871c9b 1 -
+/.env.local 1 -
+/wp-content/themes/seotheme/db.php 1 -
+/.git/objects/33/02ea85fb896ac438112d1242b6f3cd52902856 1 -
+/.git/objects/0b/cf8e0bbe127991d37954a9b7f9a063d06d4143 1 -
+/Telerik.Web.UI.WebResource.axd 1 -
+/css/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/css/ALFA_DATA/alfacgiapi/
+/.git/objects/5a/d84bd86458b5bbc26ec7107c8d2cba67014d15 1 -
+/.git/objects/fe/1928131386c6611e1b63b6d5c4356aea4ac978 1 -
+/.git/objects/0e/6480f26a3708db4b182fc7b53651880b5e8b81 1 -
+/.git/objects/8a/5aea709cb9dd16dbe1ade7d20ff0b1d8574981 1 -
+/.ftpconfig 1 -
+/.git/objects/e0/5f4c9a1b27a35c20ac897b44dfb7a9238ff9b7 1 -
+/.git/objects/3a/ec5e27e5db801fa9e321c0a97acbb49e10908f 1 -
+/.git/objects/d5/a68396c81e446407f070c2503b7353e0725609 1 -
+/wp-admin/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/wp-admin/ALFA_DATA/alfacgiapi/
+/.git/objects/2a/075a58597c4c86a3ada670c4987563cf53227a 1 -
+/.git/objects/e8/0f82f4ca5ff14e18afd5ac2d0d25be19ae5423 1 -
+/config.env 1 -
+/.git/objects/cb/fbeea9c2d1314e97598e8f3d37f0dc49232a2f 1 -
+/.aws/credentials 2 -
+/.git/objects/81/a7229b085acceacba99220d098fd156abc4eb4 1 -
+/uploads/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/uploads/ALFA_DATA/alfacgiapi/
+/.git/objects/ff/af93e1032b5235bb6632ab5d9089a0d48229cd 1 -
+/.git/objects/01/e4a6cda9eb380973b23a40d562bca8a3a198b4 1 -
+/.git/objects/49/a71909565d8572e9d915c039b0fab49d0f4a1a 1 -
+/.git/objects/d8/e43f5d33d07437daa6c48429ffd72da3787480 1 -
+/.git/objects/58/53846c20771767dbdde0229933d8cfa0b4d55c 1 -
+/.git/objects/23/d0bc4561d3f1801dc0d67081c50f608f1eb99b 1 -
+/.git/objects/7a/56b97aba586fb7090168f6196cfd5b98c6f148 1 -
+/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391 1 -
+/.git/objects/1d/3241b7b7f312a8cf82674ba2e1a095c670953e 1 -
+/.git/objects/06/7e3eb6a457b8b8a86ed61987c53cc8506d0b47 1 -
+/ads.txt 4 -
+/sftp-config.json 1 -
+/.git/objects/50/baa5e568df5577d90c22d6b7dd2250c09a4861 1 -
+/wp-content/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/wp-content/alfacgiapi/
+/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/alfacgiapi/
+/.git/objects/1f/d6cf1680d44d930859bda34109507ff19329e9 1 -
+/.git/objects/dc/7440bbe40465631f05e542d5799fe9f758d003 1 -
+/.git/objects/64/09b9b9fc24a50cd6435ba7aede9ae2e591ef2a 1 -
+/.git/objects/88/9937e11a55065725869401d22252f888029c2f 1 -
+/.git/objects/5b/307ff1e885b07c8e2e802b70799148dc4e9a8a 1 -
+/.git/objects/67/a3329b183e042b14516122b5d470bc337a5a90 1 -
+/.git/objects/e5/10df7efebdefdd91265ad918b673abf48d262d 1 -
+/upload/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/upload/ALFA_DATA/alfacgiapi/
+/.git/objects/17/faaeb6f9405f309f7df0ba45905e16a30dbf8e 1 -
+/components/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/components/ALFA_DATA/alfacgiapi/
+/wordpress/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/wordpress/ALFA_DATA/alfacgiapi/
+/api/shared/config.env 1 -
+/.git/objects/cf/b21b0620cfcbba35c25e34fb6c55fc61e96bee 1 -
+/.git/objects/b2/1d76073da43ea986ecf0e07982a2452ca4f4af 1 -
+/.git/objects/8f/4803c05638697d84ea28d40693324ec70f7990 1 -
+/.git/objects/2d/e8cb0900835751e2ce56f27c8e7d1b484f4eb6 1 -
+/.git/objects/94/d95ce5e57ef89e1efff523772f9b38ae44b221 1 -
+/.AWS_/credentials 1 -
+/.git/objects/22/038879d1df33a7a47e8c29fc54201f40c42bf9 1 -
+/.git/objects/93/96c3c9b3b5e60f4f616ea03411fef1303f2c22 1 -
+/.git/objects/82/d2e67d75ee30073d8bdb14056198a3ba82abbb 1 -
+/.git/objects/87/7c6f90a5d9e2d8457a2e812052d644fc5fff9a 1 -
+/images/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/images/ALFA_DATA/alfacgiapi/
+/config/aws.yml 1 -
+/.git/objects/eb/d5499d207d5da565d221e26bee93db3ebf79a9 1 -
+/.git/objects/30/0c8b38b6d65ca4900fce4a962151a650e24491 1 -
+/wp-includes/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/wp-includes/ALFA_DATA/alfacgiapi/
+/.git/objects/d6/b7ef32c8478a48c3994dcadc86837f4371184d 3 -
+/.git/objects/a9/065da92dd1ae1145fda20dcb97bf50ce1546fa 1 -
+/.git/objects/b1/5552c9d0e103a245bd41d48f1d96ac83655e03 1 -
+/.git/objects/42/1b5695627db43c022947cfc7c0ecce6b9689be 1 -
+/wp-includes/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/wp-includes/alfacgiapi/
+/.git/objects/15/882ffd6dfc637ce59d87a56f27a1616b0ada11 1 -
+/application.properties 1 -
+/.git/objects/a3/a497290d53974fc52f03790b7e60b32deb1a21 1 -
+/.git/objects/e1/a99a65bbf8ef9e97026db44ee3a2c2f05a3b7d 1 -
+/.git/objects/9e/b8c06fcf4ed512eae2df2488ffd9c2e54116ab 1 -
+/.git/objects/7f/e978f8510cbb72cf464557b00a8e72a5ce8446 1 -
+/.git/objects/93/6552b5f7d40c3be1d8fdf0aa5e6784270fc312 1 -
+/.git/objects/5c/d47d7fe1ede6fb8a71ef1c51308a1103892609 1 -
+/.git/objects/86/cec85ba07e1eb6b003c8c6c89a348c490362af 1 -
+/security.txt 1 -
+/.git/objects/39/012b3f72ee5ddffd68d6dc0055abaab5a4faa9 1 -
+/.git/objects/8f/0de65c560259bd171d746d12aa187f666893a3 1 -
+/tmp_images/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/tmp_images/alfacgiapi/
+/.git/objects/3a/c4d97bbc3abcdd0d5d387cd56ca02686919679 1 -
+/.git/objects/f2/85550aaef0db2976d61ba6f45891aaff4b8854 1 -
+/.git/objects/e8/28ad8189ee7c270c24be93f2eb73d833c0da87 1 -
+/.git/objects/ba/f95faa45ea643e865c90dc2bd9e691a94eb006 1 -
+/.git/objects/f6/4fdc26a7feac07719dc58038623cb740fa0bee 1 -
+/.git/objects/8f/660a099ae74d4be4c0c41b0155ba55f0f1d313 1 -
+/.git/objects/8f/92e6104687d0b31b0308490cb85c41ae0290e8 1 -
+/.git/objects/70/79368a1897f421814c8a8e5bc2b54290c13b20 1 -
+/wp-admin/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/wp-admin/alfacgiapi/
+/.git/objects/5b/88f3953140143c731e758cb6b35cca48bf17b6 1 -
+/.git/objects/5b/4282076ea6859e110250a96f630a7715e1b728 1 -
+/.git/objects/97/c651706d896c2f4a11bc8c20ec7c41ec5f991c 1 -
+/wp/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/wp/ALFA_DATA/alfacgiapi/
+/.git/objects/24/9da8171acd0816601ccb095c3320393e66dea6 1 -
+/.git/objects/9b/19b93c9f13d72749cc3bac760a28325116f3f1 1 -
+/.git/objects/12/8d0552e715d532a6016b9fe07212ed1f57aeac 1 -
+/cgi-bin/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/cgi-bin/ALFA_DATA/alfacgiapi/
+/.git/objects/aa/c8e75d07107d0303f25870bbef98c6281fcba5 1 -
+/.git/objects/81/edc683ddfc819f666d68c6b5b28cdc8c084697 1 -
+/.git/objects/97/beb1594e78c6b5312e301dd93c411e32521b3f 1 -
+/.git/objects/2a/030f298be66f160821bb3f42afd4c87fb45228 1 -
+/.git/objects/05/9d25d01247e29a973715d53afa5dbb96c37485 1 -
+/.git/objects/32/85b15c5731bb3887f792a4347ab186e5fdea45 1 -
+/.git/objects/fb/55b4a82f8ad8c0fb0e521b61d9bad7c587931c 1 -
+/.git/objects/05/c4471f2b53fc17d3cac9d3d252755a35479f7c 1 -
+/wiki 3 -
+/.git/objects/fe/f81986719d4643edc880b7dc9b94c9ed7025f0 1 -
+/.git/objects/5d/451e1fae88c81c097aa55de6ff039a3cc0a1c3 1 -
+/deployment-config.json 1 -
+/aws/credentials 1 -
+/.git/objects/54/3e6110c16d79e72f6537f4bed7985b0e284ebd 1 -
+/blog/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/blog/ALFA_DATA/alfacgiapi/
+/.well-known/ALFA_DATA/alfacgiapi 1 http://www.kmanimalhealthcare.idealgroups.org/.well-known/ALFA_DATA/alfacgiapi/
+/config/settings.json 1 -
+/.git/objects/aa/7eb77aefb69756a23abe23e9908cdbca485b62 1 -
+/.git/objects/69/a8fb06d3a7a7e7b0b7d5d793602f94aaca6cbd 1 -
+/.git/objects/c4/a633d69e52581a772d747c8561f64fedc37b2a 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 26
+44.213.105.61 2 2 614 20250615000453
+185.177.72.210 2 2 8294 20250614025412
+196.251.88.26 2 2 614 20250622013517
+147.182.239.54 1 1 7164 20250617100858
+222.255.214.45 1 1 7174 20250627183755
+205.210.31.26 1 1 35549 20250604131134
+89.117.19.179 1 1 7174 20250606124422
+205.169.39.15 1 1 7174 20250611184031
+31.57.219.7 1 1 307 20250616005609
+216.81.248.88 1 1 307 20250614212552
+20.204.164.126 1 1 7174 20250609235322
+170.39.218.61 1 1 7174 20250606033547
+134.122.46.62 1 1 7174 20250601192955
+167.235.116.36 1 1 307 20250629024604
+205.169.39.3 1 1 7174 20250615163220
+103.186.64.110 1 1 7164 20250627183229
+167.94.138.179 1 2 27669 20250624060227
+142.93.45.117 1 1 7174 20250627212300
+157.245.88.150 1 1 7174 20250613145835
+167.94.145.101 1 3 48164 20250630222945
+167.94.138.44 1 2 27669 20250609171522
+87.236.176.134 1 1 7164 20250619173918
+157.245.216.94 1 1 7164 20250603104752
+162.142.125.204 1 2 27659 20250618060312
+192.250.229.38 1 1 7174 20250605001717
+170.39.218.58 1 1 7164 20250601211816
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20250601 2 2 14338 2
+20250603 1 1 7164 1
+20250604 1 1 35549 1
+20250605 1 1 7174 1
+20250606 2 2 14348 2
+20250609 2 3 34843 2
+20250611 1 1 7174 1
+20250613 1 1 7174 1
+20250614 4 4 8908 3
+20250615 2 2 7481 2
+20250616 1 1 307 1
+20250617 1 1 7164 1
+20250618 1 2 27659 1
+20250619 1 1 7164 1
+20250621 1 1 307 1
+20250622 1 1 307 1
+20250624 1 2 27669 1
+20250627 3 3 21512 3
+20250629 1 1 307 1
+20250630 1 3 48164 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 28
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 21 178969 20 21
+/.git/config 7 2149 7 7
+/.env.example 1 1120 1 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+1K-2K 5
+44-100 17
+500-1K 7
+100-500 126
+0-44 3
+2K-5K 169
+5K+ 38
+END_FILESIZE

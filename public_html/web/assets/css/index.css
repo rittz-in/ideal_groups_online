@@ -1,0 +1,82 @@
+/*navbar active class */
+.activeClass
+{
+	color: #BF3D28 !important;	
+}
+/* What we are start */
+.what-we-are{
+	padding: 65px 0px;
+}
+.WhatWeAreDescription{
+	text-align: center;
+}
+
+/* header logo */
+.logo a img{
+	width: 75%;
+}
+
+/*design featured */
+.ideal-logo{
+	padding-bottom: 125px;
+}
+.featureLeftSpacing{
+	margin-right: 20px;
+}
+.featureRightSpacing{
+	margin-top: 0px;
+	margin-left: 23px;
+}
+
+/* footer logo */
+.footer-logo a img{
+	width: 75%;
+}
+
+/* media query */
+@media only screen and (max-width: 992px) {
+	.slider-video .video-title {
+        font-size: 40px; 
+	}
+	.what-we-are{
+		padding: 30px 0px;
+	}
+	.bgs-cover{
+		padding-top: 0px;
+	}
+	.design-feature-area{
+		padding-top: 30px;
+	}
+	.feature-left{
+		text-align: -webkit-center;
+	}
+	.feature-right{
+		text-align: -webkit-center;
+	}
+	.responsive-featured{
+		width: 50%;
+	}
+	.project-area-three{
+		padding-top: 25px;
+	}
+}
+@media only screen and (max-width: 768px) {
+	.what-we-are{
+		padding: 15px 0px;
+	}
+	.featureLeftSpacing {
+		margin-right: 0px;
+	}
+	.featureRightSpacing {
+		margin-left: 0px;
+	}
+	.responsive-featured{
+		width: 100%;
+	}
+
+}
+@media (min-width: 768px) and (max-width: 770px){
+	.responsive-featured{
+		width: 50%;
+	}
+}

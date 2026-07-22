@@ -1,0 +1,9 @@
+[pack]
+	threads = 1
+[gc]
+	auto = 0
+[user]
+	email = rizvanshekh@hotmail.com
+	name = Rizwan Shaikh
+[credential]
+	helper = store

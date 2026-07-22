@@ -1,0 +1,336 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202405 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2681                
+POS_VISITOR 8951                
+POS_DAY 9485                
+POS_DOMAIN 3221                
+POS_LOGIN 3471                
+POS_ROBOT 3626                
+POS_WORMS 3867                
+POS_EMAILSENDER 3998                
+POS_EMAILRECEIVER 4141                
+POS_SESSION 9742                
+POS_SIDER 9889                
+POS_FILETYPES 4276                
+POS_DOWNLOADS 4377                
+POS_OS 4425                
+POS_BROWSER 4525                
+POS_SCREENSIZE 4699                
+POS_UNKNOWNREFERER 4773                
+POS_UNKNOWNREFERERBROWSER 5047                
+POS_ORIGIN 5129                
+POS_SEREFERRALS 5261                
+POS_PAGEREFS 5405                
+POS_SEARCHWORDS 5553                
+POS_KEYWORDS 5705                
+POS_MISC 2345                
+POS_ERRORS 5764                
+POS_CLUSTER 3327                
+POS_SIDER_404 5914                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240601003333 1 0 12458526671387
+FirstTime 0
+LastTime 20240528233506
+LastUpdate 20240601184919 1 0 0 0 0
+TotalVisits 12                  
+TotalUnique 12                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 12                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 2 2 309
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 1 1 3316 85 92 2508732
+5 0 0 0 0 0 0
+6 1 1 1049 1 2 83
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 6 6 4676
+10 0 0 0 7 7 6419
+11 3 3 2928 7 10 14662
+12 0 0 0 0 0 0
+13 2 2 2085 6 6 6336
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 2 2 2089 1 2 3478
+17 2 2 2098 1 3 3479
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 2 2 166
+21 1 1 1045 1 2 2511
+22 0 0 0 0 0 0
+23 2 2 1880 1 3 4939
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 12 12 14403
+sa 1 1 1045
+be 1 1 1042
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+bot[\s_+:,\.\;\/\\-] 2 2093 20240511175120 0
+curl 2 3316 20240508040929 0
+Konqueror/ 1 1050 20240513162726 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 12 14816 0 0
+Unknown 2 1674 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+win10 7 7
+Unknown 3 3
+macosx15 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+mozilla 3 3
+chrome124.0.0.0 4 4
+chrome117.0.5938.132 1 1
+chrome99.0.4859.172 1 1
+chrome71.0.3578.80 1 1
+chrome121.0.0.0 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240517173252
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240506131656
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 14 14
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+301 20 5802
+409 7 581
+404 74 434347
+406 5 1130
+405 2 2084239
+403 22 23232
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 69
+/assets/tinymce/plugins/filemanager/dialog.php 1 -
+/assets/plugins/elfinder/elfinder.html 1 -
+/admin/filemanager/dialog.php 1 -
+/vendor/laravel-filemanager/js/script.js 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 -
+/filemanager/dialog.php 1 -
+/assets/admin/bower_components/jquery.filer/php/readme.txt 1 -
+/coaster/jquery/gallery-upload/server/php 1 -
+/assets/jquery-file-upload/server/php 1 -
+/resources/global/plugins/jquery-file-upload/server/php 1 -
+/wp 1 -
+/public/javascript/jquery.upload/server/php 1 -
+/assets/backend/plugins/jquery-file-upload/server/php 1 -
+/assets/lib/jquery-file-upload/server/php 1 -
+/metronic/assets/global/plugins/jquery-file-upload/server/php 1 -
+/timthumb.php 1 -
+/robots.txt 4 -
+/asset/kcfinder/upload.php 1 -
+/js/kcfinder/upload.php 1 -
+/alfacgiapi/perl.alfa 1 -
+/plugins/jquery.filer/php/readme.txt 1 -
+/OLD/wp-admin/setup-config.php 1 -
+/assets/vendor/jquery.filer/php/readme.txt 1 -
+/assets/plugins/jquery.filer/php/readme.txt 1 -
+/wordpress 1 -
+/assets/plugins/kcfinder/upload.php 1 -
+/tinymce/filemanager/dialog.php 1 -
+/filemanager/filemanager/dialog.php 1 -
+/tinymce/plugins/filemanager/dialog.php 1 -
+/wordpress/wp-admin/setup-config.php 1 -
+/lib/jquery-file-upload/server/php 1 -
+/media/mediamgr/other/jq_fileupload/server/php 1 -
+/demo 1 -
+//idealgroups.org/digicard/public/js/coreui.bundle.min.js 2 -
+/plugins/kcfinder/upload.php 1 -
+/blog 1 -
+/new 1 -
+/phpformbuilder/plugins/filemanager/dialog.php 1 -
+/assets/js/kcfinder/upload.php 1 -
+/.git/config 1 -
+/public/vendor/laravel-filemanager/js/script.js 1 -
+/js/jquery-file-upload/server/php 1 -
+/assets/plugins/filemanager/dialog.php 1 -
+/assets/elfinder/elfinder.html 1 -
+/assets/filemanager/dialog.php 1 -
+/thumb.php 1 -
+/scripts/filemanager/dialog.php 1 -
+/wp-admin/install.php 1 -
+/plugins/jquery-file-upload/server/php 1 -
+/assets/admin/js/tinymce/plugins/filemanager/dialog.php 1 -
+/assets/kcfinder/upload.php 1 -
+/assets/global/plugins/jquery-file-upload/server/php 1 -
+/assets/libs/jquery-file-upload/server/php 1 -
+/ads.txt 2 -
+/kcfinder/upload.php 1 -
+/assets/plugins/jquery-file-upload/server/php 1 -
+/assets/scripts/filemanager/dialog.php 1 -
+/formcraft/file-upload/server/php 1 -
+/js/tinymce4/plugins/filemanager/dialog.php 1 -
+/app/webroot/global/plugins/jquery-file-upload/server/php 1 -
+/assets/themes/metronic/global/jquery-file-upload/server/php 1 -
+/assets/color_admin/plugins/jquery-file-upload/server/php 1 -
+/wp-admin/setup-config.php 1 -
+/assets/vendor_admin/plugins/jquery-file-upload/server/php 1 -
+/old/wp-admin/setup-config.php 1 -
+/assets/admin/tinymce/plugins/filemanager/dialog.php 1 -
+/debug/default/index 1 -
+/coloradmin/assets/plugins/jquery-file-upload/server/php 1 -
+/jquery.filer/php/readme.txt 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 12
+34.1.8.74 2 2 1880 20240528233506
+35.215.122.114 2 2 1879 20240524114928
+159.203.12.222 1 1 1040 20240518161423
+134.122.99.197 1 1 1049 20240508113118
+162.142.125.113 1 1 1049 20240506061213
+167.99.245.179 1 1 1043 20240504132450
+87.236.176.242 1 1 1042 20240506131656
+212.162.152.101 1 1 1045 20240512210219
+65.155.30.101 1 1 1049 20240511163337
+199.45.154.55 1 1 1048 20240517173252
+165.22.253.218 1 1 3316 20240508040639
+45.55.131.34 1 1 1050 20240522171453
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20240504 1 1 1043 1
+20240506 2 2 2091 2
+20240508 2 2 4365 2
+20240511 1 1 1049 1
+20240512 1 1 1045 1
+20240517 1 1 1048 1
+20240518 1 1 1040 1
+20240522 1 1 1050 1
+20240524 2 2 1879 1
+20240528 2 2 1880 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 12
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 12 14816 12 10
+/password/reset 2 1674 0 2
+END_SIDER

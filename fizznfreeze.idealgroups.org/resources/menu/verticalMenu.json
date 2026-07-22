@@ -1,0 +1,157 @@
+{
+  "menu": [
+    {
+      "menuHeader": "Role  & User Management"
+    },
+    {
+      "name": "Roles & Permissions",
+      "icon": "menu-icon tf-icons ti ti-settings",
+      "slug": "app-access",
+      "submenu": [
+        {
+          "url": "app/roles/list",
+          "name": "Roles",
+          "slug": "app-access-roles"
+        }
+      ]
+    },
+    {
+      "name": "Users",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "app-user",
+      "submenu": [
+        {
+          "url": "app/users/list",
+          "name": "Admin and Manager",
+          "slug": "app-users-list"
+        },
+        {
+          "url": "app/site-users/list",
+          "name": "Users List",
+          "icon": "users",
+          "slug": "app-site-users-list",
+          "permission": [
+            "user-list",
+            "user-create"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Categories",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "app-categories",
+      "submenu": [
+        {
+          "url": "app/categories/list",
+          "name": "Categories List",
+          "slug": "app-categories-list"
+        },
+        {
+          "url": "app/categories/add",
+          "name": "Create Category",
+          "icon": "users",
+          "slug": "app-categories-add",
+          "permission": [
+            "category-create",
+            "category-list",
+            "category-edit",
+            "category-delete"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Products",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "app-products",
+      "submenu": [
+        {
+          "url": "app/products/list",
+          "name": "Products List",
+          "slug": "app-products-list"
+        },
+        {
+          "url": "app/products/add",
+          "name": "Create Product",
+          "icon": "users",
+          "slug": "app-products-add",
+          "permission": [
+            "product-create",
+            "product-list",
+            "product-edit",
+            "product-delete"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tables",
+      "icon": "menu-icon tf-icons ti ti-layout-grid",
+      "slug": "app-tables",
+      "submenu": [
+        {
+          "url": "app/tables/list",
+          "name": "Tables List",
+          "slug": "app-tables-list"
+        },
+        {
+          "url": "app/tables/add",
+          "name": "Create Table",
+          "icon": "users",
+          "slug": "app-tables-add",
+          "permission": [
+            "table-create",
+            "table-list",
+            "table-edit",
+            "table-delete"
+          ]
+        },
+        {
+          "url": "app/tables/print-all-qr",
+          "name": "Print QR Codes",
+          "slug": "app-tables-print-all-qr"
+        },
+        {
+          "url": "app/tables/payment-qr",
+          "name": "QR for Payment",
+          "slug": "app-tables-payment-qr"
+        }
+      ]
+    },
+    {
+      "name": "Orders",
+      "icon": "menu-icon tf-icons ti ti-shopping-cart",
+      "slug": "app-orders",
+      "submenu": [
+        {
+          "url": "app/orders/list",
+          "name": "All Orders",
+          "slug": "app-orders-list"
+        },
+        {
+          "url": "app/orders/kitchen",
+          "name": "Kitchen Display",
+          "slug": "app-orders-kitchen"
+        },
+        {
+          "url": "app/customers/list",
+          "name": "Customer List",
+          "slug": "app-orders-customers-list"
+        }
+      ]
+    },
+    {
+      "name": "Sales Reports",
+      "icon": "menu-icon tf-icons ti ti-file-analytics",
+      "slug": "app-reports",
+      "submenu": [
+        {
+          "url": "app/reports/sales",
+          "name": "Reports",
+          "slug": "app-reports-sales"
+        }
+      ]
+    }
+  ]
+}

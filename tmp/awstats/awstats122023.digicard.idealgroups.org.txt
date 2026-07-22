@@ -1,0 +1,483 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202312 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2694                
+POS_VISITOR 11950               
+POS_DAY 12670               
+POS_DOMAIN 3236                
+POS_LOGIN 3509                
+POS_ROBOT 3664                
+POS_WORMS 3876                
+POS_EMAILSENDER 4007                
+POS_EMAILRECEIVER 4150                
+POS_SESSION 12907               
+POS_SIDER 13054               
+POS_FILETYPES 4285                
+POS_DOWNLOADS 4385                
+POS_OS 4433                
+POS_BROWSER 4584                
+POS_SCREENSIZE 4828                
+POS_UNKNOWNREFERER 4902                
+POS_UNKNOWNREFERERBROWSER 5347                
+POS_ORIGIN 5787                
+POS_SEREFERRALS 5919                
+POS_PAGEREFS 6063                
+POS_SEARCHWORDS 6211                
+POS_KEYWORDS 6363                
+POS_MISC 2358                
+POS_ERRORS 6422                
+POS_CLUSTER 3365                
+POS_SIDER_404 6545                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240101055039 1 0 13920622867947
+FirstTime 20231220132517
+LastTime 20231230224130
+LastUpdate 20240101184514 1 0 0 0 0
+TotalVisits 20                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 4 5 904
+3 2 2 4350 0 0 0
+4 3 3 3153 1 1 83
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 1 1 3316 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 1 1 1050 4 4 904
+13 5 5 5550 16 16 32449
+14 1 1 3308 0 0 0
+15 3 3 7670 0 0 0
+16 0 0 0 1 1 3316
+17 0 0 0 0 0 0
+18 2 2 2100 4 4 904
+19 4 4 13232 0 0 0
+20 1 1 3308 0 0 0
+21 1 1 3316 190 190 459247
+22 1 1 1043 6 6 4295
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 16 16 28096
+ca 3 3 9940
+fr 3 3 9924
+in 2 2 128
+gb 1 1 3308
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+no_user_agent 3 9940 20231231160303 0
+Go\-http\-client/ 1 1051 20231220132711 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+Unknown 2 128 0 0
+html 23 51268 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+win7 1 1
+androidmarshmallow 1 1
+linux 3 3
+win8 1 1
+win10 10 10
+Unknown 8 8
+win8.1 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+chrome79.0.3945.79 1 1
+chrome117.0.5938.132 1 1
+Unknown 8 8
+chrome51.0.2704.106 8 8
+chrome52.0.1997.98 1 1
+chrome83.0.4103.61 1 1
+chrome108.0.0.0 3 3
+chrome37.0.2049.0 1 1
+chrome29.0.1547.2 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Cpanel-HTTP-Client/1.0 20231220132517
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20231230145920
+python-httpx/0.25.2 20231221044348
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Cpanel-HTTP-Client/1.0 20231220132517
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20231230145920
+python-httpx/0.25.2 20231221044348
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 25 25
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+406 17 3842
+404 201 486393
+403 2 710
+409 2 166
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 201
+//wp-content/plugins/seoo/wsoyanz.php 1 -
+//mini.php 1 -
+//log.php 1 -
+//wp-editor.php 1 -
+//wp-admin/wso112233.php 1 -
+/debug/default/view 1 -
+//wp-content/plugins/w0rdpr3ssnew/about.php 1 -
+//wsu.php 1 -
+//wso112233.php 1 -
+//wp-content/themes/twentyfifteen/content-index.php 1 -
+//edit.php 1 -
+//ioxi.php 1 -
+//xml.php 1 -
+//alfanew.php 1 -
+//wp-admin/wso.php 1 -
+//wp-content/themes/include.php 1 -
+//templates/beez3/error.php 1 -
+/login.action 1 -
+//wp-head.php 1 -
+//wp-admin/includes/users.php 1 -
+//wp-content/themes/twentynineteen/content-index.php 1 -
+//wp-content/plugins/ubh/za3imccc.php 1 -
+//up.php 1 -
+//wp-content/plugins/akismet/admin.php 1 -
+//wp-includes/fw.php 1 -
+//wp-content/index.php 1 -
+//tron.php 1 -
+//Gecko.php 1 -
+//byp.php 1 -
+//ton.php 1 -
+//wp-content/up.php 1 -
+//x.php 1 -
+//wp-blog.php 1 -
+//503.php 1 -
+//wp-content/plugins/core-plugin/include.php 1 -
+//hexx.php 1 -
+//ws.php 1 -
+//wp-admin/cloud.php 1 -
+//cloud.php 1 -
+//xleet.php 1 -
+//wp-content/plugins/login/css.php 1 -
+//mah.php 1 -
+//users.php 1 -
+//fx.php 1 -
+//wp-content/plugins/wordpresss3cll/up.php 1 -
+//license.php 1 -
+//lock360.php 1 -
+//plugin-install.php 1 -
+//shell20211028.php 1 -
+//wp-content/plugins/ccx/index.php 1 -
+//wp.php 1 -
+//wp-content/plugins/Cache/dropdown.php 1 -
+//wp-content/plugins/google-sitemap-generator/sitemap-core.php 1 -
+//repeater.php 1 -
+//wp-admin/users.php 1 -
+//update.php 1 -
+//credits.php 1 -
+//wp-content/themes/pridmag/db.php 1 -
+//theme-install.php 1 -
+//doc.php 1 -
+//wp-admin/fw.php 1 -
+//alfa.php 1 -
+/_all_dbs 1 -
+//403.php 1 -
+/about 1 -
+//wso.php 1 -
+//sh.php 1 -
+//wp-content/plugins/dzs-zoomsounds/1877.php 1 -
+//wp-content/themes/Divi/content-index.php 1 -
+//ioxi-rex.php 1 -
+//wp-content/themes/gaukingo/db.php 1 -
+//wp-content/fw.php 1 -
+//wp-content/plugins/include.php 1 -
+//0x.php 1 -
+//init.php 1 -
+/.git/config 1 -
+//class.wp-styles.php 1 -
+//wp-content/themes/twentysixteen/content-index.php 1 -
+//wp-content/plugins/disqus-comment-system/disqus.php 1 -
+//wp-content/plugins/xsid/marijuana.php 1 -
+//xx.php 1 -
+//wp-includes/wp-class.php 1 -
+//wp-content/alfa.php 1 -
+//wp-content/plugins/akismet/widget.php 1 -
+//wp-content/plugins/Cache/Cache.php 1 -
+//icwf.php 1 -
+//wp-content/plugins/wp-file-upload/ROOBOTS.php 1 -
+//wp-content/plugins/count-per-day/js/yc/d00.php 1 -
+//alf.php 1 -
+//sym.php 1 -
+//alfanew2.php 1 -
+//wp-content/themes/welfare-charity/www.php 1 -
+//moon.php 1 -
+//ini.php 1 -
+//wp-content/cong.php 1 -
+/v2/_catalog 1 -
+//wp-admin/dropdown.php 1 -
+//tnt.php 1 -
+//wp-includes/blocks/table/int/tmpl/index.php 1 -
+//alfatesla.php 1 -
+//wp-admin/user.php 1 -
+//wp_wrong_datlib.php 1 -
+//jp.php 1 -
+/s/5333e24353e28313e2931313/_/ 1 -
+//lufi.php 1 -
+//wp-content/plugins/TOPXOH/wDR.php 1 -
+//langar.php 1 -
+//index2.php 1 -
+//wp-admin/shell20211028.php 1 -
+//plugins.php 1 -
+//media-admin.php 1 -
+//themes.php 1 -
+//wp-content/themes/twentytwentyone/content-index.php 1 -
+//customize.php 1 -
+//default.php 1 -
+//about.php 1 -
+//mar.php 1 -
+//wp-content/plugins/options-writing.php 1 -
+//wp-plugins.php 1 -
+//update-core.php 1 -
+//xl2023.php 1 -
+//user-new.php 1 -
+//404.php 1 -
+//alfanew.php7 1 -
+//style.php 1 -
+//z.php 1 -
+//wp-content/plugins/linkpreview/db.php 1 -
+//shell.php 1 -
+//wp-info.php 1 -
+//vendor/phpunit/phpunit/src/Util/PHP/as.php 1 -
+//ext.php 1 -
+//system_log.php 1 -
+//1.php 1 -
+//wp-content/plugins/WordPressCore/include.php 1 -
+/.DS_Store 1 -
+//F0x.php 1 -
+//modules.php 1 -
+//wp-foter.php 1 -
+//FOX.php 1 -
+//fox.php 1 -
+//wp-admin/wp-login.php 1 -
+//upload.php 1 -
+//fm.php 1 -
+//wp-content/plugins/index.php 1 -
+//wp-content/themes/twentyseventeen/content-index.php 1 -
+//google.php 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+//wp-content/themes/index.php 1 -
+//wp-includes/widgets/include.php 1 -
+//fw.php 1 -
+//m.php 1 -
+//0z.php 1 -
+//gecko.php 1 -
+//wp-godz.php 1 -
+//end.php 1 -
+//marijuana.php 1 -
+//user.php 1 -
+//wp-content/plugins/ango/sett.php 1 -
+//wp-content/uploads/403.php 1 -
+//wp-theme.php 1 -
+//admin.php 1 -
+//wp-conflg.php 1 -
+//wp-content/shell20211028.php 1 -
+//content.php 1 -
+//wsoyanzorng.php 1 -
+//gel4y.php 1 -
+//lufix.php 1 -
+//alfabypass.php 1 -
+/.vscode/sftp.json 1 -
+/config.json 1 -
+//bala.php 1 -
+//wp-includes/shell20211028.php 1 -
+//wwdv.php 1 -
+//clen.php 1 -
+//wp-admin/alfa.php 1 -
+//term.php 1 -
+//wp-content/plugins/background-image-cropper/ups.php 1 -
+//classwithtostring.php 1 -
+//small.php 1 -
+//css.php 1 -
+//wp-admin/fx.php 1 -
+/telescope/requests 1 -
+//wp-scripts.php 1 -
+//fan.php 1 -
+//wp-l0gin.php 1 -
+//www.php 1 -
+//smm.php 1 -
+//wp-content/languages/FOX.php 1 -
+//wp-content/plugins/hellos/hellos.php 1 -
+//wp-content/plugins/elementor/includes/settings/index.php 1 -
+//wp-content/mu-plugins/moon.php 1 -
+//wp-includes/images/include.php 1 -
+//demo.php 1 -
+//wp-config-sample.php 1 -
+//wp-content/themes/twentytwenty/content-index.php 1 -
+//xmlrpc.php 1 -
+//wp-content/plugins/disqus-comment-system/WSO.php 1 -
+//wp-logln.php 1 -
+//wp-content/plugins/fix/up.php 1 -
+//wp-admin/icwf.php 1 -
+//exit.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+54.38.211.230 4 4 13232 20231229191240
+52.90.67.56 3 3 3153 20231221044348
+205.169.39.132 2 2 2100 20231220181108
+119.18.54.35 2 2 128 20231220132517
+34.72.247.76 2 2 2098 20231223030658
+205.210.31.53 1 1 3316 20231227094445
+51.89.211.248 1 1 3308 20231227153431
+143.42.118.5 1 1 3316 20231220132704
+178.33.149.171 1 1 3308 20231229191315
+65.154.226.167 1 1 1050 20231220132651
+178.33.149.170 1 1 3308 20231224031537
+205.210.31.245 1 1 3308 20231230145920
+146.190.46.112 1 1 1050 20231222124951
+159.65.193.32 1 1 1054 20231220150454
+87.98.153.11 1 1 3308 20231229191014
+205.210.31.200 1 1 3316 20231229214143
+159.203.23.11 1 1 1043 20231230224130
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20231220 8 8 8704 6
+20231221 3 3 3153 1
+20231222 1 1 1050 1
+20231223 1 1 1042 1
+20231224 1 1 3308 1
+20231225 1 1 3308 1
+20231227 3 3 9932 3
+20231229 5 5 16548 4
+20231230 2 2 4351 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 20
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 23 51268 19 19
+/.well-known/acme-challenge/B5TEWH-JH1PIN9BNIVSD_U5WBX71AKIC 1 64 1 0
+/.well-known/acme-challenge/MGHDOHIS4_AFOW0JRVVO-FGUP4H3B58K 1 64 0 1
+END_SIDER

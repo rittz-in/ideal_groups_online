@@ -1,0 +1,621 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202504 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.kmanimalhealthcare.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2066                
+POS_TIME 2738                
+POS_VISITOR 20244               
+POS_DAY 21372               
+POS_DOMAIN 3389                
+POS_LOGIN 3695                
+POS_ROBOT 3850                
+POS_WORMS 4086                
+POS_EMAILSENDER 4217                
+POS_EMAILRECEIVER 4360                
+POS_SESSION 21903               
+POS_FILESIZE 22386               
+POS_SIDER 22061               
+POS_FILETYPES 4495                
+POS_DOWNLOADS 4649                
+POS_OS 4735                
+POS_BROWSER 4892                
+POS_SCREENSIZE 5144                
+POS_UNKNOWNREFERER 5218                
+POS_UNKNOWNREFERERBROWSER 5532                
+POS_ORIGIN 5614                
+POS_SEREFERRALS 5746                
+POS_PAGEREFS 5890                
+POS_SEARCHWORDS 6038                
+POS_KEYWORDS 6190                
+POS_MISC 2402                
+POS_ERRORS 6249                
+POS_CLUSTER 3551                
+POS_SIDER_404 6396                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250502101342 1 0 12419048773504
+FirstTime 20250402194720
+LastTime 20250429055345
+LastUpdate 20250502184302 1 0 0 0 0
+TotalVisits 32                  
+TotalUnique 27                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 27                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 21502 113 113 254245
+1 1 1 7174 3 10 19910
+2 2 2 14348 0 0 0
+3 2 2 14348 0 0 0
+4 0 0 0 3 5 22203
+5 1 1 307 183 183 401201
+6 1 1 7164 0 1 2428
+7 3 3 21492 191 192 4605768
+8 1 1 7174 216 216 651149
+9 0 0 0 2 2 4856
+10 1 1 35549 4 5 12140
+11 2 2 42723 128 129 389846
+12 0 0 0 1 1 83
+13 2 2 14338 1 1 307
+14 2 4 55328 0 4 0
+15 1 1 7174 0 0 0
+16 1 1 7174 12 19 25027
+17 3 3 21502 0 0 0
+18 2 2 14348 2 2 166
+19 5 6 56345 0 12 24280
+20 9 10 3168920 245 257 530535
+21 0 0 0 0 0 0
+22 2 2 7481 240 240 4685553
+23 0 0 0 3 3 2914
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 18 21 190547
+sc 15 16 3205077
+cn 5 5 92620
+ru 2 2 14338
+za 2 2 7481
+gr 1 1 7164
+bg 1 1 7164
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 349 9259215 20250429055344 0
+BW/ 3 17347 20250422040357 0
+bingbot/ 1 307 20250411133347 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+json 2 2347 0 0
+html 33 293372 0 0
+png 3 61485 0 0
+log 1 3031901 0 0
+Unknown 9 135286 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/storage/logs/laravel.log 1 0 3031901
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+android10 3 3
+macosx15 2 2
+win10 25 24
+android 1 1
+Unknown 15 12
+androidnougat 1 1
+j2me 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+opera9.80 1 1
+chrome60.0.3112.107 1 1
+chrome104.0.0.0 7 7
+chrome121.0.0.0 1 1
+chrome120.0.0.0 2 2
+mozilla 15 12
+opera12.16 1 1
+chrome78.0.3904.62 3 3
+chrome115.0.5790.171 1 1
+chrome91.0.4472.124 16 15
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible) 20250422074711
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250415192629
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250420154618
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 43 47
+From1 1 1
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+406 23 5198
+500 1 0
+403 10 3550
+409 32 2656
+404 965 2343020
+301 5 1318
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 287
+/.git/objects/fe/f81986719d4643edc880b7dc9b94c9ed7025f0 6 -
+/.git/objects/e5/10df7efebdefdd91265ad918b673abf48d262d 6 -
+/test 1 www.google.com
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/fontawesome.min.js 1 -
+/.git/objects/86/cec85ba07e1eb6b003c8c6c89a348c490362af 4 -
+/.git/objects/26/6cdafeb62ac13744b2c571e27b8e61246a65b6 5 -
+/.git/objects/5a/d84bd86458b5bbc26ec7107c8d2cba67014d15 7 -
+/.git/objects/5d/ebb19da6c461d1ed36fc0b56c5693d1d27f8f5 5 -
+/.git/objects/17/faaeb6f9405f309f7df0ba45905e16a30dbf8e 6 -
+/.git/objects/9b/19b93c9f13d72749cc3bac760a28325116f3f1 7 -
+/.git/objects/62/6fcddab54de006d38b0d7bbc48973d17c7fa5a 5 -
+/.git/objects/57/fbe36689cfc024b8eddc44c324c5a5f8243a95 2 -
+/app/etc/env.php 1 -
+/.git/objects/70/79368a1897f421814c8a8e5bc2b54290c13b20 5 -
+/CHANGELOG.txt 1 -
+/.git/objects/f2/55b514e661cc9e2b737139641df98943d8171f 2 -
+/.git/objects/5b/4282076ea6859e110250a96f630a7715e1b728 5 -
+/.git/objects/f8/d7eadc0a5c1033ad4c49c8c516ebe3e35d341e 2 -
+/~/.gitconfig 1 -
+/backup.env 1 -
+/.git/objects/5b/307ff1e885b07c8e2e802b70799148dc4e9a8a 4 -
+/.git/objects/1d/ca56b8de04ce8396b1698375ad1d6cd8109071 5 -
+/api/credentials 1 -
+/.git/objects/22/038879d1df33a7a47e8c29fc54201f40c42bf9 4 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/waypoints.min.js 2 -
+/var/log/exception.log 1 -
+/sites/default/settings.php 1 -
+/.git/objects/67/a3329b183e042b14516122b5d470bc337a5a90 7 -
+/wp-config-sample.php 1 -
+/git/.config 1 -
+/.git/objects/97/beb1594e78c6b5312e301dd93c411e32521b3f 5 -
+/joomla/configuration.php-dist 1 -
+/.env.dev 1 -
+/credentials.env 1 -
+/.git/objects/aa/c8e75d07107d0303f25870bbef98c6281fcba5 4 -
+/.git/objects/a9/1eb2daf86c297c9005cc2a1cc0927b6646b701 5 -
+/.git/objects/dc/7440bbe40465631f05e542d5799fe9f758d003 5 -
+/.git/objects/55/d54bf52acad20089097372ba43504d6c2fd84e 2 -
+/.git/objects/fb/e016681778486bc4797bed209a8b59aa50f6f9 5 -
+/backup 1 www.google.com
+/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391 4 -
+/.git/objects/42/1b5695627db43c022947cfc7c0ecce6b9689be 7 -
+/.git/objects/7c/532304f7efff9fff832b8e6f609298254a46bc 2 -
+/.git/objects/96/4f23582904aa8fffe4ac189671b6254ea5ee6c 4 -
+/.git/objects/5e/9a90b1519387efcddf52aa062b27da7354c5f6 2 -
+/.git/objects/d2/45abecf51be2e7727e8cda162fc4feea9e4540 5 -
+/development.env 1 -
+/wp 2 www.google.com
+/.git/objects/ee/f13116e9ec1d68da4221d4967fc4e5fa06bcc3 5 -
+/.git/objects/d7/0a133c482171201e5aa4535f7cde82c6c3f5af 4 -
+/.git/objects/fc/b21d396d657f597ef8b6729f73d89b0a871c9b 7 -
+/config/default.json 1 -
+/auth.json 1 -
+/.git/objects/9e/96d3836d15a15a624de135a86ffe1bcdcd5062 2 -
+/.git/objects/64/09b9b9fc24a50cd6435ba7aede9ae2e591ef2a 6 -
+/db.ini 1 -
+/test.php 1 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/isotope.pkgd.min.js 1 -
+/.git/objects/ba/98e08b4d097654c1b3eaa1b89cb6f29cea6874 2 -
+/secure-config.json 1 -
+/temp 1 www.google.com
+/.git/objects/f2/85550aaef0db2976d61ba6f45891aaff4b8854 4 -
+/.git/objects/cf/b21b0620cfcbba35c25e34fb6c55fc61e96bee 4 -
+/wp-content/debug.log 1 -
+/.git/objects/cb/a410e5b37ed4d7d363f6a45d160e454bea4815 2 -
+/.git/objects/eb/d5499d207d5da565d221e26bee93db3ebf79a9 2 -
+/.git/objects/d4/9aec1636205e2d929dc8ccdf1b0606825906ff 4 -
+/config.js 1 -
+/yarn.lock 1 -
+/.git/objects/a3/a497290d53974fc52f03790b7e60b32deb1a21 4 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/swiper.min.js 2 -
+/.git/objects/21/ea234062b99731273d02cf7dbb46fa8423b250 4 -
+/.git/objects/2a/075a58597c4c86a3ada670c4987563cf53227a 4 -
+/app.js 1 -
+/.git/objects/1f/d6cf1680d44d930859bda34109507ff19329e9 6 -
+/database.json 1 -
+/.git/objects/2a/030f298be66f160821bb3f42afd4c87fb45228 2 -
+/.git/objects/1e/b321407f7f05126d4bc680692d0a33249b1e11 6 -
+/xmlrpc.php 1 -
+/.git/objects/e1/a99a65bbf8ef9e97026db44ee3a2c2f05a3b7d 6 -
+/.git/objects/51/c552cdf23f658d43bc10162f0b774cd311fd8b 6 -
+/.git/objects/54/3e6110c16d79e72f6537f4bed7985b0e284ebd 7 -
+/phpinfo 1 -
+/cgi-bin/phpinfo.php 1 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/jquery.counterup.min.js 1 -
+/var/logs/dev.log 1 -
+/.git/objects/e8/28ad8189ee7c270c24be93f2eb73d833c0da87 6 -
+/.git/objects/eb/1cf1a3f425f54bfb6980069fe808b214ad8d50 2 -
+/.git/objects/44/83f3bd4238556f432bd3b9e4f5bf41f21dc278 2 -
+/.git/objects/cb/fbeea9c2d1314e97598e8f3d37f0dc49232a2f 6 -
+/.git/objects/f5/56ab0e21f245e6f901cf0268ddc295a8360a3f 5 -
+/src/config.js 1 -
+/.git/objects/13/db7172f18b88926954fe9bdae6e4f8ed2ae18e 5 -
+/wp-admin/setup-config.php 1 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/script.js 3 -
+/prod.env 1 -
+/.git/objects/7a/56b97aba586fb7090168f6196cfd5b98c6f148 6 -
+/server.js 1 -
+/app/etc/local.xml 1 -
+/wp-content 2 -
+/robots.txt 3 -
+/.git/objects/3d/9ca068f910feea354955f81bffe6b82325f8f5 5 -
+/.git/objects/cb/6f1c703f6d1d5dffab59e2a3885ce800da03b9 4 -
+/.git/objects/f9/2051264c21251393e98262b0b2d744ee132eb4 4 -
+/.git/objects/7f/c2ff2cf2376419111945fdfa79ec87fb42e8eb 4 -
+/.git/objects/bb/269ef7261eb8b4e4841c4854d5e5bcb00a8da4 2 -
+/phpmyadmin/index.php 1 -
+/.git/objects/3c/bf59b790c57c168f7343d2052b8c21d27ed322 7 -
+/.git/objects/7b/600d1a938c3a1018d995f754042ec0292cce33 4 -
+/Dockerfile 1 -
+/.git/objects/33/02ea85fb896ac438112d1242b6f3cd52902856 5 -
+/.git/objects/c3/d85a899081d17e1bbe8002bc238c8554816f5b 5 -
+/.git/objects/67/7de48c82d69e631062e076f8f0d8c9256b986e 4 -
+/config.inc.php 1 -
+/.git/objects/32/85b15c5731bb3887f792a4347ab186e5fdea45 7 -
+/.git/objects/63/8ec96066aa83821c4b7dfd5be4a0bec922a6a2 5 -
+/.git/objects/fe/1928131386c6611e1b63b6d5c4356aea4ac978 4 -
+/.git/objects/1d/3241b7b7f312a8cf82674ba2e1a095c670953e 6 -
+/web/config.php 1 -
+/swagger-ui.html 1 -
+/helm/values.yaml 1 -
+/.git/objects/6e/c19c6eb10b87a9c4174daac5dc9dc6e4c74226 2 -
+/.git/objects/40/d4d27b48fe77126d354f52dce5d798353a61f0 5 -
+/.git/objects/c8/5f0cedd2bbed213949b26a147b93417a7556bb 5 -
+/.git/objects/97/b1e71abfc95f121498958c0e9f5fc6dcec6fa4 4 -
+/.git/objects/23/d0bc4561d3f1801dc0d67081c50f608f1eb99b 4 -
+/.git/objects/d8/2074bd780de3528f5f4abbc813fd302753cf0c 2 -
+/sites/all/themes 1 -
+/.git/objects/eb/0cf88431e79e282763a4bffca979477cc8880e 2 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/lightcase.js 2 -
+/.git/objects/d5/a68396c81e446407f070c2503b7353e0725609 6 -
+/.env.local 1 -
+/.well-known/security.txt 1 -
+/.git/objects/a8/b62ad601ab90457aed24fd319b0d21f5dba338 5 -
+/.git/objects/24/9da8171acd0816601ccb095c3320393e66dea6 6 -
+/.git/objects/ba/f95faa45ea643e865c90dc2bd9e691a94eb006 6 -
+/.git/objects/94/d95ce5e57ef89e1efff523772f9b38ae44b221 6 -
+/.git/objects/5c/d47d7fe1ede6fb8a71ef1c51308a1103892609 6 -
+/core/install.php 1 -
+/typo3conf/localconf.php 1 -
+/.git/objects/8f/5c77393911e53671f39049f85720f06c468008 5 -
+/.git/objects/50/baa5e568df5577d90c22d6b7dd2250c09a4861 6 -
+/.git/objects/c5/597192cca183249336f55b18d33497eab3d38d 2 -
+/.git/objects/12/ac1b7ff39162ce07d95275c45e230cb7d7fc1a 2 -
+/.svn/entries 1 -
+/administrator/index.php 1 -
+/.git/objects/aa/7eb77aefb69756a23abe23e9908cdbca485b62 4 -
+/config/packages 1 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/functions.js 3 -
+/blog 1 www.google.com
+/config/production.json 1 -
+/.git/objects/2c/d6d572e8082d657f088a7dcfd992624b0e80ba 5 -
+/wp-admin/install.php 1 -
+/.git/objects/0b/811ba6011af552e67dfcaf2cff1205070dfc7e 4 -
+/.git/objects/59/067dd7b522c1f75e58bcbc72be91696f9cad92 5 -
+/sitemap.xml 2 -
+/.git/objects/8f/0de65c560259bd171d746d12aa187f666893a3 7 -
+/.git/objects/05/c4471f2b53fc17d3cac9d3d252755a35479f7c 5 -
+/phpinfo2.php 1 -
+/bootstrap/cache/config.php 1 -
+/.git/objects/5b/88f3953140143c731e758cb6b35cca48bf17b6 6 -
+/.git/objects/7f/e978f8510cbb72cf464557b00a8e72a5ce8446 7 -
+/.git/objects/a7/f9747903b58bea8474a2d6c96b5ddfde79c8f3 4 -
+/.git/objects/4f/6ba0cc0cfd7088617cc020aeb53901c66ea879 2 -
+/.git/objects/27/bf599e983a60bb80adcd13daf00ecb350fe1b7 2 -
+/wp-json/wp/v2/users 1 -
+/old 1 www.google.com
+/.git/objects/d6/b7ef32c8478a48c3994dcadc86837f4371184d 25 -
+/.git/objects/77/ec359ab4de60f6dd2205cbc5b2aab373d8a185 4 -
+/.git/objects/63/7bcc3e59c248e63e330ba254b25e0139ccd8da 5 -
+/api-docs 1 -
+/.git/objects/9a/23af756d4b957684f45e788e4e09045b99e506 4 -
+/.git/objects/8a/c41499a214e56a7470b0996bb3ae37aecf4c61 2 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/jquery.countdown.min.js 4 -
+/.git/objects/24/e0cdaf3ce48f61673654cd4c827675cf511454 2 -
+/.git/objects/eb/0536286f3081c6c0646817037faf5446e3547d 4 -
+/config/secrets.json 1 -
+/.git/objects/e0/5f4c9a1b27a35c20ac897b44dfb7a9238ff9b7 5 -
+/.git/objects/58/53846c20771767dbdde0229933d8cfa0b4d55c 6 -
+/.git/objects/d8/e43f5d33d07437daa6c48429ffd72da3787480 6 -
+/wordpress/wp-admin/setup-config.php 1 -
+/local_settings.py 1 -
+/.git/objects/cb/17a07ec77f219a9182fa529e6e6ca608b65db1 2 -
+/.git/objects/3d/c45eb3fc9ef7a970b104b9c6090aa046201c74 6 -
+/.git/objects/f0/52a2f5d3e3e5e8666406560a7cb8020ee4e72c 2 -
+/.git/objects/3a/c4d97bbc3abcdd0d5d387cd56ca02686919679 5 -
+/api/config.json 1 -
+/.git/objects/c0/8bcdec9cc5a1c2ac53904c332eb4b9a2fd611b 2 -
+/.git/objects/e7/fcd9529255d7573f17be9a3214465dddea4960 4 -
+/.git/objects/8f/4803c05638697d84ea28d40693324ec70f7990 6 -
+/.git/objects/5d/451e1fae88c81c097aa55de6ff039a3cc0a1c3 5 -
+/stage.env 1 -
+/bitrix/php_interface/dbconn.php 1 -
+/var/log/system.log 1 -
+/info.php 1 -
+/phpinfo1.php 1 -
+/secrets.json 1 -
+/.git/objects/8f/660a099ae74d4be4c0c41b0155ba55f0f1d313 6 -
+/.git/objects/9e/b8c06fcf4ed512eae2df2488ffd9c2e54116ab 4 -
+/.git/objects/0e/6480f26a3708db4b182fc7b53651880b5e8b81 7 -
+/.git/objects/01/e4a6cda9eb380973b23a40d562bca8a3a198b4 3 -
+/.git/objects/e8/0f82f4ca5ff14e18afd5ac2d0d25be19ae5423 6 -
+/.git/objects/3a/5270a0e363bdbdebfaf2845e5d09c3d16afa5b 4 -
+/config.json 3 -
+/staging.env 1 -
+/ads.txt 5 -
+/.git/objects/8a/5aea709cb9dd16dbe1ade7d20ff0b1d8574981 5 -
+/.git/objects/3e/df52ecdef28d7ba11f47f8f15b92b04a47f0d1 4 -
+/.git/objects/06/7e3eb6a457b8b8a86ed61987c53cc8506d0b47 5 -
+/.git/objects/0b/cf8e0bbe127991d37954a9b7f9a063d06d4143 6 -
+/var/logs/prod.log 1 -
+/.git/objects/26/e608c8738bb787e361558e461c001cb9defc58 2 -
+/.git/objects/82/d2e67d75ee30073d8bdb14056198a3ba82abbb 6 -
+/.git/objects/e1/e05648e00b4f3402e49ff70023dba40205aa9c 5 -
+/swagger.json 1 -
+/config/routes.yaml 1 -
+/openapi.json 1 -
+/.git/objects/93/6552b5f7d40c3be1d8fdf0aa5e6784270fc312 6 -
+/.git/objects/2d/e8cb0900835751e2ce56f27c8e7d1b484f4eb6 6 -
+/.git/objects/2e/b3148ae9ece8d20a241d34d042eb8db1a59220 2 -
+/.git/objects/77/4aba43cfa127ee3e67ddb41f98be3f00fb5559 5 -
+/.vscode/sftp.json 1 -
+/sites/all/modules 1 -
+/.git/objects/a9/065da92dd1ae1145fda20dcb97bf50ce1546fa 5 -
+/.git/objects/3a/ec5e27e5db801fa9e321c0a97acbb49e10908f 4 -
+/.git/objects/19/e5dfb1f1e4bec74cca7870c36bc6eea16dc7be 2 -
+/backup/config.php 1 -
+/.git/objects/97/c651706d896c2f4a11bc8c20ec7c41ec5f991c 7 -
+/config/database.yml 1 -
+/settings.yaml 1 -
+/sftp-config.json 1 -
+/kmanimalhealthcare 1 www.google.com
+/wordpress 2 www.google.com
+/.git/objects/93/96c3c9b3b5e60f4f616ea03411fef1303f2c22 2 -
+/.git/objects/0b/bc396807cf41eb75f7096f185fc49a107f45d9 7 -
+/.git/objects/3d/66664a0f9231e39ed53dc138c6dcab01428794 4 -
+/.git/objects/f6/4fdc26a7feac07719dc58038623cb740fa0bee 7 -
+/logs/error.php 1 -
+/.git/objects/b2/1d76073da43ea986ecf0e07982a2452ca4f4af 5 -
+/.git/objects/b4/7f5bb45486596485a24db51302fe031f239b99 2 -
+/.git/objects/b1/5552c9d0e103a245bd41d48f1d96ac83655e03 7 -
+/.git/objects/81/a7229b085acceacba99220d098fd156abc4eb4 6 -
+/.git/objects/f1/12c0c8286087ec4dacd69a81a6b25895d59347 7 -
+/.git/objects/06/b4642b7466d119b80e60ab195e777eac58a18d 2 -
+/config/secrets.yml 1 -
+/new 1 www.google.com
+/env.txt 1 -
+/.git/objects/15/882ffd6dfc637ce59d87a56f27a1616b0ada11 6 -
+/.git/objects/32/03056a0cff0b03badaeec4a5d005b8de4154b5 4 -
+/.git/objects/69/a8fb06d3a7a7e7b0b7d5d793602f94aaca6cbd 6 -
+/.git/objects/30/0c8b38b6d65ca4900fce4a962151a650e24491 6 -
+/.git/objects/2a/d85250c4e9615795a38f3d6677066382e9d2f7 5 -
+/.git/objects/5b/64014d786bb3d3e970152e2b7bae5dab2f7f3d 2 -
+/.git/objects/49/a71909565d8572e9d915c039b0fab49d0f4a1a 7 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/jquery.js 1 -
+/.git/objects/9d/cc003df484d2ac0bc0ea67d87cb75cb6e23cc7 4 -
+/.git/objects/20/7cc552f4a5f183e4cbe0bad52d55d17fecd38e 2 -
+/phpinfo.php 1 -
+/.git/objects/fb/55b4a82f8ad8c0fb0e521b61d9bad7c587931c 6 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/bootstrap.min.js 2 -
+/.env.test 1 -
+/.git/objects/87/7c6f90a5d9e2d8457a2e812052d644fc5fff9a 7 -
+/.git/objects/1f/3872c9ceb2adb8566c9ec3e14055a4e166d973 5 -
+/.git/objects/b3/2d7b7fc00f567170957afbba694e59b4d9e5ea 4 -
+/.git/objects/88/9937e11a55065725869401d22252f888029c2f 5 -
+/wp-config.php 1 -
+/.git/objects/68/efdb445b23f29238ad1d03cabe53a689540472 5 -
+/_profiler/phpinfo 1 -
+/debug.php 1 -
+/.git/objects/77/f2b6870f9700e30ae948d39a837ea49213e531 6 -
+/.git/objects/ff/af93e1032b5235bb6632ab5d9089a0d48229cd 5 -
+/.git/objects/9e/f27988ea85fef23e78153581dc37215a3fc623 2 -
+/nova-api/styles 1 -
+/.git/objects/8f/92e6104687d0b31b0308490cb85c41ae0290e8 6 -
+/.dockerignore 1 -
+/.npmrc 1 -
+/.git/objects/c4/a633d69e52581a772d747c8561f64fedc37b2a 4 -
+/.git/objects/df/34cc18b6ab7e39a59c8a12fc149183c2d532b3 6 -
+/.git/objects/12/8d0552e715d532a6016b9fe07212ed1f57aeac 7 -
+/.env.production 1 -
+/.git/objects/81/edc683ddfc819f666d68c6b5b28cdc8c084697 6 -
+/.git/objects/aa/f61d8163db2a76b3865afbb0fb8042e185d3d3 4 -
+/.git/objects/06/0b037d291f23fd62040441c8ea12758d1c16ab 6 -
+/.git/objects/39/012b3f72ee5ddffd68d6dc0055abaab5a4faa9 4 -
+/.git/objects/05/9d25d01247e29a973715d53afa5dbb96c37485 5 -
+/.git/objects/96/bba1dce1c68ab9aff0321cdb5f4080150f1baa 4 -
+/.aws/credentials 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 27
+154.83.103.115 9 10 3168920 20250409202352
+154.83.103.111 5 5 35850 20250426225042
+54.204.99.126 4 4 28676 20250410174444
+101.35.239.216 2 2 14348 20250425022129
+13.218.190.35 2 2 14338 20250407132542
+143.110.211.162 1 1 7174 20250404165140
+138.68.96.28 1 1 7174 20250402194720
+15.188.59.149 1 1 7164 20250416073642
+185.247.137.153 1 1 7174 20250420154618
+199.45.154.158 1 2 27659 20250409140056
+196.251.72.127 1 1 307 20250410225609
+178.128.160.195 1 1 7164 20250408064933
+167.94.138.34 1 2 27659 20250415192616
+134.209.150.139 1 1 7174 20250418192054
+167.86.74.244 1 1 7174 20250428015907
+143.110.148.169 1 1 7174 20250404183810
+123.6.49.49 1 1 35549 20250414111806
+64.226.95.99 1 1 7174 20250406184440
+185.247.137.209 1 1 7164 20250408194159
+111.231.10.88 1 1 7174 20250427034013
+199.45.154.144 1 2 27669 20250403140920
+143.198.149.39 1 1 7164 20250422074711
+196.251.88.108 1 1 7174 20250421190550
+184.73.146.41 1 1 7174 20250412035608
+101.198.0.151 1 1 35549 20250409101349
+154.83.103.113 1 1 307 20250429055345
+93.123.109.101 1 1 7164 20250409171708
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20250402 1 1 7174 1
+20250403 1 2 27669 1
+20250404 2 2 14348 2
+20250406 1 1 7174 1
+20250407 2 2 14338 1
+20250408 2 2 14328 2
+20250409 12 14 3239292 4
+20250410 5 5 28983 3
+20250412 1 1 7174 1
+20250414 1 1 35549 1
+20250415 1 2 27659 1
+20250416 1 1 7164 1
+20250418 1 1 7174 1
+20250420 1 1 7174 1
+20250421 1 1 7174 1
+20250422 1 1 7164 1
+20250423 2 2 14338 2
+20250424 2 2 14338 2
+20250425 2 2 14348 1
+20250426 1 1 7174 1
+20250427 1 1 7174 1
+20250428 1 1 7174 1
+20250429 1 1 307 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 31
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 33 293372 29 29
+/.git/config 2 614 2 1
+/./.git/config 1 307 1 1
+/.git/logs/HEAD 1 1148 0 0
+/composer.json 1 2099 0 0
+/.gitignore 1 243 0 0
+/.git/index 1 131721 0 0
+/.git/packed-refs 1 112 0 1
+/package.json 1 248 0 0
+/.git/HEAD 1 21 0 0
+/.env.example 1 1120 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+100-500 164
+0-44 23
+1K-2K 42
+44-100 90
+500-1K 37
+5K+ 61
+2K-5K 1026
+END_FILESIZE

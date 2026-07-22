@@ -1,0 +1,1109 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202606 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.web.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2092                
+POS_TIME 2754                
+POS_VISITOR 13587               
+POS_DAY 17363               
+POS_DOMAIN 3483                
+POS_LOGIN 3926                
+POS_ROBOT 4081                
+POS_WORMS 5065                
+POS_EMAILSENDER 5196                
+POS_EMAILRECEIVER 5339                
+POS_SESSION 18046               
+POS_FILESIZE 29985               
+POS_REQUESTTIME 30121               
+POS_SIDER 18224               
+POS_FILETYPES 5474                
+POS_DOWNLOADS 6404                
+POS_OS 6749                
+POS_BROWSER 7468                
+POS_SCREENSIZE 10754               
+POS_UNKNOWNREFERER 10828               
+POS_UNKNOWNREFERERBROWSER 12164               
+POS_ORIGIN 12430               
+POS_SEREFERRALS 12566               
+POS_PAGEREFS 12761               
+POS_SEARCHWORDS 12909               
+POS_KEYWORDS 13061               
+POS_MISC 2418                
+POS_ERRORS 13120               
+POS_CLUSTER 3782                
+POS_SIDER_404 13278               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260701011701 8 1507 14464871839207
+FirstTime 0
+LastTime 20260630085620
+LastUpdate 20260701190933 8 0 7 0 0
+TotalVisits 102                 
+TotalUnique 92                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 95                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 5 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 11199 2 4 1981
+1 97 97 95129 51 68 28259
+2 1 1 794 3 5 1876
+3 8 9 143967 8 16 6227
+4 5 6 15169 34 38 34169
+5 17 23 150281 11 17 5937
+6 28 28 32637 6 8 4387
+7 2 2 55510 7 13 5176
+8 88 91 167796 102 105 32883
+9 1 1 11199 5 10 4125
+10 9 10 103482 4 7 2558
+11 4 4 23986 6 10 4024
+12 111 120 242456 233 238 59466
+13 85 86 120309 38 43 12036
+14 3 3 74876 5 9 14499
+15 9 9 79179 7 11 4320
+16 28 29 131320 13 16 26503
+17 6 6 199642 9 15 15807
+18 14 14 209110 9 12 3666
+19 12 13 193308 8 15 7234
+20 8 9 117429 11 21 22038
+21 26 26 400369 11 18 7247
+22 145 150 309980 99 110 56867
+23 7 9 158507 10 18 8157
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 611 635 1793838
+ro 39 41 42959
+de 29 31 521659
+ca 7 8 279183
+cn 6 7 102997
+bg 6 6 4764
+gb 5 7 54884
+ru 2 2 13317
+rs 2 2 88622
+se 1 1 11199
+pk 1 1 794
+fr 1 1 44311
+lt 1 1 11199
+jp 1 1 44311
+it 1 1 11199
+nl 1 1 11199
+in 1 1 11199
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 24
+bot[\s_+:,\.\;\/\\-] 237 142672 20260630230651 100
+Googlebot/ 14 10353 20260626045400 1
+[\s_+:,\.\;\/\\-]bot 9 6557 20260629204937 0
+(firefox/)([0-9]\.|[0-1][0]\.) 7 15963 20260626081446 0
+GPTBot/ 6 4764 20260629204937 0
+Applebot/ 6 3477 20260629204937 0
+crawl 6 4764 20260608221111 0
+link 5 7421 20260626061254 0
+bingbot/ 5 24780 20260629205004 0
+no_user_agent 4 3176 20260630232602 0
+YandexBot/ 4 3176 20260629204937 0
+seek 4 3176 20260626045359 0
+Baiduspider/ 3 1882 20260629204937 0
+spider 2 1588 20260626081447 0
+scanner 2 11993 20260622162401 0
+unknown 2 62 20260608221114 2
+Konqueror/ 1 794 20260626061254 0
+curl 1 0 20260622233526 0
+blog 1 4245 20260610014849 0
+ELinks/ 1 794 20260610014849 0
+feed 1 794 20260610014849 0
+validator 1 794 20260610014849 0
+Links[\x20]\( 1 794 20260610014849 0
+Google[\x20]Web[\x20]Preview 1 794 20260610014850 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 55
+sh 6 4764 0 0
+html 149 2505268 0 0
+env2 1 794 0 0
+npmrc 1 794 0 0
+php 7 12178 0 0
+email 1 794 0 0
+prod 6 4764 0 0
+log 1 794 0 0
+dev 7 5558 0 0
+docker 2 1588 0 0
+heroku 1 794 0 0
+txt 13 11646 0 0
+map 1 794 0 0
+yml 29 23026 0 0
+env1 1 794 0 0
+env 4 3176 0 0
+prd 1 794 0 0
+aws 1 794 0 0
+demo 1 794 0 0
+qa 1 794 0 0
+dist 2 1588 0 0
+stage 2 1588 0 0
+uat 2 1588 0 0
+Unknown 297 287163 0 0
+local 17 14822 0 0
+behat 1 794 0 0
+yaml 6 4764 0 0
+build 1 794 0 0
+test 4 3176 0 0
+remote 1 794 0 0
+db 1 794 0 0
+envec2 1 794 0 0
+action 1 794 0 0
+ts 4 3176 0 0
+live 2 1588 0 0
+sample 3 2382 0 0
+json 121 97398 0 0
+ollama 1 794 0 0
+ci 1 794 0 0
+tfvars 1 794 0 0
+jsx 1 794 0 0
+py 7 5558 0 0
+envrc 1 794 0 0
+xml 4 2382 0 0
+js 16 19324 0 0
+yarnrc 1 794 0 0
+png 1 794 0 0
+css 1 585 0 0
+axd 1 794 0 0
+save 5 3970 0 0
+lc 1 794 0 0
+server 1 794 0 0
+bash 1 794 0 0
+md 2 1588 0 0
+1 1 794 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 12
+/env.txt 2 0 1588
+/.well-known/security.txt 2 0 2912
+/.env.txt 2 0 1588
+/environ_names.txt 1 0 794
+/ads.txt 1 0 794
+/app-ads.txt 1 0 794
+/example.env.txt 1 0 794
+/env-list.txt 1 0 794
+/storage/logs/laravel.log 1 0 794
+/wp-content/debug.log 1 0 794
+/fake-env-backup.txt 1 0 794
+/env_2.txt 1 0 794
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 46
+ios_iphone 23 23
+linuxubuntu 11 11
+androidpie 24 24
+androidoreo 16 15
+linux 54 51
+macosx11 1 1
+macosx6 3 3
+winphone 1 1
+androidnougat 8 8
+macosx13 6 6
+winxp 5 5
+macosx8 2 2
+linuxdebian 2 2
+Unknown 62 58
+macosx15 174 164
+androidjellybean 1 1
+winme 2 2
+macosx10 4 4
+macosx14 13 13
+wince 1 1
+macosx 7 7
+androidlollipop 5 5
+win8.1 10 10
+macosx7 1 1
+j2me 2 2
+androidics 4 4
+blackberry 1 1
+winlong 1 1
+bsdfreebsd 1 1
+androidmarshmallow 4 4
+androidcupcake 2 2
+ios_ipad 17 17
+android 12 10
+bsdopenbsd 1 1
+win8 2 2
+os/2 1 1
+win10 228 218
+androidfroyo 1 1
+symbian 4 4
+macosx9 2 2
+win7 17 16
+macosx12 6 6
+android10 1 1
+android13 2 2
+win98 1 0
+androidhoneycomb 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 168
+chrome116.0 1 1
+chrome15.0.874.120 1 1
+opera12.16 1 1
+chrome67.0.3396.99 2 2
+chrome17.0.963.56 1 1
+chrome65.0.3312.0 1 1
+chrome14.0.835.94 1 1
+chrome124.0.0.0 19 16
+mozilla 23 21
+chrome118.0.5993.90 1 1
+opera116.0.0.0 2 2
+safari12.1 1 1
+chrome71.0.3578.98 1 1
+opera60.0.3255.70 1 1
+chrome106.0.0.0 1 1
+iceweasel 1 1
+iceape 1 1
+chrome78.0.3882.0 2 2
+chrome74.0.3729.157 5 5
+chrome145.0.0.0 5 5
+msie6.0 2 2
+firefox20.0 1 1
+safari18.5 1 1
+chrome75.0.3770.80 2 1
+firefox132.0 1 1
+safari4.0 1 1
+chrome78.0.3890.0 1 1
+firefox68.0 1 1
+chrome75.0.3770.100 2 2
+firefox57.0 3 3
+chrome77.0.3865.35 2 2
+chrome130.0.0.0 3 3
+chrome36.0.1985.125 1 1
+chrome19.0.1063.0 1 1
+safari17.7 1 1
+safari 7 7
+chrome9.0.597.15 1 1
+Unknown 14 13
+chrome11.0.696.65 1 1
+chrome138.0.7204.97 1 1
+chrome48.0.2564.116 1 1
+firefox55.0 1 1
+safari17.5 3 3
+chrome77.0.3865.42 2 2
+opera62.0.3331.116 2 2
+chrome4.0.277.0 1 1
+chrome144.0.0.0 1 1
+chrome120.0.0.0 97 97
+safari11.0 1 1
+opera12.10 1 1
+chrome76.0.3809.111 22 22
+chrome75.0.3770.143 7 7
+firefox133.0 1 1
+chrome73.0.3683.103 2 2
+firefox149.0 17 16
+sonyericsson 2 2
+safari12.2.1.0.4 1 1
+vodafone 1 1
+chrome72.0.3626.81 1 1
+chrome147.0.0.0 46 45
+chrome16.0.912.36 1 1
+chrome76.0.3809.89 9 8
+firefox40.0 1 1
+chrome41.0.2227.1 1 1
+chrome75.0.3770.90 2 2
+opera7.50 1 1
+chrome61.0.3163.49 1 1
+chrome134.0.0.0 4 2
+chrome74.0.3729.169 2 2
+chrome71.0.3542.0 1 1
+safari5.0.4 1 1
+chrome65.0.3325.181 2 2
+chrome66.0.3359.181 1 1
+safari16.4 1 1
+safari13.1 1 1
+opera11.10 3 3
+chrome40.0.2214.89 1 1
+chrome51.0.2704.84 1 1
+chrome137.0.0.0 1 1
+safari7.0.3 1 1
+chrome71.0.3578.141 1 1
+chrome76.0.3809.100 6 6
+safari18.4 12 12
+firefox24.0 1 1
+safari5.0 1 1
+firefox21.0 1 1
+firefox128.0 1 1
+firefox117.0 3 3
+chrome146.0.0.0 21 20
+chrome44.0.2403.107 1 1
+chrome72.0.3626.119 2 2
+safari18.1 1 1
+opera8.60 1 1
+firefox134.0 3 3
+safari17.6 2 2
+chrome66.0.3359.126 3 3
+chrome143.0.0.0 6 6
+iphone 7 7
+chrome148.0.0.0 13 8
+safari8.0 6 6
+chrome131.0.0.0 121 112
+chrome75.0.3770.142 3 3
+msie5.5 1 1
+chrome68.0.3440.91 1 1
+safari12.1.2 1 1
+chrome73.0.3683.86 1 1
+safari18.3 5 5
+chrome66.0.3359.139 2 2
+safari7.1.0.267 1 1
+safari12.0.2 1 1
+firefox141.0 1 1
+chrome12.0.703.0 1 1
+opera9.64 2 2
+chrome67.0.3396.62 1 1
+chrome45.0.2454.85 1 1
+chrome63.0.3239.111 1 1
+chrome60.0.3112.113 1 1
+firefox102.0 1 1
+chrome142.0.0.0 5 5
+msie7.0 2 2
+chrome61.0.3163.79 1 1
+chrome138.0.0.0 1 1
+chrome70.0.3538.110 1 1
+chrome62.0.3202.94 1 1
+safari18.0 1 1
+firefox124.0 1 1
+chrome124.0 4 3
+msie5.00 1 0
+chrome71.0.3578.99 3 3
+chrome22.0.1229.56 1 1
+chrome38.0.2125.102 2 2
+chrome67.0.3396.87 5 5
+chrome126.0.0.0 4 4
+firefox16.0 1 1
+android 7 7
+firefox19.0 1 1
+chrome42.0.2311.111 1 1
+chrome77.0.3864.0 1 1
+chrome36.0.1944.0 1 1
+firefox36.0 1 1
+chrome123.0.0.0 10 8
+chrome28.0.1469.0 1 1
+opera11.00 1 1
+chrome74.0.3729.131 1 1
+chrome63.0.3239.84 1 1
+chrome78.0.3880.4 1 1
+chrome22.0.1207.1 1 1
+firefox43.0 1 1
+safari11.1.2 2 2
+firefox12.0 1 1
+opera48.1.2331.132804 1 1
+chrome70.0.3538.77 1 1
+safari2.0.1 1 1
+msie10.0 1 1
+nokia 3 3
+chrome75.0.3770.101 2 2
+chrome122.0.0.0 2 2
+chrome76.0.3809.87 1 1
+seamonkey 1 1
+chrome64.0.3282.119 1 1
+firefox150.0 9 9
+firefox142.0 2 2
+opera9.80 1 1
+opera12.00 1 1
+chrome9.1.0.0 1 1
+firefox67.0 1 1
+netscape5.0 41 40
+msie11.0 9 9
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+SonyEricssonK550i/R1JD_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20260626081446
+SonyEricssonW660i/R6AD_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20260610084053
+Mozilla/5.0_(l9scan/2.0.5333e24353e28313e2931313;__https://leakix.net) 20260622162533
+Mozilla/5.0_(compatible;_Dataprovider.com) 20260601195625
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260617073759
+anthropic-ai 20260608221106
+Nokia7250/1.0_(3.14)_Profile/MIDP-1.0_Configuration/CLDC-1.0 20260610084053
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260616231115
+Mozilla/5.0_(compatible;_Claude-Web/1.0;__https://www.anthropic.com) 20260608221037
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260611113515
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko);_compatible;_Perplexity-User/1.0;__https://perplexity.ai/perplexity-user 20260608221109
+Mozilla/5.0_(compatible;_GoogleOther;__https://developers.google.com/search/) 20260629204937
+Mozilla/5.0_(compatible;_cohere-ai/1.0;__https://cohere.com) 20260608221109
+Vodafone/1.0/V802SE/SEJ001_Browser/SEMC-Browser/4.1 20260626061254
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+anthropic-ai 20260608221106
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260616231115
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 681 708
+From1 0 0
+From2 5 5
+From3 0 0
+From4 29 34
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+duckduckgo 1 1
+www_bing_com 1 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+406 370 83168
+409 68 5644
+429 26 6942
+403 26 9230
+421 3 1086
+301 4 1147
+400 1 794
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 95
+54.170.3.176 107 115 174159 20260624124050
+34.129.44.239 96 96 76224 20260610014849
+216.26.253.255 91 91 227938 20260615222657
+208.84.100.247 83 84 97911 20260619131143
+35.243.114.173 51 53 42082 20260610084057
+85.121.127.150 39 41 42959 20260608221133
+34.50.65.25 27 27 21438 20260626061255
+165.227.39.235 26 27 108922 20260622162533
+34.142.177.17 26 26 20644 20260626081447
+198.46.154.22 18 18 164703 20260610210254
+89.144.53.20 14 16 25766 20260628222142
+134.185.85.99 9 9 53779 20260603181608
+64.89.160.19 7 12 67609 20260623050652
+91.92.241.196 6 6 4764 20260626053640
+3.95.138.229 5 6 15169 20260617045540
+34.105.193.20 5 5 3970 20260609155348
+34.22.38.7 5 6 15169 20260620081626
+34.83.131.191 4 5 14375 20260620101403
+18.207.134.158 4 5 14375 20260617052626
+34.238.162.167 4 5 14375 20260613190817
+176.65.139.237 3 3 132933 20260608123123
+89.244.95.112 3 3 48547 20260624190135
+89.244.95.147 3 3 48547 20260622201749
+176.65.139.238 2 2 88622 20260603214230
+34.195.135.127 2 2 22398 20260629115100
+205.210.31.59 1 1 44311 20260615155319
+43.248.108.67 0 1 794 
+137.184.113.78 1 1 11199 20260620200246
+205.210.31.165 1 1 44311 20260614171733
+91.231.89.18 1 1 44311 20260622170145
+66.132.172.97 1 1 11199 20260611113515
+34.182.253.196 1 1 794 20260608155817
+98.92.97.151 1 1 19366 20260615034626
+202.78.167.209 1 1 11199 20260626205159
+80.225.239.126 1 1 18905 20260629151819
+198.235.24.122 0 1 2118 
+147.185.132.126 1 1 44311 20260606170839
+194.213.18.54 2 2 22398 20260613034305
+157.230.236.196 1 1 11199 20260625064705
+159.223.24.164 1 1 11199 20260602223506
+45.55.226.30 1 1 11199 20260630085620
+106.63.26.15 1 1 794 20260602030732
+176.65.139.234 2 2 88622 20260607071049
+65.21.124.77 1 1 11199 20260622162715
+3.151.194.164 1 1 11199 20260613125928
+198.235.24.79 1 1 44311 20260605234253
+35.197.147.138 1 1 11199 20260623104325
+198.46.154.21 1 1 44311 20260610210330
+149.56.150.177 1 1 44311 20260601195625
+159.65.143.105 1 1 11199 20260606102832
+104.244.78.33 0 1 585 
+147.185.132.246 1 1 44311 20260616231115
+91.231.89.32 1 1 44311 20260622175024
+205.210.31.213 1 1 44311 20260614213032
+206.189.114.247 1 1 11199 20260616185155
+151.115.100.45 2 4 13581 20260622233641
+13.216.227.78 1 1 11199 20260629170052
+54.144.190.193 1 1 11199 20260624150342
+106.63.26.140 1 1 794 20260602233847
+4.227.232.143 1 1 19366 20260609194209
+176.65.139.233 2 2 88622 20260605032530
+208.84.101.25 1 1 11199 20260614055433
+51.254.49.106 1 1 44311 20260622182603
+185.201.137.40 1 1 2118 20260617210802
+3.139.242.79 1 1 11199 20260627132736
+198.235.24.55 1 1 44311 20260607193645
+220.197.78.191 1 1 11199 20260602032645
+34.122.16.212 1 1 19366 20260606141104
+206.168.173.185 1 1 44311 20260610210300
+35.254.244.123 1 1 18905 20260615013054
+185.209.196.229 1 1 11199 20260622162806
+185.8.106.169 1 1 11199 20260625080922
+205.169.39.25 1 1 11199 20260614195509
+106.63.26.131 1 1 44311 20260602030705
+46.101.108.129 1 1 11199 20260606133401
+216.38.230.116 2 2 11199 20260612050636
+107.172.180.205 1 1 11199 20260606234153
+216.81.248.185 1 1 794 20260617025432
+34.182.159.181 2 3 12787 20260610122326
+199.45.154.142 1 1 11199 20260604001954
+106.63.26.29 1 1 44311 20260602233830
+130.12.180.196 1 1 11199 20260623215027
+106.63.26.148 1 1 794 20260602030742
+3.18.186.238 2 2 22398 20260627140105
+116.0.51.35 1 1 794 20260623214123
+195.96.139.115 1 1 11199 20260617073759
+147.185.132.87 1 1 44311 20260609180208
+171.25.193.132 1 1 11199 20260622185954
+163.227.179.31 1 1 44311 20260610210233
+198.235.24.77 1 1 44311 20260611085714
+206.81.11.250 1 1 11199 20260606104521
+34.50.75.32 1 1 794 20260609081252
+34.159.181.23 1 1 11199 20260610102242
+159.65.156.151 1 1 11199 20260623080432
+152.42.225.238 2 2 22398 20260627192121
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20260601 2 2 88622 2
+20260602 8 9 158507 8
+20260603 11 11 142401 3
+20260604 1 1 11199 1
+20260605 3 3 132933 3
+20260606 7 7 152784 7
+20260607 2 3 90740 2
+20260608 41 43 88064 3
+20260609 8 8 68441 4
+20260610 171 174 439928 8
+20260611 2 2 55510 2
+20260612 2 2 11199 1
+20260613 7 8 47972 3
+20260614 4 4 111020 4
+20260615 95 95 321719 5
+20260616 4 4 57098 3
+20260617 12 14 43655 5
+20260619 85 86 99499 2
+20260620 10 12 40743 3
+20260622 37 40 337580 9
+20260623 11 16 102000 5
+20260624 111 119 233905 3
+20260625 2 2 22398 2
+20260626 56 56 54869 4
+20260627 5 5 55995 5
+20260628 14 16 25766 1
+20260629 3 4 41888 3
+20260630 1 1 11199 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+30s-2mn 3
+2mn-5mn 2
+0s-30s 96
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 401
+/ 117 2467944 85 74
+/fetch 61 48434 0 0
+/.git/config 14 11116 4 7
+/services.html 10 11912 0 0
+/project-details.html 10 11912 0 5
+/service-details.html 10 11912 0 0
+/home.php 7 12178 0 0
+/config.json 6 6088 1 1
+/.env.local 6 6088 0 0
+/.env.production 6 6088 0 0
+/.git/HEAD 6 6088 4 1
+/sitemap.xml 4 2382 2 3
+/.env.test 4 3176 0 0
+/.env.development 4 3176 0 0
+/.aws/credentials 4 3176 0 0
+/.env.example 3 3706 0 0
+/.env.save 3 2382 0 0
+/api/env 3 3706 1 0
+/firebase-adminsdk.json 3 2382 0 0
+/.env.dev 3 2382 0 0
+/actuator/env 3 2382 0 0
+/v1/.git/config 2 1588 0 0
+/.docker/config.json 2 1588 0 0
+/blog/.git/config 2 1588 1 0
+/login 2 1588 0 1
+/private/credentials.json 1 794 0 0
+/config/default.json 1 794 0 0
+/.env.local.save 1 794 0 0
+/services/.env.local 1 794 0 0
+/server/docker-compose.yml 1 794 0 0
+/serviceAccountCredentials.json 1 794 0 0
+/backend/docker-compose.prod.yml 1 794 0 0
+/server/.env.production 1 794 0 0
+/api/.env.staging 1 794 0 0
+/api/actuator/env 1 794 0 0
+/.cursor/mcp.json 1 794 0 0
+/v1/actuator/configprops 1 794 0 0
+/env.ts 1 794 0 0
+/gcloud-service-key.json 1 794 0 0
+/.env.build 1 794 0 0
+/default-env.json 1 794 0 0
+/backend/.env.prod 1 794 0 0
+/actuator/threaddump 1 794 0 0
+/service_account.json 1 794 0 0
+/.env.stage 2 1588 0 1
+/.env%20copy 1 794 0 0
+/actuator/sessions 1 794 0 0
+/api/docker-compose.prod.yml 1 794 0 0
+/v1/graphql 1 794 0 0
+/.kube/config 1 794 0 0
+/wp-json/wp/v2/settings 1 794 0 0
+/env.bash 1 794 0 0
+/heapdump 1 794 0 0
+/devops/docker-compose.yml 1 794 0 0
+/docker-compose.local.yml 1 794 0 0
+/__/firebase/init.json 1 794 0 0
+/client_secrets.json 1 794 0 0
+/backend/.env.dev 1 794 0 0
+/.env.save.1 1 794 0 0
+/api/gql 1 794 0 0
+/internal/docker-compose.yml 1 794 0 0
+/assets/.git/config 2 1588 0 0
+/_nuxt/manifest.json 1 794 0 0
+/env.md 1 794 0 0
+/src/.env.local 1 794 0 0
+/api/credentials.json 1 794 0 0
+/env.jsx 1 794 0 0
+/service-account-credentials.json 1 794 0 0
+/.env.staging 2 1588 0 0
+/backend/actuator/configprops 1 794 0 0
+/.env.live 2 1588 0 0
+/dist/.vite/manifest.json 1 794 0 0
+/firebase_credentials.json 1 794 0 0
+/.env_dev 1 794 0 0
+/.env.qa 1 794 0 0
+/config/docker-compose.yml 1 794 0 0
+/.env.preprod 2 1588 0 0
+/admin/.env.production 1 794 0 0
+/env_scan.py 1 794 0 0
+/web/.git/config 2 1588 0 0
+/v2/_catalog 1 794 0 0
+/appsettings.Development.json 1 794 0 0
+/firebase.json 1 794 0 0
+/google-application-credentials.json 1 794 0 0
+/.env.prd 1 794 0 0
+/secrets/service-account.json 1 794 0 0
+/frontend/.git/config 2 1588 0 0
+/_next/build-manifest.json 1 794 0 0
+/application_default_credentials.json 1 794 0 0
+/config/production.json 1 794 0 0
+/kubernetes.yaml 1 794 0 0
+/.env.development.example 1 794 0 0
+/.env.dev.local 1 794 0 0
+/.env.heroku 1 794 0 0
+/openapi.json 1 794 0 0
+/@vite/env 1 794 0 0
+/.env-production 1 794 0 0
+/phpinfo 1 794 0 0
+/application.properties 1 794 0 0
+/production.env.example 1 794 0 0
+/static/.git/config 2 1588 0 0
+/.env.pre-production 1 794 0 0
+/.env.backup1 1 794 0 0
+/config/gcp/sa.json 1 794 0 0
+/.envec2 1 794 0 0
+/info 1 794 0 0
+/.github/workflows/ci.yml 1 794 0 0
+/symfony/.git/config 2 1588 0 0
+/api/aws.json 1 794 0 0
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 794 0 0
+/docker-compose.production.yml 1 794 0 0
+/profiler 1 794 0 0
+/.DS_Store 1 794 0 0
+/config/service-account.json 2 1588 0 0
+/service-account-file.json 1 794 0 0
+/dist/manifest.json 1 794 0 0
+/graphql 2 1588 0 0
+/env.development 1 794 0 0
+/env_setup 1 794 0 0
+/frontend/.env.staging 1 794 0 0
+/code/.git/config 2 1588 0 1
+/wp-json/gravitysmtp/v1/config 1 794 0 0
+/admin/.env 2 1588 0 0
+/env-variables.md 1 794 0 0
+/google_service_app.json 1 794 0 0
+/secrets/gcp-key.json 1 794 0 0
+/backend/docker-compose.yml 1 794 0 0
+/env-template 1 794 0 0
+/config/.env.local 1 794 0 0
+/_profiler/open 1 794 0 0
+/webpack-stats.json 1 794 0 0
+/env_creation.sh 1 794 0 0
+/env_template 1 794 0 0
+/.config/gcloud/credentials.db 1 794 0 0
+/backend/service-account.json 1 794 1 0
+/wp-json/gravitysmtp/v1/settings 1 794 0 0
+/google-credentials.json 2 1588 0 0
+/frontend/.env.production 1 794 0 0
+/dev_env.tfvars 1 794 0 0
+/login.action 1 794 0 0
+/docker-compose.staging.yml 1 794 0 0
+/.env.docker 2 1588 0 0
+/api/heapdump 1 794 0 0
+/api/.env.local 1 794 1 0
+/v1/actuator/env 1 794 0 0
+/.env_prd 1 794 0 0
+/build/manifest.json 1 794 0 0
+/.anthropic/config.json 1 794 0 0
+/.credentials 1 794 0 0
+/_.env.prod 1 794 0 0
+/api/client_secret.json 1 794 0 0
+/credentials 1 794 0 0
+/secrets.json 1 794 0 0
+/firebase-config.json 1 794 0 0
+/swagger-ui.html 1 794 0 0
+/.env.behat 1 794 0 0
+/.env-dev 1 794 0 0
+/project/.git/config 2 1588 0 0
+/.env%20copy%202 1 794 0 0
+/src/.env.production 1 794 0 0
+/config/credentials.json 1 794 0 0
+/aws-credentials.json 1 794 0 0
+/_.env.dev 1 794 0 0
+/server/actuator/env 1 794 0 0
+/environment.prod.ts 1 794 0 0
+/___proxy_subdomain_cpanel 1 794 0 0
+/docker-compose.yaml 1 794 0 0
+/.env.default 1 794 0 0
+/environment.ts 1 794 0 0
+/appsettings.json 1 794 0 0
+/aws_credentials.json 1 794 0 0
+/configprops 1 794 0 0
+/environment.py 1 794 0 0
+/Dockerfile 1 794 0 0
+/sellers.json 1 794 0 1
+/api/.env.prod 1 794 0 0
+/.openclaw/openclaw.json 1 794 0 0
+/trace 1 794 0 0
+/service-account-config.json 1 794 0 0
+/threaddump 1 794 0 0
+/local_env.yml 1 794 0 0
+/backend/actuator/env 1 794 0 0
+/credentials.json 1 794 0 0
+/v2/actuator/heapdump 1 794 0 0
+/wp-admin 1 794 0 0
+/sa-key.json 1 794 0 0
+/dist/.git/config 2 1588 0 0
+/env.sh 1 794 0 0
+/asset-manifest.json 1 794 0 0
+/set_env_vars.sh 1 794 0 0
+/.env.local.exported 1 794 0 0
+/query 1 794 0 0
+/swagger.json 1 794 0 0
+/.env.json 1 794 0 0
+/.config/gcloud/application_default_credentials.json 1 794 0 0
+/.env.example-local 1 794 0 0
+/wp-json/gravitysmtp/v1/tests/mock-data 2 1588 1 1
+/admin/api/.env 1 794 0 0
+/.env-backup 1 794 0 0
+/gcp_key.json 1 794 0 0
+/infrastructure/docker-compose.yml 1 794 0 0
+/api/actuator/logfile 1 794 0 0
+/.env.template 1 794 0 0
+/gcp-key.json 1 794 0 0
+/.env.testing 2 1588 0 0
+/loadable-stats.json 1 794 0 0
+/actuator/configprops 1 794 0 0
+/stats.json 1 794 0 1
+/secrets/credentials.json 1 794 0 0
+/.env.development.local 1 794 0 0
+/dashboard/.git/config 1 794 0 0
+/.env.production.local 1 794 0 0
+/wp-content/.git/config 2 1588 0 0
+/_environment 1 794 0 1
+/html/.git/config 1 794 0 0
+/docker-compose.prod.yaml 1 794 0 0
+/app-config.json 1 794 0 0
+/register 1 794 0 0
+/.env.remote 1 794 0 0
+/config/secrets.yml 1 794 0 0
+/profiler/phpinfo 1 794 0 0
+/.github/workflows/deploy.yml 1 794 0 0
+/actuator/auditevents 1 794 0 0
+/api/.env.dev 1 794 0 0
+/.env.yml 1 794 0 0
+/config/firebase_credentials.json 1 794 0 0
+/config/aws.json 1 794 0 0
+/deploy/service-account.json 1 794 0 0
+/config/.aws/credentials 1 794 0 0
+/serviceaccount.json 1 794 0 0
+/set_env.sh 1 794 0 0
+/env.production 1 794 0 0
+/.git/refs/heads/main 1 794 0 0
+/cloud.json 1 794 0 0
+/v3/.git/config 2 1588 0 0
+/config/gcp-credentials.json 1 794 0 0
+/docker-compose.dev.yml 1 794 0 0
+/secrets/gcp-credentials.json 1 794 0 0
+/config/gcp.json 1 794 0 0
+/trace.axd 1 794 0 0
+/env.py 1 794 0 0
+/.env.sh 1 794 0 0
+/create_env.py 1 794 0 0
+/.next/build-manifest.json 1 794 0 0
+/admin/.env.local 1 794 0 0
+/env_variables.py 1 794 0 0
+/google-services.json 1 794 0 0
+/.env_example 1 794 0 0
+/backend/actuator/heapdump 1 794 0 0
+/gcp.json 2 1588 0 0
+/api/config 2 2912 0 0
+/.openclaw/agents/main/agent/models.json 1 794 0 0
+/secrets/azure.json 1 794 0 0
+/build/.git/config 2 1588 0 0
+/build-manifest.json 1 794 0 0
+/assets/manifest.json 1 794 0 0
+/docker-compose.prod.yml 1 794 0 0
+/.env2 1 794 0 0
+/.env.dev.example 1 794 0 0
+/_profiler 1 794 0 0
+/server/actuator/heapdump 1 794 0 0
+/.npmrc 1 794 0 0
+/site/.git/config 2 1588 0 0
+/.env_hlg 1 794 0 0
+/serviceAccountKey.json 1 794 0 0
+/deploy/docker-compose.prod.yml 1 794 0 0
+/credentials/service-account.json 1 794 0 0
+/google-service-account.json 1 794 0 0
+/api/.git/config 2 1588 0 0
+/internal/.env.production 1 794 0 0
+/frontend/.env.local 1 794 0 0
+/_profiler/phpinfo 2 1588 0 0
+/frontend/.env.prod 1 794 0 0
+/secrets/gcp.json 1 794 0 0
+/v1/actuator/heapdump 1 794 0 0
+/env.template 1 794 0 0
+/actuator/logfile 1 794 0 0
+/gcp-credentials.json 2 1588 0 0
+/app-env.yaml 1 794 0 0
+/www/.git/config 1 794 0 0
+/google-cloud.json 1 794 0 0
+/_nuxt/builds/latest.json 1 794 0 0
+/.env.production.save 1 794 0 0
+/backend/aws.json 1 794 0 0
+/graphql/api 1 794 0 0
+/.env.example2 1 794 0 0
+/administrator 1 794 0 0
+/.env1 1 794 0 0
+/parseable-env-secret 1 794 0 0
+/.azure/credentials 1 794 0 0
+/env 1 4245 0 0
+/config/.env.production 1 794 0 0
+/google_credentials.json 1 794 0 0
+/.env_copy 1 794 0 0
+/config/google-credentials.json 1 794 0 0
+/k8s.yaml 1 794 0 0
+/___proxy_subdomain_whm/login 1 794 0 0
+/static/manifest.json 1 794 0 0
+/gcp-service-account.json 1 794 0 0
+/api-docs 1 794 0 0
+/.aws/config 1 794 0 0
+/google_key.json 1 794 0 0
+/api/docker-compose.yml 1 794 0 0
+/firebase-credentials.json 2 1588 0 0
+/.envrc 1 794 0 0
+/user/login 1 794 0 0
+/.gcp/credentials.json 1 794 0 0
+/.env.testing.example 1 794 0 0
+/.env.email 1 794 0 0
+/.env.server 1 794 0 0
+/actuator/heapdump 1 794 0 0
+/frontend/.env.dev 1 794 0 0
+/.env.backup2 1 794 0 0
+/k8s.yml 1 794 0 0
+/.env.demo 1 794 0 0
+/environment.ci.ts 1 794 0 0
+/.gcloud/credentials.json 1 794 0 1
+/.env.aws 1 794 0 0
+/private/service-account.json 1 794 0 0
+/env.example 1 794 0 0
+/deploy/docker-compose.yml 1 794 0 0
+/laravel/.git/config 1 794 0 0
+/.next/required-server-files.json 1 794 0 0
+/.env.dist 2 1588 0 0
+/api/actuator/heapdump 1 794 0 0
+/.vscode/sftp.json 1 794 0 0
+/api/configprops 1 794 0 0
+/docker-compose.override.yml 1 794 0 0
+/redoc 1 794 0 0
+/admin/.git/config 1 794 0 0
+/backend/.git/config 2 1588 0 0
+/v2/.git/config 2 1588 0 1
+/sa-private-key.json 1 794 0 0
+/.env.lc 1 794 0 0
+/manifest.webmanifest 1 794 0 0
+/keyfile.json 1 794 0 0
+/v2/actuator/configprops 1 794 0 0
+/wordpress/.git/config 2 1588 0 0
+/.env.prod 2 1588 0 0
+/.env-example 1 794 0 0
+/env_utils.py 1 794 0 0
+/.env.sample 2 1588 0 0
+/helm/values.yml 1 794 0 0
+/.env.local.example 1 794 0 0
+/internal/actuator/heapdump 1 794 0 0
+/admin 2 37816 0 0
+/kubernetes.yml 1 794 0 0
+/services/docker-compose.yml 1 794 0 0
+/.env.heroku.example 1 794 0 0
+/api 1 794 0 0
+/.ssh/id_ed25519 1 794 0 0
+/server 1 794 0 0
+/backend/.env.local 1 794 0 0
+/services/.env.production 1 794 0 0
+/set-aws-env.sh 1 794 0 0
+/serviceAccount.json 1 794 0 0
+/telescope/requests 1 794 0 0
+/.vite/manifest.json 1 794 0 0
+/.env.ollama 1 794 0 0
+/.envrc.sample 1 794 0 0
+/client_secret.json 1 794 0 0
+/docker/docker-compose.prod.yml 1 794 0 0
+/portal/.git/config 2 1588 1 0
+/.openai/config.json 1 794 0 0
+/.env.production.example 1 794 0 0
+/.git/FETCH_HEAD 1 794 0 0
+/.env.ci 1 794 0 0
+/config.env 1 794 0 0
+/infra/docker-compose.yml 1 794 0 0
+/key.json 1 794 0 0
+/backend/.env.staging 1 794 0 0
+/api/graphql 2 1588 0 0
+/.env.uat 2 1588 0 0
+/src/.git/config 2 1588 0 0
+/backend/.env.production 1 794 0 0
+/appsettings.Production.json 1 794 0 0
+/private/.env.production 1 794 0 0
+/shop/.git/config 2 1588 0 0
+/auth/service_key.json 1 794 0 0
+/firebase-service-account.json 1 794 0 0
+/.env.yaml 1 794 0 0
+/debug/default/view 1 794 0 1
+/.yarnrc 1 794 0 0
+/about 1 5840 0 0
+/enviar_email.py 1 794 0 0
+/service-account-key.json 1 794 0 0
+/.git/refs/heads/master 1 794 0 0
+/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js.map 1 794 0 1
+/.git/logs/HEAD 1 794 0 0
+/dump 1 794 0 0
+/.env-dist 1 794 0 0
+/api/actuator/configprops 1 794 0 0
+/public/.git/config 2 1588 0 0
+/logfile 1 794 0 0
+/s/5333e24353e28313e2931313/_/ 1 794 0 0
+/.astro/manifest.json 1 794 0 0
+/server/.env.local 1 794 0 0
+/manifest.json 1 794 0 0
+/service-account.json 2 1588 0 0
+/docker/docker-compose.yml 1 794 0 0
+/htdocs/.git/config 2 1588 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 6
+2K-5K 37
+100-500 432
+5K+ 119
+0-44 108
+500-1K 810
+44-100 68
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

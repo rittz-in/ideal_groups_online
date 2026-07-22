@@ -1,0 +1,65 @@
+<?php
+
+// override core en language system validation or define your own en language validation message
+return [
+    'login'                  => 'પ્રવેશ કરો',
+    'logout'                 => 'લૉગ આઉટ',
+    'profile'                => 'પ્રોફાઇલ',
+    'change_email'           => 'ઈ - મેઈલ બદલો',
+    'change_password'        => 'પાસવર્ડ બદલો',
+    'status'                 => 'સ્થિતિ',
+    'created_date'           => 'તારીખ',
+    'email'                  => 'ઈમેલ',
+    'password'               => 'પાસવર્ડ',
+    'sign_in'                => 'સાઇન ઇન કરો',
+    'quantity'               => 'જથ્થો',
+
+    'product'                => 'ઉત્પાદન',
+    'product_list'           => 'ઉત્પાદનની સૂચિ',
+    'product_name'           => 'ઉત્પાદન નામ',
+    'add_product'            => 'ઉત્પાદન ઉમેરો',
+    'edit_product'           => 'ઉત્પાદન સંપાદિત કરો',
+
+    'company'                => 'કંપની',
+    'company_list'           => 'કંપનીની યાદી',
+    'company_name'           => 'કંપની નું નામ',
+    'add_company'            => 'કંપની ઉમેરો',
+    'edit_company'           => 'કંપની સંપાદિત કરો',
+
+    'save'                   => 'સાચવો',
+    'discard'                => 'કાઢી નાખો',
+    'available_quantity'     => 'ઉપલબ્ધ જથ્થો',
+
+    'name'                   => 'નામ',
+    'email'                  => 'ઈમેલ',
+    'password'               => 'પાસવર્ડ',
+    'first_name'             => 'પ્રથમ નામ',
+    'last_name'              => 'છેલ્લું નામ',
+    'gender'                 => 'જાતિ',
+    'dob'                    => 'જન્મ તારીખ',
+    'mobile'                 => 'મોબાઈલ',
+    'role'                   => 'ભૂમિકા',
+
+    'user'                   => 'વપરાશકર્તા',
+    'user_list'              => 'વપરાશકર્તાની સૂચિ',
+    'user_name'              => 'વપરાશકર્તા નામ',
+    'add_user'               => 'વપરાશકર્તા ઉમેરો',
+    'edit_user'              => 'વપરાશકર્તાને સંપાદિત કરો',
+
+    'inward'                 => 'ઇનવર્ડ',
+    'outward'                => 'આઉટવર્ડ',
+    'add_inward'             => 'ઇનવર્ડ ઉમેરો',
+    'add_outward'            => 'આઉટવર્ડ ઉમેરો',
+    'list_of_inward'         => 'ઇનવર્ડની યાદી',
+    'list_of_outward'        => 'આઉટવર્ડની યાદી',
+    'list_of_inward_outward' => 'ઇનવર્ડ - આઉટવર્ડની યાદી',
+    'inward_outward'         => 'ઇનવર્ડ - આઉટવર્ડ',
+    'type'                   => 'પ્રકાર',
+    'export_excel'           => 'એક્સેલ પર નિકાસ કરો',
+
+    'successfully_saved'     => 'તમારો ડેટા સફળતાપૂર્વક સાચવવામાં આવ્યો છે!',
+    'successfully_updated'   => 'તમારો ડેટા સફળતાપૂર્વક અપડેટ થયો છે!',
+    'successfully_deleted'   => 'તમારો ડેટા સફળતાપૂર્વક કાઢી નાખવામાં આવ્યો છે!',
+    'went_wrong'             => 'કંઈક ખોટું થયું!',
+    'company_not_valid'      => 'કંપની માન્ય નથી!',
+];

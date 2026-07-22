@@ -1,0 +1,840 @@
+/* ===============================================
+   THEME COLOR VARIABLES
+   =============================================== */
+:root {
+    --theme-primary: #5A1A2B;
+    --theme-primary-light: #7D2E42;
+    --theme-primary-dark: #3D0F1C;
+    --theme-secondary: #feb2c6;
+    --theme-gradient: linear-gradient(180deg, #a02d4c 0%, #5A1A2B 100%);
+    --theme-text-light: #ffffff;
+    --theme-text-dark: #333333;
+    --theme-border: rgba(90, 26, 43, 0.5);
+    --theme-glass-bg: rgba(255, 255, 255, 0.15);
+    --theme-glass-border: rgba(255, 255, 255, 0.3);
+}
+
+/* ===============================================
+   PAGE BACKGROUND GRADIENT - FULL COVERAGE
+   =============================================== */
+
+/* HTML and Body - fit to content, no extra scroll */
+html {
+    height: 100% !important;
+    background: var(--theme-gradient) !important;
+    background-attachment: fixed !important;
+    overflow-x: hidden !important;
+}
+
+body {
+    min-height: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: transparent !important;
+    background-color: var(--theme-primary) !important;
+    overflow-x: hidden !important;
+}
+
+.page-wraper {
+    min-height: 100% !important;
+    height: auto !important;
+    background: transparent !important;
+}
+
+.page-content {
+    height: auto !important;
+    background: transparent !important;
+    padding-bottom: 20px !important;
+}
+
+.content-inner {
+    height: auto !important;
+    background: transparent !important;
+    padding-bottom: 20px !important;
+}
+
+/* Remove any white background classes */
+.bg-white {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+/* Ensure container doesn't have white bg */
+.container {
+    background: transparent !important;
+}
+
+/* Dashboard area - auto height based on content */
+.dashboard-area {
+    height: auto !important;
+    background: transparent !important;
+    padding-bottom: 20px !important;
+}
+
+/* Fix for overscroll/bounce effect on iOS */
+@supports (-webkit-touch-callout: none) {
+    html {
+        background: var(--theme-primary) !important;
+    }
+
+    body::before {
+        content: '';
+        position: fixed;
+        top: -100vh;
+        left: 0;
+        right: 0;
+        height: 100vh;
+        background: var(--theme-primary) !important;
+        z-index: -1;
+    }
+
+    body::after {
+        content: '';
+        position: fixed;
+        bottom: -100vh;
+        left: 0;
+        right: 0;
+        height: 100vh;
+        background: var(--theme-primary-dark) !important;
+        z-index: -1;
+    }
+}
+
+/* ===============================================
+   UNIFIED CATEGORY BOX STYLES
+   =============================================== */
+.categore-box.style-1,
+.categore-box.style-2 {
+    transition: all 0.3s ease;
+    background: var(--theme-glass-bg) !important;
+    border: 1px solid var(--theme-glass-border) !important;
+    backdrop-filter: blur(10px);
+}
+
+.categore-box .icon-bx {
+    background-color: var(--theme-primary) !important;
+    transition: all 0.3s ease;
+}
+
+.categore-box .icon-bx i {
+    color: #fff !important;
+}
+
+.categore-box .title {
+    color: var(--theme-text-light) !important;
+}
+
+/* Active State Styling */
+.categore-box.primary {
+    background-color: var(--theme-primary) !important;
+    border-color: var(--theme-primary) !important;
+}
+
+.categore-box.primary .title {
+    color: #fff !important;
+}
+
+.categore-box.primary .icon-bx {
+    background-color: #fff !important;
+}
+
+.categore-box.primary .icon-bx i {
+    color: var(--theme-primary) !important;
+}
+
+/* Hover effects */
+.categore-box:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    background: rgba(255, 255, 255, 0.25) !important;
+}
+
+/* ===============================================
+   ITEM BOX STYLES (HOME PAGE) - TRANSPARENT WITH BORDER
+   =============================================== */
+.dashboard-area .item-box,
+.page-content .item-box,
+.content-inner .item-box,
+div.item-box {
+    background: rgba(255, 255, 255, 0.15) !important;
+    background-color: transparent !important;
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
+    border-radius: 12px !important;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+    padding: 12px !important;
+    margin-bottom: 12px !important;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-area .item-box:hover,
+.page-content .item-box:hover,
+.content-inner .item-box:hover,
+div.item-box:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+    background: rgba(255, 255, 255, 0.25) !important;
+}
+
+.item-box .item-content h6,
+.item-box .item-content .mb-0,
+.item-box h6.mb-0,
+.item-box .item-content a h6,
+.item-box h6,
+.item-box p,
+.item-box span,
+.item-box a,
+.item-box .title,
+.item-box .item-content,
+.item-box .item-content * {
+    color: #ffffff !important;
+}
+
+.item-box .item-content a {
+    color: #ffffff !important;
+    text-decoration: none;
+}
+
+.item-box .item-content a:hover {
+    color: #feb2c6 !important;
+}
+
+.item-box .item-footer h6,
+.item-box .item-footer .price,
+.item-box .item-footer {
+    color: #feb2c6 !important;
+    font-weight: 600;
+}
+
+.item-box .item-media {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.item-box .item-media img {
+    border-radius: 10px;
+}
+
+/* ===============================================
+   ITEM LIST STYLES (PRODUCT PAGE) - TRANSPARENT WITH BORDER
+   =============================================== */
+.item-list.recent-jobs-list,
+.item-list {
+    background: transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.item-list ul {
+    background: transparent !important;
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.item-list li {
+    background: var(--theme-glass-bg) !important;
+    border: 1px solid var(--theme-glass-border) !important;
+    border-radius: 12px !important;
+    backdrop-filter: blur(10px);
+    margin-bottom: 12px !important;
+    padding: 12px !important;
+    transition: all 0.3s ease;
+    overflow: hidden;
+    list-style: none !important;
+}
+
+.item-list li:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    background: rgba(255, 255, 255, 0.25) !important;
+}
+
+/* Item Content Layout */
+.item-list .item-content {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 12px !important;
+    width: 100% !important;
+}
+
+/* Item Inner (Text Content) */
+.item-list .item-content .item-inner {
+    flex: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 8px !important;
+    padding-right: 10px !important;
+    min-width: 0 !important;
+    /* Allow text truncation */
+}
+
+/* Item Title Row */
+.item-list .item-content .item-inner .item-title-row {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 4px !important;
+}
+
+.item-list .item-content .item-inner .item-title-row .item-title {
+    margin: 0 !important;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    line-height: 1.3 !important;
+}
+
+.item-list .item-content .item-inner .item-title-row .item-title,
+.item-list .item-content .item-inner .item-title-row .item-title a {
+    color: #ffffff !important;
+    text-decoration: none !important;
+}
+
+.item-list .item-content .item-inner .item-title-row .item-title a:hover {
+    color: var(--theme-secondary) !important;
+}
+
+.item-list .item-content .item-inner .item-title-row .item-subtitle {
+    color: rgba(255, 255, 255, 0.7) !important;
+    font-size: 13px !important;
+    line-height: 1.4 !important;
+    margin: 0 !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+}
+
+/* Item Footer (Price Section) */
+.item-list .item-content .item-inner .item-footer {
+    margin-top: 4px !important;
+}
+
+.item-list .item-content .item-inner .item-footer>.d-flex {
+    gap: 15px !important;
+}
+
+.item-list .item-content .item-inner .item-footer h6 {
+    color: var(--theme-secondary) !important;
+    font-weight: 600 !important;
+    font-size: 15px !important;
+    margin: 0 !important;
+}
+
+.item-list .item-content .item-inner .item-footer .off-text,
+.item-list .item-content .item-inner .item-footer del {
+    margin-left: 8px !important;
+}
+
+.item-list .item-content .item-inner .item-footer .off-text h6,
+/* Cart Controls Refinement */
+.cart-controls {
+    display: flex !important;
+    align-items: center !important;
+    background: transparent !important;
+    padding: 0 !important;
+    border: none !important;
+    gap: 8px !important;
+    /* Slightly reduced gap */
+    min-width: 0 !important;
+}
+
+/* Smaller Stepper Refinement */
+.dz-stepper {
+    display: flex !important;
+    align-items: center !important;
+    gap: 4px !important;
+    max-width: fit-content !important;
+}
+
+.dz-stepper .stepper {
+    width: 20px !important;
+    /* Even smaller */
+    height: 24px !important;
+    background: transparent !important;
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
+    border-radius: 4px !important;
+    color: #ffffff !important;
+    text-align: center !important;
+    font-size: 11px !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* Targeting Bootstrap TouchSpin buttons specifically */
+.dz-stepper .input-group-btn .btn-default {
+    width: 18px !important;
+    /* 10px was too small, 18px is functional small */
+    height: 18px !important;
+    padding: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    font-size: 12px !important;
+    border-radius: 4px !important;
+    background: rgba(255, 255, 255, 0.1) !important;
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
+    color: #ffffff !important;
+}
+
+.dz-stepper .input-group-btn .btn-default:hover {
+    background: var(--theme-secondary) !important;
+    color: var(--theme-primary) !important;
+}
+
+/* Mobile specific fixes */
+@media screen and (max-width: 414px) {
+    .item-list .item-content .item-inner .item-footer>.d-flex {
+        gap: 8px !important;
+        /* Reduce gap on small screens like iPhone XR */
+    }
+
+    .cart-controls {
+        gap: 4px !important;
+    }
+
+    .btn-add-cart {
+        min-width: 50px !important;
+        font-size: 13px !important;
+        padding: 0px 8px !important;
+    }
+}
+
+/* Select Button Styling */
+.btn-add-cart {
+    padding: 0px 12px !important;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    border-radius: 4px !important;
+    background: var(--theme-secondary) !important;
+    color: var(--theme-primary) !important;
+    border: none !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.5px !important;
+    min-width: 65px !important;
+    height: 30px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    transition: all 0.3s ease !important;
+}
+
+.btn-add-cart:hover {
+    background: #ffffff !important;
+    color: var(--theme-primary) !important;
+    transform: translateY(-1px) !important;
+}
+
+/* Stepper inside Cart Offcanvas */
+.cart-item-stepper {
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+    margin-top: 8px !important;
+}
+
+.cart-item-stepper button {
+    width: 24px !important;
+    height: 24px !important;
+    background: rgba(255, 255, 255, 0.1) !important;
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
+    border-radius: 4px !important;
+    color: #ffffff !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 0 !important;
+    font-size: 14px !important;
+}
+
+.cart-item-stepper span {
+    color: #ffffff !important;
+    font-weight: 600 !important;
+    min-width: 20px !important;
+    text-align: center !important;
+}
+
+/* Price Section cleanup */
+.price-section {
+    display: flex !important;
+    align-items: baseline !important;
+    gap: 6px !important;
+}
+
+.product-price {
+    font-size: 16px !important;
+    margin: 0 !important;
+}
+
+/* Item Media (Image) */
+.item-list .item-media {
+    flex-shrink: 0 !important;
+    width: 90px !important;
+    height: 90px !important;
+    border-radius: 10px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+}
+
+.item-list .item-media img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    border-radius: 10px !important;
+}
+
+/* ===============================================
+   SEARCH INPUT STYLES
+   =============================================== */
+.input-group.input-radius {
+    background: var(--theme-glass-bg) !important;
+    border: 1px solid var(--theme-primary) !important;
+    border-radius: 12px !important;
+    backdrop-filter: blur(10px);
+    overflow: hidden;
+}
+
+.input-group.input-radius .input-group-text {
+    background: transparent !important;
+    border: none !important;
+}
+
+.input-group.input-radius .input-group-text svg path {
+    fill: var(--theme-secondary) !important;
+}
+
+.input-group.input-radius .form-control {
+    background: transparent !important;
+    border: none !important;
+    color: var(--theme-text-light) !important;
+}
+
+.input-group.input-radius .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.6) !important;
+}
+
+.input-group.input-radius .form-control:focus {
+    box-shadow: none !important;
+}
+
+/* ===============================================
+   CART SECTION STYLES
+   =============================================== */
+
+/* Cart Offcanvas - Overlay without pushing content */
+#offcanvasBottom2 {
+    background: var(--theme-gradient) !important;
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+    position: fixed !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    z-index: 1050 !important;
+    max-height: 80vh !important;
+    overflow-y: auto !important;
+}
+
+/* Prevent background scroll when cart is open */
+body.offcanvas-open,
+body:has(.offcanvas.show) {
+    overflow: hidden !important;
+    position: fixed !important;
+    width: 100% !important;
+}
+
+/* Cart backdrop */
+.offcanvas-backdrop {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    z-index: 1040 !important;
+}
+
+/* Close Button - Make Visible */
+#offcanvasBottom2 .btn-close {
+    position: absolute !important;
+    top: 15px !important;
+    right: 15px !important;
+    background: rgba(255, 255, 255, 0.9) !important;
+    border-radius: 50% !important;
+    width: 32px !important;
+    height: 32px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    opacity: 1 !important;
+    z-index: 1000 !important;
+    border: none !important;
+    padding: 0 !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2) !important;
+}
+
+#offcanvasBottom2 .btn-close:hover {
+    background: #ffffff !important;
+    transform: scale(1.05) !important;
+}
+
+#offcanvasBottom2 .btn-close i {
+    color: var(--theme-primary) !important;
+    font-size: 14px !important;
+    font-weight: bold !important;
+}
+
+/* Cart Items - No Hover Effects */
+.item-list.style-2 {
+    background: transparent !important;
+}
+
+.item-list.style-2 ul {
+    background: transparent !important;
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.item-list.style-2 li {
+    background: var(--theme-glass-bg) !important;
+    border: 1px solid var(--theme-glass-border) !important;
+    border-radius: 12px !important;
+    backdrop-filter: blur(10px);
+    margin-bottom: 12px !important;
+    padding: 12px !important;
+    transition: none !important;
+    /* No transitions */
+    transform: none !important;
+    /* No transforms */
+}
+
+/* Remove hover effects completely */
+.item-list.style-2 li:hover {
+    transform: none !important;
+    box-shadow: none !important;
+    background: var(--theme-glass-bg) !important;
+}
+
+.item-list.style-2 .item-content .item-inner .item-title-row .item-title,
+.item-list.style-2 .item-content .item-inner .item-title-row .item-title a {
+    color: var(--theme-text-light) !important;
+}
+
+.item-list.style-2 .item-content .item-inner .item-title-row .item-subtitle {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.item-list.style-2 .item-content .item-inner .item-footer h6 {
+    color: var(--theme-secondary) !important;
+}
+
+.item-list.style-2 .item-content .item-inner .item-footer .off-text h6,
+.item-list.style-2 .item-content .item-inner .item-footer del h6 {
+    color: rgba(255, 255, 255, 0.5) !important;
+}
+
+/* Cart Summary Section */
+.view-title {
+    background: var(--theme-glass-bg) !important;
+    border: 1px solid var(--theme-glass-border) !important;
+    border-radius: 12px !important;
+    backdrop-filter: blur(10px);
+    padding: 15px !important;
+    margin-top: 15px !important;
+}
+
+.view-title ul li {
+    background: transparent !important;
+    border: none !important;
+    color: var(--theme-text-light) !important;
+}
+
+.view-title ul li span,
+.view-title ul li h5 {
+    color: var(--theme-text-light) !important;
+}
+
+/* ===============================================
+   CART ICON STYLING
+   =============================================== */
+.notify-cart svg path {
+    fill: var(--theme-text-light) !important;
+}
+
+.notify-cart .badge {
+    background-color: var(--theme-secondary) !important;
+    color: var(--theme-primary) !important;
+}
+
+.author-notification {
+    background: transparent !important;
+}
+
+.author-notification .container {
+    background: transparent !important;
+}
+
+/* ===============================================
+   BUTTONS STYLING
+   =============================================== */
+.btn-primary {
+    background-color: var(--theme-primary) !important;
+    border-color: var(--theme-primary) !important;
+    color: var(--theme-text-light) !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: var(--theme-primary-light) !important;
+    border-color: var(--theme-primary-light) !important;
+    box-shadow: 0 4px 15px rgba(90, 26, 43, 0.4) !important;
+}
+
+.btn-outline-primary {
+    border-color: var(--theme-primary) !important;
+    color: var(--theme-text-light) !important;
+    background: var(--theme-glass-bg) !important;
+}
+
+.btn-outline-primary:hover {
+    background-color: var(--theme-primary) !important;
+    color: var(--theme-text-light) !important;
+}
+
+/* ===============================================
+   TITLE STYLING
+   =============================================== */
+.title-bar .title,
+.dashboard-area .title-bar .title,
+h4.title,
+h5.title {
+    color: var(--theme-text-light) !important;
+}
+
+.serach-area h4.title {
+    color: var(--theme-text-light) !important;
+}
+
+/* ===============================================
+   STEPPER (QUANTITY) STYLING
+   =============================================== */
+.dz-stepper {
+    background: var(--theme-glass-bg) !important;
+    border: 1px solid var(--theme-glass-border) !important;
+    border-radius: 8px !important;
+}
+
+.dz-stepper .stepper {
+    background: transparent !important;
+    color: var(--theme-text-light) !important;
+    border: none !important;
+}
+
+.dz-stepper .btn-touchspin,
+.dz-stepper .bootstrap-touchspin-up,
+.dz-stepper .bootstrap-touchspin-down {
+    background: var(--theme-primary) !important;
+    color: var(--theme-text-light) !important;
+    border: none !important;
+}
+
+/* ===============================================
+   HEADER STYLING
+   =============================================== */
+.header.transparent {
+    background: transparent !important;
+}
+
+.header .main-bar {
+    background: transparent !important;
+}
+
+/* ===============================================
+   MENUBAR / FOOTER NAV STYLING
+   =============================================== */
+.menubar-area {
+    background: var(--theme-glass-bg) !important;
+    border-top: 1px solid var(--theme-glass-border) !important;
+    backdrop-filter: blur(20px);
+}
+
+.menubar-area .nav-link {
+    color: var(--theme-text-light) !important;
+}
+
+.menubar-area .nav-link.active,
+.menubar-area .nav-link:hover {
+    color: var(--theme-secondary) !important;
+}
+
+.menubar-area .nav-link svg path,
+.menubar-area .nav-link i {
+    fill: var(--theme-text-light);
+    color: var(--theme-text-light) !important;
+}
+
+.menubar-area .nav-link.active svg path,
+.menubar-area .nav-link:hover svg path,
+.menubar-area .nav-link.active i,
+.menubar-area .nav-link:hover i {
+    fill: var(--theme-secondary);
+    color: var(--theme-secondary) !important;
+}
+
+/* ===============================================
+   TEXT COLORS FOR READABILITY
+   =============================================== */
+.page-content p,
+.page-content span,
+.page-content label {
+    color: var(--theme-text-light) !important;
+}
+
+/* No products found message */
+.item-list li.text-center {
+    color: var(--theme-text-light) !important;
+}
+
+/* ===============================================
+   THEME COLOR SETTINGS PANEL
+   =============================================== */
+#offcanvasBottom {
+    background: var(--theme-gradient) !important;
+}
+
+.theme-color-settings li span {
+    color: var(--theme-text-light) !important;
+}
+
+/* ===============================================
+   SCROLLBAR STYLING
+   =============================================== */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--theme-primary);
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--theme-primary-light);
+}
+
+/* ===============================================
+   PRELOADER STYLING
+   =============================================== */
+#preloader {
+    background: var(--theme-gradient) !important;
+}
+
+#preloader .spinner {
+    border-color: var(--theme-secondary) !important;
+    border-top-color: var(--theme-primary) !important;
+}

@@ -1,0 +1,307 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202509 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2084                
+POS_TIME 2752                
+POS_VISITOR 6700                
+POS_DAY 7457                
+POS_DOMAIN 3560                
+POS_LOGIN 3836                
+POS_ROBOT 3991                
+POS_WORMS 4152                
+POS_EMAILSENDER 4283                
+POS_EMAILRECEIVER 4426                
+POS_SESSION 7705                
+POS_FILESIZE 7997                
+POS_REQUESTTIME 8143                
+POS_SIDER 7852                
+POS_FILETYPES 4561                
+POS_DOWNLOADS 4680                
+POS_OS 4728                
+POS_BROWSER 4888                
+POS_SCREENSIZE 5229                
+POS_UNKNOWNREFERER 5303                
+POS_UNKNOWNREFERERBROWSER 5476                
+POS_ORIGIN 5558                
+POS_SEREFERRALS 5691                
+POS_PAGEREFS 5835                
+POS_SEARCHWORDS 5983                
+POS_KEYWORDS 6135                
+POS_MISC 2414                
+POS_ERRORS 6194                
+POS_CLUSTER 3692                
+POS_SIDER_404 6358                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251001003227 66 14551 11141420622225
+FirstTime 0
+LastTime 20250922100821
+LastUpdate 20251001184234 66 0 65 0 0
+TotalVisits 11                  
+TotalUnique 11                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 21                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 135 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 7558 7905 1872388
+1 0 0 0 4231 4542 939720
+2 0 1 38870 3290 3383 766935
+3 2 2 8476 7370 7651 1741791
+4 2 2 65601 9187 9278 2118778
+5 10 10 0 2472 3011 557761
+6 0 0 0 1403 1473 290308
+7 2 2 8476 1119 1175 238346
+8 1 1 4238 703 722 151099
+9 2 2 8476 9884 10076 2471009
+10 1 1 4238 3129 3212 680083
+11 0 1 38870 5946 6028 1463903
+12 0 0 0 3256 3365 722756
+13 0 0 0 6962 7022 1481773
+14 0 1 38870 2129 2183 375203
+15 0 0 0 4429 4458 977570
+16 0 1 38870 6093 6162 1377197
+17 0 1 38870 1976 2024 434422
+18 0 1 38870 3024 3063 683221
+19 0 1 38870 5845 5935 1366525
+20 0 2 77740 8849 8873 2177860
+21 0 1 38870 1708 1947 407928
+22 0 0 0 4817 5132 1090514
+23 0 0 0 7267 7389 1663877
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 15 25 409890
+jp 2 2 8476
+cn 1 1 4238
+ca 1 1 61363
+bg 1 1 4238
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+link 1 2026 20250919031226 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+cgi 19 38142 0 0
+Unknown 1 61363 0 0
+png 10 388700 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+macosx 1 1
+linux 2 2
+win11 1 1
+Unknown 10 0
+win10 7 7
+android13 2 2
+ios_iphone 6 6
+macos12 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+firefox124.0 2 2
+chrome107.0.0.0 1 1
+chrome139.0.0.0 1 1
+chrome91.0.4472.114 1 1
+safari 2 2
+chrome124.0.6367.62 1 1
+safari17.4 1 1
+chrome121.0.6167.140 1 1
+mozilla 10 0
+safari13.0.3 4 4
+chrome123.0.6312.86 1 1
+safari16.6 1 1
+opera70.0.3728.95 1 1
+chrome122.0.0.0 1 1
+chrome90.0.4430.85 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250928203323
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 4 14
+From1 2 2
+From2 0 0
+From3 0 0
+From4 14 14
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+409 17519 1448848
+403 41 23675
+404 1 583
+406 2195 494714
+301 96097 24046336
+302 19 2096
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/.well-known/pki-validation/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 21
+34.139.186.111 10 10 0 20250922053440
+143.198.205.174 1 1 4238 20250922032057
+162.14.197.180 1 1 4238 20250922034938
+143.110.245.72 1 1 4238 20250922074741
+174.95.67.195 1 1 61363 20250907043832
+159.65.18.67 1 1 4238 20250922100821
+43.153.113.127 1 1 4238 20250922090852
+114.96.103.33 1 1 4238 20250922073625
+43.157.142.101 1 1 4238 20250922094519
+143.110.253.167 1 1 4238 20250922044940
+109.199.118.129 1 1 4238 20250922085422
+199.45.155.101 0 1 38870 
+199.45.154.154 0 1 38870 
+206.168.34.83 0 1 38870 
+199.45.155.109 0 1 38870 
+199.45.154.146 0 1 38870 
+206.168.34.79 0 1 38870 
+199.45.155.98 0 1 38870 
+167.94.145.111 0 1 38870 
+167.94.146.53 0 1 38870 
+206.168.34.216 0 1 38870 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20250903 0 2 77740 0
+20250904 0 1 38870 0
+20250905 0 1 38870 0
+20250907 1 1 61363 1
+20250910 0 1 38870 0
+20250913 0 1 38870 0
+20250915 0 2 77740 0
+20250922 19 19 38142 10
+20250928 0 2 77740 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/cgi-sys/suspendedpage.cgi 19 38142 10 10
+/digicard/website/IdealGroups 1 61363 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+44-100 17456
+1K-2K 1
+500-1K 41
+5K+ 11
+100-500 98068
+0-44 453
+2K-5K 9
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

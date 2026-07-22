@@ -1,0 +1,259 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202505 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.ugi.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2055                
+POS_TIME 2702                
+POS_VISITOR 6204                
+POS_DAY 6276                
+POS_DOMAIN 3248                
+POS_LOGIN 3459                
+POS_ROBOT 3614                
+POS_WORMS 3746                
+POS_EMAILSENDER 3877                
+POS_EMAILRECEIVER 4020                
+POS_SESSION 6332                
+POS_FILESIZE 6530                
+POS_SIDER 6469                
+POS_FILETYPES 4155                
+POS_DOWNLOADS 4219                
+POS_OS 4267                
+POS_BROWSER 4332                
+POS_SCREENSIZE 4382                
+POS_UNKNOWNREFERER 4456                
+POS_UNKNOWNREFERERBROWSER 4543                
+POS_ORIGIN 4625                
+POS_SEREFERRALS 4755                
+POS_PAGEREFS 4899                
+POS_SEARCHWORDS 5047                
+POS_KEYWORDS 5199                
+POS_MISC 2366                
+POS_ERRORS 5258                
+POS_CLUSTER 3315                
+POS_SIDER_404 5382                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250601004154 4 606 5863864801174
+FirstTime 0
+LastTime 0
+LastUpdate 20250601183349 4 0 3 0 0
+TotalVisits 0                   
+TotalUnique 0                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 0                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 583
+1 0 0 0 1 1 583
+2 0 0 0 1 1 355
+3 0 0 0 0 0 0
+4 0 0 0 18 35 11109
+5 0 0 0 2 2 710
+6 0 0 0 2 3 710
+7 0 0 0 3 3 1293
+8 0 0 0 4 5 1646
+9 0 0 0 3 5 1291
+10 0 0 0 3 4 1293
+11 0 0 0 3 4 1065
+12 0 0 0 5 11 3423
+13 0 0 0 4 6 2003
+14 0 0 0 3 6 1648
+15 0 0 0 1 3 710
+16 0 0 0 25 27 7009
+17 0 0 0 1 1 355
+18 0 0 0 4 7 1775
+19 0 0 0 7 10 2356
+20 0 0 0 5 9 2130
+21 0 0 0 5 5 1775
+22 0 0 0 8 11 3877
+23 0 0 0 1 2 938
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 0 0
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 51 20258
+409 2 166
+404 61 22111
+406 27 6102
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 29
+/phpinfo 1 -
+/config.js 1 -
+/assets/config.js 1 -
+/ads.txt 4 -
+/aws-exports.js 1 -
+/firebase-config.js 1 -
+/js/app.js 1 -
+/.env.prod 1 -
+/env.js 1 -
+/sitemap.xml 3 -
+/firebase.js 1 -
+/app-settings.js 1 -
+/settings.js 1 -
+/.git/config 18 -
+/_all_dbs 1 -
+/robots.txt 8 -
+/assets/env.js 1 -
+/.env.save 1 -
+/js/env.js 1 -
+/_profiler/phpinfo 1 -
+/runtime-env.js 1 -
+/js/config.js 1 -
+/secrets.json 1 -
+/js/settings.js 1 -
+/config.json 1 -
+//cdn.js 4 -
+/manifest.json 1 -
+/credentials.json 1 -
+/assets/settings.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 0
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 0
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 4
+0-44 1
+500-1K 15
+100-500 144
+44-100 2
+END_FILESIZE

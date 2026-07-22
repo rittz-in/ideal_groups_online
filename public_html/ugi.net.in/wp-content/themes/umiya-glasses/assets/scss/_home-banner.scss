@@ -1,0 +1,73 @@
+.home-banner {
+  position: relative;
+  background-image: url("../img/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 800px;
+  @include media-breakpoint-down(xl) {
+    min-height: 480px;
+  }
+  .banner-content {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    max-width: 875px;
+    @include media-breakpoint-down(md) {
+      padding: 0 10px;
+    }
+    .main-heading {
+      font-size: 70px;
+      font-weight: 700;
+      color: $white;
+      margin-bottom: 20px;
+      text-align: center;
+      @include media-breakpoint-down(xl) {
+        font-size: 40px;
+        margin-bottom: 10px;
+      }
+      @include media-breakpoint-down(md) {
+        font-size: 30px;
+      }
+      span {
+        font-weight: 300;
+      }
+    }
+    p {
+      color: $white;
+      font-size: 22px;
+      margin-bottom: 30px;
+      text-align: center;
+      @include media-breakpoint-down(xl) {
+        font-size: 18px;
+        margin-bottom: 20px;
+      }
+      @include media-breakpoint-down(md) {
+        font-size: 16px;
+      }
+    }
+    .btn-banner {
+      background-color: $blue-color;
+      border: 1px solid $blue-color;
+      &:hover {
+        color: $white;
+        border-color: $white;
+        background-color: transparent;
+      }
+      &:active,
+      &:focus {
+        color: $white;
+        border-color: $white;
+        background-color: transparent;
+        box-shadow: transparent;
+      }
+    }
+  }
+}

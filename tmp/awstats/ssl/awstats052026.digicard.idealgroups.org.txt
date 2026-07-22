@@ -1,0 +1,1061 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202605 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2097                
+POS_TIME 2771                
+POS_VISITOR 22584               
+POS_DAY 25437               
+POS_DOMAIN 3492                
+POS_LOGIN 3859                
+POS_ROBOT 4014                
+POS_WORMS 4305                
+POS_EMAILSENDER 4436                
+POS_EMAILRECEIVER 4579                
+POS_SESSION 26082               
+POS_FILESIZE 26513               
+POS_REQUESTTIME 26657               
+POS_SIDER 26250               
+POS_FILETYPES 4714                
+POS_DOWNLOADS 4849                
+POS_OS 4897                
+POS_BROWSER 5057                
+POS_SCREENSIZE 5681                
+POS_UNKNOWNREFERER 5755                
+POS_UNKNOWNREFERERBROWSER 6185                
+POS_ORIGIN 6423                
+POS_SEREFERRALS 6557                
+POS_PAGEREFS 6701                
+POS_SEARCHWORDS 6849                
+POS_KEYWORDS 7001                
+POS_MISC 2435                
+POS_ERRORS 7060                
+POS_CLUSTER 3715                
+POS_SIDER_404 7241                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260601034613 2 200 14236763161872
+FirstTime 20260501161518
+LastTime 20260531122917
+LastUpdate 20260601192512 2 0 1 0 0
+TotalVisits 94                  
+TotalUnique 72                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 72                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 8718 43 47 859182
+1 3 3 5409 2 3 5082
+2 21 21 368054 238 241 4610003
+3 2 2 2082 5 5 402835
+4 7 7 11812 132 138 4863891
+5 2 2 2083 13 13 4408651
+6 3 3 3126 12 13 2413597
+7 4 4 6437 7 8 1593072
+8 4 4 6435 18 18 26088
+9 5 5 7466 36 38 801568
+10 5 5 9755 6 7 404605
+11 5 5 12011 2 3 4856
+12 6 6 13075 543 642 1245835
+13 8 8 15116 75 75 120364
+14 4 4 8700 4 7 818549
+15 9 9 11421 79 83 115646
+16 4 4 6435 23 24 3631092
+17 4 4 4156 21 23 38822
+18 3 3 5400 15 18 4022551
+19 3 3 5395 110 113 549435
+20 0 0 0 4 4 796536
+21 6 6 7701 47 53 119968
+22 10 10 11629 88 90 484290
+23 4 4 8709 12 14 24958
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 48 48 49720
+ru 31 31 375115
+de 29 29 83915
+in 5 5 7477
+ca 4 4 10993
+hk 2 2 4347
+cr 2 2 2081
+be 1 1 1047
+eu 1 1 1038
+au 1 1 1044
+cn 1 1 3310
+vn 1 1 1038
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+scanner 17 31657 20260522120422 0
+bot[\s_+:,\.\;\/\\-] 2 2083 20260513023835 0
+YandexBot/ 1 1046 20260520174421 0
+[\s_+:,\.\;\/\\-]bot 1 3310 20260506220209 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+md 2 3497 0 0
+Unknown 5 4205 0 0
+html 118 190875 0 0
+json 1 342548 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+Unknown 13 13
+androidpie 1 1
+win10 64 64
+symbian 1 1
+ios_iphone 6 6
+linux 14 14
+macosx15 27 27
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 31
+netscape5.0 4 4
+chrome76.0.3809.111 1 1
+chrome106.0.0.0 2 2
+chrome124.0 3 3
+chrome123.0.0.0 9 9
+chrome125.0.0.0 2 2
+chrome122.0.0.0 4 4
+firefox124.0 1 1
+firefox149.0 1 1
+safari18.3 1 1
+safari18.5 1 1
+Unknown 3 3
+chrome147.0.0.0 29 29
+chrome135.0.0.0 4 4
+firefox142.0 1 1
+safari18.4 1 1
+mozilla 10 10
+chrome131.0.0.0 4 4
+chrome83.0.4103.61 2 2
+chrome99.0.4859.172 4 4
+firefox150.0 2 2
+nokia 1 1
+chrome136.0.0.0 1 1
+chrome120.0.0.0 1 1
+chrome142.0.0.0 7 7
+chrome113.0.0.0 1 1
+chrome52.0.2743.82 1 1
+safari17.4.1 6 6
+firefox125.0 5 5
+chrome126.0.0.0 3 3
+chrome124.0.0.0 11 11
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260527104104
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260516151841
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260513161000
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260516151841
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 126 126
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+409 107 8881
+301 14 4119
+405 75 30101266
+404 887 2076596
+403 1 355
+302 21 4351
+406 545 122944
+419 2 4868
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 646
+/appsettings.Production.json 2 -
+/IAM.md 1 -
+/aws_credentials.json 2 -
+/rest/license 1 -
+/backend/config/common.js 1 -
+/[workspace]/* 1 -
+/app/docker-compose.yml 1 -
+/var/task/nuxt.config.js 1 -
+/rest/workflows/run 1 -
+/error.log 1 -
+/aws-config.js 2 -
+/api/templates 2 -
+/appsettings.Staging.json 2 -
+/firebase-adminsdk.json 1 -
+/server/env.js 1 -
+/.well-known/acme-challenge/* 1 -
+/api/node/config.js 1 -
+/api/contact 3 https://digicard.idealgroups.org/api/contact
+/settings/* 1 -
+/dashboard 5 -
+/config/env.json 1 -
+/v1/* 1 -
+/deploy.sh 1 -
+/backend/node/constants.js 1 -
+/.docker/secrets.json 1 -
+/server/constant.js 1 -
+/aws/config/s3.json 1 -
+/config/stripe.json 1 -
+/app/serverless.yaml 1 -
+/constants.yml 1 -
+/[...catchAll] 1 -
+/configprops 1 -
+/../../.env 1 -
+/api/mail/test 1 -
+/.github/dependabot.yml 1 -
+/api/common.js 1 -
+/api/v2/health 1 -
+/api/admin 2 -
+/terraform.tfvars 1 -
+/manifest.json 1 -
+/profile/* 1 -
+/terraform/terraform.tfvars.json 1 -
+/docs 1 -
+/.env.docker 3 -
+/.aws/credentials 8 -
+/wp-json/post-smtp/v1/logs 1 -
+/rest/oauth1-credential/auth 1 -
+/aws.properties 1 -
+/aws/metadata 1 -
+/config.prod.ini 1 -
+/[[...optional]] 1 -
+/home/*/.netrc 1 -
+/appsettings.Development.json 2 -
+/Docker.md 1 -
+/web/env.js 1 -
+/__debug 1 -
+/orders/* 1 -
+/config/app.js 1 -
+/storage/../../../.env 2 -
+/_next/static/runtime/main.js 1 -
+/rest/workflows 1 -
+/.vercel/output/config.json 1 -
+/app/package.json 1 -
+/dev/env.js 1 -
+/client/stripe.config.js 1 -
+/cart 1 -
+/.vercel/functions/* 1 -
+/config/config.js 1 -
+/backend/config/constants.js 1 -
+/config/service-account.json 1 -
+/staging/config.js 1 -
+/api/data/* 1 -
+/BackEnd/config.js 1 -
+/.terraform.tfstate 1 -
+/rest/credentials-for-node 1 -
+/package-updates/yum.cgi 1 -
+/package-updates/* 1 -
+/compose.yaml 1 -
+/var/task/serverless.yaml 1 -
+/package-updates/save.cgi 1 -
+/*/[id] 1 -
+/sa-private-key.json 1 -
+/keyfile.json 1 -
+/actions/* 1 -
+/secrets.yaml 1 -
+/readme.md 1 -
+/config/secrets.yml 1 -
+/s3/credentials 1 -
+/pages/* 1 -
+/user/* 1 -
+/.git 1 -
+/.github/funding.yml 1 -
+/api/v1/health 2 -
+/v2/* 1 -
+/fr/* 1 -
+/api/edge/inngest 2 -
+/docker-compose.yml 2 -
+/constants.js 1 -
+/var/task/serverless.yml 1 -
+/en 2 -
+/payment/* 1 -
+/.git/HEAD 10 -
+/secrets.json 3 -
+/.aws/config 3 -
+/_next/static/chunks/pages/_app.js.map 1 -
+/admin/server.js 1 -
+/.github/CODEOWNERS 1 -
+/_next/static/build-id.txt 1 -
+/.env_secret 2 -
+/config.yml 1 -
+/aws.json 3 -
+/actuator/heapdump 1 -
+/client_secret.json 1 -
+/API/config/database.js 1 -
+/root/.aws/credentials 1 -
+/.git/hooks/post-commit 1 -
+/s3/.aws/config 1 -
+/vercel.json 1 -
+/api/docs/api.json 1 -
+/profiler/phpinfo 1 -
+/stderr 1 -
+/wp-json/wp/v2/users 1 -
+/api/docs.json 1 -
+/.git/description 1 -
+/.env.development.local 2 -
+/aws-ses.json 1 -
+/billing/* 1 -
+/root/.netrc 1 -
+/aws/bucket 1 -
+/_next/static/development/_middlewareManifest.json 1 -
+/webhook 1 -
+/api/internal/debug 2 -
+/src/env.js 1 -
+/.boto 1 -
+/src/aws-exports.js 2 -
+/conf.yaml 1 -
+/config/test.json 1 -
+/settings.yaml 1 -
+/graphql/v1 2 -
+/aws/ses/smtp.env 1 -
+/backend 2 -
+/gql 2 -
+/myproject/settings.py 1 -
+/api/env.js 1 -
+/API/common.js 1 -
+/backend/node/common.js 1 -
+/auth/* 1 -
+/api/env 2 -
+/[slug] 1 -
+/env.yaml 1 -
+/var/task/package.json 1 -
+/config.rb 1 -
+/package-updates/index.cgi 1 -
+/api/v1/chatflows 1 -
+/publish/* 1 -
+/credentials.go 1 -
+/.env.staging 3 -
+/.gitlab/merge_request_templates 1 -
+/api/node/common.js 1 -
+/actuator/env/aws 2 -
+/config/application.yml 1 -
+/config/environment.json 1 -
+/proc/index.cgi 1 -
+/aws.env.json 1 -
+/manage/env 2 -
+/elasticsearch.yml 1 -
+/webhook-test/* 1 -
+/src/config/environment.json 1 -
+/sitemap.xml 1 -
+/env 4 -
+/api/inngest/handler 1 -
+/config/credentials.json 1 -
+/_next/static/development/_devMiddlewareManifest.json 1 -
+/.env_backup 2 -
+/src/config/stripe.ts 1 -
+/_profiler/phpinfo 2 -
+/payment/stripe.json 1 -
+/public/stripe.js 1 -
+/api/auth/session 3 -
+/api/v1/credentials 1 -
+/elasticsearch_cluster_yml 1 -
+/config/utils.js 1 -
+/api/constant.js 1 -
+/serverless.yml 1 -
+/backend/config.js 1 -
+/.amplifyrc 1 -
+/server.js 1 -
+/stripe/config.json 1 -
+/src/constant.js 1 -
+/app/nuxt.config.js 1 -
+/s3.yaml 1 -
+/aws.env 1 -
+/.github/workflows/main.yml 1 -
+/sam-template.yaml 1 -
+/s3/backup 1 -
+/root/.gitconfig 1 -
+/admin/constant.js 1 -
+/_api/* 1 -
+/docs/api 1 -
+/.git/packed-refs 1 -
+/settings 2 -
+/app/.terraform/terraform.tfstate 1 -
+/stdout 1 -
+/.env.production 9 -
+/wp-json/sendmachine/v1/manage_admin_requests 1 -
+/env.rb 1 -
+/home/*/.aws/credentials 1 -
+/services/environments.ini 1 -
+/DOCS.md 1 -
+/about 1 -
+/api/events 1 -
+/app/serverless.yml 1 -
+/gcp-service-account.json 1 -
+/.dockerignore 1 -
+/attacker/docker-compose.yml 1 -
+/staging/config/config.js 1 -
+/package-updates/install.cgi 1 -
+/docker-compose.prod.yml 1 -
+/appsettings.json 3 -
+/actuator/env 4 -
+/.vscode/sftp.json 1 -
+/_layouts/15/* 1 -
+/api/v1/env 1 -
+/sysinfo.cgi 1 -
+/var/task/next.config.ts 1 -
+/wp-admin 2 https://duckduckgo.com/
+/.terraform.lock.hcl 1 -
+/stripe.json 1 -
+/rest/tags 1 -
+/serverless.yaml 1 -
+/backend/env.js 1 -
+/_debugbar/open-handler 1 -
+/asset-manifest.json 1 -
+/config/common.js 1 -
+/wp_mail_smtp.ini 1 -
+/symfony/_profiler/phpinfo 1 -
+/payment_gateways/stripe.yaml 1 -
+/inngest 2 -
+/s3.secret 1 -
+/app.yaml 1 -
+/service-account.json 2 -
+/.git/objects/info 1 -
+/var/task/docker-compose.yaml 1 -
+/api/serverless/* 1 -
+/workspaces/* 1 -
+/aws.yaml 1 -
+/config/constants.js 1 -
+/api/graphql 2 -
+/config/config.json 1 -
+/form/* 1 -
+/.git-credentials 1 -
+/aws.yml 1 -
+/manage 2 -
+/app.yml 1 -
+/media/* 1 -
+/_next/data/latest/index.json 1 -
+/next.config.js 1 -
+/sendgrid.env 1 -
+/.env.prod 4 -
+/oauth/authorize 1 -
+/wp-content/uploads/gravity_forms/logs 1 -
+/debug/vars 1 -
+/web/constant.js 1 -
+/package-updates/update.cgi 1 -
+/actuator/configprops 3 -
+/posts/* 1 -
+/[id] 1 -
+/products 1 -
+/app/vercel.json 1 -
+/config/stripe.yaml 1 -
+/admin.html 1 -
+/var/task/serverless.json 1 -
+/Dockerfile 1 -
+/staging/config/common.js 1 -
+/api/documentation.json 1 -
+/form-test/* 1 -
+/shop/[category]/* 1 -
+/api/templates/env 1 -
+/.git/ORIG_HEAD 1 -
+/aws-credentials 2 -
+/loaders/* 1 -
+/.env.live 1 -
+/server/config/constants.js 1 -
+/oauth/* 1 -
+/.env.development 7 -
+/env.txt 2 -
+/rest/users 1 -
+/.git/logs/refs/heads/master 1 -
+/app/* 1 -
+/rest/oauth2-credential/auth 1 -
+/env.json 1 -
+/app/netlify.toml 1 -
+/robots.txt 5 -
+/.git/logs/refs/remotes/origin/master 1 -
+/api/status 2 -
+/.git/index 2 -
+/aws_s3_config.json 1 -
+/api/config 2 -
+/api/client_secret.json 1 -
+/package-updates/apt.cgi 1 -
+/api/internal/stats 1 -
+/terraform.tfstate 1 -
+/.env.int 1 -
+/appsettings.Local.json 1 -
+/api/server.js 1 -
+/api/node/constants.js 1 -
+/insta-compose.yml 1 -
+/config.json 2 -
+/config.ts 1 -
+/api/inngest/route 1 -
+/rest/logout 1 -
+/chat 1 -
+/api/* 1 -
+/_next/data/*/index.json 1 -
+/.cache 1 -
+/aws/s3/credentials 1 -
+/.env.dist 3 -
+/.env.project 1 -
+/backend/constants.js 1 -
+/test 1 -
+/healthz 3 -
+/.git/COMMIT_EDITMSG 1 -
+/__nextjs_action/* 1 -
+/graphql/v2 2 -
+/webhooks/incoming/stripe.json 1 -
+/.github/workflows 1 -
+/_layouts/15 2 https://digicard.idealgroups.org/_layouts/15/
+/messages/* 1 -
+/config/aws.yml 1 -
+/template.yaml 1 -
+/src/app.js 1 -
+/backend/node/config.js 1 -
+/credentials.js 1 -
+/teams/* 1 -
+/admin/constants.js 1 -
+/api/v2/status 2 -
+/app/config/parameters.yml 1 -
+/[tenant]/* 1 -
+/src/constants.js 1 -
+/home/*/.git-credentials 1 -
+/stripe.env 1 -
+/.env.config 1 -
+/form 1 -
+/web/config/constants.js 1 -
+/.env.local 12 -
+/api/constants.js 1 -
+/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif 2 https://www.digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif
+/* 1 -
+/stripe-keys.json 1 -
+/web/config/common.js 1 -
+/api/v2/debug 2 -
+/file-manager/initialize 1 -
+/software/install-updates.cgi 1 -
+/appsettings.Test.json 1 -
+/app/amplify.yaml 1 -
+/backend/constant.js 1 -
+/software/*.cgi 1 -
+/.git/hooks 1 -
+/metrics 2 -
+/.gitmodules 1 -
+/rest/settings 3 -
+/env.js 1 -
+/s3.yml 1 -
+/dnscfg.cgi 1 -
+/wp-json/wp/v2/migration/legacy-export 1 -
+/api/config.js 1 -
+/include/ckeditor/plugins/smiley/images/angel_smile.gif 1 https://www.digicard.idealgroups.org/include/ckeditor/plugins/smiley/images/angel_smile.gif
+/*/[slug] 1 -
+/ngsw.json 1 -
+/var/task/nuxt.config.ts 1 -
+/API.md 1 -
+/api/fn 2 -
+/integrations/* 1 -
+/openapi.json 1 -
+/api/aws/s3-check 1 -
+/aws/s3/env.env 1 -
+/api/v1/* 1 -
+/rest/credential-translation 1 -
+/docker-cloud.yml 1 -
+/_next/data/[build-id]/index.json 1 -
+/.env.save 7 -
+/staging/config/constants.js 1 -
+/API/config/constants.js 1 -
+/aws_s3_bucket 1 -
+/config.js 1 -
+/config.yaml 1 -
+/app/credentials.json 1 -
+/chat/* 1 -
+/phpinfo 1 -
+/admin/env 2 -
+/opt/mailcow-dockerized/mailcow.conf 1 -
+/admin/config 1 -
+/API/config/common.js 1 -
+/api/v1/debug 2 -
+/var/task/next.config.mjs 1 -
+/webmin/package-updates/update.cgi 1 -
+/blog 1 -
+/src/config/config.json 1 -
+/docker/overlay/config.json 1 -
+/.gitlab 1 -
+/api/v1/templates 1 -
+/actuator 2 -
+/.github/ISSUE_TEMPLATE 1 -
+/.env.aws 1 -
+/package-updates/download.cgi 1 -
+/v1/graphql 2 -
+/_next/data/[build-id]/config.json 1 -
+/credentials.csv 1 -
+/admin/.env 5 -
+/web/app.js 1 -
+/api/settings.py 1 -
+/notifications/* 1 -
+/API/config.js 1 -
+/rest/* 1 -
+/src/FileUpload.js 1 -
+/wp-json/gravitysmtp/v1/tests/mock-data 6 -
+/stripe.config.js 1 -
+/.env.testing 1 -
+/public/plugins/ckeditor/images/spacer.gif 2 https://www.digicard.idealgroups.org/public/plugins/ckeditor/images/spacer.gif
+/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif 2 https://www.digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif
+/web/constants.js 1 -
+/contact 4 https://digicard.idealgroups.org/contact
+/_next/data/[build-id]/admin.json 1 -
+/config.env 1 -
+/s3/bucket.env 1 -
+/waku/* 1 -
+/api/v1/status 2 -
+/api/config/common.js 1 -
+/root/.git-credentials 1 -
+/.git/objects/pack 1 -
+/..%5c..%5c..%5c..%5c..%5c..%5cvar/log/apache2/access.log 1 -
+/src/config/constants.js 1 -
+/config/environment.rb 1 -
+/.git/refs/heads/main 4 -
+/config/parameters.yml 1 -
+/constant.js 1 -
+/_next/static/* 1 -
+/servers/link.cgi 1 -
+/LOG.md 1 -
+/_next/static/chunks/framework.js.map 1 -
+/.gitlab-ci.yml 1 -
+/_next/static/chunks/pages/api/auth/[...nextauth].js.map 1 -
+/%2fbackend%2f.env 1 -
+/sa-key.json 1 -
+/api/config/constants.js 1 -
+/projects/* 1 -
+/checkout 4 https://digicard.idealgroups.org/checkout
+/var/task/netlify.toml 1 -
+/apis/index.js 1 -
+/src/config/common.js 1 -
+/plus/img/df_dedetitle.gif 1 https://www.digicard.idealgroups.org/plus/img/df_dedetitle.gif
+/api/config/env 1 -
+/_react/data/* 1 -
+/settings.ini 1 -
+/credentials.ini 1 -
+/software/update.cgi 1 -
+/.docker/config.json 1 -
+/.git-secret 1 -
+/root/.s3cfg 1 -
+/constants.ini 1 -
+/.env-sample 1 -
+/editor/* 1 -
+/trpc/* 1 -
+/api/node/constant.js 1 -
+/cms/* 1 -
+/__nextjs_action 1 -
+/app/amplify.yml 1 -
+/wp-content/debug.log 1 -
+/_waku/* 1 -
+/rest/login 1 -
+/app/.env.production 1 -
+/%2f.aws%2fcredentials 1 -
+/rest/node-types 1 -
+/docs/api.json 2 -
+/API/constants.js 1 -
+/.git/config 27 -
+/application_default_credentials.json 1 -
+/webpack-stats.json 1 -
+/articles/* 1 -
+/.git/logs/refs/remotes/origin/main 1 -
+/settings.json 1 -
+//idealgroups.org/digicard/public/js/coreui.bundle.min.js 3 -
+/wp-json/s3-offload/v1/debug-report 1 -
+/stripe-credentials.json 1 -
+/aws-exports.js 3 -
+/server/constants.js 1 -
+/stripe.yaml 1 -
+/.env-example 1 -
+/config/aws.ini 1 -
+/dashboard/* 1 -
+/heapdump 1 -
+/controller.js 1 -
+/server/config.js 1 -
+/admin/* 1 -
+/api/v1/workflows 1 -
+/prod/config.js 1 -
+/var/task/amplify/backend/function/*/src/index.js 1 -
+/api/v1/executions 1 -
+/server/app.js 1 -
+/../.env 1 -
+/firebase-service-account.json 2 -
+/.env.local.save 2 -
+/vendor/patchwork/utf8/README.md 2 -
+/statics/images/ext/dir.gif 2 https://digicard.idealgroups.org/statics/images/ext/dir.gif
+/api/inngest 2 -
+/s3/bucket 1 -
+/service-account-key.json 1 -
+/index.js 1 -
+/.git/logs/HEAD 4 -
+/.gitlab-ci 1 -
+/.vite/manifest.json 1 -
+/aws/buckets 1 -
+/api/debug 3 -
+/google-credentials.json 1 -
+/var/task/next.config.js 1 -
+/admin/utils.js 1 -
+/admin 5 -
+/var/task/vercel.json 1 -
+/%2f.env 1 -
+/_next/data/*/*.json 1 -
+/admin/config/common.js 1 -
+/.svn/entries 1 -
+/_next/static/development/_devPagesManifest.json 1 -
+/admin/dashboard 2 -
+/.git-askpass.sh 1 -
+/package-updates/refresh.cgi 1 -
+/app.js 1 -
+/threads/* 1 -
+/.git/FETCH_HEAD 3 -
+/webhook-waiting/* 1 -
+/firebase-credentials.json 1 -
+/appsettings.QA.json 1 -
+/blog/[year]/[month]/[slug] 1 -
+/config/constant.js 1 -
+/.env.test 4 -
+/config/env.js 1 -
+/app/next.config.js 1 -
+/config/aws.json 1 -
+/var/task/amplify.yaml 1 -
+/app/terraform.tfstate 1 -
+/profiler 1 -
+/.git/info/exclude 1 -
+/.s3cfg 3 -
+/var/task/amplify.yml 1 -
+/.well-known/* 1 -
+/.env.production.save 2 -
+/log.txt 1 -
+/servers/save.cgi 1 -
+/api/test 1 -
+/auth 3 https://digicard.idealgroups.org/auth
+/s3cmd.ini 2 -
+/api/handler 2 -
+/api/users/* 1 -
+/.github/workflows/ci.yml 1 -
+/package-updates/*.cgi 1 -
+/aws_credentials.ini 1 -
+/[locale]/* 1 -
+/webhook/* 1 -
+/api/templates/default 1 -
+/amplify/team-provider-info.json 1 -
+/root/.boto 1 -
+/s3.key 1 -
+/api/auth/* 1 -
+/_layouts/* 1 -
+/.git/logs/refs/heads/main 1 -
+/rest/executions 1 -
+/.git/objects 1 -
+/NOTES.md 1 -
+/backend/node/constant.js 1 -
+/old/aws_config 1 -
+/api/credentials 1 -
+/_next/static/chunks/main.js.map 1 -
+/constants.json 1 -
+/app/next.config.mjs 1 -
+/_next/static/chunks/pages/_app.js 1 -
+/settings.py 1 -
+/_next/data/latest/settings.json 1 -
+/firebase.json 1 -
+/admin/login 1 -
+/var/task/docker-compose.yml 1 -
+/aws.config.js 2 -
+/swagger.json 1 -
+/en/* 1 -
+/src/config/stripe.js 1 -
+/query 2 -
+/.git/info 1 -
+/rest/variables 1 -
+/_next/data/*/about.json 1 -
+/root/.aws/config 1 -
+/stats.json 1 -
+/.git/refs/remotes/origin/HEAD 1 -
+/plugins/payments/stripe.json 1 -
+/client_secrets.json 1 -
+/gcp-credentials.json 1 -
+/.env.1 1 -
+/credentials.json 3 -
+/console/* 1 -
+/.github/stale.yml 1 -
+/.netlify/functions/* 1 -
+/_vti_bin/* 1 -
+/account 2 -
+/_vercel/insights 1 -
+/.env.dev 5 -
+/app/config/development.ini 1 -
+/package-updates/perform.cgi 1 -
+/content/* 1 -
+/api/login 1 -
+/app/.env.local 3 -
+/home/*/.gitconfig 1 -
+/graphql 3 -
+/google-service-account.json 2 -
+/config/server.js 1 -
+/s3/buckets 1 -
+/.env.qa 1 -
+/signup 4 https://digicard.idealgroups.org/signup
+/.terraform/credentials.tfrc.json 1 -
+/.env.docker.dev 1 -
+/api/admin/debug 2 -
+/.well-known/stripe.txt 1 -
+/s3.properties 1 -
+/api/me 2 -
+/backend/index.js 1 -
+/.gitlab/issue_templates 1 -
+/serviceAccountKey.json 2 -
+/admin/config/database.js 1 -
+/docker/registry/config.yml 1 -
+/.git/refs/heads/master 3 -
+/.env.sample 3 -
+/server/config/common.js 1 -
+/api/v1/ping 2 -
+/app/.git/config 1 -
+/api/webhook/* 1 -
+/.github/PULL_REQUEST_TEMPLATE.md 1 -
+/.git/hooks/pre-commit 1 -
+/key.json 1 -
+/configs/application.ini 1 -
+/manage/* 1 -
+/.github 1 -
+/circle.yml 1 -
+/.env.dev.local 2 -
+/api/functions 1 -
+/admin/config/constants.js 1 -
+/_react/action/* 1 -
+/app/config/parameters.yml.dist 1 -
+/_next/static/chunks/webpack.js.map 1 -
+/actuator/env/cloud 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 72
+195.178.110.135 18 18 362657 20260510020145
+195.178.110.155 6 6 5183 20260509224952
+176.65.139.168 4 4 13256 20260509133838
+153.75.250.144 4 4 3945 20260516153519
+176.65.139.237 4 4 13248 20260531122917
+213.209.159.229 4 4 3333 20260508171321
+176.65.139.231 3 3 9954 20260531012640
+207.241.173.41 3 3 3107 20260527135548
+208.84.100.197 3 3 3110 20260513154229
+176.65.139.235 3 3 9946 20260527002418
+195.178.110.105 3 3 3108 20260506055237
+176.65.139.229 2 2 6620 20260529111918
+1.32.219.175 2 2 4347 20260516041747
+34.193.251.180 2 2 2089 20260515091915
+3.151.194.164 2 2 2072 20260528024132
+66.132.195.77 2 2 2080 20260527104104
+176.65.139.238 2 2 6628 20260521140216
+176.65.139.233 2 2 6628 20260523083226
+181.233.125.233 2 2 2081 20260505213422
+103.168.66.141 2 2 2071 20260505164834
+176.65.139.239 2 2 6628 20260522212415
+178.62.232.250 1 1 1038 20260516093752
+134.122.13.69 1 1 1047 20260506124822
+168.144.93.99 1 1 1047 20260506122503
+176.65.139.236 1 1 3318 20260512165227
+107.170.52.83 1 1 1036 20260505000648
+66.132.172.142 1 1 1033 20260527090909
+35.221.33.241 1 1 1047 20260512035154
+45.55.91.173 1 1 1048 20260504151030
+66.132.224.90 1 1 1034 20260524173300
+176.65.139.234 1 1 3310 20260527112635
+3.18.186.238 1 1 1039 20260520045630
+195.178.110.103 1 1 1038 20260505062035
+199.45.154.143 1 1 1042 20260511234259
+208.84.100.18 1 1 1035 20260518123007
+3.233.88.40 1 1 1037 20260514175943
+66.132.195.98 1 1 1033 20260510095519
+87.236.176.88 1 1 1047 20260502103402
+34.214.12.77 1 1 1047 20260523173844
+205.169.39.27 1 1 1045 20260515221623
+205.169.39.17 1 1 1040 20260515221519
+66.132.195.122 1 1 1046 20260519181517
+5.182.207.245 1 1 1046 20260530061445
+23.94.133.71 1 1 1042 20260520193812
+45.148.10.204 1 1 1045 20260523011813
+104.28.196.77 1 1 1043 20260520022140
+104.218.52.176 1 1 1038 20260529073631
+208.84.101.238 1 1 1036 20260523071447
+195.178.110.48 1 1 1045 20260522071733
+3.216.193.107 1 1 1046 20260531004112
+66.132.172.39 1 1 1037 20260517114418
+38.43.93.182 1 1 1036 20260521142933
+34.17.155.194 1 1 1046 20260512051839
+45.148.10.16 1 1 1043 20260520101904
+180.93.228.225 1 1 1038 20260528214647
+103.148.150.234 1 1 3318 20260511123424
+139.59.186.171 1 1 1044 20260530140957
+101.201.58.111 1 1 3310 20260528143133
+216.26.230.84 1 1 1043 20260519221413
+72.11.155.223 1 1 1044 20260503133536
+138.197.34.138 1 1 1035 20260502131500
+69.164.253.76 1 1 1042 20260531060908
+208.115.211.186 1 1 1044 20260501161518
+208.84.100.152 1 1 1043 20260506194026
+208.84.100.207 1 1 1046 20260511014554
+205.210.31.14 1 1 3318 20260512184319
+185.247.137.188 1 1 1038 20260513161000
+34.95.139.199 1 1 1043 20260510085701
+205.210.31.6 1 1 3318 20260516151841
+134.122.49.16 1 1 1044 20260520110120
+205.210.31.149 1 1 3310 20260512132825
+185.213.174.98 1 1 1046 20260522081923
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20260501 2 2 2075 2
+20260502 2 2 2082 2
+20260503 2 2 2079 2
+20260504 4 4 5630 3
+20260505 9 9 11607 8
+20260506 4 4 4174 4
+20260508 2 2 4356 2
+20260509 7 7 8493 2
+20260510 21 21 365778 4
+20260511 4 4 6442 4
+20260512 5 5 12039 5
+20260513 5 5 7458 3
+20260514 3 3 7665 3
+20260515 3 3 3129 3
+20260516 9 9 15966 5
+20260517 2 2 4347 2
+20260518 2 2 4353 2
+20260519 3 3 5399 3
+20260520 5 5 5211 5
+20260521 3 3 7664 3
+20260522 3 3 5409 3
+20260523 4 4 6438 4
+20260524 2 2 4352 2
+20260525 1 1 3310 1
+20260527 7 7 11813 5
+20260528 3 3 5384 3
+20260529 3 3 7666 3
+20260530 2 2 2090 2
+20260531 4 4 8716 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 2
+0s-30s 91
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 118 190875 94 92
+/vendor/laravel/framework/README.md 2 3497 0 0
+/login 2 2075 0 1
+/vendor/composer/installed.json 1 342548 0 0
+/password/reset 1 834 0 0
+/.env.example 1 1069 0 0
+/.gitignore 1 227 0 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+500-1K 72
+5K+ 88
+100-500 586
+1K-2K 106
+2K-5K 844
+44-100 107
+0-44 3
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

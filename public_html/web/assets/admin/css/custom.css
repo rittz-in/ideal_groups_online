@@ -1,0 +1,46 @@
+.aside-dark .menu .menu-item.here>.menu-link .menu-icon .svg-icon svg [fill]:not(.permanent):not(g), .aside-dark .menu .menu-item.show>.menu-link .menu-icon .svg-icon svg [fill]:not(.permanent):not(g) {
+
+    fill: #ffffff;
+
+}
+
+
+
+.aside-dark .menu .menu-item.here>.menu-link, .aside-dark .menu .menu-item.show>.menu-link {
+
+    background-color: #009ef7;
+
+
+
+
+
+}
+
+
+
+.aside-dark .menu .menu-item .menu-link.active {
+
+    background-color: rgb(255 255 255 / 10%);
+
+}
+
+
+
+.mt30 {
+
+	margin-top: 30px;
+
+}
+
+.action-width {
+    width: 150px !important;
+    text-color:#000 !important;
+    text-decoration: :none !important;
+}
+
+
+.mb30 {
+
+	margin-bottom: 30px;
+
+}

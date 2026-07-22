@@ -1,0 +1,84 @@
+.banner-inner h1 {
+  font-size: 65px;
+  font-weight: 700;
+  text-transform: capitalize;
+  text-align: center;  
+}
+.icon-right{
+	font-size: 32px;
+    padding: 0px 15px;	
+}
+.breadcrumb-item a {
+	color: #fff !important;
+	font-size: 18px;
+	font-weight: 600;
+}
+.breadcrumb-item a:hover{
+	color: #BF3D28 !important;
+}
+
+.breadcrumb .breadcrumb-item.active {
+	color: #BF3D28 !important;
+	font-size: 18px;
+	font-weight: 600;
+	text-decoration: none;
+}
+.aboutMain{
+    padding-left: 55px;
+}
+.aboutMain h2{
+	padding-bottom: 15px;
+	text-transform: capitalize;	
+}
+.aboutMain p{
+	line-height: 20px;
+}
+.aboutImage{
+	max-width: 100%;
+}
+.count-percentage{
+	font-size: 45px;
+	font-weight: 700;
+	color: #293043;
+	font-family: 'Kumbh Sans', sans-serif;
+	padding-top: 6px;
+	padding-bottom: 12px;
+}
+.textSpace{
+	padding-top: 3px;
+}
+.counter-title{
+	color: #C03D29;
+	font-weight: 500;
+}
+.statistics-four-counters .counter-item {
+	padding: 40px 40px 25px;
+}
+.profileInformation h4{
+	text-transform: uppercase;
+}
+.profileInformation h6{
+	color: #C03D29;
+}
+.profileInformation p{
+	text-align: justify;
+}
+.aboutExperience{
+	font-size: 40px;
+	text-transform: capitalize;
+}
+.callMain h2{
+	font-size: 40px;
+	text-transform: capitalize;	
+}
+
+/* media query */
+@media only screen and (max-width: 992px) {
+	.aboutMain {
+		padding-left: 10px;
+		padding-top: 45px;
+	}
+	.profileInformation h4 {
+		padding-top: 20px;
+	}
+}

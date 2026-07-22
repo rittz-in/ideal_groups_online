@@ -1,0 +1,127 @@
+.top-header {
+  background-color: $primary;
+  min-height: 50px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  z-index: 11;
+  .top-links {
+    @include media-breakpoint-down(md) {
+      flex-direction: column;
+      align-items: center;
+      padding: 10px 0;
+    }
+
+    @include media-breakpoint-down(md) {
+      .contact-links {
+        display: flex;
+        a {
+          padding-left: 0;
+        }
+      }
+      .social-links {
+        display: none;
+      }
+    }
+    a {
+      color: $white;
+      padding: 0 15px;
+      text-decoration: none;
+      transition: all 0.15s ease-in-out;
+      &:hover {
+        color: $footer-title;
+      }
+      span {
+        padding-left: 10px;
+      }
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+  }
+}
+
+header {
+  background-color: $white;
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 11;
+  &.darkHeader {
+    box-shadow: 1px 0px 5px $box-shadow;
+  }
+  .navbar {
+    padding: 0;
+    @include media-breakpoint-down(lg) {
+      padding: 0;
+    }
+    .navbar-brand {
+      img {
+        @include media-breakpoint-down(xl) {
+          max-width: 160px;
+        }
+      }
+    }
+    .navbar-toggler {
+      border-color: transparent;
+      &:focus {
+        box-shadow: none;
+      }
+    }
+    .navbar-collapse {
+      @include media-breakpoint-down(lg) {
+        position: absolute;
+        top: 100%;
+        background: rgb(255, 255, 255);
+        width: 100%;
+        left: 0px;
+        right: 0px;
+        margin: auto;
+      }
+      .navbar-nav {
+        @include media-breakpoint-down(lg) {
+          align-items: center;
+        }
+        li {
+          @include media-breakpoint-down(lg) {
+            width: 100%;
+          }
+          &.active {
+            a {
+              color: $white;
+              background-color: $primary;
+              &:hover {
+                background-color: $blue-color;
+              }
+            }
+          }
+          a {
+            display: inline-flex;
+            color: $secondary;
+            font-weight: 600;
+            padding: 40px 20px;
+            text-transform: uppercase;
+            transition: all 0.15s ease-in-out;
+            &:hover {
+              background-color: $card-bg;
+            }
+            @include media-breakpoint-down(xl) {
+              font-size: 16px;
+            }
+            @include media-breakpoint-down(lg) {
+              padding: 20px;
+              display: block;
+              text-align: center;
+            }
+            @include media-breakpoint-down(md) {
+              padding: 10px;
+              font-size: 14px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,610 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202412 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.ugi.net.in.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2024                
+POS_TIME 2699                
+POS_VISITOR 16843               
+POS_DAY 17212               
+POS_DOMAIN 3413                
+POS_LOGIN 3675                
+POS_ROBOT 3830                
+POS_WORMS 4307                
+POS_EMAILSENDER 4438                
+POS_EMAILRECEIVER 4581                
+POS_SESSION 17882               
+POS_SIDER 18093               
+POS_FILETYPES 4716                
+POS_DOWNLOADS 4866                
+POS_OS 4914                
+POS_BROWSER 5069                
+POS_SCREENSIZE 5254                
+POS_UNKNOWNREFERER 5328                
+POS_UNKNOWNREFERERBROWSER 5466                
+POS_ORIGIN 5599                
+POS_SEREFERRALS 5733                
+POS_PAGEREFS 5877                
+POS_SEARCHWORDS 6025                
+POS_KEYWORDS 6177                
+POS_MISC 2363                
+POS_ERRORS 6236                
+POS_CLUSTER 3531                
+POS_SIDER_404 6406                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250101064523 7 1104 10978497007601
+FirstTime 20241201043427
+LastTime 20241231233908
+LastUpdate 20250101183619 7 0 6 0 0
+TotalVisits 232                 
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 8                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 19 19 0 42 48 91422
+1 14 14 0 23 24 1545
+2 13 13 53712 27 29 332377
+3 18 18 0 303 303 8480539
+4 18 18 0 23 30 11414
+5 21 21 53712 142 144 581537
+6 17 17 514 19 20 15090
+7 26 26 0 315 321 8357417
+8 17 17 0 20 22 10422
+9 24 24 0 92 104 511977
+10 22 22 0 50 53 68851
+11 14 21 809759 17 17 0
+12 21 21 0 72 72 219483
+13 27 27 0 379 382 8928239
+14 30 31 35623 52 70 255114
+15 33 33 0 326 329 8481652
+16 12 12 0 54 58 418290
+17 21 21 0 35 40 43205
+18 15 15 0 31 35 52522
+19 21 22 111433 30 35 112588
+20 29 29 0 340 348 8797195
+21 21 21 0 38 43 55221
+22 23 23 0 34 39 80236
+23 18 18 0 21 21 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+in 487 487 0
+us 4 13 957329
+ru 2 2 107424
+de 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Googlebot/ 29 3103 20241231070654 29
+unknown 10 1070 20241231080447 10
+bot[\s_+:,\.\;\/\\-] 9 963 20241221091327 9
+facebookexternalhit/ 7 765 20241226190843 7
+Apache\-HttpClient/ 6 1014 20241230071507 0
+Pinterestbot 5 535 20241226175544 5
+Go\-http\-client/ 1 0 20241216050706 0
+Velen 1 107 20241229020333 1
+no_user_agent 1 1250 20241228024259 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+woff2 1 223892 0 0
+html 3 146916 0 0
+js 1 111433 0 0
+css 8 581998 0 0
+php 490 514 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+win10 9 2
+androidnougat 3 2
+macosx10 1 0
+linux 1 1
+win8.1 1 1
+android 1 1
+Unknown 487 487
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+Unknown 487 487
+firefox51.0 1 1
+chrome39.0.2171.95 1 0
+chrome131.0.0.0 9 2
+firefox48.0 1 1
+chrome60.0.3112.107 3 2
+chrome109.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+WordPress/6.7.1;_https://ugi.net.in 20241231233908
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WordPress/6.7.1;_https://ugi.net.in 20241231233908
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 493 501
+From1 1 2
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+406 92 20792
+500 2 0
+401 6 660
+404 1468 45390810
+409 32 6338
+403 114 478929
+302 7 0
+301 797 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 299
+/BACKUP/installer.php 1 www.google.com
+/forum/installer.php 1 www.google.com
+/libraries/legacy/updates.php 10 -
+/alfanew.php 10 -
+/laravel/.env.staging 1 -
+/wp-content/themes/wp-pridmag/init.php 1 http://ugi.net.in///wp-content/themes/wp-pridmag/init.php
+/wp-emoji-release.min.js 1 -
+/hehehehe.php 1 http://ugi.net.in///hehehehe.php
+/bs2.php 1 http://ugi.net.in///bs2.php
+/wp-includes/js/crop/uword.php 3 -
+/wp-admin/maint/maint/ajax-actions.php 10 -
+/file/function.php 1 http://ugi.net.in///file/function.php
+/wp-content/plugins/elementor/includes/settings/ 2 http://ugi.net.in///wp-content/plugins/elementor/includes/settings/
+/alfa-rex2.php7 10 -
+/wp-admin/js/about.php 20 -
+/wp-content/plugins/Cache/Cache.php 10 -
+/wp-content/plugins/download-plugin/wp-access.php 1 http://ugi.net.in///wp-content/plugins/download-plugin/wp-access.php#fm_admin
+/new/installer.php 1 www.google.com
+/libraries/phpmailer/updates.php 10 -
+/libraries/vendor/updates.php 10 -
+/wp-content/themes/ccx/ 1 -
+/wp-consar.php 10 -
+/wp-content/themes/pridmag/db.php 11 -
+/css/cloud.php 10 -
+/wp-content/upgrade-temp-backup/about.php 10 -
+/cache-compat.php 10 -
+/wp-admin/includes/about.php 10 -
+/blog/ 1 -
+/ajax-actions.php 10 -
+/old/installer.php 1 www.google.com
+/2017/installer.php 1 www.google.com
+/gel4y.php 1 http://ugi.net.in///gel4y.php
+/wp-pano.php 1 http://ugi.net.in///wp-pano.php#gyWpLHKN@YZVlYfiI
+/moon.php 1 http://ugi.net.in///moon.php
+/index.html 2 -
+/cgi-bin/cloud.php 10 -
+/wp-content/plugins/linkpreview/db.php 11 -
+/blog 1 -
+/media/system/js/core.js 1 -
+/2014/installer.php 1 www.google.com
+/wp-p.php7 10 -
+/wp-admin/network/xmrlpc.php 10 -
+/wp-content/item.php 3 -
+/css/ 1 http://ugi.net.in///css/index.php
+/wp-config 1 -
+/wordpress/installer.php 1 www.google.com
+/wp-content/uploads/2017-------/09/wp-console.php 3 -
+/wp-content/plugins/awesome-coming-soon/come.php 10 -
+/wsoyanz.php 10 -
+/STORE/installer.php 1 www.google.com
+/.well-known/pki-validation/cloud.php 10 -
+/wp-content/plugins/ph-file-manager/wp-file.php 3 -
+/wp-content/languages/about.php 10 -
+/about.php7 10 -
+/wp-l0gin.php 6 -
+/worksec.php 1 http://ugi.net.in///worksec.php
+/radio.php 2 -
+/Blog/installer.php 1 www.google.com
+/.well-known/about.php 10 -
+/atomlib.php 1 http://ugi.net.in///atomlib.php
+/epinyins.php 3 -
+/alfa-rex.php7 10 -
+/wp-admin/images/cloud.php 10 -
+/wp-admin/css/colors/blue/xmrlpc.php 10 -
+/wp-content/themes/seotheme/mar.php 11 -
+/tmpls.php 1 -
+/wp-admin/ajax-actions.php 10 -
+/wp-includes/style-engine/about.php 10 -
+/images/cloud.php 10 -
+/lara/phpinfo.php 1 -
+/ugi 1 www.google.com
+/DEMO/installer.php 1 www.google.com
+/wp-content/themes/jaida/lang.php 3 -
+/lara/info.php 1 -
+/wp-content/tmpls.php 1 http://ugi.net.in///wp-content/tmpls.php
+/alfanew.php7 10 -
+/ext.php 3 -
+/wp-content/plugins/wp-theme-editor/include.php 11 -
+/wp-links.php 3 -
+/luuuf.php 1 http://ugi.net.in///luuuf.php#lufix
+/delete3.php 1 http://ugi.net.in///delete3.php
+/wp-includes/css/dist/niil.php 1 http://ugi.net.in///wp-includes/css/dist/niil.php
+/cgi-bin/about.php 10 -
+/wp-content/x.php 1 http://ugi.net.in///wp-content/x.php
+/phpinfo.php 1 -
+/img/xmrlpc.php 10 -
+/test/installer.php 1 www.google.com
+/.well-known/security.txt 1 http://www.ugi.net.in/.well-known/security.txt
+/wp-includes/Text/about.php 10 -
+/laravel/core/.env.production 1 -
+/wp-admin/dropdown.php 13 -
+/file-manager 1 -
+/wp-admin/images/Mhbgf.php 1 -
+/wp-aa.php 3 -
+/wp-content/blogs.dir/about.php 10 -
+/wp-content/plugins/seoplugins/db.php 10 -
+/wp-content/uploads/2020/wp-couldent.php.suspected 3 -
+/wordpress/ 1 -
+/wp-content/plugins/seoplugins/mar.php 10 -
+/wp-admin/user/cloud.php 8 -
+/wp-content/wso.php 1 http://ugi.net.in///wp-content/wso.php#UEjlZcWL
+/admin/laravel-filemanager 1 -
+/autoload_classmap.php 3 -
+/alfanew2.php7 10 -
+/security.txt 1 http://www.ugi.net.in/security.txt
+/ebs.php7 10 -
+/fm.php 1 http://ugi.net.in///fm.php#xleet
+/wp-admin/images/xmrlpc.php 10 -
+/2020/installer.php 1 www.google.com
+/wp-includes/widgets/about.php 10 -
+/wp-content/uploads/2014/07/olx.php 3 -
+/x.php 1 http://ugi.net.in///x.php
+/wp-content/banners/about.php 10 -
+/laravel/core/.env.staging 1 -
+/backup/installer.php 1 www.google.com
+/wp 1 -
+/.well-known/acme-challenge/xmrlpc.php 11 -
+/wp-admin/css/colors/blue/cloud.php 10 -
+/store/installer.php 1 www.google.com
+/WP/installer.php 1 www.google.com
+/wp-admin/js/widgets/about.php7 10 -
+/2019/installer.php 1 www.google.com
+/index/function.php 1 http://ugi.net.in///index/function.php
+/filemanager 1 -
+/yanz.php 10 -
+/util/login.aspx 1 -
+/wp-admin/includes/xmrlpc.php 10 -
+/wp-content/themes/hideo/network.php 1 http://ugi.net.in///wp-content/themes/hideo/network.php
+/item.php 1 http://ugi.net.in///item.php
+/content.php 10 -
+/chosen.php 2 -
+/wp-includes/ID3/about.php 10 -
+/wp-content/themes/digital-download/new.php 4 -
+/images/about.php 10 -
+/wp-admin/images/about.php 10 -
+/cloud.php 10 -
+/humans.txt 1 http://www.ugi.net.in/humans.txt
+/old 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 5 -
+/wp-content/mah.php 3 -
+/ws.php7 10 -
+/wp-admin/css/colors/coffee/xmrlpc.php 10 -
+/wp-content/plugins/wp-help/mini.php 3 -
+/wp-content/gallery/about.php 10 -
+/new 1 -
+/wp-content/plugins/fix/up.php 3 -
+/wp/installer.php 1 www.google.com
+/wp-includes.bak/html-api/about.php 10 -
+/backup/ 1 -
+/wp-includes/pomo/about.php 10 -
+/simple.php 2 -
+/wp-admin/js/widgets/cloud.php 10 -
+/wp-includes/SimplePie/about.php 11 -
+/wp-admin/css/colors/xmrlpc.php 10 -
+/wp-conflg.php 1 http://ugi.net.in///wp-conflg.php
+/wp-content/plugins/root-file-manager/wp-file.php 3 -
+/phpinfo 1 -
+/wp-includes/blocks/about.php 10 -
+/wp-content/themes/travelscape/json.php 4 -
+/wp-content/plugins/TOPXHOH/wDR.php 1 -
+/about.php 14 -
+/ads.txt 2 http://www.ugi.net.in/ads.txt
+/New/installer.php 1 www.google.com
+/wp-includes/repeater.php 10 -
+/new/.env.production 1 -
+/wp-includes/block-patterns/about.php 10 -
+/laravel-filemanager 1 -
+/avaa.php 10 -
+/wp-content/themes/about.php 10 -
+/.well-known/pki-validation/about.php 10 -
+/testing 1 -
+/wp-content/updraft/about.php 10 -
+/%0A 2 https://www.google.com/
+/wp-includes/SimplePie/Content/ 1 http://ugi.net.in///wp-includes/SimplePie/Content/index.php
+/wp-content/json.php 1 http://ugi.net.in///wp-content/json.php
+/BLOG/installer.php 1 www.google.com
+/repeater.php 11 -
+/backend/filemanager 1 -
+/old/ 1 -
+/wp-seo.php 1 http://ugi.net.in///wp-seo.php
+/new/ 1 -
+/wp-admin/includes/cloud.php 10 -
+/403.php 10 -
+/wp-content/plugins/pwnd/pwnd.php 3 -
+/wp-admin/network/cloud.php 10 -
+/wp-content/plugins/wp-conflg.php 10 -
+/.well-known/pki-validation/xmrlpc.php 10 -
+/test 1 -
+/wp-includes/Requests/Text/admin.php 10 -
+/laravel/.env.production 1 -
+/admin.php 21 -
+/img/about.php 10 -
+/wp-content/plugins/seoo/wsoyanz1.php 10 -
+/cgi-bin/xmrlpc.php 10 -
+/xmrlpc.php 10 -
+/wp-content/repeater.php 10 -
+/xxx.php 1 -
+/wp-content/themes/themes/Cyb3r.php 1 http://ugi.net.in///wp-content/themes/themes/Cyb3r.php
+/WORDPRESS/installer.php 1 www.google.com
+/backend/file-manager 1 -
+/_profiler/phpinfo/info.php 1 -
+/rx.php 1 http://ugi.net.in///rx.php#lufix
+/.well-known/acme-challenge/cloud.php 20 -
+/2012/installer.php 1 www.google.com
+/core 1 -
+/wp-admin/user/xmrlpc.php 8 -
+/updates.php 10 -
+/Backup/installer.php 1 www.google.com
+/new/.env.local 1 -
+/go.php 1 http://ugi.net.in///go.php
+/test/ 1 -
+/images/xmrlpc.php 10 -
+/ofso64.php 1 -
+/wp-content/themes/aahana/json.php 10 -
+/wp-includes/widgets/include.php 1 http://ugi.net.in///wp-includes/widgets/include.php#admin
+/2010/installer.php 1 www.google.com
+/0x.php 1 http://ugi.net.in///0x.php
+/wp-includes/rest-api/about.php 10 -
+/wp-includes/PHPMailer/load.php 3 -
+/admin/function.php 1 http://ugi.net.in///admin/function.php
+/wp-content/plugins/seoo/wsoyanz.php 10 -
+/sym.php 1 http://ugi.net.in///sym.php
+/dropdown.php 14 -
+/laravel/info.php 1 -
+/mar.php 1 http://ugi.net.in///mar.php
+/berlin.php 10 -
+/img/cloud.php 10 -
+/public/filemanager 1 -
+/Ugi 1 www.google.com
+/wp-admin/css/colors/coffee/cloud.php 10 -
+/home/installer.php 1 www.google.com
+/2016/installer.php 1 www.google.com
+/wp-admin/css/ysirlifn.php 1 -
+/wp-content/plugins/shell/about.php 3 -
+/luuf.php 1 http://ugi.net.in///luuf.php#lufix
+/ 6 https://www.google.com
+/site/installer.php 1 www.google.com
+/wp-includes/customize/about.php 10 -
+/wp-content/themes/seotheme/db.php 10 -
+/backend/laravel-filemanager 1 -
+/wp-admin/css/colors/cloud.php 10 -
+/Demo 1 www.google.com
+/fex.php 1 http://ugi.net.in///fex.php
+/_phpinfo.php 1 -
+/2009/installer.php 1 www.google.com
+/wp-content/plugins/simple/simple.php 11 -
+/ioxi02.php 1 http://ugi.net.in///ioxi02.php
+/xampp/phpinfo.php 1 -
+/install.php 2 http://ugi.net.in///install.php
+/wp-admin/repeater.php 10 -
+/wp-includes/Requests/about.php 10 -
+/admin/filemanager 1 -
+/magento_version 1 -
+/lv.php 1 http://ugi.net.in///lv.php
+/wp-admin/cloud.php 10 -
+/wp-admin/js/widgets/xmrlpc.php 10 -
+/admin-post.php 10 -
+/ioxi002.PhP7 1 -
+/wp-content/updates.php 10 -
+/WordPress/installer.php 1 www.google.com
+/wp-includes/about.php 10 -
+/_profiler/phpinfo/phpinfo.php 1 -
+/FORUM/installer.php 1 www.google.com
+/bless.php 1 http://ugi.net.in///bless.php#888xyz999
+/installer.php 1 www.google.com
+/demo/installer.php 1 www.google.com
+/cong.php 2 -
+/new/.env.staging 1 -
+/public/laravel-filemanager 1 -
+/shop/installer.php 1 www.google.com
+/_profiler/phpinfo 1 -
+/wander.php 1 http://ugi.net.in///wander.php
+/newsite 1 -
+/css/xmrlpc.php 10 -
+/wp-content/plugins/523453244/ninja.php 3 -
+/laravel/core/.env.local 1 -
+/aws-secret.yaml 1 -
+/wp-includes/images/about.php 10 -
+/Njima.php 1 -
+/SHOP/installer.php 1 www.google.com
+/2015/installer.php 1 www.google.com
+/wp-content/plugins/not/includes/about.php 11 -
+/xx.php 3 -
+/2018/installer.php 1 www.google.com
+/laravel/.env.local 1 -
+/NEW/installer.php 1 www.google.com
+/blog/installer.php 1 www.google.com
+/wp/ 1 -
+/adminfuns.php7 10 -
+/wp-content/about.php 10 -
+/wp-content/themes/travel/issue.php 6 -
+/2013/installer.php 1 www.google.com
+/en 2 -
+/wp-content/plugins/IOptimize.php 1 -
+/wp-admin/css/about.php 10 -
+/wordpress 1 -
+/wp-content/themes/bltm/wp-login.php 2 -
+/wp-admin/xmrlpc.php 10 -
+/wp-includes/IXR/about.php 10 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 8
+119.18.54.35 487 487 0 20241231233908
+35.200.233.226 2 9 809759 20241220114706
+89.208.105.220 1 1 53712 20241222055613
+62.146.182.93 1 1 0 20241218220225
+157.230.249.165 1 1 0 20241204090101
+165.22.252.197 1 2 36137 20241206065731
+94.228.162.228 1 1 53712 20241215025526
+34.140.219.63 0 1 111433 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20241201 11 11 0 6
+20241202 21 21 0 6
+20241203 17 17 0 10
+20241204 22 22 0 9
+20241205 13 14 35623 6
+20241206 11 11 514 6
+20241207 14 14 0 8
+20241208 12 12 0 8
+20241209 13 13 0 7
+20241210 11 11 0 9
+20241211 24 25 111433 7
+20241212 18 18 0 6
+20241213 15 15 0 7
+20241214 14 14 0 6
+20241215 20 20 53712 13
+20241216 15 15 0 6
+20241217 14 14 0 6
+20241218 14 14 0 6
+20241219 8 8 0 4
+20241220 28 35 809759 10
+20241221 14 14 0 8
+20241222 16 16 53712 9
+20241223 21 21 0 7
+20241224 26 26 0 10
+20241225 18 18 0 7
+20241226 16 16 0 8
+20241227 14 14 0 6
+20241228 17 17 0 10
+20241229 8 8 0 8
+20241230 20 20 0 10
+20241231 9 9 0 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 44
+15mn-30mn 14
+30s-2mn 3
+2mn-5mn 13
+0s-30s 116
+30mn-1h 35
+5mn-15mn 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/wp-cron.php 488 0 227 227
+/ 2 107424 2 2
+/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 1 223892 1 0
+//wp-admin/install.php 1 514 1 1
+/wp-content/index.php 1 0 1 1
+/contact/ 1 39492 0 1
+END_SIDER

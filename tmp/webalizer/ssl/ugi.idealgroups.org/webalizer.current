@@ -1,0 +1,384 @@
+# Webalizer V2.23-08 Incremental Data - 07/20/2026 19:07:25
+2026 7 20 19 7 25
+294 0 50 0 3 45 90935 89 49 0
+8 1 155 1 20
+3 0 1293 2 1 1
+0 0 0 0 0 0
+60 0 17305 2 12 2
+0 0 0 0 0 0
+3 0 1065 3 2 2
+5 0 1646 3 3 3
+7 0 2812 6 5 5
+2 0 809 2 1 1
+2 0 809 2 1 1
+157 0 44520 3 30 2
+7 0 2183 6 4 4
+6 0 2556 5 3 3
+3 0 1072 3 3 3
+10 0 3976 9 7 7
+3 0 1065 3 2 2
+6 0 2328 5 3 3
+3 0 1065 2 1 1
+7 0 2683 5 5 3
+0 0 0 0 0 0
+10 0 3748 8 6 6
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 0 807 3
+5 0 1874 2
+1 0 355 1
+5 0 1388 1
+4 0 2104 4
+2 0 710 0
+3 0 1293 1
+156 0 43937 29
+2 0 452 0
+4 0 1655 3
+1 0 583 1
+64 0 19151 15
+1 0 583 1
+4 0 1019 2
+7 0 2713 6
+3 0 936 1
+2 0 581 1
+1 0 355 1
+3 0 1164 2
+11 0 4331 7
+2 0 938 1
+2 0 938 1
+5 0 2003 4
+3 0 1065 2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+47
+146
+0
+93
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+# End Of Table - urls
+# -sites- (monthly)
+94.154.43.186
+0 2 0 1166 2 1784546398
+-
+94.154.43.229
+0 2 0 452 0 0
+-
+205.210.31.183
+0 1 0 583 1 1784069629
+-
+ec2-35-86-202-156.us-west-2.compute.amazonaws.com
+0 2 0 710 1 1783351444
+-
+94.154.43.183
+0 3 0 1035 1 1784030353
+-
+146.190.117.4
+0 2 0 710 1 1783088100
+-
+36.116.86.172.static.cloudzy.com
+0 1 0 355 0 0
+-
+ec2-100-57-135-227.compute-1.amazonaws.com
+0 1 0 355 1 1784067629
+-
+scan.visionheight.com
+0 3 0 1065 3 1784547117
+-
+198.235.24.88
+0 1 0 583 1 1783428108
+-
+104.28.236.176
+0 155 0 43711 1 1783668557
+-
+94.154.43.185
+0 1 0 583 1 1784371595
+-
+1a1.crawl.securitytrails.com
+0 1 0 362 1 1783934195
+-
+67.155.45.199.censys-scanner.com
+0 1 0 355 1 1783467558
+-
+91.92.241.196
+0 4 0 1420 0 0
+-
+ec2-54-152-106-37.compute-1.amazonaws.com
+0 1 0 355 1 1784056966
+-
+94.154.43.188
+0 4 0 1618 2 1784201752
+-
+ec2-35-83-252-63.us-west-2.compute.amazonaws.com
+0 2 0 710 1 1783394109
+-
+132.154.45.199.censys-scanner.com
+0 1 0 355 1 1783468124
+-
+94.154.43.184
+0 6 0 2427 3 1784574445
+-
+142.172.132.66.censys-scanner.com
+0 1 0 355 1 1784154151
+-
+154.134.185.35.bc.googleusercontent.com
+0 1 0 355 0 0
+-
+148.242.142.34.bc.googleusercontent.com
+0 1 0 355 0 0
+-
+144.126.223.194
+0 2 0 710 1 1783365191
+-
+123.154.45.199.censys-scanner.com
+0 1 0 355 1 1783275134
+-
+ec2-34-243-144-170.eu-west-1.compute.amazonaws.com
+0 1 0 226 1 1783728439
+-
+94.154.43.179
+0 1 0 226 0 0
+-
+165.232.139.48
+0 2 0 710 1 1784293532
+-
+94.154.43.177
+0 3 0 1035 1 1784001606
+-
+105.9.113.136.bc.googleusercontent.com
+0 1 0 355 1 1783731551
+-
+205.210.31.168
+0 1 0 583 1 1782914794
+-
+205.210.31.41
+0 1 0 583 1 1783804166
+-
+104.28.243.189
+0 58 0 16595 1 1783077904
+-
+116.178.124.34.bc.googleusercontent.com
+0 1 0 355 0 0
+-
+104.248.124.16
+0 1 0 355 0 0
+-
+ec2-100-58-73-231.compute-1.amazonaws.com
+0 1 0 355 1 1784067735
+-
+66.187.5.104.hostodo.com
+0 1 0 355 1 1783916674
+-
+202.186.132.66.censys-scanner.com
+0 1 0 355 1 1784144423
+-
+107-173-171-201-host.colocrossing.com
+0 2 0 710 1 1784509271
+-
+94.154.43.187
+0 6 0 2784 4 1784399920
+-
+167.99.120.141
+0 2 0 710 1 1784540904
+-
+2.164.16.34.bc.googleusercontent.com
+0 1 0 355 0 0
+-
+243.200.204.35.bc.googleusercontent.com
+0 1 0 226 1 1783343990
+-
+173.239.218.151
+0 1 0 83 0 0
+-
+ec2-18-201-51-181.eu-west-1.compute.amazonaws.com
+0 1 0 226 1 1783730238
+-
+74.155.45.199.censys-scanner.com
+0 1 0 355 1 1784168180
+-
+ec2-52-54-96-193.compute-1.amazonaws.com
+0 1 0 355 1 1784057283
+-
+ec2-13-219-67-125.compute-1.amazonaws.com
+0 1 0 355 1 1784565699
+-
+205.210.31.236
+0 1 0 583 1 1783838860
+-
+65.110.40.138
+0 3 0 1065 1 1784386177
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+94.154.43.186
+0 1 0 583 1 1784546398
+-
+scan.visionheight.com
+0 1 0 355 1 1784547117
+-
+94.154.43.184
+0 1 0 583 1 1784574445
+-
+94.154.43.179
+0 1 0 226 0 0
+-
+107-173-171-201-host.colocrossing.com
+0 2 0 710 1 1784509271
+-
+94.154.43.187
+0 1 0 226 0 0
+-
+167.99.120.141
+0 2 0 710 1 1784540904
+-
+ec2-13-219-67-125.compute-1.amazonaws.com
+0 1 0 355 1 1784565699
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://ugi.idealgroups.org/
+0 2
+- (Direct Request)
+0 289
+https://www.ugi.idealgroups.org/
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0
+0 1
+Mozilla/5.0 (compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot)
+0 8
+Mozilla/5.0 (compatible; Applebot/0.1; +http://www.apple.com/go/applebot)
+0 11
+Mozilla/5.0 (compatible; Claude-Web/1.0; +https://www.anthropic.com)
+0 15
+Mozilla/5.0 (X11; Linux x86_64)
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 OPR
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot
+0 14
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+RecordedFuture Global Inventory Crawler
+0 1
+CCBot/2.0 (https://commoncrawl.org/faq/)
+0 14
+Mozilla/5.0 (X11; Linux x86_64) Firefox/117.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; rv:143.0) Gecko/20100101 Firefox/143.0
+0 1
+Mozilla/5.0 (compatible; cohere-ai/1.0; +https://cohere.com)
+0 14
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 13
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 6
+Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+0 1
+visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
+0 1
+Go-http-client/2.0
+0 3
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user
+0 14
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Google-CloudVertexBot; +https://cloud.google.com/vertex-ai-bot)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+0 28
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+0 4
+Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)
+0 12
+Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
+0 5
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com
+0 15
+Mozilla/5.0 (compatible; Google-Extended/1.0; +http://www.google.com/bot.html)
+0 14
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+0 1
+Mozilla/5.0 (compatible; wpbot/1.4; +https://forms.gle/ajBaxygz9jSR8p8G9)
+0 4
+meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)
+0 16
+anthropic-ai
+0 16
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot
+0 12
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot
+0 11
+Scrapy/2.16.0 (+https://scrapy.org)
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

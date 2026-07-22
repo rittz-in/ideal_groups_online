@@ -1,0 +1,1421 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202603 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.fizznfreeze.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2100                
+POS_TIME 2773                
+POS_VISITOR 29355               
+POS_DAY 35503               
+POS_DOMAIN 3572                
+POS_LOGIN 3976                
+POS_ROBOT 4131                
+POS_WORMS 4330                
+POS_EMAILSENDER 4461                
+POS_EMAILRECEIVER 4604                
+POS_SESSION 36337               
+POS_FILESIZE 136472              
+POS_REQUESTTIME 136626              
+POS_SIDER 36546               
+POS_FILETYPES 4739                
+POS_DOWNLOADS 5048                
+POS_OS 5096                
+POS_BROWSER 5339                
+POS_SCREENSIZE 5999                
+POS_UNKNOWNREFERER 6073                
+POS_UNKNOWNREFERERBROWSER 6504                
+POS_ORIGIN 6657                
+POS_SEREFERRALS 6798                
+POS_PAGEREFS 6961                
+POS_SEARCHWORDS 7135                
+POS_KEYWORDS 7287                
+POS_MISC 2436                
+POS_ERRORS 7346                
+POS_CLUSTER 3832                
+POS_SIDER_404 7576                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260401014624 1 0 11059753700137
+FirstTime 20260301060830
+LastTime 20260331143457
+LastUpdate 20260401193250 1 0 0 0 0
+TotalVisits 175                 
+TotalUnique 140                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 152                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 25 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 10 717362 3 15 849
+1 11 35 1630034 5 5 7922
+2 0 0 0 4 4 7515
+3 2 5 65084 1 1 210
+4 2 3 817312 14 14 1117
+5 0 0 0 5 5 888
+6 3 9 518101 6 8 1205
+7 12 19 1310442 14 17 3580
+8 1 2 115049 4 4 213
+9 2 5 101182 7 7 1266
+10 347 658 26590962 348 594 27134
+11 551 815 21062180 529 699 57130
+12 901 1231 36552538 481 633 51336
+13 828 982 17323074 248 355 20591
+14 696 932 39872535 164 284 21454
+15 1238 1510 38005565 223 425 18952
+16 1262 1637 21653801 891 1054 73520
+17 1062 1162 16195085 654 977 61056
+18 1319 1574 37763297 214 427 28784
+19 741 965 41805588 149 317 11011
+20 67 110 14733409 13 27 2740
+21 7 46 2483540 11 17 2137
+22 12 16 174767 3 4 423
+23 5 10 536529 5 7 1278
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+in 8588 10694 236434776
+us 409 778 69182623
+ru 49 85 3402787
+bg 8 72 2211101
+de 8 48 5382259
+rs 4 7 606446
+gb 3 38 1932639
+ca 2 4 230057
+fi 2 4 342538
+be 2 2 72166
+nl 1 2 115007
+gr 1 2 115037
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+unknown 9 216 20260326134733 9
+no_user_agent 2 48 20260324181706 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+Unknown 8966 63693875 0 0
+jpg 927 112605504 0 0
+svg 133 9315156 0 0
+webp 81 3771096 0 0
+woff 1 1008144 0 0
+png 126 41539589 0 0
+html 2 0 0 0
+json 33 457907 0 0
+js 722 28580553 0 0
+jpeg 73 20377722 0 0
+woff2 75 26248168 0 0
+css 597 12429722 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+macosx15 202 90
+androidmarshmallow 4 4
+android10 1345 851
+linuxubuntu 13 8
+androidoreo 3 3
+win10 8948 7625
+linux 86 16
+android 814 327
+Unknown 35 19
+ios_iphone 284 133
+win7 2 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 30
+chrome136.0.0.0 130 74
+safari 51 22
+firefox134.0 13 8
+firefox139.0 1 1
+chrome126.0.0.0 3 3
+chrome145.0.0.0 8459 6932
+chrome91.0.4472.124 10 10
+safari18.5 9 9
+chrome138.0.0.0 11 11
+chrome136.0.7103.125 814 327
+chrome142.0.0.0 47 25
+chrome134.0.0.0 58 8
+firefox142.0 8 4
+chrome116.0.0.0 5 4
+chrome89.0.4389.128 2 1
+firefox133.0 30 4
+mozilla 23 12
+safari26.3 224 102
+chrome143.0.0.0 48 8
+chrome120.0.0.0 31 31
+Unknown 10 5
+chrome131.0.0.0 79 9
+chrome88.0.4324.150 2 1
+chrome135.0.0.0 37 4
+chrome117.0.0.0 2 2
+chrome58.0.3029.110 4 4
+chrome106.0.0.0 5 2
+netscape5.0 2 2
+chrome146.0.0.0 1617 1451
+firefox124.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260330070550
+Mozilla/5.0_(l9scan/2.0.5333e24353e28313e2931313;__https://leakix.net) 20260324162549
+WhatsApp/2.2606.102_W 20260311183918
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260327045034
+WhatsApp/2.23.20.0 20260317115715
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WhatsApp/2.23.20.0 20260317115715
+WhatsApp/2.2606.102_W 20260311183918
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 313 454
+From1 4 4
+From2 3 3
+From3 2 2
+From4 8755 11273
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://127.0.0.1:8000 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 12
+404 2902 18192
+500 12 17653
+301 32 9584
+302 370 83837
+406 489 110514
+403 18 11218
+409 133 11039
+401 1881 94050
+421 2 724
+419 17 41378
+400 1 0
+405 6 3858
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 303
+/@vite/env 2 -
+/.env.production 10 -
+/storage/products/Orange%20Juice_1769584738.jpg 3 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6IndBa3RmL0Y1dGsxbXVkczZKczBHNXc9PSIsInZhbHVlIjoiU0VvQ2VDZVFGd0hiOHdDWTZHYUx1UT09IiwibWFjIjoiMmIzZTNjYzIyYWNhNGE5ODg3MzAyZWI2M2VlZGJlMGQ5MDg3ZTg5NzU5OGZhZTY0MGIwY2MwMzg1ZDA0ZjE0MSIsInRhZyI6IiJ9
+/storage/products/images_1769782193.jpg 49 https://fizznfreeze.idealgroups.org/product/all/108
+/app/config/stripe.yml 5 -
+/storage/products/Strawberry%20Milkshake_1769781812.webp 3 https://fizznfreeze.idealgroups.org/product/Milk%20Shakes%20and%20Thick%20Shakes
+/swagger/index.html 2 -
+/order/table-active/107 8 https://fizznfreeze.idealgroups.org/product/Puff/107
+/.env.development 7 -
+/config.inc 5 -
+/api/config.env 5 -
+/app/orders/destroy/eyJpdiI6IjFQelR2L28xYkh0RlBmSUJocjlTSlE9PSIsInZhbHVlIjoiMnJuVGNBNTNRaXZvUW5OYmVRRXlidz09IiwibWFjIjoiYTY5ZjIwMzUyZTRjYzBjYzU1Zjg4MDFjNTg1YTU3MzA4MDkwZjVkZmM3NTkzZTc0NWIwMmM0ZjM5ODU3ZDRhZiIsInRhZyI6IiJ9 1 https://fizznfreeze.idealgroups.org/app/orders/list
+/storage/products/Cheese%20Chillee%20Sandwich_1769239536.jpg 54 https://fizznfreeze.idealgroups.org/product/all/108
+/@vite/client 5 -
+/vendor.js 5 -
+/serverless.yml 5 -
+/storage/products/puff_1767771410.jpeg 7 https://fizznfreeze.idealgroups.org/product/Puff
+/phpinfo 7 -
+/application.properties 5 -
+/api/v1/config 5 -
+/storage/products/Watermelon%20Mocktail_1769590178.jpg 51 https://fizznfreeze.idealgroups.org/product/all/108
+/storage/products/Strawberry%20Mocktail_1769779762.jpg 3 https://fizznfreeze.idealgroups.org/product/Mocktail
+/storage/products/Paneer%20Puff_1769584021.jpg 6 https://fizznfreeze.idealgroups.org/product/Puff
+/manifest.json 5 -
+/swagger/swagger-ui.html 2 -
+/order/table-active/106 3 https://fizznfreeze.idealgroups.org/product/all/106
+/stripe.txt 5 -
+/backend/config/default.yml 5 -
+/aws-config.js 6 -
+/stripe.save 4 -
+/trace.axd 2 -
+/parameters.yml 5 -
+/assets/img/fizzfavicon.svg/app-ads.txt 1 -
+/secrets.json 5 -
+/credentials 1 -
+/.env.stripe 5 -
+/.env.example 5 -
+/wp-content/debug.log 5 -
+/api/stripe.ts 5 -
+/.env.template 5 -
+/assets/img/fizzfavicon.svg/sellers.json 1 -
+/.vite/manifest.json 5 -
+/storage/products/Mango%20Juice_1769589839.jpg 2 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6IlkxNlFLVENkZERYOWNmR3VJQlorY0E9PSIsInZhbHVlIjoiWmtKWllxVjlNbVVkbDNqRWxuaHYrQT09IiwibWFjIjoiMzQ0YWE1ZjMzMjQwNjczZDU1YzA5MmYyMDM1NTc3ZDVhOThjMWM3MjYzYTljYTk3ODYyMjk4NTVmNDgwNDBkOSIsInRhZyI6IiJ9
+/storage/products/Kalakhatta%20Soda_1769780786.jpg 2 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6Ilo5N1hlTkw1SmhWakc2bG9xa1hkT0E9PSIsInZhbHVlIjoiNzZHOXQ4WEltMFBwaFg2Q0FmZXRqUT09IiwibWFjIjoiMDQ4ZWVkMjEyZGVmNWZjOTNhODc1Y2FiNDUxYWUzYmE3MjdkMmNkY2NlMzhjY2M0MThhM2ViZTUwNjUxNDY4NSIsInRhZyI6IiJ9
+/.git/config 42 -
+/config.env 5 -
+/config/database.yml 5 -
+/about 2 -
+/bundle.js 5 -
+/debug.log 5 -
+/v2/api-docs 2 -
+/.env_sample 5 -
+/storage/products/Chocolate%20Milkshake_1769781883.jpg 2 https://fizznfreeze.idealgroups.org/product/Milk%20Shakes%20and%20Thick%20Shakes
+/login.action 2 -
+/stripe.ini 5 -
+/storage/products/Veg%20Cheese%20Masala%20Maggi_1769238700.jpg 7 https://fizznfreeze.idealgroups.org/product/Maggi/101
+/config/application.yml 5 -
+/wp-content/uploads/wc-logs 5 -
+/storage/products/Chocolate%20Milkshake_1769781911.jpg 2 https://fizznfreeze.idealgroups.org/product/Milk%20Shakes%20and%20Thick%20Shakes
+/swagger-ui.html 2 -
+/account 7 -
+/index.html 8 -
+/.env.sample 2 -
+/app/orders/destroy/eyJpdiI6ImJyR3QrcEtSV0pCSG9Qekt3YkVtM3c9PSIsInZhbHVlIjoiV0ZMQnBSeFRMWE5kWUordGNYaWpGUT09IiwibWFjIjoiZDI2MWUyYTU5ZTJhMmMwYWU1YWZlMDk5MTU3YzAyMTc0NjU5NjQzMGM4ODA2NmMwYjUyYjgxMjdiYWUyYjRiZSIsInRhZyI6IiJ9 1 https://fizznfreeze.idealgroups.org/app/orders/list
+/config/stripe.yml 5 -
+/storage/products/Pineapple%20Milkshake_1769781604.webp 3 https://fizznfreeze.idealgroups.org/product/Milk%20Shakes%20and%20Thick%20Shakes
+/css/theme-styles.css 867 https://fizznfreeze.idealgroups.org/order/payment/ORD202602020002
+/.env.staging 7 -
+/.git/HEAD 9 -
+/storage/products/garlic_bread_1767777660.jpeg 5 https://fizznfreeze.idealgroups.org/product/Pizza/102
+/storage/products/Mosambi%20Juice_1769584690.jpg 4 https://fizznfreeze.idealgroups.org/product/all
+/admin 7 -
+/stripe.env 5 -
+/order/table-active/105 2 https://fizznfreeze.idealgroups.org/product/all/105
+/storage/products/Pineapple%20Lemon%20tukda_1769780740.jpg 4 https://fizznfreeze.idealgroups.org/product/all
+/storage/logs/stripe.log 5 -
+/assets/img/fizzfavicon.svg/ads.txt 1 -
+/application.yml 5 -
+/storage/products/7%20Cheese%20Pizza_1769584522.jpg 8 https://fizznfreeze.idealgroups.org/product/all/108
+/main.js 5 -
+/storage/products/Veg%20Cheese%20Sandwich_1769239374.jpeg 3 https://fizznfreeze.idealgroups.org/product/Sandwich/101
+/storage/products/Venilla%20Milkshake_1769781527.webp 3 https://fizznfreeze.idealgroups.org/product/Milk%20Shakes%20and%20Thick%20Shakes
+/storage/products/Blue%20Berry%20Soda_1769780887.jpg 3 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6Ikp2UHJ6TXFXaGRBdnRhRHE0eDM3NGc9PSIsInZhbHVlIjoiU3daazZSMmFNQWlaT04ydWZ3U0pldz09IiwibWFjIjoiZTZjYTNkNmY2YTFkZDgzMDhjYWI1ZmFlZjczMmIyZTViZTJlYjUxMmIwN2RmNTg3NDExODZiNjhmMThiZjgyYSIsInRhZyI6IiJ9
+/storage/products/orange-soda-127_1769780823.jpg 3 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6InhXWU9HU1dVWThhUXp0YWhlYVErenc9PSIsInZhbHVlIjoiNTJDTmlpZThGa0hWOXM0c3VFano5Zz09IiwibWFjIjoiN2Y3ZDNlZDVhMDBjOWZlY2M5ODFjMTVlYzA2Y2U4ZmI5NjNmOTVjMGQ3YjZlMDUzNDMyMmM4OGZlNmZhOTE3MCIsInRhZyI6IiJ9
+/signup 9 -
+/.env.remote 2 -
+/storage/keys/stripe.json 5 -
+/.circleci/config.yml 5 -
+/backend/config/settings.yml 5 -
+/stripe_config.json 5 -
+/settings/stripe.py 5 -
+/api/config 5 -
+/admin/settings 5 -
+/debugbar 2 https://fizznfreeze.idealgroups.org/debugbar/
+/webhooks/settings.json 5 -
+/.bitbucket/pipelines.yml 5 -
+/stripe_secret.json 5 -
+/storage/products/images_1769782259.jpg 1 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6IkpYTVQrMlBzMk4wbThOVFE1SXorUnc9PSIsInZhbHVlIjoic0JyWExZcHZ6ZGl2dC9CU0lPeTEyUT09IiwibWFjIjoiMGFlYjNiMjQ2YzBjOGU0NTA5ODQ2YmI3OTVjMjQ3MjdmZDdkMGQ2YTI0Mjc5OTM2NDI3OGNiMjFiOWU5MGNkZSIsInRhZyI6IiJ9
+/storage/products/Promogran%20Juice_1769585479.jpg 3 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6ImNzVUNLckhMT1h0Z3g3MWVuQzNVSkE9PSIsInZhbHVlIjoiVExldnN3anRKNXJBR0lGS2dVekQ2QT09IiwibWFjIjoiOGY0OTMxMTAwOGI4NmIwNzM4NTZiNWUyY2IyMmZhYWRmYWNmODUwNmFmOWQ2NTBmMzVmZWJiZTQ4NGZkNmE4YiIsInRhZyI6IiJ9
+/@fs/etc/passwd 9 https://stackoverflow.com/
+/.aws/credentials 10 -
+/storage/products/Cheese%20Fries_1769584108.jpg 55 https://fizznfreeze.idealgroups.org/cart
+/_debugbar 2 https://fizznfreeze.idealgroups.org/_debugbar/
+/debug 2 https://fizznfreeze.idealgroups.org/debug/
+/.env.test 7 -
+/.env.prod 5 -
+/storage/products/Pineapple%20Mocktail_1769779894.jpg 3 https://fizznfreeze.idealgroups.org/product/Mocktail
+/storage/logs/laravel.log 5 -
+/.DS_Store 2 -
+/horizon/api/stats 5 -
+/graphql 2 -
+/storage/products/7%20Cheese%20Pizza_1772460723.jpg 2 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6Imx2dG03VUNNdmMvTGF1Q0dxb24wRWc9PSIsInZhbHVlIjoiK2NlaDhZSGxGaVJ2bmxLckl1TmhFdz09IiwibWFjIjoiMWExM2JmMjYyOTU3YmE3NmJkZTc5OTBiNGMzNTZlN2JmYTYyYzQ3Njk5YWVlOTgxMWM2ZmFiZmIwNTI0OTQ2OSIsInRhZyI6IiJ9
+/.well-known/security.txt 2 -
+/storage/products/Lamon%20Jaljira%20Soda_1769780413.webp 2 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6Im90clJ0akNRWXF4R0hsZzlmMG93OVE9PSIsInZhbHVlIjoieEdaRFJFd1QxRENnQmNYVGFEcHVJZz09IiwibWFjIjoiOTcwMDM5NWJlNzc3MDE5YTdhYzgwMTNjZjUzZWM2ZTQ4ZDI3NDc5YmU4Y2JkMDRhMGE3MWYxOGJkMmFmODY0OCIsInRhZyI6IiJ9
+/shop 8 -
+/.travis.yml 5 -
+/api/gql 2 -
+/env.json 5 -
+/storage/products/bornvita_1768555092.jpeg 3 https://fizznfreeze.idealgroups.org/product/Milk%20Shakes%20and%20Thick%20Shakes
+/dashboard 9 -
+/storage/products/81f0d6debddc801fabebec956cd0312d_1769238500.jpg 8 https://fizznfreeze.idealgroups.org/product/Maggi/101
+/aws.yml 1 -
+/.env.production.local 6 -
+/wp-json/wc/v3/payment_gateways 5 -
+/storage/products/Jamun%20Juice_1769585543.webp 3 https://fizznfreeze.idealgroups.org/product/all
+/storage/products/download_1772695246.jpeg 1 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6Ikp0SkM2TkRZVUdQd0lEVkdvQU1Fd3c9PSIsInZhbHVlIjoiWWp1OW1Jc3U2ZENvRjRHQVU4WEMyZz09IiwibWFjIjoiNjZjODMzMmI0NjBhOWRkZDA0YWRlZTI1NjJlNDY3ZDZhZWUwNzk3YTA3N2M0YjgzMjY3MTAxODA1ZTI3MjYwMCIsInRhZyI6IiJ9
+/aws-secret.yaml 5 -
+/.env.stage 5 -
+/config/credentials.yml 5 -
+/storage/products/Maggi_1769238936.png 8 https://fizznfreeze.idealgroups.org/product/Maggi/101
+/storage/products/Lamon%20Jaljira%20Soda_1769780380.webp 2 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6IlJwQVo2T1JGZ0EvTVJkekdwTXJxcFE9PSIsInZhbHVlIjoiUjB2RDFMRXlRbkxTSXRhZmVWbXJWdz09IiwibWFjIjoiY2E0NGMyZWU2MDhlMjg4YWFkODYwNDNiOTY2ZWRlNmE0NThlNzM5ZGNmMzIxZTM3NGNiZWI4OTIzZjBiMDc2NSIsInRhZyI6IiJ9
+/config/stripe.env 5 -
+/storage/products/Mango%20Mocktail_1769779847.jpg 2 https://fizznfreeze.idealgroups.org/product/Mocktail
+/.env.dist 5 -
+/storage/products/Pineapple%20Soda_1769780621.webp 4 https://fizznfreeze.idealgroups.org/product/all
+/storage/products/pizza_1767778064.jpeg 6 https://fizznfreeze.idealgroups.org/product/Pizza/102
+/.env.json 5 -
+/sitemap.xml 9 -
+/storage/products/Fruit%20Soda_1769781364.jpg 1 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6Im9aSE9FU2ROZ1NuYThseE44OWRiT1E9PSIsInZhbHVlIjoiS0hwL0pEN3daUzRueGtlYkcrRlNiQT09IiwibWFjIjoiZDRmMjFlYTYxZTg0ZDZhNjFjZGRkMTg3NmY3NzZmN2RiZWQ1MjIzZmUxZWE1ODFlN2E5YTIyOTkzNDUwYWYxZSIsInRhZyI6IiJ9
+/order/table-active/108 3 https://fizznfreeze.idealgroups.org/product/all
+/wp-config.txt 5 -
+/.aws/config 8 -
+/storage/products/Kiwi%20Juice_1769589928.jpg 2 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6ImV4NTNxVHcvdGFwakFsOGlhRGpCYXc9PSIsInZhbHVlIjoiTGh4dFlkVUdnV2ErcUZMdnlmYUJOQT09IiwibWFjIjoiZDU5NDZhMDBiNzc4NzM5YmU2ODcwOGM0ODkwMjFlMTg5Y2NlYWRmYjIxNjcwMmE0MTA1ZjVlNWY1OTY4NmViNCIsInRhZyI6IiJ9
+/api/payment/config 5 -
+/webjars/swagger-ui/index.html 2 -
+/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js.map 1 -
+/debug/default/view 7 -
+/storage/products/Venilla%20Milkshake_1769781670.webp 2 https://fizznfreeze.idealgroups.org/product/Milk%20Shakes%20and%20Thick%20Shakes
+/.env.vite 5 -
+/credentials.txt 5 -
+/actuator/env 2 -
+/backup/stripe.json 5 -
+/storage/products/Blue%20Berry%20Mocktails_1769779621.jpg 3 https://fizznfreeze.idealgroups.org/product/Mocktail
+/config.js 12 -
+/storage/products/7%20Cheese%20Pizza_1772460785.jpg 3 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6IkhhQktHSEYwZmF1aWQzczREQm02QWc9PSIsInZhbHVlIjoiVXdGM1pWWWFLZytCK2d1QzZmUEpOUT09IiwibWFjIjoiNmVhZjZmMzE5YTJhOGUyYTc4NWVmOTM1NTU4MGM3ZjNhODdkMjQzMzZiZTU2MzI5MmQ0ZjEyYWZiYjA3Y2Y5YiIsInRhZyI6IiJ9
+/storage/products/Kitket%20Shake_1769781995.jpg 2 https://fizznfreeze.idealgroups.org/product/Milk%20Shakes%20and%20Thick%20Shakes
+/settings.py 6 -
+/storage/secrets/stripe.json 5 -
+/storage/products/regular_fries_1767769279.jpeg 30 https://fizznfreeze.idealgroups.org/product/all/108
+/storage/stripe.keys 5 -
+/storage/products/pizza_1772517150.jpg 9 https://fizznfreeze.idealgroups.org/product/all
+/__env.js 5 -
+/.s3cfg 2 -
+/https%3A/1.envato.market/parking%20system_admin 1 -
+/_profiler/latest 5 -
+/storage/products/Veg%20Cheese%20Grill%20Sandwich_1769239461.jpg 3 https://fizznfreeze.idealgroups.org/product/Sandwich/101
+/storage/app/stripe.json 5 -
+/wp-json/wc/v3/settings/checkout 5 -
+/storage/products/cofee_1768195873.jpeg 49 https://fizznfreeze.idealgroups.org/product/all/108
+/.env.local 11 -
+/product//101 1 https://fizznfreeze.idealgroups.org/product/all/101
+/secrets.yaml 5 -
+/storage/products/xvnbahhx-1280_1769239085.jpg 3 https://fizznfreeze.idealgroups.org/product/Sandwich/101
+/admin/.env 13 -
+/storage/products/pizza_1767778001.jpeg 6 https://fizznfreeze.idealgroups.org/product/Pizza/102
+/_environment 2 -
+/config/aws.yml 1 -
+/v3/api-docs 2 -
+/order 9 -
+/storage/products/Oreo%20Milkshake_1769781953.jpg 2 https://fizznfreeze.idealgroups.org/product/Milk%20Shakes%20and%20Thick%20Shakes
+/app.js 5 -
+/.vscode/sftp.json 7 -
+/storage/products/Masala%20Soda_1769780081.jpg 2 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6IlpabHc2UkFSU3JnbGxhZXpKWjF1NHc9PSIsInZhbHVlIjoiY1VVT0x3R0lGaGdFWG5XVjBpcklNQT09IiwibWFjIjoiNmFiZDhjYzBiN2EwOTZjOGNmZjRlMTgzNGJjMzRkOTI0Nzc4YmU2OTJhMDkxNThkYzYwOTQ2Y2Q2ZTIxZjcwMSIsInRhZyI6IiJ9
+/storage/products/Cheese%20Puff_1769584082.jpg 55 https://fizznfreeze.idealgroups.org/product/all/108
+/aws/credentials 6 -
+/storage/products/Veg%20Sandwich_1769239046.jpg 6 https://fizznfreeze.idealgroups.org/product/Sandwich/101
+/aws.config.js 6 -
+/gcp_sa_key.json 1 https://medium.com/
+/stripe.log 5 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 2 -
+/aws.env 2 -
+/stripe.json 5 -
+/storage/products/red_pasta_1767771146.jpeg 9 https://fizznfreeze.idealgroups.org/product/all
+/admin/config 5 -
+/order/status/ORD202603090001 8 https://fizznfreeze.idealgroups.org/track-order
+/api-docs/swagger.json 2 -
+/config/config.json 5 -
+/storage/products/Strawberry%20juice_1769585590.jpg 4 https://fizznfreeze.idealgroups.org/product/all
+/app/config/parameters.yml 5 -
+/storage/products/Butter%20Garlic%20Puff_1769584453.jpg 9 https://fizznfreeze.idealgroups.org/product/Puff
+/constants.js 5 -
+/storage/products/Lamon%20Jaljira%20Soda_1769780444.webp 2 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6IkZnMUJyaFhtaGczSy9vaytyUjY3c2c9PSIsInZhbHVlIjoiazFuSkgvL292bnNpOXNlL2tLdjMzQT09IiwibWFjIjoiMGM2ZmFhYjgyMTczOWNhYjBiNWZjYWVjOGYxMTFlOWI5MTA5NDY5N2QyYjI3NjhjYWFiMzJkMGRkYTY4ZWQyZCIsInRhZyI6IiJ9
+/storage/products/Pineapple%20Soda_1769780578.webp 4 https://fizznfreeze.idealgroups.org/product/all
+/config/secrets.yml 5 -
+/api/shared/config/config.env 5 -
+/s/5333e24353e28313e2931313/_/ 2 -
+/storage/products/Lamon%20Jaljira%20Soda_1769780190.webp 5 https://fizznfreeze.idealgroups.org/product/Fresh%20Soda/101
+/v2/_catalog 2 -
+/subscribe 8 -
+/wp-json/wc/v2/payment_gateways 5 -
+/app/orders/destroy/eyJpdiI6IktsMFNhYkJ6cUxlWmxSTXJacUoyWnc9PSIsInZhbHVlIjoiT0ZUSytVek5XTURrVTFWN2ZDNnAwQT09IiwibWFjIjoiZjUzNmUzMDQyYjliNDBlYmJlMTJjMmM5YjY3MGFmNzk5ZDM0YjJkN2IwYjc3OWVlOTNkNTBjZWExZmFjMGQ4NyIsInRhZyI6IiJ9 1 https://fizznfreeze.idealgroups.org/app/orders/list
+/assets/vendor/libs/popper/popper.min.js.map 1 -
+/storage/products/Peri%20Peri%20Fries_1769583888.jpeg 58 https://fizznfreeze.idealgroups.org/product/all/108
+/stripe.key 5 -
+/config/stripe.json 5 -
+/storage/products/watermenlon_1767778496.jpeg 52 https://fizznfreeze.idealgroups.org/product/all/108
+/.env.uat 5 -
+/service-account.json 1 -
+/app/orders/destroy/eyJpdiI6IklYNnFkWFZUcGZnb0xqREJjQXlQNnc9PSIsInZhbHVlIjoiTDRmNG00L2k3aHFISkVBeEw1VCtxQT09IiwibWFjIjoiZWQwZWUxYmYyZjJiYmU2YWI0ZGUwYWUzNWFiMTY3OTlhOGUzMTBjOTRlYTVmOTMzNTllODNkM2NhYzc1NmJlYSIsInRhZyI6IiJ9 1 https://fizznfreeze.idealgroups.org/app/orders/list
+/storage/products/images_1769782175.jpg 2 https://fizznfreeze.idealgroups.org/product/all
+/billing 7 -
+/.env.txt 5 -
+/.circleci/stripe.env 5 -
+/swagger/v1/swagger.json 2 -
+/swagger.json 7 -
+/manage/env 5 -
+/docker-compose.yml 5 -
+/credentials.json 6 -
+/config.yml 5 -
+/storage/products/Green%20Apple%20Mocktail_1769590262.jpg 2 https://fizznfreeze.idealgroups.org/product/Mocktail
+/order/table-active/102 50 https://fizznfreeze.idealgroups.org/product/all/102
+/assets/img/qr/payment_qr_1769790000.jpg 10 https://fizznfreeze.idealgroups.org/order/payment/ORD202602020002
+/config/aws.json 1 -
+/order/table-active/101 64 https://fizznfreeze.idealgroups.org/product/Maggi/101
+/storage/products/puff_1767771559.jpeg 7 https://fizznfreeze.idealgroups.org/product/Puff
+/config/settings.json 5 -
+/stripe_keys.json 5 -
+/app/orders/destroy/eyJpdiI6Ik5IenpNY0J4TU16L1hxZ1JOTlRqV3c9PSIsInZhbHVlIjoiS1BxT0MwM1VBQWV3QmU0aU5uZ3FDZz09IiwibWFjIjoiN2NkMTgyZDNmNmI2MDZhZTUwMzYzMzVjZjFlOGIyYjUyYTY0YWMxNzQxOWQ4MmYwNmRlZjQxOGEwYzUwYWNlOSIsInRhZyI6IiJ9 1 https://fizznfreeze.idealgroups.org/app/orders/list
+/storage/products/Lamon%20Jaljira%20Soda_1769780287.webp 2 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6IkZCa1RINGtsZitwcDV2RXhnUkVUNXc9PSIsInZhbHVlIjoiK2Z1QitVTWN3ajh4eVRwYkRLWTFVQT09IiwibWFjIjoiMTkyODExNTllZDVmMTY1NzBkY2E2Mzc3ZmVmZWU5NmI0MzUzOGE3MmQ0N2E1YzU5NTY0YmJiMDYyNjhmMmQ4ZSIsInRhZyI6IiJ9
+/config/parameters.yml 5 -
+/storage/products/Mango%20Milkshake_1769781729.jpg 2 https://fizznfreeze.idealgroups.org/product/Milk%20Shakes%20and%20Thick%20Shakes
+/graphql/api 2 -
+/storage/products/Panjabi%20Puff_1769584306.jpg 56 https://fizznfreeze.idealgroups.org/product/all/108
+/index.js 5 -
+/config.json 3 -
+/api/graphql 2 -
+/storage/logs/payments.log 5 -
+/env.js 5 -
+/server 2 -
+/aws-credentials 2 -
+/stripe.conf 5 -
+/donate 9 -
+/storage/products/Pineapple%20Milkshake_1772460869.webp 3 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6Ii9IK3M0Vmo4SExtZzhSTmpIcFQ4UHc9PSIsInZhbHVlIjoiQmtpdEVmZWVlWFRLK0wvRWtWUnpPZz09IiwibWFjIjoiYWJkMGU0NDIzMmM4MTViNzFhYzNiMWZmNmY0YzE5NGMwMzliNjMzZDMyZTZmYmFjYTYxYzBkMGY1MTkxYjhiNyIsInRhZyI6IiJ9
+/api/v1/settings 5 -
+/.env.aws 5 -
+/app/orders/destroy/eyJpdiI6Im5yTHV1WU8wMFVWZlZITDEzY2NiZEE9PSIsInZhbHVlIjoiS2VwT0pwYnBzcnVkWlV6VnFLNjJSZz09IiwibWFjIjoiZTQ2NWU5M2UzMzI5NzIzYjQxNjU4ZTViNmZmYzJlNjhmNzFhYzgzNjc3Y2JiYjhlOTFjYjllZTZjMzc0OGVjMSIsInRhZyI6IiJ9 1 https://fizznfreeze.idealgroups.org/app/orders/list
+/asset-manifest.json 5 -
+/.env.save 13 -
+/telescope/requests 2 -
+/api/settings 5 -
+/storage/products/Falsa%20Soda_1769781317.jpg 1 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6IlNrbktUMUZEQTB2eUZPVm9BeGxuTHc9PSIsInZhbHVlIjoiWTNOUTd4dm5hbUx4cDJVZG5Ha2RyQT09IiwibWFjIjoiMDkyYzljZTg1NjdlMDBlNzI1ZGY5NjgxNmI3ZmRlOTU3MzUzMTJmMGRhM2VkYTczMTQwNGMzODlmZmIzYTdmNyIsInRhZyI6IiJ9
+/storage/products/Masala%20Maggi_1769238803.jpg 7 https://fizznfreeze.idealgroups.org/product/Maggi/101
+/env 5 -
+/aws.json 3 -
+/storage/products/Lamon%20Jaljira%20Soda_1769780215.webp 3 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6ImJ5cWRmOXpKeG94T1ROMVMrNllGTkE9PSIsInZhbHVlIjoiM2dVNUp2VC81ZzV2MTYvQ1I1bFRqZz09IiwibWFjIjoiZTQyMTQ4MjFmNTA0ZGI5ZWExMjBmNzc5YjZmODJiZjNjNTQ0YWViZjJkMmVkNDE1MzExMzAyZDg1YTE2NzNkZCIsInRhZyI6IiJ9
+/api/swagger.json 2 -
+/public/app 1 -
+/plans 9 -
+/storage/products/7%20Cheese%20Pizza_1772462169.jpg 3 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6IjB2N29YWi9XaGI2dHdibnprdWFXdEE9PSIsInZhbHVlIjoiRUEyTjJicXU0MEF4YWp4QjNUTEk0UT09IiwibWFjIjoiMTU1MmFhYTllMTMwZjUxYzkwOGY1NzIxZTg4MjZmNzBiZmM3MTQ2YzhkZDIxNmEzN2EzMTg2ZGQ3YmE5MTI4MiIsInRhZyI6IiJ9
+/wp-config 4 -
+/storage/products/pasta_1767771205.webp 9 https://fizznfreeze.idealgroups.org/product/all
+/order/table-active/103 21 https://fizznfreeze.idealgroups.org/product/Puff
+/secrets.yml 5 -
+/storage/products/Rose%20Soda_1769781277.jpg 2 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6ImhYMGVUT0oxN1hldktKOTZqTjc0Wnc9PSIsInZhbHVlIjoidCtjNCtLOCtxeGI5YURNUWhkRDlwUT09IiwibWFjIjoiZWZhZmViODUxODc3YTc2M2RiNDMzOWY3M2M4ZTlmNzE1ZDk5NjEwNjNlMjY0NjkzM2ZhYTA5Y2NlNGIwZjJiZiIsInRhZyI6IiJ9
+/.env.dev 5 -
+/storage/products/Venilla%20Milkshake_1769781637.webp 2 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6IlpRYlAyZnhOMmIvOTRubDNSbnZsbnc9PSIsInZhbHVlIjoiWlNrMW5mWXhTSzQ1Y3NWbVFxdjlUQT09IiwibWFjIjoiYTA5NjY0MGEzNmQ0ZDVkZjM3YzU2MDAzODRmNGExZjYxZmQyYzkzOTI4MDExYmZlOWYzNjM4NTFhMDk0OTdmZSIsInRhZyI6IiJ9
+/order/table-active/104 10 https://fizznfreeze.idealgroups.org/product/all
+/storage/products/Marguerite_1767777892.jpeg 6 https://fizznfreeze.idealgroups.org/product/Pizza/102
+/storage/products/7%20Cheese%20Pizza_1772460760.jpg 1 https://fizznfreeze.idealgroups.org/app/products/edit/eyJpdiI6Ik85K1M4WGZGQ1JFVWJpMkNSWGZiNHc9PSIsInZhbHVlIjoiT3hXVVFoa2x4Z1g4TVFXemhuYjhBdz09IiwibWFjIjoiYTE3NWNiYzIxZWQxYzE4ZTZkMTk4N2Q3NjU3YTEwOTUxYzJlNWM3MDQ1MjI3NTUzZDEzZDdmODc4MDc1NDFlOCIsInRhZyI6IiJ9
+/storage/products/Chinese%20Puff_1769584391.jpg 54 https://fizznfreeze.idealgroups.org/product/all/108
+/storage/stripe.json 5 -
+/api/shared/config.env 5 -
+/storage/products/Pineapple%20Juice_1769584847.jpg 29 https://fizznfreeze.idealgroups.org/product/all/108
+/api/stripe/config 5 -
+/config/stripe.yaml 5 -
+/error.log 5 -
+/app/orders/destroy/eyJpdiI6InRwejVvZTRvbmMwZXpaVkNBS2puaEE9PSIsInZhbHVlIjoiYVJGUjhSVVEzM3BVOGJ5QVY5cFdYdz09IiwibWFjIjoiODk1NDBjMmYwYTM1ZTI1MjQwYjU5Zjk2MWNmZTY0ZGYzOTdiZjkzNzAxNzBlNzgwNWYzMDE2MWU4NjlmZWM3MyIsInRhZyI6IiJ9 1 https://fizznfreeze.idealgroups.org/app/orders/list
+/storage/products/Tandoori%20Cheese%20Paneer%20Sandwich_1769239592.jpg 4 https://fizznfreeze.idealgroups.org/product/Sandwich/101
+/storage/products/Lemon%20Mint%20Mojito_1769590081.jpg 2 https://fizznfreeze.idealgroups.org/product/Mocktail
+/storage/products/Veg%20Paneer%20Masala%20Maggi_1769238767.jpg 8 https://fizznfreeze.idealgroups.org/product/Maggi/101
+/https%3A/fizznfreeze.idealgroups.org/login 2 -
+/appsettings.json 5 -
+/pricing 8 -
+/app/orders/destroy/eyJpdiI6InZyL01iSC9qckpwYTUwOE9rZEJ2b3c9PSIsInZhbHVlIjoidmppU3RmQ1hZbWovOElSN0FiVjNDZz09IiwibWFjIjoiNWRjNzFhNDdkMGI0OTMzYzNjMDE0Y2MwMDY0NjczYTgwNDJmNGRlMTI2ZTFkOWVkMzJlOGIwNDAzYjgyMzljMSIsInRhZyI6IiJ9 2 https://fizznfreeze.idealgroups.org/app/orders/list
+/config/payment.yml 5 -
+/payment 8 -
+/instance/config.py 5 -
+/config/initializers/stripe.rb 5 -
+/secrets/stripe.json 5 -
+/api 2 -
+/storage/products/Kiwi%20Mocktail_1769779935.webp 2 https://fizznfreeze.idealgroups.org/product/Mocktail
+/_profiler/phpinfo 7 -
+/config/stripe.ts 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 152
+106.213.27.0 1418 1518 8867947 20260317193959
+110.224.140.62 1395 1704 24153343 20260316193459
+223.236.1.229 841 879 4795610 20260324201045
+182.77.30.142 746 813 14406900 20260318191636
+223.236.49.172 638 757 12184072 20260313193257
+42.111.192.206 592 952 42884812 20260314174221
+110.226.26.127 519 520 1163691 20260326193717
+223.236.38.250 484 603 9035885 20260309185525
+49.14.133.151 415 566 23105121 20260316163014
+219.91.220.199 358 527 32845615 20260311150822
+122.176.231.11 221 246 4933605 20260311190547
+123.201.66.172 136 177 6261069 20260310134406
+122.170.168.199 110 152 1745276 20260306183702
+103.240.207.91 78 119 5260448 20260302200611
+49.34.250.85 65 67 525017 20260309122551
+49.14.164.158 63 125 4704851 20260314193843
+49.34.199.231 52 83 1981952 20260311184607
+219.91.220.203 48 63 1343136 20260318133952
+106.214.125.235 45 86 4572504 20260303113124
+172.225.137.211 39 98 7239002 20260316175708
+42.111.202.124 38 38 512435 20260313170531
+49.34.107.242 37 43 339577 20260306174230
+42.111.193.108 36 92 3251118 20260314121022
+185.177.72.50 31 31 687331 20260326134734
+157.32.91.68 30 44 2040439 20260313183258
+66.249.83.128 3 3 78011 20260311183422
+157.32.82.120 9 9 110135 20260316145319
+122.170.33.95 12 14 1057819 20260310154413
+49.34.177.21 28 28 257592 20260316182756
+172.225.186.66 7 15 614433 20260311184255
+42.105.168.22 11 12 308611 20260306170115
+172.225.201.19 11 14 246749 20260306170322
+91.231.89.99 1 1 92483 20260324175057
+91.231.89.126 0 1 78942 
+64.233.173.33 1 1 27356 20260314192918
+66.132.172.212 1 2 115039 20260330070545
+152.59.4.177 1 6 9197306 20260314190959
+66.132.186.175 1 2 115023 20260329002844
+199.45.154.116 1 2 115009 20260321173903
+134.199.216.234 1 2 115021 20260302155230
+87.236.176.176 1 1 36098 20260327045031
+3.18.186.238 2 2 72146 20260330090208
+199.45.154.149 1 2 115038 20260308131717
+209.38.208.202 1 1 0 20260324162549
+205.169.39.23 1 1 36077 20260327110037
+81.29.142.6 2 4 342538 20260324175539
+157.32.83.113 4 4 19969 20260316112741
+27.57.167.180 3 12 72122 20260319101556
+152.59.4.230 24 34 877361 20260314193456
+143.198.47.232 1 2 115049 20260327083205
+157.32.82.91 9 10 140862 20260316112019
+87.166.54.189 2 19 1848653 20260324185818
+64.233.173.34 2 2 14070 20260316115745
+182.65.192.216 3 36 36071 20260330101944
+183.83.146.29 2 2 21359 20260322135434
+185.247.137.214 0 1 78942 
+206.168.34.202 1 2 115009 20260307060950
+49.34.194.152 18 33 2100398 20260313185142
+34.230.220.241 1 1 36100 20260314094506
+3.145.128.25 1 1 92483 20260326070356
+157.32.81.62 7 8 108151 20260316115815
+89.244.95.106 2 8 1499987 20260324191336
+195.178.110.65 10 10 924518 20260329000028
+52.200.211.242 1 1 36092 20260309005428
+152.59.4.136 2 7 461414 20260314191008
+107.172.195.99 2 3 100658 20260324171117
+167.94.138.186 1 2 115041 20260301060830
+223.236.40.27 9 42 158832 20260311161544
+122.170.24.118 15 50 1242996 20260305125055
+162.243.160.172 1 2 115018 20260330063722
+49.34.243.196 12 15 204841 20260309103940
+152.59.4.75 3 7 241489 20260314191036
+204.76.203.25 5 20 626520 20260329214014
+103.241.224.24 10 10 220 20260314224807
+110.226.63.13 13 14 253223 20260302173756
+42.106.17.162 28 44 354087 20260316121959
+172.225.219.6 1 1 0 20260304032013
+49.34.197.220 1 2 92486 20260306172431
+91.231.89.34 1 1 92327 20260324172536
+103.4.251.125 1 1 36073 20260324171113
+91.231.89.39 0 1 78942 
+152.59.0.41 2 17 2086147 20260314201004
+205.169.39.48 1 1 702272 20260327041747
+49.34.209.102 11 78 13143886 20260311181453
+49.44.83.202 3 36 1774757 20260311161526
+157.32.81.105 9 12 242147 20260316120920
+205.169.39.19 0 1 27491 
+89.244.95.148 4 21 2033619 20260326172850
+13.58.139.136 1 1 92327 20260326070411
+152.59.4.253 2 17 2086118 20260314190908
+199.217.98.209 1 1 36091 20260324172545
+3.151.194.164 1 1 36077 20260318033349
+107.172.195.210 1 1 36072 20260324162600
+91.231.89.103 0 1 78942 
+66.132.186.184 1 2 115037 20260322234816
+42.106.17.10 0 1 372165 
+49.34.221.92 11 26 2127727 20260313191014
+91.196.152.160 2 2 184810 20260324174648
+152.59.0.243 3 13 9655105 20260314201040
+162.142.125.201 1 2 115036 20260322235450
+195.178.110.223 4 36 1105550 20260326133220
+49.34.231.150 3 3 837 20260309121328
+143.198.36.212 1 2 115040 20260310135524
+74.125.212.167 2 2 54714 20260314192920
+45.120.123.219 5 23 1194445 20260329210334
+157.32.82.201 18 31 878003 20260311184405
+93.123.109.214 8 72 2211101 20260331143457
+42.105.172.95 27 28 581805 20260306170241
+91.196.152.52 0 1 78942 
+157.32.80.5 9 10 104908 20260316123708
+52.200.222.178 2 2 72162 20260320072235
+167.94.138.205 1 2 115016 20260314124105
+178.128.194.194 1 2 115037 20260329071658
+154.28.229.125 2 2 72137 20260324162606
+152.59.0.73 3 3 60058 20260314201923
+91.231.89.22 1 1 92483 20260324171141
+49.14.165.22 5 23 1172816 20260331103214
+91.196.152.225 0 1 78942 
+185.247.137.50 0 1 78942 
+42.111.192.98 2 7 510303 20260328135804
+172.225.186.67 18 32 2213149 20260316175607
+157.32.80.90 9 10 71679 20260316161155
+165.245.210.128 1 2 115019 20260325180945
+172.225.200.88 1 2 103832 20260303000315
+91.196.152.64 1 1 92483 20260324170647
+205.169.39.54 0 1 142657 
+157.32.91.198 27 33 1524735 20260313190850
+42.111.192.208 15 16 255861 20260303152941
+157.32.81.219 27 28 92364 20260316150509
+172.225.137.210 25 62 4805420 20260316120800
+209.38.248.17 1 1 0 20260324162549
+27.59.95.4 0 1 0 
+91.231.89.121 1 1 92327 20260324170837
+49.34.194.238 1 2 92484 20260306172341
+157.32.81.17 14 28 2069855 20260316103235
+49.34.212.3 1 1 26000 20260311183206
+91.196.152.155 1 1 92327 20260324170421
+151.115.99.205 3 38 1932639 20260324213813
+199.45.155.106 1 1 36097 20260315175511
+152.59.4.235 10 44 12932528 20260314191557
+98.81.215.142 3 36 1774760 20260324162736
+64.233.173.32 2 2 27625 20260316115744
+159.65.155.180 1 2 115015 20260327185809
+143.244.47.83 2 2 0 20260330141620
+104.131.44.221 1 2 115035 20260325071350
+49.34.210.66 3 4 110976 20260317120320
+87.236.176.83 1 1 36068 20260304221828
+152.58.60.112 22 36 1020602 20260313182639
+46.101.51.108 1 2 115007 20260316205838
+159.89.96.73 1 2 115036 20260324201603
+157.32.82.71 8 21 1980359 20260316115741
+205.169.39.53 0 1 2885 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20260301 1 2 115041 1
+20260302 92 135 5628692 4
+20260303 61 104 4932197 3
+20260304 3 4 151081 3
+20260305 16 54 1364330 2
+20260306 202 259 3495433 9
+20260307 1 2 115009 1
+20260308 1 2 115038 1
+20260309 565 689 9802672 6
+20260310 150 194 7526255 5
+20260311 697 1090 57235121 13
+20260312 17 17 379553 3
+20260313 1155 1699 62597592 12
+20260314 382 614 48174441 18
+20260315 1 1 36097 1
+20260316 2027 2620 65488242 23
+20260317 1421 1525 9027780 2
+20260318 795 877 15786113 4
+20260319 3 12 72122 1
+20260320 2 2 72162 1
+20260321 2 4 125689 2
+20260322 3 5 240752 3
+20260323 1 2 464492 1
+20260324 897 1038 14313149 22
+20260325 6 40 1335613 4
+20260326 536 589 4972750 8
+20260327 5 8 1083453 5
+20260328 5 10 787752 2
+20260329 13 33 1979247 6
+20260330 8 46 331210 5
+20260331 9 59 2278358 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 111
+1h+ 13
+15mn-30mn 8
+5mn-15mn 9
+30s-2mn 19
+2mn-5mn 9
+30mn-1h 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 606
+/app/orders/active 3488 3717042 1 10
+/app/orders/getAll 1294 3565553 0 1
+/app/orders/statistics 1279 131690 0 0
+/app/products/getAll 209 1345997 1 2
+/login 151 7347328 90 67
+/track-order 138 1866874 5 9
+/app/products/list 112 4760947 0 0
+/app/orders/kitchen 112 4848764 8 0
+/app/tables/payment-qr 101 4392080 0 1
+/cart 96 936466 3 0
+/app/orders/list 78 3412761 0 0
+/product/all 75 1961548 2 5
+/app/customers/getAll 67 18239 0 3
+/app/tables/list 59 2486586 2 0
+/app/tables/getAll 57 201457 0 1
+/order/status/ORD202603060001 51 14267 0 0
+/assets/vendor/fonts/tabler/tabler-icons.woff2 44 23877248 1 4
+/search-products 44 70799 0 0
+/home/101 43 228123 6 1
+/app/reports/sales/data 43 10043 0 0
+/order/place 41 6381 0 0
+/product/all/101 39 1012982 5 3
+/app/customers/list 35 1480071 1 0
+/order/status/ORD202603090001 33 9194 1 1
+/assets/json/search-vertical.json 33 457907 0 0
+/order/status/ORD202603130010 4 1015 0 0
+/app/orders/update-status/eyJpdiI6IkxWbk5iLzVDREpFeUozQkZTSlMxM3c9PSIsInZhbHVlIjoiRW91MGVZN2U2Y3FmZU5zcFFUQW9QUT09IiwibWFjIjoiMzdiOGI2OTZiZWVjNTNhOWMyODU2N2EyM2FiM2Y0ZTc3MzhmYWEzNjU4NjhiYzRmYjZkYWRkYmU1NzRhNjdhMyIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6Ik9xZGY2UHRxdmFLUE9TVjN4RHJZN2c9PSIsInZhbHVlIjoiV3ZBeTFReXZUMDQxcG03Q2ZVZWd0dz09IiwibWFjIjoiZjZlZTIzMDdlNmQwMTM0YjI0MDEzZjhkMjA3YjQ4MTg1NzhlNjg5ODYyZWY2YTQwZTk4MmQ0OTI4YTYwMmE1YyIsInRhZyI6IiJ9 1 92 0 0
+/app/tables/qr/eyJpdiI6ImZZTFJhYTVubzQrblZJMS9VbHVDZ1E9PSIsInZhbHVlIjoiRHJ5a2lGczJ0ck1zckhtVVhLWDJIQT09IiwibWFjIjoiODM3YmU3NTEzMGQ5MTQ1NDBhNjdiZGFkN2U1ZGY5ZWQyZjVjZDFkYTRhYzU5ZDVlYWI0NDQyZDdiYmZjNWIyMiIsInRhZyI6IiJ9 1 44998 0 0
+/app/tables/qr/eyJpdiI6Im81S2tBdDFUTmhZckhLUkE0cHVJN3c9PSIsInZhbHVlIjoiUVBFRTdQQm54MnE4am9uVkUvWFROdz09IiwibWFjIjoiNjcwMWI3ZmRkNzMzMzVhMDY3ZDcyOGQ2MWQ1OTlkYzIxYTMzM2I1YjZiY2MxNTU2NjIwZWU1NWE5N2U4NzJkMCIsInRhZyI6IiJ9 1 44997 0 0
+/app/products/edit/eyJpdiI6ImlUbWxxRUs0a0FNbktETkZJKzdKd0E9PSIsInZhbHVlIjoicDRpR1hwSkNPMklNK29JQ21Da3p1QT09IiwibWFjIjoiZmU3MmEyODE0MWY4NWI0NzgxMWMwN2I5NWM0ZDQ4NzE3ODhkM2E4YTk1NTMzNDU4MGQwZDY0N2YwMzQ5ODc1OCIsInRhZyI6IiJ9 1 43129 0 0
+/app/products/edit/eyJpdiI6IjNTYnNzZUl3WC93S2RCN2oyandmYUE9PSIsInZhbHVlIjoiTXZjUE85UWQ5RmhkbW1GeEprL0Yrdz09IiwibWFjIjoiNzU0ZmMwMjZjMGQxNzU3N2QxNzA5YTM1MTQ4N2NlMGNiMjA1YzZhZjE4ZWI0Y2ZkMTVmYzc2ZjQ1MWQ4ZTQ1OSIsInRhZyI6IiJ9 1 43134 0 0
+/app/products/edit/eyJpdiI6Im5pNUcxOE50L1ZnaVZqUnpHNldybnc9PSIsInZhbHVlIjoiZG9QV3M1VFNoTmZzMzJ1dkYzWmdxUT09IiwibWFjIjoiNjU2OGUxZjgzODE2ZWZmNGU5OWI1ZTgzMGZjNjEyMTRiOTVkNTZkNDM5Nzg1ZGUyOTFjNDVmMTEzM2UyZjYxMSIsInRhZyI6IiJ9 1 43150 0 0
+/app/orders/update-status/eyJpdiI6IkEyajJGbUdLQVdIbSt6eXdycHE5T0E9PSIsInZhbHVlIjoiOU03ZVhud1BmelVEU0l0Q1ZVaXU3UT09IiwibWFjIjoiNTEyNmEzNDFmZDc5MmViNjQ1NTE4ZGYyMTNkZWIwZTE5NzkyYjRiNjU0M2ZjNDgyOWQ4YmFmMzc5YzMzNWQxMyIsInRhZyI6IiJ9 1 92 0 0
+/order/payment/ORD202603160004 15 119356 0 0
+/app/orders/print/eyJpdiI6IkVzSTNHbXJ0TXNuV0ZiSm5JQ2preUE9PSIsInZhbHVlIjoiRzc2aFU4RnVoc1hJcWg4N2lJbktGUT09IiwibWFjIjoiOTAwMDlmNTczMmYwYjQ5ZTU3ZjRkYTVhYmRiODdmNTMyYzNkODFjYTFmM2QwMDRmYmY5ZjQ3ZTgzZmNlNWE0NyIsInRhZyI6IiJ9 1 1458 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6IkYrSVZjUUxxTjYvRmN1Vk4wbGc3aWc9PSIsInZhbHVlIjoib0NpcExmMXpiWVk2UEE5VXRRSGphUT09IiwibWFjIjoiNzE0ZjE3MDgzNjdlZDczMDEzYjRlYzkyMWY2ZDkxYzU2YWE2MTlmZGEwOTkyZTg1M2VkMmY5ZTQ0MDAwYWU2NSIsInRhZyI6IiJ9 1 1602 0 1
+/app/orders/update-status/eyJpdiI6IlVKK0FnNWVJZnpjb1BDRitPT053clE9PSIsInZhbHVlIjoiZEQ5VTVUczNsNVlNT2JlRjU5KzNUdz09IiwibWFjIjoiNDI1NTViZDEwZDVjZTlmMzlmMmRiYTE4NGVlNDY1ZGQ3ZDY0NGFmNmI5YzQ4NmM0OGUwMDg5NDJlMDBlYjg1MSIsInRhZyI6IiJ9 1 89 0 0
+/order/status/ORD202603170002 4 1044 0 0
+/app/orders/update-status/eyJpdiI6IkhzWTB4cGFYUG5MR1NrRi96VVI0UVE9PSIsInZhbHVlIjoiZDgrL2J0SXdnYXZLU0N2cGFQZXpwZz09IiwibWFjIjoiNTBiMTc1ZmZjZTNhMzM5ZGE1ODg5OWIxNDg4MDNlMmQ0MDQ3OWFhOTFhM2Q1NTQ5ZTk1Mjc3MTk0NGYwYTFjZCIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6IkdjWVFZNjIzZjVWZVhWUWo1VjlRTGc9PSIsInZhbHVlIjoiUnJ3cnFtbG9EQ3Fwd01SbXJPSFV4dz09IiwibWFjIjoiNWFkNDc5ZGY3ZTc0N2QwMjI0NzNmN2Q2MzIxZTlhZjJlZTlhOWQxMTcxN2Y5NDA2MmNjM2M3M2JmMDdlZDZiMSIsInRhZyI6IiJ9 1 89 0 0
+/order/payment/ORD202603130006 2 13304 0 0
+/app/orders/view/eyJpdiI6IjUyYjl1RVk2Z3ZkVXFNY3ZFd1pTNkE9PSIsInZhbHVlIjoidzdycDBFT1NnaGFhRHo5MHBkNnExZz09IiwibWFjIjoiYzcwNmVkNDZiMTIyN2QzMzRkMmEyZDZkYjczNjJhNzY0MDUxNGM1NjliNTU0MjU4ZjhkZDc5MzZiYzY4ZDZlMyIsInRhZyI6IiJ9 1 44923 0 0
+/order/my-orders/09876543210987654321 1 46 0 0
+/app/orders/update-status/eyJpdiI6IkNoZEh2NWt5RFBkRjdPMmIzbG84U0E9PSIsInZhbHVlIjoidFhHZGVtU29SU3Z4c1Y4S3Vjb211UT09IiwibWFjIjoiNWU0Mzk4NzM3YzJkMGU3OTBmYzgyZmRmNTgyNzA5NjY3OTMwYzY4ZGFkYzFmYjZhM2MxNDhlZDczOTllOWEwZiIsInRhZyI6IiJ9 1 88 0 0
+/app/customers/destroy/3366993366 1 94 0 0
+/app/products/edit/eyJpdiI6InhGOEFrdGVQZlMwQTAwajlWM2xaNkE9PSIsInZhbHVlIjoiVEttMmdLdE4zK0lPeklldGpCL3VBdz09IiwibWFjIjoiYzAwNTZjYmM4MTQ5MmQzMjdjMDMzNGM4YTVhZDVlMDkwNmU0ODQzNzk5ZGU4ZDljYjhjZGI2YzY4YmE2NzUyZiIsInRhZyI6IiJ9 1 43149 0 0
+/order/payment/ORD202603130002 9 60079 0 0
+/app/products/edit/eyJpdiI6InFLTWFrcFZBQUZaSlVTZ2hTaWRxVkE9PSIsInZhbHVlIjoiTWdKQ3l1R1ZkaENIQ3RSSWdxbUc0dz09IiwibWFjIjoiMjc1OTFjNTAwNDZjZTY4MzRiZTNjOWZhNTQxNTE0OTFmZWFkMDIxYTRkNjFiNDU0OWQ0N2Q0MDM4Zjc0M2FmZiIsInRhZyI6IiJ9 1 43138 0 0
+/app/customers/destroy/8866442211 1 94 0 0
+/order/payment/ORD202603130001 1 6704 0 0
+/app/orders/update-status/eyJpdiI6ImN1eTFYWlh5V0tZdWpYWk5qdWhjbmc9PSIsInZhbHVlIjoidkFQOXdMUGVoK2NjdkJLSGt1bHBwQT09IiwibWFjIjoiOTBlNTJkNjgxMDY0MmI1ZDdmNWYwM2IwODI1ZjVjMWVkNmM1ZjBjNDdiOThkM2U4Mzc3ZWUxOWUwZGMwMWVkZiIsInRhZyI6IiJ9 1 92 0 0
+/app/products/edit/eyJpdiI6InN4ejJ4T3JvYWF0andEcEtvT0xsY0E9PSIsInZhbHVlIjoiNSs4aEJBL2xSdG9tNVc5S1h5d1lKdz09IiwibWFjIjoiYTE3YjIwNTUzMGIzZTU4OTk4NjgxYmM5MWFhYzNkYmMyZGQ2ZDMyYjJhYThjMzNhOTJlZWRlMzY3ZTc5NjFiOSIsInRhZyI6IiJ9 1 43147 0 0
+/order/payment/ORD202603130008 3 20820 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6IkxHSlpEWEpEVVV1STQvcTQ5ekJ1Nnc9PSIsInZhbHVlIjoiRFhvYWsvNzRpcFozS2dVTzl3Y3hvdz09IiwibWFjIjoiMjcwOTgxYTRlMmYxZGU5OGJlYWVjMzUwNjMxNDdhNzZhZWJjMmMzNTdjNzJkNGM2ZTFjYjdiOGQxNTY3NDJkNiIsInRhZyI6IiJ9 1 1617 0 0
+/app/products/edit/eyJpdiI6Ilh5dnFqeW1OSHpUdVR0ZU9na3ltUmc9PSIsInZhbHVlIjoibDZzWFJkNWtlVXNIaUtPcmNBTFR4dz09IiwibWFjIjoiNGNmODhiYmY0ZjYxMzk3MDJmNGNkYzk3ODZhNzM0M2RjMDhkOWQ0MDY5MTVmM2FmNjRkODIzNTBiOGRkMDRmYyIsInRhZyI6IiJ9 1 43150 0 0
+/order/my-orders/8866443322 1 46 0 0
+/app/customers/destroy/9090909000 1 94 0 0
+/app/products/edit/eyJpdiI6ImVDTCtXNEMvczdTVVhYREtsQUw0Y0E9PSIsInZhbHVlIjoiNWVVNyszbThxZ1pDeTd1VkZSRlIyUT09IiwibWFjIjoiMmFmNDY4MzI3ZjQ3ZTYxNGM5MzU3N2UxZTEyNGZjMGE4ZmEzMjgxZmExZTVmODIyYjFjNmFiYjk0MTk1MWQ2ZiIsInRhZyI6IiJ9 1 43136 0 0
+/product/Maggi/104 1 15060 0 0
+/app/site-users/getAllSiteUsers 20 26102 0 2
+/app/orders/view/eyJpdiI6IlRkblBSZ2pqd3dSSmQwMEhKcEJLWlE9PSIsInZhbHVlIjoidFhwY21ZRHZ0a2ExaEdwdG5yUmY3dz09IiwibWFjIjoiNGRmNjhlNjkxZDM3NTAzMzQ0MjQ2ZmEzMjM1NWFiMWJmNmI5ODNiYWIyZWFiMTdkOWI1ZjM5ZjNlYzVmZDk2ZCIsInRhZyI6IiJ9 2 89471 0 0
+/app/orders/view/eyJpdiI6IjNkUkZPVWprQ211MkpyYlQ4VVQ5YVE9PSIsInZhbHVlIjoiZkdnUWQrUG5rcEc1cjhVVnVOT2R3QT09IiwibWFjIjoiZjgxYzQ2OWE1NjZkZDU4NWVmOTgzMzBhZDg2OWYxZTE0OTA5YzBiYWM4ZTVkZTMyYjFjN2Y2MmNjYTlkMTlmMiIsInRhZyI6IiJ9 1 44748 0 1
+/app/orders/update-status/eyJpdiI6IkFFNXk3alRDS0R6VHlwUHZxVFY2K2c9PSIsInZhbHVlIjoiSENCVU1ra29PZkp0V2czZnhLQ3dldz09IiwibWFjIjoiMGY4ZDVhMDM2ZjYxNDRmYzQ4NGFmZmU1ZDY2NzZmNDkzYzMzMWNiZDQzYzFkZTliZDIxYmIxMDA4OTk3MGU3ZCIsInRhZyI6IiJ9 1 89 0 0
+/app/orders/view/eyJpdiI6IktDWXFqbHRLZ1ZyRGRmbHFpTDVlOHc9PSIsInZhbHVlIjoiZGtXWVdJY3Qzb0FJYXRoSEpLdUlyQT09IiwibWFjIjoiMzE4MmM1NTA4ZGRjOWMyM2JlOWUzZDFmMTVmMThlODY2YjUyMWZlZmUwOWJmMDYxY2IzZmUzY2NiYzI2YjlkMiIsInRhZyI6IiJ9 2 89770 0 0
+/app/orders/update-status/eyJpdiI6IktmSktiU3c3TUJ3RVdkdjcreXBOWXc9PSIsInZhbHVlIjoiRXZFMWxYeFVvM3BVbmU1dFBGaDZqUT09IiwibWFjIjoiY2I1NTkzNjYwNjIwMzI4MzVmZWY2MzU2YjRjMGYzN2Y0YWM3ZWY1YTE0ZjkwN2VmMjRlMmVjOTkzNzc4MDU1ZiIsInRhZyI6IiJ9 1 88 0 0
+/app/products/edit/eyJpdiI6IkkxM2NMdy9lYzFXdzBhZm5YbEhKS2c9PSIsInZhbHVlIjoidFk0Um5xcWhRaytkUEpNQXhzYlZiQT09IiwibWFjIjoiZGFhZDJmZmJmOGE2MzRjY2FhZjJjOGJiYWNhNDJjZDk3NjI1ZmFhMjFmZjA5MzY5ZDlhZmE1MWM0NTRkNGU0ZCIsInRhZyI6IiJ9 1 43146 0 0
+/app/orders/update-status/eyJpdiI6Ijd0ckpra08yZStNbllRKzV3WHR3dUE9PSIsInZhbHVlIjoiY3pVbTF3YkVBemFwMC9nbWY4QjVmZz09IiwibWFjIjoiMTAyZTM2ZDdiNmZmYWFhZjY0NGVmNzllZGQxYmNmNDExZmY2Yzc3MThkYzE5MmNiMmNjOTU2YjA4NWU0ZGJhZiIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6IjZERjRISVVuekhtdVd0eGZWd0ZXc2c9PSIsInZhbHVlIjoiRjlKc1RhRlJCU2NEUVNNK2hjL2ZRZz09IiwibWFjIjoiMDgyZmE3ZmRkYjY4MjAyZmU4YjVjYzUwMjJhNjM3MDk0NGI3MGM0NDA5ZTA2Njk1MWM1MDY0NWRjM2I1NjBjYSIsInRhZyI6IiJ9 1 92 0 0
+/order/status/ORD202603130005 6 1613 0 0
+/app/orders/update-status/eyJpdiI6ImNjWWdzYmM3dTVqaFIxRCtMS2w0MUE9PSIsInZhbHVlIjoieDNCN2J0V0NqRW1GaTBIZEkyOTUydz09IiwibWFjIjoiZmQwNGVmYmVkYTA5OWFlYzM4MGEyOTBmNWIzYjE3OWE0OGUxNGJlNzY4YTg3MmU0OTEzNmYxMjU5OTJiMjVjYSIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-payment/eyJpdiI6IjU0M1h5ZExNZDJSZEYvYytGcFNLV0E9PSIsInZhbHVlIjoiVDNpV3lEYWp0ek83QUp4NWkrV0RKUT09IiwibWFjIjoiMWIyMWI1YjUyN2MyMzgzYjIwNDJiMGNjYzJmODVmMjUwOWE4YTVhZGFiYWJjYTMyNjc1YTg3ODA0NjdhOGI0NiIsInRhZyI6IiJ9 1 93 0 0
+/app/orders/update-status/eyJpdiI6InI1ZXdUQnlnR0EwVFl2Yktha1NXQUE9PSIsInZhbHVlIjoiWklOeEc4WStSK2UxRC9RZ05sRkoxUT09IiwibWFjIjoiMmYyZTJjMDUwODczNGJhZDY1ZWM2ODQ4MjQ1OTNiNGNmNzdiYWQwZWRkMjNmYjJmZjhhNTM2Mjg3NTQ0YTk0YyIsInRhZyI6IiJ9 1 92 0 0
+/app/products/edit/eyJpdiI6ImNzVUNLckhMT1h0Z3g3MWVuQzNVSkE9PSIsInZhbHVlIjoiVExldnN3anRKNXJBR0lGS2dVekQ2QT09IiwibWFjIjoiOGY0OTMxMTAwOGI4NmIwNzM4NTZiNWUyY2IyMmZhYWRmYWNmODUwNmFmOWQ2NTBmMzVmZWJiZTQ4NGZkNmE4YiIsInRhZyI6IiJ9 1 43139 0 0
+/app/customers/destroy/123456789123 1 94 0 0
+/order/status/ORD202601220006 1 335 0 0
+/app/orders/update-status/eyJpdiI6IkhuSEdvTGJKQVE4NUdrdTNhTHhJT0E9PSIsInZhbHVlIjoiR3pmU2ZmYVRrRlJhRDN0VnFoR2pBZz09IiwibWFjIjoiMjU4Yjk0YWM2NjViNTZmNWU1MTVkNWRkZGZlM2FkZTkwZGY3NjEyYWM3YTA4MzZlMDU0OTNlNjhjNmMyMTEwNyIsInRhZyI6IiJ9 1 92 0 0
+/product/all/108 5 126734 1 0
+/order/table-active/103 17 2026 0 0
+/app/orders/update-status/eyJpdiI6Ik5WMmk0SXhkSVB1KzRWRUNPVEJaaUE9PSIsInZhbHVlIjoieENVOTBjdWhab1pXM0dTQjdNRnBLQT09IiwibWFjIjoiMzFmNDJkYWMzNDAzMGU2ZDg0OWNlZmI0ZmMyZGE4NmU0N2M4ZDg2OTc4YzAwMjcxNWM0NTM3OGM5NTlhZDhjNCIsInRhZyI6IiJ9 1 88 0 0
+/app/tables/generate-payment-qr 11 16950 0 0
+/app/products/edit/eyJpdiI6Ilo5N1hlTkw1SmhWakc2bG9xa1hkT0E9PSIsInZhbHVlIjoiNzZHOXQ4WEltMFBwaFg2Q0FmZXRqUT09IiwibWFjIjoiMDQ4ZWVkMjEyZGVmNWZjOTNhODc1Y2FiNDUxYWUzYmE3MjdkMmNkY2NlMzhjY2M0MThhM2ViZTUwNjUxNDY4NSIsInRhZyI6IiJ9 1 43144 0 0
+/product/Maggi 1 15060 0 0
+/home/102 22 135177 10 0
+/order/status/ORD202603160002 14 3784 0 0
+/app/products/edit/eyJpdiI6ImpRbVhxREplNXg3WlE5NERFVmQ4alE9PSIsInZhbHVlIjoiZGN6UUpobEJYWk8yY0k1V3hYWC9QUT09IiwibWFjIjoiZTgwZTQ2ZTNhZGVkMDZiODkyOWZhMWFkODQ4YzNlZTAxMTRiNjllNjk5ZDk0MTE4YzdiZWZiMDkyMDFjMWIwMyIsInRhZyI6IiJ9 1 43152 0 0
+/app/orders/update-status/eyJpdiI6IkpxQ3hFYjNkMWYzdFl3R0RBU3Q0cnc9PSIsInZhbHVlIjoiZmJGUEo3ZXZrS1Ywcng1VE9tK3FIZz09IiwibWFjIjoiOWFkZWQ5MmM5OGRlNmVkZjE5OTQ2OWU5MDdjM2I2NTE4Nzc2MWE0ZGU0OWE3MWRjMzY1ZDIzNzY0MGEyZWM3NyIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6InVneWFjMnBHdWhZbjRXZGJFTEU0c0E9PSIsInZhbHVlIjoiRWZJTGFseFFYZ0sxSFNjUXg3VGZ4dz09IiwibWFjIjoiNzg1NDk4YWNlMjU4MDhkZmE4YjdkNTlmOGZiNjdkMzdhOWU3YWMzZjViZjk0M2ZkYmNmMzcyYTVkMzg1YTc2YSIsInRhZyI6IiJ9 1 89 0 0
+/app/orders/view/eyJpdiI6IjlST3Z2N3lydXpLa1pCekhvcjZZZGc9PSIsInZhbHVlIjoiT3dHQmt3dDJHdFN6dVZyLzJOZHE0Zz09IiwibWFjIjoiMzZhN2EyYTdmM2M3ZGZhMWI2MDE5OWIzOTliMWRmNGJkOWU1ZmEzNGU1YjRkMDRjZGUwNTQ2MzY5M2RlYzIwYiIsInRhZyI6IiJ9 1 44782 0 0
+/app/orders/update-status/eyJpdiI6IkFZUmdJN0ZITExCa1RqbmxvR0Y4Z2c9PSIsInZhbHVlIjoidUVEMjR3SnBQd2dzQk1lWU9hMG9HQT09IiwibWFjIjoiNjdmNTI3NTAyYjFiZmM5NjE0Mjc1ODU0YjQwOGNmNmJmNTEwMDY3NTM0MjA5OWI0NmFmYzYxMTdkODc3YWMzNyIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/print/eyJpdiI6Im43Wk16dGxwaWhtcDdFRVN5K3NpU0E9PSIsInZhbHVlIjoiSnovVWZEdUluQ3E2MjlzQ0hyaU80UT09IiwibWFjIjoiYjU0MTg2MDZlMzQwOTczNjI5YmI2YjBmM2UzZDUwMGJhYmNkNzExYjM3MjBhNjBkOTM4NmRhNjkxMTEyMzk0ZSIsInRhZyI6IiJ9 1 1451 0 0
+/app/products/edit/eyJpdiI6InVESG1SLzIveE5NWTNOL2YvUUZVM1E9PSIsInZhbHVlIjoiM2xIOTZPblBpbzdVMmNhMVFxSUhlZz09IiwibWFjIjoiZWNhNzM4ZGIyYTkxZjEwN2I1Mjc2OGM5YTk3OGY1ZjQ0NGRlZDlhMGFjMzY3OWEyYzkwOGFlNmRiNDIzM2Y5OSIsInRhZyI6IiJ9 1 43156 0 0
+/app/orders/update-status/eyJpdiI6InJQRXZlbGdhOEY2bCsyOHpHcVFUdXc9PSIsInZhbHVlIjoiNGxsaVRDaTF6TXF2aUg1cDllTUJwUT09IiwibWFjIjoiY2U3ZTc2M2IxODk1MDE0MjkyODdjMDRkZWE0ZDE0YzA1YjdhNDM1M2M1NzgyMzI3MWU4YWFhZmFkZTcxMWJmYyIsInRhZyI6IiJ9 1 92 0 0
+/app/products/delete-image/eyJpdiI6IjRUVkhJMVBOSE9aVExlMXJwNUU0RVE9PSIsInZhbHVlIjoidWN5ZTJrN01ZWnp4RnJGZmFnem96QT09IiwibWFjIjoiZmE5MzM0ZGQyMjQxZDVlYjU5MzMwMzA4NTVjNzhiODU1OTU5ODllN2Q4OGUwY2YwY2NmZTA2MmZhNTUyYjcwYyIsInRhZyI6IiJ9 1 36 0 0
+/app/orders/update-status/eyJpdiI6IlQvL0lyK0ZXVXdzbCtZMi9tMWl0cUE9PSIsInZhbHVlIjoiZWJvY2toSjZhUURKNTkvaUhWWmJIZz09IiwibWFjIjoiN2Q5NzNlZTRiYjRmZjU0MjA4NDE4OWU0MmUzZGQ0OTk0NGJlZTFhY2M2ZTMxM2NiMDAyZDRmNzg4NjE2MjkwNiIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/print/eyJpdiI6IkpRU2picStPWEpoZ2NwcHJ0WVZ4NHc9PSIsInZhbHVlIjoiaGg4OWpzNWdGVk5YVEtZZ3RBYnlYdz09IiwibWFjIjoiODA4ZjU2MDU3NTk1NmE5MWUzNzVhZDhlYTQwY2ZhYzY4M2FkYWQ2Y2JmNDI2ZDQxYjJhMzE3Y2I2MjU5NjQ2NCIsInRhZyI6IiJ9 1 1428 0 0
+/app/orders/view/eyJpdiI6InZyL01iSC9qckpwYTUwOE9rZEJ2b3c9PSIsInZhbHVlIjoidmppU3RmQ1hZbWovOElSN0FiVjNDZz09IiwibWFjIjoiNWRjNzFhNDdkMGI0OTMzYzNjMDE0Y2MwMDY0NjczYTgwNDJmNGRlMTI2ZTFkOWVkMzJlOGIwNDAzYjgyMzljMSIsInRhZyI6IiJ9 2 89563 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6ImN4Um04YndTLzRjMno0SStUaVZ0SFE9PSIsInZhbHVlIjoidU1vZDNnRkNDNFVsaHdTRTNDWkhZZz09IiwibWFjIjoiYjdjNTY3OGY0NzE3YjlmYjAzZTQwZTc5NTUyYmY2ZjA1ODc2ZTg5MDBiN2Q0YmQzOGYzNzMwN2YwZmUwN2MyNiIsInRhZyI6IiJ9 1 1617 0 0
+/app/products/edit/eyJpdiI6IlZTUjh0MXdlZzJoTDYrZzdGcU1rUEE9PSIsInZhbHVlIjoiR1M1ditTTmhzMm5jdlJ3RVZFOGpQUT09IiwibWFjIjoiN2EyNDJhMTNhYTdlMzg2Y2NkMTVlZmIzZmNhNjM2MDExODY1MjhiZDMyYmQ3OTE4M2QyMWJjMjllY2RjMTJjMSIsInRhZyI6IiJ9 1 43145 0 0
+/app/users/edit/eyJpdiI6Iml3TklhZWhJVWowVVVZVi8zMlFlU3c9PSIsInZhbHVlIjoiT2o4d1g0cWpvOHdQcXRPcTYrcEEzQT09IiwibWFjIjoiZjYzOWU5YjkyNDdmZmM2MDYyZWI1NmRlYzVhZWEyYWYwZjFkYmYyYjk1MWQ2MGU0NTIyZmZkMmI3MjU0MjRmNCIsInRhZyI6IiJ9 1 42600 0 0
+/checkout/104 6 45451 0 1
+/app/tables/qr/eyJpdiI6IlV1aUNRTFRHYnp6dUlMMk9CSlZ0V1E9PSIsInZhbHVlIjoiZ0kxWE1zRFBJZm9NSTljQUw0ZUYxdz09IiwibWFjIjoiZDdlNTQwMzFlNmU0MzgyYmY3OTFmYzEyMTBiMzJkYzU4MGIzMmVkMzExYWMyM2M1NmE5NWVhNzI0NDQxMmRkZCIsInRhZyI6IiJ9 2 90252 0 0
+/app/products/edit/eyJpdiI6InVMZnlrNk9zOHdxQjl6enFLUld1RXc9PSIsInZhbHVlIjoiSW9lMHZUUHZLanJjb0cyTFlkeTZzdz09IiwibWFjIjoiZWM3NGQ4MWU2OTRlY2VlYjczMTcyYjYxODkxMDNhZWJlM2VkMThkZjA2YTJjOGViN2MyMzcwYzkwZmFiYjNkNCIsInRhZyI6IiJ9 1 43152 0 0
+/app/tables/qr/eyJpdiI6IjFtZytSSGxKNmp2VTRZeTluMEIyOXc9PSIsInZhbHVlIjoiR3F4eFFoSjh0REgyQmhkSVZlUW9iQT09IiwibWFjIjoiNWQ5OTQ1MzUwMTM3ZTA0Njk1MmI1N2M1YmYyOGNkYWM0ODM5ZTEwODcwMWI5Yzg3ZDFlZmEwNGE3YmQ1MTNmNCIsInRhZyI6IiJ9 2 90179 0 1
+/app/users/edit/eyJpdiI6InVUbHgxWGVsQjVwYnRyb04vaXdyQ2c9PSIsInZhbHVlIjoiT05USXpSR0dMVGRyTjJNZU5DcDR4Zz09IiwibWFjIjoiMzViODMxNjhhZDcwMDlhN2JiZDhkNDZlNzYwNGU4MTIyMGI3ODQ2N2ZmMTJlY2MzNDE1NTc4ZGQ3ZTc2NDEwNCIsInRhZyI6IiJ9 1 42623 0 0
+/order/status/ORD202603130012 4 1014 0 0
+/app/orders/update-status/eyJpdiI6ImE5UTdQa2VvNFl6WDVIemxvMmxYb0E9PSIsInZhbHVlIjoiTGJRNzZjSmVpcmxwd1owdmRpVWtmZz09IiwibWFjIjoiMjE1ZWY5YWI0Mzg4ZDg0YjIwNWU1MTI0NGVhMmQ3MWFkNGVjZGQ0NzEzMTI4NzdlZDgzZTE5ODMyMDRlYTZiMCIsInRhZyI6IiJ9 1 89 0 0
+/app/orders/update-status/eyJpdiI6IlErNDU5a29McXVkVlZYcGJVVkM0bnc9PSIsInZhbHVlIjoiSS93SXA2UGQ4MmsvY0k5KzM3UFVjUT09IiwibWFjIjoiNGFiNTc4MmI5MDNmNWUxZTk3NmE4OTA5MzA2ODlmMThmMDI3OWVmNjg2MzkyNzBkM2Y0ODBkNDMyMGZhMjU4MyIsInRhZyI6IiJ9 1 89 0 0
+/order/status/ORD202603130009 1 253 0 0
+/app/orders/update-status/eyJpdiI6IkUybXFONFdYcnhWZDF2TGdvRTE4N1E9PSIsInZhbHVlIjoiRVVkWUN2em5jcXp5YXluUExhSkthQT09IiwibWFjIjoiMDJjOGYwOWFmOGVjZmU5ZjdlOTU3MzdkNDhmZjBmYTkwOTJmMDM1MjM2OTFjNTBiMzIzMzc2MTk2MWRjMTRmYyIsInRhZyI6IiJ9 1 88 0 0
+/app/orders/update-status/eyJpdiI6IjJjdzVrdW5udWlTM1NSMW1XeURWeVE9PSIsInZhbHVlIjoicU5hM243OFowNzBxZWhSQmFGbVUvZz09IiwibWFjIjoiM2YwMGYzMjAxNWQxMjBlNzE0MTFiOTk0NjIyMGMwMDRkNmQ2NjJiY2E1ZmI5MzhjNmQwNTdmMzU4Nzg5ZmJmMiIsInRhZyI6IiJ9 1 92 0 0
+/app/products/edit/eyJpdiI6IkpYTVQrMlBzMk4wbThOVFE1SXorUnc9PSIsInZhbHVlIjoic0JyWExZcHZ6ZGl2dC9CU0lPeTEyUT09IiwibWFjIjoiMGFlYjNiMjQ2YzBjOGU0NTA5ODQ2YmI3OTVjMjQ3MjdmZDdkMGQ2YTI0Mjc5OTM2NDI3OGNiMjFiOWU5MGNkZSIsInRhZyI6IiJ9 1 43145 0 0
+/app/products/edit/eyJpdiI6Ikp0SkM2TkRZVUdQd0lEVkdvQU1Fd3c9PSIsInZhbHVlIjoiWWp1OW1Jc3U2ZENvRjRHQVU4WEMyZz09IiwibWFjIjoiNjZjODMzMmI0NjBhOWRkZDA0YWRlZTI1NjJlNDY3ZDZhZWUwNzk3YTA3N2M0YjgzMjY3MTAxODA1ZTI3MjYwMCIsInRhZyI6IiJ9 1 43134 0 0
+/app/products/edit/eyJpdiI6IjNpRkJMRkxxSVEvcjYxNlhZU3lzUUE9PSIsInZhbHVlIjoiNW9WQzBhNlpPcDNMV0RzaEtlV1IxZz09IiwibWFjIjoiODQzMDU4MWRkYWFjZDQxNmZjNjlmMWNiN2VmYTg1YzA4ZWU0M2NmMzk4YTkzYTExNjY5MTkwOWVjMmIyNWU4ZiIsInRhZyI6IiJ9 1 43146 0 0
+/home/105 2 11129 0 0
+/app/orders/update-status/eyJpdiI6ImZwSUFkMEhYd0pZeHhaZCtsdjdDL0E9PSIsInZhbHVlIjoiSXZtUHIyN2o1SG4remJ6MDJDV2FSUT09IiwibWFjIjoiNjIwOWYwZjA2NTQ0ZjViZjU3YzkxNGFhNDEyMjllZjU0M2RkNzcwNzk3NWI5MzI2NjQyNDJjOTEwN2M3OTE4OSIsInRhZyI6IiJ9 1 88 0 0
+/app/products/edit/eyJpdiI6IjJEWmU0UkhKT1gzcXJhV1Z0Nk90Tmc9PSIsInZhbHVlIjoiUng1dURLWnFva1I5UjZWVDdaVXZ4dz09IiwibWFjIjoiYjE5OTQ5MTIyM2RmMzg3ZTk0YTQ3YjlhODc3NDZkOTBhMzVhZjE5Y2ZlMjM4YTE4NDBiZDI5MzY2ZjZkZTU3MSIsInRhZyI6IiJ9 1 43140 0 0
+/order/payment/ORD202603160011 1 6967 0 1
+/app/orders/update-status/eyJpdiI6IkhVZys1ZnR6Sld3c29sREluaEFlbUE9PSIsInZhbHVlIjoibUFXZHZnYzh1QmpTVUdKUlRuVEM0dz09IiwibWFjIjoiN2I3Y2I4NzBiMzQwNTE5YjA0MDU5MWY0NDc3MjUzNjFjMzQzZGEzOGU3YTMxOWVjMTViMTNjZjRkNWMyYmI2MiIsInRhZyI6IiJ9 1 88 0 0
+/app/orders/update-status/eyJpdiI6ImIyQmg1eHlvdC9vMjFwVkh0NkQ5RGc9PSIsInZhbHVlIjoidG9abFBtYXR3STBPZS9HMUhSZ0o1QT09IiwibWFjIjoiYWRmZThhODEzNDUxOTQ0NmQ3MGE2MjhmNDQ4YzBjYzlmYWNiYTUzMWY1N2JiN2JhNGM4NTJlMjEyODFiM2JiMiIsInRhZyI6IiJ9 1 89 0 0
+/app/orders/view/eyJpdiI6InNWYWMvVjdsL3pwbVhpM2ZoWm9BbkE9PSIsInZhbHVlIjoieTJlbDBrbVpjVlJPVFFuVncrTTZGQT09IiwibWFjIjoiNzYzNjczMjI3OGJjNWY3MjJiNTEzMjkwZDAzMTJjMDFlNDQ0YzhmMjgzNzcxNzg2MjI3NzY3M2Q1NmE3OWVmMSIsInRhZyI6IiJ9 2 89642 0 0
+/app/orders/update-payment/eyJpdiI6Ikl0MVk4eXRHSU1IZ1pRT0tnMm9MbVE9PSIsInZhbHVlIjoiWnZqbFBTenNFcXJ1emZ0azVtWlJVUT09IiwibWFjIjoiNWRhN2FlYjA3NDExZmM3N2Q0NTRiN2NlNDhlMjU4MzVjNWY4ZTMwNGRiYzBlNDFiNjNkNGQyNzg1ZmQ2MDM1MiIsInRhZyI6IiJ9 1 93 0 0
+/order/status/ORD202603160006 1 253 0 0
+/app/orders/update-status/eyJpdiI6Img3UXpGa0NpcHdRcXIwc1JYcndSVkE9PSIsInZhbHVlIjoiRnFsWFlZZ04wU21HeVpvb0diL21ZZz09IiwibWFjIjoiMDNmMzZiMDZjYjUzNjdkNzRmNTcxM2MyOWEzYWM1ZjBkNzhkYWEyNTI5YjcwNWE1NzI2NjYzMDA3ZmI2ZGIwYyIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/cancel-item/eyJpdiI6Ilk4MlZpbVpvai85dkJwQVdyaFIyWHc9PSIsInZhbHVlIjoiMjJ6NVJxYm03VkRNN2ZBTDlFYm5nZz09IiwibWFjIjoiODFmNDhkYTAwYzlhMjBlMDU1ZGUzYzg5OWU0MDcxZTQ3YTJlYTE3ZjU0YjYzOGNkZDM5MDkwMDM2NWFhYmI5NiIsInRhZyI6IiJ9 1 79 0 0
+/app/products/edit/eyJpdiI6Ii9icnE3b0xSaGxuOE9mNERRYmZuYkE9PSIsInZhbHVlIjoiaU1HMlVoTVFRaFlYMmw3bi9NQ0ZwUT09IiwibWFjIjoiMzc2NDI2YjIwOTUzNWE2YzU5NmQ2MjA1MDJkNTllNTVkYjMwOWMyZGRjNGIyZDljNWJlYWQ3ZDA0OTRhOTg4ZSIsInRhZyI6IiJ9 1 43150 0 0
+/order/status/ORD202603170001 2 502 0 0
+/app/orders/cancel-item/eyJpdiI6InJWVk5zbysyZEczb3orMG80d0JTc2c9PSIsInZhbHVlIjoielN2akFXUXR6Tlo3TGUyQndFdXA3UT09IiwibWFjIjoiZjdjNTgxOTNkNTM1MzUzMDdhYmNmYzhmNTliMWU5MTcxMmNmYWE2ZWIyY2MxNTJmNjQ5ODRjNjU4NzA1NTdhZiIsInRhZyI6IiJ9 1 79 0 0
+/app/products/edit/eyJpdiI6IkR0V1lOQXFjdHBncFJ5RWpCOXdXOUE9PSIsInZhbHVlIjoiZXV4NFk3amhtNUFVV3AwUXhkNmlLUT09IiwibWFjIjoiM2NhMWQxMjlmZWUyNTVjZjBiMTczNmY4OGU3ZTU5OWUzZjZlZTIyMjRhYjZiMDQ4OWQ5ODY1ODQwMTkxYWE1NCIsInRhZyI6IiJ9 1 43157 0 0
+/app/orders/cancel-item/eyJpdiI6Ilk3NjZuUFpWU0s0WFhWRXlDbGxIM2c9PSIsInZhbHVlIjoiU25TaEtWK1dVMHZidHQvYnljTXhzQT09IiwibWFjIjoiZWFlYzZlZWYyMGRjOGU3OTI3MmQyYzMyYzFmM2Q2OTFlYWY1NTEzMmVlNmI5Mzc5NTIzOWY4OTQ4OTMwMGE3MCIsInRhZyI6IiJ9 1 79 0 0
+/app/orders/update-payment/eyJpdiI6ImhTMEtiVktQVHBlZEpTUWRBdzAxYkE9PSIsInZhbHVlIjoiZ20rczE1UGhpZ245b0VnSERZdVp1UT09IiwibWFjIjoiMWRhYWYyMTIxYTFhMDRkZTIzN2NhMTgyODE3YWI5N2FhYjM5MTViZGU4MDg5ZmQ4MzRkOTdhMGQyNGNiYjQ2YyIsInRhZyI6IiJ9 1 93 0 0
+/app/orders/cancel-item/eyJpdiI6ImdRS0pISktZSDZyWGQ5VENOM25xakE9PSIsInZhbHVlIjoiR0trUy9paUdxZnNVM1o3UHJGWVRFQT09IiwibWFjIjoiMDgwNTVkNWJlMDllODVhYmJjNzg3NThiMTg5NDE5N2VkMDFmMjlhMmQ5NWJmMDgxMTQ5YTMwZGU5YTMzZDFhNyIsInRhZyI6IiJ9 1 79 0 0
+/app/products/edit/eyJpdiI6Ikl2YVlicTlhOFJINWhqZ2NGekxPN1E9PSIsInZhbHVlIjoiMlNvR3hoR3BOU0tSK2IwUnN2NmZBQT09IiwibWFjIjoiYjVhNWIwZDk4OWIzNDFlZTdiNjdmZDRhOWYzZjMxMDNjNjA0ODA2MWEwZjAzNDhmMzE4ZWFjY2MwOTg0OGVhYSIsInRhZyI6IiJ9 1 43149 0 0
+/order/my-orders/1234567899 3 520 0 0
+/product 3 76940 0 0
+/app/orders/print/eyJpdiI6IndwU082R0JTdDlFL29aTWErSDMwV2c9PSIsInZhbHVlIjoiRDJSVmErZzFjcUdoZ2krMHp6SEl6dz09IiwibWFjIjoiMDAzODM1MTQxZGQ3MDgzMDYzYWY5NGI1ZDY4NzVkZmE3MmY4NzUyNTUxNjAyMWVlOGE5NTAxYWJiZjZlNmI1ZCIsInRhZyI6IiJ9 1 1429 0 0
+/product/Sandwich/103 4 65570 1 1
+/order/status/ORD202603130008 3 791 0 0
+/app/products/edit/eyJpdiI6Im5pbjlkRitDdjAxV3hpaC9MeEhJY2c9PSIsInZhbHVlIjoiaGpOSENXSGhqdXdHZy9jQURzeTBCdz09IiwibWFjIjoiNjQ1YmNhYzU5ZjU0OTI4MWNhMzQ0Nzg5MmU1ODE3NTIyN2JhNGMwY2M0OWNiNjlhYTVmMmUzYTVjNDc3ZGZkZiIsInRhZyI6IiJ9 1 43140 0 0
+/app/orders/update-status/eyJpdiI6IlFObVB3UmdaN1paRmRzQ3VoRGdhWnc9PSIsInZhbHVlIjoiam03bUlVR0pRdkxJMVBERm1pR0l6QT09IiwibWFjIjoiNGE1YWY4MWFkMzU3M2JiMDQzMzE3YmY0Zjg1YmE1NThhYTFmNWJjNmEyMDNjOWYwMGFiN2IwMjhkZjI2OGU4MiIsInRhZyI6IiJ9 1 89 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6IllCdGZoWjFIckpCdkgwWm8wU1c1ZHc9PSIsInZhbHVlIjoiYnlFdjNmZVFlL1hrc0tHM1ZMdmFxdz09IiwibWFjIjoiYzJiNDAzYzRlOTBhMWU4MTFmZDZiYTU4NzJiNjNkMTM1YzkzOTY4NThiOGQ5ZWYwMGEyMWRjNjExNzYyZmVkYyIsInRhZyI6IiJ9 1 1617 0 0
+/app/orders/update-status/eyJpdiI6IlYxU1phUXpra2xES09seklnMWVIQ2c9PSIsInZhbHVlIjoiS2hWaEZ4QmF0ZnphM0ZXMEQ4UGVhQT09IiwibWFjIjoiNDY1MmJkNDczYjIyN2Q3MzIxMjQ2NzgwMzA0MDdkNDVlYzJlZjk0NDgzZDNkZjE1YzJiZGE5M2Y4OGFmNTMzOSIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/print/eyJpdiI6IkFRZHFzUXYveldTeDhmZ25leUZDM0E9PSIsInZhbHVlIjoiUWtvWkgzQUFyRVZzSGd1L3hzREJ3dz09IiwibWFjIjoiODhlZDk2YWE1YTBhOGJhNDY0YmRiZjZmNTJkZjhhZTBhMTY4ODk3ODVlMDg1YjRlMDkyZmYwMmY0Y2M5NDgxMyIsInRhZyI6IiJ9 1 1446 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6Im1HZnhzemxJODhPMDFCK2RJZkJoQXc9PSIsInZhbHVlIjoibzJoWDdHYmV2TENTM0p4NjY2MXo0UT09IiwibWFjIjoiOGJiMDQxYmFkY2IzN2EyMDA0NjI0ZDk5YmE4NTBjY2FlNWY0OGE2MmYwMzRmM2FjNzQyZjAyM2VhNTAxZGMxYyIsInRhZyI6IiJ9 1 1592 0 0
+/checkout/106 2 15062 0 1
+/orders/payment_generate-upi-qr/eyJpdiI6IkJQMXR0Y2R2d0N1NzZZdjdNWWttbVE9PSIsInZhbHVlIjoiZk5xZXNzZ1lEeE9EQm5GT1hldTI0Zz09IiwibWFjIjoiNWRkMWQ3MjdhNjIxMDM5MzE1M2E2YzAzYmQzMmRiM2E2ZDg3OWZmOTQ1MDg2OGU0OTRkZDRjNWVkNzViNjlkZSIsInRhZyI6IiJ9 1 1625 0 0
+/app/products/edit/eyJpdiI6IlA3cFM4b2NPS0l4SUFwaFBCay9MU2c9PSIsInZhbHVlIjoiUUd2OUdLQVVZSTVweGRSem1UTWJWdz09IiwibWFjIjoiYTE5N2E5ZGQzMmVlMDQyNDQ1NzQzNzcwNjk3MTc3MWY3NmY3ZjhhNTM2YjMwYzM0NGVlMzQ0YjVjOWNkODc5NiIsInRhZyI6IiJ9 1 43150 0 0
+/product/Fresh%20Juice/101 4 79799 0 1
+/app/orders/update-status/eyJpdiI6IlREWlpVL2dlbkxTSGgvTkVlM1lkbVE9PSIsInZhbHVlIjoiamVBVC9FNFpJY1BhWm5yVzRVUzBvdz09IiwibWFjIjoiYzUxOWUwOThjYjM2MjQ1Mjg1MTNjYTlkNDc0MWUxODc2Mjc1Yjg2OTE0ZGEwNzM1Mzc2ODUwOTU1ZWY0NDE4ZCIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-payment/eyJpdiI6InFyaUlpWFhMNVB6dWpoS0M0M0NrdWc9PSIsInZhbHVlIjoiSmFheW9HOERJTGQ0UGxXZ0RhNkRkdz09IiwibWFjIjoiNjk0MzZjNDljYWFlMzc2M2M3YzhkODZmMzI5ZTE4ZjRhNmY4MTQ2OGFhMmJiMmU2ZTMxYzIzMTdkMmFkNWZiNyIsInRhZyI6IiJ9 1 93 0 0
+/app/tables/qr/eyJpdiI6IlVJcXBNaERtZXFmYjJqT0FqSEg1dmc9PSIsInZhbHVlIjoidEhDMDQ1SHJVZDIyemNWVFFRa3Ixdz09IiwibWFjIjoiYWU5NTJkNTVjY2Q1ZDkyMDBjMTY0NTE2ZTFjNTAxNzJmYTkzNjY2MDdmYjg5NjYzNWQ4ZGFkMjgxYjkwODJhZCIsInRhZyI6IiJ9 1 45073 0 0
+/order/status/ORD202603160014 2 511 0 0
+/product/Strawberry%20with%20Chocolate/103 1 12686 0 0
+/order/payment/ORD202603180001 2 21502 0 0
+/app/products/edit/eyJpdiI6IjBVTEQ5ZEhTWmE1ZHhicFlHZ3UvUlE9PSIsInZhbHVlIjoiaTNCRE9rbUFuaWNnLzNjVVFUV1dFQT09IiwibWFjIjoiMDY2OWZhNjU1OGY1ZmMxNWQyMGRkMGZjNzc0OTdhNDVmZjc3NDhjNTg3ODQ4ZGY2MTQyMjc4YzM4YjVjMDRlYyIsInRhZyI6IiJ9 1 43154 0 0
+/app/tables/qr/eyJpdiI6IjN1RURleFd5YXQrY0VrMEpKd0xIMWc9PSIsInZhbHVlIjoiRndoNHg2aWpDMUl6OVBjajIvUXJnUT09IiwibWFjIjoiMjUzZTczNDkzZWUzNGMxNzhmMTRkN2M5ZmVhNzQzYzlmNGRkMzE5ZmNlOTBkN2NiZmJjZTRkZDRhMmVhMTBiOCIsInRhZyI6IiJ9 1 45093 0 0
+/app/orders/update-status/eyJpdiI6IjZBcktiMzk4LzQ2SHRYZmpwTk1XOVE9PSIsInZhbHVlIjoiTzQ1TVZqcWZCcjZ4U3VWSWo1ZXlVZz09IiwibWFjIjoiYWE4MGRhZjYxMjVkMDA3YWQ2YmEyNWZmNzAyMjZkMmY2YmJiOGI0NTE0M2U5NTcxZWQ4ZTRjNDU0ZTI5MDg1MSIsInRhZyI6IiJ9 1 92 0 0
+/app/customers/destroy/7016339178 2 188 0 0
+/app/orders/update-status/eyJpdiI6IlZjaTJSY1dlZUl4ZkFhWTN5ZFFqU0E9PSIsInZhbHVlIjoidnVUWS9rK1lJdVZJNk1yT3dYeXJ6Zz09IiwibWFjIjoiNjFkYWE0YWQ1YmM4NTMyOTQ0YTAxMTNmYmI3YTg5YmVlYTI2ZDY1YzBjMzdiNzc4OGRhOWRjNjJkMWE2ZTJiZSIsInRhZyI6IiJ9 1 92 0 0
+/app/products/edit/eyJpdiI6InJyNmlEUTB0am1OSGJGekxicTlENmc9PSIsInZhbHVlIjoiNndoWndDY1FOaWlSUENGSWg2U2FiQT09IiwibWFjIjoiNjNiNDAxMThmMWFjZDI0MjFmNWMxNTY3NWM1YjNkZTVkYWQyNTNmZWE1NGQyODA1ZGRkODEzMjgyODM5MzliNCIsInRhZyI6IiJ9 1 43146 0 0
+/app/products/edit/eyJpdiI6Im5GZWlySFZmRk9pSUt5SzNMVU5TdUE9PSIsInZhbHVlIjoiWFBNK0RHTDhJa0lNNGhKbUhWcXl6dz09IiwibWFjIjoiNDc3MDZlZTIzODQ4YWZlMzM4ZTdhMTQ2M2E3MDAwMTYzMjAxNDAxYTZmYTI5MGJlNWU1ZTA0ODQ4NzAxOTViNiIsInRhZyI6IiJ9 1 43151 0 0
+/order/payment/ORD202603130004 14 81610 0 0
+/app/orders/update-status/eyJpdiI6IjhYT2lHU2JkU2NiS0NSNTZPUTNIVkE9PSIsInZhbHVlIjoiYVIwZmlmTFhPdVZxUmtQVEpQaFhodz09IiwibWFjIjoiOTU5OWNiOGExZjIyOGU3MjZiNjZiNGU4MTk4ZDJiZmM1NGZkMjE5YmZkOGU1NjUzMzg1YWM0ZDU5ZDE0YmFmNyIsInRhZyI6IiJ9 1 88 0 0
+/order/status/ORD202603130001 7 2037 0 0
+/app/orders/view/eyJpdiI6Ikh0TUZocnMwOXV5alozWjZBTENXSEE9PSIsInZhbHVlIjoibktvb3owSUhEZTN4WlNhOU4xV3ZzQT09IiwibWFjIjoiNmYyYzI2YjFlZTMxYzE3NmQwMmVmYjUyOWZiZWM0NjcxOTBmZDlkZjllMjgwZmNlNjA1MTljYjg1NDk4YWVhMyIsInRhZyI6IiJ9 1 44835 0 0
+/app/products/edit/eyJpdiI6ImV4NTNxVHcvdGFwakFsOGlhRGpCYXc9PSIsInZhbHVlIjoiTGh4dFlkVUdnV2ErcUZMdnlmYUJOQT09IiwibWFjIjoiZDU5NDZhMDBiNzc4NzM5YmU2ODcwOGM0ODkwMjFlMTg5Y2NlYWRmYjIxNjcwMmE0MTA1ZjVlNWY1OTY4NmViNCIsInRhZyI6IiJ9 1 43138 0 0
+/app/products/edit/eyJpdiI6IkpQKytDKytINkQyODMvUjNvWWl4WFE9PSIsInZhbHVlIjoidVBjY3VJZEttTUVmc3hvOFVTU2x0Zz09IiwibWFjIjoiNThkNDVmM2U3MmZlODRhMjRhMDYzMWJjNjlmMTg5Y2Q3NTEyZTE1NDAzMWNhYjA5YThhYzVkMzFiNzdmMmMwZSIsInRhZyI6IiJ9 1 43143 0 0
+/app/products/edit/eyJpdiI6IjMxNFJ3eTExOXNubVR6MHl4WUdYZXc9PSIsInZhbHVlIjoiMzNsSFNaSFVWbzJzUEI3eEFkdVlXZz09IiwibWFjIjoiYmY4NDY4OGU4MjMxYTZjNDUyYWMwZWQyYTY3ZGRlYmVmMDY1YTYzZWUxOGFmN2E3NjVmNTBlZDI4OGFjZjk4MCIsInRhZyI6IiJ9 1 43154 0 0
+/app/users/list 25 1057838 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6IjFXdnNuNXVFbGJCWWlRTDQxN3kvWlE9PSIsInZhbHVlIjoiR1BFWGZwOUt3MGR4TWl6enBKRzhsUT09IiwibWFjIjoiODhkNTIwOThiMTM3NjE5MTgxMTFmZmJkOGZmOTE2Yjk4YWE2YzkzMDMzMzFmZmE4NDgyODAzY2U4YTIxZDk1YSIsInRhZyI6IiJ9 1 1598 0 1
+/order/payment/ORD202603030001 2 12464 0 1
+/app/products/add 5 212374 0 0
+/app/orders/update-status/eyJpdiI6IkxOK1puQWxkekJ1Myt2M09ZeU56UXc9PSIsInZhbHVlIjoiQ0RxdkE2d2xoeENVNHQyTXFrbGwyUT09IiwibWFjIjoiY2VkM2ZmNWMyNzkzZjg2YzMwNmZlOTE3MDQ2ODlkMGRiNDBlMTU1ODkxNjgzZWU5MTU5M2M1OGM3ZTNmZWM2MSIsInRhZyI6IiJ9 1 89 0 0
+/assets/vendor/fonts/tabler/tabler-icons.woff 1 1008144 0 0
+/app/products/edit/eyJpdiI6IndPUzNVT05QMXM2aWJxS2lGOFVJa0E9PSIsInZhbHVlIjoibWZaVHdFbFpFUFBJTTdFeVJkbEdtZz09IiwibWFjIjoiODlhZWViMjMxODM1NWM1MWE0ZWVkZmNiM2Q4YTE1YzIxNzJiZmQ0MGIyZjU0ZDAxZmQyYjYxYjQ2MTI5OTEyNyIsInRhZyI6IiJ9 1 43134 0 0
+/app/products/edit/eyJpdiI6ImxBVkdEdml2Y0ZnT2hwTmwxL1ZlV2c9PSIsInZhbHVlIjoiNFJGSThyYzdHSG51bWdOZWpTcVVadz09IiwibWFjIjoiYmVkY2NiNDU0YTAzOGEyZmIwMzJkZDIzNGJmNDFhNzI0OGFlMDA4ZWJkNTg2ZDk2ZjY2ODEzMzRlZTQ3MTMxMyIsInRhZyI6IiJ9 1 43136 0 0
+/app/orders/update-status/eyJpdiI6IkpIeXVIMEZidW5yZDViVmZzZXRuT2c9PSIsInZhbHVlIjoiUWtaNG5nWVdVV25NbHVlam9EczIrZz09IiwibWFjIjoiYTcwYzgyNTE0MDU1OGZjZGRiYWQ4ZDRjZjhiMDRjYjc2YTE2ZGY5ZmFlY2RmYTI5ZTZmNzdiYWMyZjUzMWU0OSIsInRhZyI6IiJ9 1 88 0 0
+/app/products/edit/eyJpdiI6InBzZGNtcnkxTE5ta2pzTWlENnBGWEE9PSIsInZhbHVlIjoickNxRE8yczhHVGIzRldkY3k3cXF5Zz09IiwibWFjIjoiMTg4ZTRhOThlYTczMjZhNmRiNjVkYmFlOGM2YWEwNWUwZWM2OTM0YTJjMDY0OGNlMmY0OGI2ODlhOGZhNjc0MCIsInRhZyI6IiJ9 1 43137 0 0
+/app/customers/destroy/9321962251 1 94 0 0
+/app/orders/update-status/eyJpdiI6ImYvSDdDWGZhcEFFemJXSUVlV1gzbVE9PSIsInZhbHVlIjoibytyckRZSnF4S0dDdzluNThTalZNUT09IiwibWFjIjoiNTU4YWEwZTZmZDgyMGYzZmE4NjY1ZWU0NmVlZGU0YjQyMDczOWVkMDQ5ZDk4YjJiNzljNDdlMzBmZjdhNmNlZCIsInRhZyI6IiJ9 1 92 0 0
+/app/products/edit/eyJpdiI6IkZEV1FoQlg1Z05MOGdHdkdwN1N6MVE9PSIsInZhbHVlIjoidmN4Z242bFNYdXRMUjJwWHlXNUI0QT09IiwibWFjIjoiNDZlZDg0Mzc4ZjNjY2I3MzYxODc1YWYwNGFkZGYxOTg1Yzk1NWY0MzFkODZlNjYzNDc0OTE5ODQwMGQ1N2ZiOCIsInRhZyI6IiJ9 1 43137 0 0
+/order/table-active/105 2 235 0 0
+/order/payment/ORD202603160005 2 14996 0 1
+/order/payment/ORD202603140001 4 30854 0 0
+/app/tables/qr/eyJpdiI6ImRnV05BMElRUTFLaVd4L3owL2wrRVE9PSIsInZhbHVlIjoiemw5M3dXY1kza1ZZcHUveUdENXRYdz09IiwibWFjIjoiNmI4MGYwZGYxNjEwMjgyNzcwNzE1OGY5MzkyZDY1YTNlZjFmNWJlYWNhMDAzYTkwNGQ0ZWNmNmVmYjEzZjQ5ZSIsInRhZyI6IiJ9 1 44995 0 0
+/app/orders/update-payment/eyJpdiI6Im1BWWZWRHo5TDRVcWZBOXJFK05xV3c9PSIsInZhbHVlIjoieml4elpYbUVOY2wzTnl6SzhGdEFPQT09IiwibWFjIjoiMzg5YThiMGRkMzliMzNhMDAyZjg1YjQ1ZGI1NjNmMjY3NjgwMGJhOWY4ZmZhMGJhYjEyOGIwMThlN2E5NjZkMSIsInRhZyI6IiJ9 1 93 0 0
+/product/Pizza 1 14128 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6IkYxRE5sdXlJMzZSRTVvdElSOHdRUlE9PSIsInZhbHVlIjoiYW9IZmptVjdHWkVzMjhuR203QWRCQT09IiwibWFjIjoiYmNjZWZjZGRjODRmZjY2NzQxMWU5M2M0ODI2NDU0OTQ1MmVlMGE3YWVlMDIwZDAxM2ZhNjY3ODVkYmRiYjFkOSIsInRhZyI6IiJ9 1 1617 0 0
+/app/orders/view/eyJpdiI6IkdmMWtJVjFPb3EzZ29Pem1UMk1JWEE9PSIsInZhbHVlIjoiR1BqVEhpMnRHL0E0eXQ1RmNzY1ZQdz09IiwibWFjIjoiODZiMzg5NGIxOTljZjM2NDQ3ODJkMGE1NjkyYTVmNjBmOGZmNTJlNjgwZDg5MmVlOTNjMjczMzQ1MTU5MTMwZCIsInRhZyI6IiJ9 1 44800 0 0
+/app/users/edit/eyJpdiI6Ik1ZNmVOWGpaR3NPZU1Dc3VCRVFSQVE9PSIsInZhbHVlIjoiQlV6cnVlSWlTbXFrc0xkTVhGSENidz09IiwibWFjIjoiOGNhMTQ0MDU2YTVkYTA0YTBiNTEyYWQ4Mzg2ZGE1ZWE5NzdlMDE5MDNmNmRlZDdmMjU4ZDYyYTg1NjE5ODJjNSIsInRhZyI6IiJ9 1 42620 0 0
+/order/payment/ORD202603160009 1 6990 0 0
+/app/products/edit/eyJpdiI6IkZnMUJyaFhtaGczSy9vaytyUjY3c2c9PSIsInZhbHVlIjoiazFuSkgvL292bnNpOXNlL2tLdjMzQT09IiwibWFjIjoiMGM2ZmFhYjgyMTczOWNhYjBiNWZjYWVjOGYxMTFlOWI5MTA5NDY5N2QyYjI3NjhjYWFiMzJkMGRkYTY4ZWQyZCIsInRhZyI6IiJ9 1 43140 0 0
+/app/orders/update-status/eyJpdiI6IkdoNjBRZFU0bXBrd1lKeE9PbUYzM3c9PSIsInZhbHVlIjoiT1N1T0RNS1BJQng0SFJ1ek5XZGhUZz09IiwibWFjIjoiZjE2YjI0N2MyNWUxZjc1ZTU5MDZkMjg4ZGRiM2U1ZmEwZGFiNGEyNTRjOGY3NzY1ZmRhZjAxNTU4NzQ0ODc1NyIsInRhZyI6IiJ9 1 88 0 0
+/app/orders/update-status/eyJpdiI6IlFPdVBPTHNtNzlUVzAvVmNXTjVQWFE9PSIsInZhbHVlIjoicklnZDA4Nm1USWcxUlUyVlRYaVRyZz09IiwibWFjIjoiNzM4NzM2Y2YzYzUwZDlmNTNlZDE4YjlmOWM2YmQxODI1NDM1MWZhNzA3ZDZiMWM0MDdmNjUzNjc1Mjk4NmU5MyIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6IkZRNmRORE8zQjlXRzhnaEtBeFZhK3c9PSIsInZhbHVlIjoiWXEzcUkxOXI5Rzd0b21FWWt5U3dJZz09IiwibWFjIjoiZDg5ZDQwNmYwNzAxNzBjOGMyM2ZlYWEzMDkxMTI3ZTE0NjA4NWIyNTUxZWJjZjZkZmViZWE5NzljYzYyYTMyMSIsInRhZyI6IiJ9 1 88 0 0
+/app/orders/update-status/eyJpdiI6ImdNNkE4ZjRRWHpSN2J1SHYvblBUK1E9PSIsInZhbHVlIjoiMnZBbUdLeEQzYVRUVU5ockV5QkFRUT09IiwibWFjIjoiNDEwZjhiZDU1NDEwMTViNjQxZDJjMzljMjRhMWM5MmQwNmM0YzdiNjBiMmQwMjBjOTg2MWZmZmNkYzI5MDQyMSIsInRhZyI6IiJ9 1 92 0 0
+/app/tables/qr/eyJpdiI6Ilo3dHZsWlZWVjBFY0h0RUc3d1haemc9PSIsInZhbHVlIjoiRE40d3lzL2pxR0JualUxQXIwQjRHUT09IiwibWFjIjoiMWQ2MzM1MmNmZjk0NzE3MTNmOTYwOTY5ODEwYjVhMjYwZjliOGE1OWRjYTE3ZTlhZDQ5OTUwNTZhMjUyMzQ0YiIsInRhZyI6IiJ9 1 45095 0 0
+/app/orders/print/eyJpdiI6IlF6ZGQrMk4vZ0JlSUtGalVHUmVLeVE9PSIsInZhbHVlIjoiczcwYnZBeHhVbUZ5czJZQW1haStldz09IiwibWFjIjoiMTdhMDM3NDIxNjNlY2NhYTkzN2JjNGQ2Mzg5YjM3OGMzNjIzOTc3NDliMmUyZjJkNzJiZDdhMmY1MTdhMjhiNSIsInRhZyI6IiJ9 1 1476 0 0
+/product/Puff/101 4 70948 0 0
+/app/products/edit/eyJpdiI6Imx2dG03VUNNdmMvTGF1Q0dxb24wRWc9PSIsInZhbHVlIjoiK2NlaDhZSGxGaVJ2bmxLckl1TmhFdz09IiwibWFjIjoiMWExM2JmMjYyOTU3YmE3NmJkZTc5OTBiNGMzNTZlN2JmYTYyYzQ3Njk5YWVlOTgxMWM2ZmFiZmIwNTI0OTQ2OSIsInRhZyI6IiJ9 1 43142 0 0
+/order/status/ORD202603160001 8 2072 0 0
+/home 29 161142 1 0
+/orders/payment_generate-upi-qr/eyJpdiI6IkJTWWVYTG1UMnR0TjFucTlNd3BXTkE9PSIsInZhbHVlIjoiNGFQc096S1FJZThlSm5jMDdhS2svQT09IiwibWFjIjoiY2EwZjc3YTYxMzM0ODZlZDRjMjdhYzEyZDA0NjdhMmI0MjcxMGE3Y2Y2ODRjOGVmNDdjYjA1ZWVhMjVjNmJiMiIsInRhZyI6IiJ9 1 1636 0 1
+/app/orders/view/eyJpdiI6IndaNnlpdlNUWWE4Ymxoazg2S0s5Vnc9PSIsInZhbHVlIjoiK3VqMDlBZ0tpU1NscVlmRHRNMUVzQT09IiwibWFjIjoiMjNlM2I4MjkzYmU4OGRlNmM2MzA4M2VkZDUxMGI0YzQwNTE5NGIyNzEyNTMyNWY4MDg5NDJiYjNjMmM3ODNiYSIsInRhZyI6IiJ9 2 89719 0 0
+/app/orders/update-status/eyJpdiI6IjRNbXRsQmFRdTBTMk1lREEvN25rV0E9PSIsInZhbHVlIjoiaEVCYXc3dDBCOUlSdHl2UmcvY1N5QT09IiwibWFjIjoiNGYwNzI3NjZkODdjYTRiOThkM2Y5OTQ3ZGY2MGQwNDUwMDU5OWQyYTk1YjViZTA3OGNiM2QzN2EwYzUzMTBhZCIsInRhZyI6IiJ9 1 89 0 0
+/app/orders/update-status/eyJpdiI6IllvdnRUbklYQndKVlM3eXNwR3hicXc9PSIsInZhbHVlIjoiMVpUZk1LOWsvNFJCYW93M0swelZLUT09IiwibWFjIjoiOGYzNmU1ZWRhOGJjMGIwN2I4MjU0ZmZlOWIyMGIzODIyNTU1MDYzNjI5YjBkZjk2NDFiZTJiZDAwZGRlZDRjNCIsInRhZyI6IiJ9 1 92 0 0
+/app/categories/list 10 420653 1 0
+/orders/payment_generate-upi-qr/eyJpdiI6IjF5YkY5dlJpM3l4MmNPRUthNnNyeUE9PSIsInZhbHVlIjoidlY1M0FGeWM2Y1JycFgwRWh4REwyQT09IiwibWFjIjoiZWI0YTEwNGUxN2IzYjZkYjdlZGRkNzBjMDk4ZjNlODgxMGEwZmYyZjBiZGRhYjdhYmE4M2NkMzA4ZmNkMDQzOCIsInRhZyI6IiJ9 1 1636 0 0
+/product/Mocktail/103 1 18711 0 0
+/app/products/edit/eyJpdiI6IkpmdzNDM3M1a2lTVmRkQU1aK05vMXc9PSIsInZhbHVlIjoiV3FqNUVHUHpUMUlUVkdUR1Z2TzdCUT09IiwibWFjIjoiNmI2OWVlNzNiNTM5OTlhNGY1Njc3MGFjOTc4YWI3ZDk5N2YxNzYzYzIzY2MwMzE3MjUwZDU1MWFiNTE1ZGQ3NCIsInRhZyI6IiJ9 1 43165 0 0
+/app/orders/view/eyJpdiI6IjA4RURhRERRS2k0YXQ3c0xFSUU4MHc9PSIsInZhbHVlIjoiU2Jib2Q2WEoyQXRaeEp6cW91WlFhQT09IiwibWFjIjoiYWU3NjRjZjVmZWZjOThkYmQ4ZWFmMTc2MTY0YzBhZjE4N2VlM2E0NThjMmU2YTAxYzU5ZTI1NzUwN2I0MzNmNSIsInRhZyI6IiJ9 2 89695 0 0
+/app/tables/qr/eyJpdiI6IlVMeFkra2UzUlRyT1BxdS9iRk1GcXc9PSIsInZhbHVlIjoiN243TmpUeDRSeWwrUis2TEE4K2JvUT09IiwibWFjIjoiYThiNzcxNTY1YjQ4NThiYWU0ODE2YjZjN2JhZTc3NzJjNjVlNDc2MTY3YzY3ZGY5NjYyZTVmOTExNDM1MmM3YSIsInRhZyI6IiJ9 1 45096 0 0
+/order/payment/ORD202601280003 1 5265 0 0
+/app/orders/update-status/eyJpdiI6IkoyOXpueVpQbmQwM3V5bnNjQmRxVEE9PSIsInZhbHVlIjoiUzJuT0lrZFU2azBHNUszMUhLbTBlQT09IiwibWFjIjoiOGE2ODAyMGFmNTE4NDljNDExNTExODA4YWJkODIxODQ1OWUzNjVmZjk1ZGI4YzhhMDY2Y2U5YzdkOTNjZDllOSIsInRhZyI6IiJ9 2 184 0 0
+/order/payment/ORD202603130011 1 8019 0 0
+/app/orders/update-status/eyJpdiI6Ik95MFR3dEtqbWlOUUxmbEI5UmtYY3c9PSIsInZhbHVlIjoiNlNGRklPUkU1UTZ5eHpGQnBweTNtZz09IiwibWFjIjoiOTJjOGVkMDk2MzNlOTM0NjU0NTMzOGU3OGM2MTdjZWE1MGY2ZTg5ODAzMjg3ZGMzNjI1YmU3Mzk1NjM3ODYzNiIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6IkVtaThwSUw1OEludFo3VTY3LzQ2SFE9PSIsInZhbHVlIjoiaHM1aWVnd2dMN1h0WE1OWlJZeFJHdz09IiwibWFjIjoiYzI4NTA4YTQwNjZiNDBkNjNmODdmM2MxODdmN2JmMzc1OTU4ZDQzZjdiODQ4MGVhNGEyNGIyYTA2MDE1ZDI0OSIsInRhZyI6IiJ9 1 92 0 0
+/order/status/ORD202603130006 12 3190 0 0
+/app/orders/update-status/eyJpdiI6IlBydG1GUGZvQ3NPd3NXa1h3VGlOWGc9PSIsInZhbHVlIjoibnpIeDE3NUJqUE1iWTl6bXoxRk9GUT09IiwibWFjIjoiZjFiNDBmYTYxNDk4ZmI1YTAyODNjOTY4Y2RlYzg0NTI2YjEyNGYyZWNlNzNmYzUyODgzZjkzYTM1YWIyN2YzMCIsInRhZyI6IiJ9 1 92 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6ImZHRlE1ZStJMityS3JSVDdvQk85U0E9PSIsInZhbHVlIjoiVHBJbDhDNHprNHNyNXBUNHJrZDFKQT09IiwibWFjIjoiZjJjMTIyYmIzNzQ3YTQ2YTg3OTgzYmM2OTNlMThiOGRkZWEzNThlYjE4NWY0MmRjYmIyZDM0MWExZWQzOGE2NSIsInRhZyI6IiJ9 1 1915 0 0
+/app/orders/print/eyJpdiI6ImVsY2JjY1daMTBpN2VyQnBCZWdPeXc9PSIsInZhbHVlIjoiUklyU1EzWUlWeDhrVVpqdUJOSUNKZz09IiwibWFjIjoiYzhhZGQ5NWE0NTUwYmVkYzBkODNmMWRlOTYyNDg3MjcxNzZlN2ZiMmE4M2E0MmQ0YWIyMTc5ZWUxNWUzOWZjMCIsInRhZyI6IiJ9 1 1459 0 0
+/app/products/edit/eyJpdiI6IkhhQktHSEYwZmF1aWQzczREQm02QWc9PSIsInZhbHVlIjoiVXdGM1pWWWFLZytCK2d1QzZmUEpOUT09IiwibWFjIjoiNmVhZjZmMzE5YTJhOGUyYTc4NWVmOTM1NTU4MGM3ZjNhODdkMjQzMzZiZTU2MzI5MmQ0ZjEyYWZiYjA3Y2Y5YiIsInRhZyI6IiJ9 1 43145 0 0
+/app/orders/view/eyJpdiI6IkhBTEtieGFZKzBYVTlOd0RjbDB5NWc9PSIsInZhbHVlIjoiNXB1ZlpzMnNEVER3aC9nVHpaYkhWUT09IiwibWFjIjoiNDBiMTM4ZDM3MzEwNzNmODk1OWZjODI0YmIyZDlmZTY2NjZlNjZiNTk0ZmJhODM1M2RiNjY0M2VmNmY0ZjkxMyIsInRhZyI6IiJ9 2 89748 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6InEzTlhueklrSjh2b0FqTzQzQm5LZEE9PSIsInZhbHVlIjoiZTQ4U0xEWHV5VEdGVHBIRlRud1BTUT09IiwibWFjIjoiYjA5NzEzMWY4YjFmZjlhNjRmMDVlYmMzMDJiODgyNDFiMTJhOWUyZWJhYjM3ZTFjNmRmNmNhZTFhMTRiNDdmNSIsInRhZyI6IiJ9 1 1613 0 0
+/product/French%20Fries/102 1 12773 0 1
+/app/orders/view/eyJpdiI6IlVIT01oYzByMVZ6VGVBNkJjb1FzcUE9PSIsInZhbHVlIjoiOWY3YXVUN1o0RnNQaytLenh5cEUrQT09IiwibWFjIjoiYjkxZGI5OGQ5ZWFiMjE3NjY5MDBmMmY3YjY1Y2Y4MDkwNmM2MWUwZDliZWU2MDBiNzRlYTNiMmE3ZmM0YmUzNCIsInRhZyI6IiJ9 2 89757 0 0
+/app/customers/destroy/1122334455 1 94 0 0
+/checkout/107 7 52831 0 0
+/order/status/ORD202603130003 5 1316 0 0
+/app/orders/update-status/eyJpdiI6IklNaTFVakx2Z2tDWWsweEZqRlZaV2c9PSIsInZhbHVlIjoidmhIcHUySk40aHNQYW9uWGJZMjZZZz09IiwibWFjIjoiMTA0Njk5YjliNTNjOWU1MzU5MmI4MzMwN2VkOWQwYzhiNzU1MzYxNmE0ZWFkZWFkMDcxNTljNWU0MTFiYTg4MyIsInRhZyI6IiJ9 1 88 0 0
+/app/products/edit/eyJpdiI6Ik9nUFNjaWV6a3lqWFN6K0hwcTRyQXc9PSIsInZhbHVlIjoiay9CVDQrT1ZPQ091RzVFUlU5U0lUZz09IiwibWFjIjoiNDE3ODgxYTI3MzQyNzVlOTBmZmY2ZWZhOTI2M2I1ZDBiZTE4ZGFjOTkzYzIxODk4NzhlZjE3ZDJkYTg3NTQwZiIsInRhZyI6IiJ9 1 43127 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6Ik5sUHJBbWtDdzVJaEVrVmlJZlllTXc9PSIsInZhbHVlIjoiTWJocjBUZjRnZXY1dlFFTEw4WE9MZz09IiwibWFjIjoiMGQ0YjJmMjlkNDNiMmQzNjA4NTBlZjZlZjA0OTE2OGYwY2E0ODg0MTkwNmFhMjNjOWViM2RiMDc5ZjliZDk1NyIsInRhZyI6IiJ9 1 1592 0 0
+/app/orders/update-status/eyJpdiI6IlZmRms1L2VSL05Xb3ljeVFmWkZNR0E9PSIsInZhbHVlIjoiY3dmSkV6OWowRzlZVVUraFd5VVQvdz09IiwibWFjIjoiMzFkYjJkNTJiOWVlZDdhMGMwNmVhNjA2N2FmNTNiYjNkZWE5NWExNWMwMjE3ZmJiZjJiZmZlNjg3ZTIwZGQ2NyIsInRhZyI6IiJ9 1 89 0 0
+/app/orders/cancel-item/eyJpdiI6Ik9FWDVuaGVIYTM5Mmk0L1JJOEVTMkE9PSIsInZhbHVlIjoia3hDK1RRNjZDWXcwMENUMXluTktTUT09IiwibWFjIjoiY2VjOWNlNDJiMzRmYWI1YTQ1M2FhZTIwZTMxNjEwNGY5OWQwYTgxY2YzZGM2MjI5NjlkNWY0NjAwMDhkNTRmOCIsInRhZyI6IiJ9 1 79 0 0
+/app/tables/qr/eyJpdiI6ImJjb1owTkF0aHdQbHYwcXB2a2NnR1E9PSIsInZhbHVlIjoiZ3A3R3U1bjBuTURwL01PaThXbjFkdz09IiwibWFjIjoiNzMxY2E1MzdhZTU0ZGViZDUwOWQyYTMwZTM4MGI2NTMwOWNhZmRkNDJkNTYzNjBlYWJiMzJkNGE5YWUyYTBiYyIsInRhZyI6IiJ9 1 45091 0 0
+/app/orders/update-status/eyJpdiI6Ik0yRDZGU3Y4K0wxM0VzOTRsOGhqeUE9PSIsInZhbHVlIjoiMEFnYXZUYU55WUZvclJRZ1czRnVrdz09IiwibWFjIjoiZWViYWE5MjRmMjE3ZDM2NjU4NWE1M2RiYTM2NDVkYmRkZmMyZWUwMzk1MWY0YTlhMDgyZjkyMmNmYWQwYzE1MiIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/cancel-item/eyJpdiI6IlZtNjNDZG51NzQ0TFNtSkJXQkJxZWc9PSIsInZhbHVlIjoiRG1ZWEY2T01zdSt2Y0JQMFUwdFg3Zz09IiwibWFjIjoiNDI1ZmVmYmY4NWM2ZTg2NDZhZmJhYmU5MjMzMDJjMzcyODM4ZDFjMzZhOGI3Y2MxYjc5Y2Q0MmFlOTE1ZGY0ZiIsInRhZyI6IiJ9 1 79 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6IjYxcGYrTWp2Nk5iSDJCK1NKQ3lMUkE9PSIsInZhbHVlIjoiUWh1T1dMUWVoaEY4MVFvVXNMeDQ0UT09IiwibWFjIjoiOWNmZTlkNDg3NTMwOWJmNDZiZjM2ODU1NzQwMzkwMDRjZDlkYTNiM2JhYTcwMmJmMWFlNzU5YjU3ZWIyMjZhOSIsInRhZyI6IiJ9 1 1617 0 0
+/app/orders/update-status/eyJpdiI6IkhhbXRHZXRjZ3JBNWR1QTZhY2pUc1E9PSIsInZhbHVlIjoiTVI1cTF5Y3RZMFB4a1FlcE9NK0lHZz09IiwibWFjIjoiMDRiODNmOTQxYjZhZDI2Mzg5NzVjZjY5YjUyODZjZGI1YjdiYmZmZDA4YTgzMTY1ZTZiZTFiMWFhNmQ2YWQ4NyIsInRhZyI6IiJ9 1 92 0 0
+/app/tables/qr/eyJpdiI6IjVzOTRka2pxc0liL09qa3FOalVIRHc9PSIsInZhbHVlIjoiUEpjVVNSK29Ha0grbW1PU3BBOEduZz09IiwibWFjIjoiYmYzYTU2N2QzNTg5N2EzYjBlOTVhZjY0ZGFiZmZjNWE4ZjgwZTRiM2EwNTM0NGFjMTZkMzNiZDhlYjk3NTAyNiIsInRhZyI6IiJ9 1 45097 0 0
+/app/users/add 1 42345 0 0
+/app/roles/edit/eyJpdiI6Im1hYmM2VnBVb0JNdWpFQTlUemFya2c9PSIsInZhbHVlIjoiRzhpenM3VXRoMnN4VXhDWEQ0WG5jUT09IiwibWFjIjoiMDAzMDUxOTAxMTQyZTY4YzViZGQ3NjE4NzRlNWI4ZDFjOGRkMTI4OGNiMjcwNzhhODRiNDhjMGY0Mzc4MThmZSIsInRhZyI6IiJ9 1 44625 0 0
+/app/orders/update-payment/eyJpdiI6Im5GSVFtSHQxSEQrYXhnK0NoM0RCeHc9PSIsInZhbHVlIjoiRW1lUW8wMEZtckFPQ3IyMDh6bFpJZz09IiwibWFjIjoiNTM1YjViOTg3NzFkNzJlMzJkZDRiMjM0NjQ1OTRkY2JkY2NkYjk3ZTRhMmQ3OTFjMzQ2ZDIzZDNjZjQ0OGVlZCIsInRhZyI6IiJ9 1 93 0 0
+/app/orders/update-payment/eyJpdiI6ImlaOXhlMmNsVTVkcXJTSjhDQnN2ZUE9PSIsInZhbHVlIjoieHdoaExrOHp1L0tqSFB0MlZHMUFNQT09IiwibWFjIjoiNGY4MzM0MDU5ODRjNjRiNzI3ZGFjNDYyYjY1YzY4MTZkYmY5ODM1OWQ2MjRkYzBlMDgyM2EyZDFmODdlMDU2OCIsInRhZyI6IiJ9 1 93 0 0
+/product/Milk%20Shakes%20and%20Thick%20Shakes 1 22506 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6IkVIa21zS1lERklkQmQxdzhZN0pNQkE9PSIsInZhbHVlIjoicmdxQXZSVGdGa2wxa1B0R3E2NnArQT09IiwibWFjIjoiN2VkNTRiM2Y5YzMzMDNhOTM2ZDlhNzA5NmRkYzg2ZTgyM2ZlNjU3MWRhZTVhMjY5OGVlZGY2YTRmZDMzOTIyMCIsInRhZyI6IiJ9 1 1970 0 0
+/app/orders/cancel-item/eyJpdiI6ImJHYkxCc25BeHRnWkFVNFcrNVpmaXc9PSIsInZhbHVlIjoiZ0JKSlBaaWo4RXBCVnN4b3BDQ2U1dz09IiwibWFjIjoiYTFhZDBmMjFlMjE1N2RmNGI4YTI3NWQ1ZTYzNThhNjI2OWEwODlmOTExYmUyMjM2NmEwYzczYTZjZGI3NzZlMSIsInRhZyI6IiJ9 1 79 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6IjgyektWMk15WlVyVWlFZXg2Y0dacnc9PSIsInZhbHVlIjoiQ1ZUUUhpZnRuUDRKYUFZN0JBS241QT09IiwibWFjIjoiNGViZjJlYjBiMjM3MGQyMGJhMTczMWRjODJkOTg3Yzg4MTZjZGMxYjYyYjEwN2VkOTIwMTY5MTJjYTEwNDQwNiIsInRhZyI6IiJ9 1 1607 0 0
+/app/customers/destroy/8460533295 1 94 0 0
+/order/payment/ORD202603130003 1 6669 0 0
+/app/tables/qr/eyJpdiI6ImJVN3pZdlFUc2Z0T25wL3VqUEcxdUE9PSIsInZhbHVlIjoiUEowV2VacmxINCtCeWd3NDVFU3JGZz09IiwibWFjIjoiZDNhZjM5Nzg0Y2Y3YzE2MDU5ZmMwZjQxYjY5OGE4Y2I4YzZiYmVhOGYxMWMyZTI1YWI1YWNhYWQzMTUxOWNhYiIsInRhZyI6IiJ9 1 45022 0 0
+/app/tables/qr/eyJpdiI6Ik1ELzd1M3U1Y0N0QnZpcUI4bTRTRVE9PSIsInZhbHVlIjoiRDFBNUo5dlBYZGlMRGVtMS90T1lxdz09IiwibWFjIjoiZWUyN2UxZDQ2YzIxNDNlZjAzYmZjYTUwYTYyZGMyZDNhYzk5OWRkNGJhMGM4ZWEwY2IyNzg3MDhmZmNmMzU4YSIsInRhZyI6IiJ9 1 45123 0 0
+/order/payment/ORD202603160008 1 6966 0 0
+/app/orders/print/eyJpdiI6Ik5yZ1NiRCtoYmJSaUNGWlRGWlhYZnc9PSIsInZhbHVlIjoiQlJPa2poMzB1WXdjWUN2SEp2bndBUT09IiwibWFjIjoiZTIyNjc4MDY0MThmMjUxZGU3NmE4YzVkYzRkOWMxYzBjNmVjMDcwOTIxM2YxMWI2YWE0MTUwOWM0NjRiOTg2OSIsInRhZyI6IiJ9 1 1453 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6ImhnZXAxUmhCWFpRY042eHJQWC9kaEE9PSIsInZhbHVlIjoiMzZGcmpYazFHVkE0eTRQSjdNamlhdz09IiwibWFjIjoiM2U3ZDljMzQwYmU2YjY3NGUxODE0YWQ5ZmI4Y2M0ZjVhNjc3ZGFmMjZmOTEwMTdiMDgzNDg3YjNkNGNkMjVmNyIsInRhZyI6IiJ9 1 1946 0 0
+/app/orders/update-status/eyJpdiI6IlpSR0g0ekU0Y1lBZUxRVnZoKy9MakE9PSIsInZhbHVlIjoibjdRYkFBS25UZjdGMkhKdk9ETW80QT09IiwibWFjIjoiYzYzN2E1MGRjNmM3NjBlYmJjZjliYWFlMDUyMmFmNzhlZTAxZTRiMzA0YTdlMjM4NWIzZjdkNmZmYTI2NTI1NiIsInRhZyI6IiJ9 1 88 0 0
+/app/products/edit/eyJpdiI6IjNCblhVTTFrOE05aW9GSzVOZktSUGc9PSIsInZhbHVlIjoiNmlPMm9IeEFzUGszdVJPQ3BIamp2Zz09IiwibWFjIjoiZWRmOGI1ZmQ1NTcxZTlhZGIzZDZiMTVjZDM4ZmMyYTgwZTczMTdmMmYzZWM5ZWJiYmRlMzJiMmQ1MGQ5MDVhOSIsInRhZyI6IiJ9 1 43145 0 0
+/app/tables/qr/eyJpdiI6IlY5RE9xRUNvK3g1REhXTWRpTURYMXc9PSIsInZhbHVlIjoiRVIyRlBEaXJjcFp5UXJIdlJFd2Rhdz09IiwibWFjIjoiMzRhZmIyZTc2YzZjNjBjM2JiYzA5N2NiZDc3NjczODlhNjczYzg2Zjk1ZWY4NGNiZWQzNWQ2NzViZDE4YzcxMCIsInRhZyI6IiJ9 2 90060 0 0
+/app/orders/update-status/eyJpdiI6IjY3YUhNbjIxYk9JYThicmc2TTBSM3c9PSIsInZhbHVlIjoiSmIySTNRUDlXRDRJSVc2MVV6cVFwUT09IiwibWFjIjoiODU2NDdkNGUxNzRmNTE0NmM4YzY4YzU3NzJkYjBjMGNhMjJkZTgwYzJhMDI4NjAzN2NiZGQ5ODk2NjYxN2ZhNyIsInRhZyI6IiJ9 1 89 0 0
+/product/French%20Fries/101 7 87200 0 1
+/orders/payment_generate-upi-qr/eyJpdiI6Ik8vVGhIWFhlQnRpQ0h3SURqdllyZVE9PSIsInZhbHVlIjoiaEFCY2x2eXF4QU1wUXhLbWtNNjlDUT09IiwibWFjIjoiMDZkNzIzMGQ5MjQyN2Q0MWZjMTFiM2U1ZjQ3ZjllYzVlNTM3OGEzYWY4MzgzOTJlNDZkZTYzOWFjYjYyYjlmYiIsInRhZyI6IiJ9 1 1580 0 0
+/app/tables/qr/eyJpdiI6InZ1cjFDcXdtL1kxVkJjelArYnZqVUE9PSIsInZhbHVlIjoiZXR5eWlFb3JXdTR3NHREd0tsdE9rQT09IiwibWFjIjoiNmNlZGQ2NTlkYWJhZmYzZTMzY2RkNzRhMDcwZTA3NDBhNWEwNGZmZTUzN2RhNTY4ZWJmZjkzOWU4ZmNiNjM2NiIsInRhZyI6IiJ9 1 45049 0 0
+/app/orders/update-status/eyJpdiI6IkpuV2tpd3BsUGlXL2lqQkxzR1J4REE9PSIsInZhbHVlIjoibFdwVWdGeTNuaUZEbzZHUmV5eDZYUT09IiwibWFjIjoiMmU1MWNiMzFjYzI4OGY1OGJjZTU0OTVlNTdhODJlZDliMGY2YzJiNWM4ZDZkMDJlNjU0MTYwMzk0MzE2YzllMSIsInRhZyI6IiJ9 1 92 0 0
+/app/tables/qr/eyJpdiI6ImNOeENSbTM4amJZR1NRWUNzQVN4alE9PSIsInZhbHVlIjoiODRKSy9haG5GTEtZR29QdURZcmErQT09IiwibWFjIjoiZGYwZjlkYjkxNTI4MTAzYzdhZTc1YjdiMGQ5ODI2MjAxNWVhZjdkMjc5YjUzMjZmMTY5NTI5MWI1ZjU1NjliZSIsInRhZyI6IiJ9 1 45096 0 0
+/app/orders/cancel-item/eyJpdiI6IlRFSWNUMDdNZTNoaXMvTG4vcEFPZUE9PSIsInZhbHVlIjoiNUFJbks2VXFGZmVjQkZPb0xGQSsrUT09IiwibWFjIjoiMzVmZjIyOGYzNjlkNzFiMGU2MTMyYmZhYjAzMzQwZGUxMTJmNmVjMDhiNjk5ZmYyMmRjMzg1NzhjMmNkNDFjYyIsInRhZyI6IiJ9 1 79 0 0
+/app/products/edit/eyJpdiI6ImVwekQwMTZJYzR3NGlML2plT3FNUUE9PSIsInZhbHVlIjoiaHJmeEhpMEFDb2pBSGFYcmFCLzZDQT09IiwibWFjIjoiYWQ4ODk4YTBmNzIwMzI5YmNhYWQ0OTA3MWZjZjkzOWUwOTY0NjY4YzM5Mjk3NjQ0OTI3Y2JiMTUzOWYzZDBlNCIsInRhZyI6IiJ9 1 43139 0 0
+/order/payment/ORD202603130009 4 32071 1 0
+/app/products/edit/eyJpdiI6Im9HMlA4S1U4eXJSanJlWE5vMDYyY1E9PSIsInZhbHVlIjoiQjNoSHgvODhYZWFXMUNHK2lkT2t0Zz09IiwibWFjIjoiNjAyM2ZiOTkyMGRhNjJkZTZmYjY1ZjY0MDZiMTQwZmFlYzlhMDM5NDlhMmRmY2U5MjQyMWQ3OTNiMzYxZGNjZCIsInRhZyI6IiJ9 1 43139 0 0
+/app/tables/qr/eyJpdiI6Ii8xRjEvWDBtSWJZU1F5WWFMUnduK0E9PSIsInZhbHVlIjoiRU9xRkYxTGU0MG1MZE9ncUlFMGh3Zz09IiwibWFjIjoiMzIxYjBhNjIzMjAyOGI3YzBkMTU3NmUwZjRkMzc3NGU5YWIyNzRiNzQ2YzRjZWE0NTk2MmFhY2NjYzJhNGQzYiIsInRhZyI6IiJ9 1 45099 0 0
+/app/tables/qr/eyJpdiI6IlhNUmczZjlrVWpjQUZ0RENPYjJaaXc9PSIsInZhbHVlIjoiWmFDajdiWUlaWmRjQmZNdnJSd0hqZz09IiwibWFjIjoiZmFkZjFmNTk5YzYxMWM1NDJjZDBkY2EzNmRiODE2MDhjOGI0ZjY2MTkyODEwM2NlNmUxYjdhM2JmMzI0NjkzNyIsInRhZyI6IiJ9 1 44997 0 0
+/app/orders/view/eyJpdiI6Im16dHRoQmZtZGMxVW9xMG1wcTNxSFE9PSIsInZhbHVlIjoiYVZVbmdzMlgzU1ZoR0w4ZnJxakdBZz09IiwibWFjIjoiNTVjMDdmYzlmNjhmMTU1MWQwMjIwNmRkNTQzYjBkYTkwMDhlYWI5MGM3ZjVmZWU4OTc3YTUyZmQ5MDJjOGVlZSIsInRhZyI6IiJ9 1 44923 0 0
+/app/orders/update-status/eyJpdiI6IklrMHpwQ1hpdndMOEwvVmlHU21KRmc9PSIsInZhbHVlIjoiUzE4OWRMdzBWbUVDajFTUzJPN3kydz09IiwibWFjIjoiN2IzYWJkNTc4NmE4OWYzZmIwZThlOWE2NDRiNzUyZGFjZjk3MTVlOTc3Nzg3ZmM4M2EwZDEzNmUyZTAyYzBhYyIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6Im1LK3VTbTFpek5QZ1FQU0tvbFN3Vmc9PSIsInZhbHVlIjoiYk5HSmcvbWRSdmQ4NU9ZaWZ1SmNCZz09IiwibWFjIjoiM2VhNDMzY2RhYjkxMTc1MmU2NzFjOGVhODFiNTc2Y2ZlMjJkYjE2OGMzZjA5ZTJkNDY1ZTg5NzE0M2RjNjQ2NCIsInRhZyI6IiJ9 1 88 0 0
+/order/payment/ORD202603160013 1 8790 0 1
+/app/tables/qr/eyJpdiI6InBPY1dUWXNHNHlxTGZCQVk5SWoxSUE9PSIsInZhbHVlIjoieTFvNFJhVDh5RnRUNHJmMHQyaVNPQT09IiwibWFjIjoiMTI0NDA0ZjQwMmI5ODEyZGRjM2Q0N2U3M2U0OTJiZjEzNzgxM2E1ZTMwNmFkMzA5ZDdmYTkzM2RjYzFhOGY2MyIsInRhZyI6IiJ9 1 45074 0 0
+/app/users/edit/eyJpdiI6Im04T1NPWVFObGhYVGpxZEhGSklUVGc9PSIsInZhbHVlIjoiNGlNSkNidFVzYTQ3SGZQWit6R3MwZz09IiwibWFjIjoiYWUwMDgwMWI2NDM0MzNjMWUxMTUxZjE2OTBjYWIwNWNiYWUxYTljY2NhYzQ2MzQyYmJmOWY3ZTEwZTdhZmZmMiIsInRhZyI6IiJ9 3 127874 0 0
+/app/products/edit/eyJpdiI6IlNrbktUMUZEQTB2eUZPVm9BeGxuTHc9PSIsInZhbHVlIjoiWTNOUTd4dm5hbUx4cDJVZG5Ha2RyQT09IiwibWFjIjoiMDkyYzljZTg1NjdlMDBlNzI1ZGY5NjgxNmI3ZmRlOTU3MzUzMTJmMGRhM2VkYTczMTQwNGMzODlmZmIzYTdmNyIsInRhZyI6IiJ9 1 43132 0 0
+/product/Puff 4 67377 0 0
+/app/orders/cancel-item/eyJpdiI6InZxaVRwNjdobUFRcSs0b1VTVHc4Nnc9PSIsInZhbHVlIjoidjB6NEwrSmxPaW42U1pwK1gxUXJTQT09IiwibWFjIjoiOTYxNjA4ODQ3ZjUxMzUwYmU1NmUzM2Q2YjBiZTMzZDMyNDUyMGJkOGIxOGVkYzUzMzMwMDcwMzZhMjY2NTQ2MSIsInRhZyI6IiJ9 1 79 0 0
+/app/products/edit/eyJpdiI6ImhDYUZDR0dkQW1mWW5sNVdDeXBBK2c9PSIsInZhbHVlIjoiNG9qM1dVUjRWRHRFME1INjlEYittQT09IiwibWFjIjoiN2Y2ZDE2OWE1MjFmYjA2ODlhMDdkYzNjMmVmNGU4MDg3ZjRmZjg2YThhMzBhZWU2YWIxMTRlOTc3Y2ExZDBiNSIsInRhZyI6IiJ9 1 43144 0 0
+/product/Fresh%20Soda/101 6 170736 0 0
+/register 8 296213 0 1
+/app/orders/update-status/eyJpdiI6InYrSGdvV01KYWxMOEhiSlErdDRvZ0E9PSIsInZhbHVlIjoiQU4wY0UvTmVvTSt2UmF5eithTlF4Zz09IiwibWFjIjoiMWJiZDVmZGQ2YjgxNzQ2MjJhNDMwZTE5ZDIyYzY1NTZiZjI0YjQwODFmYTdiOGZmNmUwZWJjODdkYzVlZGJiYyIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6IjNqWG5BajJNTjJHRjgwa2Q5cVhaY1E9PSIsInZhbHVlIjoiQi85Uk1EUTh6MkdHdzR0V210Rk9aQT09IiwibWFjIjoiZGY2ZTE4YWEzMDBmOGQxYWJlNzNmMzAwMGQ2MjM4NmUzMzFhMzQwYWVhMTM2N2M2ZDIxZDRmZDc0MWE4NWM2NSIsInRhZyI6IiJ9 1 92 0 0
+/app/products/edit/eyJpdiI6ImZtQzErOHA3eUFwVlJRSmNvc3RJWGc9PSIsInZhbHVlIjoiWGFmN2JUSkllemtpS1ZRWUQrWWlndz09IiwibWFjIjoiYjdmMDdhNmI1Yzg0ZDg3NTg2MjkwMDYyMWU1ZTg0N2JiZGM2MDFiMjBhNmI4N2M3ODdiYjRjOTVkZGFmNzgzMiIsInRhZyI6IiJ9 2 86278 0 0
+/app/roles/getAll 7 15884 0 0
+/app/products/edit/eyJpdiI6InhXWU9HU1dVWThhUXp0YWhlYVErenc9PSIsInZhbHVlIjoiNTJDTmlpZThGa0hWOXM0c3VFano5Zz09IiwibWFjIjoiN2Y3ZDNlZDVhMDBjOWZlY2M5ODFjMTVlYzA2Y2U4ZmI5NjNmOTVjMGQ3YjZlMDUzNDMyMmM4OGZlNmZhOTE3MCIsInRhZyI6IiJ9 1 43134 0 0
+/app/orders/update-status/eyJpdiI6IjJCczBuS0xpMHRFMFlldVU1OU1Wdmc9PSIsInZhbHVlIjoiS01RM3VGVTZuWXNSK0dBSDlPeXFYZz09IiwibWFjIjoiZmJhZTNlMTQxNzQzZGQyODM2ZWFiOWQ4MTYwZTkyOWE2YTFmNDFjNTFkMzQ5MDJkOGEyNjFmOGEzZDdkOTUxMyIsInRhZyI6IiJ9 1 88 0 0
+/app/orders/cancel-item/eyJpdiI6IlJBdTN1Q21CRVdLU2VjMUtaeFRRdGc9PSIsInZhbHVlIjoiVDBsZ3NxbUdIM0EwZldhdHRwL0Eydz09IiwibWFjIjoiOTEyN2YzZWEwYjBlN2EzZjlkM2E5OWQxZWMwZmViNTdkMGQxNmVkZDJiODcxZWY2NDc3ODAzNWJhN2I0MzkzZiIsInRhZyI6IiJ9 1 79 0 0
+/app/tables/qr/eyJpdiI6Imd0UjVCcDlBR1FkVHJKOTc5ZTd6NHc9PSIsInZhbHVlIjoiZzhDYnVUNnN0MVo4cnV4RjVVWEovdz09IiwibWFjIjoiMWJiZmNjZDU2MzQzNGQ4N2M2OTY1NWUyNDE3NDZmYWVjZDE2ZDBiNGE2OWFjNTY5YTdiOGU2ZWI2MGRkYzE0OSIsInRhZyI6IiJ9 1 45089 0 0
+/app/orders/update-status/eyJpdiI6IjVzRHlpWG5NVURaR0s0ZzlJWS9uWnc9PSIsInZhbHVlIjoiNXJmSmlEd3BLajh1bUNJSmQ5ZkdDQT09IiwibWFjIjoiZTk4MTgwMjc2ODRjZmE5N2JlNzg1MTBjNjQ0ZTAzYjM5MjRjYWM4M2FkNGE3MmM1YTI2ZmJkNjQ0MGE0YjNjNyIsInRhZyI6IiJ9 1 89 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6IlM1Ny9iY3VoNTB6elU1Z243eHN0ZWc9PSIsInZhbHVlIjoiU2lJemdmT2dyNE9UM0F4bkZvUzMzQT09IiwibWFjIjoiMWJmZThmNGNhYzIzMzdhNTUwZWE3MjY5ZjQwYTYzNjQ4ZmIyMzBmZmY2OWE2ZGI1M2QxODMzZWM3MzQxMmNiNCIsInRhZyI6IiJ9 1 1617 0 0
+/app/orders/update-status/eyJpdiI6IjJtSWxMcVRtZzFpRlpvV2pqTEFYQlE9PSIsInZhbHVlIjoiNTNQbk9nL0RHNWwvd3V1Q3lTYm9aQT09IiwibWFjIjoiODZhOWE0YWZlODVkMmQ1OGM3OWZiN2RkNjljNzRmNGY3MWJhN2Q4OWE0ZDE3YTI4NWY5ODRhOWZhYTg4OTkyYiIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6IitnTnpRVHlXSkp1ek9kUEtybDRsRmc9PSIsInZhbHVlIjoiQ2RZSVUvVXBYaExIem51R1pnN0RTUT09IiwibWFjIjoiMWZjZGQwZTFmODBlNGUyMTQ4ZjQ4NWRhOTIxNmVlMGFkODE3NWM2NTFlODU4ZDYxNzg0NjI1NGE2NDAwZDRjNyIsInRhZyI6IiJ9 1 92 0 0
+/order/status/ORD202603130004 5 1330 0 0
+/order/payment/ORD202603130005 1 6653 0 1
+/cart/104 1 9772 0 0
+/order/status/ORD202603160009 4 1083 0 0
+/app/products/edit/eyJpdiI6IlpabHc2UkFSU3JnbGxhZXpKWjF1NHc9PSIsInZhbHVlIjoiY1VVT0x3R0lGaGdFWG5XVjBpcklNQT09IiwibWFjIjoiNmFiZDhjYzBiN2EwOTZjOGNmZjRlMTgzNGJjMzRkOTI0Nzc4YmU2OTJhMDkxNThkYzYwOTQ2Y2Q2ZTIxZjcwMSIsInRhZyI6IiJ9 1 43137 0 0
+/app/products/edit/eyJpdiI6Ikp2UHJ6TXFXaGRBdnRhRHE0eDM3NGc9PSIsInZhbHVlIjoiU3daazZSMmFNQWlaT04ydWZ3U0pldz09IiwibWFjIjoiZTZjYTNkNmY2YTFkZDgzMDhjYWI1ZmFlZjczMmIyZTViZTJlYjUxMmIwN2RmNTg3NDExODZiNjhmMThiZjgyYSIsInRhZyI6IiJ9 1 43142 0 0
+/app/customers/destroy/9696969696 1 94 0 0
+/order/status/ORD202603160007 7 1771 0 1
+/home/107 5 27829 3 0
+/checkout/105 4 30383 1 1
+/assets/vendor/fonts/fontawesome/fa-brands-400.woff2 25 1620300 0 4
+/order/status/ORD202603130007 3 785 0 0
+/app/orders/cancel-item/eyJpdiI6IndSVmlOZlZFc0k3U3IrSWRmNW8wSXc9PSIsInZhbHVlIjoiY2pCRHpPcW9xQk54RGRKcVlBdXFqUT09IiwibWFjIjoiMjhlOTAxZjkwOGZkMWMxZWRmOGVmNzI3N2EwNGIwYTdiYzYwNGRjYmM0MjlmM2ZjYjVhMTk4YzdiNDIyZjNiYyIsInRhZyI6IiJ9 1 79 0 0
+/app/orders/view/eyJpdiI6Ik5la3IzSEtIcmpRbVJ3NnlCdHhNVnc9PSIsInZhbHVlIjoiYU9tOFcyMUQycllmQTMzT1c5SUpwdz09IiwibWFjIjoiZGRlZTYwMzU1NWEzZTkzZGUxMGNmYjAwZDExMDEwNDFjMjJmZTVjMGI1OTlhMGE3MzVjYjFmMDhlYWY1YzA1YiIsInRhZyI6IiJ9 1 44848 0 0
+/home/103 16 89024 8 0
+/order/status/ORD202603130013 3 749 0 0
+/order/status/ORD202603160005 3 780 0 0
+/app/orders/cancel-item/eyJpdiI6IlBldkllUHRKY0RLanA3Wm10MG93ZXc9PSIsInZhbHVlIjoiMDdKQjNaZkdlZW9MNUVQNXlPZFNyZz09IiwibWFjIjoiMTIyOWY2YjMyODEzYmFkMTBjNjcyZDA4MDAzZmY3MDlhM2M2YjJlYWM4YmRkMWFjMmYyN2VhOTUwZDM0Njc3MyIsInRhZyI6IiJ9 1 79 0 0
+/app/products/edit/eyJpdiI6InVnMmJPNVFIQnZQMklZMG5VaFBPZlE9PSIsInZhbHVlIjoiclNMZ2lNcEI4Qy93c2xodVdGNFNhUT09IiwibWFjIjoiMDU2YzUxNjU5YTliY2NjMDZlODIwYjRjZjY2ZTZmZDk3YzI4M2E4M2FkZDE1NDg2MDVlMzIxZWNmNDk0NmZhMSIsInRhZyI6IiJ9 1 43137 0 0
+/app/orders/update-status/eyJpdiI6IkhOQUZ6RjRpSm9EMUp4djNPRVBQWHc9PSIsInZhbHVlIjoieTM0bFFvRWlNM2tVTGwzQnEvR1BJZz09IiwibWFjIjoiOTFhMTU2YzBkZmRlMjEyY2I5OTk3YjNiYjgyMGEzYmU5NzlkOWEwYTNkMzIxZWQ0YzNhNTQ0NThhZGY0YWVkZSIsInRhZyI6IiJ9 1 92 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6InZVb1UweTJzSHV5QUpMZ2paOHRBK0E9PSIsInZhbHVlIjoiTVpLZ2V1QVlZNXUybDExYmoyMkxlZz09IiwibWFjIjoiMTczZjQ0NDg0NWRhNTM2MzZiNDVlM2M2NDY1YmEyYTEzMmQyZDQ3ZDAyY2MwOTczY2EyN2I0ZDk2MzQ4NTkzOSIsInRhZyI6IiJ9 1 1617 0 0
+/app/categories/add 2 82875 0 0
+/home/106 3 16697 2 0
+/app/tables/qr/eyJpdiI6InVQa3Q2SDBqQkV3SkhxVE9QNTVsbkE9PSIsInZhbHVlIjoiVUREWmk1Yk1BQUJKVmV2V2hydTh6QT09IiwibWFjIjoiMDdiOGIxYzZhZmM4NmNjMGM2Y2ZiNGE2YWE5NGI1MWVkZTU0ODE1MzU3ODkzNTE5ZTk0NTcxNTk5YzFlNzYyNCIsInRhZyI6IiJ9 2 90186 0 0
+/product/Puff/102 1 17744 0 0
+/order/status/ORD202603160010 3 788 0 0
+/app/products/edit/eyJpdiI6InRoYk1ob0MzaStleGJKUDgyMjdPT1E9PSIsInZhbHVlIjoiVm94S1gxa2o3VHNZTVZ3UFpWeGRtUT09IiwibWFjIjoiMjM5YjNmOWFkODM5NTY2NGE0ZGI4N2ZiYmM0NzY4MjgzZWY5NDc2OGE1NzY5ZGI0MjkwMTMyOGRkYmVlM2EyMSIsInRhZyI6IiJ9 1 43143 0 0
+/app/customers/destroy/1234567890 2 188 0 0
+/order/payment/ORD202603160010 3 20940 0 0
+/app/tables/qr/eyJpdiI6Ik00a3I4MkdDaWNINnZoUmpJaktycHc9PSIsInZhbHVlIjoiSlgrTHNUU3NRaDR4RkloanFPaVhhQT09IiwibWFjIjoiZDQzNWI4OGJmOTEwYWMyZjNkMzYwZGYxZjZjNmQ2OGY0YTQ1YjUzZDllNDE3YzFiMTIzMmMwMzc4NWZmZTA1YSIsInRhZyI6IiJ9 1 45092 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6Ik5yYUU5SStDRjJXalM0SnNhaWt2Z0E9PSIsInZhbHVlIjoicEJzamZXY3h0SkFNQU1IM0h5ZGpVZz09IiwibWFjIjoiOTExMWI5MjdmOWM1NjE1ZDFmZjIwNGM2ZWNiZmNjZWZkMGNlYTJhOTZjNzQ3MWIzZGM5MmRmYTNjNjU5NjhmZCIsInRhZyI6IiJ9 1 1616 0 0
+/app/orders/view/eyJpdiI6IjZSNmxxdFhNMjUraGU3Q1dzQTB3Z1E9PSIsInZhbHVlIjoianFxdTdQSHBOT3BzT0NrL2FZZjQ4QT09IiwibWFjIjoiY2E0YjQ4NjdkYWM4MDE1NjE2M2VmNzQyMmFiNzg4Y2NiOTA3YzEyMmI1Y2ZhMjliNDYwMTkyNTY4YjI3ODUzNSIsInRhZyI6IiJ9 2 89458 0 0
+/app/orders/print/eyJpdiI6Im5OektIT3AzUmZESGlDYXdlaldQNEE9PSIsInZhbHVlIjoiZFprcFgwMFNJNWtKYWhjYkU1N21xUT09IiwibWFjIjoiYjQxN2MxZmU2MzdiZGQzZTNiM2UyNzY3YTExM2M4MjA0ODI4ZGRiOGYxNDIyZTA1MmRiYWE2YjgzOGExNDA1MyIsInRhZyI6IiJ9 1 1516 0 0
+/app/tables/qr/eyJpdiI6IkNERVcwNEtYa29hT0x0NFdUTUE2SGc9PSIsInZhbHVlIjoienJEOGZWbGI5czZGVmR2cHpLWjh2dz09IiwibWFjIjoiYTgyMTViY2RlYzRhZDYyYWJkMzFlODhlZDRiOGZhMzlmYjE3NGYyMDA2ZGExOWJiNDdmNmEzNTA3MzU3OTNiYSIsInRhZyI6IiJ9 1 45096 0 0
+/product/Sandwich/102 2 32790 0 1
+/app/products/edit/eyJpdiI6ImhYMGVUT0oxN1hldktKOTZqTjc0Wnc9PSIsInZhbHVlIjoidCtjNCtLOCtxeGI5YURNUWhkRDlwUT09IiwibWFjIjoiZWZhZmViODUxODc3YTc2M2RiNDMzOWY3M2M4ZTlmNzE1ZDk5NjEwNjNlMjY0NjkzM2ZhYTA5Y2NlNGIwZjJiZiIsInRhZyI6IiJ9 1 43134 0 0
+/app/orders/view/eyJpdiI6Im54NitRTnVBVHZOMDFrekI0Tng2ZlE9PSIsInZhbHVlIjoiMmV5NHNETWpYYjFhL3pDZUkxMHpNZz09IiwibWFjIjoiNTNmNDliNDQ4N2Q1NGFlNjg2MmYyYTJkNzM4NGY2MTkxZTJjNTkzNTk4ZGI0YzVlODRjN2UxOTBhMDgzNzFmMiIsInRhZyI6IiJ9 2 89652 0 0
+/app/orders/print/eyJpdiI6ImswTTlWOUdEUXVOcTNQR0JGTkE2Ymc9PSIsInZhbHVlIjoicDdmRitDSDR6cm0raklnZUE2WVA4UT09IiwibWFjIjoiYjNkNmVlMWY2NWIxYjdjYWUxMmJmYTQzOTE3Nzg1OTRmNGVlNzI1ZDQ3OGM5NzBlZWE4MTY2ZjA4NzgyNTVkMCIsInRhZyI6IiJ9 1 1452 0 0
+/app/orders/cancel-item/eyJpdiI6IkVrcnhUYldjc1pMek9ZbkxKN1N2Umc9PSIsInZhbHVlIjoiUjBCWEhPSkhaUzJLcmZtbUlqdi9mUT09IiwibWFjIjoiMDI0NjE0MjkyYzEzZTM5NzQyNzU4MDY5MGI1YzFkY2EwYTBjMzYwMTE5MmU2YjcxN2IxZTBjMzYzOGQ2ZGNmYSIsInRhZyI6IiJ9 1 79 0 0
+/app/orders/update-status/eyJpdiI6Ik5oR3o1cEVLdDJQVHhSRDZTUnZ2clE9PSIsInZhbHVlIjoiN2pwd0JSbGtVLzZ3aHJoL2xWc0U5dz09IiwibWFjIjoiNzc1NzEwOGE2NGUxOTIwNGIzNWE5ZDg5MjEyZDhmODMxMTIzYjFkZDM3YTJiODc1YTIyYWNiNDg1ZjExZjE5NCIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6ImF5cGVxQnp1d1JYb2s5WVJTWWJ1dFE9PSIsInZhbHVlIjoid2VWTTJnS2k2eTBYSXdrVEtpRllQUT09IiwibWFjIjoiNmU4MGEyZjNiNzQ4NTAyZjRlMmRkMjEzZDJlZmZhMGE2ZjQ5YzY2NWNlN2E1NGM3NTdkZGU2YjZhN2E3ODJiMiIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6ImlZZGpycktYaVVBVDltK1ZaV1ZtdWc9PSIsInZhbHVlIjoiMTBlMlhlNHdqcVNNUWQ5SU4xVUpDUT09IiwibWFjIjoiZjc2Y2I4M2EyYjY5NDYyZjhiMzM4MWQ1MDY5MjRkZDE1MjE1MmEwOTU2NDc5NjRmZGZjYzE3ODk1NDczZDg1YyIsInRhZyI6IiJ9 1 92 0 0
+/cart/103 2 19540 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6IkhKZFNjN1lwa3NTdDl4MnQ3ZVRaQmc9PSIsInZhbHVlIjoicFJTV0p4VDF6aG0wSWtkNnJaMGZtdz09IiwibWFjIjoiOGRlNWNmMTZkZmU0NmE1MTExOGFhZjNhMjQ0Yzk1ZGRiMjcyYWY0OTFiYWM1ODllNTk5ZjI5ZWNjMWVlNDZlMSIsInRhZyI6IiJ9 1 1628 0 0
+/app/orders/update-payment/eyJpdiI6InRtbERhMmlsOCtjaWwwb0xZRjM4L0E9PSIsInZhbHVlIjoiUVZNcHE2YTlWalJNZitvM25ZN29RUT09IiwibWFjIjoiYmIyYzYxYjY4ZmU4NDY2MjQ1NjdkNjI2NmY1YjMyM2UxYmMxZjdkZmJhZDZlYzY2NjEyMzk4NTJmYTBhNmVjMCIsInRhZyI6IiJ9 1 93 0 0
+/app/customers/destroy/9374508191 2 188 0 0
+/order/payment/ORD202603130012 2 16030 0 0
+/app/products/edit/eyJpdiI6Im9JaG5GaDVBMDY1eUU0cndQT2pBeHc9PSIsInZhbHVlIjoibWlCcWdVd1NaSkFXb0twRkRWSVNGUT09IiwibWFjIjoiMDFiYzczMjY4MzYxMDU0Zjg2ZWU5ZThkMjVjZDM0ZWJjMmJiNWJlYzdjNmEzMDRiYjY3NmQwYjNjN2IyMjBiMSIsInRhZyI6IiJ9 1 43139 0 0
+/product/Maggi/103 2 32654 1 1
+/app/orders/view/eyJpdiI6IlF5RWQzb2JWbWZMRk9BZHo0azdqR2c9PSIsInZhbHVlIjoiNnRFWUpTdHpzTmIzRmRlaVRxRVEzdz09IiwibWFjIjoiZDgyNmY5NTIzNzYyYzI3NTNkMzg1ZjViYWZlODU1MWQwODk0YmU4NWNiZDEzYmMxZGE5ZTcyNjhiYTcxMjNmOSIsInRhZyI6IiJ9 1 44938 0 0
+/app/orders/update-status/eyJpdiI6InJOdytvdTNLYlBuYWE5b2lHUHR5dWc9PSIsInZhbHVlIjoiTkk2a3BWd2xzMEswYVlHZVpFS25rQT09IiwibWFjIjoiZDQxOTc3NGE0Mjk1ZTc4Y2RmYTMwOWM4NmI5ODFiZmYyYTQ5N2RiYzI4ZjM2MzFhN2E3NjI2YzFiN2Y4MmU0NSIsInRhZyI6IiJ9 1 89 0 0
+/order/status/ORD202603130002 15 4125 0 0
+/product/French%20Fries/104 1 12773 0 0
+/app/roles/list 7 297512 0 0
+/cart/101 11 106965 0 0
+/app/products/edit/eyJpdiI6IlkxNlFLVENkZERYOWNmR3VJQlorY0E9PSIsInZhbHVlIjoiWmtKWllxVjlNbVVkbDNqRWxuaHYrQT09IiwibWFjIjoiMzQ0YWE1ZjMzMjQwNjczZDU1YzA5MmYyMDM1NTc3ZDVhOThjMWM3MjYzYTljYTk3ODYyMjk4NTVmNDgwNDBkOSIsInRhZyI6IiJ9 1 43142 0 0
+/app/products/edit/eyJpdiI6IlBzL2lQbFJLZHB2bmlVWUFqak0wcEE9PSIsInZhbHVlIjoidEk5V2V3NXdOUVp4NUthV0xpMWd6UT09IiwibWFjIjoiNzNlZGNlZDJjOTFlZGEyOWZkOWI2YjQ2MDBkNjk1ZTQ0MDEyNzdjNmJjMTE5OTAyZTlkN2QxMGY0M2IzZGYwMiIsInRhZyI6IiJ9 1 43151 0 0
+/app/tables/qr/eyJpdiI6IlkzdSszSTN5eUhranRRQXdyZ1BRRWc9PSIsInZhbHVlIjoiSUF3aXpxUWhKMmh6a1hubEtDbUp6QT09IiwibWFjIjoiMWY5NTVjZTc5OGFjNDdiZTNkYTliNmYzYjdiZTNiYWU3NDdmNGM4MmRhYzM4Mzg0OGQ3ZTllOWE4N2U3Y2VjMyIsInRhZyI6IiJ9 1 45070 0 0
+/product/Pizza/101 3 45825 0 0
+/app/products/edit/eyJpdiI6IjNsVFRVdzFvYzl3UnRSVWlMNkQreUE9PSIsInZhbHVlIjoiQkVUK2pYektSL01RalF5TmphV1I2dz09IiwibWFjIjoiZmYwYzU2ZGNhOWM4MGQ5NGNjMjQ4MGVmNzE3MzM2Mzk5YTJhNWM5MWM2ZGIzODNiM2FhZTNlMGYyOGUyZTEyMSIsInRhZyI6IiJ9 1 43164 0 0
+/checkout/108 2 15086 0 0
+/app/orders/view/eyJpdiI6ImpGcDNYbkhCMk4zQklqblFFNUIxc2c9PSIsInZhbHVlIjoield3T0MvN1U1MTNGOGhUMjNHaWZBQT09IiwibWFjIjoiYjExODExNTRkNjdmMjY5MWEzN2ZmZTRlNDMxYTBmZDllYTc4ZTJjZjBjOWJmODA5N2JjYWFjMGZkODcxNDBmZiIsInRhZyI6IiJ9 2 89829 0 0
+/order/payment/ORD202603160012 6 54625 2 1
+/home/104 6 33387 2 0
+/app/orders/print/eyJpdiI6IndaNnlpdlNUWWE4Ymxoazg2S0s5Vnc9PSIsInZhbHVlIjoiK3VqMDlBZ0tpU1NscVlmRHRNMUVzQT09IiwibWFjIjoiMjNlM2I4MjkzYmU4OGRlNmM2MzA4M2VkZDUxMGI0YzQwNTE5NGIyNzEyNTMyNWY4MDg5NDJiYjNjMmM3ODNiYSIsInRhZyI6IiJ9 1 1473 0 0
+/app/orders/cancel-item/eyJpdiI6InU0SjVhdWlrNCsxYzZjWkVIY0tyVWc9PSIsInZhbHVlIjoibHN0VXMvb2hRZ2I0WFJocGdaM2lNUT09IiwibWFjIjoiYjU5MjdiNzBlNDJjYzY5ZWVlOGI1NjFiYjkwZTI0ODJlOWY4NTczZDA5MWQ2MGRmNzc4NmYxYjc5OTg2ZDhiYyIsInRhZyI6IiJ9 1 79 0 0
+/app/orders/update-status/eyJpdiI6IjdwM2NqdDdjWW82NEpDV2ExRE5VN3c9PSIsInZhbHVlIjoiUmM5UzJFTVBReTBqZHRqOXlGdmovQT09IiwibWFjIjoiNWE3NDFiZTc2MGI4OGQzNWNkYjk5MjFhZDQ5OTc1NjhkYmE4MTM0MDZmNGJiMjdiYzk1MWRiMDUwMzdjYzliOSIsInRhZyI6IiJ9 1 88 0 0
+/app/orders/update-status/eyJpdiI6IjJzMmhvY1RvbkFVOUFoRTFWYldqYUE9PSIsInZhbHVlIjoiL0VWc0Z0NW1uYlBOTDV2ZHdTa2RTQT09IiwibWFjIjoiMGM2ZjljNmM2NzBkMmI5YThlYzdhNWUyYmRkODUwMDk5ZjkyYjJlY2MwMWRkYTAxZTU3MjA3YTc3YzZkOGUxMSIsInRhZyI6IiJ9 1 88 0 0
+/app/orders/cancel-item/eyJpdiI6ImFnNm9keHVoWmVtdkRJVUM4MUVyV2c9PSIsInZhbHVlIjoiMDgzY1VXS2VoTHQ5UldDWUV6Nk1Ldz09IiwibWFjIjoiMzBmOWVkYTcwNGRhNDkxMGYxZTlkMjBkODZiMTcwYjViOTY0YWRhNTUxYzhmMTlkODkzNzAwYmU3OWI1MTQ4ZSIsInRhZyI6IiJ9 1 79 0 0
+/app/orders/update-status/eyJpdiI6IlFrTUp5OWVBR1J4aXNWdkFKQlh5ZXc9PSIsInZhbHVlIjoiWVFjNFhUVGJXVnVBKzRZZmlsc3dEZz09IiwibWFjIjoiZTU1ZWVhODU2NmI0ZDY3YmNmMWVhNzUxNTcyM2U1ZTJlNzFjMDk3OWE5ODQ4OTNhNDYzOTllN2QwNjNhMWVhMyIsInRhZyI6IiJ9 1 92 0 0
+/app/users/edit/eyJpdiI6InRaand3QTloemVsV1hHRnAwdWYwdEE9PSIsInZhbHVlIjoiRnhvVSsvdmZSMUNmM1dmRVM4eU9BUT09IiwibWFjIjoiMDNhMTE1NGJkZmJjMWQwYzUyNGU4YmYwNDZjYWEyN2M4ODZiZGJhNmE1YmY1MGEwNDdhMWM3ZGZjZmM3YjNiYyIsInRhZyI6IiJ9 1 42603 0 0
+/product/Strawberry%20with%20Chocolate/101 2 25335 0 0
+/app/products/edit/eyJpdiI6InlMeFZiMEFQajh6TGRlUHk5R2VGZ3c9PSIsInZhbHVlIjoiU2o0Z1FCUFlMZlVteFBUSTJzTUhoZz09IiwibWFjIjoiMDlmYmQyZmVhZTNmZjE1NjU1NmI0NDlkZjQxN2NkMmUyNDY2OTc1NmI3ZDU4ZGY4NjlmMmM4MDg2YjM3Yjg3MSIsInRhZyI6IiJ9 1 43145 0 0
+/app/orders/update-status/eyJpdiI6ImhnazhhZTZMZDdNdXVDcWxKVTFjbVE9PSIsInZhbHVlIjoiMGtLamxTajk3R214bjdUQkhUQ3U0dz09IiwibWFjIjoiOTg0YWNkNzk1ZjhhODQwZDU0ODYzOTRjNGMyZGZhNTg2ZmNmMmI1OGE3YzA4MzY4MjczNzgxZWYxYjVjOWFlMSIsInRhZyI6IiJ9 1 92 0 0
+/app/categories/getAll 12 46190 0 1
+/order/payment/ORD202603160003 5 37987 1 0
+/order/payment/ORD202603160001 8 65366 1 1
+/app/orders/update-payment/eyJpdiI6IjRWOS8xYmdiZmtuQk1JZFc4VUx6RGc9PSIsInZhbHVlIjoiZWVqQzFvanZGZWh0NXJ4WHNlNDdoZz09IiwibWFjIjoiNmNkMzEwY2Q2NGZlMDNlY2IxZjRjNmM3MjNiOTFhNjA4Mjc1YjVmOWNkZjVjOTBhNDM2YmYxNzQ0OGRlZGJjMiIsInRhZyI6IiJ9 1 93 0 0
+/order/table-active/104 2 240 0 0
+/order/payment/ORD202603170002 6 64068 2 2
+/app/products/edit/eyJpdiI6IkdiUlBoejB2SGRCdzM0Mmh5YlNtWUE9PSIsInZhbHVlIjoiam9OdzhoSDgvbEltV2ZLT2hjazFmQT09IiwibWFjIjoiM2YyMmNiMmI1MWIxYjlhNTE4YjAxMWRhMTBmYmQ1OWJmMzI5NWU1Mjc5N2RiNGM4ZmE3MTIyMzRiYzIwMjM4MiIsInRhZyI6IiJ9 1 43153 0 0
+/order/status/ORD202603160003 3 762 1 2
+/app/customers/destroy/9979519570 1 94 0 0
+/order/status/ORD202603140001 6 1627 0 0
+/app/products/delete-image/eyJpdiI6ImF4VFk5SWhjUmZ6SjBvQW90bFM0V1E9PSIsInZhbHVlIjoiWWlYWjc3R3YrR2dnbklBUzhsVm1DQT09IiwibWFjIjoiZWJjYTJmNDQ1ZTM0MDgzMTFjMjMwYTgyNDU4YWY0NDIwMDc5M2YxYzRmYjlkYWQ0MDY1MThiMjY3MTA5ZDNkMSIsInRhZyI6IiJ9 1 36 0 0
+/app/products/edit/eyJpdiI6ImVFcmVneGhsNlNXVnl3MXFuK2dWeVE9PSIsInZhbHVlIjoib3Q0Uk1uNlVicnczVHpXZzEwZWQxdz09IiwibWFjIjoiZTc5OGRiMjhlYWFmYjA0MGE1YWEyOTE3MDRlNTk2ODZiNzgzYTgzZjhkMWZkN2JjN2Y5NTkzZTliOGYxN2MwNyIsInRhZyI6IiJ9 1 43148 0 0
+/app/orders/update-payment/eyJpdiI6ImM2NncxZ3c0QWluOVNwWXR1UklMSEE9PSIsInZhbHVlIjoiTG5ITTJHc2RFU1ptS3djM3lDVWFkdz09IiwibWFjIjoiN2ZiYTRkYzA1YzhjNjIzOGEwY2U3YjVlNzc4N2RmODc4YzY0OTQzMjAwYWQ3ZTk0MjkyNjUwMTZkZjQyOTlhMyIsInRhZyI6IiJ9 1 93 0 0
+/order/payment/ORD202603160006 3 24234 1 1
+/app/tables/qr/eyJpdiI6IjlWc1RjWEM1TFVRdVBBcktlOEVRY2c9PSIsInZhbHVlIjoicnFrUExWNmg1OEdjeXRjSzFhV1J3QT09IiwibWFjIjoiY2JmZWZiMWNiYWYxYzc1NzI0M2UxZTNmMzViMWU5ZjY1ZjhhYjA3Yzk3ZWIwMWE2NjBiMzIxNjc5MGNiZTQ3YiIsInRhZyI6IiJ9 1 44999 0 0
+/app/users/edit/eyJpdiI6InZQU3d2anVUUkZ3ZzFoNXpSenVEd0E9PSIsInZhbHVlIjoiTzBGaFY2UTZmMUdiRkV4M3RxTTRNZz09IiwibWFjIjoiZjU0ZTQ2N2I0NWM3NDc3NmRmOGUzNTBiNDUyM2ZjZWZkM2NmMTk0NWYxMTk0ZTI1ZWU2YTlhZTc2ZGIxNzY0NSIsInRhZyI6IiJ9 1 42632 0 0
+/app/products/edit/eyJpdiI6InN1MkJRak5BVnZITUJ5N0kxVVMyTVE9PSIsInZhbHVlIjoiejFEeFBTZkdNcmxZZ2hGc25BcU9pdz09IiwibWFjIjoiYTQxMzljYTIzYWI1YTMzZDJjYTI4ZjY5OGM1YzcyYjBlNDY0YzYxMDkwYzExN2IyMTdhMTRiMmZiOTdjYTAxNCIsInRhZyI6IiJ9 1 43152 0 0
+/app/products/edit/eyJpdiI6InVFaDE5ZXJkWkZZa00zNGdDSXhPN0E9PSIsInZhbHVlIjoibSt2OCtwc2c4MlF2elhKbFdGZFNkdz09IiwibWFjIjoiZTM2YmFkMzVlMmE0NzM5NDk3ODVhZjBjNmE4Y2NmYjM5ZTUzY2VlZGYyNDc2MzY2Y2MxMWYxNGY5NTZhNTRhNiIsInRhZyI6IiJ9 1 43127 0 0
+/app/users/edit/eyJpdiI6IjBvVytibHFyZkliU0hmaTRKRFRiZGc9PSIsInZhbHVlIjoiam9qaU0vbktzek9CM3Znb2tnME9RQT09IiwibWFjIjoiNTk3ZmFhNjkyZGNmYzRlZTNkMjI0OWYzZDZjZWZlMTMwNzIwZDE1MDY1MWEwNzBmYjZhZDViYTcwNWIxMjI5NSIsInRhZyI6IiJ9 1 42609 0 0
+/app/tables/qr/eyJpdiI6IjFMMUoxSXZQMGROclYrOEptUm9xT2c9PSIsInZhbHVlIjoieU1sU1hUeG9UNi96NjdLcVdDUFRCdz09IiwibWFjIjoiMWQ0YTRhNDUyYTA2ODBkZDI0YTEwMTJjMWZiMDdkMWU3YzVmMTBmMmU1NWRkNzQ3Yjc5NjNmNzMyNTQ3MGIwNyIsInRhZyI6IiJ9 1 45028 0 0
+/app/orders/update-status/eyJpdiI6IlNVaGUyZXZKRldIcXJocmk0V1hUMHc9PSIsInZhbHVlIjoiOVA1Y0ZicUhhM1RWd1paL0o2Z2drZz09IiwibWFjIjoiYzc2YTliOGJmZmM0NGM0ZjU2Yjg1ODQ5OWYzZTcwMGQ2YTIxMjcwMzRiYmY1NDc1YzEyYjk3MTY1ZjJmYjBjYyIsInRhZyI6IiJ9 1 89 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6Ikd4ZTE3OWh4K2ZWcHc4MFRsRXd3dVE9PSIsInZhbHVlIjoiL2NtR3VLdnR2aU5SZE5PYVRhbFZ3dz09IiwibWFjIjoiNGU3ZDdmMjg3Nzg2NTk4YTE2ZjU4NTk5ZTU3OTg0ODNmMWQxMjAxZDA0Y2E2MGM5ZDllZmY0N2Q2YWQ4MGE1MCIsInRhZyI6IiJ9 1 1637 0 0
+/app/tables/qr/eyJpdiI6IkdEUUI4dURwMXprY212MS83SExwdkE9PSIsInZhbHVlIjoiQ0k0TTVPd3gwdFlOeUwwWU13VUJWUT09IiwibWFjIjoiOWQzZDZlNWE0ZTg3NGFmNDA0MTlhZmE1MWNhZmU4M2FkN2Y2MWJiNWYxZmIzMDc4ZjMzZWQ4YTViM2Q4NjY1NCIsInRhZyI6IiJ9 1 44998 0 0
+/order/status/ORD202603130011 1 253 0 0
+/app/products/edit/eyJpdiI6IkJLSDdTT2pnbXBqQ3ZyZXptN0JCbmc9PSIsInZhbHVlIjoieGttMzU3SlFtcCtSVzJsTmg4cm9wdz09IiwibWFjIjoiMTY5MmI1OWI5ZTQxZjM3OGJiMGNhOGY3ODU3YjQ5ZjE3YWI3ODI3MWZiMmMxOWYyMzhlNjFhMjhkNzhjNmIwZCIsInRhZyI6IiJ9 1 43139 0 0
+/app/products/edit/eyJpdiI6IkdHQ3VnVU0vMzVaTHBibVVaMDMxclE9PSIsInZhbHVlIjoiMzRQQlduUjJPTTBlK1VWSVBtTlZ0dz09IiwibWFjIjoiMTMyOTAyNGMzNjc3NDA0M2YxZDJmMmE2OTQ2ZDAzNTQzN2ZiNDczOGMyODdiYjBmNjYwMTdhYTk5NGZhOGQ4MSIsInRhZyI6IiJ9 1 43139 0 0
+/order/status/ORD202603160008 17 4891 0 1
+/app/orders/update-payment/eyJpdiI6Ik9nQzcvOGhMQ0pRM1oxdm9yaU1mMUE9PSIsInZhbHVlIjoiZlFyY21KS1FOMXFlZTBndWhGa3dTdz09IiwibWFjIjoiNTY3ODVmMzUwYzA5M2IzMWYxZDk0MjcyZTA0MjM4NDZiYTViMTkzNjIyYzI3YjhiNmQzZjBhNWVhZjhhODQwZCIsInRhZyI6IiJ9 1 93 0 0
+/app/orders/update-status/eyJpdiI6IjArKzM3WXArWE5aUFFpckx6dUxyb1E9PSIsInZhbHVlIjoiNThZa211eDJCM05uOFQxbFNQY2hzUT09IiwibWFjIjoiYjI0NmM4ODFjMjViZjAxYTE1YzhhMWNlM2ZkYTVmOWU2NGE1ZTNmMDkwYzBkMzhiNThlODM4NzAwNDFkMDViMiIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6IlBUR3NEL2F6QUg5R3hSc2ZlTzB1QXc9PSIsInZhbHVlIjoiSVZ5bkR5T2ptem9CS2Z3ZDJ3Q3hBQT09IiwibWFjIjoiYWQzYWE0OTkxY2U5NTVjMGJkYjg2OGE3MWQ0ZTk0MGU3ZmY2ZGU2NWM4OWE3NDA4MTcxNWMwODg0M2JmZmI3OSIsInRhZyI6IiJ9 1 92 0 0
+/order/payment/ORD202603170001 3 30378 0 0
+/app/products/edit/eyJpdiI6ImcybkhMUlBjK2kvQXhlWXJ6bHRlOUE9PSIsInZhbHVlIjoiTWFPazVwVE9JN3JacTZVajJUcTFVQT09IiwibWFjIjoiMjY2OTlkOWQ1OTZlZGRiM2MzOTNhNTM0N2U1YmVmYzg0NTlmOWQ0YzY1NzQ5ZDVlMzBlZjhhZDViZjMzYTkyOSIsInRhZyI6IiJ9 1 43151 0 0
+/app/orders/update-status/eyJpdiI6IkhPaFJHVTJ3c2xXQUViR0poS1pyd0E9PSIsInZhbHVlIjoiQ2V6eEFZcUxoUnRYL056cWc0YlNBZz09IiwibWFjIjoiYzc2OGI2NTIxNmZmNTRmMjA4NzMzZjE2MTMwNGY0MmU5YzcxMWEzZDhjYWYyNjU5NGQwYTM5ODNmNWUwNjU5NyIsInRhZyI6IiJ9 1 88 0 0
+/app/orders/print/eyJpdiI6IjVMZVlmMXAwOUVFK1YrTVZKRmp6TGc9PSIsInZhbHVlIjoiMUNXWkZEeTdxNE4zK05HdHJFRTR2Zz09IiwibWFjIjoiYmU1YzA0Y2E2MTg4ZWIzN2ZhM2MxN2I4N2Y4OTYxZTZmN2UwNDU5OGYyZGJlMjkyNmVjMjVkZTM3NWE4ZWE4NyIsInRhZyI6IiJ9 1 1428 0 0
+/order/payment/ORD202603130010 1 8020 0 0
+/app/tables/qr/eyJpdiI6Imh0ekZKVmpmL3lqSWNCcHRPYW5PdVE9PSIsInZhbHVlIjoid1BjRm14TXNXN3FVSHA3SFJZRmRBUT09IiwibWFjIjoiZmVhOGFmMDM5ZmU2ZjRjZDczMjYxNDAwNzY2ODI4YTk2MjBjNzIzMWYyNDEwYWRmYjEzZGE0MThiODljNTQxZSIsInRhZyI6IiJ9 1 45092 0 0
+/app/products/edit/eyJpdiI6Ii9ubkJsSUVzc3JWZlY5bkdiNkdLWFE9PSIsInZhbHVlIjoiNGFPVlBQZGxvMDc0WlFGVWNPTkVoZz09IiwibWFjIjoiNTQ3NWNkNzEwNGI3ZWYxYjA4Yzg4ZjQ3NDkzMGJiZWIxOTRhYjkzNDc5Y2EzOGQyN2JmNjI0ZjVlNmY1NWZiYiIsInRhZyI6IiJ9 1 43145 0 0
+/app/customers/destroy/1122445577 1 94 0 0
+/app/tables/add 5 206822 0 0
+/app/orders/update-status/eyJpdiI6IldFVHJ3WXVjVXZ6STM1ZWZYeEtEaVE9PSIsInZhbHVlIjoiSmEzLzVJRkRSellNai9lcExZMVprdz09IiwibWFjIjoiNzk5NTI4OTYwZmI4OGYyZjc3NTQ0ZjY5ZjIyZTdmOTE1YzE1NTE0NGNjZmE2MDU4MzU5YzY4OWNhODFjZjVmNSIsInRhZyI6IiJ9 1 89 0 0
+/app/products/edit/eyJpdiI6InpuR0J5SUhPWTlCOXIxZVp3NTI5cmc9PSIsInZhbHVlIjoiekw1bDhMNkRoakt3RDdLeHJMT2Jpdz09IiwibWFjIjoiYjYxMDdiMTRiNzI5OWYzMmFiYWNmZDhmYTk1MzJkODQ2MzNmNzM1ZjM1MGZlMTVjZmJmYzNiNWYxNDI2ODNkNSIsInRhZyI6IiJ9 1 43147 0 0
+/app/products/edit/eyJpdiI6ImdUYVM2QXJxNXF5eFZYcUFLeFEvcXc9PSIsInZhbHVlIjoiZklBOXh4dGhLaEwxeTd4cnFEK2lDQT09IiwibWFjIjoiN2JlNDUzZDQ3MmJkOTVkNmQ3YjU1NGNmZjI0YTUzMmEwN2MwODMxYjNiMjUzZjYzZmFmNzAyODg2NDllMWY1MCIsInRhZyI6IiJ9 1 43148 0 0
+/app/orders/update-status/eyJpdiI6IjlycVZhR2lOWWgvcFUyeGhoL3FtREE9PSIsInZhbHVlIjoicVR5dkxVcHJxcWNQVjlvT2o5ek81dz09IiwibWFjIjoiYTY5YzBmMmUxM2VmZTljYTM2MDcwYTkzZTliODNhODBkNjJkYTVjMmU2ZjhlOGYyNDNlZGU5MGUzMmM4MjdiYiIsInRhZyI6IiJ9 1 88 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6Ijk5bWg2SzEvam95UEdEQS9SRzlPOWc9PSIsInZhbHVlIjoiLzNLaS85QWpMaFRRc1dtandId3RIQT09IiwibWFjIjoiZjMzNmU1ODMwM2U4MjkyN2Y0MmVlZDdmNDYzYmYwODVmMTYzMTMyNTA1MTUwYjU2NmU1ZDAwN2NjOWE4MGFkNCIsInRhZyI6IiJ9 1 1612 0 0
+/app/customers/destroy/8460753102 2 188 0 0
+/run-storage-link 1 138 0 0
+/app/orders/update-status/eyJpdiI6Ii9Qa1dOMDd1SzkxSjFBRFNRd1E0eUE9PSIsInZhbHVlIjoiRjQwREcrL2RtTHd1cktsbC9UbWtWUT09IiwibWFjIjoiYWI3MzNiZDNkNzAzZTVjMzZkNGY2ODFmZDc2MzdhZDkxOWFjMGQ5NGMwZTcxZjBiNTBlNzNiZGZjMTMxZTNjNyIsInRhZyI6IiJ9 1 92 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6ImV3dGlManVmNlRoR1I3TWdCdkJTNmc9PSIsInZhbHVlIjoicStIWGp6UVRlY1RSVG9yd1NuWWUyUT09IiwibWFjIjoiNGVhZTNhYmUwMDRjYjU5ZTYzN2I2MzFjYTFlZWJlMDI5ZmFiMWVmNTlkMjUwNTMxZTgwY2E1MzEyYTNiMjkxZSIsInRhZyI6IiJ9 1 1636 0 0
+/app/orders/cancel-item/eyJpdiI6IjNudmpTYS8reFZMZzJoNGc2eDl4d3c9PSIsInZhbHVlIjoiOGdHYnZIN2VSWDkzRmFKQWlwN0VPZz09IiwibWFjIjoiNTBjYTY5YTMzYmJkOTUwY2VmYThlN2U4MGViOThkNzBkMTdmMmJjZWI4YTUxNjY5NzIzMDcyOGRkOWE5ZTAzMSIsInRhZyI6IiJ9 1 79 0 0
+/app/tables/qr/eyJpdiI6IlQ5OVllK3VqeVZjaUtyUzBDdW5vS1E9PSIsInZhbHVlIjoiMWJqSDR2RFBQWkJ3NGREUy9DYkgvUT09IiwibWFjIjoiYzA5MzU1MjBmYWNmMmI1YTFmYjc2M2ZmYjFmMzUyNzk5MDYyYzNiYmFlOTBmYWY0NWIzNDU2NjYxZmU3YTJmMyIsInRhZyI6IiJ9 1 44990 0 0
+/app/orders/update-status/eyJpdiI6Ild6ODNGWjRHc0pTT0dwTjNaaWJpMGc9PSIsInZhbHVlIjoiZGVONDFta3JNdVNoK0V5Q0NnaGRpdz09IiwibWFjIjoiYTZmMzJjYWRkNTY2MTY3YzMxNzkxYjk3ZWY5Y2I2NWFjOTgyOGViNDIxM2FmMTVjMWY3Y2E5MmQxMDY3NzU5MCIsInRhZyI6IiJ9 1 92 0 0
+/product/all/104 8 208286 0 1
+/app/orders/update-status/eyJpdiI6IkFGVmQyTTJMUG9KekJWYXpUZGZrK1E9PSIsInZhbHVlIjoiTUpxbWhXL1Z3d3lwOE9OaXlrQndSZz09IiwibWFjIjoiODQ2ODAyZmMwMmI3YjVmZWZjOTdmYTI2NjBlYTMxOGYxMjhlMzlhYzM2MmQ4ZDcwYjE3YzhhMzQ0ODJlNDg4ZCIsInRhZyI6IiJ9 1 88 0 0
+/app/products/edit/eyJpdiI6IjNBaFpNSXpMVm4vMHRTdHBNeWNKK1E9PSIsInZhbHVlIjoiZTFiSWR1a0p3MDVWWW5TL29oRjBZdz09IiwibWFjIjoiYzlmMjljY2E2ZDk0YzEyMDRkYzA0NDIwNzA3ZDU5OGJlMTZmNGI1OWJiYWIwY2Y0ZGIxYmVjNTgwYjFkZmE1MyIsInRhZyI6IiJ9 1 43146 0 0
+/product/Sandwich/101 9 128886 0 0
+/app/orders/cancel-item/eyJpdiI6ImhNNVQ5TkZoM1hCVzdHZ0l4SU9GMHc9PSIsInZhbHVlIjoiR3pIcjc4dFlTT3FPSXM5Q1lSQy9aUT09IiwibWFjIjoiZThiMGYxNDkzMWVmYjVjNTJmNmYzMWQ5ZDEwYTlkNzQ4OGQ0YjhiNmRmZWMyN2ExNTI5OWEzYzdmMTZkYjBmOSIsInRhZyI6IiJ9 2 158 0 0
+/order/payment/ORD202603160007 2 13934 0 0
+/app/orders/update-status/eyJpdiI6ImF2b2phUkdxcHNYcGtoZFpyTzBpOXc9PSIsInZhbHVlIjoianNsb1k4STJDUTk3eWUxbm83cEdCdz09IiwibWFjIjoiNzFkMGE2Yzk3OWJhZTczYTAwZjUwMWVmOTU0NTUyZTQ4NDUwYjY0Y2U2MGU0NWEwNzliNjMyYzVkODY5YzQ2MyIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6InF2b1hVYkdXaVZDVHZpei95d3BVcUE9PSIsInZhbHVlIjoiQyszUlJmR29Dcit3dHkvM0E1QTV5Zz09IiwibWFjIjoiMmY0MmRhNzFiMWRlYzU0MWZiMTgzOWFiMjJkNWQzOGU3YjJhY2M4MWQyNDZhYmUxNTQ3OTE2OTFiZTJjOGRkNyIsInRhZyI6IiJ9 1 89 0 0
+/app/orders/update-status/eyJpdiI6IkdxYVZQelJaeTgrNHVBRHg2bXQyQ2c9PSIsInZhbHVlIjoiYWJmMW5IdmZJakluTm1qRGhPVHFUdz09IiwibWFjIjoiZTY5ZDQ5NTE0ZDI4MjU1NDMyNmYzNTVmYWIxODk2ZWRlMzA5MTQ1Mjg4N2E0YmFiYzMwYWIyMWQxNWRhYjAxMyIsInRhZyI6IiJ9 1 88 0 0
+/password/reset 1 1128 0 0
+/app/products/edit/eyJpdiI6IlJwQVo2T1JGZ0EvTVJkekdwTXJxcFE9PSIsInZhbHVlIjoiUjB2RDFMRXlRbkxTSXRhZmVWbXJWdz09IiwibWFjIjoiY2E0NGMyZWU2MDhlMjg4YWFkODYwNDNiOTY2ZWRlNmE0NThlNzM5ZGNmMzIxZTM3NGNiZWI4OTIzZjBiMDc2NSIsInRhZyI6IiJ9 1 43148 0 0
+/product/Sandwich 1 16385 0 0
+/app/orders/update-status/eyJpdiI6IkJBRElQU280S2diTFVTQS82YWtUQ2c9PSIsInZhbHVlIjoicTVFaXdGalREcUp0WVYyL0xZWW8ydz09IiwibWFjIjoiOWU5YTJlYzQ2OWNjMWI2ZTkzYTI5NWM4ZDY2MTVjYzkwMzMxYjliMTEyMjQ1NDk4MTMwYzM2YzFiYmQ3MGVjNSIsInRhZyI6IiJ9 1 89 0 0
+/app/orders/print/eyJpdiI6IjlRYkY4M1pJM1JJeHlFY1pDV0IvSEE9PSIsInZhbHVlIjoiS1BJc0R0eXlPdnc3SDlkZWZmYnZkUT09IiwibWFjIjoiMzU5ZDAyZTg5ZWE1ZGMyMDUxMTZhMjA0OGJkMzFiZjc5M2EwZTk3NjQwYzRkNjgxZGU1NDcwNjY1OTNhYThhYyIsInRhZyI6IiJ9 1 1479 0 0
+/product/French%20Fries/103 1 12778 0 1
+/app/tables/qr/eyJpdiI6IlMzR3crc0UwSk5yZmJYTk9vTU4rTFE9PSIsInZhbHVlIjoiMldiOHZTUmYxbWtLZ0k4a2ZZVVo2UT09IiwibWFjIjoiMmJhZjVjNjg2MGNiY2M0NmI1Zjc0ZGQzOTlhZTI1Y2RmYTE2MWY0Mjc1NjE4MmVhOWRlOGZiZmMwY2Q1Y2I2MyIsInRhZyI6IiJ9 1 45100 0 0
+/product/Pizza/102 2 28279 0 0
+/app/products/edit/eyJpdiI6IkRIa0FMNnpBaEI3Tm1uZWlZdUIvUWc9PSIsInZhbHVlIjoieXZqZGh5THEyWXdaNVdkamhpNVpNZz09IiwibWFjIjoiNzJiNmZlZTcwZTA4MDgzYzBlZTNmZDgzY2QxMjY3Zjg4ZDNmODUxNGY4NDQxMjU3OWYyMGRlYzhlNzNlM2JmNyIsInRhZyI6IiJ9 1 43134 0 0
+/app/orders/update-status/eyJpdiI6InNZRUxodnJaMDBCbmJFREJieUN3Rnc9PSIsInZhbHVlIjoiVlB3NnJNNnlrMXhxdGZMc3pZN3lXQT09IiwibWFjIjoiYjExNmJkN2JhNzEyZjBkMjJiZWNjNjFkMTQ5MmM3ODVhYTU3ZjQ5M2ZiYWYxYjExMWVkNTM1MWNjYzM5ZWJlNCIsInRhZyI6IiJ9 2 176 0 0
+/app/orders/update-status/eyJpdiI6IlhiM1AxUXRiZDFNS0YzaUxwUklyd1E9PSIsInZhbHVlIjoiYkFka0RFK0ltUnpjRHFhQ3k1a3pHdz09IiwibWFjIjoiNDNhYTBmNDhjMGUyN2UwNTJmZGRiMDQzZTJmOGNiZjkzZjMwMmM4OGJmMDA1ZGJmNjg1OTcxMjFhNjNmZmViNyIsInRhZyI6IiJ9 1 92 0 0
+/app/customers/destroy/8673047576 1 94 0 0
+/app/customers/destroy/8877665544 1 94 0 0
+/app/orders/view/eyJpdiI6ImFTSHYzWWlidUpjRldicmkxQUxLbVE9PSIsInZhbHVlIjoibDZ2ZzM1NmRXdDJHSUxSNlByREltUT09IiwibWFjIjoiOGQxZmQ3OGY4MmU5Mjg4ZTE1OWNlN2E4ODRlOTk0MGFlMDQ1YTE4Nzc5YzRiZGJjYmYxY2NjMmQ2ZTljZDU5NCIsInRhZyI6IiJ9 2 89551 0 1
+/app/orders/cancel-item/eyJpdiI6ImV5Vm9Ra2xjVDhZTTU3emd4Y2x5bEE9PSIsInZhbHVlIjoiT0t2V2ZzbVJKb0tDZ0kyVW56RWlkdz09IiwibWFjIjoiZTFhOWI3MmQwMTIxYzRmMzFkOTNkMjM5YjI4Y2U0YjBmOThiM2I0MDMyZDhlY2NhMGVhM2U5MjExNzJkNjI5MSIsInRhZyI6IiJ9 1 79 0 0
+/app/products/edit/eyJpdiI6IjV4R1pDK3NzOG5nYy9HSXNDTk0xQVE9PSIsInZhbHVlIjoiRjV5NDJMcFM4L3BUYUpZaXpud2dVQT09IiwibWFjIjoiMDliYjE4YTkxZjMwMjkyNDhlY2YwMTA5NTE0ZjMyOWM0ZDQxNmYwNmJmZmZjNzhlMGJkODYzNzNmODA1NWNkNyIsInRhZyI6IiJ9 1 43138 0 0
+/app/tables/qr/eyJpdiI6IkdobURnbnp5emQrb1hYeVY2STBHeHc9PSIsInZhbHVlIjoibVhGZitlL3ZpT1F0SkxneDZUU3ZxQT09IiwibWFjIjoiZjk1NTNiYThjYWM4YzY0MjdkNmQ2MDI3NWQ5MTc3MGQ1Y2ExODIzZDRjZjU4NjkxYjVmYmFmMjczMGFkZTdhNSIsInRhZyI6IiJ9 1 45065 0 0
+/product/all/105 2 54680 0 0
+/order/status/ORD202603130014 1 251 0 0
+/app/products/edit/eyJpdiI6Ik85K1M4WGZGQ1JFVWJpMkNSWGZiNHc9PSIsInZhbHVlIjoiT3hXVVFoa2x4Z1g4TVFXemhuYjhBdz09IiwibWFjIjoiYTE3NWNiYzIxZWQxYzE4ZTZkMTk4N2Q3NjU3YTEwOTUxYzJlNWM3MDQ1MjI3NTUzZDEzZDdmODc4MDc1NDFlOCIsInRhZyI6IiJ9 1 43142 0 0
+/app/orders/update-status/eyJpdiI6ImhxL0hpY3NhdjVQUHp6VFFKZ1MrdVE9PSIsInZhbHVlIjoiUDNaSWkzKzV1NkhCNnlQei94TFVrUT09IiwibWFjIjoiZGE1ZjhiOTY5NTQyMWNmOGM4MTI1MTllNjMzMTZiM2MxNDg4NTk4NDdmZTQ3YTczNzEyN2RjZWI5ODk4NjFhNSIsInRhZyI6IiJ9 2 184 0 0
+/product/Puff/107 1 17754 0 0
+/app/orders/cancel-item/eyJpdiI6IjVrZFdrZzB6ZDhKMTkrZkhYekVDM1E9PSIsInZhbHVlIjoiUVpEb29pUk1xdE54czd2MTA1N3hCQT09IiwibWFjIjoiYjNlMWY3MWY5MjNlMDQxYWFlOWViNWI1NjZkNmRhYTVlNGFlZjlkOTRkMDZkYWQzZjM5MTRiNjQ4YzYwZTZjOCIsInRhZyI6IiJ9 1 79 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6Ik1XeVhsUkZnUTBMNFhhUVF0WXQweWc9PSIsInZhbHVlIjoiNlN3dUZCaElFZUdaSVRkcURCMEF0dz09IiwibWFjIjoiZTRiNzE3MzBlNDRhNDU4NGE1N2FlMTllNGYwZTEwMjUwMTg1NjcwNGE1MzM5ZDA0ZWU1NWNjOTNhOWU0ZTgyNCIsInRhZyI6IiJ9 1 1607 0 0
+/app/tables/qr/eyJpdiI6InJJenN3UTY1U0tMZFlBazRZbkQzeXc9PSIsInZhbHVlIjoiL3h5R0s5QTBPM21ldTVvR05SeVRNQT09IiwibWFjIjoiYTYxNzUzZmViMDQ4ZjMzYzM1ODIwMjk3M2Q0MTk4MTExYWVkZDcxNjVlNTBlNzE4MGMwZDg4ZTVhYmQwNDIyNSIsInRhZyI6IiJ9 1 45097 0 0
+/app/products/edit/eyJpdiI6IlZFbGw2QzlGRlZEOExtRWRXak9JdWc9PSIsInZhbHVlIjoidlRpbXdZM1dMdENCOWYrOXFlazhsQT09IiwibWFjIjoiNWNjYjE0ZGNjMGUwYjdkNjQ3OTJmNTkyNDlkNmVkMTY1ZDU1M2IyZWNhM2M1ZmU0ZTdlMTU1Y2JiY2Q4NGM1ZiIsInRhZyI6IiJ9 1 43149 0 0
+/app/tables/qr/eyJpdiI6IlZqVlc0TXU3V0lnQzM3UTNOZnRGMEE9PSIsInZhbHVlIjoiNkNKWGtBbGxYb2xWK2w1QmtSSEFzdz09IiwibWFjIjoiMTRlOWZlZjExMjdmMDY0Y2IyYWE5NTY3MTIzODM1M2Q3ZjZkN2VkYmE0NjdlY2QxMWYzOTJiYTdlOTk1ZWViOSIsInRhZyI6IiJ9 1 45100 0 0
+/app/orders/update-status/eyJpdiI6Ik9ncWthWERsdlc2WmtLbllrYjBZUkE9PSIsInZhbHVlIjoiRGN5enNUczBTKzZ4V1g5eGNhWGc3Zz09IiwibWFjIjoiZWE3MjM1MjE2ZmUyZDU0ZGNlNDQxOGEwNWU3MWQyYzczZTg1ODlkODE1ZGY5ZjljYjk0MzFhZjJiY2M5NjM3MSIsInRhZyI6IiJ9 1 89 0 0
+/app/orders/view/eyJpdiI6IjB4VE8wSzU1RC9jbjZ2NmxVazVVOEE9PSIsInZhbHVlIjoia0VWbDMwS0JUR1I1TmRIV3N3NVgydz09IiwibWFjIjoiZTFiMjAxOWY0YTc2NGFhODVhMzg5N2M0YmQxNGQxN2NjZjllZjY1ZGNkNDE1ZjVlZTEwMjlmOTg4M2IwN2RkYyIsInRhZyI6IiJ9 1 44849 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6InVrbVJaVWdhSjFUV2NEM2xPRGJmUlE9PSIsInZhbHVlIjoidzZXa2ZKZUpYT2VTRmpLY3pvSkNTdz09IiwibWFjIjoiOTYwMjg1YWNlYWFhMGFjZGIwNzA3ZmVkZTQ4MmZiZTFmNzM5MTU2MjMzNWIyM2IxMWE4MzE4MzZjYTM2ZWEzYyIsInRhZyI6IiJ9 1 1592 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6IjF1bk53akZSUEkzMy80emx1RU1hRWc9PSIsInZhbHVlIjoiYXZNZ2tiWjQwMjN1QlZGcEpVQjVWdz09IiwibWFjIjoiYmRlODhiNThhM2Y0MjlmNGIwZDcyOGM0OTg5M2NhODhhZjUwYjI4OGRkMDUxOTY2ZDY2ZDA3OWE5YzE5ZTljYiIsInRhZyI6IiJ9 1 1612 0 0
+/app/orders/update-status/eyJpdiI6IkwvNWF1R1pvMS9VVVlZT1RtT08yTFE9PSIsInZhbHVlIjoiaGZYSmNTNHFLMHpheCtacmp1TUVDQT09IiwibWFjIjoiYmJhOWM5YjYxMDViMmEyZTM0NjAyZjAyNWVmZDhkMzMyMTk1ZjIyZGFjNDVmNGU1ZDg1ZjEzNzRlYjBkOTljMCIsInRhZyI6IiJ9 1 92 0 0
+/home/108 3 16696 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6ImMrUWJLa1dxczNzQlhPOWxIWFY4OGc9PSIsInZhbHVlIjoiOU5GMjhJcm5BSnBYTWpRWHNZTGZzUT09IiwibWFjIjoiMTM0YjNkZmFjMWQ1ZWRiYTE4NGRkNzFkZmI3ODc5NGMxYzZjNTgxYjFjMmZjYTc0Y2U5YzdjMmIxMjk3ZTg0ZCIsInRhZyI6IiJ9 1 1965 0 0
+/app/orders/update-status/eyJpdiI6Im1WMTRsYTJrQ2hpdnhWdU85SjBFY2c9PSIsInZhbHVlIjoic2o3eTArZERxazhNdkFHTXpacGViZz09IiwibWFjIjoiZjQ5MDYxYTZlNWQ4MjFlNGZjYjEzMWE0NmNiNTJhZjY0MmYwODM0NmFkMDlmMGVmNTNjOWQ2YmQyY2M5YTcyMSIsInRhZyI6IiJ9 1 92 0 0
+/ 2 0 2 2
+/app/products/edit/eyJpdiI6Ikg0UjFSaDFnKzRpUDFPSmJhZVQyYnc9PSIsInZhbHVlIjoiOThQK01HbUNpZnpIV3hlZkJiNjFnUT09IiwibWFjIjoiZDcyNDI5NGU0MTExYTkwNGRiMTViYjA1ZDE5ODUyMThiZWNiYjNiZTcyNjc5YjIzZGE1NTA1MWZkOTRkZTcwZiIsInRhZyI6IiJ9 1 43148 0 0
+/app/tables/qr/eyJpdiI6ImdkeUk4blZhVDlJUTc2dGtLT0hBWEE9PSIsInZhbHVlIjoia0ZCanB6NDhtRjNLWE03bEZmNWFMZz09IiwibWFjIjoiZjc0Y2U1OTg1ZDI5YmU2NDMwYWU1NmY5NGU1ZTk1MjUzNDA2ZGRhNzNhMzU2ZjA0ZTc1OTM3MzBkOTg5NTk2MyIsInRhZyI6IiJ9 1 45087 0 0
+/app/orders/print/eyJpdiI6IndUUDN1REhhM1RRS2g5Z015S3o3cVE9PSIsInZhbHVlIjoibEF4NWhvd2pYemMzZ2gySmFqNHpaUT09IiwibWFjIjoiOThmYTVkMjY5ZDExMTQxYWY2MDIwZjAxZmQ3MGMxZjlmOGYzYzlhNzVhMmZkMDQ0ODc0OWZlNDZhNzJjYjY1ZCIsInRhZyI6IiJ9 1 1424 0 0
+/app/products/edit/eyJpdiI6IkttNXNBbmNCSFRWaFVUNWNhcUkvVUE9PSIsInZhbHVlIjoiTXIxdExlQ2JBa3ZnTE1TaGpQUVV1dz09IiwibWFjIjoiNzRlYjNhOTY5OWQ2YjY0NDA1MzNlYTdjZDRjMjlkMWExZTgyYThmZGNjNTAwYzZmYmI2Y2JlZDkzMGU1ZWU0NSIsInRhZyI6IiJ9 1 43144 0 0
+/app/products/delete-image/eyJpdiI6ImMyQkpVd1dxVGY4b01CVzlpN1MzcEE9PSIsInZhbHVlIjoiOVF3L2oxTFI1UUM3bisybW5VdEFSQT09IiwibWFjIjoiMDA1MTYwNzY3NTdlM2Q3NDMyZDIxNGY5YjJhODQ4ZmJkNDgxZDU5ZDQxMjBiZWUzM2NjZjAyMDE0ZDJjNjc0ZSIsInRhZyI6IiJ9 1 36 0 0
+/order/payment/ORD202603060001 5 33372 0 1
+/order/status/ORD202603160011 2 512 0 0
+/product/all/103 17 463554 0 1
+/app/orders/update-payment/eyJpdiI6IjFLZnVUajZPZ2Z0Q1Zib2N6YmZlQlE9PSIsInZhbHVlIjoiUk1TVjk0djNsSFl3VmZ6dW1oT29wUT09IiwibWFjIjoiZmNmMDYxNjRmYTE5ZmU1OTU1MzFjY2Y5ZGUzODA4OTE4OTE5ODE5ODY2ZmNiOWUyOTVkMWYwNmJkNDJlMGQxZSIsInRhZyI6IiJ9 1 93 0 0
+/app/tables/qr/eyJpdiI6IkJidWY1bjhsekw1TlpJcDZDTk9DQ2c9PSIsInZhbHVlIjoiTkRiV3lpQU0rSExvTTRNTkk2TjQwZz09IiwibWFjIjoiZmM2NmM4MWQ4MGVmMzkyYjk5NTE3ZWEyNGFjZDc1Y2RjNTJhYzdmNDM5M2VkZjcwZTRkYTRjODUyZjM1OTEyMCIsInRhZyI6IiJ9 1 45103 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6IjFJT25WRTBqUmc5TWtxTHVWOUt1SGc9PSIsInZhbHVlIjoiWWY2N1pnc2xVN0Z6N2pWd2dPMlRoQT09IiwibWFjIjoiYTQwODMxMDMwNTFjNWY0OTUyODRiZDUyODVjNTEwM2JkY2NlMWZlZWJlODU5NzIxMTAyZGQxODczOGRhZjY3MCIsInRhZyI6IiJ9 1 1628 0 1
+/app/reports/sales 22 938748 0 0
+/app/customers/export/pdf 2 102868 0 0
+/app/orders/update-status/eyJpdiI6IjlyUnMrVlFBbndqUnNmUmtzWW1Pa2c9PSIsInZhbHVlIjoidDNSanl0blkzT3U0UHdKY21nUWlMUT09IiwibWFjIjoiMjA5NjA3ZjQ1OWMyNjc1N2FhMTc0MzhkNjE2NjY2ZDNkOTY0YjA3YWJmNGE3ZTA1ZjA1YzM0NDQ1ZGFlMWMyNiIsInRhZyI6IiJ9 1 88 0 0
+/app/orders/view/eyJpdiI6ImN4WFpncmlDR29vMVNCNGhDMjNWUGc9PSIsInZhbHVlIjoiRC9nVlo5YXhVN1ZqUDBpcGkwRVFoZz09IiwibWFjIjoiM2ZlZTdjNWM2NGUwYjA1YjBhMzcyOTZkNTY4YTI1MzIxOGRmOTc3MWZmZDc2NDFkNmMwNWQ0NDY3ZTM0YjI1NiIsInRhZyI6IiJ9 2 89744 0 0
+/app/products/edit/eyJpdiI6IitrL1NIZHZXMlVUMXZmanNiNGNxcHc9PSIsInZhbHVlIjoicHVML0phUlBteG9PTWY5STQvU0MrUT09IiwibWFjIjoiYjA5YjE1ZjgyZTk2Zjc3MzYyZDgwODE2MDJjZGUyM2EwMzVkZWY2ODY3MDFjNjkyNzM1MzFkY2UzNzVlNTBmYiIsInRhZyI6IiJ9 1 43135 0 0
+/order/table-active/101 23 2696 0 4
+/app/orders/cancel-item/eyJpdiI6ImtGcjF5SUY4VXZRZ0Z1a0w4blIvUUE9PSIsInZhbHVlIjoiOWV1Mk5ndmJUZmFmZS9JRi9TTGRrUT09IiwibWFjIjoiOGIyMDdhNTUzZGM2MWJjMDYxZDJkNDFiNzViZDQyY2U2MmEyZTNjMTVjNjc4MGI2OGU0MTQzNDk2ZjIwYmJlNyIsInRhZyI6IiJ9 1 79 0 0
+/app/tables/qr/eyJpdiI6IjhBVytzN1VMS2pHaGFQYm4wN0cxbkE9PSIsInZhbHVlIjoidW9TaVFVcFhvdlVVVit5d3VhYlhqUT09IiwibWFjIjoiNDI0ODFmNTAyNWIzOTI1NWVmNzI3OTRhZDNhZmViMTRiMjhkMjdiZDNmN2MwYzRhOGU2ZTIyNzFiZWYzMGY0OCIsInRhZyI6IiJ9 1 45092 0 0
+/order/table-active/102 2 234 0 1
+/order/payment/ORD202603090001 3 20088 0 1
+/app/products/edit/eyJpdiI6Ikp6OTRrQnhlMTFvUDZlVlN3R1RHdHc9PSIsInZhbHVlIjoiSVBWRmNuZHNqOGF2eXdvZDlHZmpRUT09IiwibWFjIjoiMDBlNmVhYmVmNjU5ZWJiMzZkMzI5N2U5ZDNjZjRiODhhOWI4ZDk5M2JmOGZhZDY2NmU1NGViNTY3MjkyYmQ3MiIsInRhZyI6IiJ9 1 43140 0 0
+/app/users/getAll 26 54764 0 0
+/app/products/edit/eyJpdiI6IkEydEI5UjE4amV4dWxzOThEd0hhdnc9PSIsInZhbHVlIjoiME9nK05uRmwwT1g4eEdRaEdCcUR6UT09IiwibWFjIjoiMjRjYzI5YTRhZTg4NGRiZWRkZGFjNDIzNzY5N2EzZWFiMmZjMGQzZTY0NmExOTJjNGM5MjRhZjBlN2ExYTgxYSIsInRhZyI6IiJ9 1 43150 0 0
+/app/customers/destroy/9898989898 1 94 0 0
+/app/orders/update-status/eyJpdiI6Ill3UTk0ck15aVNobVFpeU9kL2FEOXc9PSIsInZhbHVlIjoiYndTaERSdWp2OVhicWdBZkRkR0JPZz09IiwibWFjIjoiMGRmYWM3MTliZDIxMmY0MDdlNjE0ZjVhNzFkYzE0Yjg1MzkyOTFmMzMwYjYzZGViNWQwOGU5MTBkYzYxMjA0OCIsInRhZyI6IiJ9 1 89 0 0
+/checkout 8 60262 0 0
+/app/orders/update-status/eyJpdiI6ImtmODczd0NOMWhnakRodVpLTkVLb0E9PSIsInZhbHVlIjoibjF2d21UQ1R2ZjlWVXJIb3ZOOUZaUT09IiwibWFjIjoiY2M3OTFkY2FhMzFkMGFjYmQ2MjMzZDQ5ZGEzYTQ1ODY4MTlhOWIzNTNmMzBhYzc3YzE3N2NlN2ZiZjg3MWUyYSIsInRhZyI6IiJ9 1 88 0 0
+/app/products/delete-image/eyJpdiI6InZsMDRMZVZoQWZNSjBwMEtUSy9OREE9PSIsInZhbHVlIjoiVStCU0M2Z2M0bXJ5NlNST0R0ZmFHUT09IiwibWFjIjoiNTQyOTBhMjgxN2MyMjc3NjgzOWVkZTAwNjBjMmU1YWYzZWZkNDY2YThjNzI1NmE2YzUxOGQ0ZTU2MWJkNTlhNCIsInRhZyI6IiJ9 1 36 0 0
+/product/Mocktail/101 2 37415 0 1
+/app/customers/destroy/1234564899 2 188 0 0
+/checkout/101 17 119931 0 0
+/app/customers/destroy/9409297139 1 94 0 0
+/product/Milk%20Shakes%20and%20Thick%20Shakes/101 3 70961 0 0
+/app/orders/update-status/eyJpdiI6IlBvdmhZcktYeGlzekEwWjkyV21YRlE9PSIsInZhbHVlIjoialk3d01qTlA0RFlOaWN2MkdhU3dJZz09IiwibWFjIjoiYjBhN2YwNDQ1YWEzMTVhYzhkM2NlYTg0MWE1MzViZDc2NmFlMDc3MTUwYjc4MzNkMWQxZmRhMTc2NjBiYjg0NSIsInRhZyI6IiJ9 1 92 0 0
+/app/customers/destroy/1234564890 1 94 0 0
+/app/products/edit/eyJpdiI6InVwUE94eEorSFBXTElaUk5VeWZud2c9PSIsInZhbHVlIjoieU96SHhOYTVtcnhMMkpOT3lFNkFjUT09IiwibWFjIjoiYjFlYzhkOWVlODBiMWZlZjY3M2EwZWIzZWUyMmFkY2ZkNzUzY2I5ZWIzNDFhMTU2MGU5NWRjZGE3NTEyMTM4NyIsInRhZyI6IiJ9 1 43130 0 0
+/app/tables/qr/eyJpdiI6InRWYTBRSzFwK0tyZWY0S1NPSm80RXc9PSIsInZhbHVlIjoick1CcFFWb2VUN0tSMDlVaGk1KzJVUT09IiwibWFjIjoiMzc4MDNlNWRhNjcxMjljNDAzZmJjYzA1NTE1ZGQwNTFlOGY3ODQxNmM2YTk4MTQ3NGVhZGZhMjlmMmQzZTIxOSIsInRhZyI6IiJ9 1 45098 0 0
+/assets/vendor/fonts/fontawesome/fa-solid-900.woff2 6 750620 0 0
+/product/Mocktail 1 17604 0 0
+/order/status/ORD202603160013 5 1291 0 0
+/app/customers/destroy/8866168594 1 94 0 0
+/app/products/edit/eyJpdiI6IlRuWlhIWDZUcHd0cGRkMVVkVkkrYmc9PSIsInZhbHVlIjoidnQxN1hWaEdPN05ZWFQzOFE4elRtdz09IiwibWFjIjoiYzJkMDYxNDk2MGRmM2MwYmY1NzE5MGFmNGE5ZDMxODIyZDgzODQ4MmVkOGQ0OGI5YmFkY2Y0MTc1MmZmYTYxYSIsInRhZyI6IiJ9 1 43138 0 0
+/app/tables/qr/eyJpdiI6ImFYc1FUczdZbndPQ0NTT09IQXlSenc9PSIsInZhbHVlIjoiblJEUU1UcmpqY01JSVliekk0M2ExZz09IiwibWFjIjoiYTk3NDQ0ZWM2NzY1NDdlZTQ5NGQ1NDYwNzQ0ODlhNDFhYzYzZjVmMTQ2ZDYzYTY1ZmIxMWNhZGVjNmQ0MmExOCIsInRhZyI6IiJ9 1 45092 0 0
+/app/products/edit/eyJpdiI6IjJRdEhlYmRsYU9tRTZrYms2djA0Z2c9PSIsInZhbHVlIjoiM0FlOENoZ25XOEx3U0tCNHQ2YWVZQT09IiwibWFjIjoiOTQ0NTdkMzRkNjBmMzZlZmY4MGM3NGM3Y2Q5MmM3ZTIxZjNlM2Q3MWRhMzFhYzRjMzAwMjExNGI4ZTU5ZWU1NCIsInRhZyI6IiJ9 1 43156 0 0
+/app/products/edit/eyJpdiI6Imh2VERJTTkxOXc5REJ0dEFxOXROTGc9PSIsInZhbHVlIjoiTUdzdE1CSUYxWEtwcnNtbDV1dVc2dz09IiwibWFjIjoiNWY4MDA4YmEyODJkNmYyMDI2NDg4NjM4ZWIzNjIwMGY2MzRjMDU3NjM0NmJkYWVmMDViN2U5OTBiZGZiYmYzZCIsInRhZyI6IiJ9 1 43153 0 0
+/app/orders/update-status/eyJpdiI6IkFXVWhxZnE2c3NhT3FFWVB4b2RFTFE9PSIsInZhbHVlIjoiQ0l5ckJNRGhqQjY1RmF0czhXQlVFdz09IiwibWFjIjoiMTc1MWU3YTcxNTQ0ZWQ1MmVkMGFlM2EzM2QyYWMxZmZiNWMxNmQ4MjkyYzc3Nzc2ZmFlZjJkOTQ5Yjk4ZTYyNCIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6ImpENkdqOUU2U3hVT2loYUxKTXdSWlE9PSIsInZhbHVlIjoidi9nMlRtTHhSZnl2cXp5Q3huMk16UT09IiwibWFjIjoiNDk2MDkyYjM4NjVhZmM4ZDNmOTJlOGQxODJjMjc1MDdhNTU0NDUwZmYwMzIwYzgyZTlkYTBkNWEyZDZkMWE2MSIsInRhZyI6IiJ9 1 92 0 0
+/app/orders/update-status/eyJpdiI6ImhES3JXSFo4OEgrek5uRHV3K0tza3c9PSIsInZhbHVlIjoiMkkvNEpGTlVMQXZHU2tpeGRYWVF0dz09IiwibWFjIjoiNjc3Y2UxZmY1YWU1Nzk0NDY1ZGUyYzk3YzU5OGJiMzY0YjNiMDVkY2RhM2Y5NDVkNDEzZGE3MWQwMTFhYWJkZiIsInRhZyI6IiJ9 2 184 0 0
+/order/status/ORD202603160012 4 1028 0 0
+/app/products/edit/eyJpdiI6Im1mYUlqS0RwT3F4ZVdlbTIvaWVkbkE9PSIsInZhbHVlIjoiVHc1N3RyM2lYUjJmdkhUQ3FCb2pMZz09IiwibWFjIjoiMTY2YTU4NTY4ZjY2NTY3OWRkNmFiZTY4OGJhZDA2ZGM5OGU0ODQ0ZWQ3YmVjNWFjNDE5NmZhODgwMjRiNDc1OCIsInRhZyI6IiJ9 1 43170 0 0
+/app/products/edit/eyJpdiI6IjB2N29YWi9XaGI2dHdibnprdWFXdEE9PSIsInZhbHVlIjoiRUEyTjJicXU0MEF4YWp4QjNUTEk0UT09IiwibWFjIjoiMTU1MmFhYTllMTMwZjUxYzkwOGY1NzIxZTg4MjZmNzBiZmM3MTQ2YzhkZDIxNmEzN2EzMTg2ZGQ3YmE5MTI4MiIsInRhZyI6IiJ9 1 43145 0 0
+/app/orders/cancel-item/eyJpdiI6InQ0bVVqb0lYcnEzZlNHSDFJREl2cFE9PSIsInZhbHVlIjoiaTZNTEZxZ3dSZC9SS3VockJVSzgvdz09IiwibWFjIjoiZDRjYzU5M2Q3ZjIzM2I3YTY2MzhjMjZlMTYxNjNmMjUyMGE1ODQwZGVkYjIyODUzODliYmRhNzNlZjhjZDQyMyIsInRhZyI6IiJ9 1 79 0 0
+/app/orders/update-status/eyJpdiI6IldaUFloSS9Kc2lmcmJUaUUwMDJiMWc9PSIsInZhbHVlIjoieFNHWW5wazRQWFlKbGNpa2xNMEV4QT09IiwibWFjIjoiNDBhNzI3MzhkYjRhYzE5NzU2MjM2NWYwZDI0YmM5YTk5MGE2NzYwNWQ1ZjAzODUxZDJhODFlM2FjZGRlMDAxOCIsInRhZyI6IiJ9 1 88 0 0
+/app/orders/cancel-item/eyJpdiI6InJYalUxNHMxTEdFZllNMHpNR3lyS3c9PSIsInZhbHVlIjoid2plTGorbHk2ZWpaY2RRSHpUZU9oUT09IiwibWFjIjoiOTUxNjE5ZGM3YzI0ODg2MmY4OTgzNTRjOWY3ZmQxYTRlYzZiZWM2MzgzYTllMTZkN2ZhNzIxNjMxZDY3NmU1ZSIsInRhZyI6IiJ9 1 79 0 0
+/order/payment/ORD202603130007 1 6640 0 0
+/checkout/103 11 82814 0 1
+/app/products/edit/eyJpdiI6IlpRYlAyZnhOMmIvOTRubDNSbnZsbnc9PSIsInZhbHVlIjoiWlNrMW5mWXhTSzQ1Y3NWbVFxdjlUQT09IiwibWFjIjoiYTA5NjY0MGEzNmQ0ZDVkZjM3YzU2MDAzODRmNGExZjYxZmQyYzkzOTI4MDExYmZlOWYzNjM4NTFhMDk0OTdmZSIsInRhZyI6IiJ9 1 43140 0 0
+/order/payment/ORD202603160014 13 123808 0 1
+/app/tables/qr/eyJpdiI6Im05TEQwQ0NQVGhZQTlwa284dSs0Nmc9PSIsInZhbHVlIjoiemF0VHhRVVhEU29xTmJteVVYRjFLUT09IiwibWFjIjoiNDYzNDAwZmIxY2JmMzBjY2IxNTA2MTI3ZmU0MDIxMWJlYWYxMjc3ODg0ZjhmMDA4ZmZmN2JkY2UyOTIxYmViYyIsInRhZyI6IiJ9 1 45097 0 0
+/order/payment/ORD202603160002 6 48227 0 0
+/app/products/edit/eyJpdiI6IkZCa1RINGtsZitwcDV2RXhnUkVUNXc9PSIsInZhbHVlIjoiK2Z1QitVTWN3ajh4eVRwYkRLWTFVQT09IiwibWFjIjoiMTkyODExNTllZDVmMTY1NzBkY2E2Mzc3ZmVmZWU5NmI0MzUzOGE3MmQ0N2E1YzU5NTY0YmJiMDYyNjhmMmQ4ZSIsInRhZyI6IiJ9 1 43138 0 0
+/app/tables/qr/eyJpdiI6IjFBd1VEa2d2ZEJleDErd3MwVG5jSGc9PSIsInZhbHVlIjoiUGVoUFFlODlEZ2N0YlRxeHRLcHoxUT09IiwibWFjIjoiOGMxMmNjMTJlNjYwYTFhMWU0ZDYzZjQ4NjNiNWRhNGU2OGJjYWVmMDY5ZjY5Y2RiZDQxZTUwMzg3YmQ0NmM0MSIsInRhZyI6IiJ9 1 45041 0 0
+/order/status/ORD202603160004 1 253 0 0
+/app/orders/view/eyJpdiI6IlBCcW5aS2cxcFI4dUc2S1ZuQ2NjSnc9PSIsInZhbHVlIjoiNjV2dDlZWlEzUnlPZ0ZmTnRGNGVuQT09IiwibWFjIjoiYjYyZWRlZWFlODMwZDhmNzA5MDgyZjI1NDkyMTNmNmE2ZjMxMTg3N2ZlODhlMDdiZmM3ZWMxMWJiZjBjOTVlZSIsInRhZyI6IiJ9 1 44931 0 0
+/app/orders/generate-upi-qr/eyJpdiI6Ik4rMldvelhreXpkM3R3WXpVNUZNeGc9PSIsInZhbHVlIjoiUW9mTTZkZzJDODFDTlA4TnoyYWQrdz09IiwibWFjIjoiMDdhZTNmNmNkOGIyYmRhMzkxYjVhMjdhNmQzZmFhMWQ2MzEyZmM3MmVjMmM0NjQ5MGY3ODJhYzM4MTNjY2NmNCIsInRhZyI6IiJ9 1 1599 0 0
+/app/orders/update-payment/eyJpdiI6ImFlcXUyVTNDLzEwWHh0b01vd0xVQnc9PSIsInZhbHVlIjoiQzljd1ZOQVRDWWgxZ2twejgxK3l2dz09IiwibWFjIjoiODIzMGM3ODYxMTFjZmE4OGVjMGI5OWI0MWIxYzI5YTc4NjI5N2Q5N2Y1MjIxN2E1NzlhOWE4OGRiODViMDAzYSIsInRhZyI6IiJ9 1 93 0 0
+/app/customers/destroy/8866447308 1 94 0 0
+/app/users/edit/eyJpdiI6IjF0ZmJVMldxUVd3bjFSVnFJSklMc0E9PSIsInZhbHVlIjoiTCtQejFEaUlqOFQyLzVQeGlsVWhqdz09IiwibWFjIjoiMTUzN2Y5MzQ1NDdlNGI1NmZlZGZjM2IzYWMyMzQxN2VlYjMzNDI0ZDFjMTFlNjkxZDVlYTg3N2VmMTUyOWNiMCIsInRhZyI6IiJ9 1 42603 0 0
+/order/table-active/108 2 237 0 0
+/app/orders/update-status/eyJpdiI6InlaSlN0VWlLcy92b1Q0UnNhdnRleGc9PSIsInZhbHVlIjoiS2lKNUxBV1dSdjM5aEVtMWlHQldMUT09IiwibWFjIjoiZTZmNzIxMzRiYTFmMDg1ZDVkZmQ4ZDdjMmFjYzRhNzc3NGRkZTEyYmU4ZmYzYTU4NzNjYjM5NzIwMDU4ZjczYSIsInRhZyI6IiJ9 1 92 0 0
+/app/products/edit/eyJpdiI6Ik5yenRvdExzRUJjNWNnMW4rckV1dVE9PSIsInZhbHVlIjoiaWQwSlVzRHlDdExoeVB1Qk1FVUUxQT09IiwibWFjIjoiMThhNmE2NjE3ZjQ2NjgzYjI4YzljYmRkNTRjN2M5MWY1YzZmMGIwMDljZTZjYTQwZDhjOTQwOWRiZDhjMjIzZSIsInRhZyI6IiJ9 1 43147 0 0
+/app/tables/qr/eyJpdiI6IkFBemJqZWFGeFhNeUFKcnRMRTZvd2c9PSIsInZhbHVlIjoiaTZxd0NRT0RGT21kanltZm9MbFpyZz09IiwibWFjIjoiYzNlNzY3ZWYzNGYwMDdiMjZmZDQ1ZmE0M2MwZTJmYWI5N2VmY2IwZjU5YmYxMmU0MTViYTRkNzYyNTMzOTBhZSIsInRhZyI6IiJ9 1 45000 0 0
+/app/tables/qr/eyJpdiI6ImdtNkNWSmNIUGd3T0lab2NwL1pPaXc9PSIsInZhbHVlIjoiMTJMUXUvaVl5Z2hnK3gvaXJYSFI0UT09IiwibWFjIjoiZTdmYzBmYzBiZmYwZjJhODUwYWE5YWQ5OGU0ZGNmYzhiOGJkNjFmMzJmNjE4YzRiYzY1Yjg3MTVhMzk2MTkzOCIsInRhZyI6IiJ9 1 44995 0 0
+/app/orders/cancel-item/eyJpdiI6IlpWQUhXL3pXaUxTdGpZSWJJU3hiU2c9PSIsInZhbHVlIjoidHVZOW5qbHphYlR6RDJvMnFRR1VYQT09IiwibWFjIjoiZTVlMjg4MTRjYzBiYWE3YjIzZmRlN2E0NTdiYjQ1YTRjZTM2NTA5YzgyZDA5ZjVkYmJlYjQ5YjNiZmE3NjU3NiIsInRhZyI6IiJ9 1 79 0 0
+/app/orders/update-status/eyJpdiI6IkloWDRzNSsvVjFwTUxkR3d1WTZGL0E9PSIsInZhbHVlIjoiOUxkOUR5azdia1RWZTAzNnBLSEdQdz09IiwibWFjIjoiMjIxOTYwYmNjNjkwMGZmM2VhNWQzNDUzMGVkYmJkZGRjMjhkZjA5NDQyOWNiODkzNjhjMGFhOGFmNjMzNTRjNSIsInRhZyI6IiJ9 1 88 0 0
+/app/orders/update-status/eyJpdiI6IlpGMXVaVjRlVWVkQmtwbUh6bUhMMEE9PSIsInZhbHVlIjoiRmgwdUYyQXNSM25hTXJUdlRRNDZnZz09IiwibWFjIjoiODZlYjFiZGE2NjUxYWJiYjk5ZTIyYjVjNWIzNTFjNDAxNmZmNDRjYzRjMDQ0ZmE1YjBjNWI0MmMwNTIzYzc4YSIsInRhZyI6IiJ9 1 92 0 0
+/app/customers/destroy/9988998899 1 94 0 0
+/app/orders/generate-upi-qr/eyJpdiI6InVYWm9yMWM2eVZQTGE3aGZwQVJDTGc9PSIsInZhbHVlIjoiRzQzMXJJNm5YTUxQeXFmcERROE13Zz09IiwibWFjIjoiNzAxNTA4MGY3ZjZmOWVjYTIzZGY2ZDY1MzI0Yzk5MmZiZjM0ZjZiYWFjMjY2OTAxNjgzZjVkOTc2NDM0Y2M4MyIsInRhZyI6IiJ9 1 1607 0 0
+/app/orders/view/eyJpdiI6InRwejVvZTRvbmMwZXpaVkNBS2puaEE9PSIsInZhbHVlIjoiYVJGUjhSVVEzM3BVOGJ5QVY5cFdYdz09IiwibWFjIjoiODk1NDBjMmYwYTM1ZTI1MjQwYjU5Zjk2MWNmZTY0ZGYzOTdiZjkzNzAxNzBlNzgwNWYzMDE2MWU4NjlmZWM3MyIsInRhZyI6IiJ9 2 89766 0 0
+/app/products/edit/eyJpdiI6IlhlbEk4aThPdUNwd25hR2xKdCtRY1E9PSIsInZhbHVlIjoiOEpseDViUCtXL0VoRVIxNWdwSWRKUT09IiwibWFjIjoiM2QyZjRkYTkzNWFlNjdmNDE4ZWY4ZDdmYTUyNjM1ODI3NDBmNjRkNDYyNmNhMDU1NjE1MmY1NzY0ZWZkOTFmNSIsInRhZyI6IiJ9 1 43146 0 0
+/app/tables/qr/eyJpdiI6IjVjRWNCTjBnS2M3aXVTOU5TbW5UVmc9PSIsInZhbHVlIjoiYUZpYWxZOTNubVUrV1hWMXlxa0lNZz09IiwibWFjIjoiMjI2OTNjM2JmOWQ2ZDFlMzA5OWVhYzdkMzA4Mzc0M2FiOGNmYjBjZjU1NDEwZjA0ZjcwNWRlNWE4OTRiNzg3ZCIsInRhZyI6IiJ9 1 44990 0 0
+/app/orders/view/eyJpdiI6IjYvL3VVZ3REMkc0MzV2d3VoM0l3anc9PSIsInZhbHVlIjoiWVRFTEFqWTlReGg4anBqUWlWZStqQT09IiwibWFjIjoiOWEwNWM2M2YwZGM0YTUxMTY2ZjUwYTVlMWFiZjUwNjM5OTg4ZDY0NDU1OTQ0MTVmYTZmYTRkMTFmYzg5M2M4MSIsInRhZyI6IiJ9 2 89672 0 0
+/product/Maggi/101 11 166806 0 0
+/app/tables/qr/eyJpdiI6ImE5MWptZ2ttelFvYU16QnBMQ3NrNmc9PSIsInZhbHVlIjoiTWU3cndtb0dIT1orZFB6L2RSWWd0Zz09IiwibWFjIjoiYTExNDkxN2IyMDg5MTQ5MDhiMTY5NTE5YmMzZTAwOGY2OWRjODk2NjZkNjU5NTk5YjkxZTI0NWFhODQ4ZDdjZSIsInRhZyI6IiJ9 1 45089 0 0
+/app/products/edit/eyJpdiI6Im9aSE9FU2ROZ1NuYThseE44OWRiT1E9PSIsInZhbHVlIjoiS0hwL0pEN3daUzRueGtlYkcrRlNiQT09IiwibWFjIjoiZDRmMjFlYTYxZTg0ZDZhNjFjZGRkMTg3NmY3NzZmN2RiZWQ1MjIzZmUxZWE1ODFlN2E5YTIyOTkzNDUwYWYxZSIsInRhZyI6IiJ9 1 43135 0 0
+/app/products/edit/eyJpdiI6ImJZamV3NmtYQjhyRkh4enFnWkU2Z1E9PSIsInZhbHVlIjoiOTFiQlQvYmU4UStic293SWJQemNMQT09IiwibWFjIjoiN2UzMWI3ZjVlZTBjYWRiZGI0NjFkZjgwYzA1NDc4N2NmY2I0Mzg4MmRjMzc4Y2IwYWM1ZjlmNTBkNjg1MmJlNSIsInRhZyI6IiJ9 1 43136 0 0
+/app/customers/destroy/1234567899 2 188 0 0
+/app/products/edit/eyJpdiI6ImY1YmRLczJiZWZmSTBCcWpnQnBoUHc9PSIsInZhbHVlIjoiMU5lMWViUy9tM1JtUGlmMlAvQ1Z1UT09IiwibWFjIjoiNTJhMDAyYzFmOTM0OThjOGYzZDExYWUwOTU0NjFmOTEzZDYyYWMzZmNmYjJkNDJkZDYxNTU2OWRjY2ZjZGQ0NiIsInRhZyI6IiJ9 1 43137 0 1
+/app/products/edit/eyJpdiI6ImJ5cWRmOXpKeG94T1ROMVMrNllGTkE9PSIsInZhbHVlIjoiM2dVNUp2VC81ZzV2MTYvQ1I1bFRqZz09IiwibWFjIjoiZTQyMTQ4MjFmNTA0ZGI5ZWExMjBmNzc5YjZmODJiZjNjNTQ0YWViZjJkMmVkNDE1MzExMzAyZDg1YTE2NzNkZCIsInRhZyI6IiJ9 1 43132 0 0
+/order/payment/ORD202603130014 1 8016 0 0
+/app/orders/update-status/eyJpdiI6InJ5QTNEY29wNWlET2pHSzZzazQxNHc9PSIsInZhbHVlIjoicU01dGo4UGgzQ0ppcFE0M2hzeGhvdz09IiwibWFjIjoiOWQ5NTk2YzZkNWE2MWQ5N2U1NmExYjNjN2ZmM2YzODU0Mzg4MzQyNTgyNTNjM2IyNDVkZmMwZTE2NGFjZDg5ZiIsInRhZyI6IiJ9 1 88 0 0
+/app/orders/update-status/eyJpdiI6ImJRVTZkWmsreDJPb2puYmhuVEpMTVE9PSIsInZhbHVlIjoidW1uNmRWZFJZbzNHSFNqVWNZZGR1UT09IiwibWFjIjoiZDZkMDA4OTZhZDI2MzYyNjFmMTBkNWE1ZTJkNjljMGQyOWFhZmYyOTYzMTFhNTg3Y2Y4ODM1NTdmMzRkNzZhNyIsInRhZyI6IiJ9 1 89 0 0
+/app/orders/update-status/eyJpdiI6Ik1RZmIyV3AySE40bUs1N1JaV0pYd2c9PSIsInZhbHVlIjoiRGxzd1dkYkhidThBQWp4RXg5NUFLZz09IiwibWFjIjoiMzI1OTFlNWRjNGMwODJmNmRkODhkNDk2MDIyNWEzM2YyZGIxOGJhOTI1ZTNiZmE5MGViNDI2ZTk3NDUwYTc4MCIsInRhZyI6IiJ9 1 92 0 0
+/app/products/edit/eyJpdiI6IlFLamVQeFJ6VmRNZ3BkNUM4NHZ5T2c9PSIsInZhbHVlIjoiNHlJM1cvYkRFanNGdGgyeUJqMWJ4UT09IiwibWFjIjoiNTM3NjQ5ZDM0YmU5NTQ5ZmMxZmY5OTgxODliODA1YjIxYjUyOGIwMjgyMzgyM2UwZWQ2YzI2OGMwYzIxZTEzYSIsInRhZyI6IiJ9 1 43142 0 0
+/app/products/edit/eyJpdiI6IndBa3RmL0Y1dGsxbXVkczZKczBHNXc9PSIsInZhbHVlIjoiU0VvQ2VDZVFGd0hiOHdDWTZHYUx1UT09IiwibWFjIjoiMmIzZTNjYzIyYWNhNGE5ODg3MzAyZWI2M2VlZGJlMGQ5MDg3ZTg5NzU5OGZhZTY0MGIwY2MwMzg1ZDA0ZjE0MSIsInRhZyI6IiJ9 1 43134 0 0
+/app/tables/print-all-qr 10 527977 0 1
+/app/products/edit/eyJpdiI6ImlmY2NNWlFMNk5FeW9jbTNRZDlhQUE9PSIsInZhbHVlIjoidlhwdnJqcFBkRjA4V1JBMWRXd0tXUT09IiwibWFjIjoiYTdmODEwMDk0NjI2ODExMmZhNzVjOWNjMjdlMGZmNWY4NjY5ODM1NWMyOTgwYTA5ZWM4NjYzMTNlNmJkMjdlOSIsInRhZyI6IiJ9 1 43160 0 0
+/app/products/edit/eyJpdiI6Ii9IK3M0Vmo4SExtZzhSTmpIcFQ4UHc9PSIsInZhbHVlIjoiQmtpdEVmZWVlWFRLK0wvRWtWUnpPZz09IiwibWFjIjoiYWJkMGU0NDIzMmM4MTViNzFhYzNiMWZmNmY0YzE5NGMwMzliNjMzZDMyZTZmYmFjYTYxYzBkMGY1MTkxYjhiNyIsInRhZyI6IiJ9 2 86296 0 0
+/app/orders/view/eyJpdiI6Ik5oSGRETXBOUE1yL3gvV3RkL2Q2V2c9PSIsInZhbHVlIjoiQ1J2TkcxcTkyL1d5Nng1bGVCN1dQZz09IiwibWFjIjoiMGJhMzczMGIyYWEyOTBmYzhjYjEzZjYxZGQ3NjUwMmMxMjg0Y2M4MjBjMzliYjU4MjdmZjQxODkxMDc0NjQyMSIsInRhZyI6IiJ9 2 89677 0 0
+/app/orders/update-status/eyJpdiI6IjV6c3BoeTRnYkR4Rzk0SjhMRzVDVGc9PSIsInZhbHVlIjoieDlURDBheTJaWXZReWJwYTd0MitZdz09IiwibWFjIjoiMWZlYjhjNTJlNWNmOTQ3OWY0ODNiYzA1NTI1ODY4YTNmNzhhMmEwNmU0YjAxYWIxNzM1NDFlOTEyYmU2Yzc3ZCIsInRhZyI6IiJ9 1 92 0 0
+/checkout/102 6 45219 0 0
+/order/table-active/106 1 116 0 0
+/app/orders/update-status/eyJpdiI6ImloQzVMNU9IcmxwMHVybHdkUStnMmc9PSIsInZhbHVlIjoicDdUenF4RG1nWk5XcDZ2WDZ4ZDQ4dz09IiwibWFjIjoiZWExYzVmNGJhZTkzZjRiNDY2NDA0NGU4NDFhYmM1ZTQxNmVlYjFlOTY2ZTIwZjI5YWEyMjJiNzZkMmEwYzFlZSIsInRhZyI6IiJ9 1 89 0 0
+/app/products/edit/eyJpdiI6ImRFQ2g1SThBK2doWUlKYU1HWjFxNXc9PSIsInZhbHVlIjoieDNvbFlic2RNMktpcTQ0NkFlM295UT09IiwibWFjIjoiMzRjNDgzMWJhNmVmNDAwODE1MjEwNjYxNmY2ZWQxM2JhODJkNDU0MWFiYWQ5MTYxNmY3NmI0YTdiMzc0ODY3NCIsInRhZyI6IiJ9 1 43145 0 0
+/app/orders/update-status/eyJpdiI6IlQvZnlNVzNZdEFtWjFvL2s4WHVxWFE9PSIsInZhbHVlIjoiVnJvb0FDWGtxK3pTMkV5QnRSbis4Zz09IiwibWFjIjoiZjllMGNiNGFkNTUwMzIzZmEzZGE2YmJhZTE4M2RhYWUwMzBlNjM3NjJhMjVjZjVhMDRjNWE5M2VjNGNjNjNjYyIsInRhZyI6IiJ9 1 88 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6ImR3YkNWbXpzODV0L3hHMU9MUmQxNEE9PSIsInZhbHVlIjoiV2Z1NHFrYjlVVVl1RVU5UnFTeXpsUT09IiwibWFjIjoiYjM5ZjgwOWI3ZDYyNWI0MTU4YWE4YjkxOTZlOGRiZDcyNmIzZTc2OGNiYTlkOTQwZWY2NzkwMmE4OTBiNWY2MSIsInRhZyI6IiJ9 1 1965 0 1
+/app/orders/update-status/eyJpdiI6InUwK2RRRy9EUG5xTGlVdGptbGVwdmc9PSIsInZhbHVlIjoicStybDl6WGRLL1ZOclE1ZUpkalo5QT09IiwibWFjIjoiYTRmN2ZlODllNjg4MWVmYTFmYmMyNGU2NGU2YWYxODJkMGY3NDRjYTIyMWM4NjRkNjNiMjg4ZjY2NjUzZjJjYiIsInRhZyI6IiJ9 1 89 0 0
+/app/products/edit/eyJpdiI6IjVaZVkyYXVOZFhzNXpQcTJYdW5Vemc9PSIsInZhbHVlIjoiL2k2ZGM4N1RuN3dBRldwMGQ4N3plUT09IiwibWFjIjoiYjk5OTg3ZWE0YTQ1ODJjYThjNmExMTdlNmRjMjhmMzExMWM5M2NjNDFiNjE1ZWFhNWU0MzIzYjcwODBhMDZmZSIsInRhZyI6IiJ9 1 43145 0 0
+/app/products/edit/eyJpdiI6InlPdWo0eDNscGttc05pT1phUHk3WGc9PSIsInZhbHVlIjoic2NoQldSZS9kV2VFTi8waVk2aitrdz09IiwibWFjIjoiYTk5MDM1NTA5MTJkMWI2ZmY0Yjc2YzAzY2M3YzhlNDE0ZTg5YzIwZWU2MjE4N2NkNzgxNGRlY2UzNzUzYjhhZSIsInRhZyI6IiJ9 1 43151 0 0
+/product/all/106 3 82028 0 0
+/app/products/edit/eyJpdiI6Im1rQWNSbEt5Q0tDUU1UbGJYL3R1elE9PSIsInZhbHVlIjoiczVyQlIraTA1Z3hEckhTUlQ1Q0tDZz09IiwibWFjIjoiZTRiOGZiNDI2MzY2NWIyMWYwZDJiNWIxYTc0YzM0NDY1NGU3ODdmZmM3YzQ3YTk3OTMzOWYwODIyMjEzNGJmOCIsInRhZyI6IiJ9 1 43160 0 0
+/app/products/edit/eyJpdiI6IjZOUnNIbEN1ZXBkRCtXVlpBY2EwUXc9PSIsInZhbHVlIjoiZVpOaC9lTjNVdGxsZklzeFpVMlVGUT09IiwibWFjIjoiNDQ0OTViODJiY2VmNjJkYmZhZjE5OTE4ODY0YmE0M2RjMTM4MmY1YmY3ZmE0OTgxOGY2MzU4OWUyYzdhMDY4YyIsInRhZyI6IiJ9 1 43136 0 0
+/app/orders/print/eyJpdiI6InllRlBlYWxUYlRXcks4a3hWZXZCakE9PSIsInZhbHVlIjoiTjNsRlN3dks2elE1YjNiMmVSeFdiZz09IiwibWFjIjoiY2FjYzUwYWRiZjU5N2NmYmY4MGRmNWYxZjYzZWM0NjRlY2VkN2Q3OWI4MWE1Y2YzNDliYmU2NTQ3MDNmOWZhNSIsInRhZyI6IiJ9 1 1456 0 0
+/app/products/delete-image/eyJpdiI6InE2c015aW5SR203Y2JFTVRJNWJXaWc9PSIsInZhbHVlIjoiblhWeTlCNnJuRUlVL0JKTnMvazE2UT09IiwibWFjIjoiNGQ2OTljNjM4N2JmMDU4NGFlYzc2NDQxZTQ4MmQyMmM4OGJlZTFjYWVlNDZlNDI1Njc2MzA1YzRlMmMyNWU1NyIsInRhZyI6IiJ9 1 36 0 0
+/app/orders/update-status/eyJpdiI6ImUxejZJY3FRcjVXRjJSQ0l3TnAwL1E9PSIsInZhbHVlIjoiaWhaZFdhK0tHNEVNbGd4aVZSRVBQUT09IiwibWFjIjoiYWJhYzExOTU2M2Q0YjMyNjU0ODM3YjM5MDllMDY0YTE1ODAzOTFjZGU4NTE0NWNjMzQzNzcyNWFkY2I1YjgwYSIsInRhZyI6IiJ9 1 88 0 0
+/product/all/107 5 135398 0 0
+/order/status/ORD202603180001 7 2223 0 0
+/order/payment/ORD202603130013 1 8018 0 0
+/app/tables/qr/eyJpdiI6Ii9nQnpoUXBkM0JYaXl3M1RDSDBQOWc9PSIsInZhbHVlIjoiN1Zxd3hyMUZPR25sUnFVQVZuSFJBZz09IiwibWFjIjoiZDgxZGQxYTYxNTc4YTFmNGViZjEyNzNhMTlhZjhmNjVkMDRlZTU3OWNlOTIwZjIzZmNkZjU4YzAwMTczZmQ5OCIsInRhZyI6IiJ9 1 45095 0 0
+/app/tables/qr/eyJpdiI6IkptQURPWDBlRVRxdkpScUVEVjJvQnc9PSIsInZhbHVlIjoiS014MnUxNjM1Tm1oc2d2bjcrQ0lEUT09IiwibWFjIjoiYmJjZjJjYmUwY2NjOGZhNTFhM2M2NWY2NDBmNDYyZjUzMWRhMTgyN2RiMTk5YTg0MTI0MDI5YjdiMWVmOTRhYyIsInRhZyI6IiJ9 1 45070 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6InF1QjYwcU1sWE8zMExqbm1vTUlNN2c9PSIsInZhbHVlIjoiTmM3YVNuV0txRWJVU3JQNXhJTk4yZz09IiwibWFjIjoiNzk1NDgxOTFlNDUxNTZlZDgyMzI3Y2JkODI1MGFlODA1NDE3MjE5NGQ1NDlhM2ZiOTgwMjUzZjA4NDIxYTFiNyIsInRhZyI6IiJ9 1 1625 0 1
+/app/products/edit/eyJpdiI6Im90clJ0akNRWXF4R0hsZzlmMG93OVE9PSIsInZhbHVlIjoieEdaRFJFd1QxRENnQmNYVGFEcHVJZz09IiwibWFjIjoiOTcwMDM5NWJlNzc3MDE5YTdhYzgwMTNjZjUzZWM2ZTQ4ZDI3NDc5YmU4Y2JkMDRhMGE3MWYxOGJkMmFmODY0OCIsInRhZyI6IiJ9 1 43149 0 0
+/app/orders/update-status/eyJpdiI6InJmR2pzeFBMOExPS1J4VFBLeDVTcWc9PSIsInZhbHVlIjoiTWtpSDdXSkV4cm0reU13ZEswNXFRUT09IiwibWFjIjoiZDdjZjg4YjAwNDE0ZWVmYjdkZGM4YzM3NjRlM2NlOTQ3ZjgxOGM4NDRiMjZmMTkwMzE0ZjVmNjdlY2FhZmVlNyIsInRhZyI6IiJ9 1 89 0 0
+/app/orders/cancel-item/eyJpdiI6IjR3ZlorZXpnalJPU1dieUd1ZS9POVE9PSIsInZhbHVlIjoia1ZNZVNlckMvb0Y3SGRNYi8ySDFFUT09IiwibWFjIjoiOTRjYzMxOTdlYWJjYTA4N2M4ZGVlZjVkYzRlZTkwYzM5ODgzYmRlYTlmMDU3ZmRkOTY3NDk5MTM1YTBiMTllZCIsInRhZyI6IiJ9 1 79 0 0
+/app/customers/destroy/9988776655 1 94 0 0
+/app/orders/view/eyJpdiI6IkNINHVLU3pQWUg5NXZzV0hQQUxFa1E9PSIsInZhbHVlIjoidk5qYXE2TXIrNXZCTWNuemI3TDBxZz09IiwibWFjIjoiZmE2NjMyYzhhMjJlOWMzZDYzODNkZDNkYTAyZTE2OTczMDI0OGU3ZDljNzU2ZmM2OGVjMDQwOGRjODRkMTM0ZCIsInRhZyI6IiJ9 1 44784 0 0
+/app/orders/update-status/eyJpdiI6IjhOTVpLeStVL1JwcmJDVkFpWGxPS2c9PSIsInZhbHVlIjoiUmlJWkFyTSsxQVVDVGxCdHRsS0Rzdz09IiwibWFjIjoiOTNmYjg2ZGM3ZDg3MGUzNDJhY2JjNDIzMjA3OWFjYzMzYjA0NzBhMTg3ODY1YWQ1OGVjYjJiYmNiNDEwOWE1MSIsInRhZyI6IiJ9 1 92 0 0
+/product/all/102 28 735880 4 6
+/app/orders/generate-upi-qr/eyJpdiI6ImtRcml5bWlJM2V6VjhQY3VDMlMzdlE9PSIsInZhbHVlIjoiNlI3dzJiOE1HWDlTZFEyY2E1WU9NZz09IiwibWFjIjoiMGVlN2Y2MmYxOThiODAyNTkzYzM1NzU3Yzg1MDYyMzIxY2Y1N2Y5ZjNkMTEwZTE0ZjE5ZDA0NmVkNzQxOWVlYiIsInRhZyI6IiJ9 1 1596 0 0
+/app/customers/destroy/9999999999 1 94 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6IkN6eGVJNm5vTmlrdHozbWJGUVRPUXc9PSIsInZhbHVlIjoiRmxjTDIzb2ovQXpLdGZkbW01NFdGQT09IiwibWFjIjoiNGU5YjRlNjgzNmE2N2QyM2FiZWY1YzFiOWY3ODA4MTMyMjNhMDRjODU1ZmIyYTAxNDhjOTJjMzE2NWQxMGI5YyIsInRhZyI6IiJ9 1 1612 0 1
+/product/Maggi/102 2 32654 1 0
+/order/payment/ORD202602020002 3 12652 1 3
+/app/orders/update-payment/eyJpdiI6IkdIaVluMWZuL3Y5ak4rYUF0WVBWRUE9PSIsInZhbHVlIjoid0poSHpYV0lwTnRRS3ZXdTlWN0FjUT09IiwibWFjIjoiMGRiYjNiMTQ3NTFlOTY0NmRhM2E0MzUxZGJhYmQ3NDg2NWJmMjVhZTdkMDA1YzgzNGQ1ZGFhZjBmNGFjZmMwNCIsInRhZyI6IiJ9 1 93 0 0
+/orders/payment_generate-upi-qr/eyJpdiI6ImNDcC9HUGtteHJGNVJwSUlqME1mZUE9PSIsInZhbHVlIjoiUnlxNXc5VjhDOU11SlM3RVdHZXZmZz09IiwibWFjIjoiZTkwMzI5NmVkOGJiMTY1NjQxZjEzMDY3ZTRlOTJmNmQyN2JmOGUwOTA3ODEzMzA2ODU1NTcyNTRiNTlkZTc0ZCIsInRhZyI6IiJ9 1 1617 0 0
+/app/orders/update-status/eyJpdiI6ImE5V0xVNXl0Y2xwekNHcUhUZmtaMnc9PSIsInZhbHVlIjoiYzFEcDFNYWlDVHhNMmlOYVM0Ry9CZz09IiwibWFjIjoiZTY2OTkwMDA3NDVjYjQ5MWE0NjEzYTg4NGVhM2RhOWMyNmQwZWI5ZjJjNmNjNzIyZjc1NjIxMzhiN2VkMGIwOSIsInRhZyI6IiJ9 1 89 0 0
+/app/orders/update-status/eyJpdiI6ImFhZEhsbklvMUZIc1BndEJobmErc3c9PSIsInZhbHVlIjoia1dBR2FBcFdPWHUrYW5qQlpQdlpDZz09IiwibWFjIjoiNGU2MWYyNjQ3MzcxMTRhNWE4OTJlZTIyZTk4ODI0OGFlZGE3NTRkNGRhNGVhMGIyMDRhZDMzZDgxNWE1NWI3YiIsInRhZyI6IiJ9 1 88 0 0
+/app/site-users/list 20 845213 0 0
+/product/Puff/103 1 17729 1 0
+/product/Puff/104 1 17708 0 0
+/app/orders/update-status/eyJpdiI6Imd3NnVKb1BvY0IyNko2dWpDWEwxWGc9PSIsInZhbHVlIjoiQXlOc0kzcGIzd0p1am01b2JSdC9lZz09IiwibWFjIjoiNDAyNDgzNmM3NmQ5NTFjNzEzNGVlOTA4YmYzYTU1YjFiMjMxMGI4MzI4MzcyNTE2NDdiNTc1Y2IxYzI3NDhjYiIsInRhZyI6IiJ9 1 92 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+0-44 3779
+500-1K 799
+1K-2K 2624
+5K+ 4024
+44-100 2568
+2K-5K 1133
+100-500 2709
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

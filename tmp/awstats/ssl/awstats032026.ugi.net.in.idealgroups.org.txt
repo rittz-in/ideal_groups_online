@@ -1,0 +1,2353 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202603 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.ugi.net.in.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2099                
+POS_TIME 2762                
+POS_VISITOR 61991               
+POS_DAY 63017               
+POS_DOMAIN 3456                
+POS_LOGIN 3746                
+POS_ROBOT 3901                
+POS_WORMS 4205                
+POS_EMAILSENDER 4336                
+POS_EMAILRECEIVER 4479                
+POS_SESSION 63281               
+POS_FILESIZE 63561               
+POS_REQUESTTIME 63679               
+POS_SIDER 63438               
+POS_FILETYPES 4614                
+POS_DOWNLOADS 4740                
+POS_OS 4788                
+POS_BROWSER 4890                
+POS_SCREENSIZE 5020                
+POS_UNKNOWNREFERER 5094                
+POS_UNKNOWNREFERERBROWSER 5267                
+POS_ORIGIN 5349                
+POS_SEREFERRALS 5481                
+POS_PAGEREFS 5625                
+POS_SEARCHWORDS 5773                
+POS_KEYWORDS 5925                
+POS_MISC 2425                
+POS_ERRORS 5984                
+POS_CLUSTER 3602                
+POS_SIDER_404 6143                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260401023059 7 1346 12516847312781
+FirstTime 0
+LastTime 20260330200703
+LastUpdate 20260401193252 7 0 6 0 0
+TotalVisits 25                  
+TotalUnique 24                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 25                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 15 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 5 6 535
+1 0 0 0 2 3 20516
+2 3 3 18765 12 13 844
+3 2 2 6574 37 38 195738
+4 2 2 6574 74 98 392463
+5 3 3 27724 1580 1716 928777
+6 3 3 27724 35 36 188896
+7 1 1 347 10 11 13046
+8 0 0 0 8 8 12713
+9 0 0 0 5 5 166
+10 11 11 77764 38 39 209495
+11 0 1 22601 13 13 12593
+12 0 0 0 11 12 20991
+13 3 3 27724 41 42 195673
+14 6 6 34542 100 104 453003
+15 2 2 6574 38 40 189506
+16 7 7 19966 130 137 617540
+17 0 0 0 7 14 1118
+18 2 2 6574 77 104 416308
+19 2 2 6574 40 41 195678
+20 4 4 13148 76 79 379179
+21 2 2 6574 412 427 2348264
+22 3 3 18765 1542 1676 712824
+23 0 0 0 5 6 6315
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 39 39 196595
+au 5 5 34298
+ca 5 5 34298
+gb 3 4 50325
+ru 2 2 488
+bg 2 2 12510
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+curl 12 76449 20260330052819 0
+unknown 3 321 20260328183553 3
+no_user_agent 2 214 20260327174703 2
+bot[\s_+:,\.\;\/\\-] 2 214 20260312071653 2
+robot 1 107 20260327201557 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+php 1 347 0 0
+js 1 22601 0 0
+xml 2 488 0 0
+html 53 305078 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+macosx15 9 9
+Unknown 39 39
+win10 9 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+netscape5.0 41 41
+chrome127.0.0.0 1 0
+chrome131.0.0.0 14 14
+chrome134.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(l9scan/2.0.5333e24353e28313e2931313;__https://leakix.net) 20260330200703
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 53 54
+From1 0 0
+From2 0 0
+From3 0 0
+From4 3 3
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+406 96 21696
+302 24 0
+403 18 6390
+421 1 362
+301 130 0
+409 66 5312
+404 4298 7400890
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2052
+/rest/settings 1 -
+/%2fconfig%2fsendgrid.json 2 -
+/%2fdata%2f.env 2 -
+/%2ffrontend%2fmomentum-fe%2f.env 2 -
+/Dockerfile 1 -
+/%2fconfig%2fsettings.local.yml 2 -
+/%2fwp-config.txt 2 -
+/%2fphpinfo.php4 2 -
+/public/stripe.js 1 -
+/%2fsrc%2f__tests__%2f__fixtures__%2ftypeScriptVisualizeProject%2f.env 2 -
+/%2ftmp%2f.env 2 -
+/%2fexamples%2fwith-universal-configuration-build-time%2f.env 2 -
+/%2ffirebase-debug.log 2 -
+/.git/COMMIT_EDITMSG 1 -
+/%2fdump.sql 2 -
+/%2fphp52%2fphpinfo.php 2 -
+/%2fartisan 2 -
+/%2frust-backend%2fdao%2f.env 2 -
+/%2fserver%2flaravel%2f.env 2 -
+/%2fconfig%2fmail.php 2 -
+/%2fexamples%2f.env 2 -
+/%2fdelete.sql 2 -
+/%2ftest%2fintegration%2fenv-config%2fapp%2f.env 2 -
+/%2fnew%2f.env.production 2 -
+/%2fstyles%2f.env 2 -
+/%2f.env.2 2 -
+/%2fapp%2f.env.save 2 -
+/%2fuser%2f.env.staging 2 -
+/%2fconfig%2fsettings%2fsendgrid_keys.json 2 -
+/%2fbabel-plugin-dotenv%2ftest%2ffixtures%2fdev-env%2f.env 2 -
+/dnscfg.cgi 1 -
+/%2findex-test.php 2 -
+/%2fdb_backup.zip 2 -
+/%2fpreview%2f.env 2 -
+/%2finfo 2 -
+/%2fcustom%2f.env 2 -
+/.docker/secrets.json 1 -
+/%2fresources%2fviews%2fwelcome.blade.php 2 -
+/%2fconfig%2fservices.php 2 -
+/%2fproduct%2f.env.staging 2 -
+/%2fmain-es2018.96dcf91e05121e327dcb.js 2 -
+/%2fstorage%2foauth-private.key 2 -
+/register 5 -
+/%2fclient-app%2f.env 2 -
+/%2foldsanta%2f.env 2 -
+/%2finstall%2finstall.php 2 -
+/%2fnew.php 2 -
+/oauth/* 1 -
+/rest/oauth1-credential/auth 1 -
+/%2fconfig%2fdatabase.json 2 -
+/%2fenv.list 2 -
+/%2fstartup.sh 2 -
+/%2fkeys.json 2 -
+/%2fprivate%2fsecret.txt 2 -
+/%2fapi%2finfo.php 2 -
+/%2fsrc%2f.env 2 -
+/%2ftesting%2fdocker%2f.env 2 -
+/cart 5 -
+/%2fdelivery%2f.env 2 -
+/%2fbabel-plugin-dotenv%2ftest%2ffixtures%2fas-alias%2f.env 2 -
+/config.json 17 -
+/%2fsrc%2fmain%2fresources%2farchetype-resources%2f__rootArtifactId__-acceptance-test%2fsrc%2ftest%2fresources%2fapp-launcher-tile%2f.env 2 -
+/%2flemonldap-ng-fr-doc%2f.env 2 -
+/s3/bucket 1 -
+/%2flocal.settings.json 2 -
+/%2fsrv6_controller%2fcontroller%2f.env 2 -
+/%2fservices%2fminio%2f.env 2 -
+/%2fphpmyadmin%2findex.php 2 -
+/%2ffileserver%2f.env 2 -
+/webhook 1 -
+/%2fPassportjs%2f.env 2 -
+/%2fenv%2ftemplate%2f.env 2 -
+/%2fapi%2fdocs%2f 2 -
+/%2fdata%2fconfig.inc.php.bak 2 -
+/%2ffront%2f.env 2 -
+/%2fjo.php 2 -
+/aws-credentials 1 -
+/.gitlab 1 -
+/%2fprivate%2f.env 2 -
+/%2f_astro%2f[chunk-name].[hash].js 2 -
+/api/auth/* 1 -
+/home/*/.netrc 1 -
+/%2fassets%2fjs%2fapp.f8ec9fb3.js 2 -
+/%2fgrems-frontend%2f.env 2 -
+/%2ffiles%2f.env 2 -
+/%2ftest_phpinfo3.php 2 -
+/%2fmunki_repo%2f.env 2 -
+/%2fch8b-mytodo%2f.env 2 -
+/%2fnoVNC%2f.env 2 -
+/%2fInstantCV%2fserver%2f.env 2 -
+/%2fapi%2finfo 2 -
+/%2fbitrix%2fphp_interface%2fdbconn.php.bak 2 -
+/%2fdocker.sh 2 -
+/%2ftest.php 2 -
+/%2fapi%2fgateway 2 -
+/%2fwordpress.sql 2 -
+/%2faws-credentials.sh 2 -
+/payment 2 -
+/%2fstatic_prod%2f.env 2 -
+/%2f.env.docker 2 -
+/%2fsetup-config.php 2 -
+/%2fdebug.txt 2 -
+/stripe/webhook_secret.env 1 -
+/%2fprivate%2fsecret.key 2 -
+/%2fstack.json 2 -
+/%2fmain.js 2 -
+/%2forientdb-client%2f.env 2 -
+/%2f.docker%2fconfig.json 2 -
+/%2fclient%2fsrc%2f.env 2 -
+/%2f.env.save 2 -
+/%2fpublic%2f.env 2 -
+/%2f.boto 2 -
+/%2fContainerRegistry%2f.env 2 -
+/%2ffixtures%2fkitchensink%2f.env 2 -
+/%2fincludes%2fconfig.php 2 -
+/%2fSimple_server%2f.env 2 -
+/%2flemonldap-ng-doc%2f.env 2 -
+/%2fadminer-4.2.5-mysql-en.php 2 -
+/webhooks/incoming/stripe.json 1 -
+/%2fdodoswap-client%2f.env 2 -
+/%2f.gitlab-ci.yml 2 -
+/%2fphpinfo.staging 2 -
+/.github/ISSUE_TEMPLATE 1 -
+/%2frust-backend%2f.env 2 -
+/%2f.env_private 2 -
+/var/task/vercel.json 1 -
+/%2f.env_aws 2 -
+/%2fclld_dir%2f.env 2 -
+/var/task/amplify/backend/function/*/src/index.js 1 -
+/%2fapi%2fadmin%2fuser 2 -
+/.stripe/ 1 -
+/error/ 1 -
+/%2fgraphql%2f 2 -
+/%2fcert.pem 2 -
+/%2fpsnlink%2f.env 2 -
+/%2ftest%2f 2 -
+/.DS_Store 17 -
+/%2ftoken.php 2 -
+/%2fgists%2fcache 2 -
+/%2f.aws%2fconfig 2 -
+/%2fsettings.py 2 -
+/app/.terraform/terraform.tfstate 1 -
+/%2fapi%2fv1%2faccount%2foauth%2ftoken 2 -
+/%2fwebpack.config.js 2 -
+/%2f_info.php 2 -
+/%2fphp-info.php 2 -
+/%2fenv%2fexample%2f.env 2 -
+/$(pwd)/terraform.tfstate 1 -
+/%2fconfig%2fconfig_global.php.bak 2 -
+/%2fproject_root%2f.env 2 -
+/fr/* 1 -
+/%2fapi%2fauth 2 -
+/%2fsystem%2f.env 2 -
+/%2frest.php 2 -
+/%2fexample-config.php 2 -
+/%2fnpm-debug.log 2 -
+/%2fold%2f 2 -
+/$(pwd)/serverless.yml 1 -
+/%2fapp%2ffrontend%2f.env 2 -
+/teams/* 1 -
+/%2fwp-config.php-backup 2 -
+/%2fconfig%2flogging.php 2 -
+/%2ffhir-api%2f.env 2 -
+/%2fexamples%2fdrupal-separate-services%2f.env 2 -
+/%2ftest%2fphpinfo.php 2 -
+/%2fconfig%2fprivate%2fsendgrid_keys.json 2 -
+/etc%2fexim4%2fexim4.conf 2 -
+/%2fenvrc 2 -
+/%2f__debug__ 2 -
+/%2fo.php 2 -
+/aws.json 2 -
+/%2f.vscode%2f.env 2 -
+/%2fservice-worker.js 2 -
+/%2ftest2.php 2 -
+/%2fModix%2fClientApp%2f.env 2 -
+/%2fNodejs-Projects%2fplay-ground%2flogin%2f.env 2 -
+/%2fapi%2ffiles.remote.share 2 -
+/%2fcounterblockd%2f.env 2 -
+/%2ffixtures%2ffiber-debugger%2f.env 2 -
+/%2fcmsmessages%2finformation.aspx 2 -
+/%2fdevelopment%2f.env 2 -
+/%2fbuild%2f_app%2fimmutable%2fchunks%2f[chunk].[hash].js 2 -
+/%2f.dockerignore 2 -
+/%2fproject%2f.env 2 -
+/%2froundcube%2f.env 2 -
+/%2flambda%2f.env 2 -
+/%2fexamples%2freact-dashboard%2fbackend%2f.env 2 -
+/%2fphpinfo.test 2 -
+/%2fapplication%2f.env.save 2 -
+/%2fcache.php 2 -
+/%2finfo.php.1 2 -
+/package-updates/yum.cgi 1 -
+/%2fstaging%2f 2 -
+/%2fdebug.sql 2 -
+/%2fbuild%2froutes%2findex-[hash].js 2 -
+/%2fconfig%2fconfig.env 2 -
+/%2fmember%2fspace%2fcompany%2finfo.txt 2 -
+/%2f.aws%2fcredentials 3 -
+/%2f.env.hide 2 -
+/%2fapi%2fv1%2ffinchat%2fopen-api%2fauth%2ftoken 2 -
+/%2fx.php 2 -
+/%2fmain.48f1bbcf6201c5ea.js 2 -
+/%2f.config%2fconfig.json 2 -
+/[locale]/* 1 -
+/aws.yaml 1 -
+/src/config/stripe.js 1 -
+/console/ 17 -
+/%2flcomernbootcamp%2fprojbackend%2f.env 2 -
+/%2fmain.35a08c25eb91de70487f.js 2 -
+/%2fwp-content%2fbackups%2fdbdump.sql 2 -
+/%2fwp-content%2fbackups%2fdatabase.sql 2 -
+/%2findex.php~ 2 -
+/%2fprojbackend%2f.env 2 -
+/%2fexport.sql 2 -
+/%2ftest_info1.php 2 -
+/%2fadministrator%2f.env 2 -
+/%2fconfig%2fsecrets%2fdev%2fsendgrid_keys.json 2 -
+/%2fconfig%2fsettings%2fsendgrid_config.json 2 -
+/%2fdebug.log 2 -
+/%2fdev_env%2f.env 2 -
+/%2fImagebord%2f.env 2 -
+/%2fphp-information 2 -
+/%2furlmem-app%2f.env 2 -
+/var/task/netlify.toml 1 -
+/%2finfo1.php 2 -
+/%2fjsrelay%2f.env 2 -
+/%2facme%2f.env 2 -
+/%2fexample27-how-to-load-env%2fsample01%2f.env 2 -
+/*/[id] 1 -
+/%2fconfig%2fsendgrid_config.json 2 -
+/%2fxampp%2fphpinfo.php 2 -
+/app/next.config.mjs 3 -
+/%2ftest6.php 2 -
+/trpc/* 1 -
+/%2f.env.testing 2 -
+/%2fisadmin.php 2 -
+/_next/data/*/*.json 1 -
+/etc%2fmail%2fsendmail.cf 2 -
+/%2fphpversion.php 2 -
+/%2fwp-content%2f.env 2 -
+/:27018 1 -
+/%2fwp-config.php 2 -
+/s3.yaml 1 -
+/%2fapi%2fv1%2ffinchat%2fopen-api 2 -
+/%2fresources%2fdocker%2frabbitmq%2f.env 2 -
+/%2ftests%2ftodo-react%2f.env 2 -
+/template.yaml 1 -
+/%2fbabel-plugin-dotenv%2ftest%2ffixtures%2ffilename%2f.env 2 -
+/%2fappsettings.json 2 -
+/%2flogging%2f.env 2 -
+/%2fconfig%2fmail.json 2 -
+/%2fdatabase%2f.env 2 -
+/%2fsecret.env 2 -
+/%2fbabel-plugin-dotenv%2ftest%2ffixtures%2foverride-value%2f.env 2 -
+/%2f.svn%2f 2 -
+/%2fdeveloper%2f.env 2 -
+/%2fvendor%2fgithub.com%2fsubosito%2fgotenv%2f.env 2 -
+/%2fjs%2fchunk-79be581b.c4b0f5e4.js 2 -
+/%2f.env.js 2 -
+/billing 3 -
+/%2fsiteinfo.php 2 -
+/%2f.env_example 2 -
+/%2ftest_phpinfo4.php 2 -
+/%2fconfig.jsp.bak 2 -
+/%2fcode%2fapi%2f.env 2 -
+/[...catchAll] 1 -
+/%2fbootstrap%2fapp.php 2 -
+/stripe/config.json 1 -
+/.git/ 1 -
+/%2fjs%2fcontact_me.js 2 -
+/%2ftest8.php 2 -
+/%2ffastlane%2f.env 2 -
+/_next/data/*/about.json 1 -
+/%2f.env.example 2 -
+/chat 1 -
+/.git/logs/refs/remotes/origin/master 1 -
+/%2fconfig.ini.bak 2 -
+/%2ftime.php 2 -
+/%2f.yarnrc 2 -
+/%2fbuild.sh 2 -
+/%2fstatic%2fjs%2fmain.89c971fa.js 2 -
+/$(pwd)/netlify.toml 1 -
+/%2fmain.702787bb88cacd05b11d.js 2 -
+/%2fledger_sync%2f.env 2 -
+/%2fsitemaps%2f.env 2 -
+/assets/vendor/aos/aos.js 2 -
+/%2f_next%2fstatic%2fchunks%2fmain-app-[hash].js 2 -
+/%2fbootstrap%2f.env 2 -
+/%2fdashboard%2ftest.php 2 -
+/%2f.env.dev 2 -
+/.git/packed-refs 1 -
+/%22assets/vendor/purecounter/purecounter_vanilla.js 2 https://ugi.net.in.idealgroups.org/%22assets/vendor/purecounter/purecounter_vanilla.js%22
+/%2flaravel%2f.env.local 2 -
+/%2f.venv 2 -
+/%2fserver-status 2 -
+/%2fdocker-compose%2f.env 2 -
+/%2ftests%2fdefault_settings%2fv12.0%2f.env 2 -
+/%2fsrc%2f__tests__%2f__fixtures__%2finstanceWithDependentSteps%2f.env 2 -
+/%2fenv.json 2 -
+/%2fbackendfinaltest%2f.env 2 -
+/%2f.env.uat 2 -
+/%2fwp-content%2fplugins%2fphpinfo 2 -
+/%2fsettings.php.old 2 -
+/%2fl.php 2 -
+/%2fexample%2f.env 2 -
+/%2fconfig%2fsecrets.json 2 -
+/%2fhc%2frestricted 2 -
+/%2fphpinfo.txt 2 -
+/%2fpub%2f.env 2 -
+/aws.yml 1 -
+/%2ffrontend%2freact%2f.env 2 -
+/blog 3 -
+/%2finc.config.php 2 -
+/%2fServe_time_server%2f.env 2 -
+/%2fdrupal%2f.env 2 -
+/%2fsources%2f.env 2 -
+/%2funinstall.sh 2 -
+/app/vercel.json 1 -
+/s3/buckets 1 -
+/%2fdocker%2fexamples%2fcompose%2f.env 2 -
+/%2ftemplate%2f.env 2 -
+/%2fexamples%2fwith-react-relay-network-modern%2f.env 2 -
+/%2fconfig.inc 2 -
+/%2fmain.0ad61943313a734cc3ac.js 2 -
+/%2ftests%2fdrupal-test%2f.env 2 -
+/%2f%c0 2 -
+/%2fstorage%2fdebugbar%2f*.json 2 -
+/app/docker-compose.yml 1 -
+/%2fenv.save 2 -
+/%2fsettings.ini 2 -
+/%2fdebug.sql.zip 2 -
+/%2fdump.tar.gz 2 -
+/.gitlab-ci 1 -
+/%2finstall.sh 2 -
+/account 2 -
+/assets/vendor/bootstrap/js/bootstrap.bundle.min.js 2 -
+/articles/* 1 -
+/.github/workflows/main.yml 1 -
+/.github/workflows/ci.yml 1 -
+/%2fsite.sql 2 -
+/%2fserver-status%2f 2 -
+/home/*/.gitconfig 1 -
+/s3/.aws/config 1 -
+/%2fdeploy%2f.env 2 -
+/%2fassets%2findex-[hash].mjs 2 -
+/%2fwp-includes%2fsendgrid_keys.json 2 -
+/%2fresources%2fdocker%2fmysql%2f.env 2 -
+/%2fstaging-api%2f 2 -
+/%2ftmp%2flogs 2 -
+/%2fstorage%2foauth-public.key 2 -
+/%2fconfiguration.php.bak 2 -
+/%2fvue%2fvuecli%2f.env 2 -
+/%2fdatabase.yml 2 -
+/.terraform.tfstate 1 -
+/aws/buckets 1 -
+/%2fmindsweeper%2fgui%2f.env 2 -
+/%2fdocker-compose.override.yml 2 -
+/%2fconfig%2fsettings.py 2 -
+/chat/* 1 -
+/%2f.zshenv 2 -
+/%2fcron.sh 2 -
+/%2fstatic%2fjs%2fmain.87c766e3.js 2 -
+/%2fexamples%2fwith-firebase-authentication-serverless%2f.env 2 -
+/%2ftest%2fbdd%2ffixtures%2fdid-rest%2f.env 2 -
+/%2ftemp.php 2 -
+/%2ftest.sh 2 -
+/%2fnginx-server%2f.env 2 -
+/api/* 1 -
+/%2f.azure-pipelines.yml 2 -
+/swagger/v1/swagger.json 17 -
+/%2fexamples%2f10-subscriptions%2f.env 2 -
+/%22assets/vendor/glightbox/js/glightbox.min.js 2 https://ugi.net.in.idealgroups.org/%22assets/vendor/glightbox/js/glightbox.min.js%22
+/%2fsecrets%2f.env 2 -
+/%2fbackup%2fsendgrid_keys.json 2 -
+/%2fmanual%2f.env 2 -
+/%2flive_env 2 -
+/%2fphpsysinfo%2fphpinfo.php 2 -
+/%2fssl.key 2 -
+/%2frepository%2f.env 2 -
+/%2fconfig.inc.php 2 -
+/%2flib%2fzend%2ftool%2fframework%2fsystem%2fprovider%2fphpinfo.php 2 -
+/%2fid_rsa 2 -
+/%2fconfig%2ffilesystems.php 2 -
+/%2fapi%2f.env.example 2 -
+/%2fphpinfo-prod 2 -
+/%2funixtime%2f.env 2 -
+/%2fservices%2fregistry%2f.env 2 -
+/%2fv2%2f.env 2 -
+/%2fwp-config.old 2 -
+/%2fenvironments%2flocal%2f.env 2 -
+/.vercel/functions/* 1 -
+/%2f_dev 2 -
+/%2f_next%2fstatic%2fchunks%2fpages%2f_app-a9fba37d935ce3f3.js 2 -
+/*/[slug] 1 -
+/%2fmusic%2f.env 2 -
+/%2f.nuxt%2f 2 -
+/%2fdirectories%2f.env 2 -
+/.git-secret 1 -
+/%2f.local 2 -
+/%2f.hg%2fhgrc 2 -
+/%2fsrc%2fadd-auth%2fexpress%2f.env 2 -
+/%2f.circleci%2f.env 2 -
+/%2fsrc%2f__tests__%2f__fixtures__%2ftypeScriptProject%2f.env 2 -
+/api/login 1 -
+/%2fcore%2fpersistence%2f.env 2 -
+/%2ffixtures%2fblocks%2f.env 2 -
+/%2fbackup%2fsendgrid_config 2 -
+/%2f.env.sendgrid 2 -
+/%2fconnection.php.bak 2 -
+/v2/* 1 -
+/%2fwp-content%2fuploads%2fdb.sql 2 -
+/%2fconfig%2f.env.local 2 -
+/%2fvendor%2fautoload.php 2 -
+/%2fservices%2fgraylog%2f.env 2 -
+/%2fuser%2flogin 2 -
+/%2fnginx.conf 2 -
+/%2fsrv6_controller%2fnode-manager%2f.env 2 -
+/%2fUser_info%2f.env 2 -
+/%2fbackup.tar 2 -
+/%2fMyRentals.Web%2fClientApp%2f.env 2 -
+/swagger-ui.html 17 -
+/%2fdevs.php 2 -
+/%2finfo3.php 2 -
+/var/task/package.json 3 -
+/%2flocalhost%2f.env 2 -
+/%2fapp%2fetc%2flocal.xml.bak 2 -
+/%2fminified%2f.env 2 -
+/%22assets/vendor/imagesloaded/imagesloaded.pkgd.min.js 2 https://ugi.net.in.idealgroups.org/%22assets/vendor/imagesloaded/imagesloaded.pkgd.min.js%22
+/$(pwd)/next.config.js 1 -
+/aws/s3/credentials 1 -
+/%2fdjango_project_path%2f.env 2 -
+/%2fvue%2f.env 2 -
+/api/gql 17 -
+/%2ftest-api%2f 2 -
+/%2ftool%2fview%2fphpinfo.view.php 2 -
+/%2fcounterwallet%2f.env 2 -
+/%2fanaconda%2f.env 2 -
+/%2fwp-content%2fbackups%2fdb.sql 2 -
+/%2fdump.sh 2 -
+/%2fsecrets.json 2 -
+/%2fgraphiql%2f 2 -
+/%2f.github%2fworkflows%2f*.yml 2 -
+/%2fphpinfo.html 2 -
+/aws/s3/env.env 1 -
+/%2fgists%2flaravel 2 -
+/client/stripe.config.js 1 -
+/%2f.well-known%2fcredentials.json 2 -
+/%2fdemo%2f.env 2 -
+/%2fWeb%2fsiteMariage%2f.env 2 -
+/api/serverless/* 1 -
+/rest/users 1 -
+/%2fdebug.zip 2 -
+/%2fjs%2fapp.[hash].js 2 -
+/%2ftests%2fdefault_settings%2fv11.0%2f.env 2 -
+/%2fkyc%2f.env 2 -
+/%2ftest%2finfo.php 2 -
+/%2fKubernetes%2f.env 2 -
+/%2f.bitbucket-pipelines.yml 2 -
+/%2fwp-admin%2fsendgrid_keys.json 2 -
+/%2fbackup%2fsendgrid.json 2 -
+/%2fconfig%2fdefault.json 2 -
+/%2fstaticfiles%2f.env 2 -
+/%2flocally%2f.env 2 -
+/%2fphpinfo-server.php 2 -
+/%2fsymfony%2f_profiler%2fphpinfo 2 -
+/%2fphp.ini 2 -
+/%2fboxes%2foracle-vagrant-boxes%2fKubernetes%2f.env 2 -
+/%2fid_rsa.pub 2 -
+/%2fdatabase.tar.gz 2 -
+/%2flaravel%2f.env.production 2 -
+/dashboard/* 1 -
+/%2fmailer%2f.env 2 -
+/%2fprocessor%2f.env 2 -
+/s3/credentials 1 -
+/%2fexamples%2f04-many-to-many-relationship%2f.env 2 -
+/:8443%2f.env 2 -
+/%2fwp-login.php 2 -
+/%2fenvironment 2 -
+/%2f.hsenv 2 -
+/.env.test 1 -
+/%2fnetlify.toml 2 -
+/%2fapp.yaml 2 -
+/stripe.json 1 -
+/%2fpanel%2f.env 2 -
+/%2fAssignment4%2f.env 2 -
+/%2fworkspace%2f.env 2 -
+/aws_s3_config.json 1 -
+/_next/data/*/index.json 1 -
+/aws/metadata 1 -
+/api/v1/* 1 -
+/%2fadminer.php 2 -
+/%2fv1%2fdebug%2f 2 -
+/%2fserverless.yml 2 -
+/%2fdebug.tar.gz 2 -
+/%2fArchipel%2f.env 2 -
+/%2froundcubemail%2f.env 2 -
+/__nextjs_action 1 -
+/%2fmain-es2015.3c3aa123423ff18c0b00.js 2 -
+/aws.config.js 2 -
+/%2fcomposer.lock 2 -
+/var/task/next.config.js%20/var/task/next.config.mjs 2 -
+/.gitattributes 1 -
+/%2fjs-plugin%2f.env 2 -
+/%2fsource%2f.env 2 -
+/%2f.bzr%2f 2 -
+/$(pwd)/serverless.yaml 1 -
+/%2f.well-known%2fsecurity.txt 2 -
+/%2fbackend%2f.env 3 -
+/%2fnginx%2f.env 2 -
+/%2fconn.php.bak 2 -
+/%2fwp-config.php.bak1 2 -
+/%2fconfig%2f.env 2 -
+/servers/save.cgi 1 -
+/threads/* 1 -
+/%2fconfig.properties 2 -
+/%2ftestfiles%2f.env 2 -
+/%2fmodules%2fcontrib%2fsendgrid_mail%2fsendgrid_mail.services.yml 2 -
+/%2fubuntu%2f.env 2 -
+/%2fsystem%2fconfig 2 -
+/%2fuc_server%2fdata%2fconfig.inc.php.bak 2 -
+/%2flinusadmin-phpinfo.php 2 -
+/%2finfo.php.back 2 -
+/%2fwp-config.bak1 2 -
+/%2fexamples%2f07-feature-flags%2f.env 2 -
+/%2fwp-content%2ffullbackup.sql 2 -
+/package-updates/save.cgi 1 -
+/api/data/* 1 -
+/%2fxampp%2f.env 2 -
+/%2fapi%2fadmin 2 -
+/%2fauth%2flogin 2 -
+/%2f_next%2fstatic%2fchunks%2fpages%2f_app-d1b5411bacd03f02.js 2 -
+/%2fsrc%2fmain%2ffront-end%2f.env 2 -
+/%2fenvironment.ts 2 -
+/serverless.yml 1 -
+/%2fspikes%2fconfig-material-app%2f.env 2 -
+/app/.env.local 1 -
+/%2fwp-config.php.bak 2 -
+/%2fpublic_html%2f.env 2 -
+/%2fplugin_static%2f.env 2 -
+/%2ftest%2fbdd%2ffixtures%2fopenapi-demo%2f.env 2 -
+/%2fupgrade.php 2 -
+/%2f.env-example 2 -
+/%2f.flaskenv 2 -
+/%2fadmin.php 2 -
+/%2fadmin%2fsettings.php 2 -
+/%2fconfig%2fqueue.php 2 -
+/%2fsecrets.env 2 -
+/%2f__debugbar 2 -
+/%2fapc.php 2 -
+/%2fweb.php 2 -
+/%2fmedia%2f.env 2 -
+/%2fpackages%2fweb%2f.env 2 -
+/%2fuploads%2f.env 2 -
+/etc%2fexim4%2fupdate-exim4.conf.conf 2 -
+/~/.aws/credentials 1 -
+/%2fapi%2fv1%2ffinchat%2fprivilege-api%2fforwarder%2fevent 2 -
+/%2fenvironments%2fproduction%2f.env 2 -
+/.gitmodules 1 -
+/%2f.ssh%2fid_rsa.pub 2 -
+/~/.netrc 1 -
+/%2faudio%2f.env 2 -
+/form/* 1 -
+/%2fv1%2f.env 2 -
+/rest/logout 1 -
+/root/.netrc 1 -
+/%2fresources%2fdocker%2f.env 2 -
+/%2fserver%2fs3.js 2 -
+/%2fmain%2f.env 2 -
+/%2fdb.php 2 -
+/%2fbuild.php 2 -
+/%2fsrv6_controller%2fexamples%2f.env 2 -
+/%2fsettings%2fsendgrid_config 2 -
+/%2flogs%2faccess.log 2 -
+/.gitlab/merge_request_templates 1 -
+/%2ftest_info2.php 2 -
+/%2ftest%2fbdd%2ffixtures%2fadapter-rest%2f.env 2 -
+/%2fenv.backup 2 -
+/%2ftest%2fbdd%2ffixtures%2fdemo%2f.env 2 -
+/%2fphpmyadmin%2f 2 -
+/%2fwp-content%2fplugins%2fwp-mail-smtp%2fsendgrid_keys.json 2 -
+/%2finfo.php.bak 2 -
+/%2fapp_dev.php%2f_profiler%2fopen 2 -
+/%2fupdate.sql 2 -
+/%2fshop%2fphpinfo.php 2 -
+/%2flogin%2f.env 2 -
+/%2fphpbb%2fphpinfo.php 2 -
+/%2f08-routing%2fend%2fvue-heroes%2f.env 2 -
+/%2flegal%2f.env 2 -
+/%2ftest3.php 2 -
+/%2fmentorg-lava-docker%2f.env 2 -
+/%2ftestwork_json%2f.env 2 -
+/%2ftest_info5.php 2 -
+/%2f.idea%2f.env 2 -
+/%2frabbitmq-cluster%2f.env 2 -
+/%2fsendgrid.json 2 -
+/%2fvue-end%2fvue-til%2f.env 2 -
+/%2fvendor%2f 2 -
+/%2fsecrets.txt 2 -
+/%2flindex.php 2 -
+/%2fexample.env 2 -
+/%2fhasura%2f.env 2 -
+/%2fen%2f.env 2 -
+/_api/* 1 -
+/%2fexamples%2f03-one-to-many-relationship%2f.env 2 -
+/api/v1/executions 1 -
+/%2finit.sh 2 -
+/%2fapi%2fv1%2ftokens 2 -
+/%2fconfig.yml 2 -
+/%2fservices%2fmonitoring%2f.env 2 -
+/billing/* 1 -
+/%2fback-end%2fapp%2f.env 2 -
+/form 1 -
+/%2faws-credentials.txt 2 -
+/%2fprivate%2fsendgrid_config 2 -
+/%2fchallenges%2f.env 2 -
+/env 1 -
+/stripe.yaml 1 -
+/%2fapi_keys.json 2 -
+/%2fshared%2f.env 2 -
+/%2f.powenv 2 -
+/%2fcss%2f.env 2 -
+/%2f.bak 2 -
+/%2fremove.sh 2 -
+/%2f08-routing%2fbegin%2fvue-heroes%2f.env 2 -
+/%2fprivate%2fsendgrid_keys.json 2 -
+/%2fstatic%2fjs%2fmain.36e5ec99.js 2 -
+/%2fsrc%2fconfig.php 2 -
+/%2fwp-config.bak 2 -
+/%2fapi%2fv1%2f.env 2 -
+/app/.git/config 1 -
+/%2fof.php 2 -
+/%2fphpinfo.php5 2 -
+/%2fnewinfo.php 2 -
+/%2fbackup%2f.env 2 -
+/amplify/team-provider-info.json 1 -
+/%2f.environment 2 -
+/app/nuxt.config.js 3 -
+/%2fconfig%2fsecrets.yml 2 -
+/%2fwp-content%2fbackups%2fwordpress.sql 2 -
+/.terraform.lock.hcl 1 -
+/%2fconfig.php.bak 2 -
+/%2fapi%2fv1%2ffinchat%2fprivilege-api%2fforwarder 2 -
+/%2fphpinfo.dev 2 -
+/%2f.env.staging 2 -
+/%2fapp%2finfo 2 -
+/%2fprivate%2fsendgrid.json 2 -
+/blog/[year]/[month]/[slug] 1 -
+/%2fadmin-app%2f.env 2 -
+/%2finstall.sql 2 -
+/%2fprintenv 2 -
+/%2fvar%2fbackup%2f.env 2 -
+/%2fmodules%2fcontrib%2fsendgrid_mail%2fsendgrid_mail.settings.php 2 -
+/%2fconnection.asp.bak 2 -
+/.git/hooks/pre-commit 1 -
+/%2fselfsigned.crt 2 -
+/%2f_next%2fstatic%2fchunks%2fwebpack-[hash].js 2 -
+/%2flogs%2f 2 -
+/%2fserver.sh 2 -
+/%2fikiwiki%2f.env 2 -
+/%2fxdebug.php 2 -
+/%2fphp5.ini 2 -
+/%2fwell-known%2f.env 2 -
+/%2f.ghc.environment 2 -
+/%2ffm%2f.env 2 -
+/%2ftest%2fbdd%2ffixtures%2fsidetree-mock%2f.env 2 -
+/%2fwp-content%2fbackup%2fdb_backup.sql 2 -
+/%2fincludes%2f.env 2 -
+/.gitlab-ci.yml 1 -
+/graphql 18 -
+/%2fphpinfo.phtml 2 -
+/%2fold_phpinfo.php 2 -
+/%2f.env.development.local 2 -
+/%2fphpinfo-server 2 -
+/%2fdotfiles%2f.env 2 -
+/signup 4 -
+/%2finstall.php 2 -
+/%2fexamples%2fsdl-first%2fprisma%2f.env 2 -
+/%2fassets%2fvendor-[hash].js 2 -
+/%2fwp-content%2fbackup%2fdatabase.sql 2 -
+/package-updates/ 1 -
+/%2fdefault%2f.env 2 -
+/%2fservice.pwd 2 -
+/%2fstatic%2f.env 2 -
+/%2fstatic%2fjs%2fmain.bfa51071.js 2 -
+/%2funsplash-downloader%2f.env 2 -
+/%2fexamples%2f05-migrations%2f.env 2 -
+/%2fFE%2fhuey%2f.env 2 -
+/assets/vendor/glightbox/js/glightbox.min.js 2 -
+/%2fapp%2finfo.php 2 -
+/%2fftp%2f.env 2 -
+/%2fu.php 2 -
+/assets/vendor/purecounter/purecounter_vanilla.js 2 -
+/%2fadmin%2fdb.php 2 -
+/%2fhelm%2f.env 2 -
+/%2fcore%2fDatavase%2f.env 2 -
+/%2ffrontendfinaltest%2f.env 2 -
+/%2frails-api%2freact-app%2f.env 2 -
+/%2fwp-config 2 -
+/%2fstart.sh 2 -
+/%2fphpinfo.srv 2 -
+/%2fconfig%2fsmtp.php 2 -
+/%2fagora%2f.env 2 -
+/%2f.env_bak 2 -
+/%2f09-managing-state%2fend%2fvue-heroes%2f.env 2 -
+/%2fsecrets%2fsendgrid_keys.json 2 -
+/$(pwd)/docker-compose.yml 1 -
+/%2fcryo_project%2f.env 2 -
+/%2f.env.bak 2 -
+/webhook/* 1 -
+/%2focp.php 2 -
+/%2fenv.php 2 -
+/__debug 1 -
+/%2fstag%2f.env 2 -
+/%2fexamples%2f01-simple-model%2f.env 2 -
+/%2ftest7.php 2 -
+/%2fserver.key 2 -
+/serverless.yaml 1 -
+/%2f_static%2f.env 2 -
+/%2fconfigs%2fapplication.ini 2 -
+/$(pwd)/package.json 1 -
+/%2fprivate%2fconfig.php 2 -
+/%2fsettings.php.save 2 -
+/%2fnew%2f.env.staging 2 -
+/%2fkhanlinks%2f.env 2 -
+/%2fphpinfo_details.php 2 -
+/%2fconfig%2fdatabase.php 2 -
+/%2frun.sh 2 -
+/%2fapi%2f.env.save 2 -
+/%2fphpmyadmin%2fsetup%2findex.php 2 -
+/%2faws.yml 2 -
+/%2fkibana%2f.env 2 -
+/payment/* 1 -
+/%2f__tests__%2ftest-become%2f.env 2 -
+/user/* 1 -
+/%2fservices%2fdocuments%2f.env 2 -
+/%2fsecrets%2fsendgrid_config 2 -
+/%2fscripts%2fdeploy.sh 2 -
+/profile/* 1 -
+/%2fupload%2f.env 2 -
+/%2ftest-network%2f.env 2 -
+/%2fsrc%2f__tests__%2f__fixtures__%2ftypeScriptIntegrationProject%2f.env 2 -
+/%2fapi%2fadmin%2frole 2 -
+/%2fdownloads%2f.env 2 -
+/%2f.env.txt 2 -
+/%2fwp%2f.env 2 -
+/%2fcore%2fapp%2f.env 2 -
+/%2f_profiler%2fphpinfo%2finfo.php 2 -
+/%2fconfig%2fpackages%2fsendgrid.yaml 2 -
+/%2finfophp.php 2 -
+/%2fhiglass-website%2f.env 2 -
+/%2fwp-config.php.orig 2 -
+/%2fwp-content%2fbackup%2fdata.sql 2 -
+/%2f.circleci%2fconfig.yml 2 -
+/%2f.gitlab-ci%2f.env 2 -
+/%2fconfig%2fproduction.json 2 -
+/%2fcontrol%2f.env 2 -
+/%2fi.php 2 -
+/%2ffirst-network%2f.env 2 -
+/%2fprotected%2f.env 2 -
+/%2flinux%2f.env 2 -
+/%2fwp-content%2fthemes%2f.git%2fconfig 2 -
+/%2fnews-app%2f.env 2 -
+/%2finfos.php 2 -
+/%2fconfig.php.save 2 -
+/%2fpageinfo.php 2 -
+/old/aws_config 1 -
+/%2fbackend%2f.env.local 2 -
+/%2fkubernetes%2f.env 2 -
+/%2fenv.test.js 2 -
+/%2fmysql%2f 2 -
+/root/.git-credentials 1 -
+/%2frollup.config.js 2 -
+/%2f_next%2fstatic%2fchunks%2fapp%2ferror.js 2 -
+/%2fconfig.inc.php.bak 2 -
+/%2fhgs-static%2f.env 2 -
+/%2fselfsigned.key 2 -
+/%2fasdf.php 2 -
+/%2ffavicons%2f.env 2 -
+/%2fapi%2fv1 2 -
+/%2fgists%2fpusher 2 -
+/%2ftest1.php 2 -
+/%2ftest_phpinfo2.php 2 -
+/%2fmigration.php 2 -
+/%2fcollected_static%2f.env 2 -
+/publish/* 1 -
+/%2fexamples%2fwith-cookie-auth-fauna%2f.env 2 -
+/%2fprod%2f.env 2 -
+/%2fbeta%2f.env 2 -
+/%2fsamples%2fchatroom%2fchatroom-spa%2f.env 2 -
+/%2fcronlab%2f.env 2 -
+/%2fexamples%2f11-transactions%2f.env 2 -
+/cms/* 1 -
+/%2fci%2f.env 2 -
+/%2fconfig.json.bak 2 -
+/%2f.npmrc 2 -
+/%2fmicro-app-react%2f.env 2 -
+/%2flogs%2ferror.log 2 -
+/.github/workflows 1 -
+/.git/logs/refs/heads/master 1 -
+/%2fphpinfodev 2 -
+/%2fwp-content%2fdump.sql 2 -
+/%2fvod_installer%2f.env 2 -
+/%2fterraform%2f.env 2 -
+/%2fjs%2f.env 2 -
+/%2ftesting%2f.env 2 -
+/%2fresources%2f.env 2 -
+/%2fconfig%2fbroadcasting.php 2 -
+/%2fconfig%2fkeys.yml 2 -
+/%2fphptest.php 2 -
+/%2fexamples%2fwith-dotenv%2f.env 2 -
+/%2fadminphp.php' 2 -
+/%2fconfig%2fsendgrid.php 2 -
+/stripe.config.js 1 -
+/%2fbackend%2fconfig.php 2 -
+/%2f.env.hidden 2 -
+/%2fwp-content%2fuploads%2fwp-mail-smtp%2fsendgrid_keys.json 2 -
+/%2fapplication%2f.env.sample 2 -
+/%2f_phpinfo.php 2 -
+/%2fconfig%2fauth.php 2 -
+/%2fExercise.Frontend%2f.env 2 -
+/%2fserver%2fconfig%2f.env 2 -
+/%2fbasic-network%2f.env 2 -
+/%2fwp-content%2fbackup%2fsendgrid_keys.json 2 -
+/%2fprivate%2fsendgrid_keys 2 -
+/rest/variables 1 -
+/%2f.env_1 2 -
+/%2fsources%2fapi%2f.env 2 -
+/%2fadmin%2f.env.bak 2 -
+/%2fsaas%2f.env 2 -
+/%2finfo2.php 2 -
+/%2ftests%2fdefault_settings%2fv13.0%2f.env 2 -
+/%2fmoodledata%2f.env 2 -
+/%2fdebug.xml 2 -
+/%2ftest%2ffixtures%2f.env 2 -
+/%2f.envrc 2 -
+/var/task/next.config.js 1 -
+/%2fjavascript%2f.env 2 -
+/sam-template.yaml 1 -
+/.github/stale.yml 1 -
+/%2fconfig%2fview.php 2 -
+/%2fconfig.env 2 -
+/%2fwebdav%2fphpinfo.php 2 -
+/%2fapp%2fconfig%2f.env 2 -
+/%2f.gitignore 2 -
+/%2fapi%2fv2%2f.env 2 -
+/opt/mailcow-dockerized/mailcow.conf 1 -
+/%2fbackend%2fsrc%2f.env 2 -
+/src/config/stripe.ts 1 -
+/%2facme_challenges%2f.env 2 -
+/%2f_profiler%2fphpinfo%2fphpinfo.php 2 -
+/%2f.production 2 -
+/%2fa.php 2 -
+/.aws/credentials 2 -
+/%2fservice.grp 2 -
+/%2f.env.test.sample 2 -
+/software/update.cgi 1 -
+/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_style.css 1 -
+/%2fphpinfodev.php 2 -
+/%2f.aws%2fsecrets%2f 2 -
+/%2fmaintenance.html 2 -
+/%2fblog%2fwp-content%2fthemes%2f.git%2fconfig 2 -
+/.git/refs/heads/master 1 -
+/%2flaravel%2fcore%2f.env 2 -
+/root/.gitconfig 1 -
+/%2flogs.sh 2 -
+/%2fvendor%2f.env 2 -
+/%2fwp-content%2fuploads%2fmysql.sql 2 -
+/healthz 1 -
+/swagger/swagger-ui.html 17 -
+/%2fdashboard%2fphpinfo.php 2 -
+/%2flogin%2f 2 -
+/debugbar/ 1 -
+/%2fapp%2f.env.example 2 -
+/%2fwp-content%2fbackup%2fdbdump.sql 2 -
+/%2ftest%2fbdd%2ffixtures%2fedv-rest%2f.env 2 -
+/%2f.env.bkp 2 -
+/%2f.hg%2f 2 -
+/%2finf.php 2 -
+/aws-ses.json 1 -
+/%2fwebsocket%2f.env 2 -
+/%2fsendgrid_keys.txt 2 -
+/%2fvendors~main.f286c0f60bdc707d91a8.bundle.js 2 -
+/%2fjoomla%2f.env 2 -
+/%2f.aws%2fsecretsmanager%2f 2 -
+/package-updates/apt.cgi 1 -
+/%2fwordpress%2f.env 2 -
+/%2frosterBack%2f.env 2 -
+/auth/* 1 -
+/%2f.env.email 2 -
+/%2ftests%2fIntegration%2fEnvironment%2f.env 2 -
+/%2fdocker%2fcompose%2fwithPostgres%2f.env 2 -
+/%2fdebug%2fdefault%2fview.html 2 -
+/%2fbackup%2fdatabase.zip 2 -
+/%2finfo.php 2 -
+/%2fbgoldd%2f.env 2 -
+/%2fconfig%2fsendgrid.js 2 -
+/v2/api-docs 17 -
+/%2f.env_old 2 -
+/debug/ 1 -
+/en/* 1 -
+/%2fmysql.sql 2 -
+/.aws/config 2 -
+/%2fdev.php 2 -
+/%2f.well-known%2fconfig.json 2 -
+/%2fcp%2f.env 2 -
+/%2fapache%2fi.php 2 -
+/%2fprestashop%2f.env 2 -
+/%2f.env.old 2 -
+/%2fdeployment-config.json 2 -
+/~/.gitconfig 1 -
+/%2flatest%2f.env 2 -
+/api/v1/workflows 1 -
+/%2fadmin-api%2f 2 -
+/wp-content/debug.log 1 -
+/.git-askpass.sh 1 -
+/%2fapp1-static%2f.env 2 -
+/%2f.well-known%2f.env 2 -
+/%2fmain.b610bd7c7b9b7a47.js 2 -
+/%2fphpinfo3.php 2 -
+/%2fsecrets%2fsendgrid_keys 2 -
+/%2fvendor%2fcomposer%2finstalled.json 2 -
+/%2fwebsite%2f.env 2 -
+/%2fservices%2ftraefik%2f.env 2 -
+/%2flaravel%2f.env 2 -
+/%2fadmin%2finfo.php 2 -
+/%2fbackup%2fsendgrid_keys 2 -
+/%2flibraries%2f.env 2 -
+/assets/js/aos.js 2 -
+/%2fch7-mytodo%2f.env 2 -
+/$(pwd)/.env.development 1 -
+/.env.save 2 -
+/api/webhook/* 1 -
+/%2fdocker-compose%2fplatform%2f.env 2 -
+/%2fbootstrap%2fcache%2fconfig.php 2 -
+/%2funder-construction.html 2 -
+/%2fansible%2f.env 2 -
+/%2fdev%2findex.php 2 -
+/%2fenv.sh 2 -
+/.git/info/exclude 1 -
+/%2fsetup%2findex.php 2 -
+/..%5c..%5c..%5c..%5c..%5c..%5cvar/log/apache2/access.log 1 -
+/%2fassets%2findex-GquDNGwd.js 2 -
+/%2fdocker-compose.yml 2 -
+/%2fstyle%2f.env 2 -
+/%2fst-js-be-2020-movies-two%2f.env 2 -
+/%2fstatic-html%2f.env 2 -
+/%2fapplication%2f.env 2 -
+/%2faws%2f.env 2 -
+/%2ftest 2 -
+/%2fconfig%2fconfig.json 2 -
+/%2fconfig.json 2 -
+/%2fconfig%2fsendgrid_keys.json 2 -
+/.git/logs/HEAD 1 -
+/%2f_next%2fstatic%2fchunks%2fapp%2flayout-a908fe02173ed4b1.js 2 -
+/%2ffisdom%2ffisdom%2f.env 2 -
+/[workspace]/* 1 -
+/%2f.htpasswd 2 -
+/%2fapi-server%2f.env 2 -
+/var/task/next.config.ts 3 -
+/%2fsettings.php 2 -
+/%2fdeployment%2f.env 2 -
+/%2ftest1 2 -
+/%2fch8a-mytodo%2f.env 2 -
+/%2fcore%2f.env 2 -
+/%2fowncloud%2f.env 2 -
+/checkout 4 -
+/%2fdashboard%2f.env 2 -
+/%2f.env.docker.dev 2 -
+/%2fwebstatic%2f.env 2 -
+/%2fdocker-node-mongo-redis%2f.env 2 -
+/%2f.rbenv-version 2 -
+/%2finstance%2fsendgrid_keys.py 2 -
+/%2fkeys%2fsendgrid_keys.json 2 -
+/.github/CODEOWNERS 1 -
+/%2fcgi-bin%2fpass.txt 2 -
+/%2f.env.development.sample 2 -
+/%2fch6a-mytodo%2f.env 2 -
+/%2fstaging%2fbackend%2f.env 2 -
+/%2fold_site%2f 2 -
+/%2fup.php 2 -
+/%2fdocker%2fdb%2f.env 2 -
+/%2fnuxt%2f.env 2 -
+/%2fsecrets.js 2 -
+/%2ffonts%2f.env 2 -
+/%2f_next%2fstatic%2fchunks%2fpages%2f_app-d25b242610000153a081.js 2 -
+/%2fwww%2f.env 2 -
+/%2fbackend%2fconfig%2f.env 2 -
+/.amplifyrc 1 -
+/$(pwd)/*.auto.tfvars 1 -
+/%2f.git%2fconfig 2 -
+/%2fexamples%2f08-performance%2f.env 2 -
+/%2fmodules%2fcontrib%2fsendgrid_mail%2fsendgrid_mail.module 2 -
+/%2fmonitoring%2fcompose%2f.env 2 -
+/%2fsrc%2fcore%2ftests%2fdotenv-files%2f.env 2 -
+/.env.local 2 -
+/%2f.gitlab%2f.env 2 -
+/%2fsendgrid.env 2 -
+/%2fmodules%2fcontrib%2fsendgrid_mail%2ftranslations%2fsendgrid_mail.fr.po 2 -
+/%2fstorage%2f.env.local 2 -
+/%2fapps%2f.env 2 -
+/s3.secret 1 -
+/%2fconnect.php.bak 2 -
+/%2fwp-content%2fbackup%2fdb.sql 2 -
+/%2fresources%2fviews%2ferrors%2f500.blade.php 2 -
+/%2fname%2f.env 2 -
+/%2ftest_phpinfo.php 2 -
+/%2ftemanr10%2f.env 2 -
+/%2fwebroot_path%2f.env 2 -
+/%2fweb%2fapi%2fconfig.js 2 -
+/%2frasax%2f.env 2 -
+/%2f.git%2fHEAD 2 -
+/.cache 1 -
+/%2fServer_with_db%2f.env 2 -
+/[slug] 1 -
+/docker-compose.yml 1 -
+/%2fgoogle%2f.env 2 -
+/config/secrets.yml 1 -
+/.boto 1 -
+/%2fSocketio%2f.env 2 -
+/%2fphpinfo.stg 2 -
+/%2ftest-network%2faddOrg3%2f.env 2 -
+/__nextjs_action/* 1 -
+/%2fblog%2f.env 2 -
+/%2f.env.dist 2 -
+/.terraform/credentials.tfrc.json 1 -
+/%2fvercel.json 2 -
+/.github/dependabot.yml 1 -
+/rest/workflows 1 -
+/%2fwp-content%2fdbdump.sql 2 -
+/%2fsrc%2fconfig%2fenvironment.json 2 -
+/%2fui%2f.env 2 -
+/content/* 1 -
+/* 1 -
+/%2faws-secret.yaml 2 -
+/s3.key 1 -
+/%2ffunctions%2f.env 2 -
+/%2fimages%2f.env 2 -
+/%2fadmin%2fconfig 2 -
+/%2fwp-content%2fplugins%2fsendgrid_keys.json 2 -
+/.git/description 1 -
+/%2fitems%2f.env 2 -
+/%2fservices%2fredis-commander%2f.env 2 -
+/%2fmigrate.php 2 -
+/%2fpictures%2f.env 2 -
+/%2fscripts%2f.env 2 -
+/%2ftests%2f.env 2 -
+/%2fwp.php 2 -
+/%2fwp-login%2f.env 2 -
+/%2fini.php 2 -
+/%2f.next%2f 2 -
+/metrics 1 -
+/%2fconfig%2fenv.php 2 -
+/%2fstatic%2fjs%2f*.chunk.js 2 -
+/%2fdeveloperslv%2f.env 2 -
+/%2ffront-app%2f.env 2 -
+/%2fflask%2f.env 2 -
+/%2fapi_keys%2fsendgrid_keys.json 2 -
+/%2fCodeGolf.Web%2fClientApp%2f.env 2 -
+/%2fvendor%2fsymfony%2fdebug%2fdebug.php 2 -
+/%2fsrc%2fclient%2fmobile%2f.env 2 -
+/%2fconfig.ini 2 -
+/%2fdataset1%2f.env 2 -
+/%2fadmin%2fphpinfo.php 2 -
+/%2ftheme_static%2f.env 2 -
+/v3/api-docs 17 -
+/%2falpha%2f.env 2 -
+/.git/objects 1 -
+/app/netlify.toml 1 -
+/%2ffilms%2f.env 2 -
+/%2fbookchain-client%2f.env 2 -
+/%2f.well-known%2fopenid-configuration 2 -
+/%2fcompose%2f.env 2 -
+/actuator/env 17 -
+/.git/HEAD 3 -
+/%2fswagger%2f 2 -
+/%2fexapi%2f.env 2 -
+/%2f3-sequelize%2ffinal%2f.env 2 -
+/%2f.env.sh 2 -
+/_ignition/execute-solution 2 -
+/%2fe2e%2f.env 2 -
+/%2fapi%2fadmin%2fuser%2fpassword 2 -
+/%2f09-managing-state%2fbegin%2fvue-heroes%2f.env 2 -
+/%2fmisc%2f.env 2 -
+/var/task/serverless.yaml 1 -
+/%2fdjango%2f.env 2 -
+/%2ftest%2fbdd%2ffixtures%2fcouchdb%2f.env 2 -
+/%2fphpinfo-preprod 2 -
+/%2fdbinfo.php 2 -
+/%2fkolab-syncroton%2f.env 2 -
+/subscribe 3 -
+/assets/vendor/swiper/swiper-bundle.min.js 2 -
+/%2fpt8%2flibrary-backend-gql%2f.env 2 -
+/%2fquestion2%2f.env 2 -
+/%2fnew-js%2f.env 2 -
+/%2fold%2f.env 2 -
+/%2fsendgrid_keys.js 2 -
+/%2fapp%2f%2f.env.back 2 -
+/login.action 17 -
+/%2f_next%2fstatic%2fchunks%2fapp%2f%5B...not-found%5D%2fpage-63e952e68a371605.js 2 -
+/%2fdist%2fjs%2fapp.[hash].js 2 -
+/%2ficon%2f.env 2 -
+/%2fv1%2fadmin%2f 2 -
+/%2fapp%2fclient%2f.env 2 -
+/%2fHelmetjs%2f.env 2 -
+/%2fapi%2fconfig.php 2 -
+/server 17 -
+/%2fstaging%2fapi%2f.env 2 -
+/settings/* 1 -
+/%2fhome%2f.env 2 -
+/%2fapp2-static%2f.env 2 -
+/%2f.env-sample 2 -
+/%2fpublic_root%2f.env 2 -
+/%2fpackage.json 2 -
+/package-updates/* 1 -
+/%2fadmin%2fsqladmin.php 2 -
+/package-updates/refresh.cgi 1 -
+/%2fwp-content%2fuploads%2fsendgrid_keys.json 2 -
+/%2fapi%2fv1%2ffinchat%2fcontact%2fmanager 2 -
+/%2f.settings.json 2 -
+/%2fservices%2f.env 2 -
+/%2fdeploy.php 2 -
+/%2fAssignment3%2f.env 2 -
+/%2fupgrade%2findex.php 2 -
+/aws.env 1 -
+/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js 2 -
+/%2fdebug%2fdefault%2fview 4 -
+/%2fadmin%2fdb.conf 2 -
+/%2fapp%2fconfig.json 2 -
+/$(pwd)/next.config.mjs 1 -
+/%2fdocker%2fpostgres%2f.env 2 -
+/%2fwp-content%2fthemes%2fsendgrid_keys.json 2 -
+/%2fphpinfo-api 2 -
+/%2f.bitbucket%2f.env 2 -
+/%2fplatform%2f.env 2 -
+/%2fserver%2f.env 2 -
+/%2fmambo%2fadministrator%2fphpinfo.php 2 -
+/%2fexamples%2fweb%2f.env 2 -
+/%2fhtdocs%2f.env 2 -
+/%2fmsks%2f.env 2 -
+/%2f.env.production.local 2 -
+/%2ftests%2fdefault_settings%2fv8.0%2f.env 2 -
+/%2fasset_img%2f.env 2 -
+/%2fdocker%2fapp%2f.env 2 -
+/%2f.ssh%2fid_rsa 2 -
+/%2fdocker%2fcompose%2fwithMongo%2f.env 2 -
+/rest/executions 1 -
+/aws/ses/smtp.env 1 -
+/%2fdebugbar 2 -
+/%2fpatchwork%2f.env 2 -
+/%2f.env.www 2 -
+/%2fmain.58a95e8d8659972f.js 2 -
+/swagger.json 19 -
+/.well-known/stripe/ 1 -
+/%2fdev%2fconfig.php 2 -
+/%2fts%2fprime%2f.env 2 -
+/%2ftest123.php 2 -
+/%2fvendor%2f.env.example 2 -
+/%2fbackup.sh 2 -
+/shop/[category]/* 1 -
+/%2fdebug.json 2 -
+/%2fhttpdocs%2f.env 2 -
+/%2f.docker%2flaravel%2fapp%2f.env 2 -
+/%2f.aws%2fcredentials%2fadmin%2f.env 2 -
+/%2fcardea%2fbackend%2f.env 2 -
+/craco.config.js 2 -
+/%2fjs%2fapp.bundle.min.js 2 -
+/%2fshibboleth%2f.env 2 -
+/%2fmain-TDTOTK7F.js 2 -
+/%2f.rbenv-vars 2 -
+/%2fchat-client%2f.env 2 -
+/rest/credential-translation 1 -
+/s3/bucket.env 1 -
+/%2ffixtures%2fflight%2f.env 2 -
+/home/*/.aws/credentials 1 -
+/%2f.c9%2fmetadata%2fenvironment%2f.env 2 -
+/%2fwp-content%2fuploads%2fdata.sql 2 -
+/%2fSources%2fAPI%2f.env 2 -
+/~/.aws/config 1 -
+/%2f.env.backup 2 -
+/%22assets/vendor/bootstrap/js/bootstrap.bundle.min.js 2 https://ugi.net.in.idealgroups.org/%22assets/vendor/bootstrap/js/bootstrap.bundle.min.js%22
+/%2f.env_backup 2 -
+/%2ftest%2ffixtures%2fnode_path%2f.env 2 -
+/%2fapi%2f.env.back 2 -
+/%2fconfig%2fconfig.inc.php.bak 2 -
+/%2fimg%2f.env 2 -
+/%2fapi%2fadmin%2fuser%2fstatus 2 -
+/%2flegacy%2ftests%2f9.2.0 2 -
+/%2froot%2f.env 2 -
+/package-updates/update.cgi 1 -
+/%2fresourcesync%2f.env 2 -
+/etc%2fssmtp%2fssmtp.conf 2 -
+/%2fresults%2f.env 2 -
+/%2fapps%2fclient%2f.env 2 -
+/%2fftpmaster%2f.env 2 -
+/donate 2 -
+/%2fconfig_dev.php 2 -
+/%2fapi%2fv1%2ffiles 2 -
+/%2flib%2fconfig.js 2 -
+/%2f.pam_environment 2 -
+/%2fsitestatic%2f.env 2 -
+/%2fapp%2f.env 2 -
+/.well-known/acme-challenge/* 1 -
+/webhook-waiting/* 1 -
+/%2ftest%2faries-js-worker%2ffixtures%2f.env 2 -
+/%2fwordpress%2fwp-config-sample.php 2 -
+/%2fHash%2f.env 2 -
+/%2fphpinfo4.php 2 -
+/%2f.aws%2fsecret_access_key.txt 2 -
+/%2fmain.yml 2 -
+/.well-known/* 1 -
+/%2fredmine%2f.env 2 -
+/%2fapache.php 2 -
+/%2fletsencrypt%2f.env 2 -
+/var/task/amplify.yaml 1 -
+/webhook-test/* 1 -
+/order 2 -
+/payment_gateways/stripe.yaml 1 -
+/package-updates/download.cgi 1 -
+/%2fconfig%2fsession.php 2 -
+/%2ftest_socket.php 2 -
+/%2frelease_info.php 2 -
+/%2fs-with-me-front%2f.env 2 -
+/%2fWEB-INF%2fweb.xml 2 -
+/%2fqv-frontend%2f.env 2 -
+/%2f%c0%2f 2 -
+/%2f_profiler%2fempty%2fsearch%2fresults 2 -
+/rest/oauth2-credential/auth 1 -
+/%2fphpinfo.php3 2 -
+/editor/* 1 -
+/:8081%2f.env 2 -
+/%2fapi%2fservice 2 -
+/%2ftest_phpinfo1.php 2 -
+/%2faws-secret.json 2 -
+/swagger/index.html 17 -
+/%2fphpminiadmin.php 2 -
+/%2fwp-content%2fdata.sql 2 -
+/%2fstatic-collected%2f.env 2 -
+/%2fsetup.php 2 -
+/%2f.env.test 2 -
+/%2fscript%2f.env 2 -
+/_waku/* 1 -
+/%2fconfig%2fsettings.php 2 -
+/%2fmysql_debug.sql 2 -
+/%2fdatabase_backup.sql 2 -
+/root/.s3cfg 1 -
+/%2ftmp%2f 2 -
+/aws_s3_bucket 1 -
+/%2fphp.php 2 -
+/%2fprice_hawk_client%2f.env 2 -
+/%2f.sendgrid%2fcredentials 2 -
+/%2fstatic%2fjs%2fmain.48389ac6.js 2 -
+/%2ftest%2fbdd%2ffixtures%2fdemo%2fopenapi%2f.env 2 -
+/%2fconfig%2fapp.php 2 -
+/software/install-updates.cgi 1 -
+/%2f.env.smtp 2 -
+/%2fsettings%2fsendgrid_keys 2 -
+/%2fxx-final%2fvue-heroes%2f.env 2 -
+/%2freact%2f.env 2 -
+/%2f.aws%2fconfig.yaml 2 -
+/%2fdocs%2f.env 2 -
+/%2fmemcached%2f.env 2 -
+/%2fchallenge%2f.env 2 -
+/%2ftest4.php 2 -
+/%2fwp-content%2f.git%2fconfig 2 -
+/%2fnew%2f.env.local 2 -
+/:8080%2f.env 2 -
+/.git/logs/refs/remotes/origin/main 1 -
+/assets/vendor/isotope-layout/isotope.pkgd.min.js 2 -
+/%2f.env.back 2 -
+/%2fbabel-plugin-dotenv%2ftest%2ffixtures%2fdefault%2f.env 2 -
+/%2frepo%2f.env 2 -
+/.env.aws 1 -
+/%2fleafer-app%2f.env 2 -
+/%2findex.php 2 -
+/%2fapp%2fapi%2fbzycs.php 2 -
+/software/*.cgi 1 -
+/%2fapi%2fregister 2 -
+/%2fconfiguration.bak 2 -
+/rest/tags 1 -
+/%2ftemanr9%2f.env 2 -
+/%2fadmin_info.php 2 -
+/%2fjenkins%2f.env 2 -
+/%2fplayground%2f.env 2 -
+/%2f.env.test.local 2 -
+/%2fsite-library%2f.env 2 -
+/%2f.env.key 2 -
+/%2fexamples%2f09-production%2f.env 2 -
+/%2fvideos%2f.env 2 -
+/%2f.jenv-version 2 -
+/api-docs/swagger.json 17 -
+/s/5333e24353e28313e2931313/_/ 17 -
+/%2fapi%2fv1%2fnetdisk%2fdownload 2 -
+/aws/config/s3.json 1 -
+/aws/bucket 1 -
+/%2fshop%2f.env 2 -
+/%2fapi%2f.env.sample 2 -
+/.git 1 -
+/%2fscripts%2fdb.sh 2 -
+/%2fmicro-app-react-communication%2f.env 2 -
+/%2f.envs 2 -
+/%2fcontent%2fdebug.log 2 -
+/%2fvue_CRM%2f.env 2 -
+/%2fclient%2fmutual-fund-app%2f.env 2 -
+/$(pwd)/.env.local 1 -
+/%2ftools%2fphpinfo.php 2 -
+/%2fstorage%2fdebug.log 2 -
+/%2fserver-info 2 -
+/.github/PULL_REQUEST_TEMPLATE.md 1 -
+/%2f.pypirc 2 -
+/%2fphpcustom_info%2fphpinfo.php 2 -
+/var/task/nuxt.config.ts 3 -
+/.git/index 1 -
+/api/credentials 1 -
+/test 3 -
+/%2fmain-WTCAS2AO.js 2 -
+/%2flog%2f.env 2 -
+/%2fassets%2findex-[hash].js 2 -
+/%2fplugins%2f.env 2 -
+/%2fpreview-env%2f.env 2 -
+/%2f.svn%2fentries 2 -
+/%2fbase_dir%2f.env 2 -
+/%2fdown.html 2 -
+/%2f.env-db 2 -
+/api 17 -
+/%2fdebug 2 -
+/%2fboxes%2foracle-vagrant-boxes%2fOLCNE%2f.env 2 -
+/etc%2fpostfix%2fmain.cf 2 -
+/%2fstaging%2ffrontend%2f.env 2 -
+/.git/objects/info 1 -
+/%2f.env.production 2 -
+/%2fwp-config.php~ 2 -
+/_react/data/* 1 -
+/%2fconsole.php 2 -
+/%2fmailman%2f.env 2 -
+/var/task/serverless.yml 1 -
+/%2fvendor%2fphpunit%2fphpunit%2fsrc%2fUtil%2fPHP%2feval-stdin.php 2 -
+/admin/* 1 -
+/%2f_profiler%2fphpinfo 2 -
+/%2fserver-info.php 2 -
+/integrations/* 1 -
+/~/.git-credentials 1 -
+/%2fassets%2fjs%2fapp.js 2 -
+/%2fconn.asp.bak 2 -
+/home/*/.git-credentials 1 -
+/%2fbabel-plugin-dotenv%2ftest%2ffixtures%2fempty-values%2f.env 2 -
+/%2fconfig%2fconfig.yml 2 -
+/%2ftest_phpinfo5.php 2 -
+/%2fphp1.php 2 -
+/.dockerignore 1 -
+/s3.properties 1 -
+/%2faws.json 2 -
+/%2fsendgrid_keys 2 -
+/%2fboxes%2foracle-vagrant-boxes%2fContainerRegistry%2f.env 2 -
+/.s3cfg 2 -
+/%2findex1.php 2 -
+/terraform.tfstate 1 -
+/%2fwpp-config.php~ 2 -
+/%2f.env.php 2 -
+/:27017 1 -
+/%2fphpsysinfo%2fphpsysinfo.php 2 -
+/%2f.remote 2 -
+/%2fsrc%2fapp.js 2 -
+/%2fk8s%2f.env 2 -
+/%2fconfiguration.php 2 -
+/%2f.output%2f 2 -
+/%2fkodenames-server%2f.env 2 -
+/%2fdataset2%2f.env 2 -
+/%2fapi%2fv1%2fsms-sender 2 -
+/%2fshopware%2f.env 2 -
+/aws.env.json 1 -
+/%2fin.php 2 -
+/%2fstatic%2fjs%2fmain.1b34ee2a.js 2 -
+/%2fweb-dist%2f.env 2 -
+/%2fstylesheets%2f.env 2 -
+/var/task/docker-compose.yml 1 -
+/%2fw.php 2 -
+/%2ffinalVersion%2flcomernbootcamp%2fprojbackend%2f.env 2 -
+/%2fnew%2f.env 2 -
+/%2fthumb%2f.env 2 -
+/%2ftestdb.php 2 -
+/%2fframework%2f.env 2 -
+/%2ftmp%2fphpinfo.php 2 -
+/%2fapp%2fsettings.php 2 -
+/package-updates/install.cgi 1 -
+/%2fexamples%2f06-base-service%2f.env 2 -
+/%2f.env_copy 2 -
+/%2fmonerod%2f.env 2 -
+/:443%2f.env 2 -
+/%2fapi%2fsystem%2finfo 2 -
+/%2fselfish-darling-backend%2f.env 2 -
+/plugins/payments/stripe.json 1 -
+/var/task/nuxt.config.js 3 -
+/app/serverless.yaml 1 -
+/%2fmailinabox%2f.env 2 -
+/%2fadmin%2fsql.conf 2 -
+/servers/link.cgi 1 -
+/terraform.tfvars 1 -
+/vercel.json 1 -
+/%2fdebug.php 2 -
+/%2fapi%2finternal%2f 2 -
+/%2fstatic%2fjs%2fmain.8c18b542.js 2 -
+/stripe-keys.json 1 -
+/%2fadminer%2f.env 2 -
+/%2ftesting%2f 2 -
+/pages/* 1 -
+/%2fscripts%2ffvt%2f.env 2 -
+/%2fstatic%2fjs%2fmain.602cea98.chunk.js 2 -
+/%2fcollab-connect-web-application%2fserver%2f.env 2 -
+/%2ftemplates%2f.env 2 -
+/%2ffrontend%2fweb%2fdebug%2fdefault%2fview 2 -
+/%2fpublic%2fsystem 2 -
+/%2ftest%2findex.php 2 -
+/%2fcore%2fconfig.php 2 -
+/%2fphpinfo_details 2 -
+/%22assets/vendor/php-email-form/validate.js 2 https://ugi.net.in.idealgroups.org/%22assets/vendor/php-email-form/validate.js%22
+/package-updates/perform.cgi 1 -
+/%2fconf%2f.env 2 -
+/%2f.phpinfo 2 -
+/%2fweb.xml 2 -
+/~/.s3cfg 1 -
+/%2f07-accessing-data%2fbegin%2fvue-heroes%2f.env 2 -
+/%2fmain.2b8841d1a101dd041285.js 2 -
+/%2ftest%2fbdd%2ffixtures%2fagent-rest%2f.env 2 -
+/assets/js/main.js 2 -
+/%2fwp-content%2fsendgrid_keys.json 2 -
+/.env.development 1 -
+/%2ferrors%2f.env 2 -
+/%2frails%2f.env 2 -
+/%2fsrc%2fgameprovider-service%2f.env 2 -
+/%2fapp%2fconfig%2fparameters.yml 2 -
+/%2fblankon%2f.env 2 -
+/%2fdebug.sql.tar.gz 2 -
+/shop 1 -
+/%2fstackato-pkg%2f.env 2 -
+/%2fweb%2fdebug%2fdefault%2fview 2 -
+/%2fbackup.tar.gz 2 -
+/%2fstatic%2fjs%2fmain.ef8ecb99.chunk.js 2 -
+/%2fdbadmin.php 2 -
+/%2fxdebug_info.php 2 -
+/%2fservice%2f.env 2 -
+/%2fstats%2f.env 2 -
+/%2fstatic-root%2f.env 2 -
+/%2fresources%2fviews%2ferrors%2f404.blade.php 2 -
+/%2fhttpd.conf 2 -
+/%2fexport%2f.env 2 -
+/%2fparity%2f.env 2 -
+/%2ftests%2fdefault_settings%2fv10.0%2f.env 2 -
+/%2flegacy%2ftests%2f9.1.1 2 -
+/.well-known/stripe.txt 1 -
+/%2f.env.txt%2fhtml%2f.env 2 -
+/%2fapp-7d66de919618d3830635.js 2 -
+/%2fsrc%2frenderer%2f.env 2 -
+/%2f.env.project 2 -
+/%2fapp_nginx_static_path%2f.env 2 -
+/%2fHUNIV_migration%2f.env 2 -
+/%2fimage_data%2f.env 2 -
+/%2fstrapi%2f.env 2 -
+/[tenant]/* 1 -
+/app/* 1 -
+/.gitlab/issue_templates 1 -
+/%2fNuke.App.Ui%2f.env 2 -
+/%2fbabel-plugin-dotenv%2ftest%2ffixtures%2fprod-env%2f.env 2 -
+/%2flab%2f.env 2 -
+/graphql/api 17 -
+/%2fjs%2fchunk-vendors.[hash].js 2 -
+/%2fdoc%2f.env 2 -
+/.env.example 1 -
+/waku/* 1 -
+/.vscode/sftp.json 17 -
+/%2fenv%2fdockers%2fphp-apache%2f.env 2 -
+/%2fqq.php 2 -
+/%2fmail%2f.env 2 -
+/%2fresources%2fdocker%2fphpmyadmin%2f.env 2 -
+/%2f_next%2fstatic%2fchunks%2f945-34f67d7c0866cf61b970.js 2 -
+/%2fdebug-output.txt 2 -
+/%2fconfig%2fmailgun.json 2 -
+/_debugbar/ 1 -
+/%2fconfig.local 2 -
+/%2fconfig%2fenv%2fsendgrid.env 2 -
+/%2fgcp%2f.env 2 -
+/aws-config.js 2 -
+/%2fsapi%2fdebug%2fdefault%2fview 2 -
+/%2fconfig.ts 2 -
+/%2fdocker%2fwebdav%2f.env 2 -
+/:80%2f.env 2 -
+/%2fback%2f.env 2 -
+/%2fbackup.zip 2 -
+/app/serverless.yml 1 -
+/%2f.env.local 2 -
+/api/users/* 1 -
+/package-updates/*.cgi 1 -
+/%2fenv.txt 2 -
+/$(pwd)/.git/config 1 -
+/%2fprisma%2f.env 2 -
+/%2fexamples%2f02-complex-example%2f.env 2 -
+/%2fcore%2fconfig.bak 2 -
+/%2ftheme%2f.env 2 -
+/%2fsites%2f.env 2 -
+/%2flaravel%2fcore%2f.env.staging 2 -
+/%2fMETA-INF%2fcontext.xml 2 -
+/%2fphpinfoapi 2 -
+/%2fenv.template 2 -
+/%2fbackend 2 -
+/%2fconfig%2f.env.dev 2 -
+/%2fwp-content%2fwordpress.sql 2 -
+/%2fFinal_Project%2fStartingFile%2f.env 2 -
+/%2f.htaccess 2 -
+/var/task/amplify.yml 1 -
+/%2fapi%2fkeys 2 -
+/admin/.env 2 -
+/%2fstatic%2fjs%2fmain.4aa2819f.js 2 -
+/rest/license 1 -
+/%2fvendor%2fdrupal%2fcoder%2f.git%2finfo%2fexclude 2 -
+/%2fdatabase.zip 2 -
+/%2fconnectionstrings.json 2 -
+/%2fmain.php 2 -
+/%2fNodejs-Projects%2fplay-ground%2fManageUserRoles%2f.env 2 -
+/%2flogs%2f.env 2 -
+/package-updates/index.cgi 1 -
+/%2finfo.txt 2 -
+/%2fcms%2f.env 2 -
+/%2fadministrator%2f 2 -
+/.git/FETCH_HEAD 1 -
+/%2f.aws%2fs3%2fconfig.json 2 -
+/config.js 2 -
+/app/amplify.yaml 1 -
+/.git/config 37 -
+/%2fjs%2fvendor.[hash].js 2 -
+/index.html 1 -
+/%2fdocker%2fdev%2f.env 2 -
+/%2fapp%2fcode%2fcommunity%2fNosto%2fTagging%2f.env 2 -
+/%2frestapi%2f.env 2 -
+/%2ftester.php 2 -
+/%2fwebui%2f.env 2 -
+/%2fcrm%2f.env 2 -
+/%2fsample-config.php 2 -
+/%2fstaging%2f.env 2 -
+/%2fbitrix%2fadmin%2fphpinfo.php 2 -
+/:27019 1 -
+/%2fphp_info.php 2 -
+/%2flaravel%2fcore%2f.env.local 2 -
+/.git/hooks/post-commit 1 -
+/%2fapp%2fconfig.js 2 -
+/$(pwd)/.terraform/terraform.tfstate 1 -
+/%2fapi%2fauth%2fv1%2fpin%2fverify 2 -
+/%2fjupyter%2f.env 2 -
+/%2fconfig.local.php_old 2 -
+/%2flib%2f.env 2 -
+/media/* 1 -
+/_profiler/phpinfo 1 -
+/%2ftest%2ffixtures%2fapp_types%2fnode%2f.env 2 -
+/%2fMakefile 2 -
+/%2fcode%2fweb%2f.env 2 -
+/%2fpublic.key 2 -
+/%2fdjango-blog%2f.env 2 -
+/%2ftests%2fdefault_settings%2fv7.0%2f.env 2 -
+/%2fbackend%2fdebug 2 -
+/$(pwd)/.env.production 1 -
+/v1/* 1 -
+/%2fazure%2f.env 2 -
+/workspaces/* 1 -
+/%2fassets%2f.env 2 -
+/var/task/serverless.json 1 -
+/%2fFinal_Project%2fkafka_twitter%2f.env 2 -
+/%2fadminapp%2f.env 2 -
+/%2fstorage%2flogs%2fstack.log 2 -
+/%2fsettings.php.bak 2 -
+/%2fconfig%2fsecrets%2fprod%2fsendgrid_keys.json 2 -
+/%2f.env.swp 2 -
+/~/.boto 1 -
+/%2fadmin%2fsettings.ini 2 -
+/%2fv1%2fprivate%2f 2 -
+/%2flogin 2 -
+/%2fjs%2fchunks%2f[chunk-name].[hash].js 2 -
+/%2fpms 2 -
+/%2fwp-config-sample.php 2 -
+/%2f.env.development 2 -
+/%2fstatic_user%2f.env 2 -
+/%2fmagento%2f.env 2 -
+/%2f.github%2f.env 2 -
+/%2ffedex%2f.env 2 -
+/%2fphpinfo 2 -
+/%2fmaster%2f.env 2 -
+/%2fsymfony%2f.env 2 -
+/%2fapi%2fv1%2fdebug 2 -
+/.netlify/functions/* 1 -
+/%2fapi%2f.env 2 -
+/%2flog%2fdevelopment.log 2 -
+/%2finternal%2fconfig 2 -
+/%2fpost-deployment%2f.vscode%2f.env 2 -
+/%2fstorage%2flogs%2flaravel.log 2 -
+/%2ftarget%2f.env 2 -
+/%2fch8-mytodo%2f.env 2 -
+/%2fconfig%2fenv.json 2 -
+/%2fpackages%2fstyled-ui-docs%2f.env 2 -
+/.git/refs/heads/main 1 -
+/%2fconfig.js.bak 2 -
+/%2fvendor%2fdrupal%2fcoder%2f.git%2fobjects%2finfo 2 -
+/v2/_catalog 17 -
+/%2fphpinfo.php 2 -
+/%2fdev-env%2f.env 2 -
+/%2fdocker%2f.env 2 -
+/%2fvendor%2fdrupal%2fcoder%2f.git%2finfo%2frefs 2 -
+/%2frobots%2f.env 2 -
+/%2fClientApp%2f.env 2 -
+/%2fawstats%2f.env 2 -
+/%2fenv.example 2 -
+/$(pwd)/terraform.tfvars 1 -
+/%2fserve-browserbench%2f.env 2 -
+/%2fphp.log 2 -
+/aws-codecommit/ 1 -
+/oauth/authorize 1 -
+/%2fch6-mytodo%2f.env 2 -
+/%2fdownload%2f.env 2 -
+/%2f.env_secret 2 -
+/%2fweb.config 2 -
+/%2fadmin_phpinfo.php 2 -
+/%2fservices%2fportainer%2f.env 2 -
+/.gitignore 1 -
+/rest/node-types 1 -
+/%2fapi%2fsrc%2f.env 2 -
+/%2ffavs%2f.env 2 -
+/%2fdata.tar.gz 2 -
+/%2f.travis.yml 2 -
+/%2fenv.bak 2 -
+/%2fupgrader.php 2 -
+/%2fch7a-mytodo%2f.env 2 -
+/%2fwindows%2ftests%2f9.3.x%2f.env 2 -
+/%2fconfig%2fenvironment.json 2 -
+/%2fapi%2fadmin%2fauth 2 -
+/%2fLibrary%2f.env 2 -
+/console/* 1 -
+/%2fExercise.Frontend%2ftrain%2f.env 2 -
+/%2ferror%2f.env 2 -
+/%2fadmin%2fadminer.php 2 -
+/%2foutputs%2f.env 2 -
+/%2ffront-end%2f.env 2 -
+/%2fapi%2fsecrets.json 2 -
+/%2fsite%2f.env 2 -
+/%2freact_todo%2f.env 2 -
+/%2fsamples%2fdocker%2fdeploymentscripts%2f.env 2 -
+/%2fapi%2fprivate%2f 2 -
+/%2ffont-icons%2f.env 2 -
+/%2fapi%2fconfig.json 2 -
+/%2fFIRST_CONFIG%2f.env 2 -
+/%2f.bash_history 2 -
+/%2ftest%2ffixtures%2fapp_types%2frails%2f.env 2 -
+/%2finternal%2f 2 -
+/%2fgithub-connect%2f.env 2 -
+/%2fmain_user%2f.env 2 -
+/%2ftest%2fbdd%2ffixtures%2funiversalresolver%2f.env 2 -
+/%2fniffler-frontend%2f.env 2 -
+/%2fphpinfos.php 2 -
+/%2fcmsmessages%2finformation.aspx.cs 2 -
+/%2fadmin%2f.env 2 -
+/%2fapp%2fconfig.php 2 -
+/%2fDockerfile 2 -
+/%2fapi%2flogin 2 -
+/%22assets/vendor/isotope-layout/isotope.pkgd.min.js 2 https://ugi.net.in.idealgroups.org/%22assets/vendor/isotope-layout/isotope.pkgd.min.js%22
+/%2fwp-content%2fbackups%2fdata.sql 2 -
+/%2frepos%2f.env 2 -
+/%2fphpinfo%2finfo.php 2 -
+/%2fdev%2f.env.local 2 -
+/%2fphpMyAdmin%2f 2 -
+/%2fpfbe%2f.env 2 -
+/[id] 1 -
+/[[...optional]] 1 -
+/%2flaravel%2fcore%2f.env.production 2 -
+/%2fadmin-panel%2f.env 2 -
+/%2f.env.mail 2 -
+/%2finfo.log 2 -
+/%2fpi.php 2 -
+/%2fcmd%2ftestdata%2fexpected%2fdot_env%2f.env 2 -
+/%2flara%2fphpinfo.php 2 -
+/%2flogs%2fapp.log 2 -
+/%2fconfig%2fcache.php 2 -
+/admin.html 1 -
+/%2fBooking%2fDefault.aspx 2 -
+/%2fsrc%2fapi%2fconfig.js 2 -
+/.docker/config.json 1 -
+/%2fsqladmin.php 2 -
+/messages/* 1 -
+/%2fsecrets.yml 2 -
+/%2fconfig%2fsendgrid.py 2 -
+/blog-verify 1 -
+/%2fnest%2f.env 2 -
+/telescope/requests 17 -
+/%2fapi%2fcommand 2 -
+/%2fexamples%2fvue-dashboard%2fbackend%2f.env 2 -
+/%2ftz.php 2 -
+/%2frun%2f.env 2 -
+/%2fphpinfo.php.bak 2 -
+/%2ftest_info4.php 2 -
+/%2fpath%2f.env 2 -
+/%2fwp-content%2fuploads%2fdbdump.sql 2 -
+/%2f.env.stage 2 -
+/webjars/swagger-ui/index.html 17 -
+/%2flaravel%2f.env.staging 2 -
+/app/.env.production 1 -
+/%2f.env.live 2 -
+/%2fconfig%2fconfig_ucenter.php.bak 2 -
+/%2fconfig%2f.env.production 2 -
+/%2fapi%2fdebug 2 -
+/%2fbucoffea%2f.env 2 -
+/%2fpi.php5 2 -
+/%2fProcfile 2 -
+/%2fapache%2finfo.php 2 -
+/app/terraform.tfstate 1 -
+/%2ftest0.php 2 -
+/api/graphql 17 -
+/.github 1 -
+/%2f.vscode%2fsettings.json 2 -
+/%2fstatic_root%2f.env 2 -
+/%2fwp-content%2fplugins%2f.git%2fconfig 2 -
+/var/task/next.config.mjs 1 -
+/%2fexamples%2fwith-relay-modern%2f.env 2 -
+/%2fTravel_form%2f.env 2 -
+/%2fsrc%2fcharacter-service%2f.env 2 -
+/%2fenv 2 -
+/%2ferrors.log 2 -
+/%2fhtml%2f.env 2 -
+/%2f.sendgrid%2fconfig 2 -
+/%2fconfig%2fdatabase.yml 2 -
+/%2fprivate.key 2 -
+/%2fwp-content%2fdb.sql 2 -
+/debug/default/view 17 -
+/%2fexample27-how-to-load-env%2fsample02%2f.env 2 -
+/%2ffrontend%2f.env 2 -
+/%2fthumbs%2f.env 2 -
+/%2fmaintenance.php 2 -
+/%2fpacked%2f.env 2 -
+/_vti_bin/* 1 -
+/actions/* 1 -
+/%2f.env.prod 2 -
+/%2fTests%2fApplication%2f.env 2 -
+/%2fdocker-network-healthcheck%2f.env 2 -
+/%2fapi%2f.git%2fconfig 2 -
+/%2fblue%2f.env 2 -
+/%2f.env.dev.local 2 -
+/%2fconfig%2fenv%2fsendgrid_keys.env 2 -
+/@vite/env 17 -
+/%2fsendgrid_email%2f.env 2 -
+/var/task/docker-compose.yaml 1 -
+/.git/objects/pack 1 -
+/%2fprivate%2fkeys.json 2 -
+/%2f.maintenance 2 -
+/%2fapp_dev.php 2 -
+/%2finstall%2f.env 2 -
+/%2fapp-order-client%2f.env 2 -
+/%2fgcloud.json 2 -
+/.git/ORIG_HEAD 1 -
+/%2fdebug.sh 2 -
+/%2fsendgrid_keys.py 2 -
+/%2fupfiles%2f.env 2 -
+/%2froot%2f.aws%2fcredentials 2 -
+/%2fapi%2fupload 2 -
+/%2ftest9.php 2 -
+/.env.prod 1 -
+/%2fchiminey%2f.env 2 -
+/%2f.env 3 -
+/%2fcharts%2fliveObjects%2f.env 2 -
+/%2fcloud%2f.env 2 -
+/%2flibs%2f.env 2 -
+/%2fsystem%2fphpinfo.php 2 -
+/form-test/* 1 -
+/%2fdocker-elk%2f.env 2 -
+/%2fscripts%2fphpinfo.php 2 -
+/%2fsetup%2fsetup.php 2 -
+/%2fphpinfo2.php 2 -
+/%2f.env1 2 -
+/%2fmain.457ddfd2b1341056.js 2 -
+/%2fsample.env 2 -
+/%2foption%2f.env 2 -
+/%2fsystem-config%2f.env 2 -
+/s3/backup 1 -
+/docker/overlay/config.json 1 -
+/%2fvm-docker-compose%2f.env 2 -
+/%2fdev%2f.env 2 -
+/%2finfo4.php 2 -
+/%2fopencart%2f.env 2 -
+/%2f31_structure_tests%2f.env 2 -
+/%2fapp%2fetc%2fenv.local.php 2 -
+/%2ftiedostot%2f.env 2 -
+/%2fbuild%2f.env 2 -
+/%2fstorage%2f.env 2 -
+/%2ftemp%2f.env 2 -
+/%2fwordpress%2fwp-config.php 2 -
+/.env.production 1 -
+/%2fapi%2fadmin%2frole%2fid 2 -
+/.git-credentials 1 -
+/%2fbuild%2f_app%2fimmutable%2fentry%2fapp.[hash].js 2 -
+/%2fcontent%2f.env 2 -
+/loaders/* 1 -
+/%2fpinfo.php 2 -
+/orders/* 1 -
+/%2fdb-admin%2f 2 -
+/attacker/docker-compose.yml 1 -
+/%2fconfig.js 2 -
+/%2fportal%2f.env 2 -
+/rest/workflows/run 1 -
+/%2fapis%2f.env 2 -
+/%2f123.php 2 -
+/%2fmodule%2finfo%2finclude%2fmysql%2fphpcms_info.sql 2 -
+/%2f_debugbar%2fopen 2 -
+/%2fphpinfo%2fphpinfo.php 2 -
+/:28017 1 -
+/docker/registry/config.yml 1 -
+/%22assets/vendor/aos/aos.js 2 https://ugi.net.in.idealgroups.org/%22assets/vendor/aos/aos.js%22
+/%2f.env~ 2 -
+/%2fdevtools 2 -
+/payment/stripe.json 1 -
+/%2fwhturk%2f.env 2 -
+/%2fblob%2f.env 2 -
+/_layouts/* 1 -
+/%2fconfig%2faws.json 2 -
+/%2fnode_modules%2f 2 -
+/%2fbuild%2fentry.client-[hash].js 2 -
+/%2fclient%2f.env 2 -
+/%2fsendgrid_keys.json 2 -
+/sendgrid.env 1 -
+/%2fgrems-api%2f.env 2 -
+/%2fwp-content%2fmysql.sql 2 -
+/%2fwp-content%2fdb_backup.sql 2 -
+/%2fhttp%2f.env 2 -
+/%2f.env.prod.local 2 -
+/%2fcdw-backend%2f.env 2 -
+/root/.boto 1 -
+/.git/hooks 1 -
+/_react/action/* 1 -
+/%2fapi 2 -
+/%2fdemo-app%2f.env 2 -
+/%2fbuild.log 2 -
+/config/stripe.yaml 1 -
+/%2fstatic%2fjs%2fmain.335d17a0.js 2 -
+/%2f.nvmrc 2 -
+/%2fproduction%2f.env 2 -
+/%2fq.php 2 -
+/%2fdashboard%2fi.php 2 -
+/%2fadmin%2fadmin_phpinfo.php4 2 -
+/%2fwindows%2ftests%2f9.2.x%2f.env 2 -
+/%2fdev-api%2f 2 -
+/%2fadmin%2fphpmyadmin.php 2 -
+/%2frest%2f.env 2 -
+/%2fdashboard%2finfo.php 2 -
+/%2fapi%2fv1%2faccount%2foauth%2fticket 2 -
+/%2f.bashrc 2 -
+/_vercel/insights 1 -
+/root/.aws/credentials 1 -
+/%2fscripts%2finstall.sh 2 -
+/%2fenv%2fdockers%2fmariadb-test%2f.env 2 -
+/%2fapp%2fconfig%2fdev%2f.env 2 -
+/%2f.env.sample.php 2 -
+/%2fdebug.txt.gz 2 -
+/%2fdist%2f.env 2 -
+/%2ffirebase.json 2 -
+/%2f_ignition%2f 2 -
+/sysinfo.cgi 1 -
+/%2f.DS_Store 2 -
+/%2f 16 -
+/$(pwd)/.env.staging 1 -
+/%2ftests%2fdefault_settings%2fv9.0%2f.env 2 -
+/%2fp.php 2 -
+/%2finfo.php_ 2 -
+/%2fvar%2fdebug.log 2 -
+/pricing 2 -
+/app/amplify.yml 1 -
+/%2fvite.config.ts 2 -
+/%2ffrontend%2fvue%2f.env 2 -
+/%2fadmin%2fconfig.php 2 -
+/%2fdatabase.sql 2 -
+/%2fcore%2fsrc%2fmain%2fresources%2forg%2fjobrunr%2fdashboard%2ffrontend%2f.env 2 -
+/%2fprintenv.tmp 2 -
+/%2factuator%2f 2 -
+/rest/login 1 -
+/%2fhorde%2f.env 2 -
+/app/next.config.js 3 -
+/proc/index.cgi 1 -
+/webmin/package-updates/update.cgi 1 -
+/app/package.json 3 -
+/%2f.env.sample 2 -
+/%2f.env.config 2 -
+/%2fnode_modules%2f.env 2 -
+/%2fsrc%2fassembly%2f.env 2 -
+/%2fphpinfo.bak 2 -
+/%2fyarn-debug.log 2 -
+/%2ftesting.php 2 -
+/%2fdeveloper.php 2 -
+/%2fenvs%2f.env 2 -
+/%2fd%2f.env 2 -
+/%2fchunk-B2FODB4I.js 2 -
+/%2fvendor%2fgithub.com%2fgobuffalo%2fenvy%2f.env 2 -
+/trace.axd 13 -
+/%2fhttpboot%2f.env 2 -
+/.git/info 1 -
+/%2fwp-config.php.backup 2 -
+/%2f.env_sample 2 -
+/wp-content/plugins/cidaas-pro-master/composer.json 1 -
+/%2fbackup%2fconfig.php 2 -
+/%2f.aws%2fcredentials.bak 2 -
+/api/swagger.json 16 -
+/%2fnow.json 2 -
+/%2flaravel%2finfo.php 2 -
+/%2ftest%2fbdd%2ffixtures%2fdid-method-rest%2f.env 2 -
+/%2fsql.php 2 -
+/rest/credentials-for-node 1 -
+/%2fdeploy.sh 2 -
+/%2fconfigure.sh 2 -
+/%2fs3.js 2 -
+/root/.aws/config 1 -
+/%2fenv.js 2 -
+/%2fwp-config-sample.php.bak 2 -
+/%2ftest%2fbdd%2ffixtures%2fvc-rest%2f.env 2 -
+/%2f.docker%2f.env 2 -
+/%2fconfig%2fsettings.ini 2 -
+/%2fexamples%2fsdl-first%2f.env 2 -
+/%2fengine%2f.env 2 -
+/%2fapp.tar.gz 2 -
+/%2fapi%2fauthentication 2 -
+/%2fphpinfo.php.txt 2 -
+/api/v1/credentials 1 -
+/%2fweb%2f.env 2 -
+/%2fapache%2fphpinfo.php 2 -
+/%2fyarn.lock 2 -
+/%2fapache2.php 2 -
+/%2fbuild%2fmain.ba0c34b7.js 2 -
+/%2fmysqladmin.php 2 -
+/%2ffront-empathy%2f.env 2 -
+/%2fdb.sql 2 -
+/%2fvendor%2fdrupal%2fcoder%2f.git%2fobjects%2finfo%2fpacks 2 -
+/%2fwp-content%2fuploads%2fdb_backup.sql 2 -
+/%2factions-server%2f.env 2 -
+/%2fapi%2fresetpassword 2 -
+/%2flog.txt 2 -
+/%2fpt2%2fcountries%2fsrc%2f.env 2 -
+/%2fservices%2fsimcore%2f.env 2 -
+/%2fdep.php 2 -
+/%2fconfig.php.old 2 -
+/.env.testing 1 -
+/.github/funding.yml 1 -
+/notifications/* 1 -
+/%2fwp-content%2ffullwebsite.sql 2 -
+/%2fops%2fvagrant%2f.env 2 -
+/%2fpage-editor%2f.env 2 -
+/%2fstatic%2fjs%2fmain.11bc02d8.chunk.js 2 -
+/%2finfo.php.save.1 2 -
+/%2fapp_dir%2f.env 2 -
+/%2fconfig%2faws.yml 2 -
+/%2fstorage%2fsendgrid.json 2 -
+/docs 3 -
+/%2f.vite%2f 2 -
+/%22assets/vendor/swiper/swiper-bundle.min.js 2 https://ugi.net.in.idealgroups.org/%22assets/vendor/swiper/swiper-bundle.min.js%22
+/.well-known/security.txt 17 -
+/%2fcgi-bin%2f.env 2 -
+/%2ftmp%2fconfig%2f.env 2 -
+/.git/logs/refs/heads/main 1 -
+/%2fch2-mytodo%2f.env 2 -
+/%2ferror.log 2 -
+/%2fstorage%2fapp%2fprivate%2f.env 2 -
+/%2fenv%2f.env 2 -
+/rest/* 1 -
+/assets/vendor/php-email-form/validate.js 2 -
+/%2fserver.log 2 -
+/%2fconfig.old 2 -
+/%2fsessions%2f.env 2 -
+/%2f.git%2f 2 -
+/stripe.env 1 -
+/%2fsecrets%2fconfig.json 2 -
+/%2fserver%2fsrc%2fpersistence%2f.env 2 -
+/%2fChai%2f.env 2 -
+/%2fadmin%2f 2 -
+/%2fFinal_Project%2fAirflow_Dag%2f.env 2 -
+/%2fphpmyadmin.php 2 -
+/%2fmanifest.json 2 -
+/%2fphpsysinfo.php 2 -
+/%2f_next%2fstatic%2fchunks%2fapp%2fglobal-error.js 2 -
+/%2fdocker%2fdatabase%2f.env 2 -
+/%2fapi%2fenv 2 -
+/%2fcommunity%2f.env 2 -
+/%2fapp%2fetc%2fenv.php 2 -
+/%2fblogs%2f.env 2 -
+/%2fcontainers%2f.env 2 -
+/%2fSpotiApps%2f.env 2 -
+/%2fsecrets%2fsendgrid.json 2 -
+/%22assets/js/aos.js 2 https://ugi.net.in.idealgroups.org/%22assets/js/aos.js%22
+/%2fwebpack-stats.json 2 -
+/%2frobots.txt 2 -
+/%2ftest_info3.php 2 -
+/%2f.env.travis 2 -
+/%2findex-dev.php 2 -
+/manage/* 1 -
+/%2facme-challenge%2f.env 2 -
+/%2fzmusic-frontend%2f.env 2 -
+/config/stripe.json 1 -
+/_next/static/* 1 -
+/%2fphpinfo1.php 2 -
+/%2fexample02-golang-package%2fimport-underscore%2f.env 2 -
+/%2fservices%2fjaeger%2f.env 2 -
+/%2fconfig.php 2 -
+/%2fcodenames-frontend%2f.env 2 -
+/%2fkey.pem 2 -
+/%2ffront%2fsrc%2f.env 2 -
+/.git/refs/remotes/origin/HEAD 1 -
+/%2fphpinfomolten.php 2 -
+/%2fbuild%2f 2 -
+/%2finternal-api%2f 2 -
+/%2ftest5.php 2 -
+/%2fenv.ts 2 -
+/%2ftest%2f.env 2 -
+/%2fphpsysinfo%2finfo.php 2 -
+/projects/* 1 -
+/%2f.env.credentials 2 -
+/%2fpostfixadmin%2f.env 2 -
+/%2flayout%2f.env 2 -
+/%2fhotpot-app-frontend%2f.env 2 -
+/%2fdb_backup.sql 2 -
+/%2fcron%2f.env 2 -
+/%2fconfig.yaml 2 -
+/%2fapp%2f.env.sample 2 -
+/%2fenv.prod.js 2 -
+/%2f_next%2fstatic%2fchunks%2fframework-[hash].js 2 -
+/%2fflask_test_uploads%2f.env 2 -
+/%2froutes%2f.env 2 -
+/%2fbitcoind%2f.env 2 -
+/s3.yml 1 -
+/%2fservices%2fadminer%2f.env 2 -
+/$(pwd)/vercel.json 1 -
+/%2fwp-content%2fdebug.log 2 -
+/_layouts/15/* 1 -
+/%2fbackup.sql 2 -
+/stripe-credentials.json 1 -
+/%2ficons%2f.env 2 -
+/terraform/terraform.tfvars.json 1 -
+/%2fconfig%2fconfig.php 2 -
+/%2fapi%2fsavefile 2 -
+/%2fresources%2fdocker%2frediscommander%2f.env 2 -
+/%2f.rbenv-gemsets 2 -
+/%2fspearmint%2f.env 2 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 17 -
+/%22assets/js/main.js 2 https://ugi.net.in.idealgroups.org/%22assets/js/main.js%22
+/%2fphpsysinfo 2 -
+/%2fservices%2fdeployment-agent%2f.env 2 -
+/%2flocal%2f.env 2 -
+/%2fwww-data%2f.env 2 -
+/%2fmongodb%2fconfig%2fdev%2f.env 2 -
+/posts/* 1 -
+/%2flara%2finfo.php 2 -
+/%2ftest_info.php 2 -
+/%2fnext%2f.env 2 -
+/%2fcomposer.json 2 -
+/plans 2 -
+/%2f07-accessing-data%2fend%2fvue-heroes%2f.env 2 -
+/%2ftools%2f.env 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 25
+128.199.182.55 3 3 27724 20260309143157
+139.59.132.8 3 3 27724 20260316102944
+35.90.36.49 3 3 18765 20260328103134
+142.93.143.8 3 3 27724 20260323062058
+54.215.252.136 3 3 18765 20260309023801
+146.190.242.161 3 3 27724 20260302134306
+44.243.143.191 3 3 18765 20260328103938
+54.89.176.74 3 3 18765 20260310224610
+159.223.132.86 3 3 27724 20260330053416
+146.190.63.248 2 2 6574 20260310030642
+157.245.36.108 2 2 6574 20260309211908
+185.177.72.50 2 2 488 20260328141844
+206.81.12.187 2 2 6574 20260302165810
+206.189.233.36 2 2 6574 20260327162623
+146.190.63.48 2 2 6574 20260330200703
+143.110.217.244 2 2 6574 20260316200113
+165.227.84.14 2 2 6574 20260327162624
+146.190.103.103 2 2 6574 20260316141837
+159.89.12.166 2 2 6574 20260323154751
+164.90.228.79 2 2 6574 20260303044030
+139.59.143.102 2 2 6574 20260330184857
+167.71.81.114 2 2 6574 20260323193035
+85.11.167.19 2 2 12510 20260328105514
+69.165.67.174 1 1 347 20260312075848
+51.38.104.193 0 1 22601 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20260302 5 5 34298 2
+20260303 2 2 6574 1
+20260309 8 8 53063 3
+20260310 5 5 25339 2
+20260312 1 1 347 1
+20260316 7 7 40872 3
+20260323 7 7 40872 3
+20260327 5 6 35993 3
+20260328 9 9 50284 4
+20260330 7 7 40872 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 20
+30s-2mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 53 305078 22 22
+/sitemap.xml 2 488 2 2
+/index.php 1 347 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 4
+100-500 3428
+44-100 64
+5K+ 1063
+0-44 170
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

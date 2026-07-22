@@ -1,0 +1,917 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202508 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2056                
+POS_TIME 2734                
+POS_VISITOR 21087               
+POS_DAY 22898               
+POS_DOMAIN 3442                
+POS_LOGIN 3830                
+POS_ROBOT 3985                
+POS_WORMS 4214                
+POS_EMAILSENDER 4345                
+POS_EMAILRECEIVER 4488                
+POS_SESSION 23435               
+POS_FILESIZE 24001               
+POS_SIDER 23613               
+POS_FILETYPES 4623                
+POS_DOWNLOADS 4761                
+POS_OS 4849                
+POS_BROWSER 5074                
+POS_SCREENSIZE 5616                
+POS_UNKNOWNREFERER 5690                
+POS_UNKNOWNREFERERBROWSER 6298                
+POS_ORIGIN 6574                
+POS_SEREFERRALS 6706                
+POS_PAGEREFS 6869                
+POS_SEARCHWORDS 7017                
+POS_KEYWORDS 7169                
+POS_MISC 2398                
+POS_ERRORS 7228                
+POS_CLUSTER 3686                
+POS_SIDER_404 7418                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250901052624 15 3629 13253719169108
+FirstTime 20250801050435
+LastTime 20250831184617
+LastUpdate 20250901184723 15 0 14 0 0
+TotalVisits 54                  
+TotalUnique 45                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 45                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 4 4 904
+1 1 1 3316 3 4 5308
+2 0 0 0 3 3 405119
+3 4 5 73788743 349 359 285740
+4 2 2 2095 4 4 1389910
+5 4 4 4197 1605 1608 713450
+6 3 3 5417 1 4 2511
+7 4 4 4183 473 473 1120357
+8 0 0 0 17 17 3034842
+9 0 0 0 1 2 6686
+10 1 1 1050 49 49 868909
+11 2 2 2100 6 6 10164
+12 12 14 147592314 251 318 488189
+13 2 2 1041 64 67 109170
+14 2 2 2082 2 4 2880
+15 7 7 20891 63 73 127742
+16 10 10 5973 58 61 467931
+17 18 22 295165676 816 1004 1650722
+18 2 2 6616 31 32 20158
+19 4 4 6447 96 96 204736
+20 2 2 2097 1 3 5082
+21 3 3 5409 54 55 513979
+22 2 2 2114 38 38 445516
+23 1 1 1040 19 19 8612
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+ru 30 37 516531249
+us 25 25 46164
+nl 6 6 6270
+gb 5 5 7498
+ca 4 4 8730
+in 4 4 2231
+fr 3 3 7667
+cn 2 2 4351
+au 2 2 2096
+ua 1 1 1048
+bg 1 1 1053
+fi 1 1 1049
+za 1 1 3308
+zz 1 1 87
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 8 26504 20250830174214 0
+checker 7 7353 20250824164218 0
+curl 2 0 20250822030756 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+html 65 107707 0 0
+log 7 516497408 0 0
+Unknown 20 13528 0 0
+md 1 4158 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/storage/logs/laravel.log 7 0 516497408
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+linux 9 9
+macosx15 7 7
+ios_iphone 1 1
+Unknown 16 16
+androidnougat 4 4
+win10 50 43
+macosx 1 1
+win7 2 2
+linuxdebian 1 1
+androidmarshmallow 1 1
+androidkitkat 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 25
+chrome30.0.0.0 1 1
+chrome52.0.1997.98 1 1
+netscape5.0 1 1
+firefox122.0 6 6
+chrome104.0.0.0 1 1
+chrome120.0.0.0 1 1
+chrome132.0.0.0 2 2
+Unknown 5 5
+chrome84.0.4147.105 1 1
+chrome60.0.3112.107 4 4
+chrome71.0.2623.112 1 1
+firefox139.0 4 4
+safari 1 1
+opera107.0.0.0 1 1
+chrome88.0.4240.193 3 3
+chrome91.0.4472.124 35 28
+chrome63.0.3239.132 1 1
+chrome139.0.0.0 2 2
+chrome135.0.0.0 1 1
+mozilla 10 10
+chrome80.0.3987.149 2 2
+chrome4.0.237.0 1 1
+safari17.3 1 1
+safari17.4 1 1
+chrome95.0.4638.69 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250827072224
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250821064034
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250830060752
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20250821162724
+Mozilla/5.0_zgrab/0.x 20250824225010
+Cpanel-HTTP-Client/1.0 20250821162718
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Cpanel-HTTP-Client/1.0 20250821162718
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250830060752
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 81 88
+From1 3 3
+From2 1 1
+From3 0 0
+From4 1 1
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+405 2 812542
+302 5 1432
+404 1216 3157023
+500 11 7411985
+406 515 115486
+409 1736 144088
+403 17 8771
+301 775 203433
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 533
+/static/js/main.141b0494.js 1 -
+/.env.dist 1 -
+/config/development.js 1 -
+/var/log/secure 1 -
+/config/docker-compose.prod.yml 1 -
+/config/settings.py 1 -
+/demo 3 www.google.com
+/env.py 1 -
+/.aws.env 2 -
+/roles 1 -
+/development.py 1 -
+/config/policies.js 1 -
+/WORDPRESS 3 www.google.com
+/config/prod_config.py 1 -
+/service/email_service.py 6 -
+/config/secrets.py 1 -
+/src/config/config.json 1 -
+/cloud/Scraper.js 6 -
+/new 5 -
+/username 3 www.google.com
+/src/settings.json 1 -
+/config/dev_config.py 1 -
+/admin/test 1 -
+/static/js/2.ca066a4b.chunk.js 6 -
+/server/config.js 1 -
+/.vscode/settings.json 2 -
+/config.json 8 -
+/config/config.go 1 -
+/config/rolebinding.yaml 1 -
+/config/compose-file 1 -
+/configs/application.ini 1 -
+/config/deploy.js 1 -
+/.saml2aws 1 -
+/.circleci/config.yml 1 -
+/scripts/aws.env 1 -
+/app/etc/config/core.xml 1 -
+/2020 3 www.google.com
+/gatsby-browser.js 1 -
+/secrets.yml 1 -
+/src/main/resources/bootstrap.properties 1 -
+/aws.yml 6 -
+/config/config.json 8 -
+/.env.sample 1 -
+/src/main/resources/application-context.xml 1 -
+/config/dev/aws.yml 1 -
+/wordpress/wp-admin/setup-config.php 1 -
+/public/plugins/ckeditor/images/spacer.gif 2 http://www.digicard.idealgroups.org/public/plugins/ckeditor/images/spacer.gif
+/config/environment.json 1 -
+/public/client/planinfo 1 -
+/config/aws-credentials.yml 1 -
+/filemanager/dialog.php 1 -
+/api/config.js 6 -
+/conf/messages 1 -
+/config/configuration.js 1 -
+/.env.dev 4 -
+/var/log/cloud-init.log 1 -
+/config/credentials.yml.enc 1 -
+/moddofuns.php 1 www.google.com
+/.env_1 3 -
+/next.config.js 1 -
+/administrator/index.php 1 -
+/conf/play.plugins 1 -
+/config/initializers/session_store.rb 1 -
+/config/session.js 1 -
+/BACKUP 3 www.google.com
+/.DS_Store 1 -
+/public/env.js 1 -
+/src/config.js 1 -
+/config/kubeconfig.yaml 1 -
+/config.py 2 -
+/env.json 1 -
+/conf/application-prod.conf 1 -
+/config/prod.json 1 -
+/src/config/settings.ts 1 -
+/wp-config 5 -
+/config.yml 3 -
+/.travis.yml 7 -
+/config/settings.ini 1 -
+/.env.local 9 -
+/.git/HEAD 25 -
+/my_env/chakaash.py 6 -
+/conf/application.yaml 1 -
+/config/local.js 1 -
+/server/settings.js 1 -
+/conf/routes 1 -
+/terraform.tfvars 2 -
+/.ssh/sftp-config.json 1 -
+/config/settings/local.py 1 -
+/config/storage.yml 6 -
+/mytest/astech_robot.js 6 -
+/config/models.js 1 -
+/123 3 www.google.com
+/backend.tf 1 -
+/logs/debug.log 1 -
+/api/config.env 6 -
+/controller/api/post.js 6 -
+/config/database.py 1 -
+/config/aws.json 3 -
+/config/docker-compose.override.yml 1 -
+/.env.travis 1 -
+/config/database.yml 1 -
+/symfony/_profiler/phpinfo 1 -
+/.awsconfig 1 -
+/.env.config 1 -
+/portal/administrator 3 -
+/src/main.js 1 -
+/manifest.json 1 -
+/app-ads.txt 2 -
+/sandbox 3 www.google.com
+/config/.env.local 1 -
+/admin 3 -
+/config/settings.js 1 -
+/site 3 www.google.com
+/config.ini 1 -
+/config/settings.json 7 -
+/configs/routes.js 6 -
+/config/services.yaml 1 -
+/old1 3 www.google.com
+/configs/routes-4aug.js 6 -
+/administrator 3 -
+/tsconfig.app.json 1 -
+//idealgroups.org/digicard/public/js/coreui.bundle.min.js 2 -
+/config/prod.env.js 1 -
+/Properties/launchSettings.json 1 -
+/config/aws.yml 7 -
+/.env.prod.local 1 -
+/config/application-prod.properties 1 -
+/application.properties 5 -
+/backup.zip 1 -
+/config/packages/doctrine.yaml 1 -
+/config/urls.py 1 -
+/home/user/.aws/credentials 1 -
+/resources/application.conf 1 -
+/config/packages/dev.yaml 1 -
+/karma.conf.js 1 -
+/app/settings.py 1 -
+/.env.bak%20 2 -
+/node/.env_example 6 -
+/config/settings.local 6 -
+/docker-compose.yml 2 -
+/config/views.js 1 -
+/wp-includes/js/jquery/jquery.js 3 -
+/config/dev_settings.py 1 -
+/admin/uploads/bn_1_1754420677.phtml 3 -
+/gatsby-config.js 5 -
+/.env.production 4 -
+/config/keys.js 1 -
+/warm.PhP7 3 -
+/api/config/config.yml 6 -
+/user/config/config.js 6 -
+/.env.development.local 1 -
+/prevlaravel/sftp-config.json 1 -
+/appsettings.QA.json 1 -
+/config/parameters.yml 6 -
+/backend/config/settings.yml 6 -
+/.dockerignore 1 -
+/.env.dev.local 1 -
+/config/test_config.py 1 -
+/appsettings.Staging.json 1 -
+/info 1 -
+/deploy/aws_credentials 1 -
+/environments/dev 1 -
+/Old 6 www.google.com
+/config/config.ini 1 -
+/config/config.env 2 -
+/settings.py 6 -
+/conf/test.conf 1 -
+/src/main/resources/log4j2.xml 1 -
+/private/env.json 1 -
+/config/dev.env.js 1 -
+/environment.ts 1 -
+/.kube/config 1 -
+/conf/application.properties 1 -
+/secrets/jenkins.util.Secret 1 -
+/web.Debug.config 1 -
+/.env.stage 8 -
+/config/routes.yaml 1 -
+/.env.docker.dev 1 -
+/new/.env.local 6 -
+/.env.docker 1 -
+/backup-core 3 www.google.com
+/config/constants.js 5 -
+/index.js 6 -
+/config/settings/__init__.py 1 -
+/config/packages/prod.yaml 1 -
+/instance/config.py 1 -
+/.circleci/configs/development.yml 6 -
+/nodes 1 -
+/config/bootstrap.js 1 -
+/app/etc/settings.xml 1 -
+/src/settings.js 1 -
+/.env-example 1 -
+/jenkins/secrets/hudson.util.Secret 1 -
+/new/.env.production 6 -
+/jenkins/secrets/master.key 1 -
+/doiconvs.php 1 www.google.com
+/site/administrator 3 -
+/src/environments/environment.test.ts 1 -
+/server.js 5 -
+/config/settings.prod 6 -
+/config.properties 1 -
+/.idea/workspace.xml 1 -
+/scripts/.aws_credentials 1 -
+/hosting.json 1 -
+/config/application-test.properties 1 -
+/sellers.json 2 -
+/xmlrpc.php 3 -
+/config/environments/production.rb 1 -
+/app.js 5 -
+/partner/config/config.js 6 -
+/karma.conf.json 6 -
+/nuget.config 1 -
+/jenkins/config.xml 1 -
+/config/production.py 1 -
+/Backup 3 www.google.com
+/~/.aws-vault/keys 1 -
+/.envrc 1 -
+/joomla/administrator 3 -
+/static/.gitlab-ci.yml 1 -
+/web/administrator 3 -
+/user/controllers/index.js 6 -
+/config/test.json 1 -
+/src/setupTests.js 1 -
+/config/parameters.local.yml 1 -
+/docker-compose.dev.yml 2 -
+/var/log/awslogs.log 1 -
+/.local 1 -
+/config/initializers/secret_token.rb 1 -
+/src/setupProxy.js 1 -
+/.envs 1 -
+/bk 3 www.google.com
+/gatsby-ssr.js 1 -
+/appsettings.Test.json 1 -
+/backend/config/default.yml 6 -
+/config/local.json 1 -
+/terraform.tfstate 2 -
+/config/test.env.js 1 -
+/config/puma.rb 1 -
+/launchSettings.json 1 -
+/config/secrets.yml 2 -
+/credentials.json 1 -
+/backup 3 www.google.com
+/old 5 -
+/.env.www 3 -
+/docker-compose.prod.yml 1 -
+/.env.project 1 -
+/protractor.conf.js 1 -
+/bundleconfig.json 1 -
+/api/shared/config/config.env 6 -
+/*.tfvars 1 -
+/~/.aws-mfa/credentials 1 -
+/apis/controllers/users.js 6 -
+/config/production.json 1 -
+/ansible.cfg 1 -
+/secrets/.aws-credentials 1 -
+/.env.development.sample 1 -
+/outputs.tf 1 -
+/config/deployment.yaml 1 -
+/src/constants.js 1 -
+/config/routes/dev/twig.yaml 1 -
+/configs/s3_config.json 6 -
+/config.js 6 -
+/bkp2 3 www.google.com
+/randkeyword.PhP7 2 -
+/config/default.json 1 -
+/worm.PhP 2 -
+/~/.aws/credentials-backup 1 -
+/sftp-config.json 1 -
+/roles/web/tasks/main.yml 1 -
+/admin/controllers/partner.js 6 -
+/variables.tf 1 -
+/config/pod.yaml 1 -
+/roles/db/tasks/main.yml 1 -
+/helper/EmailHelper.js 6 -
+/config/.env.production 1 -
+/config/environments/test.rb 1 -
+/swagger.js 6 -
+/src/environments/environment.staging.ts 1 -
+/config/routes.rb 1 -
+/config/ingress.yaml 1 -
+/config/secrets.json 3 -
+/conf/development.conf 1 -
+/.well-known/security.txt 3 -
+/pipeline/config.xml 1 -
+/.env.save 1 -
+/phpinfo 10 -
+/config/packages/test.yaml 1 -
+/.profile 1 -
+/ci/env 1 -
+/main.js 6 -
+/config/packages/twig.yaml 1 -
+/sms.py 6 -
+/config/packages/prod/doctrine.yaml 1 -
+/config/development.json 1 -
+/config/packages/cache.yaml 1 -
+/config.yaml 3 -
+/_all_dbs 1 -
+/group_vars/all 1 -
+/.git/config 3 -
+/tsconfig.json 1 -
+/src/main/resources/application.yml 1 -
+/s3.js 6 -
+/conf/logback.xml 1 -
+/swagger.json 6 -
+/server/environment.js 1 -
+/config.env 6 -
+/app.py 6 -
+/environments/prod 1 -
+/src/config/env.js 1 -
+/.AWS_/credentials 6 -
+/cookbooks 1 -
+/admin/config 7 -
+/src/main/resources/application-prod.yml 1 -
+/storage/logs/error.log 1 -
+/secrets/initialAdminPassword 1 -
+/admin/.env 9 -
+/environments 1 -
+/old_core 3 www.google.com
+/conf/application-test.conf 1 -
+/aws-secret.yaml 6 -
+/config/environment.js 1 -
+/blog 5 -
+/config/development.py 1 -
+/cms/administrator 3 -
+/src/main/resources/appsettings.yml 1 -
+/media/system/js/core.js 3 -
+/src/main/resources/application-dev.yml 1 -
+/api/shared/config.env 6 -
+/.aws/credentials 15 -
+/config/dev.json 1 -
+/conf/production.conf 1 -
+/.aws_keys 1 -
+/appsettings.Local.json 1 -
+/newsite 5 -
+/src/environments/environment.ts 1 -
+/config/test_settings.py 1 -
+/config/settings/base.py 1 -
+/secrets.json 2 -
+/playbooks/web.yml 1 -
+/wp-admin/setup-config.php 1 -
+/server/config/database.js 6 -
+/.env.test 2 -
+/docker-compose.override.yml 2 -
+/blog.env 1 -
+/private/config.json 1 -
+/WP 3 www.google.com
+/app/code/core.xml 1 -
+/sftp.json 1 -
+/angular.json 1 -
+/config/packages/security.yaml 1 -
+/var/cache/aws 1 -
+/secrets/credentials.xml 1 -
+/config/service.yaml 1 -
+/.vault-token 1 -
+/config/index.js 1 -
+/new/.env.staging 6 -
+/main.tf 1 -
+/config/env/production.js 1 -
+/ecosystem.config.js 1 -
+/vue.config.js 1 -
+/conf/application.conf 1 -
+/react-app/.env.production 1 -
+/config/production.js 1 -
+/pipeline/jobs/config.xml 1 -
+/appsettings.Development.json 1 -
+/config/asgi.py 1 -
+/administrator/index2.php 1 -
+/.envs/.production/.django 1 -
+/src/config/app.config.ts 1 -
+/main.yml 6 -
+/var/tmp/aws_session 1 -
+/device/device.js 1 -
+/config/cable.yml 1 -
+/config/daemon.json 1 -
+/static/js/main.e85f7a37.js 6 -
+/~/.aws-iam-authenticator/credentials 1 -
+/wp-admin/css 3 binance.com
+/.env.prod 8 -
+/config-overrides.js 1 -
+/settings.js 1 -
+/config/dockerfile 1 -
+/_profiler/phpinfo 5 -
+/.git-credentials 1 -
+/blogs 3 www.google.com
+/ALFA_DATA/alfacgiapi/perl.alfa 5 www.google.com
+/2019 3 www.google.com
+/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif 2 http://www.digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif
+/src/environments/environment.prod.ts 1 -
+/config/configmap.yaml 1 -
+/test 6 -
+/gists/cache 1 -
+/src/environments/environment.dev.ts 1 -
+/src/config/index.js 1 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/scripts/nodemailer.js 6 -
+/conf/application-dev.conf 1 -
+/bkp 3 www.google.com
+/config/connections.js 1 -
+/config/docker-compose.dev.yml 1 -
+/index.html 6 -
+/config/env.go 1 -
+/wp 5 -
+/src/main/resources/application-test.yml 1 -
+/src/main/resources/database.properties 1 -
+/js/main.js 6 -
+/host_vars/local 1 -
+/config/routes.js 1 -
+/helpers/utility.js 6 -
+/secrets/master.key 1 -
+/copy 3 www.google.com
+/.env.development 2 -
+/wordpress 5 -
+/appsettings.json 10 -
+/data_bags 1 -
+/products/.gitlab-ci.yml 1 -
+/src/main/resources/security.properties 1 -
+/opt/aws/credentials 1 -
+/inventory/hosts 1 -
+/config/staging.env.js 1 -
+/policies 1 -
+/config/aws-credentials.json 1 -
+/config/env.js 1 -
+/aws/credentials 7 -
+/controllers/settings.js 6 -
+/src/env.js 1 -
+/modules 1 -
+/api/users 1 -
+/config/namespace.yaml 1 -
+/shared/config/config.js 5 -
+/wp1 3 www.google.com
+/sendgrid.env 1 -
+/provider.tf 1 -
+/.remote 1 -
+/.aws-credentials 1 -
+/src/main/resources/logback-spring.xml 1 -
+/ads.txt 2 -
+/debug/default/view 6 -
+/secrets.env 1 -
+/WordPress 3 www.google.com
+/conf/dev-application.conf 1 -
+/gatsby-node.js 1 -
+/conf/prod-application.conf 1 -
+/config/db.js 1 -
+/.env-sample 1 -
+/tsconfig.spec.json 1 -
+/config/secrets.js 1 -
+/my_env/palash.py 6 -
+/core 2 -
+/config/prod_settings.py 1 -
+/.github/workflows 1 -
+/app/etc/config/local.xml 1 -
+/playbooks/site.yml 1 -
+/~/.aws-sso/cache 1 -
+/jobs/config.xml 1 -
+/config/email.py 1 -
+/gulpfile.js 1 -
+/cms 3 www.google.com
+/app/config.py 1 -
+/config/initializers/devise.rb 1 -
+/src/configuration.js 1 -
+/src/main/resources/bootstrap.yml 1 -
+/application-dev.properties 1 -
+/server/s3.js 6 -
+/config/environments/development.rb 1 -
+/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif 2 http://www.digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif
+/live_env 1 -
+/.docker/config.json 2 -
+/config/role.yaml 1 -
+/src/config/config.ts 1 -
+/config/packages/framework.yaml 1 -
+/.env_sample 9 -
+/src/config/configuration.js 1 -
+/tmp/.aws 1 -
+/config/packages/dev/twig.yaml 1 -
+/appsettings.Production.json 1 -
+/config/sockets.js 1 -
+/server/env.js 1 -
+/~/.awsvault 1 -
+/wp-includes/ID3 4 -
+/api/v1/users 3 -
+/controller/admin/post.js 6 -
+/meteor.settings.json 1 -
+/config/database.go 1 -
+/nuxt.config.js 1 -
+/config/env/development.js 1 -
+/config/env.json 1 -
+/../../../../../../.aws/credentials 4 -
+/backend/config/development.yml 6 -
+/app/config/parameters.yml 6 -
+/admin/controllers/merchant.js 6 -
+/robots.txt 2 -
+/wordpress/wp-admin/includes 3 -
+/local_settings.py 1 -
+/js/config.js 1 -
+/src/config/settings.js 1 -
+/*.tfvars.json 1 -
+/app/etc/local.xml 1 -
+/testing 2 -
+/config/local.yml 6 -
+/config/staging.json 1 -
+/client/config.js 1 -
+/.gitlab-ci.yml 1 -
+/oldwebsite 3 www.google.com
+/config/packages/test/security.yaml 1 -
+/.env.production.local 6 -
+/public/js/main.js 6 -
+/config/application.yml 6 -
+/conf/application.json 1 -
+/config/initializers/sidekiq.rb 1 -
+/config/application.rb 1 -
+/src/config/environment.json 1 -
+/playbooks/db.yml 1 -
+/.aws_secret 1 -
+/public/config.js 1 -
+/my_env/newsletter.py 6 -
+/tmp/aws_creds 1 -
+/wp-json/wp/v2/users 1 -
+/.aws/config 8 -
+/dev 3 www.google.com
+/.production 1 -
+/settings.json 1 -
+/up 3 www.google.com
+/config/secret.yaml 1 -
+/config/wsgi.py 1 -
+/config/env/test.js 1 -
+/config/test.py 1 -
+/old-site 3 www.google.com
+/backup.tar.gz 1 -
+/uploads/94056-upload.phtml 3 -
+/web.Release.config 1 -
+/old_files 3 www.google.com
+/roles/common/tasks/main.yml 1 -
+/debug.log 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 45
+185.177.72.115 14 17 221373862 20250826121032
+185.177.72.46 9 12 221365487 20250826171903
+145.220.91.19 6 6 6270 20250826101957
+155.117.20.192 6 6 19848 20250819154238
+157.173.193.153 3 3 3138 20250820125830
+35.188.238.197 3 3 9924 20250831152140
+192.64.113.146 2 2 1041 20250819132331
+135.235.193.18 2 2 6616 20250831184617
+115.231.78.12 2 2 4351 20250826151125
+185.177.72.201 2 3 73786640 20250826033917
+45.148.10.80 2 2 2103 20250827035901
+119.18.54.35 2 2 128 20250821162718
+47.82.11.192 1 1 1049 20250814203038
+142.93.240.172 1 1 1049 20250827071326
+185.247.137.218 1 1 1042 20250815073436
+209.97.188.47 1 1 1052 20250813213701
+93.123.109.225 1 1 1053 20250824054606
+98.82.14.93 1 1 1044 20250831044859
+18.218.182.34 1 1 87 20250821162724
+185.177.72.35 1 1 1069 20250825225546
+18.224.192.118 1 1 1045 20250824225010
+134.122.28.157 1 1 1042 20250823160008
+81.29.134.51 1 1 1049 20250828211148
+196.251.86.107 1 1 3308 20250810192010
+35.91.165.158 1 1 87 20250821162724
+51.159.103.13 1 1 1052 20250821164814
+95.216.175.32 1 1 1048 20250824205016
+159.65.36.208 1 1 1041 20250809075529
+13.61.11.68 1 1 87 20250821162724
+139.59.86.241 1 1 1045 20250825120049
+205.210.31.196 1 1 3316 20250812173803
+13.214.210.176 1 1 87 20250821162723
+192.159.99.100 1 1 3308 20250816214337
+199.45.154.123 1 1 1051 20250821064034
+147.185.132.189 1 1 3316 20250830060752
+185.177.72.55 1 1 1049 20250822055808
+139.59.74.127 1 1 1051 20250823114455
+167.94.138.193 1 1 1055 20250821054329
+62.210.90.186 1 1 1051 20250822030805
+23.178.112.108 1 1 87 20250821162723
+185.177.72.204 1 1 1049 20250813111456
+167.94.138.201 1 1 1041 20250811142204
+206.189.233.36 1 1 3316 20250821162747
+205.210.31.168 1 1 3316 20250826012113
+185.247.137.107 1 1 1051 20250827072224
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20250801 1 1 1040 1
+20250802 1 1 1050 1
+20250809 1 1 1041 1
+20250810 1 1 3308 1
+20250811 1 1 1041 1
+20250812 1 1 3316 1
+20250813 2 2 2101 2
+20250814 2 2 2100 2
+20250815 1 1 1042 1
+20250816 1 1 3308 1
+20250818 1 1 1040 1
+20250819 11 11 24028 5
+20250820 1 1 1048 1
+20250821 11 11 7037 10
+20250822 10 11 73798973 3
+20250823 2 2 2093 2
+20250824 3 3 3146 3
+20250825 3 3 3155 3
+20250826 21 27 442737833 6
+20250827 3 3 3152 3
+20250828 1 1 1049 1
+20250830 1 1 3316 1
+20250831 6 6 17584 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 3
+5mn-15mn 1
+2mn-5mn 1
+0s-30s 49
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 65 107707 43 44
+/.env.example 8 8552 2 1
+/.well-known/acme-challenge/c8o8e-gNUQBJKd_sfhu-H7ycxwyTQgjLLbGb7fB2PlM 5 435 5 5
+/login 4 4186 2 2
+/.well-known/acme-challenge/UCJAWUWIX3ZVZ_KLT9-IQYCYWZLXQ-F7 1 64 1 0
+/.gitignore 1 227 0 1
+/README.md 1 4158 1 0
+/.well-known/acme-challenge/P_9QTYIU5ER2F-2UWEAE73LJV50TEQGF 1 64 0 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+2K-5K 1203
+44-100 1743
+5K+ 69
+1K-2K 65
+0-44 7
+500-1K 12
+100-500 1297
+END_FILESIZE

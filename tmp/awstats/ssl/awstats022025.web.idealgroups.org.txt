@@ -1,0 +1,768 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202502 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.web.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2055                
+POS_TIME 2726                
+POS_VISITOR 16100               
+POS_DAY 17390               
+POS_DOMAIN 3403                
+POS_LOGIN 3730                
+POS_ROBOT 3885                
+POS_WORMS 5212                
+POS_EMAILSENDER 5343                
+POS_EMAILRECEIVER 5486                
+POS_SESSION 17801               
+POS_FILESIZE 21524               
+POS_SIDER 17980               
+POS_FILETYPES 5621                
+POS_DOWNLOADS 5817                
+POS_OS 5926                
+POS_BROWSER 6851                
+POS_SCREENSIZE 13015               
+POS_UNKNOWNREFERER 13089               
+POS_UNKNOWNREFERERBROWSER 14735               
+POS_ORIGIN 15026               
+POS_SEREFERRALS 15160               
+POS_PAGEREFS 15304               
+POS_SEARCHWORDS 15452               
+POS_KEYWORDS 15604               
+POS_MISC 2390                
+POS_ERRORS 15663               
+POS_CLUSTER 3586                
+POS_SIDER_404 15791               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250301114107 1 0 8668268341053
+FirstTime 20250201070058
+LastTime 20250225180803
+LastUpdate 20250301184753 1 0 0 0 0
+TotalVisits 34                  
+TotalUnique 30                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 31                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 5 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 52188 1 2 1588
+1 2 14 61716 4 7 15915
+2 0 0 0 3 4 12014
+3 0 0 0 2 3 11220
+4 0 0 0 40 42 37398
+5 3 31 53417 2 7 5558
+6 38 132 174610 83 97 44494
+7 1 2 11189 9 10 16778
+8 1 1 10395 3 3 2382
+9 1 2 11189 154 155 50116
+10 0 0 0 4 4 44175
+11 4 4 41580 4 5 3970
+12 0 0 0 4 5 12808
+13 2 2 11189 4 4 3176
+14 2 60 47640 133 140 56884
+15 28 162 138229 77 96 45896
+16 4 4 94775 20 20 70317
+17 0 0 0 1 1 794
+18 2 4 22378 2 2 1588
+19 0 25 19850 3 6 14365
+20 1 1 10395 3 6 13602
+21 2 28 41434 2 4 3176
+22 2 131 123216 3 26 20076
+23 31 167 151800 76 102 91403
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+md 86 425 366253
+us 18 151 358103
+ru 9 9 16747
+cn 4 4 41580
+gb 3 56 73267
+in 3 124 127259
+de 2 2 83586
+ch 1 1 10395
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 33
+Go\-http\-client/ 100 103446 20250220044022 0
+(firefox/)([0-9]\.|[0-1][0]\.) 25 29451 20250224153301 0
+bot[\s_+:,\.\;\/\\-] 20 60070 20250226095532 5
+Konqueror/ 10 17541 20250224153332 0
+link 9 7146 20250224152841 0
+BW/ 4 12014 20250203204512 1
+ELinks/ 2 1588 20250223064235 0
+ELinks[\x20]\( 2 1588 20250221232256 0
+Firefox/1\.5 2 1588 20250222142816 0
+no_user_agent 2 83586 20250219162836 0
+php 2 1588 20250224153230 0
+bingbot/ 2 1588 20250224152943 0
+Googlebot\-Image/ 2 1588 20250221232331 0
+Wget/ 1 794 20250221232154 0
+FirePHP/ 1 794 20250224152943 0
+validator 1 794 20250224153332 0
+facebookexternalhit/ 1 794 20250221232213 0
+Links[\x20]\( 1 794 20250221223302 0
+YandexBot/ 1 794 20250223064201 0
+CFNetwork 1 794 20250221223339 0
+curl 1 41793 20250222234828 0
+scrapy 1 10395 20250228010541 0
+W3C_Validator/ 1 794 20250221232152 0
+Exabot/ 1 794 20250221232129 0
+msnbot/ 1 794 20250212013353 0
+Googlebot/ 1 794 20250221223509 0
+yandex 1 794 20250222142602 0
+Googlebot\-Mobile/ 1 794 20250221223543 0
+FAST\-WebCrawler/ 1 794 20250224153138 0
+Googlebot\-Video/ 1 794 20250221232114 0
+TurnitinBot 1 794 20250224153008 0
+Mediapartners-Google 1 794 20250223064201 0
+java 1 794 20250224153038 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+txt 4 3176 0 0
+prod 1 794 0 0
+save 1 794 0 0
+php 3 2382 0 0
+Unknown 88 69872 0 0
+js 642 509748 0 0
+html 32 489630 0 0
+env 1 794 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/ads.txt 5 0 3970
+/backup.tar.gz 1 0 794
+/backup.zip 1 0 794
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 62
+win7 64 9
+macosx10 13 1
+winxp 5 2
+symbian 12 1
+win8 9 2
+macosx14 37 8
+winphone 5 2
+androidics 2 0
+palmos 2 1
+android12 8 0
+winme 1 0
+win16 2 0
+win10 86 11
+Unknown 31 13
+winunknown 5 0
+macosx 4 1
+macosx11 5 0
+win8.1 10 2
+macosx5 2 0
+androidcupcake 4 0
+bsdfreebsd 7 0
+androidjellybean 4 0
+androidoreo 41 4
+androiddonut 2 0
+androidlollipop 13 3
+macosx8 3 1
+j2me 4 3
+unix 5 2
+macosx4 1 0
+androidmarshmallow 11 2
+win2003 1 0
+macosx9 5 1
+win98 1 0
+linux 91 18
+beos 1 0
+linuxdebian 4 1
+winlong 9 1
+sunos 1 0
+linuxubuntu 16 2
+ios_ipad 6 0
+linuxgentoo 1 0
+macosx15 9 1
+macosx7 11 1
+androidfroyo 3 0
+bsdopenbsd 1 0
+android10 7 4
+androidpie 80 11
+androidnougat 23 2
+linuxcentos 2 0
+blackberry 3 0
+android 3 1
+wince 3 1
+android11 2 0
+os/2 3 0
+androidhoneycomb 2 0
+macosx6 12 1
+androidkitkat 8 0
+bsdnetbsd 1 1
+androideclair 5 0
+ios_iphone 27 3
+macosx12 11 4
+macosx13 22 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 305
+Unknown 5 0
+chrome15.0.874.120 2 0
+safari15.1 1 0
+msie11.0 3 1
+chrome72.0.3626.96 3 0
+firefox57.0 1 0
+firefox40.0 6 1
+chrome98.0.4758.80 1 0
+chrome61.0.3163.79 4 0
+chrome62.0.3202.94 2 0
+netscape5.0 1 1
+chrome30.0.1599.103 1 0
+chrome110.0.0.0 1 1
+chrome10.0.601.0 1 0
+chrome101.0.4951.41 8 0
+chrome92.0.4515.107 2 0
+mozilla 25 11
+chrome76.0.3809.132 1 1
+safari11.1.2 1 0
+chrome77.0.3865.42 1 0
+chrome51.0.2704.81 2 0
+safari6.0 1 0
+chrome73.0.3683.75 4 2
+safari12.2.1.0.4 1 0
+opera31.0.1889.174 1 0
+opera9.80 2 2
+opera60.0.3255.170 1 0
+chrome76.0.3798.0 2 0
+chrome78.0.3904.62 4 4
+chrome69.0.3497.100 5 0
+chrome4.0.277.0 1 0
+msie5.5 1 0
+itunes 2 0
+chrome38.0.2125.102 2 1
+chrome64.0.3282.39 1 0
+galeon 1 0
+safari10.1.2 2 1
+chrome41.0.2227.1 1 0
+opera60.0.3255.83 2 1
+chrome56.0.2924.87 1 0
+chrome65.0.3325.230 1 0
+chrome99.0.4844.74 1 0
+safari12.1.2 2 0
+opera9.0 1 0
+chrome58.0.3029.110 1 0
+opera36.0.2130.46 1 0
+firefox24.0 2 1
+safari12.0.1 1 0
+msie9.0 4 1
+opera47.0.2631.55 1 0
+chrome32.0.1700.99 1 0
+safari6.0.2 1 0
+chrome52.0.2743.98 1 1
+minefield 2 0
+chrome78.0.3866.0 1 0
+chrome65.0.3325.181 5 1
+firefox20.0 9 0
+opera11.1010 1 0
+chrome74.0.3729.172 2 0
+opera60.0.3255.59 2 0
+chrome39.0.2166.2 1 0
+opera60.0.3255.109 2 0
+chrome76.0.3809.87 7 1
+chrome70.0.3538.25 2 0
+opera63.0.3368.35 2 0
+chrome78.0.3880.0 1 0
+chrome45.0.2454.84 4 2
+chrome69.0.3497.92 3 1
+chrome4.0.302.2 1 0
+chrome67.0.3396.79 1 0
+chrome66.0.3359.126 5 0
+chrome72.0.3626.119 1 0
+chrome76.0.3809.62 1 0
+opera28.0.1750.51 1 0
+safari15.5 1 0
+firefox55.0 1 0
+chrome71.0.3542.0 2 1
+chrome45.0.2454.93 1 0
+chrome11.0.696.65 2 0
+opera28.0.1750.40 1 0
+chrome75.0.3770.102 1 0
+chrome9.0.597.15 3 1
+opera40.0.2308.62 2 0
+chrome63.0.3239.26 1 0
+chrome74.0.3729.108 1 0
+safari3.1.1 1 0
+chrome76.0.3786.0 1 1
+chrome30.0.1599.114 3 1
+chrome26.0.1410.63 1 1
+safari 15 2
+chrome57.0.2987.108 6 0
+safari12.1.1 3 1
+firefox32.0 1 0
+chrome36.0.1944.0 1 0
+chrome14.0.835.94 1 0
+chrome78.0.3904.108 1 0
+chrome77.0.3865.19 3 0
+csscheck 1 0
+chrome101.0.0.0 2 0
+firefox11.0 1 0
+chrome123.0.0.0 2 2
+firefox29.0 1 0
+opera62.0.3331.116 2 1
+sonyericsson 6 1
+msie7.0 8 1
+firefox41.0 1 0
+chrome72.0.3626.121 4 2
+opera9.60 1 1
+safari12.0.2 2 1
+chrome72.0.3626.109 2 0
+chrome70.0.3538.80 1 1
+firefox49.0 2 0
+chrome64.0.3282.119 1 0
+opera60.0.3255.70 1 0
+chrome73.0.3683.103 6 1
+firefox31.0 1 0
+chrome28.0.1469.0 1 0
+chrome70.0.3538.102 3 0
+chrome102.0.0.0 1 0
+firefox12.0 1 0
+chrome68.0.3440.75 1 0
+nokia 7 1
+chrome74.0.3729.180 1 0
+chrome45.0.2454.101 1 0
+chrome64.0.3282.204 1 0
+firefox19.0 1 0
+chrome76.0.3809.80 3 1
+opera86.0.4363.59 1 0
+chrome131.0.0.0 1 1
+chrome78.0.3876.0 1 0
+chrome12.0.712.0 1 0
+chrome67.0.3396.87 11 1
+chrome75.0.3730.0 1 0
+chrome67.0.3396.99 2 0
+chrome36.0.1985.125 2 0
+edge17 1 0
+chrome70.0.3538.67 2 1
+omniweb 1 0
+chrome73.0.3683.86 6 0
+chrome27.0.1453.116 1 1
+chrome75.0.3770.145 5 1
+lg\- 1 0
+android 18 0
+chrome75.0.3770.80 7 3
+chrome67.0.3396.62 1 0
+firefox36.0 3 0
+chrome53.0.2785.90 2 0
+safari2.0.1 5 0
+chrome85.0.4183.102 1 0
+iceweasel 3 1
+chrome68.0.3440.84 2 0
+iphone 6 0
+chrome78.0.3880.5 1 0
+opera11.00 1 0
+firefox52.0 1 0
+chrome69.0.3497.128 2 0
+chrome73.0.3800.0 1 1
+chrome76.0.3803.0 1 0
+chrome101.0.4951.61 6 0
+chrome100.0.4896.75 2 1
+opera62.0.3331.99 1 0
+safari5.1.3 2 1
+chrome45.0.2454.94 2 0
+chrome79.0.3945.136 2 0
+chrome76.0.3804.0 1 1
+chrome36.0.1985.138 1 0
+chrome70.0.3538.110 1 0
+chrome76.0.3809.89 20 1
+safari11.0 2 0
+safari4.0.5 1 0
+chrome59.0.3071.125 2 0
+chrome16.0.912.36 1 0
+firefox25.0 2 0
+safari10.0 2 1
+chrome98.0.4758.119 1 0
+chrome74.0.3724.8 1 0
+chrome44.0.2403.130 2 0
+chrome74.0.3850.0 1 0
+opera14.0.1116.4 1 0
+chrome91.0.4472.77 1 0
+chrome77.0.3835.0 1 0
+chrome13.0.782.20 2 0
+firefox45.0 1 0
+chrome74.0.3729.136 2 0
+chrome60.0.3112.107 1 0
+safari13.0 2 0
+safari12.0 2 1
+chrome92.0.4515.166 2 0
+safari5.1 3 0
+chrome41.0.2272.105 2 0
+chrome71.0.3578.141 3 0
+chrome97.0.4692.71 1 0
+chrome68.0.3440.106 2 1
+chrome14.0.835.186 2 0
+safari5.1.7 2 0
+chrome71.0.3578.99 2 0
+chrome53.0.2785.21 1 0
+chrome77.0.3844.0 1 0
+msie5.01 1 1
+chrome55.0.2869.0 1 0
+opera10.61 1 0
+chrome14.0.825.0 1 0
+seamonkey 1 1
+chrome62.0.3202.84 1 0
+safari1.0 1 0
+chrome75.0.3770.101 2 1
+chrome77.0.3865.10 1 0
+chrome10.0.648.204 2 0
+chrome19.0.1063.0 1 0
+chrome99.0.4844.51 1 0
+chrome74.0.3729.169 6 1
+chrome72.0.3626.122 1 0
+opera11.52 1 0
+firefox16.0 3 1
+chrome58.0.3029.83 2 0
+opera8.60 1 0
+netscape4.0 1 0
+safari5.0.4 2 0
+blackberry 3 0
+chrome63.0.3239.108 6 1
+iceape 2 0
+chrome12.0.703.0 1 0
+chrome61.0.3163.100 1 0
+chrome18.6.872.0 3 1
+safari5.0.3 1 0
+opera20.0.1396.73172 1 0
+chrome76.0.3809.100 13 0
+chrome20.0.1092.0 1 0
+safari7.0 2 0
+chrome74.0.3729.158 1 0
+opera9.5 2 0
+netpositive 1 0
+opera9.51 1 0
+safari5.0.2 1 0
+chrome75.0.3770.142 12 1
+chrome68.0.3440.91 1 0
+opera8.01 1 0
+chrome77.0.3833.99 1 0
+chrome103.0.5042.0 2 0
+chrome71.0.3578.98 2 0
+arora 2 0
+chrome52.0.1997.98 1 1
+chrome91.0.4472.101 1 0
+chrome64.0.3282.186 1 0
+chrome72.0.3626.81 2 0
+opera48.1.2331.132804 1 0
+safari16.1 1 1
+chrome64.0.3282.140 1 1
+msie6.0 4 1
+chrome4.0.237.0 1 0
+chrome55.0.2883.87 3 0
+chrome74.0.3729.157 9 4
+chrome75.0.3770.100 4 1
+chrome81.0.4044.129 8 8
+chrome100.0.4896.127 3 0
+chrome69.0.3497.81 4 2
+chrome78.0.3880.4 1 1
+firefox38.0 3 1
+chrome76.0.3809.111 67 7
+firefox28.0 3 0
+safari12.1 2 0
+chrome51.0.2704.106 1 0
+chrome60.0.3112.78 2 1
+chrome20.0.1132.57 2 1
+opera12.16 1 1
+edge12 3 1
+chrome74.0.3729.131 5 1
+chrome73.0.3683.90 3 1
+chrome5.0.309.0 1 0
+chrome101.0.4951.26 1 0
+chrome54.0.2840.98 1 0
+chrome78.0.3879.0 2 0
+safari10.1 1 0
+chrome70.0.3538.77 1 0
+chrome76.0.3809.84 2 0
+safari7.0.6 2 1
+firebird 1 0
+chrome101.0.4951.54 3 0
+firefox47.0 1 0
+chrome73.0.3683.88 2 1
+chrome100.0.4896.60 1 0
+chrome75.0.3770.143 18 3
+chrome22.0.1229.56 1 1
+safari11.1 1 1
+safari12.0.3 1 1
+edge15 1 0
+chrome32.0.1667.0 1 0
+chrome78.0.3877.0 1 1
+opera11.01 1 0
+opera18.0.1284.49 1 0
+safari8.0 1 0
+msie10.6 1 0
+safari1.2.2 1 1
+chrome66.0.3359.181 2 0
+chrome64.0.3269.3 1 0
+safari7.0.3 1 0
+safari5.0 1 1
+chrome5.0.310.0 1 0
+safari15.4 1 0
+chrome71.0.3578.80 1 0
+chrome30.0.0.0 3 0
+wap 2 0
+multizilla 1 0
+safari4.0 3 0
+chrome98.0.4758.109 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 20
+LG-GC900/V10a_Obigo/WAP2.0_Profile/MIDP-2.1_Configuration/CLDC-1.1 20250214232144
+SonyEricssonW660i/R6AD_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20250211133123
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250212080315
+POLARIS/6.01_(BREW_3.1.5;_U;_en-us;_LG;_LX265;_POLARIS/6.01/WAP)_MMP/2.0_profile/MIDP-2.1_Configuration/CLDC-1.1 20250222142659
+Mozilla/2.0_(compatible;_Ask_Jeeves/Teoma) 20250222142659
+Roku/DVP-4.1_(024.01E01250A) 20250215051625
+Mozilla/5.0_(l9scan/2.0.5333e24353e28313e2931313;__https://leakix.net) 20250219162856
+Adobe_Application_Manager_2.0 20250221223339
+Mozilla/5.0_(webOS/1.3;_U;_en-US)_AppleWebKit/525.27.1_(KHTML,_like_Gecko)_Version/1.0_Safari/525.27.1_Desktop/1.0 20250224153104
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250218002327
+Mozilla/5.0_(compatible;_Dataprovider.com) 20250222000503
+Mozilla/5.0_(compatible) 20250225180805
+SonyEricssonK810i/R1KG_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20250221232257
+SonyEricssonW580i/R6BC_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20250221223418
+SonyEricssonK750i/R1CA_Browser/SEMC-Browser/4.2_Profile/MIDP-2.0_Configuration/CLDC-1.1 20250221223459
+Nokia7250/1.0_(3.14)_Profile/MIDP-1.0_Configuration/CLDC-1.0 20250224153104
+nook_browser/1.0 20250221232231
+Download_Demon/3.5.0.11 20250215051623
+CSSCheck/1.2.2 20250221232231
+POLARIS/6.01(BREW_3.1.5;U;en-us;LG;LX265;POLARIS/6.01/WAP;)MMP/2.0_profile/MIDP-201_Configuration_/CLDC-1.1 20250221223509
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Download_Demon/3.5.0.11 20250215051623
+nook_browser/1.0 20250221232231
+Microsoft_URL_Control_-_6.00.8862 20250212013355
+Adobe_Application_Manager_2.0 20250221223339
+Roku/DVP-4.1_(024.01E01250A) 20250215051625
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 126 772
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+301 314 97805
+403 4 1420
+406 167 37742
+400 59 46846
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 31
+176.123.7.98 58 263 228024 20250223064201
+176.123.8.148 28 162 138229 20250224152919
+195.178.110.164 8 8 6352 20250225142855
+206.189.2.13 2 2 42587 20250219162856
+82.197.68.199 2 55 62872 20250215051548
+89.244.95.157 2 2 83586 20250221062946
+124.223.193.19 2 2 20790 20250216113000
+124.220.171.34 2 2 20790 20250216221928
+185.92.210.247 1 1 10395 20250220111941
+45.148.10.35 1 59 56447 20250220051637
+161.35.235.208 1 1 794 20250209144307
+146.190.222.42 1 1 10395 20250220065356
+65.181.12.243 1 1 10395 20250209052854
+174.138.39.243 1 2 11189 20250201070058
+34.219.159.38 1 1 794 20250211133123
+199.45.155.94 1 1 10395 20250218002327
+167.94.146.48 1 1 10395 20250215201341
+54.163.13.201 1 1 10395 20250222112852
+149.56.160.217 1 1 41793 20250222000503
+24.144.94.161 1 1 10395 20250222063852
+64.227.128.71 1 2 11189 20250225180803
+167.99.123.149 1 2 11189 20250215093151
+185.247.137.170 1 1 10395 20250212080315
+138.197.154.193 1 2 11189 20250211180039
+54.88.179.33 1 1 10395 20250214135726
+45.148.10.249 0 25 19850 
+13.212.156.225 1 130 112821 20250221223211
+51.158.205.38 1 1 10395 20250219163356
+149.56.150.16 1 1 41793 20250221161912
+45.148.10.237 1 13 19923 20250212013338
+45.148.10.238 1 27 31039 20250216210711
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 16
+20250201 1 2 11189 1
+20250206 7 7 5558 1
+20250209 2 2 11189 2
+20250211 2 3 11983 2
+20250212 2 14 30318 2
+20250214 2 27 40640 2
+20250215 3 32 54211 3
+20250216 5 31 72619 3
+20250218 1 1 10395 1
+20250219 3 28 72832 2
+20250220 3 3 31185 3
+20250221 34 274 359755 5
+20250222 3 61 108635 3
+20250223 28 122 106469 1
+20250224 28 162 138229 1
+20250225 2 3 11983 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 1
+0s-30s 29
+2mn-5mn 2
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 42
+/ 32 489630 30 26
+//code.jquery.com/jquery-3.6.3.min.js/metadata/identity/oauth2/token 3 2382 0 0
+//www.idealgroups.org/web/assets/js/jquery.animatedheadline.min.js/metadata/identity/oauth2/token 3 2382 0 0
+//cdn.js/computeMetadata/v1/instance/service-accounts/default/token 3 2382 0 0
+/dist/js/bootstrap.min.js/metadata/identity/oauth2/token 3 2382 0 1
+/dist/js/bootstrap.min.js/computeMetadata/v1/instance/service-accounts/default/token 3 2382 0 0
+//www.idealgroups.org/web/assets/js/script.js/metadata/identity/oauth2/token 3 2382 0 1
+//www.idealgroups.org/web/assets/js/jquery.magnific-popup.min.js/metadata/identity/oauth2/token 3 2382 0 0
+//www.idealgroups.org/web/assets/js/jquery-3.6.3.min.js/computeMetadata/v1/instance/service-accounts/default/token 3 2382 0 0
+//www.idealgroups.org/web/assets/js/imagesloaded.pkgd.min.js/computeMetadata/v1/instance/service-accounts/default/token 3 2382 0 0
+//www.idealgroups.org/web/assets/js/jquery.animatedheadline.min.js/computeMetadata/v1/instance/service-accounts/default/token 3 2382 0 0
+//www.idealgroups.org/web/assets/js/wow.min.js/computeMetadata/v1/instance/service-accounts/default/token 3 2382 0 0
+//www.idealgroups.org/web/assets/js/script.js/computeMetadata/v1/instance/service-accounts/default/token 3 2382 0 0
+//www.idealgroups.org/web/assets/js/appear.min.js/computeMetadata/v1/instance/service-accounts/default/token 3 2382 0 0
+//www.idealgroups.org/web/assets/js/wow.min.js/metadata/identity/oauth2/token 3 2382 0 0
+//www.idealgroups.org/web/assets/js/imagesloaded.pkgd.min.js/metadata/identity/oauth2/token 3 2382 0 1
+//cdn.jsdelivr.net/npm/popper.js/computeMetadata/v1/instance/service-accounts/default/token 3 2382 0 0
+//cdn.js/metadata/identity/oauth2/token 3 2382 0 0
+//code.jquery.com/jquery-3.6.3.min.js/computeMetadata/v1/instance/service-accounts/default/token 3 2382 0 0
+//www.idealgroups.org/web/assets/js/slick.min.js/metadata/identity/oauth2/token 3 2382 0 0
+//www.idealgroups.org/web/assets/js/appear.min.js/metadata/identity/oauth2/token 3 2382 0 0
+//www.idealgroups.org/web/assets/js/isotope.pkgd.min.js/computeMetadata/v1/instance/service-accounts/default/token 3 2382 0 0
+/phpinfo.php 2 1588 2 1
+//cdn.jsdelivr.net/npm/popper.js/metadata/identity/oauth2/token 2 1588 0 0
+//www.idealgroups.org/web/assets/js/jquery-3.6.3.min.js/metadata/identity/oauth2/token 2 1588 0 0
+/admin/.env 1 794 0 0
+/vendor/jquery.filer/uploads 1 794 1 1
+/phpinfo 1 794 0 0
+/_all_dbs 1 794 0 1
+//www.idealgroups.org/web/assets/js/jquery.nice-select.min.js/computeMetadata/v1/instance/service-accounts/default/token 2 1588 0 0
+/_profiler/phpinfo 1 794 0 1
+//www.idealgroups.org/web/assets/js/circle-progress.min.js/metadata/identity/oauth2/token 2 1588 0 0
+/dist/umd/popper.min.js/computeMetadata/v1/instance/service-accounts/default/token 2 1588 0 0
+/.git/config 1 794 1 1
+/.env.save 1 794 0 0
+//www.idealgroups.org/web/assets/js/circle-progress.min.js/computeMetadata/v1/instance/service-accounts/default/token 2 1588 0 0
+//www.idealgroups.org/web/assets/js/slick.min.js/computeMetadata/v1/instance/service-accounts/default/token 2 1588 0 0
+//www.idealgroups.org/web/assets/js/jquery.magnific-popup.min.js/computeMetadata/v1/instance/service-accounts/default/token 2 1588 0 0
+//www.idealgroups.org/web/assets/js/isotope.pkgd.min.js/metadata/identity/oauth2/token 2 1588 0 0
+/php_info.php 1 794 0 0
+/.env.prod 1 794 0 0
+//www.idealgroups.org/web/assets/js/jquery.nice-select.min.js/metadata/identity/oauth2/token 2 1588 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 5
+5K+ 47
+500-1K 983
+0-44 6
+100-500 485
+2K-5K 2
+END_FILESIZE

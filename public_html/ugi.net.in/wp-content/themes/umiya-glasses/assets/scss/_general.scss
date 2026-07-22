@@ -1,0 +1,199 @@
+// General Style
+
+//Smooth Scroll
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: $font-family;
+  @include media-breakpoint-down(sm) {
+    font-size: 16px;
+  }
+}
+a,
+a:hover,
+a:active,
+a:visited {
+  text-decoration: none;
+}
+
+section {
+  padding: 100px 0;
+  @include media-breakpoint-down(md) {
+    padding: 50px 0;
+  }
+}
+
+.container {
+  max-width: 1440px;
+  @media only screen and (max-width: $desktop-1440) {
+    max-width: 1280px;
+  }
+}
+
+.btn {
+  &:focus {
+    outline: none;
+    box-shadow: none;
+  }
+}
+
+.btn-primary {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 2.5;
+  text-align: center;
+  color: $white;
+  background-color: $primary;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid $primary;
+  width: 160px;
+  border-radius: 0;
+  z-index: 1;
+  transition: all 0.15s ease-in-out;
+  white-space: nowrap;
+  @include media-breakpoint-down(md) {
+    font-size: 16px;
+    line-height: 2;
+  }
+  &:hover {
+    color: $primary;
+    background-color: transparent;
+    border-color: $primary;
+  }
+  &:active,
+  &:focus {
+    color: $primary;
+    background-color: transparent;
+    border-color: $primary;
+    box-shadow: transparent;
+  }
+  &:active:focus {
+    box-shadow: none;
+  }
+}
+
+.btn-outline-secondary {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 2.5;
+  text-align: center;
+  color: $btn-view-color;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid $btn-view-color;
+  width: 160px;
+  border-radius: 0;
+  z-index: 1;
+  transition: all 0.15s ease-in-out;
+  white-space: nowrap;
+  margin: 0 auto;
+  @include media-breakpoint-down(md) {
+    font-size: 16px;
+    line-height: 2;
+  }
+  &:hover {
+    color: $white;
+    background-color: $btn-view-color;
+    border-color: $btn-view-color;
+  }
+  &:active,
+  &:focus {
+    color: $white;
+    background-color: $btn-view-color;
+    border-color: $btn-view-color;
+    box-shadow: transparent;
+  }
+  &:active:focus {
+    box-shadow: none;
+  }
+}
+
+.logo-after {
+  position: relative;
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    top: 0;
+    right: 0px;
+    margin: auto;
+    background-image: url("../img/bg-after.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 370px;
+    width: 150px;
+    @media only screen and (max-width: $desktop-1440) {
+      background-size: 100px;
+      background-position: right;
+    }
+    @include media-breakpoint-down(md) {
+      display: none;
+    }
+  }
+}
+
+.logo-before {
+  position: relative;
+  &::before {
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    top: 0;
+    left: 0px;
+    margin: auto;
+    background-image: url("../img/bg-before.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 370px;
+    width: 150px;
+    @media only screen and (max-width: $desktop-1440) {
+      background-size: 100px;
+    }
+  }
+}
+
+.border-after {
+  position: relative;
+  &::after {
+    content: "";
+    border: 2px solid $secondary;
+    position: absolute;
+    bottom: 0px;
+    top: 0;
+    right: 7%;
+    margin: auto;
+    height: 410px;
+    width: 355px;
+    z-index: -1;
+    @media only screen and (max-width: $desktop-1440) {
+      right: 3%;
+    }
+  }
+}
+
+.border-before {
+  position: relative;
+  &::before {
+    content: "";
+    border: 2px solid $secondary;
+    position: absolute;
+    bottom: 0px;
+    top: -40%;
+    left: 7%;
+    margin: auto;
+    height: 220px;
+    width: 220px;
+    z-index: -1;
+    @media only screen and (max-width: $desktop-1440) {
+      left: 3%;
+    }
+  }
+}

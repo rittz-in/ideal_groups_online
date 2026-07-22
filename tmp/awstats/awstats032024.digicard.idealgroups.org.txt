@@ -1,0 +1,442 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202403 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2697                
+POS_VISITOR 12531               
+POS_DAY 13562               
+POS_DOMAIN 3286                
+POS_LOGIN 3597                
+POS_ROBOT 3752                
+POS_WORMS 3997                
+POS_EMAILSENDER 4128                
+POS_EMAILRECEIVER 4271                
+POS_SESSION 13940               
+POS_SIDER 14097               
+POS_FILETYPES 4406                
+POS_DOWNLOADS 4488                
+POS_OS 4536                
+POS_BROWSER 4661                
+POS_SCREENSIZE 4993                
+POS_UNKNOWNREFERER 5067                
+POS_UNKNOWNREFERERBROWSER 5626                
+POS_ORIGIN 5993                
+POS_SEREFERRALS 6125                
+POS_PAGEREFS 6269                
+POS_SEARCHWORDS 6417                
+POS_KEYWORDS 6569                
+POS_MISC 2361                
+POS_ERRORS 6628                
+POS_CLUSTER 3453                
+POS_SIDER_404 6778                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240401031406 9 1720 13421613642916
+FirstTime 20240301174750
+LastTime 20240331220730
+LastUpdate 20240401185205 9 0 8 0 0
+TotalVisits 26                  
+TotalUnique 25                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 25                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 1042 2 4 3555
+1 0 0 0 1 1 83
+2 2 2 2101 2 6 9712
+3 2 2 2095 0 2 0
+4 1 1 3316 0 0 0
+5 0 0 0 3 3 419316
+6 1 1 1042 4 5 837228
+7 0 0 0 6 6 422132
+8 2 2 4360 26 26 32300
+9 0 0 0 0 0 0
+10 2 2 4347 0 0 0
+11 0 0 0 0 0 0
+12 1 1 1050 0 0 0
+13 3 3 3129 5 6 11348
+14 0 0 0 1 1 276
+15 1 1 1050 4 4 7790
+16 0 0 0 4 4 904
+17 3 3 9924 0 0 0
+18 0 0 0 1 2 2511
+19 0 0 0 2 2 166
+20 9 9 29836 199 199 1664675
+21 3 3 3124 11 13 1059458
+22 3 3 3142 1 2 83
+23 0 0 0 4 4 1042916
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 15 15 15697
+ru 7 7 23212
+ca 3 3 9932
+gb 3 3 9924
+hk 2 2 6624
+be 2 2 2090
+nl 1 1 1039
+in 1 1 1040
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 4 13248 20240309155431 0
+curl 2 3308 20240316215614 0
+bot[\s_+:,\.\;\/\\-] 2 2097 20240315215538 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 34 69558 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+macosx15 6 6
+Unknown 13 13
+win10 10 10
+linux 4 4
+win8.1 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+firefox58.0 1 1
+firefox79.0 1 1
+chrome51.0.2704.106 3 3
+chrome92.0.4515.131 2 2
+firefox105.0 2 2
+firefox122.0 1 1
+chrome84.0.4147.105 1 1
+firefox106.0 1 1
+chrome121.0.0.0 3 3
+chrome108.0.0.0 1 1
+mozilla 10 10
+chrome117.0.5938.132 1 1
+chrome106.0.0.0 3 3
+Unknown 3 3
+safari16.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240331220730
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240309103741
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240329211945
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240309103741
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 32 32
+From1 2 2
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+406 93 21018
+405 7 4800215
+301 2 547
+409 10 830
+403 1 6647
+404 161 666543
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 139
+/.well-known/acme-challenge/W142A6UUWSSOO_NFFJQU23Q3F3_AGS47 1 -
+/.env.bak%20 2 -
+/.env_sample 2 -
+/aws.json 1 -
+/.well-known/acme-challenge/TJ86QWD6X4Y52MOXGN2_J-KOHYGZSK4S 1 -
+/live_env%20 2 -
+/.well-known/acme-challenge/6DM42141DUT-3UM_H33VB83_RYF77GRZ 1 -
+/.well-known/acme-challenge/O8CGXZLGGW2CBJH-X6MIF9UFS86T-SO9 1 -
+/__info.php 1 -
+/.env.prod 2 -
+/wp-admin/setup-config.php 1 -
+/.well-known/acme-challenge/_IO3NU-WN6JELQV-Q01IP58QY-JTX0PW 1 -
+/.well-known/acme-challenge/R1EUR-2405Y4QZF0ENAG2XFIQDUV67W4 1 -
+/config/parameters.yml 1 -
+/.env_1 2 -
+/parameters.yml 1 -
+/.well-known/acme-challenge/EPP7WU8WOVHI2YDA02CMTMQTDZHD9U7H 1 -
+/.well-known/acme-challenge/UB6ARA019MD67T0_VNNO6DELCYDI15KJ 1 -
+/00_server_info.php 1 -
+/.well-known/acme-challenge/Z0JC__EK31ITLX9G6_QRZON_3D-XGOLN 1 -
+/env.json 1 -
+/sftp-config.json 1 -
+/app/.env%20 2 -
+/wordpress/wp-admin/setup-config.php 1 -
+/frontend_dev.php/$ 1 -
+/_wpeprivate/config.json 1 -
+/.well-known/acme-challenge/R2_HZYM25GZ8E_Z37AX0H8ECFVTKEPRO 1 -
+/.well-known/acme-challenge/SXME_BYA3FXY16B64EL72UMZMQBC9H97 1 -
+/.well-known/acme-challenge/QLOKSM8IQJBSD0S2RFG8_ABU-7VXC0OZ 1 -
+/debug/default/view 3 -
+/.git/config 1 -
+/.env.dist 2 -
+/02-info.php 1 -
+/.well-known/acme-challenge/C349H0_0E3X-NP9RH-KM220G0H7TZZQ1 1 -
+/_phpinf.php 1 -
+/.well-known/acme-challenge/FOQXM7QBFZHM3CH5RC29YJ5Q7IATMU3H 1 -
+/.well-known/acme-challenge/I3XGG5HVVMN567MAWMDGZRCO6VLI78G8 1 -
+/debug/default/view.html 1 -
+/_info.php 1 -
+/sendgrid.json 1 -
+/wp-content/themes/bricks/style.css 1 -
+/smtp.json 1 -
+/.well-known/acme-challenge/5NIYVD_M07EJNRADT7T4J68-D2I9MHA0 1 -
+/.well-known/acme-challenge/5UJ4-9XNDWYCSE5UXJ-SEJXADWHP28NX 1 -
+/.well-known/acme-challenge/NSW-SC3NB1DWZ9E83F6388TR21B78BQT 1 -
+/web/debug/default/view 1 -
+/.well-known/acme-challenge/3RNAECYKMQTRU56AEZ9G9KOKZTSMLU01 1 -
+/.env.www 2 -
+/_info-backoffice.php 1 -
+/.well-known/acme-challenge/4NP7H2_GGNL6YRBUNZOQQEYIGPN934H_ 1 -
+/.env.save 1 -
+/.well-known/acme-challenge/D4DB6SER9XKRONFHG1Z3V1A7NCMZF_P3 1 -
+/.env.production 2 -
+/.well-known/acme-challenge/4GHBHE6QU7EJVW795J435X-J6LMYIPXT 1 -
+/.well-known/acme-challenge/4XCUURYIGV64_HCY2IV71E0BS0L8OGBM 1 -
+/ws-config.json 1 -
+/info.php 1 -
+/app_dev.php/_profiler/phpinfo 1 -
+/5info.php 1 -
+/.vscode/sftp.json 1 -
+/.well-known/acme-challenge/2VFYSO7UKW5CDISB-2VJ7GWY2L8JSECA 1 -
+/symfony/public/_profiler/phpinfo 1 -
+/sapi/debug/default/view 1 -
+/.well-known/acme-challenge/-5ME20ZTGDYXN2L-6M-LSCEINWA3RNM- 1 -
+/.well-known/acme-challenge/HX3OW-6EVASLUGD2W612ZUQO7X16ZTG7 1 -
+/awsconfig.json 1 -
+/phpinfo.php 1 -
+/laravel/.env%20 2 -
+/enviroments/.env.production 2 -
+/conf.json 1 -
+/api/index.php/v1/config/application 1 -
+/_profiler/phpinfo 1 -
+/app_dev.php/_profiler/open 1 -
+/.well-known/acme-challenge/TA0ME_T37U8Z7-D3776R72_O83QWKO3F 1 -
+/.DS_Store 1 -
+/.well-known/acme-challenge/EBW72JFBIB9N6DUIL5WNLKW09G2R4J3Z 1 -
+/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php 1 -
+/tool/view/phpinfo.view.php 1 -
+/.env.dev 2 -
+/user-config.json 1 -
+/.well-known/acme-challenge/AIAH4CX6AN61-4GXRIH77J2ZCIMFOPIG 1 -
+/1_1_PhpInfo.php 1 -
+/.well-known/acme-challenge/7TAMMP141W5MFC37VMBDCQ9DFZ9WC-3V 1 -
+/.well-known/acme-challenge/H4_LCZFHTVUZ7EGWB-JCRE0W374U_11G 1 -
+/ssh-config.json 1 -
+/deployment-config.json 1 -
+/phpinfo 1 -
+/wp-json 1 http://digicard.idealgroups.org/wp-json/
+/_phpinfo.php 1 -
+/db.json 1 -
+/.well-known/acme-challenge/K2R-E8KFR86CTXPQ4-KVJ197G8H5RNG9 1 -
+/.well-known/acme-challenge/1URLPHNV9GC2APSJWGB2BQR6041MJKJ2 1 -
+/.well-known/acme-challenge/K1LGSUO__07J4S0B_CM7FTES53VXJV2U 1 -
+/.__info.php 1 -
+/.well-known/acme-challenge/-L7343A4GH0-2ZGRB5HQ6PJ2T_H5OVFO 1 -
+/config/config.json 1 -
+/admin-app/.env%20 1 -
+/robots.txt 3 -
+/_profiler/open 1 -
+/robomongo.json 1 -
+/database-config.json 1 -
+/_poopinfo.php 1 -
+/.aws/credentials 3 -
+/wp-content/plugins/userpro/css/userpro.min.css 1 -
+/.info.php 1 -
+/.well-known/acme-challenge/YZC_V9O_UMP8AFWKWYJNV1GFRCXKTV5T 1 -
+/.well-known/acme-challenge/4_0UK7NX53VIM4AU0CNHRQBJ7BV1KMI1 1 -
+/AwsConfig.json 1 -
+/.well-known/acme-challenge/XF11022KAVESCKTRBJN7KGXX-3YRANSE 1 -
+/.well-known/acme-challenge/NZEMSPNWLQBK2MEA37XTCM13GRXX_WJ- 1 -
+/.well-known/acme-challenge/NJPLGLHIKO9_TK4ZSXOFC0ML3Z3UDA14 1 -
+/frontend/web/debug/default/view 1 -
+/0.0_phpinfo.php 1 -
+/.well-known/acme-challenge/Z0KYJ9VC9MUK6DFSVJXRKHAMWWE4DPYD 1 -
+//idealgroups.org/digicard/public/js/coreui.bundle.min.js 1 -
+/app/config/parameters.yml 1 -
+/credentials/config.json 1 -
+/.well-known/acme-challenge/-QJ7EHEEUB9PRCSXSP9YAWN758FBIMT_ 1 -
+/.well-known/acme-challenge/9HBUNF0ET-SS74N2EZUP-RO4WVRVI4V_ 1 -
+/.env.project%20 1 -
+/.well-known/acme-challenge/MQ8AZK9YOICIZSXB8RW25RCS6_KJ3REQ 1 -
+/html/phpinfo.php 1 -
+/.env.development%20 2 -
+/client_secrets.json 1 -
+/.well-known/acme-challenge/O6Y2IC0Z1RQV_WYVS3_29_OZHFC6AK6T 1 -
+/.well-known/acme-challenge/L3MLWRZJFQ-SQ70JTJUSS9YV5W5RAQ9U 1 -
+/shared/.env%20 2 -
+/config/default.json 1 -
+/.well-known/acme-challenge/-SYPO6QPCQ_MHQPK_2XTNXHJXCERJQL5 1 -
+/.well-known/acme-challenge/-TTOXXCLO8D_P4B449WKE_FBK4_OBL7N 1 -
+/development/.env%20 2 -
+/.well-known/acme-challenge/RC06GN6IW8U_NOW0RR6Q0M9RZXVFD__2 1 -
+/.well-known/acme-challenge/FMDAXE9XKSW7_O0ZCTGL9KY6SV3LLGO8 1 -
+/config.json 1 -
+/.well-known/acme-challenge/48XGRDN--6MY4-LBYR897-H880IXKA62 1 -
+/apps/.env%20 2 -
+/.json 1 -
+/.well-known/acme-challenge/6FQSBAUBI63BU81X7KME708ESVPKGZWL 1 -
+/db/robomongo.json 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 25
+46.151.29.119 7 7 23212 20240307205712
+51.89.142.176 2 2 6616 20240301174750
+202.74.40.142 2 2 6624 20240313201926
+199.45.154.19 2 2 2101 20240327020543
+64.23.174.48 1 1 1052 20240313083552
+145.220.91.19 1 1 1039 20240330101750
+199.45.154.17 1 1 1042 20240327002657
+167.248.133.33 1 1 1051 20240319133156
+199.45.155.20 1 1 1052 20240331035059
+45.142.166.65 1 1 1040 20240328135143
+205.210.31.249 1 1 3316 20240308045451
+65.154.226.166 1 1 1050 20240311154508
+146.190.218.45 1 1 1043 20240309222433
+35.215.98.60 1 1 1041 20240308212835
+51.68.205.115 1 1 3308 20240301174810
+138.197.171.68 1 1 1043 20240323215638
+199.45.155.18 1 1 1043 20240322030659
+167.71.142.100 1 1 1050 20240327122337
+87.236.176.74 1 1 1050 20240320223107
+205.210.31.244 1 1 3308 20240309103741
+199.45.154.53 1 1 1049 20240331220730
+216.128.141.153 1 1 1038 20240329132712
+199.45.154.22 1 1 1042 20240330064955
+87.236.176.60 1 1 1040 20240329211945
+205.210.31.71 1 1 3308 20240302083100
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 16
+20240301 3 3 9924 2
+20240302 1 1 3308 1
+20240307 7 7 23212 1
+20240308 2 2 4357 2
+20240309 3 3 5401 3
+20240311 1 1 1050 1
+20240313 3 3 7676 2
+20240319 1 1 1051 1
+20240320 1 1 1050 1
+20240322 1 1 1043 1
+20240323 1 1 1043 1
+20240327 3 3 3143 3
+20240328 1 1 1040 1
+20240329 2 2 2078 2
+20240330 2 2 2081 2
+20240331 2 2 2101 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 25
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 34 69558 26 26
+END_SIDER

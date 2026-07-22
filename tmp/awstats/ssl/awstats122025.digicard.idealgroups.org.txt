@@ -1,0 +1,1272 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202512 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2097                
+POS_TIME 2771                
+POS_VISITOR 29389               
+POS_DAY 31502               
+POS_DOMAIN 3455                
+POS_LOGIN 3771                
+POS_ROBOT 3926                
+POS_WORMS 4171                
+POS_EMAILSENDER 4302                
+POS_EMAILRECEIVER 4445                
+POS_SESSION 32024               
+POS_FILESIZE 32333               
+POS_REQUESTTIME 32476               
+POS_SIDER 32212               
+POS_FILETYPES 4580                
+POS_DOWNLOADS 4700                
+POS_OS 4787                
+POS_BROWSER 4972                
+POS_SCREENSIZE 5686                
+POS_UNKNOWNREFERER 5760                
+POS_UNKNOWNREFERERBROWSER 6311                
+POS_ORIGIN 6584                
+POS_SEREFERRALS 6716                
+POS_PAGEREFS 6860                
+POS_SEARCHWORDS 7008                
+POS_KEYWORDS 7160                
+POS_MISC 2435                
+POS_ERRORS 7219                
+POS_CLUSTER 3627                
+POS_SIDER_404 7388                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260101042748 3 338 13758460369112
+FirstTime 20251201010210
+LastTime 20251231112558
+LastUpdate 20260101190718 3 0 2 0 0
+TotalVisits 68                  
+TotalUnique 53                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 53                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 3 73868908 139 157 588730
+1 8 8 10585 35 43 1630188
+2 0 0 0 3 5 9938
+3 4 4 6427 24 25 3860940
+4 0 0 0 3 3 2764
+5 0 0 0 1 2 4856
+6 1 1 1036 373 376 1529035
+7 0 0 0 5 7 8995
+8 2 2 4360 10 10 910440
+9 4 4 5397 1 2 226
+10 6 6 8524 22 24 2502012
+11 6 6 8513 27 30 1484771
+12 1 1 3310 3 4 4939
+13 9 9 10610 14 16 810994
+14 0 0 0 3 5 9938
+15 3 3 2093 16 19 2596964
+16 8 8 10602 70 71 1289282
+17 2 2 2081 9 15 2503359
+18 6 6 8553 939 948 3073005
+19 4 4 4158 5 8 10164
+20 3 3 3109 1 3 2654
+21 1 1 3310 6 7 2091214
+22 4 4 4162 13 16 810930
+23 7 7 6238 8 14 17900
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 55 56 73940367
+ru 10 10 10430
+in 5 5 5195
+gb 4 4 4163
+ca 3 3 5386
+cn 2 2 4346
+be 1 1 1046
+bg 1 1 1043
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+bot[\s_+:,\.\;\/\\-] 2 2082 20251224115042 0
+crawl 1 1033 20251208070534 0
+no_user_agent 1 3318 20251221162415 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+Unknown 8 8367 0 0
+html 73 96777 0 0
+log 1 73866832 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/storage/logs/laravel.log 1 0 73866832
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+Unknown 13 12
+linux 11 11
+macosx6 1 1
+macosx14 1 1
+macosx10 1 1
+macosx15 7 7
+win7 2 2
+win8.1 1 1
+win11 2 2
+win10 43 43
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 33
+chrome125.0.0.0 9 9
+safari17.1 2 2
+firefox139.0 1 1
+chrome126.0.0.0 1 1
+chrome9.0.597.15 1 1
+chrome74.0.3729.108 1 1
+Unknown 4 3
+chrome63.0.3239.132 1 1
+chrome60.0.3112.113 14 14
+chrome139.0.0.0 4 4
+chrome132.0.0.0 1 1
+chrome76.0.3809.100 1 1
+chrome45.0.2454.93 1 1
+chrome130.0.0.0 1 1
+chrome124.0.0.0 1 1
+chrome71.0.2623.112 1 1
+chrome74.0.3729.131 1 1
+chrome75.0.3770.80 1 1
+firefox142.0 2 2
+chrome121.0.0.0 1 1
+chrome140.0.0.0 1 1
+chrome123.0.0.0 1 1
+mozilla 7 7
+chrome131.0.0.0 1 1
+chrome120.0.0.0 5 5
+chrome134.0.0.0 8 8
+chrome137.0.0.0 2 2
+netscape5.0 2 2
+firefox121.0 1 1
+chrome135.0.0.0 1 1
+chrome109.0.0.0 1 1
+chrome91.0.4472.124 2 2
+chrome136.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+python-httpx/0.28.1 20251228185326
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20251230182724
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20251230031033
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20251202183422
+Mozilla/5.0_(l9scan/2.0.5333e24353e28313e2931313;__https://leakix.net) 20251221162452
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20251230031033
+python-httpx/0.28.1 20251228185326
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 81 82
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+405 42 23169336
+404 1064 2437606
+406 579 128820
+409 98 8134
+421 1 322
+301 10 2522
+403 3 1065
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 882
+/src/apikeys.json 1 -
+/apps/.env.remote 1 -
+/v1/.env.local 1 -
+/core/Datavase/config.yml 1 -
+/saas/.env.local 1 -
+/app/secrets.yml 1 -
+/v2/config.yml 1 -
+/exapi/.env.example 1 -
+/assets/.env.development 1 -
+/core/.env.staging 1 -
+/digicard/public/.env.local 1 -
+/lib/configuration.json 1 -
+/saas/secrets.yml 1 -
+/core/app/apikeys.json 1 -
+/assets/credentials.json 1 -
+/sitemaps/configuration.json 1 -
+/docker/.env.local 1 -
+/public/keys.json 1 -
+/v2/secrets.json 1 -
+/site/secrets.json 1 -
+/admin/keys.json 1 -
+/en/.env.development 1 -
+/database/apikeys.json 1 -
+/admin/.env 2 -
+/public/api_keys.json 1 -
+/.env.production 2 -
+/lib/credentials.json 1 -
+/v2/api-docs 1 -
+/laravel/tokens.json 1 -
+/cron/configuration.json 1 -
+/wp-login 7 -
+/api/tokens.json 1 -
+/cron/config.yaml 1 -
+/core/credentials.json 1 -
+/vendor/configuration.json 1 -
+/psnlink/secrets.yml 1 -
+/cronlab/.env.local 1 -
+/web/config.yml 1 -
+/v1/.env.sample 1 -
+/src/.env.development 1 -
+/public/.env.development 1 -
+/server/apikeys.json 1 -
+/assets/keys.json 1 -
+/.git/config 21 -
+/sitemaps/.env.development 1 -
+/administrator/api_keys.json 1 -
+/site/apikeys.json 1 -
+/app/.env.example 1 -
+/about 1 -
+/tools/keys.json 1 -
+/v1/.env.staging 1 -
+/public/credentials.json 1 -
+/kubernetes/.env.test 1 -
+/site/config.yml 1 -
+/assets/api_keys.json 1 -
+/v1/keys.json 1 -
+/digicard/public/secrets.yml 1 -
+/app/config.yaml 1 -
+/services/.env.production 1 -
+/config/.env.staging 1 -
+/docker/keys.json 1 -
+/.env.dev.local 1 -
+/exapi/.env.test 1 -
+/database/secrets.yml 1 -
+/services/api_keys.json 1 -
+/public/.env.local 1 -
+/core/app/secrets.yml 1 -
+/public/vendor/laravel-filemanager/js/script.js 3 -
+/docker/api_keys.json 1 -
+/src/.env.test 1 -
+/uploads/.env.development 1 -
+/.env.prod 1 -
+/admin/.env.save 1 -
+/lib/.env.production 1 -
+/v1/tokens.json 1 -
+/api/.env.remote 1 -
+/digicard/.env.development 1 -
+/backend/.env.save 1 -
+/v1/secrets.yml 1 -
+/laravel/configuration.json 1 -
+/exapi/configuration.json 1 -
+/gcp-credentials.json 2 -
+/web/.env.sample 1 -
+/site/.env.development 1 -
+/sitemaps/api_keys.json 1 -
+/web/api_keys.json 1 -
+/docker/credentials.json 1 -
+/assets/.env.local 1 -
+/core/.env.example 1 -
+/tools/.env.save 1 -
+/backend/.env.sample 1 -
+/web/keys.json 1 -
+/digicard/.env.remote 1 -
+/apps/secrets.yml 1 -
+/sitemaps/.env.sample 1 -
+/web/.env.local 1 -
+/kubernetes/credentials.json 1 -
+/core/Datavase/keys.json 1 -
+/apps/.env.local 1 -
+/.vscode/sftp.json 1 -
+/administrator/.env.test 1 -
+/saas/.env.remote 1 -
+/vendor/laravel-filemanager/js/script.js 3 -
+/cronlab/.env.remote 1 -
+/vendor/.env.test 1 -
+/docker/.env.development 1 -
+/configuration.json 1 -
+/lib/secrets.json 1 -
+/secrets.json 2 -
+/services/.env.sample 1 -
+/server/config.yaml 1 -
+/apps/apikeys.json 1 -
+/core/config.yaml 1 -
+/cron/credentials.json 1 -
+/tools/.env.test 1 -
+/app/config.yml 1 -
+/apps/config.yml 1 -
+/digicard/public/js/tokens.json 1 -
+/_fragment 2 -
+/cronlab/.env.example 1 -
+/api/graphql 1 -
+/server/config.json 1 -
+/app/etc/local.xml 1 -
+/lab/config.json 1 -
+/lib/.env.remote 1 -
+/database/tokens.json 1 -
+/web/.env.example 1 -
+/lab/.env.staging 1 -
+/v1/config.json 1 -
+/vendor/keys.json 1 -
+/cronlab/api_keys.json 1 -
+/api/.env.production 1 -
+/logs/error.log 1 -
+/psnlink/tokens.json 1 -
+/web/config.yaml 1 -
+/core/app/tokens.json 1 -
+/core/app/configuration.json 1 -
+/vendor/api_keys.json 1 -
+/saas/.env.development 1 -
+/uploads/credentials.json 1 -
+/v2/.env.remote 1 -
+/api/secrets.json 1 -
+/digicard/public/js/.env.staging 1 -
+/v2/apikeys.json 1 -
+/admin/.env.test 1 -
+/uploads/.env.production 1 -
+/src/.env.save 1 -
+/apps/secrets.json 1 -
+/cron/.env.staging 1 -
+/core/Datavase/.env.save 1 -
+/laravel/secrets.yml 1 -
+/docker/.env.test 1 -
+/web/secrets.yml 1 -
+/exapi/.env.save 1 -
+/vendor/.env.development 1 -
+/api/swagger.json 1 -
+/digicard/public/secrets.json 1 -
+/cronlab/.env.staging 1 -
+/config/secrets.json 1 -
+/config/secrets.yml 1 -
+/site/.env.remote 1 -
+/vendor/credentials.json 1 -
+/uploads/secrets.json 1 -
+/core/configuration.json 1 -
+/tools/.env.example 1 -
+/site/.env.local 1 -
+/kubernetes/keys.json 1 -
+/cron/.env.example 1 -
+/api/credentials.json 1 -
+/app/keys.json 1 -
+/config/config.yml 1 -
+/vendor/.env.local 1 -
+/kubernetes/secrets.json 1 -
+/digicard/config.json 1 -
+/uploads/config.yaml 1 -
+/phpinfo 2 -
+/app/.env.local 1 -
+/v1/.env.save 1 -
+/.env.save 5 -
+/api/configuration.json 1 -
+/kubernetes/.env.production 1 -
+/administrator/.env.production 1 -
+/config/.env.save 1 -
+/core/app/.env.save 1 -
+/site/secrets.yml 1 -
+/server/.env.production 1 -
+/database/.env.save 1 -
+/assets/.env.test 1 -
+/saas/secrets.json 1 -
+/.DS_Store 2 -
+/database/.env.production 1 -
+/config/configuration.json 1 -
+/core/app/.env.example 1 -
+/digicard/.env.test 1 -
+/uploads/keys.json 1 -
+/apps/.env.development 1 -
+/s3.yml 2 -
+/error.log 2 -
+/admin/.env.example 1 -
+/server/tokens.json 1 -
+/database/.env.example 1 -
+/v1/configuration.json 1 -
+/v2/.env.production 1 -
+/administrator/credentials.json 1 -
+/saas/apikeys.json 1 -
+/lib/tokens.json 1 -
+/digicard/public/js/.env.production 1 -
+/uploads/.env.test 1 -
+/uploads/apikeys.json 1 -
+/uploads/config.yml 1 -
+/en/api_keys.json 1 -
+/public/.env.test 1 -
+/uploads/config.json 1 -
+/app/api_keys.json 1 -
+/kubernetes/.env.example 1 -
+/exapi/keys.json 1 -
+/app/.env.sample 1 -
+/saas/config.yml 1 -
+/app_dev.php/_profiler/open 1 -
+/digicard/public/js/config.yml 1 -
+/api/secrets.yml 1 -
+/en/.env.staging 1 -
+/config/.env.remote 1 -
+/laravel/.env.example 1 -
+/core/Datavase/.env.staging 1 -
+/docker-compose.yml 2 -
+/assets/tokens.json 1 -
+/en/keys.json 1 -
+/errors.log 2 -
+/digicard/public/.env.example 1 -
+/web/secrets.json 1 -
+/lib/keys.json 1 -
+/docker/config.yaml 1 -
+/apps/api_keys.json 1 -
+/core/app/credentials.json 1 -
+/digicard/api_keys.json 1 -
+/laravel/api_keys.json 1 -
+/core/Datavase/.env.sample 1 -
+/docker/config.json 1 -
+/lib/.env.local 1 -
+/public/.env.production 1 -
+/backend/configuration.json 1 -
+/en/.env.sample 1 -
+/kubernetes/.env.local 1 -
+/cronlab/secrets.yml 1 -
+/lab/.env.test 1 -
+/sitemaps/.env.remote 1 -
+/app/tokens.json 1 -
+/digicard/.env.sample 1 -
+/kubernetes/config.yml 1 -
+/kubernetes/secrets.yml 1 -
+/psnlink/.env.local 1 -
+/v1/.env.development 1 -
+/apps/config.json 1 -
+/lib/.env.sample 1 -
+/lib/api_keys.json 1 -
+/backend/.env.production 1 -
+/public/tokens.json 1 -
+/digicard/public/js/.env.save 1 -
+/site/.env.sample 1 -
+/var/log/nginx/error.log 1 -
+/exapi/credentials.json 1 -
+/kubernetes/.env.remote 1 -
+/_all_dbs 1 -
+/backup.zip 1 -
+/auth.json 1 -
+/core/app/keys.json 1 -
+/app-ads.txt 1 -
+/en/.env.local 1 -
+/public/configuration.json 1 -
+/api/config.yaml 1 -
+/apps/keys.json 1 -
+/backend/secrets.json 1 -
+/server/.env.test 1 -
+/services/.env.remote 1 -
+/web/.env.production 1 -
+/core/.env.test 1 -
+/exapi/config.yaml 1 -
+/docker-compose.yaml 2 -
+/database/keys.json 1 -
+/laravel/.env.staging 1 -
+/assets/.env.production 1 -
+/api/.env.example 1 -
+/saas/keys.json 1 -
+/public/config.yaml 1 -
+/database/secrets.json 1 -
+/tools/config.json 1 -
+/admin/.env.staging 1 -
+/psnlink/.env.development 1 -
+/administrator/apikeys.json 1 -
+/app/.env.remote 1 -
+/backend/config.yaml 1 -
+/backup.tar.gz 1 -
+/exapi/config.yml 1 -
+/lab/.env.development 1 -
+/core/app/secrets.json 1 -
+/.dockerenv 2 -
+/admin/.env.development 1 -
+/docker/.env.production 1 -
+/public/config.json 1 -
+/.aws/config 2 -
+/digicard/credentials.json 1 -
+/core/.env.save 1 -
+/lib/config.yml 1 -
+/api-docs/swagger.json 1 -
+/exapi/secrets.yml 1 -
+/core/tokens.json 1 -
+/saas/config.json 1 -
+/backend/keys.json 1 -
+/tools/.env.development 1 -
+/webjars/swagger-ui/index.html 1 -
+/en/secrets.yml 1 -
+/.env.development 2 -
+/assets/config.yaml 1 -
+/lab/apikeys.json 1 -
+/assets/config.json 1 -
+/admin/config.json 1 -
+/tools/.env.staging 1 -
+/database/configuration.json 1 -
+/web/credentials.json 1 -
+/core/Datavase/.env.development 1 -
+/saas/api_keys.json 1 -
+/backend/config.yml 1 -
+/vendor/apikeys.json 1 -
+/backend/config.json 1 -
+/core/Datavase/.env.example 1 -
+/core/app/config.yaml 1 -
+/core/Datavase/.env.remote 1 -
+/digicard/public/js/secrets.yml 1 -
+/docker/configuration.json 1 -
+/exapi/.env.local 1 -
+/docker/tokens.json 1 -
+/cron/.env.production 1 -
+/psnlink/.env.remote 1 -
+/backend/apikeys.json 1 -
+/backend/.env.test 1 -
+/database/config.yaml 1 -
+/en/tokens.json 1 -
+/web/configuration.json 1 -
+/psnlink/.env.example 1 -
+/graphql/api 1 -
+/administrator/.env.development 1 -
+/robots.txt 30 -
+/database/.env.staging 1 -
+/api/config.yml 1 -
+/server/.env.local 1 -
+/.dockerignore 1 -
+/administrator/.env.sample 1 -
+/site/keys.json 1 -
+/web/tokens.json 1 -
+/core/app/.env.staging 1 -
+/exapi/config.json 1 -
+/v2/.env.example 1 -
+/sellers.json 1 -
+/kubernetes/config.json 1 -
+/tools/config.yml 1 -
+/backend/.env.development 1 -
+/sitemaps/config.json 1 -
+/config/.env.example 1 -
+/digicard/public/js/secrets.json 1 -
+/cronlab/tokens.json 1 -
+/v2/_catalog 1 -
+/tools/secrets.yml 1 -
+/services/config.json 1 -
+/site-backup.zip 1 -
+/site/config.json 1 -
+/credentials.json 2 -
+/cron/.env.test 1 -
+/vendor/.env.production 1 -
+/digicard/public/config.yaml 1 -
+/tokens.json 2 -
+/admin/.env.local 1 -
+/psnlink/api_keys.json 1 -
+/app/.env.production 1 -
+/core/Datavase/config.yaml 1 -
+/apps/.env.sample 1 -
+/laravel/.env.local 1 -
+/public/_ignition/execute-solution 3 -
+/en/config.json 1 -
+/core/app/config.yml 1 -
+/services/credentials.json 1 -
+/admin/config.yml 1 -
+/debug.log 2 -
+/exapi/.env.staging 1 -
+/docker/apikeys.json 1 -
+/app/secrets.json 1 -
+/site/api_keys.json 1 -
+/exapi/.env.development 1 -
+/sendgrid.env 1 -
+/digicard/public/assets/logo.png 4 -
+/database/config.yml 1 -
+/vendor/tokens.json 1 -
+/sitemaps/.env.test 1 -
+/admin/configuration.json 1 -
+/tools/.env.local 1 -
+/services/.env.test 1 -
+/kubernetes.yml 2 -
+/admin/secrets.yml 1 -
+/backend/credentials.json 1 -
+/psnlink/.env.staging 1 -
+//idealgroups.org/digicard/public/js/coreui.bundle.min.js 5 -
+/vendor/config.yaml 1 -
+/en/configuration.json 1 -
+/digicard/public/js/api_keys.json 1 -
+/api/.env.local 1 -
+/api/keys.json 1 -
+/app/credentials.json 1 -
+/v1/api_keys.json 1 -
+/digicard/public/js/configuration.json 1 -
+/graphql 1 -
+/vendor/config.json 1 -
+/lab/.env.save 1 -
+/kubernetes/apikeys.json 1 -
+/psnlink/configuration.json 1 -
+/database/.env.local 1 -
+/v2/.env.test 1 -
+/_debug 2 -
+/admin/credentials.json 1 -
+/assets/apikeys.json 1 -
+/v2/credentials.json 1 -
+/server/keys.json 1 -
+/config/.env.sample 1 -
+/administrator/config.yaml 1 -
+/core/.env.production 1 -
+/app/configuration.json 1 -
+/uploads/.env.save 1 -
+/kubernetes/tokens.json 1 -
+/lib/secrets.yml 1 -
+/core/app/.env.local 1 -
+/.s3cfg 2 -
+/server/api_keys.json 1 -
+/admin/config.yaml 1 -
+/web/.env.remote 1 -
+/lib/.env.example 1 -
+/_profiler/phpinfo 4 -
+/v2/config.yaml 1 -
+/src/config.json 1 -
+/digicard/public/.env.production 1 -
+/lib/config.yaml 1 -
+/saas/.env.sample 1 -
+/server/.env.development 1 -
+/swagger-ui.html 1 -
+/uploads/.env.sample 1 -
+/tools/config.yaml 1 -
+/api/api_keys.json 1 -
+/public/apikeys.json 1 -
+/api/.env.sample 1 -
+/administrator/.env.staging 1 -
+/server/credentials.json 1 -
+/tools/credentials.json 1 -
+/laravel/.env.remote 1 -
+/cron/.env.save 1 -
+/src/.env.staging 1 -
+/en/.env.save 1 -
+/cron/tokens.json 1 -
+/assets/secrets.json 1 -
+/sitemaps/credentials.json 1 -
+/core/Datavase/config.json 1 -
+/assets/secrets.yml 1 -
+/database/.env.test 1 -
+/api/.env.development 1 -
+/sitemaps/config.yml 1 -
+/digicard/.env.example 1 -
+/src/tokens.json 1 -
+/v1/config.yml 1 -
+/docker/config.yml 1 -
+/core/app/.env.test 1 -
+/core/Datavase/credentials.json 1 -
+/v2/.env.local 1 -
+/digicard/public/.env.sample 1 -
+/.env.sample 2 -
+/backend/tokens.json 1 -
+/site/tokens.json 1 -
+/site/.env.save 1 -
+/cronlab/.env.development 1 -
+/api/v2/config 1 -
+/docker/.env.save 1 -
+/v1/secrets.json 1 -
+/digicard/public/js/.env.example 1 -
+/digicard/public/.env.development 1 -
+/k8s-config.yml 1 -
+/kubernetes/configuration.json 1 -
+/services/config.yml 1 -
+/exapi/apikeys.json 1 -
+/database/config.json 1 -
+/core/Datavase/secrets.yml 1 -
+/v2/.env.sample 1 -
+/public/secrets.json 1 -
+/public/secrets.yml 1 -
+/apps/.env.production 1 -
+/digicard/.env.production 1 -
+/vendor/.env.staging 1 -
+/core/app/config.json 1 -
+/api_keys.json 2 -
+/digicard/public/keys.json 1 -
+/administrator/tokens.json 1 -
+/api/apikeys.json 1 -
+/sitemaps/.env.staging 1 -
+/digicard/public/api_keys.json 1 -
+/kubernetes/api_keys.json 1 -
+/services/.env.staging 1 -
+/digicard/.env.save 1 -
+/digicard/public/js/.env.development 1 -
+/v2/keys.json 1 -
+/v2/.env.staging 1 -
+/logs/application.log 1 -
+/uploads/.env.local 1 -
+/oauth.json 1 -
+/swagger.json 1 -
+/kubernetes/.env.sample 1 -
+/exapi/secrets.json 1 -
+/laravel/.env.save 1 -
+/v2/tokens.json 1 -
+/administrator/.env.remote 1 -
+/public/.env.save 1 -
+/tools/.env.production 1 -
+/sitemaps/.env.production 1 -
+/lab/secrets.yml 1 -
+/cron/api_keys.json 1 -
+/ads.txt 1 -
+/assets/configuration.json 1 -
+/admin/.env.sample 1 -
+/saas/.env.production 1 -
+/server/.env.remote 1 -
+/public/config.yml 1 -
+/lib/.env.save 1 -
+/_next/data 14 -
+/admin/api_keys.json 1 -
+/v2/secrets.yml 1 -
+/tools/.env.sample 1 -
+/core/.env.sample 1 -
+/uploads/.env.remote 1 -
+/core/Datavase/tokens.json 1 -
+/services/.env.local 1 -
+/src/.env.remote 1 -
+/laravel/credentials.json 1 -
+/api/.env.test 1 -
+/web/config.json 1 -
+/assets/.env.save 1 -
+/admin/.env.production 1 -
+/cron/keys.json 1 -
+/api/config 1 -
+/core/Datavase/.env.test 1 -
+/.env.1 1 -
+/config/.env.test 1 -
+/docker/secrets.json 1 -
+/docker/secrets.yml 1 -
+/lab/config.yaml 1 -
+/uploads/configuration.json 1 -
+/tools/api_keys.json 1 -
+/site/.env.test 1 -
+/laravel/.env.sample 1 -
+/.aws/credentials 2 -
+/cron/config.json 1 -
+/swagger/index.html 1 -
+/administrator/keys.json 1 -
+/assets/config.yml 1 -
+/digicard/public/js/keys.json 1 -
+/web/.env.staging 1 -
+/digicard/tokens.json 1 -
+/sitemaps/.env.local 1 -
+/lab/.env.example 1 -
+/kubernetes/.env.staging 1 -
+/lab/.env.local 1 -
+/uploads/api_keys.json 1 -
+/config/keys.json 1 -
+/server/.env.sample 1 -
+/telescope/requests 1 -
+/digicard/public/js/config.yaml 1 -
+/core/app/.env.remote 1 -
+/config/api_keys.json 1 -
+/tools/secrets.json 1 -
+/services/keys.json 1 -
+/api/.env.save 1 -
+/s/5333e24353e28313e2931313/_/ 1 -
+/lab/keys.json 1 -
+/exapi/.env.production 1 -
+/database/.env.remote 1 -
+/assets/.env.staging 1 -
+/src/secrets.json 1 -
+/sitemaps/keys.json 1 -
+/core/Datavase/apikeys.json 1 -
+/digicard/public/.env.remote 1 -
+/administrator/config.json 1 -
+/digicard/public/config.yml 1 -
+/site/.env.production 1 -
+/aws-config.json 2 -
+/v2/config.json 1 -
+/uploads/.env.example 1 -
+/config/credentials.json 1 -
+/apps/tokens.json 1 -
+/apps/.env.save 1 -
+/admin/secrets.json 1 -
+/core/Datavase/.env.local 1 -
+/vendor/secrets.json 1 -
+/vendor/secrets.yml 1 -
+/uploads/.env.staging 1 -
+/core/app/.env.production 1 -
+/digicard/secrets.yml 1 -
+/public/.env.staging 1 -
+/exapi/.env.sample 1 -
+/apikeys.json 2 -
+/.env.local 2 -
+/swagger/v1/swagger.json 1 -
+/cronlab/secrets.json 1 -
+/v1/apikeys.json 1 -
+/core/Datavase/api_keys.json 1 -
+/v1/.env.remote 1 -
+/lab/.env.sample 1 -
+/cronlab/.env.production 1 -
+/administrator/.env.save 1 -
+/saas/.env.test 1 -
+/en/.env.example 1 -
+/lab/api_keys.json 1 -
+/config/.env.development 1 -
+/src/.env.production 1 -
+/digicard/public/credentials.json 1 -
+/digicard/public/js/.env.sample 1 -
+/digicard/public/config.json 1 -
+/lib/.env.test 1 -
+/log/error.log 1 -
+/backend/secrets.yml 1 -
+/config.yml 1 -
+/exapi/api_keys.json 1 -
+/administrator/.env.local 1 -
+/.well-known/security.txt 1 -
+/cron/.env.sample 1 -
+/app/config.json 1 -
+/v2/.env.save 1 -
+/vendor/.env.save 1 -
+/services/.env.development 1 -
+/config.yaml 1 -
+/server/.env.example 1 -
+/apps/.env.test 1 -
+/lab/config.yml 1 -
+/core/Datavase/.env.production 1 -
+/psnlink/.env.save 1 -
+/services/config.yaml 1 -
+/core/keys.json 1 -
+/database/.env.development 1 -
+/config/.env.local 1 -
+/sitemaps/config.yaml 1 -
+/saas/.env.save 1 -
+/vendor/config.yml 1 -
+/cronlab/credentials.json 1 -
+/tools/apikeys.json 1 -
+/saas/tokens.json 1 -
+/core/config.json 1 -
+/.azure/credentials 2 -
+/digicard/configuration.json 1 -
+/en/config.yaml 1 -
+/cronlab/config.yaml 1 -
+/security.txt 1 -
+/digicard/public/js/.env.remote 1 -
+/digicard/public/configuration.json 1 -
+/lib/.env.development 1 -
+/app/.env.staging 1 -
+/cronlab/.env.test 1 -
+/cronlab/apikeys.json 1 -
+/swagger/swagger-ui.html 1 -
+/digicard/public/.env.staging 1 -
+/core/api_keys.json 1 -
+/en/.env.test 1 -
+/digicard/public/.env.test 1 -
+/en/credentials.json 1 -
+/Thumbs.db 1 -
+/sitemaps/secrets.json 1 -
+/src/credentials.json 1 -
+/cronlab/config.yml 1 -
+/digicard/public/js/.env.local 1 -
+/cronlab/config.json 1 -
+/api/gql 1 -
+/apps 14 -
+/digicard/apikeys.json 1 -
+/psnlink/.env.sample 1 -
+/lib/apikeys.json 1 -
+/debug/default/view 1 -
+/digicard/public/.env.save 1 -
+/services/secrets.json 1 -
+/digicard/public/js/credentials.json 1 -
+/admin/apikeys.json 1 -
+/digicard/public/js/apikeys.json 1 -
+/core/app/.env.development 1 -
+/src/configuration.json 1 -
+/secrets.yml 2 -
+/cronlab/keys.json 1 -
+/docker/.env.staging 1 -
+/v2/configuration.json 1 -
+/v1/.env.production 1 -
+/.gcloud/credentials 2 -
+/saas/config.yaml 1 -
+/Dockerfile 2 -
+/public/.env.example 1 -
+/app/.env.development 1 -
+/backend/api_keys.json 1 -
+/lib/.env.staging 1 -
+/lab/.env.remote 1 -
+/vendor/.env.remote 1 -
+/src/.env.example 1 -
+/core/.env.development 1 -
+/docker/.env.sample 1 -
+/lib/config.json 1 -
+/backend/.env.example 1 -
+/src/config.yaml 1 -
+/assets/.env.example 1 -
+/docker-compose.override.yml 1 -
+/web/.env.save 1 -
+/api 1 -
+/app/logs/prod.log 1 -
+/services/tokens.json 1 -
+/app/apikeys.json 1 -
+/laravel/secrets.json 1 -
+/v2/.env.development 1 -
+/en/secrets.json 1 -
+/site/.env.example 1 -
+/v3/api-docs 1 -
+/backend/.env.staging 1 -
+/administrator/.env.example 1 -
+/src/secrets.yml 1 -
+/cron/.env.local 1 -
+/digicard/public/js/.env.test 1 -
+/api/v1/config 1 -
+/en/config.yml 1 -
+/exapi/.env.remote 1 -
+/uploads/secrets.yml 1 -
+/saas/configuration.json 1 -
+/cron/secrets.yml 1 -
+/laravel/.env.production 1 -
+/var/www/html/error_log 1 -
+/aws.json 2 -
+/var/log/apache2/error.log 1 -
+/admin 7 -
+/sitemaps/tokens.json 1 -
+/digicard/.env.local 1 -
+/apps/configuration.json 1 -
+/sitemaps/.env.example 1 -
+/digicard/config.yml 1 -
+/public/.env.sample 1 -
+/site/.env.staging 1 -
+/services/configuration.json 1 -
+/.api_keys 1 -
+/.env.2 1 -
+/app/logs/dev.log 1 -
+/tools/configuration.json 1 -
+/login.action 1 -
+/docker/.env.example 1 -
+/laravel/config.yaml 1 -
+/core/secrets.json 1 -
+/azure.json 2 -
+/services/.env.example 1 -
+/administrator/config.yml 1 -
+/psnlink/credentials.json 1 -
+/cron/.env.remote 1 -
+/digicard/public/tokens.json 1 -
+/wp-admin 10 -
+/laravel/config.yml 1 -
+/laravel/config.json 1 -
+/assets/.env.sample 1 -
+/config/apikeys.json 1 -
+/site/credentials.json 1 -
+/config.zip 1 -
+/digicard/.env.staging 1 -
+/server/.env.staging 1 -
+/services/.env.save 1 -
+/lab/tokens.json 1 -
+/laravel/apikeys.json 1 -
+/laravel/.env.test 1 -
+/config.json 2 -
+/exapi/tokens.json 1 -
+/app/.env.test 1 -
+/core/Datavase/secrets.json 1 -
+/laravel/keys.json 1 -
+/sitemaps/.env.save 1 -
+/apps/config.yaml 1 -
+/core/config.yml 1 -
+/core/apikeys.json 1 -
+/app/.env.save 1 -
+/server/.env.save 1 -
+/administrator/configuration.json 1 -
+/saas/.env.staging 1 -
+/web/apikeys.json 1 -
+/uploads/tokens.json 1 -
+/vendor/.env.example 1 -
+/v1/.env.example 1 -
+/administrator/secrets.yml 1 -
+/lab/credentials.json 1 -
+/database/credentials.json 1 -
+/.secrets 1 -
+/api/action 14 -
+/api/actions 14 -
+/admin/tokens.json 1 -
+/config/.env.production 1 -
+/core/.env.local 1 -
+/server/config.yml 1 -
+/public/.env.remote 1 -
+/php_error.log 2 -
+/digicard/public/apikeys.json 1 -
+/lab/configuration.json 1 -
+/digicard/config.yaml 1 -
+/core/secrets.yml 1 -
+/en/apikeys.json 1 -
+/digicard/public/js/config.json 1 -
+/server/configuration.json 1 -
+/en/.env.remote 1 -
+/apps/.env.example 1 -
+/core/Datavase/configuration.json 1 -
+/saas/credentials.json 1 -
+/psnlink/secrets.json 1 -
+/tools/tokens.json 1 -
+/server 1 -
+/cronlab/configuration.json 1 -
+/keys.json 2 -
+/digicard/secrets.json 1 -
+/services/apikeys.json 1 -
+/web/.env.development 1 -
+/src/config.yml 1 -
+/backend/.env.local 1 -
+/administrator/secrets.json 1 -
+/cron/.env.development 1 -
+/assets/.env.remote 1 -
+/sitemaps/apikeys.json 1 -
+/.docker/config.json 2 -
+/psnlink/.env.production 1 -
+/config/tokens.json 1 -
+/.env.staging 2 -
+/.env.remote 2 -
+/vendor/.env.sample 1 -
+/core/app/.env.sample 1 -
+/laravel/.env.development 1 -
+/v2/api_keys.json 1 -
+/docker/.env.remote 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/site/config.yaml 1 -
+/database/.env.sample 1 -
+/actuator/env 1 -
+/web/.env.test 1 -
+/api/config.json 1 -
+/en/.env.production 1 -
+/cronlab/.env.save 1 -
+/@vite/env 1 -
+/kubernetes/config.yaml 1 -
+/psnlink/config.yaml 1 -
+/admin/.env.remote 1 -
+/lab/.env.production 1 -
+/config/config.yaml 1 -
+/kubernetes/.env.save 1 -
+/cron/config.yml 1 -
+/digicard/keys.json 1 -
+/api/.env.staging 1 -
+/apps/credentials.json 1 -
+/kubernetes/.env.development 1 -
+/v1/credentials.json 1 -
+/src/.env.sample 1 -
+/config/config.json 1 -
+/v1/.env.test 1 -
+/cron/apikeys.json 1 -
+/src/api_keys.json 1 -
+/psnlink/config.yml 1 -
+/psnlink/config.json 1 -
+/src/keys.json 1 -
+/server/secrets.yml 1 -
+/lab/secrets.json 1 -
+/server/secrets.json 1 -
+/src/.env.local 1 -
+/v1/config.yaml 1 -
+/saas/.env.example 1 -
+/psnlink/.env.test 1 -
+/psnlink/apikeys.json 1 -
+/backend/.env.remote 1 -
+/.env.test 2 -
+/sitemaps/secrets.yml 1 -
+/.env.prod.local 1 -
+/site/configuration.json 1 -
+/database/api_keys.json 1 -
+/apps/.env.staging 1 -
+/services/secrets.yml 1 -
+/psnlink/keys.json 1 -
+/cron/secrets.json 1 -
+/core/app/api_keys.json 1 -
+/cronlab/.env.sample 1 -
+/core/.env.remote 1 -
+/tools/.env.remote 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 53
+204.76.203.25 8 8 26512 20251229113418
+185.169.4.152 7 7 7298 20251221112130
+170.64.219.248 3 3 2093 20251219154000
+209.38.25.219 3 3 2071 20251218230109
+170.64.159.204 3 3 2074 20251219134222
+18.185.188.37 3 3 3142 20251228185326
+3.71.174.117 2 2 2076 20251213130851
+56.155.111.157 2 2 1036 20251221093628
+100.30.248.17 2 2 2086 20251215200232
+146.190.63.48 2 2 4365 20251221162452
+115.231.78.8 2 2 4346 20251201010222
+185.177.72.8 2 2 2090 20251223230209
+45.131.155.103 2 2 2073 20251218034918
+195.178.110.54 1 1 1042 20251228194456
+3.253.6.220 1 1 1037 20251218163256
+108.130.18.120 1 1 1038 20251229002037
+141.98.252.203 1 1 1033 20251224231238
+13.212.173.158 1 1 1045 20251223010107
+129.212.225.226 1 1 1036 20251209013258
+162.142.125.209 1 1 1035 20251217205058
+13.212.244.61 1 1 1036 20251223192801
+45.148.10.80 1 1 1047 20251205182552
+56.155.99.202 1 2 73867870 20251202002506
+3.140.182.19 1 1 1039 20251217163649
+146.70.196.142 1 1 1046 20251222034957
+13.217.28.209 1 1 1045 20251222223735
+165.232.180.194 1 1 1047 20251203132500
+66.132.153.58 1 1 1044 20251221234315
+64.227.42.27 1 1 1048 20251225132502
+143.110.177.165 1 1 1037 20251227101058
+18.170.30.203 1 1 1033 20251222160906
+151.115.89.145 1 1 1046 20251221171219
+45.131.155.100 1 1 1038 20251225200434
+167.99.202.178 1 1 1042 20251217083935
+198.235.24.56 1 1 3310 20251230031033
+45.131.155.102 1 1 1037 20251207104448
+162.142.125.127 1 1 1045 20251214231938
+167.172.41.151 1 1 1038 20251213101935
+157.230.187.109 1 1 1046 20251231112558
+206.168.34.121 1 1 1037 20251224193416
+18.197.153.242 1 1 1036 20251212061946
+87.236.176.17 1 1 1046 20251202183422
+52.59.208.61 1 1 1034 20251213031412
+52.66.242.79 1 1 1047 20251228100556
+18.171.153.157 1 1 1037 20251225223923
+64.225.29.163 1 1 1046 20251223132914
+3.254.233.107 1 1 1035 20251218170202
+47.129.175.66 1 1 1035 20251228224948
+93.123.109.175 1 1 1043 20251225194420
+66.132.153.131 1 1 1043 20251229091844
+18.133.223.42 1 1 1037 20251212015249
+50.92.31.100 1 1 1041 20251229012407
+199.45.154.140 1 1 1037 20251230182724
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20251201 3 3 7664 2
+20251202 4 5 73870996 3
+20251203 3 3 5404 3
+20251205 1 1 1047 1
+20251207 1 1 1037 1
+20251209 1 1 1036 1
+20251212 3 3 3123 3
+20251213 4 4 4148 4
+20251214 3 3 3124 3
+20251215 3 3 5390 3
+20251217 4 4 6426 4
+20251218 6 6 5180 4
+20251219 6 6 4167 2
+20251221 9 9 12901 6
+20251222 3 3 3124 3
+20251223 6 6 8527 5
+20251224 2 2 2070 2
+20251225 4 4 4166 4
+20251227 2 2 4355 2
+20251228 6 6 6266 5
+20251229 4 4 6432 4
+20251230 2 2 4347 2
+20251231 1 1 1046 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30s-2mn 1
+30mn-1h 1
+2mn-5mn 1
+5mn-15mn 2
+0s-30s 63
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 73 96777 62 63
+/login 7 7298 5 5
+/.env.example 1 1069 1 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+1K-2K 69
+500-1K 6
+2K-5K 1022
+100-500 584
+0-44 69
+5K+ 44
+44-100 98
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

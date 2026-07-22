@@ -1,0 +1,558 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202605 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.ugi.net.in.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2099                
+POS_TIME 2762                
+POS_VISITOR 13908               
+POS_DAY 14568               
+POS_DOMAIN 3433                
+POS_LOGIN 3710                
+POS_ROBOT 3865                
+POS_WORMS 4205                
+POS_EMAILSENDER 4336                
+POS_EMAILRECEIVER 4479                
+POS_SESSION 14792               
+POS_FILESIZE 15148               
+POS_REQUESTTIME 15273               
+POS_SIDER 14939               
+POS_FILETYPES 4614                
+POS_DOWNLOADS 4749                
+POS_OS 4797                
+POS_BROWSER 4908                
+POS_SCREENSIZE 5257                
+POS_UNKNOWNREFERER 5331                
+POS_UNKNOWNREFERERBROWSER 5418                
+POS_ORIGIN 5500                
+POS_SEREFERRALS 5632                
+POS_PAGEREFS 5816                
+POS_SEARCHWORDS 6061                
+POS_KEYWORDS 6230                
+POS_MISC 2425                
+POS_ERRORS 6308                
+POS_CLUSTER 3566                
+POS_SIDER_404 6478                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260601005304 6 1034 12935477373919
+FirstTime 0
+LastTime 20260531212733
+LastUpdate 20260601192515 6 0 5 0 0
+TotalVisits 16                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 15                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 11 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 43 69 282998
+1 4 4 94064 67 74 50732
+2 1 1 4284 8 11 18600
+3 0 0 0 9 9 26854
+4 0 0 0 244 258 273489
+5 1 1 6255 4 5 26938
+6 0 0 0 24 24 88567
+7 0 0 0 7 7 67637
+8 0 0 0 284 286 352667
+9 0 0 0 20 32 129350
+10 4 4 25020 276 277 342966
+11 1 1 6255 77 88 1165857
+12 0 0 0 7 7 47347
+13 0 0 0 11 12 6541
+14 5 7 178306 442 452 212027
+15 0 0 0 88 89 45271
+16 1 1 6255 50 63 118261
+17 0 0 0 32 46 411796
+18 0 0 0 8 11 0
+19 1 1 6255 237 262 406235
+20 0 0 0 78 112 436085
+21 3 3 50753 116 141 444030
+22 3 3 38895 150 168 637074
+23 0 0 0 13 15 86379
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 16 18 316155
+au 4 4 77152
+bg 2 2 12510
+ru 1 1 6241
+jp 1 1 4284
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+crawl 6 666 20260528174024 6
+bot[\s_+:,\.\;\/\\-] 5 672 20260528171751 4
+YandexBot/ 1 107 20260520195520 1
+Googlebot/ 1 244 20260522095500 0
+unknown 1 107 20260518025221 1
+Baiduspider/ 1 107 20260522095500 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 1 36176 0 0
+Unknown 2 10525 0 0
+js 1 111433 0 0
+html 22 258208 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+macosx15 11 10
+win10 10 10
+win7 2 1
+linux 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 16
+chrome145.0.0.0 1 1
+safari18.4 1 1
+safari26.4 2 2
+chrome60.0.3112.113 2 2
+safari14.1.2 1 1
+netscape5.0 2 2
+firefox91.0 1 0
+firefox148.0 1 1
+safari14.1.1 1 1
+chrome131.0.0.0 4 4
+chrome91.0.4472.124 1 1
+safari14.0.3 1 0
+firefox149.0 2 2
+chrome123.0.0.0 1 1
+chrome94.0.4606.71 2 2
+chrome146.0.0.0 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 16 18
+From1 0 0
+From2 2 2
+From3 4 4
+From4 2 2
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+search_yahoo_com 1 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://www.reddit.com 1 1
+https://twitter.com 1 1
+https://www.linkedin.com 1 1
+https://t.co 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+wordpress+site 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+wordpress 1
+site 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+500 2 4862
+301 231 0
+406 837 188710
+404 681 5422800
+400 1 21
+409 712 58681
+302 26 0
+421 2 724
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 244
+/config.json.save 2 -
+/_environment 2 -
+/api/v1/health 1 -
+/rest/settings 1 -
+/assets/img/apple-touch-icon.png 1 -
+/wp-content/plugins/burst-statistics/assets/js/build/burst.js 1 -
+/service-account.json 4 -
+/.env.yaml 2 -
+/@fs/.git/config 4 -
+/gql 4 -
+/.env.production 11 -
+/docker-compose.prod.yml 1 -
+/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map 1 -
+/api/env 5 -
+/secrets.json 3 -
+/assets/vendor/php-email-form/validate.js.map 1 -
+/.env.staging 6 -
+/auth.json 3 https://mail.google.com/
+/const.js 1 -
+/settings.json 1 https://twitter.com/
+/api/inngest 1 -
+/api/docs/api.json 1 -
+/sa.json 2 -
+/blog-verify 9 -
+/config/smtp 2 https://docs.google.com/
+/wp-json/gravitysmtp/v1/tests/mock-data 1 -
+/Jenkinsfile 1 https://duckduckgo.com/
+/.env.remote 2 -
+/mail/.git/config 3 -
+/api/inngest/handler 1 -
+/.git/refs/heads/main 1 -
+/.env.txt 4 -
+/api/admin/debug 1 -
+/_ignition/health-check 1 -
+/wp-content/plugins/fancy-elementor-gallery-box/assets/js/fancy-elementor-flipbox.js 3 -
+/env.prod 2 https://www.linkedin.com/
+/credentials 1 -
+/%22assets/vendor/bootstrap/js/bootstrap.bundle.min.js 3 https://www.ugi.net.in.idealgroups.org/%22assets/vendor/bootstrap/js/bootstrap.bundle.min.js%22
+/env 5 -
+/%22assets/vendor/glightbox/js/glightbox.min.js 3 https://www.ugi.net.in.idealgroups.org/%22assets/vendor/glightbox/js/glightbox.min.js%22
+/.env.preprod 2 -
+/bundle.js 1 -
+/js/env.js 2 -
+/.ssh/authorized_keys 2 https://claude.ai/
+/serviceAccountKey.json 1 -
+/admin/dashboard 1 -
+/../../.env 2 -
+/app/.git/config 4 -
+/gcp-credentials.json 2 -
+/query 4 -
+/api/documentation.json 1 -
+/assets/vendor/bootstrap/js/bootstrap.bundle.min.js 9 -
+/actuator/heapdump 1 -
+/assets/vendor/aos/aos.js 11 -
+/wp-includes/.cache_key 3 -
+/api/edge/inngest 1 -
+/key.json 2 -
+/storage/../../../.env 4 -
+/firebase-adminsdk.json 2 -
+/laravel/.env.local 2 -
+/%22assets/vendor/imagesloaded/imagesloaded.pkgd.min.js 3 https://www.ugi.net.in.idealgroups.org/%22assets/vendor/imagesloaded/imagesloaded.pkgd.min.js%22
+/graphql/v1 4 -
+/wp-content/plugins/burst-statistics/assets/css/shortcodes.css 1 -
+/heapdump 1 -
+/api/debug 1 -
+/phpinfo 2 -
+/secrets.yml 1 -
+/google-key.json 2 -
+/@fs/etc/passwd 4 -
+/settings.js 2 -
+/assets/img/favicon.png 1 -
+/docker-compose.yml 2 -
+/api/v1/send-email 2 -
+/.git/HEAD 10 -
+/register 1 -
+/env.testing 2 -
+/wp-content/themes/twentystd/ 1 -
+/appsettings.json 3 -
+/.env.dev 7 -
+/%22assets/vendor/swiper/swiper-bundle.min.js 3 https://www.ugi.net.in.idealgroups.org/%22assets/vendor/swiper/swiper-bundle.min.js%22
+/.env.live 2 -
+/api/fn 1 -
+/.env2 2 -
+/.env.uat 2 -
+/aws-config.js 2 -
+/staging/.git/config 4 -
+/api/auth/session 1 -
+/.env.test 2 -
+/.env1 2 -
+/.env.example 7 -
+/admin/.env 7 -
+/cloudbuild.yaml 1 -
+/.env.local 18 -
+/api/templates/env 1 -
+/env.development 2 https://www.youtube.com/
+/laravel/.env.example 2 https://www.notion.so/
+/credentials.json 4 -
+/assets/vendor/glightbox/js/glightbox.min.js 11 -
+/.env.sample 2 -
+/git/.git/config 4 -
+/.git/logs/HEAD 1 -
+/config.js 4 -
+/docs/api 1 -
+/app/.env.local 3 -
+/.env.backup1 2 -
+/actuator/env 5 -
+/../.env 2 -
+/app.js 1 -
+/manage/env 1 -
+/api/internal/debug 1 -
+/user/login 1 -
+/graphql 4 -
+/api/.git/config 4 -
+/.env.stage 2 -
+/api/events 1 -
+/wp-content/.git/config 4 -
+/wp-json/teknocore/v1/ 2 -
+/inngest 1 -
+/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js.map 1 -
+/.env.1 1 -
+/%22assets/vendor/aos/aos.js 3 https://www.ugi.net.in.idealgroups.org/%22assets/vendor/aos/aos.js%22
+/gcp-account.json 1 https://www.youtube.com/
+/.env.testing 2 https://medium.com/
+/.env.yml 2 -
+/actuator/env/aws 1 -
+/api/v1/debug 1 -
+/api/v1/status 1 -
+/openapi.json 1 -
+/assets/vendor/purecounter/purecounter_vanilla.js 11 -
+/account 1 -
+/.aws/credentials 5 -
+/api/admin 1 -
+/backend 1 -
+/.env.local.save 1 -
+/v1/graphql 4 -
+/%22assets/js/main.js 3 https://www.ugi.net.in.idealgroups.org/%22assets/js/main.js%22
+/.env.docker 5 -
+/api/me 1 -
+/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js 11 -
+/.env.backup2 2 -
+/wp-content/plugins/wp-google-map-gold/Licensing/GPL.txt 1 -
+/ssh/authorized_keys 2 -
+/api/docs.json 1 -
+/assets/vendor/php-email-form/validate.js 11 -
+/wp-json/bm/v1/ 1 -
+/firebase-service-account.json 1 -
+/.config/gcloud/application_default_credentials.json 2 -
+/docs/api.json 1 -
+/assets/vendor/swiper/swiper-bundle.min.js 10 -
+/configprops 1 -
+/doors-test-article 1 -
+/.env.dev.local 3 -
+/assets/js/aos.js 11 -
+/api/config 4 -
+/config.json 7 -
+/.env.development 8 -
+/assets/vendor/glightbox/js/glightbox.min.js.map 1 -
+/google-service-account.json 1 -
+/config 1 https://chat.openai.com/
+/.env.ci 2 -
+/env.production 2 https://stackoverflow.com/
+/admin/.git/config 4 -
+/api/v1/chatflows 1 -
+/dev/.git/config 4 -
+/graphql/v2 4 -
+/application_default_credentials.json 2 -
+/api/status 1 -
+/wp-content/themes/wp-classic/inc/ 1 -
+/js/config.js 3 -
+/assets/vendor/isotope-layout/isotope.pkgd.min.js 11 -
+/wp-json/wp/v3/ 3 -
+/wp-content/plugins/custom-css-js-php/assets/css/wcjp-backend.css 1 -
+/env.local 2 https://www.youtube.com/
+/swagger.json 1 -
+/api/v1/ping 1 -
+/profile 1 -
+/.env.dist 2 -
+/.env.save 6 -
+/gcp-sa.json 2 -
+/api/v1/ 1 -
+/wp-admin/.git/config 4 -
+/sa-key.json 1 https://www.notion.so/
+/api/v2/health 1 -
+/profiler/phpinfo 1 -
+/profiler 1 -
+/.git/config 46 -
+/firebase-key.json 2 -
+/wp/.git/config 4 -
+/application.yml 1 -
+/.git/FETCH_HEAD 1 -
+/admin/env 1 -
+/keyfile.json 2 -
+/.env.development.local 3 -
+/api/templates 1 -
+/_profiler/phpinfo 2 -
+/api/functions 1 -
+/app.yaml 1 https://chat.openai.com/
+/api/v2/debug 1 -
+/api/v2/status 1 -
+/info 2 -
+/_layouts/15/ 1 -
+/administrator/ 1 -
+/gcp-key.json 2 -
+/%22assets/vendor/isotope-layout/isotope.pkgd.min.js 3 https://www.ugi.net.in.idealgroups.org/%22assets/vendor/isotope-layout/isotope.pkgd.min.js%22
+/assets/js/aos.js.map 1 -
+/assets/js/main.js.map 1 -
+/aws.config.js 2 -
+/v2/.git/config 3 -
+/assets/vendor/aos/aos.js.map 1 -
+/.env_copy 2 -
+/%22assets/vendor/php-email-form/validate.js 3 https://www.ugi.net.in.idealgroups.org/%22assets/vendor/php-email-form/validate.js%22
+/.env.json 2 -
+/assets/js/main.js 11 -
+/.git/refs/heads/master 1 -
+/.env.tmp 2 -
+/.env.production.save 1 -
+/healthz 1 -
+/api/handler 1 -
+/assets/vendor/purecounter/purecounter_vanilla.js.map 1 -
+/_nuxt/app.js 1 -
+/_next/static/chunks/main.js 1 -
+/wp-content/plugins/fusion-builder/assets/css/side-header.min.css 1 -
+/file-manager/initialize 9 -
+/actuator/env/cloud 1 -
+/.env.prod 6 -
+/static/js/main.js 1 -
+/_ignition/execute-solution 1 -
+/backup/.git/config 4 -
+/assets/vendor/isotope-layout/isotope.pkgd.min.js.map 1 -
+/api/templates/default 1 -
+/credentials.yml.enc 1 -
+/.aws/config 1 -
+/%22assets/js/aos.js 3 https://www.ugi.net.in.idealgroups.org/%22assets/js/aos.js%22
+/api/graphql 4 -
+/Dockerfile 1 -
+/wp-content/plugins/cidaas-pro-master/composer.json 2 -
+/env.staging 2 https://www.bing.com/search
+/%22assets/vendor/purecounter/purecounter_vanilla.js 3 https://www.ugi.net.in.idealgroups.org/%22assets/vendor/purecounter/purecounter_vanilla.js%22
+/actuator 1 -
+/manage 1 -
+/actuator/configprops 2 -
+/settings 1 -
+/google-credentials.json 2 -
+/assets/vendor/swiper/swiper-bundle.min.js.map 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+129.150.46.46 5 7 178306 20260516145956
+54.78.215.182 4 4 25020 20260519100902
+93.123.109.167 2 2 12510 20260520164739
+137.220.224.4 2 2 47032 20260523013836
+137.220.224.53 1 1 46713 20260523013836
+118.107.44.122 1 1 319 20260522220001
+140.238.254.59 1 1 6255 20260531212733
+118.107.44.120 1 1 319 20260522220000
+137.220.224.16 1 1 319 20260523013826
+118.107.44.116 1 1 38257 20260522215959
+43.165.5.110 1 1 4284 20260527025514
+136.116.198.170 1 1 6255 20260527110139
+118.107.44.96 1 1 38257 20260522220000
+107.150.120.129 1 1 6255 20260531191740
+195.178.110.101 1 1 6241 20260509215921
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20260509 1 1 6241 1
+20260516 5 7 178306 1
+20260519 4 4 25020 1
+20260520 2 2 12510 2
+20260522 4 4 77152 4
+20260523 4 4 94064 3
+20260527 2 2 10539 2
+20260531 2 2 12510 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 16
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 14 86992 7 7
+/wp-json/wp/v2/users/ 4 1276 3 4
+/wp-json/wp/v2/ 2 93426 2 1
+/feed/ 2 76514 2 2
+/wp-json/wp/v2/pages 1 4284 1 1
+/api/user 1 6241 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 5
+0-44 287
+2K-5K 3
+100-500 863
+44-100 707
+5K+ 684
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

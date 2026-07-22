@@ -1,0 +1,2206 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202602 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2093                
+POS_TIME 2779                
+POS_VISITOR 47775               
+POS_DAY 50550               
+POS_DOMAIN 3546                
+POS_LOGIN 3908                
+POS_ROBOT 4063                
+POS_WORMS 4373                
+POS_EMAILSENDER 4504                
+POS_EMAILRECEIVER 4647                
+POS_SESSION 51111               
+POS_FILESIZE 51653               
+POS_REQUESTTIME 51802               
+POS_SIDER 51268               
+POS_FILETYPES 4782                
+POS_DOWNLOADS 4886                
+POS_OS 4974                
+POS_BROWSER 5194                
+POS_SCREENSIZE 5828                
+POS_UNKNOWNREFERER 5902                
+POS_UNKNOWNREFERERBROWSER 6403                
+POS_ORIGIN 6523                
+POS_SEREFERRALS 6657                
+POS_PAGEREFS 6801                
+POS_SEARCHWORDS 6949                
+POS_KEYWORDS 7101                
+POS_MISC 2443                
+POS_ERRORS 7160                
+POS_CLUSTER 3764                
+POS_SIDER_404 7366                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260301010222 1448 356511 11084784434466
+FirstTime 20260201020532
+LastTime 20260228140051
+LastUpdate 20260301192844 1448 0 1447 0 0
+TotalVisits 81                  
+TotalUnique 71                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 71                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 5113 128 129 1030118
+1 4 4 3130 410 410 503712
+2 4 4 8707 497 504 157578
+3 2 2 2084 219 219 61719
+4 1 1 1043 3 11 36802
+5 3 3 5391 220 227 93701
+6 0 0 0 2 2 309
+7 4 4 3137 760 760 2510446
+8 1 1 1047 539 539 218274
+9 1 1 1048 2215 2402 155823704
+10 0 0 0 990 991 237521
+11 4 4 2090 3104 3235 78359296
+12 4 4 4189 2034 2034 1793056
+13 3 3 3125 304 304 512973
+14 8 8 15130 391 396 522322
+15 2 2 2083 20 20 394116
+16 30 30 46602 78 84 104671
+17 5 5 11982 1211 1310 79008430
+18 6 6 10804 27 29 396453
+19 2 2 1040 1508 1508 1595266
+20 8 8 15149 34 44 71395
+21 5 5 12017 1499 1499 325495
+22 1 1 1053 185 192 513489
+23 3 3 3133 193 194 50567
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 64 64 108326
+de 12 12 15349
+rs 5 5 14250
+nl 5 5 5414
+jp 5 5 5100
+in 4 4 1171
+ru 4 4 4178
+gb 3 3 2089
+za 1 1 1042
+zz 1 1 87
+lt 1 1 1049
+be 1 1 1042
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+curl 80 297776945 20260228111202 0
+no_user_agent 3 9924 20260228082901 0
+checker 2 2101 20260223210330 0
+Yahoo![\x20]Slurp 1 3308 20260202071905 0
+spider 1 3316 20260202071905 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 90 142494 0 0
+Unknown 16 16603 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/storage/logs/laravel.log 4 0 295894716
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+win8 1 1
+macosx15 9 9
+linuxubuntu 5 5
+macosx 7 7
+macosx9 2 2
+ios_iphone 2 2
+linux 11 11
+ios_ipad 1 1
+win10 33 33
+macosx10 1 1
+Unknown 32 32
+android13 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 31
+Unknown 2 2
+chrome109.0.0.0 1 1
+firefox66.0 1 1
+chrome143.0.0.0 1 1
+msie8.0 1 1
+chrome72.0.3626.121 2 2
+chrome80.0.3987.149 3 3
+firefox45.0 2 2
+chrome134.0.0.0 1 1
+chrome120.0.0.0 5 5
+chrome58.0.3029.110 2 2
+mozilla 27 27
+chrome78.0.3904.108 15 15
+chrome95.0.4638.69 2 2
+chrome142.0.0.0 3 3
+chrome125.0.0.0 1 1
+firefox142.0 1 1
+firefox134.0 5 5
+chrome117.0.5938.132 2 2
+chrome135.0.0.0 1 1
+safari 1 1
+chrome55.0.2884.20 1 1
+safari26.0 6 6
+chrome83.0.4093.0 1 1
+chrome113.0.0.0 1 1
+firefox77.0 1 1
+netscape5.0 6 6
+firefox122.0 1 1
+firefox51.0 2 2
+firefox117.0 2 2
+chrome126.0.0.0 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260223204949
+Cpanel-HTTP-Client/1.0 20260220162730
+Mozilla/5.0_(l9scan/2.0.5333e24353e28313e2931313;__https://leakix.net) 20260220162906
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260222144453
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20260222114533
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20260220162730
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 106 106
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+403 110 55466
+406 1289 291314
+409 7783 645989
+405 18 8200167
+301 3677 1102377
+408 1 611
+302 3 628
+404 4059 11888316
+500 8 4340951
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1788
+/webhook/uploads 4 -
+/beence.php 1 -
+/php5.ini 1 -
+/webhook/avatar 4 -
+/public/static/common/images/file.png 2 http://digicard.idealgroups.org
+/gcloud.json 1 -
+/config/development.json 3 -
+/workspaces/* 3 -
+/form/file 4 -
+/config.ini 4 -
+/a1vx.php 1 -
+/api/swagger.json 1 -
+/aws/ses/smtp.env 3 -
+/payment/* 3 -
+/s3.secret 3 -
+/worm.PhP 4 -
+/secrets.yml 1 -
+/backend/.env.local 1 -
+/api/upload 1 -
+/conf/dev-application.conf 3 -
+/tmp 1 -
+/old/aws_config 3 -
+/.git/HEAD 4 -
+/laravel/.env.production 1 -
+/docker/overlay/config.json 3 -
+/.env.production.local 1 -
+/config/sendgrid.py 1 -
+/terraform.tfstate 3 -
+/randkeyword.PhP7 5 -
+/.Thumbs.db 3 -
+/_react/action/* 3 -
+/.env_aws 1 -
+/webhook/resources 4 -
+/new/.env.local 1 -
+/config/database.py 3 -
+/storage/logs/stack.log 1 -
+/wp-content/uploads/wp-cert.phtml 3 -
+/jobs/config.xml 3 -
+/amigo.php 1 -
+/angular.json 3 -
+/rest/credential-translation 3 -
+/hehe.php 1 -
+/w.php 1 -
+/form/documents 4 -
+/src/settings.js 3 -
+/private.key 1 -
+/form/profile/avatar 4 -
+/webhook/upload 4 -
+/js/config.js 3 -
+/config/packages/cache.yaml 3 -
+/log.txt 1 -
+/cgi-bin/pass.txt 1 -
+/xmlrpc.php 2 -
+/form/blob 4 -
+/app/serverless.yaml 3 -
+/aaa.php 1 -
+/wp-content/ice.php 1 -
+/conf/prod-application.conf 3 -
+/api/batch/upload 1 -
+/upfile.php 1 -
+/env 7 -
+/api/docs 1 -
+/images/fk2e3 3 -
+/_next/static/chunks/945-34f67d7c0866cf61b970.js 1 -
+/cms/* 3 -
+/_next/static/chunks/app/layout-a908fe02173ed4b1.js 1 -
+/config.js 4 -
+/v1/admin 1 -
+/_next/data/*/index.json 3 -
+/wp-includes/blocks 3 -
+/wp-content/debug.log 4 -
+/.terraform.tfstate 3 -
+/config/env/development.js 3 -
+/xmrlpc.php 1 -
+/ini.php 1 -
+/src/config.js 3 -
+/rest/executions 3 -
+/item.php 1 -
+/storage/.env.local 1 -
+/post-data.php 1 -
+/server.key 4 -
+/wp-2019.php 1 -
+/now.json 1 -
+/.git/modules 3 -
+/:27017 3 -
+/wp-content/plugins/apikey/natural.php 1 -
+/_next 4 -
+/wordpress/wp-admin/includes 12 -
+/example.env 1 -
+/environment 1 -
+/X7x.php 1 -
+/gists/cache 4 -
+/backup/sendgrid.json 1 -
+/product/.env.staging 1 -
+/form-test/* 3 -
+/app.tar.gz 1 -
+/src/main/resources/bootstrap.properties 3 -
+/projects/* 3 -
+/backup.tar 1 -
+/assets/index-[hash].js 1 -
+/[workspace]/* 3 -
+/package-updates/download.cgi 3 -
+/db-admin 1 -
+/public/system 1 -
+/main.58a95e8d8659972f.js 1 -
+/instance/sendgrid_keys.py 1 -
+/pages/* 3 -
+/logs/app.log 1 -
+/env.test.js 1 -
+/webhook/api/assets 4 -
+/.env.dev.local 1 -
+/main.yml 1 -
+/karak.php 1 -
+/gatsby-ssr.js 3 -
+/debug.json 1 -
+/storage/debugbar/*.json 1 -
+/~/.netrc 3 -
+/webhook/api/import 4 -
+/src/config/environment.json 3 -
+/blog 3 -
+/alfa3.php 1 -
+/form/api/document 4 -
+/form/photos 4 -
+/mysql 1 -
+/var/debug.log 1 -
+/config/config.env 1 -
+/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif 2 http://digicard.idealgroups.org
+/v2/_catalog 1 -
+/.svn/entries 4 -
+/include/ckeditor/images/addon.gif 4 http://digicard.idealgroups.org
+/config/environments/production.rb 3 -
+/default.php 1 -
+/app/amplify.yaml 3 -
+/oauth/authorize 3 -
+/%2f.aws%2fcredentials 3 -
+/.well-known/security.txt 5 -
+/sapi/debug/default/view 1 -
+/@vite/env 1 -
+/config/initializers/devise.rb 3 -
+/config/services.yaml 3 -
+/config/env/sendgrid_keys.env 1 -
+/app.yaml 1 -
+/secrets.js 1 -
+/about.php 1 -
+/chat/* 3 -
+/s3.js 1 -
+/web.Release.config 3 -
+/actuator/env 4 -
+/in.php 1 -
+/templates/natural.php 1 -
+/devtools 1 -
+/config/database.go 3 -
+/private/sendgrid.json 1 -
+/wp-content/sendgrid_keys.json 1 -
+/_debugbar/open 1 -
+/webpack.config.js 1 -
+/api 2 -
+/WordPress/x 3 -
+/wp-includes/assets/index.php 1 -
+/main.php 1 -
+/.vscode 3 -
+/debug/default/toolbar 3 -
+/wp-includes/ALFA_DATA/alfacgiapi/perl.alfa 1 -
+/selfsigned.key 1 -
+/rest/license 3 -
+/form/v1/documents 4 -
+/wp-includes/ID3 12 -
+/v3/api-docs 1 -
+/conf/messages 3 -
+/web/debug/default/view 1 -
+/form/uploads 4 -
+/.env.development 4 -
+/environment.ts 4 -
+/config/keys.yml 1 -
+/wp-content/plugins/pwnd/as.php 1 -
+/s3.properties 3 -
+/ms.php 1 -
+/phpinfo.test 1 -
+/app/code/core.xml 3 -
+/_vercel/insights 3 -
+/Makefile 1 -
+/.env.email 1 -
+/.svn 1 -
+/storage/oauth-private.key 1 -
+/v1/* 3 -
+/api/config/tsconfig.json 3 -
+/apps/admin/view/default/layui/css/layui.css 2 http://www.digicard.idealgroups.org
+/x7.php 1 -
+/api/admin/auth 1 -
+/var/task/docker-compose.yaml 3 -
+/.env.stage 1 -
+/aws-secret.yaml 1 -
+/api/s3/upload 1 -
+/_next/static/chunks/webpack-[hash].js 1 -
+/abcd.php 1 -
+/dashboard/* 3 -
+/config/cable.yml 3 -
+/css.php 2 -
+/$(pwd)/next.config.js 3 -
+/autoload_classmap.php 1 -
+/new4.php 1 -
+/wp-admin/setup-config.php 1 -
+/info.php 1 -
+/backend 1 -
+/config/env.js 3 -
+/local_settings.py 3 -
+/aws/buckets 3 -
+/.aws/config 4 -
+/login.action 1 -
+/webhook/* 3 -
+/variables.tf 3 -
+/database.zip 1 -
+/form/api/file 4 -
+/config/constants.js 3 -
+/api/storage 1 -
+/trpc/* 3 -
+/.settings 3 -
+/wp-admin/codeboy1877_up.php 1 -
+/leuk.php 1 -
+/app/.terraform/terraform.tfstate 3 -
+/api/login 4 -
+/build 1 -
+/xoot.php 1 -
+/public/js/main.js 3 -
+/burjuva.aspx 2 -
+/~/.boto 3 -
+/backend.tf 3 -
+/webhook/export 4 -
+/form/dropzone 4 -
+/roles/web/tasks/main.yml 3 -
+/api/images/upload 3 -
+/.circleci/config.yml 4 -
+/settings/* 3 -
+/webhook-waiting/* 3 -
+/app/amplify.yml 3 -
+/app/etc/config/core.xml 3 -
+/secrets/config.json 1 -
+/api/gateway 1 -
+/.next 1 -
+/appsettings.Development.json 3 -
+/.output 1 -
+/8xyz.php 1 -
+/.env_copy 1 -
+/webhook/import 4 -
+/lock360.php 1 -
+/.kube/config 3 -
+/.profile 3 -
+/appsettings.json 4 -
+/api/v1/documents 2 -
+/config-overrides.js 3 -
+/static/js/main.bfa51071.js 1 -
+/tonant.php 1 -
+/vite.config.ts 1 -
+/.boto 4 -
+/thesmartestx.php 1 -
+/legacy/tests/9.1.1 1 -
+/env.list 1 -
+/yarn-debug.log 1 -
+/vue.config.js 3 -
+/wxo.php 1 -
+/__nextjs_action 3 -
+/livewire/update 5 http://digicard.idealgroups.org/
+/.id_rsa.pub 3 -
+/new/.env.production 1 -
+/webhook/batch 3 -
+/.env_private 1 -
+/dev-api 1 -
+/internal/config 1 -
+/sendgrid_keys.txt 1 -
+/.pam_environment 1 -
+/graphiql 1 -
+/profiler 3 -
+/wp-content/upgrade/index.php 1 -
+/selfsigned.crt 1 -
+/api/account/avatar 3 -
+/webhooks/incoming/stripe.json 3 -
+/config/test.py 3 -
+/config/sendgrid_keys.json 1 -
+/phpinfo-server 1 -
+/wp-json/wp/v2/posts 1 -
+/service.pwd 1 -
+/Procfile 1 -
+/app/terraform.tfstate 3 -
+/as.php 1 -
+/.powenv 1 -
+/wp-admin/js/wp-conflg.php 1 -
+/dom.php 1 -
+/config/prod_config.py 3 -
+/wp-config.txt 1 -
+/webjars/swagger-ui/index.html 1 -
+/wp-the.php 1 -
+/policies 3 -
+/webhook/api/content 4 -
+/phpinfo.html 1 -
+/var/task/serverless.json 3 -
+/ya.php 1 -
+/.env.aws 3 -
+/Marvins.php 1 -
+/.rbenv-vars 1 -
+/api/env 1 -
+/debug.txt.gz 1 -
+/wp-includes/pomo/wp-conflg.php 1 -
+/wp-admin/shapes.php 1 -
+/.stripe 3 -
+/.env.2 1 -
+/keys.json 1 -
+/config/prod.env.js 3 -
+/static/js/main.8c18b542.js 1 -
+/playbooks/web.yml 3 -
+/ssl.key 1 -
+/:27018 3 -
+/package-updates/index.cgi 3 -
+/aws_s3_config.json 3 -
+/main.35a08c25eb91de70487f.js 1 -
+/form/images 4 -
+/aws-ses.json 3 -
+/ioxi002.PhP7 1 -
+/gatsby-node.js 3 -
+/vendor/drupal/coder/.git/info/exclude 1 -
+/debug.sql.zip 1 -
+/.env.docker 1 -
+/old-index.php 1 -
+/package-updates/refresh.cgi 3 -
+/auth/* 3 -
+/env.json 4 -
+/admin/test 3 -
+/rest/oauth2-credential/auth 3 -
+/api/assets 2 -
+/.env.www 3 -
+/config/environments/test.rb 3 -
+/form 3 -
+/conf/application.yaml 3 -
+/api/admin/user 1 -
+/_vti_bin/* 3 -
+/admin 5 -
+/form/v1/media 4 -
+/manage/* 3 -
+/archives.php 1 -
+/.git/objects/pack 3 -
+/config/settings.py 4 -
+/wp-admin/images/commentv.php 1 -
+/rest/workflows/run 3 -
+/console/* 3 -
+/requirements.txt 3 -
+/api/v1/finchat/open-api 1 -
+/src/env.js 3 -
+/form/api/blob 4 -
+/webhook/shared/upload 4 -
+/.ghc.environment 1 -
+/.buildpath 3 -
+/webhook/files 4 -
+/application/.env.save 1 -
+/~/.gitconfig 3 -
+/prevlaravel/sftp-config.json 3 -
+/fault.php 1 -
+/data.tar.gz 1 -
+/conf/application-dev.conf 3 -
+/api/webhook/* 3 -
+/wp-contentt.php 1 -
+/form/attachment 4 -
+/$(pwd)/vercel.json 3 -
+/build.log 1 -
+/main-TDTOTK7F.js 1 -
+/.ssh/sftp-config.json 3 -
+/[locale]/* 3 -
+/secrets/credentials.xml 3 -
+/printenv.tmp 1 -
+/.terraform/credentials.tfrc.json 3 -
+/indosec.php 1 -
+/form/shared/upload 4 -
+/lx.php 1 -
+/ae.php 1 -
+/docker/registry/config.yml 3 -
+/lala.php 1 -
+/config/test.js 3 -
+/vendors~main.f286c0f60bdc707d91a8.bundle.js 1 -
+/wp-content/uploads/2025/04/natural.php 1 -
+/webhook/api/attachment 4 -
+/.git/logs/refs/heads/master 3 -
+/zwso.php 2 -
+/wp-content/up 1 -
+/debug.sql.tar.gz 1 -
+/wp-includes/SimplePie 9 -
+/wp-content/backup/sendgrid_keys.json 1 -
+/ze.php 1 -
+/debugbar 1 -
+/config/index.js 3 -
+/.json 1 -
+/.drone.yml 3 -
+/webhook/v1/files 4 -
+/form/internal/upload 4 -
+/appsettings.Test.json 3 -
+/fs.php 1 -
+/config/settings.local.yml 1 -
+/.env_bak 1 -
+/wp-includes/css 3 -
+/printenv 1 -
+/wp-blog.php 1 -
+/[id] 3 -
+/config/test.json 3 -
+/new/.env.staging 1 -
+/api/users/avatar 4 -
+/media/* 3 -
+/.aws/secretsmanager 1 -
+/form/api/content 4 -
+/actions/* 3 -
+/webhook/v2/files 4 -
+/config/environment.js 3 -
+/_next/static/* 3 -
+/.env.testing 4 -
+/dev.php 1 -
+/phpmyadmin 4 -
+/var/log/nginx/error.log 3 -
+/data_bags 3 -
+/api/v1/workflows 3 -
+/ext.php 1 -
+/.git-askpass.sh 3 -
+/_next/static/chunks/app/global-error.js 1 -
+/server.pem 3 -
+/config/aws.json 4 -
+/src/configuration.js 3 -
+/_next/static/chunks/pages/_app-d25b242610000153a081.js 1 -
+/static/js/main.4aa2819f.js 1 -
+/src/environments/environment.dev.ts 3 -
+/webhook/photo 4 -
+/x123.php 1 -
+/indo.php 1 -
+/webhook/drive 4 -
+/var/task/amplify.yml 3 -
+/.git/COMMIT_EDITMSG 3 -
+/ff1.php 1 -
+/app/config/parameters.yml 1 -
+/hc/restricted 1 -
+/logs/access.log 1 -
+/form/profile/photo 4 -
+/api/drive/upload 1 -
+/.env.sendgrid 1 -
+/aws/s3/credentials 3 -
+/config/sendgrid_config.json 1 -
+/.gitlab-ci.yml 4 -
+/.aws/config.yaml 1 -
+/X57.php 1 -
+/wp-admin/maint/about.php 1 -
+/Gemfile.lock 3 -
+/xqq.php 1 -
+/goat.php 1 -
+/backup/database.zip 1 -
+/firebase-debug.log 1 -
+/en/* 3 -
+/webhook/v2/upload 4 -
+/src/environments/environment.prod.ts 3 -
+/miansha.php 1 -
+/upload 4 -
+/public/env.js 3 -
+/ok.php 1 -
+/api/content/upload 2 -
+/app/serverless.yml 3 -
+/startup.sh 1 -
+/config/settings/__init__.py 3 -
+/file-upload 1 -
+/num.php 1 -
+/sample.env 1 -
+/alfaindex.php 1 -
+/env.py 3 -
+/_api/* 3 -
+/api/v1/upload 4 -
+/settings.ini 1 -
+/fileupload 1 -
+/config/settings/sendgrid_config.json 1 -
+/environments/dev 3 -
+/secrets/initialAdminPassword 3 -
+/prv8.php 1 -
+/.trash7309/f 3 -
+/user/.env.staging 1 -
+/config/default.json 4 -
+/config/routes.rb 3 -
+/src/environments/environment.ts 3 -
+/config/settings/sendgrid_keys.json 1 -
+/v2/api-docs 1 -
+/fw.php 1 -
+/next.config.js 3 -
+/api/resetpassword 1 -
+/web.Debug.config 3 -
+/admin/db.conf 1 -
+/crossdomain.xml 3 -
+/assets/js/app.f8ec9fb3.js 1 -
+/webhook/api/document 4 -
+/api/authentication 1 -
+/wp-content/plugins/.git/config 1 -
+/config/deploy.js 3 -
+/server/s3.js 1 -
+/phpsysinfo 1 -
+/web.xml 1 -
+/api-docs/swagger.json 1 -
+/.env.bkp 1 -
+/wp-content/plugins/wp-mail-smtp/sendgrid_keys.json 1 -
+/.vscode/sftp.json 4 -
+/repeater.php 1 -
+/Sanskrit.php 1 -
+/src/main/resources/logback-spring.xml 3 -
+/form/api/submit 4 -
+/rest/node-types 3 -
+/config/deployment.yaml 3 -
+/app/etc/config/local.xml 3 -
+/webhook/api/file 4 -
+/assets/index-[hash].mjs 1 -
+/_profiler/empty/search/results 1 -
+/package-updates/install.cgi 3 -
+/src/main/resources/security.properties 3 -
+/error 3 -
+/form/v1/import 4 -
+/styll.php 1 -
+/moshou.php 1 -
+/webhook/profile/avatar 4 -
+/package-updates/*.cgi 3 -
+/tmp/logs 1 -
+/phpinfo 5 -
+/webhook/v1/upload 4 -
+/env.example 1 -
+/api/admin/user/password 1 -
+/.github/workflows/*.yml 1 -
+/var/task/amplify.yaml 3 -
+/var/task/package.json 3 -
+/[...catchAll] 3 -
+/server/settings.js 3 -
+/form/api/uploads 4 -
+/home/*/.aws/credentials 3 -
+/$(pwd)/docker-compose.yml 3 -
+/wp-includes/IXR/chosen.php 1 -
+/gulpfile.js 3 -
+/.env.sample 1 -
+/inputs.php 2 -
+/signup 3 -
+/wen.php 1 -
+/private/sendgrid_keys.json 1 -
+/secrets.env 1 -
+/gists/laravel 1 -
+/src/main/resources/application-dev.yml 3 -
+/.env.save 1 -
+/var/task/amplify/backend/function/*/src/index.js 3 -
+/sendgrid_keys.py 1 -
+/api/info 1 -
+/app/* 3 -
+/app.py 3 -
+/metrics 3 -
+/src/config/config.ts 3 -
+/secrets/jenkins.util.Secret 3 -
+/config/stripe.json 3 -
+/cookbooks 3 -
+/src/environments/environment.staging.ts 3 -
+/init.sh 1 -
+/.jenv-version 1 -
+/static/.gitlab-ci.yml 3 -
+/form/api/avatar 4 -
+/Properties/launchSettings.json 3 -
+/build/main.ba0c34b7.js 1 -
+/_next/data/*/about.json 3 -
+/webhook/admin/upload 4 -
+/wp-login.php 1 -
+/kubeconfig 3 -
+/form/storage 4 -
+/api/v2/files 1 -
+/666.php 1 -
+/threads/* 3 -
+/staging-api 1 -
+/tcp.php 1 -
+/tsconfig.json 3 -
+/.git/logs/HEAD 3 -
+/zb_users/avatar/0.png 2 http://digicard.idealgroups.org
+/i.php 1 -
+/vendor/livewire/livewire.min.js 3 http://digicard.idealgroups.org/livewire/livewire.min.js
+/wp-admin/images/wp-conflg.php 1 -
+/conf/play.plugins 3 -
+/config/env/production.js 3 -
+/_next/static/chunks/app/error.js 1 -
+/form/assets 4 -
+/_astro/[chunk-name].[hash].js 1 -
+/config.ts 1 -
+/er.php 1 -
+/wp-includes/blocks/code 2 -
+/api/serverless/* 3 -
+/config/dev_settings.py 3 -
+/src/app.js 1 -
+/ansible.cfg 3 -
+/api/profile/photo 3 -
+/webhook/user/avatar 4 -
+/build.sh 1 -
+/config.py 3 -
+/bak.php 1 -
+/webhook/internal/import 4 -
+/myfile.php 1 -
+/articles/* 3 -
+/payment_gateways/stripe.yaml 3 -
+/wp-content/plugins/up/main.php 1 -
+/manager.php 1 -
+/config/staging.env.js 3 -
+/vesiw.php 1 -
+/makeasmtp.php 1 -
+/wp-admin/js/autoload_classmap.php 1 -
+/error.log 4 -
+/aw.php 1 -
+/wp-content/uploads/sendgrid_keys.json 1 -
+/nuxt.config.js 3 -
+/config/mailgun.json 1 -
+/down.html 1 -
+/s3/bucket.env 3 -
+/~/.aws/config 3 -
+/settings/sendgrid_keys 1 -
+/form/fileupload 4 -
+//class.php 1 -
+/.git/refs/remotes/origin/HEAD 3 -
+/storage/sendgrid.json 1 -
+/wp-atom.php 1 -
+/app/info 1 -
+/api/* 3 -
+/config/production.js 3 -
+/terraform.tfvars 3 -
+/webhook/admin/files 4 -
+/saka.phP7 2 -
+/v1/upload 1 -
+/src/setupProxy.js 3 -
+/debug.txt 1 -
+/f0x.php 1 -
+/.hg 1 -
+/var/task/vercel.json 3 -
+/api/register 1 -
+/private/keys.json 1 -
+/shell20211028.php 1 -
+/shell.php 1 -
+/src/main/resources/application-prod.yml 3 -
+/admin/files 2 -
+/form/v1/files 4 -
+/wp-content/themes/.git/config 1 -
+/debug.xml 1 -
+/lufix.php 1 -
+/cmsmessages/information.aspx 1 -
+/static/js/main.36e5ec99.js 1 -
+/inc.php 1 -
+/.trash7309/fafa 3 -
+/private/sendgrid_keys 1 -
+/webhook/media 4 -
+/sc.php 1 -
+/$(pwd)/serverless.yml 3 -
+/webhook/file-upload 3 -
+/motu.php 1 -
+/jsond.php 1 -
+/zb_system/image/common/user_1.png 2 http://www.digicard.idealgroups.org
+/webhook 3 -
+/config/test_settings.py 3 -
+/errors.log 1 -
+/uninstall.sh 1 -
+/private/sendgrid_config 1 -
+/conf/routes 3 -
+/config/local.js 3 -
+/config/routes.yaml 3 -
+/billing/* 3 -
+/form/files 4 -
+/config/secret.yaml 3 -
+/webhook/backup 4 -
+/moon.php 1 -
+/wp-config 1 -
+/config.yaml 1 -
+/webhook/blob 4 -
+/public/stripe.js 3 -
+/form/account/avatar 4 -
+/a1.php 1 -
+/..%5c..%5c..%5c..%5c..%5c..%5cvar/log/apache2/access.log 3 -
+/secret.env 1 -
+/wp-includes/lx.php 1 -
+/webhook/bulk 3 -
+/config/packages/security.yaml 3 -
+/.github/workflows/ci.yml 3 -
+/s3.yml 3 -
+/products 3 -
+/config/private/sendgrid_keys.json 1 -
+/blog/wp-content/themes/.git/config 1 -
+/webhook/uploadfile 3 -
+/assets/index-GquDNGwd.js 1 -
+/.rbenv-version 1 -
+/app/nuxt.config.js 3 -
+/wp-sigunq.php 1 -
+/Gemfile 3 -
+/.aws/secret_access_key.txt 1 -
+/stripe.yaml 3 -
+/vendor/drupal/coder/.git/objects/info 1 -
+/.dockerignore 4 -
+/ol.php 1 -
+/config/packages/prod.yaml 3 -
+/internal-api 1 -
+/secrets/master.key 3 -
+/config.local 1 -
+/.sendgrid/config 1 -
+/webhook-test/files 3 -
+/config/db.js 3 -
+/config/packages/prod/doctrine.yaml 3 -
+//lala.php 1 -
+/cron.sh 1 -
+/static/js/main.335d17a0.js 1 -
+/config/daemon.json 3 -
+/.github 3 -
+/env.js 1 -
+/.git/hooks 3 -
+/wp-login 2 -
+/content/debug.log 1 -
+/api/.env.example 1 -
+/.nuxt 1 -
+/api/data/* 3 -
+/form/drive 4 -
+/package-updates/yum.cgi 3 -
+/webhook/asset 4 -
+//wp-admin/images/wp-conflg.php 1 -
+/api/auth 1 -
+/api/gallery/upload 3 -
+/main.457ddfd2b1341056.js 1 -
+/.git-secret 3 -
+/teams/* 3 -
+/.trash7309/dd 3 -
+/.vs 3 -
+/src/main/resources/application-context.xml 3 -
+/plugins/payments/stripe.json 3 -
+/rest/credentials-for-node 3 -
+/form/v1/upload 4 -
+/_ignition 1 -
+/.cache 3 -
+/conf/development.conf 3 -
+/chosen.php 1 -
+/ws60.php 1 -
+/config/dev.json 3 -
+/form/batch 4 -
+/config/initializers/secret_token.rb 3 -
+/var/task/next.config.mjs 3 -
+/webhook/api/uploads 4 -
+/src/main/resources/application.properties 3 -
+/kj.php 1 -
+/configs/application.ini 4 -
+/*/[slug] 3 -
+/class.1.php 1 -
+/jane.php 1 -
+/package-updates 3 -
+/wp-includes/ID3/wp-conflg.php 1 -
+/aws_s3_bucket 3 -
+/aws-codecommit 3 -
+/payment/stripe.json 3 -
+/config/policies.js 3 -
+/.well-known/config.json 1 -
+/src/config/env.js 3 -
+/_layouts/* 3 -
+/settings/sendgrid_config 1 -
+/editor/* 3 -
+/main-WTCAS2AO.js 1 -
+/wp-access.php 1 -
+/api/catalog/images 1 -
+/app/.env.example 1 -
+/login8.php 1 -
+/form/uploadfile 4 -
+/webhook/api/attachments 4 -
+/php-information 1 -
+/assets/vendor-[hash].js 1 -
+/sbhu.php 1 -
+/.git 7 -
+/meteor.settings.json 3 -
+/server/config.js 3 -
+/env.prod.js 1 -
+/async.php 1 -
+/allahnaber.php 1 -
+/stripe-keys.json 3 -
+/_layouts/15/* 3 -
+/ff.php 1 -
+/e/data/js/jscolor/hs.png 2 http://digicard.idealgroups.org
+/form/api/import 4 -
+/api/photos 3 -
+/start.sh 1 -
+/playbooks/site.yml 3 -
+/home/*/.gitconfig 3 -
+/main-es2018.96dcf91e05121e327dcb.js 1 -
+/phpinfo.staging 1 -
+/phpinfo.dev 1 -
+/Booking/Default.aspx 1 -
+/.github/CODEOWNERS 3 -
+/yoi.php 1 -
+/api/service 1 -
+/statics/img/login_bg.jpg 2 http://www.digicard.idealgroups.org
+/app.js 3 -
+/wsd.php 1 -
+/config/rolebinding.yaml 3 -
+/config/docker-compose.dev.yml 3 -
+/gcp-credentials.json 3 -
+/database.tar.gz 1 -
+/debug.zip 1 -
+/src/environments/environment.test.ts 3 -
+/wp-includes/ID3/about.php 1 -
+/.env.hidden 1 -
+/roles/db/tasks/main.yml 3 -
+/api/private 1 -
+/rest/logout 3 -
+/app-7d66de919618d3830635.js 1 -
+/proc/index.cgi 3 -
+/swagger-ui.html 1 -
+/$(pwd)/.env.staging 3 -
+/%2fbackend%2f.env 3 -
+/admiin.php 1 -
+/static/js/main.87c766e3.js 1 -
+/config/.env.local 1 -
+/robots.txt 1 -
+/file59.php 1 -
+/wp-db.php 1 -
+/.env.credentials 1 -
+/api/v1/* 3 -
+/webhook/api/images 4 -
+/outputs.tf 3 -
+/form/user/avatar 4 -
+/docker.sh 1 -
+/admin/sql.conf 1 -
+/file2.php 1 -
+/.well-known/* 3 -
+/form/import 4 -
+/form/resource 4 -
+/admin/.env 3 -
+/config/application.yml 3 -
+/config.env 1 -
+/api/v1/finchat/open-api/auth/token 1 -
+/launchSettings.json 3 -
+/config/application.rb 3 -
+/appsettings.Production.json 3 -
+/.pypirc 1 -
+/api/.env.save 1 -
+/wsanon.php 1 -
+/api/auth/* 3 -
+/webhook/attachment 4 -
+/webhook/account/avatar 4 -
+/phpinfo-prod 1 -
+/config/env/test.js 3 -
+//erty.php 1 -
+/webhook/documents 4 -
+/settings.js 3 -
+/frontend/web/debug/default/view 1 -
+/stripe.env 3 -
+/api/v1/account/oauth/token 1 -
+/config/dev.env.js 3 -
+/remove.sh 1 -
+/bless11.php 1 -
+/fe5.php 1 -
+/webmin/package-updates/update.cgi 3 -
+/staticfiles 3 -
+/config/compose-file 3 -
+/js/chunk-vendors.[hash].js 1 -
+/webhook/v1/documents 4 -
+/radio.php 1 -
+/app/package.json 3 -
+/~/.git-credentials 3 -
+/config/config.go 3 -
+/server/key 3 -
+/debug/bar 3 -
+/legacy/tests/9.2.0 1 -
+/adminer.php 1 -
+/.git/logs/refs/heads/main 3 -
+/private/env.json 3 -
+/env.template 1 -
+/conf/logback.xml 3 -
+/.env-sample 1 -
+/config/config.ini 3 -
+/gists/pusher 1 -
+/$(pwd)/terraform.tfvars 3 -
+/app/settings.py 3 -
+/f5.php 1 -
+/api/keys 1 -
+/.github/workflows/main.yml 3 -
+/webhook/submit 4 -
+/.well-known/pki-validation/ 4 -
+/root/.aws/credentials 4 -
+/playbooks/db.yml 3 -
+/ioxi-o.php 1 -
+/admin.html 3 -
+/wp-content/mode.php 1 -
+/app/.env.save 1 -
+/nodes 3 -
+/secrets.txt 1 -
+/webhook/v1/import 4 -
+/jenkins/config.xml 3 -
+/config/env/sendgrid.env 1 -
+/config/env.json 3 -
+/.gcp/credentials 3 -
+/.env_sample 3 -
+/$(pwd)/.env.production 3 -
+/webhook/image 4 -
+/config/production.py 3 -
+/upload/image 1 -
+/api/v1/debug 1 -
+/conf/application-test.conf 3 -
+/config/email.py 3 -
+/api/v1/files 5 -
+/form/document 4 -
+/jenkins.yaml 3 -
+/ms-edit.php 1 -
+/config/secrets.yml 4 -
+/jenkins/secrets/master.key 3 -
+/api/attachments 3 -
+/ffd.php 1 -
+/config/docker-compose.prod.yml 3 -
+/modules 3 -
+/db_backup.zip 1 -
+/pvt.php 1 -
+/we.php 1 -
+/env.ts 1 -
+/api/media/upload 4 -
+/form/file-upload 4 -
+/environments 3 -
+/blog.php 1 -
+/.aws/s3/config.json 1 -
+/api/credentials 3 -
+/w0.php 1 -
+/wp-admin/network 3 -
+/~/.aws/credentials 3 -
+/app/etc/settings.xml 3 -
+/rest/workflows 3 -
+/api/profile/avatar 4 -
+/var/task/nuxt.config.js 3 -
+/static/js/main.1b34ee2a.js 1 -
+/config/packages/dev.yaml 3 -
+/dev1s.php 1 -
+/testing 1 -
+/static/js/main.ef8ecb99.chunk.js 1 -
+/debug/default/view 4 -
+/keys/sendgrid_keys.json 1 -
+/webhook/storage 4 -
+/public/client/planinfo 3 -
+/.git-credentials 3 -
+/root/.gitconfig 3 -
+/js/app.bundle.min.js 1 -
+/wp-content/uploads/wp-mail-smtp/sendgrid_keys.json 1 -
+/telescope/requests 1 -
+/js/vendor.[hash].js 1 -
+/retu11.PhP7 2 -
+/web/api/config.js 1 -
+/src/api/config.js 1 -
+/main.tf 3 -
+/api/multipart 1 -
+/swagger/swagger-ui.html 1 -
+/166.php 1 -
+/dnscfg.cgi 3 -
+/app/config.js 1 -
+/vendor/drupal/coder/.git/info/refs 1 -
+/uploader.php 1 -
+/s3.key 3 -
+/_next/data/*/*.json 3 -
+/api/admin 1 -
+/webpack-stats.json 1 -
+/aq.php 1 -
+/webhook/attachments 4 -
+/doc.php 1 -
+/server.log 1 -
+/conf/test.conf 3 -
+/src/main/resources/application.yml 3 -
+/.ssh/id_rsa.pub 1 -
+/backup/sendgrid_keys.json 1 -
+/AK-74.php 1 -
+/app/config.py 3 -
+/main.2b8841d1a101dd041285.js 1 -
+/config/production.json 4 -
+/wso112233.php 1 -
+/sendgrid.json 1 -
+/config/prod.json 3 -
+/META-INF/context.xml 1 -
+/alfanew.php 1 -
+/_next/static/chunks/app/%5B...not-found%5D/page-63e952e68a371605.js 1 -
+/.github/stale.yml 3 -
+/.well-known/credentials.json 1 -
+/.github/PULL_REQUEST_TEMPLATE.md 3 -
+/sendgrid_keys.json 1 -
+/form/submit 4 -
+/fi.php 1 -
+/build/_app/immutable/chunks/[chunk].[hash].js 1 -
+/var/log/apache2/error.log 3 -
+/$(pwd)/*.auto.tfvars 3 -
+/wp-includes/bk/index.php 1 -
+/.s3cfg 3 -
+/main.b610bd7c7b9b7a47.js 1 -
+/s/5333e24353e28313e2931313/_/ 1 -
+/.git/index 3 -
+/logs 4 -
+/backup/sendgrid_config 1 -
+/cert.pem 1 -
+/config/kubeconfig.yaml 3 -
+/modules/contrib/sendgrid_mail/sendgrid_mail.services.yml 1 -
+/inventory/hosts 3 -
+/src/config/app.config.ts 3 -
+/info 4 -
+/samiri.php 1 -
+/.git/hooks/pre-commit 3 -
+/secrets/sendgrid_keys 1 -
+/secrets/sendgrid_config 1 -
+/pouhg.php 1 -
+/.bitbucket-pipelines.yml 1 -
+/%2f.env 3 -
+/api/auth/v1/pin/verify 1 -
+//about.php 1 -
+/config/settings.ini 1 -
+/config/sendgrid.js 1 -
+/config/ingress.yaml 3 -
+/s3/.aws/config 3 -
+/user/* 3 -
+/backend/debug 1 -
+/api/documents 3 -
+/.gitlab/issue_templates 3 -
+/wp-content/admin.php 1 -
+/config/application-test.properties 3 -
+/src/main/resources/appsettings.yml 3 -
+/logs.sh 1 -
+/.env.uat 1 -
+/config/docker-compose.override.yml 3 -
+/notifications/* 3 -
+/sitemap.xml 3 -
+/assets/js/app.js 1 -
+/bypass403.php 1 -
+/statics/images/admin_img/logo_1.gif 2 http://www.digicard.idealgroups.org
+//av.php 1 -
+/[tenant]/* 3 -
+/.env_backup 1 -
+/gatsby-config.js 3 -
+/config/packages/test/security.yaml 3 -
+/var/task/serverless.yaml 3 -
+/.hg/hgrc 4 -
+/config/dockerfile 3 -
+/debug.tar.gz 1 -
+/.docker/secrets.json 3 -
+/.env.test.sample 1 -
+/themes.php 1 -
+/dropdown.php 1 -
+/h0110w4y.php 1 -
+/aws.env 3 -
+/*.sql.gz 3 -
+/wp-activate.php 1 -
+/.vite 1 -
+/webhook/api/upload 4 -
+/storage/debug.log 1 -
+/webhook/file 4 -
+/pipeline/config.xml 3 -
+/form/upload 4 -
+/aws.json 4 -
+/app/vercel.json 3 -
+/config/keys.js 3 -
+//adminfuns.php 1 -
+/config/mail.json 1 -
+/simple.php 1 -
+/.vercel/functions/* 3 -
+/application.properties 3 -
+/scripts/deploy.sh 1 -
+/config/test_config.py 3 -
+/v1/debug 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 12 -
+/.env-db 1 -
+/vgtyu.php 1 -
+/wp-content/lx.php 1 -
+/api/v1/users/avatar 4 -
+/roles 3 -
+/lib/config.js 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/swagger/v1/swagger.json 1 -
+/form/api/attachments 4 -
+/.pem 3 -
+/conf/application.conf 3 -
+/run.sh 1 -
+/netlify.toml 1 -
+/.environment 1 -
+/form/api/files 4 -
+/atomlib.php 1 -
+/config/test.env.js 3 -
+/.env.live 1 -
+/webhook/document 4 -
+/uploads/94056-upload.phtml 10 -
+/modules/contrib/sendgrid_mail/sendgrid_mail.module 1 -
+/test-api 1 -
+/configs 3 -
+/grsiuk.php 1 -
+/client/stripe.config.js 3 -
+/rest/login 3 -
+/.git/refs/heads/main 3 -
+/0.php 1 -
+/api/command 1 -
+/webhook/multipart 3 -
+/config/application-dev.properties 3 -
+/roles/common/tasks/main.yml 3 -
+/.aws/secrets 1 -
+/config/config.js 3 -
+/live_env 3 -
+/config/master.key 3 -
+/s3/bucket 3 -
+/$(pwd)/.terraform/terraform.tfstate 3 -
+/__nextjs_action/* 3 -
+/cgi-bin/wp-2019.php 1 -
+/ddd.php 1 -
+/form/avatar 4 -
+/.gitlab 3 -
+/src/config/config.json 3 -
+/config/namespace.yaml 3 -
+/e/data/ecmseditor/infoeditor/plugins/smiley/images/angel_smile.png 2 http://digicard.idealgroups.org
+/config/configmap.yaml 3 -
+/ws.php 1 -
+/_next/static/chunks/framework-[hash].js 1 -
+/var/task/next.config.ts 3 -
+/ccx/index.php 1 -
+/laravel/.env.staging 1 -
+/xa.php 1 -
+/.aws/credentials/admin/.env 1 -
+/webhook-test/import 3 -
+/main-es2015.3c3aa123423ff18c0b00.js 1 -
+/.github/ISSUE_TEMPLATE 3 -
+/.git/info 3 -
+/Dockerfile 4 -
+/e/data/images/arrow.gif 2 http://www.digicard.idealgroups.org
+/.git/logs/refs/remotes/origin/main 3 -
+/phpinfo-api 1 -
+/webhook/api/files 4 -
+/config/models.js 3 -
+/wp5.php 1 -
+/shas.php 1 -
+/xx.php 1 -
+/config/aws.yml 4 -
+/api_keys/sendgrid_keys.json 1 -
+/api/gql 1 -
+/.git/objects/info 3 -
+/stripe-credentials.json 3 -
+/test.sh 1 -
+/plugins.php 2 -
+/src/config/index.js 3 -
+/software/install-updates.cgi 3 -
+/config/packages/dev/twig.yaml 3 -
+/log 3 -
+/access.log 3 -
+/app/docker-compose.yml 3 -
+/phpinfodev 1 -
+/alfanew.PhP7 1 -
+/config/.env.production 1 -
+/.envs 1 -
+/.gitlab-ci 3 -
+/s3/backup 3 -
+/package-updates/apt.cgi 3 -
+/public.key 1 -
+/.vscode/settings.json 4 -
+/.idea 3 -
+/provider.tf 3 -
+/config/staging.json 3 -
+/rollup.config.js 1 -
+/amplify/team-provider-info.json 3 -
+/conf/application.properties 3 -
+/dev/.env.local 1 -
+/api/admin/role/id 1 -
+/config/urls.py 3 -
+/static/js/main.48389ac6.js 1 -
+/healthz 3 -
+/.maintenance 1 -
+/backup/sendgrid_keys 1 -
+/alfa.php 2 -
+/content/* 3 -
+/.git/ORIG_HEAD 3 -
+/.terraform.lock.hcl 3 -
+/resources/application.conf 3 -
+/graphql/api 1 -
+/sendgrid.env 6 -
+/config/stripe.yaml 3 -
+/appsettings.Local.json 3 -
+/form/multipart 4 -
+/_next/static/chunks/pages/_app-d1b5411bacd03f02.js 1 -
+/.well-known/acme-challenge/* 3 -
+/$(pwd)/serverless.yaml 3 -
+/config/dev_config.py 3 -
+/database.yml 1 -
+/.git/config 9 -
+/wp-update.php 1 -
+/id_rsa.pub 4 -
+/warm.PhP7 7 -
+/config/secrets.json 4 -
+/gatsby-browser.js 3 -
+/api/media 4 -
+/private/secret.key 1 -
+/static/js/main.89c971fa.js 1 -
+/file.php 2 -
+/work.php 1 -
+/wp-admin/css/bolt.php 1 -
+/device/device.js 3 -
+/$(pwd)/.env.local 3 -
+/images/loadinglit.gif 2 http://www.digicard.idealgroups.org
+/form/asset 4 -
+/home/*/.netrc 3 -
+/.docker/config.json 4 -
+/Thumbs.db 3 -
+/root/.git-credentials 3 -
+/admin/config 4 -
+/form/media 4 -
+/webhook/api/avatar 4 -
+/wp-admin/js/index.php 1 -
+/build/routes/index-[hash].js 1 -
+/js/app.[hash].js 1 -
+/debug.sh 1 -
+/bgymj.php 1 -
+/gifclass.php 1 -
+/form/user/upload 4 -
+/form/api/upload 4 -
+/.local 4 -
+/lc.php 1 -
+/env.txt 1 -
+/maintenance.html 1 -
+/webhook-test/* 3 -
+/conf/application.json 3 -
+/api/internal 1 -
+/.git/description 3 -
+/:27019 3 -
+/.github/funding.yml 3 -
+/.env.sh 1 -
+/.env.smtp 1 -
+/api/blob 1 -
+/jenkins/secrets/hudson.util.Secret 3 -
+/index.html 3 -
+/_profiler/phpinfo 7 -
+/.well-known/admin.php 1 -
+/config/application-prod.properties 3 -
+/src/config/settings.js 3 -
+/api/debug 4 -
+/.travis.yml 4 -
+/wp-content/plugins/index.php 1 -
+/api/v1/executions 3 -
+/aws/s3/env.env 3 -
+/.bzr/branch/branch.conf 3 -
+/.zshenv 1 -
+/webhook/user/upload 4 -
+/wp-includes/js/chosen.php 1 -
+/src/config/stripe.js 3 -
+/x.php 1 -
+/rest/variables 3 -
+/phpinfo-preprod 1 -
+/.gitmodules 3 -
+/config/sockets.js 3 -
+/webhook/api/submit 4 -
+/install.php 1 -
+/wp-includes/block-patterns 3 -
+/_dev 1 -
+/package-updates/perform.cgi 3 -
+//edit.php 1 -
+/aws-credentials.txt 1 -
+/form/admin/files 4 -
+/s3/credentials 3 -
+/xxxx.php 1 -
+/log/development.log 1 -
+/wp-content 12 -
+/src/settings.json 3 -
+/config/connections.js 3 -
+/api/savefile 1 -
+/a.php 1 -
+/system/config 1 -
+/src/config/stripe.ts 3 -
+/wp-content/codeboy1877_up.php 1 -
+/webhook/admin/import 4 -
+/wso.php 1 -
+/config.properties 4 -
+/sendgrid_keys 1 -
+/config/packages/framework.yaml 3 -
+/dump.tar.gz 1 -
+/php.log 1 -
+/src/constants.js 3 -
+/.venv 1 -
+/k.php 1 -
+/scripts/install.sh 1 -
+/crypted.php 1 -
+/config/routes/dev/twig.yaml 3 -
+/.env.production 4 -
+/wp-admin 5 -
+/xpwer1.php 1 -
+/config/secrets.py 3 -
+/graphql 5 -
+/config/secrets.js 3 -
+/livewire/livewire.js 3 http://digicard.idealgroups.org/
+/config/bootstrap.js 3 -
+/api/assets/upload 2 -
+/deployment-config.json 1 -
+/.env.mail 1 -
+/tsconfig.spec.json 3 -
+/content.php 1 -
+/modules/contrib/sendgrid_mail/translations/sendgrid_mail.fr.po 1 -
+/aws-credentials.sh 1 -
+/var/task/docker-compose.yml 3 -
+/ccx/th3_err0r.php 1 -
+/api/images 3 -
+/x 10 -
+/aws.yaml 3 -
+/cu.php 1 -
+/_next/static/chunks/main-app-[hash].js 1 -
+/laravel/core/.env.staging 1 -
+/config/service.yaml 3 -
+/webhook/dropzone 4 -
+/swagger/index.html 1 -
+/info.log 1 -
+/backup.sh 1 -
+/.git/packed-refs 3 -
+/webhook/api/image 4 -
+/firebase.json 1 -
+/staging 1 -
+/tinyfilemanager.php 1 -
+/config/packages/twig.yaml 3 -
+/webhook/photos 4 -
+/api/products/upload 1 -
+/phpinfo.txt 1 -
+/.env.back 1 -
+/install/.env 1 -
+/.amplifyrc 3 -
+/admin/upload 2 -
+/swagger.json 1 -
+/group_vars/all 3 -
+/wp-act.php 1 -
+/main.0ad61943313a734cc3ac.js 1 -
+/config/settings.js 3 -
+/wp-includes/sendgrid_keys.json 1 -
+/files/upload 4 -
+/$(pwd)/.git/config 3 -
+/api/import 1 -
+/api/users/* 3 -
+/phpinfo.phtml 1 -
+/envrc 1 -
+/publish/* 3 -
+/api/v1 1 -
+/config/packages/test.yaml 3 -
+/rest/oauth1-credential/auth 3 -
+/cmsmessages/information.aspx.cs 1 -
+/config/secrets/prod/sendgrid_keys.json 1 -
+/api/v1/credentials 3 -
+/tinyfilemanager 1 -
+/npm-debug.log 1 -
+/webhook-test/upload 3 -
+/serverless.yaml 3 -
+/aws/metadata 3 -
+/.env_secret 1 -
+/member/space/company/info.txt 1 -
+/terraform/terraform.tfvars.json 3 -
+/server.sh 1 -
+/api/v1/finchat/privilege-api/forwarder 1 -
+/webhook/data 4 -
+/.git/objects 3 -
+/webhook/v1/media 4 -
+/_next/static/chunks/pages/_app-a9fba37d935ce3f3.js 1 -
+/config/asgi.py 3 -
+/test 5 -
+/v2/* 3 -
+/wp-admin/network/index.php 1 -
+/bundleconfig.json 3 -
+/form/api/images 4 -
+/kolda.php 1 -
+/wp-includes/ID3/index.php 1 -
+/js/chunks/[chunk-name].[hash].js 1 -
+/.env.key 1 -
+/.env.local 4 -
+/webhook/api/blob 4 -
+/__debug__ 1 -
+/axx.php 1 -
+/software/*.cgi 3 -
+/servers/link.cgi 3 -
+/posts/* 3 -
+/.npmrc 1 -
+/old_site 1 -
+/attacker/docker-compose.yml 3 -
+/.env.development.local 1 -
+/public/config.js 3 -
+/api/upwload 4 -
+/secrets/sendgrid_keys.json 1 -
+/api/graphql 1 -
+/.env.prod.local 1 -
+/wp-includes/PHPMailer 9 -
+/vx.php 1 -
+/configure.sh 1 -
+/.env.docker.dev 1 -
+/public/livewire/update 5 http://digicard.idealgroups.org/livewire/update
+/template.yaml 3 -
+/wp-conflg.php 1 -
+/Pipfile 3 -
+/form/* 3 -
+/form/public/upload 4 -
+/a2.php 1 -
+/config/config.yml 1 -
+/user/login 1 -
+/api/storage/upload 1 -
+/var/task/netlify.toml 3 -
+/wp-admin/css 11 binance.com
+/app/.env.local 3 -
+/%c0 2 -
+/seetox.php 1 -
+/form/api/image 4 -
+/$(pwd)/terraform.tfstate 3 -
+/secrets/sendgrid.json 1 -
+/.hsenv 1 -
+/api_keys.json 1 -
+/config/development.js 3 -
+/un.php 1 -
+/_react/data/* 3 -
+/src/main/resources/database.properties 3 -
+/webhook/api/asset 4 -
+/WEB-INF/web.xml 1 -
+/config/configuration.js 3 -
+/messages/* 3 -
+/config/secrets/dev/sendgrid_keys.json 1 -
+/form/backup 4 -
+/config/role.yaml 3 -
+/bypass.php 1 -
+/env.save 1 -
+/rest/* 3 -
+/form/admin/upload 4 -
+/stripe/webhook_secret.env 3 -
+/src/main.js 3 -
+/config/settings.json 3 -
+/.env.test 4 -
+/we1y8.php 1 -
+/app/etc/local.xml 3 -
+/helpers/utility.js 3 -
+/api/admin/user/status 1 -
+/.env-example 1 -
+/uploads 4 -
+/vendor/.env.example 1 -
+/import 1 -
+/form/export 4 -
+/.env.js 4 -
+/wp-content/plugins/phpinfo 1 -
+/karma.conf.js 3 -
+/config/wsgi.py 3 -
+/api/files 3 -
+/nnyvn.php 1 -
+/package-updates/save.cgi 3 -
+/config/puma.rb 3 -
+/opts.php 1 -
+/client/config.js 3 -
+/form/v2/upload 4 -
+/wp-includes/Text/Diff/Engine/about.php 1 -
+/profile/* 3 -
+/livewire/livewire.min.js 3 http://digicard.idealgroups.org/vendor/livewire/livewire.js
+/thebe.php 1 -
+/webhook/public/upload 4 -
+/re.php 1 -
+/old 1 -
+/wp-includes/ID3/license.txt 3 -
+/config/.env.dev 1 -
+/api/blob/upload 1 -
+/.env_example 1 -
+/wp-includes/theme-compat/chosen.php 1 -
+/.env.dist 4 -
+/aws.yml 4 -
+/root/.netrc 3 -
+/debug.log 4 -
+/home/*/.git-credentials 3 -
+/wp-content/themes/sendgrid_keys.json 1 -
+/ioxi.php 2 -
+/bless.php 1 -
+/server/environment.js 3 -
+/form/attachments 4 -
+/.DS_Store 5 -
+//f6.php 1 -
+/.env_1 3 -
+/db_backup 3 -
+/api/documents/upload 3 -
+/wp-admin/user/about.php 1 -
+/waku/* 3 -
+/wp-content/iu.php 1 -
+/backup.tar.gz 1 -
+/.azure-pipelines.yml 1 -
+/form/image 4 -
+/vercel.json 4 -
+/api/v1/media 4 -
+/config/pod.yaml 3 -
+/swagger 1 -
+/nw.php 1 -
+/package-updates/* 3 -
+/zcanp.php 1 -
+/var/task/serverless.yml 3 -
+/webhook/fileupload 4 -
+/.env.prod 4 -
+/.env.txt 1 -
+/config/views.js 3 -
+/wp-admin/maint 3 -
+/flower.php 1 -
+/pipeline/jobs/config.xml 3 -
+/form/api/asset 4 -
+/forbidals.php 1 -
+/155.php 1 -
+/api/secrets.json 1 -
+/form/api/attachment 4 -
+/_waku/* 3 -
+/.rbenv-gemsets 1 -
+/app/code/local.xml 3 -
+/.env.development.sample 1 -
+/api/v1/finchat/contact/manager 1 -
+/src/main/resources/bootstrap.yml 3 -
+/config/development.py 3 -
+/$(pwd)/netlify.toml 3 -
+/form/api/assets 4 -
+/src/config/configuration.js 3 -
+/pma 3 -
+/lul.php 1 -
+/docker-compose.yml 4 -
+/po8sa.php 1 -
+/webhook/api/media 4 -
+/yarn.lock 4 -
+/software/update.cgi 3 -
+/config/local.json 3 -
+/administrator 2 http://digicard.idealgroups.org/administrator/
+/static/js/main.11bc02d8.chunk.js 1 -
+/.nvmrc 1 -
+/form/api/documents 4 -
+/f35.php 1 -
+/admin-api 1 -
+/form/api/media 4 -
+/build/entry.client-[hash].js 1 -
+/actuator/info 3 -
+/laravel/.env.local 1 -
+/222.php 1 -
+/.azure/credentials 3 -
+/stack.json 1 -
+/main.702787bb88cacd05b11d.js 1 -
+/ov.php 1 -
+/config.yml 1 -
+/form/internal/import 4 -
+/webhook/api/storage 4 -
+/api/v1/netdisk/download 1 -
+/.production 4 -
+/wp-content/.git/config 1 -
+/*/[id] 3 -
+/deploy.sh 1 -
+/debug-output.txt 1 -
+/C.php 1 -
+/sftp.json 3 -
+/serverless.yml 4 -
+/wp-admin/images/index.php 1 -
+/rest/tags 3 -
+/public/static/admin/images/ok.png 2 http://digicard.idealgroups.org
+/.env.staging 4 -
+/.env.dev 3 -
+/debug 1 -
+/cart 3 -
+/.env.test.local 1 -
+/appsettings.Staging.json 3 -
+/shop/[category]/* 3 -
+/$(pwd)/package.json 3 -
+/src/main/resources/application-test.yml 3 -
+/admin/settings.ini 1 -
+/cong.php 1 -
+/wp-json/wp/v2/users 3 -
+/init.php 1 -
+/s3.yaml 3 -
+/backup.zip 1 -
+/hosting.json 3 -
+/wp-content/small.php 1 -
+/aws-credentials 3 -
+/storage/oauth-public.key 1 -
+/actuator/health 3 -
+/host_vars/local 3 -
+/env.sh 1 -
+/admin.php 1 -
+/build/_app/immutable/entry/app.[hash].js 1 -
+/api/v1/sms-sender 1 -
+/config/settings/base.py 3 -
+/.git/info/exclude 3 -
+/api/v1/tokens 1 -
+/chunk-B2FODB4I.js 1 -
+/vendor/drupal/coder/.git/objects/info/packs 1 -
+/admin/media 2 -
+/package-updates/update.cgi 3 -
+/webhook/profile/photo 4 -
+/instance/config.py 3 -
+/app/next.config.mjs 3 -
+/.git/hooks/post-commit 3 -
+/app/netlify.toml 3 -
+/fot.php 1 -
+/api/files.remote.share 1 -
+/tsconfig.app.json 3 -
+/app/next.config.js 3 -
+/api/files/upload 4 -
+/.laravel.env 3 -
+/vendor/livewire/livewire.js 3 http://digicard.idealgroups.org/livewire/livewire.js
+/__debug 3 -
+/api/system/info 1 -
+/app//.env.back 1 -
+/form/bulk 4 -
+/symfony/_profiler/phpinfo 4 -
+/api/.git/config 1 -
+/var/task/nuxt.config.ts 3 -
+/webhook/assets 4 -
+/aws/bucket 3 -
+/checkout 3 -
+/root/.aws/config 3 -
+/laravel/core/.env.local 1 -
+/log.php 1 -
+/root/.s3cfg 3 -
+/backup 3 -
+/.config/config.json 1 -
+/appsettings.QA.json 3 -
+/.gitlab/merge_request_templates 3 -
+/form/api/storage 4 -
+/under-construction.html 1 -
+/$(pwd)/.env.development 3 -
+/.well-known/stripe.txt 3 -
+/.env_old 1 -
+/style.php 1 -
+/actuator 1 -
+/ecosystem.config.js 3 -
+/private/secret.txt 1 -
+/config/environments/development.rb 3 -
+/sendgrid_keys.js 1 -
+/config/initializers/session_store.rb 3 -
+/conf/application-prod.conf 3 -
+/environments/prod 3 -
+/wp-includes/codeboy1877_up.php 1 -
+/.settings.json 1 -
+/app/.env.production 3 -
+/secrets.json 1 -
+/Pipfile.lock 3 -
+/docs 3 -
+/config/packages/doctrine.yaml 3 -
+/66.php 1 -
+/app/config.json 1 -
+/reze.php 1 -
+/servers/save.cgi 3 -
+/about 4 -
+/integrations/* 3 -
+/digicard/public/assets/logo.png 4 -
+/.well-known/openid-configuration 1 -
+/.remote 4 -
+/updates.php 1 -
+/server 1 -
+//cgi-bin/index.php 1 -
+/sam-template.yaml 3 -
+/main.48f1bbcf6201c5ea.js 1 -
+/phpinfo_details 1 -
+/webhook/internal/upload 4 -
+/aws-secret.json 1 -
+/.env.travis 1 -
+/.env.hide 1 -
+/wp-admin/sendgrid_keys.json 1 -
+/user.php 1 -
+/manifest.json 4 -
+/api/bulk-upload 1 -
+/oauth/* 3 -
+/config/env.go 3 -
+/app/.git/config 3 -
+/service-worker.js 1 -
+/public/hot 3 -
+/rest/users 3 -
+/worm0.PhP7 2 -
+/.github/dependabot.yml 3 -
+/cbrfo.php 1 -
+/info.txt 1 -
+/wp-content/plugins/sendgrid_keys.json 1 -
+/Node.js/JavaScript 3 -
+/loaders/* 3 -
+/.netlify/functions/* 3 -
+/api/config.json 1 -
+/form/photo 4 -
+/.github/workflows 6 -
+/bitrix/admin/htmleditor2/natural.php 1 -
+/stripe.config.js 3 -
+/xda.php 1 -
+/server/env.js 3 -
+/logs/error.log 1 -
+/~/.s3cfg 3 -
+/install.sh 1 -
+/service.grp 1 -
+/bitbucket-pipelines.yml 3 -
+/webhook/resource 4 -
+/plss3.php 1 -
+/static/js/*.chunk.js 1 -
+/__debugbar 1 -
+/.yarnrc 1 -
+/config/database.yml 4 -
+/config/prod_settings.py 3 -
+/phpinfo.srv 1 -
+/api/v1/finchat/privilege-api/forwarder/event 1 -
+/js/contact_me.js 1 -
+/.well-known/stripe 3 -
+/api/v1/account/oauth/ticket 1 -
+/config/config.json 4 -
+/private/config.json 3 -
+/wp-includes/style-engine/wp-conflg.php 1 -
+/[[...optional]] 3 -
+/admin/* 3 -
+/:28017 3 -
+/form/resources 4 -
+/v1/private 1 -
+/config/credentials.yml.enc 3 -
+/wp-includes/certificates/plugins.php 1 -
+/conf/production.conf 3 -
+/debug/default/view.html 1 -
+/development.py 3 -
+/root/.boto 3 -
+/nginx.conf 1 -
+/src/main/resources/log4j2.xml 3 -
+/api/.env.sample 1 -
+/webhook/api/documents 4 -
+/sftp-config.json 3 -
+/.aws/credentials 7 -
+/upload/file 1 -
+/internal 1 -
+/stripe/config.json 3 -
+/orders/* 3 -
+/settings.json 3 -
+/_profiler 3 -
+/api/resources/upload 1 -
+/stripe.json 3 -
+/config/settings/local.py 3 -
+/olux.php 1 -
+/fr/* 3 -
+/uploadfile 1 -
+/wp-includes/Requests/Auth/index.php 1 -
+/application-dev.properties 3 -
+/config/initializers/sidekiq.rb 3 -
+/.env1 1 -
+/.project 3 -
+/admins.php 1 -
+/sysinfo.cgi 3 -
+/config.json 6 -
+/form/v2/files 4 -
+/laravel/core/.env.production 1 -
+/.envrc 4 -
+/src/setupTests.js 3 -
+/test1 1 -
+/1337.php 1 -
+/api/products/images 2 -
+/dist/js/app.[hash].js 1 -
+/aws.env.json 3 -
+/06.php 1 -
+/settings.py 4 -
+/config/session.js 3 -
+/api/storage/local 1 -
+/application/.env.sample 1 -
+/wp-includes/js/dist 9 -
+/var/task/next.config.js 3 -
+/muzu.php 1 -
+/blog/[year]/[month]/[slug] 3 -
+/static/js/main.602cea98.chunk.js 1 -
+/* 3 -
+/app/.env.sample 1 -
+/src/config/settings.ts 3 -
+/local.settings.json 1 -
+/.git/logs/refs/remotes/origin/master 3 -
+/api/admin/role 1 -
+/phpMyAdmin 1 -
+/.sendgrid/credentials 1 -
+/config/environment.json 3 -
+/webhook/images 4 -
+/.git/refs/heads/master 3 -
+/config/sendgrid.json 1 -
+/server.js 3 -
+/config/routes.js 3 -
+/js/chunk-79be581b.c4b0f5e4.js 1 -
+/webhook/content 4 -
+/wp-info.php 1 -
+/.git/FETCH_HEAD 3 -
+/debug/default 3 -
+/.flaskenv 1 -
+/form/admin/import 4 -
+/XxX.php 1 -
+/opt/mailcow-dockerized/mailcow.conf 3 -
+/rest/settings 7 -
+/scripts/db.sh 1 -
+/form/data 4 -
+/vxrl.php 2 -
+/dump.sh 1 -
+/[slug] 3 -
+/wp.php 2 -
+/wp-includes/css/modules.php 1 -
+/connectionstrings.json 1 -
+/config.inc 1 -
+/form/content 4 -
+/phpinfo.stg 1 -
+/.bashrc 1 -
+/config/database.json 1 -
+/.bzr 1 -
+/config/packages/sendgrid.yaml 1 -
+/chat 3 -
+/s3/buckets 3 -
+/$(pwd)/next.config.mjs 3 -
+/wp-includes/certificates/chosen.php 1 -
+/aws/config/s3.json 3 -
+/products/.gitlab-ci.yml 3 -
+/api/uploads 4 -
+/v2/upload 1 -
+/god.php 1 -
+/protractor.conf.js 3 -
+/admin/uploads/bn_1_1754420677.phtml 10 -
+/wp-admin/css/colors/blue/blue.php 1 -
+/api/.env.back 1 -
+/nuget.config 3 -
+/phpinfoapi 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/main.js 4 -
+/docker-compose.override.yml 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 71
+176.65.148.161 10 10 13264 20260222114533
+161.118.211.239 5 5 5100 20260213002447
+3.139.242.79 4 4 4168 20260221124834
+34.75.234.242 3 3 9924 20260203164622
+34.23.23.159 3 3 9924 20260210145732
+46.101.1.225 3 3 4365 20260220162906
+35.232.135.45 3 3 9924 20260226164201
+72.11.155.223 3 3 3161 20260227001921
+143.244.189.253 3 3 9924 20260205215246
+169.150.203.197 2 2 6616 20260220023820
+198.186.131.58 2 2 2082 20260203055627
+34.26.153.201 2 2 6616 20260210182415
+195.226.194.95 2 2 2085 20260222051507
+152.42.217.54 2 2 2083 20260227010710
+154.47.31.3 2 2 6616 20260218200431
+119.18.54.35 2 2 128 20260220162730
+104.168.98.195 1 1 1048 20260201074640
+91.231.89.127 1 1 2151 20260220171829
+206.168.34.42 1 1 1048 20260207073042
+107.173.171.201 1 1 1048 20260213121446
+196.117.68.199 1 1 1042 20260227152516
+165.22.208.217 1 1 1043 20260221130831
+134.209.180.119 1 1 1042 20260207200534
+94.19.10.143 1 1 1038 20260222142514
+194.61.40.12 1 1 0 20260217015153
+206.168.34.113 1 1 1038 20260221230717
+199.45.154.125 1 1 1042 20260223204949
+199.45.154.114 1 1 1040 20260221191608
+87.236.176.110 1 1 1042 20260206160521
+167.99.255.76 1 1 1051 20260221125926
+34.72.176.129 1 1 1050 20260220162934
+3.151.194.164 1 1 1037 20260228140051
+216.73.160.187 1 1 3308 20260228055837
+91.224.92.195 1 1 1049 20260212183444
+54.162.95.96 1 1 1049 20260215201931
+205.169.39.3 1 1 1052 20260220162935
+162.142.125.45 1 1 1041 20260221230741
+145.220.91.19 1 1 1049 20260203184947
+180.151.76.230 1 1 1043 20260227135921
+199.45.155.110 1 1 1050 20260216020257
+51.159.109.198 1 1 1048 20260221094620
+199.45.154.132 1 1 1043 20260214143639
+161.178.132.46 1 1 1051 20260227163232
+206.168.34.114 1 1 1041 20260207074217
+91.231.89.37 1 1 3316 20260220172336
+3.18.223.231 1 1 87 20260220162739
+23.178.112.104 1 1 87 20260220162736
+91.231.89.39 1 1 3316 20260220170829
+3.221.83.235 1 1 1049 20260228123909
+31.171.130.165 1 1 0 20260219072721
+34.177.100.148 1 1 1040 20260203143303
+104.168.28.15 1 1 1047 20260213083632
+185.243.218.231 1 1 1049 20260212201102
+45.130.202.48 1 1 0 20260223195227
+199.45.154.130 1 1 1053 20260208224002
+176.97.132.139 1 1 1043 20260213012551
+199.45.155.104 1 1 1048 20260203175317
+13.62.230.251 1 1 87 20260220162739
+185.247.137.128 1 1 1048 20260222144453
+98.83.57.80 1 1 1050 20260223185804
+45.55.166.42 1 1 1051 20260211110014
+54.149.109.126 1 1 87 20260220162738
+18.142.160.178 1 1 87 20260220162737
+91.231.89.36 1 1 3316 20260220165825
+3.214.10.111 1 1 1043 20260228010147
+140.245.117.185 1 1 1039 20260212134823
+141.98.11.227 1 1 1041 20260207152859
+3.18.186.238 1 1 1039 20260204110629
+91.231.89.120 1 1 2151 20260220170713
+205.169.39.18 1 1 1051 20260220163118
+172.98.32.74 1 1 3308 20260214200306
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20260201 2 2 2089 2
+20260203 7 7 14102 5
+20260204 1 1 1039 1
+20260205 3 3 9924 1
+20260206 2 2 2085 2
+20260207 5 5 5226 5
+20260208 2 2 2093 2
+20260209 1 1 1041 1
+20260210 5 5 16540 2
+20260211 1 1 1051 1
+20260212 5 5 5223 5
+20260213 7 7 7198 4
+20260214 2 2 4351 2
+20260215 1 1 1049 1
+20260216 1 1 1050 1
+20260217 2 2 1054 2
+20260218 2 2 6616 1
+20260219 1 1 0 1
+20260220 28 28 42211 17
+20260221 7 7 7302 7
+20260222 5 5 3128 4
+20260223 3 3 2092 3
+20260226 4 4 10963 2
+20260227 5 5 5233 5
+20260228 4 4 6437 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 2
+0s-30s 79
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 87 142494 66 65
+/login 6 10810 4 5
+/.well-known/acme-challenge/C2xRp8DwLDOSY-NBO4smDs2-lMv82Ydm35upv6-vFm8 5 435 5 5
+/cgi-sys/ 3 0 3 3
+/password/reset 2 4302 2 2
+/.well-known/acme-challenge/CKMKLY9N26ZTM4N3L_J8_6Z3C9OQJI09 1 64 0 1
+/.well-known/acme-challenge/CPSW6A_K_WWIBIL4X04-B-FZH64NX4X5 1 64 1 0
+/register 1 928 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+2K-5K 3573
+0-44 15
+100-500 5023
+500-1K 96
+1K-2K 110
+44-100 7790
+5K+ 542
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

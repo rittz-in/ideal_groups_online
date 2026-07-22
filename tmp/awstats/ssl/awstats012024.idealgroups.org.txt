@@ -1,0 +1,1664 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202401 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2699                
+POS_VISITOR 45654               
+POS_DAY 58972               
+POS_DOMAIN 3584                
+POS_LOGIN 4254                
+POS_ROBOT 4409                
+POS_WORMS 5058                
+POS_EMAILSENDER 5189                
+POS_EMAILRECEIVER 5332                
+POS_SESSION 59827               
+POS_SIDER 60039               
+POS_FILETYPES 5467                
+POS_DOWNLOADS 5817                
+POS_OS 5865                
+POS_BROWSER 6270                
+POS_SCREENSIZE 8251                
+POS_UNKNOWNREFERER 8325                
+POS_UNKNOWNREFERERBROWSER 9233                
+POS_ORIGIN 9886                
+POS_SEREFERRALS 10028               
+POS_PAGEREFS 10201               
+POS_SEARCHWORDS 10476               
+POS_KEYWORDS 10628               
+POS_MISC 2362                
+POS_ERRORS 10687               
+POS_CLUSTER 4110                
+POS_SIDER_404 10940               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240201001749 142 20155 7035783707732
+FirstTime 20240101054930
+LastTime 20240131231902
+LastUpdate 20240201185837 142 0 141 0 0
+TotalVisits 324                 
+TotalUnique 287                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 357                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 14 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 36 176 14433529 117 142 562340
+1 8 56 1848629 69 88 309606
+2 5 7 56664 135 141 257130
+3 10 10 266602 75 85 162478
+4 5 5 72924 45 65 116138
+5 10 50 1678627 286 301 164247
+6 9 12 131815 104 119 53856
+7 11 98 2857279 78 88 228192
+8 10 36 2702248 27 43 91037
+9 5 8 132020 42 48 197978
+10 126 348 27198030 65 70 64896
+11 452 1512 85519652 213 406 3381974
+12 186 444 14391589 225 268 1946621
+13 222 788 51884209 259 457 2200452
+14 180 602 25577911 67 121 237340
+15 364 1501 65561922 123 275 815728
+16 83 407 13616683 157 232 335515
+17 253 787 44214094 226 256 579566
+18 71 119 7073482 295 331 361798
+19 53 95 5227502 47 61 73711
+20 158 433 82065590 209 278 661322
+21 32 33 3188124 168 198 530798
+22 46 51 3549010 75 110 469558
+23 115 372 36267826 121 164 678977
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 32
+in 1836 6372 417548744
+us 483 1278 65334590
+cn 42 87 1506797
+ca 12 75 2036762
+ru 12 15 341025
+se 9 13 102881
+bg 8 8 302683
+de 7 7 72639
+gb 6 7 162652
+fr 6 9 257271
+ua 5 6 142368
+jp 4 4 41497
+nl 3 3 125043
+cl 3 3 31131
+it 2 12 271154
+il 2 5 33269
+hk 2 12 271154
+sc 2 12 271154
+au 1 2 14544
+br 1 1 10377
+gr 1 1 10331
+id 1 1 10377
+pa 1 1 10377
+my 1 1 41793
+kr 0 2 143457
+sg 0 1 10623
+ro 0 2 15972
+md 0 1 3267
+be 0 4 155480
+ir 0 1 3267
+ie 0 3 230300
+es 0 1 2982
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+Applebot/ 121 1952391 20240126234028 0
+bingbot/ 98 1244766 20240131174333 0
+Googlebot/ 69 628798 20240122111022 0
+bot[\s_+:,\.\;\/\\-] 40 467874 20240122122134 0
+no_user_agent 30 1230110 20240128142440 0
+Go\-http\-client/ 18 186648 20240118054517 0
+facebookexternalhit/ 15 398729 20240111111106 0
+YandexBot/ 4 41462 20240129185932 0
+Googlebot\-Image/ 3 7185 20240122111025 0
+scanner 2 20754 20240129114247 0
+netEstate[\x20]NE[\x20]Crawler 1 10331 20240103120156 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 0 20240115120448 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+ttf 262 97813256 0 0
+woff2 336 49175848 0 0
+php 15 20634 0 0
+map 3 2382 0 0
+html 552 6506182 0 0
+svg 17 7111372 0 0
+css 906 9993287 0 0
+in 11 85763 0 0
+jpeg 42 10112975 0 0
+js 543 17196918 0 0
+Unknown 1050 7962869 0 0
+png 2722 33136679 0 0
+jpg 1270 208833472 0 0
+woff 221 41564324 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+ios_ipad 3 2
+macosx10 5 5
+macosx15 50 10
+macosx11 1 1
+android 348 59
+linuxubuntu 11 8
+linux 287 100
+androidoreo 45 1
+androidlollipop 1 1
+android10 1273 388
+Unknown 184 108
+winnt 1 1
+winlong 4 4
+macosx 3 3
+win7 79 31
+androidnougat 5 5
+androidmarshmallow 12 7
+winxp 3 3
+win10 5060 1579
+macosx14 1 1
+win8.1 4 4
+ios_iphone 569 129
+macosx7 1 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 93
+opera11.11 1 1
+chrome65.0.3325.146 1 1
+chrome119.0.0.0 207 55
+chrome15.0.871.0 1 1
+chrome61.0.3163.100 2 2
+chrome97.0.4280.67 5 5
+chrome100.0.4896.60 10 10
+chrome95.0.4638.54 1 1
+safari16.0 31 1
+chrome83.0.4103.61 1 1
+chrome103.0.5060.134 1 1
+chrome103.0.5012.0 1 1
+chrome91.0.4472.114 2 2
+firefox118.0 2 2
+chrome118.0.0.0 1 1
+chrome89.0.4389.82 2 2
+chrome90.0.4430.212 1 1
+firefox111.0 1 1
+chrome103.0.0.0 4 4
+edge96 1 1
+chrome105.0.0.0 11 7
+chrome80.0.3987.149 5 5
+chrome119.0.6045.199 8 0
+chrome102.0.5005.167 1 1
+netscape5.0 3 3
+safari16.6 322 83
+chrome65.0.3152.119 2 2
+firefox115.0 6 3
+chrome116.0.0.0 98 10
+firefox49.0 2 2
+chrome79.0.3945.79 27 1
+safari13.1.2 1 1
+chrome100.0.4896.127 1 1
+safari17.2 178 16
+chrome73.0.3683.90 1 1
+chrome74.0.3729.157 1 1
+chrome63.0.3239.132 2 2
+chrome103.0.5060.114 2 2
+chrome115.0.0.0 1 1
+chrome72.0.3626.121 1 1
+mozilla 16 0
+safari15.6 1 1
+chrome120.0.0.0 4727 1496
+chrome121.0.0.0 1053 220
+firefox52.0 1 1
+chrome120.0.6099.144 91 28
+firefox121.0 399 146
+chrome87.0.4280.141 1 1
+opera11.50 1 1
+chrome96.0.4664.110 1 1
+firefox28.0 3 3
+chrome106.0.0.0 2 2
+chrome79.0.3945.88 6 6
+chrome70.0.3538.102 1 1
+firefox116.0 4 4
+chrome94.0.4606.61 2 1
+chrome117.0.5938.132 124 10
+chrome39.0.2171.95 3 3
+chrome104.0.5112.102 1 1
+firefox65.0 3 3
+safari5.0 1 1
+chrome109.0.0.0 61 13
+chrome89.0.4389.114 5 5
+firefox63.0 1 1
+safari17.1.1 4 2
+chrome117.0.0.0 5 5
+chrome101.0.4951.41 1 1
+chrome60.0.3112.107 4 4
+safari6.0 1 1
+chrome81.0.4044.138 3 3
+chrome17.0.963.56 1 0
+safari17.3 19 1
+chrome79.0 1 1
+firefox119.0 1 1
+chrome242.02.8301.120 1 1
+Unknown 165 105
+opera106.0.0.0 138 84
+safari17.1.2 12 2
+chrome110.0.0.0 3 3
+chrome78.0.3904.108 2 2
+chrome108.0.0.0 2 2
+firefox99.0 1 1
+safari13.0.3 24 24
+chrome84.0.4147.105 1 1
+safari 12 2
+chrome113.0.0.0 3 3
+firefox35.0 1 1
+chrome78.0.3889.0 30 0
+chrome51.0.2704.106 2 2
+opera11.00 2 2
+chrome46.0.2754.75 2 2
+chrome87.0.4280.88 47 3
+chrome74.0.3729.169 5 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240130233329
+Python/3.8_aiohttp/3.8.3 20240131231332
+fasthttp 20240129161229
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240120004149
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240130051645
+cortex/1.0 20240111111110
+Ruby 20240121063447
+colly_-_https://github.com/gocolly/colly/v2 20240111114543
+WhatsApp/2.23.20.0 20240131151347
+okhttp/4.9.2 20240131164850
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240112192205
+lua-resty-http/0.07_(Lua)_ngx_lua/10024 20240103152636
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+cortex/1.0 20240111111110
+Ruby 20240121063447
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240130233329
+Python/3.8_aiohttp/3.8.3 20240131231332
+fasthttp 20240129161229
+lua-resty-http/0.07_(Lua)_ngx_lua/10024 20240103152636
+colly_-_https://github.com/gocolly/colly/v2 20240111114543
+WhatsApp/2.23.20.0 20240131151347
+okhttp/4.9.2 20240131164850
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 764 900
+From1 14 44
+From2 6 6
+From3 6 6
+From4 1660 6994
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+baidu 1 1
+www_google_com 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://l.instagram.com 2 2
+https://mail.idealgroups.org 2 2
+http://agarwaltanks.com 1 1
+https://rs200.webhostbox.net:2083 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 15
+401 1 35
+400 2 52
+406 315 71190
+301 65 15585
+303 17 0
+421 21 6762
+307 57 0
+403 17 6035
+302 786 48918
+503 2 0
+409 33 2739
+419 3 7302
+404 2450 1964628
+206 3 28756
+500 15 6139982
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 725
+/digicard/public/storage/logo/1695977774_1675338124designing.png 1 https://idealgroups.org/digicard/website/123456789
+/makhdmax.php 2 http://idealgroups.org//makhdmax.php
+/hanna1337.php 2 http://idealgroups.org//hanna1337.php
+/wp-admin/images/wp-login.php 6 http://idealgroups.org//wp-admin/images/wp-login.php
+/wp-json/wp/v2/users 1 -
+/wp-content/plugins.php 1 -
+/wp-content/ 7 -
+/tinyfilemanager.php 1 -
+/small.php 4 http://idealgroups.org//small.php
+/digicard/website 1 -
+/digicard/public/storage/images/1705909576.jpeg 14 https://idealgroups.org/digicard/website/12345
+/wp-content/plugins/TOPXOH/wDR.php 4 http://idealgroups.org//wp-content/plugins/TOPXOH/wDR.php
+/wp-includes/home.php 2 http://idealgroups.org//wp-includes/home.php
+/libraries/vendor/updates.php 1 -
+/avaa.php 2 -
+/wp-content/plugins/duplicator/assets/img/index.php 1 -
+/admin 4 -
+/wp-content/plugins/ioptimization/IOptimize.php 2 http://idealgroups.org//wp-content/plugins/ioptimization/IOptimize.php
+/wp-admin/style.php 1 -
+/wp-content/patior/ 4 http://idealgroups.org//wp-content/patior/
+/alfa-rex.php7 4 -
+/digicard/admin 1 -
+/about.php7 2 -
+/shell.php 7 http://idealgroups.org//shell.php
+/wp-includes/IXR/themes.php 1 -
+/406.php 4 http://idealgroups.org//406.php
+/wp-includes/install.php 4 http://idealgroups.org//wp-includes/install.php
+/alfadheat.php 1 -
+/digicard/public/storage/logo/1695808149.jpg 10 https://idealgroups.org/digicard/contacts
+/fox.php 4 http://idealgroups.org//fox.php
+/ms.php 1 -
+/wp-admin/fx.php 2 http://idealgroups.org//wp-admin/fx.php
+/cgi/mt/mt-xmlrpc.cgi 1 -
+/wp-admin/includes/about.php 2 http://idealgroups.org//wp-admin/includes/about.php
+/robots.txt 138 -
+/wp-content/wp-rocket-config/plugins.php 1 -
+/wp-content/cache/ 1 -
+/bk 3 http://idealgroups.org/bk
+/includes/.git/config 1 -
+/wp-config.php 2 -
+/wp-content/up.php 4 http://idealgroups.org//wp-content/up.php
+/assets/js/circle-progress.min.js 1 https://www.idealgroups.org/web/
+/wp/ 1 -
+/M1.php 2 -
+/alfanew.PhP7 2 -
+/assets/images/ideal_group_fevicon_54.png 1 http://idealgroups.org/web/assets/images/ideal_group_fevicon_54.png
+/wp-atom.php 1 -
+/wp-admin/fw.php 2 http://idealgroups.org//wp-admin/fw.php
+/wp-includes/fonts/wp-login.php 5 http://idealgroups.org//wp-includes/fonts/wp-login.php
+/xzourt.php 2 http://idealgroups.org//xzourt.php
+/wp-content/themes/my-custom-theme/index.php 1 idealgroups.org
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 1 -
+/.well-known/acme-challenge/atomlib.php 2 -
+/upload.php 4 http://idealgroups.org//upload.php
+/wordpress 4 http://idealgroups.org/wordpress
+/smm.php 2 http://idealgroups.org//smm.php
+/style.php 30 -
+/priv8.php 2 http://idealgroups.org//priv8.php
+/digicard/public/storage/banner/1705910381_Retro-01.jpg 4 https://idealgroups.org/digicard/website/12345
+/digicard/public/storage/banner/1705989413_PicsArt_24-01-22_19-10-53-184.jpg 5 https://idealgroups.org/digicard/website/ParthDecentInfoways
+/scripts/.git/config 1 -
+/index2.php 2 http://idealgroups.org//index2.php
+/mad.php 4 http://idealgroups.org//mad.php
+/wp-apxupx.php 4 www.google.com
+/wp-includes/random_compat/plugins.php 1 -
+/backup/ 1 -
+/images/F0x.php 2 http://idealgroups.org//images/F0x.php
+/public/.git/config 1 -
+/images/wp-login.php 6 http://idealgroups.org//images/wp-login.php
+/wp-content/themes/twentytwenty/404.php 2 http://idealgroups.org//wp-content/themes/twentytwenty/404.php
+/wp_info.php 2 http://idealgroups.org//wp_info.php
+/astonishedly.php 1 -
+/payload.php 2 http://idealgroups.org//payload.php
+/uph.php 2 http://idealgroups.org//uph.php
+/sample.php 1 www.google.com
+/ninja.php 1 -
+/wp-class.php 2 http://idealgroups.org//wp-class.php
+/uploads/wp-blog.php 2 http://idealgroups.org//uploads/wp-blog.php
+/alfanew.php7 8 -
+/wp-include/auto_seo.php 1 -
+/wp-admin/1975.php 2 http://idealgroups.org//wp-admin/1975.php
+/wp-admin/maint/wp-login.php 6 http://idealgroups.org//wp-admin/maint/wp-login.php
+/digicard/website/12345 1 -
+/new 4 http://idealgroups.org/new
+/wp-content/uploads/ 11 http://idealgroups.org//wp-content/uploads/
+/anon.php 2 http://idealgroups.org//anon.php
+/inbox.php 2 http://idealgroups.org//inbox.php
+/wp-admin/xl2023.php 1 -
+/wp-admin/includes/wp-login.php 6 http://idealgroups.org//wp-admin/includes/wp-login.php
+/wp-admin/maint/plugins.php 1 -
+/wp-content/themes/buddyboss-theme/style.css 2 -
+/fw.php 4 http://idealgroups.org//fw.php
+/users.php 5 http://idealgroups.org//users.php
+/wp-admin/network/cloud.php 1 -
+/wsu.php 2 http://idealgroups.org//wsu.php
+/wp-admin/network/index.php 1 -
+/wp-includes/blocks/plugins.php 1 -
+/wp-admin/includes/users.php 4 http://idealgroups.org//wp-admin/includes/users.php
+/tmp/vuln.php 2 http://idealgroups.org//tmp/vuln.php
+/inputs.php 6 www.google.com
+/images/class.api.php 1 -
+/01.php 2 http://idealgroups.org//01.php
+/wp-content/plugins/ 5 http://idealgroups.org//wp-content/plugins/
+/wp-content/plugins/xsid/marijuana.php 2 http://idealgroups.org//wp-content/plugins/xsid/marijuana.php
+/wp-content/themes/seotheme/db.php 1 -
+/admin/controller/extension/wpm.php 2 http://idealgroups.org//admin/controller/extension/wpm.php
+/wp-content/themes/seotheme/mar.php 3 -
+/install.php 4 http://idealgroups.org//install.php
+/wp-l0gin.php 2 http://idealgroups.org//wp-l0gin.php
+/my1.php 4 http://idealgroups.org//my1.php
+/ads.txt 4 http://idealgroups.org/ads.txt
+/img/cloud.php 1 -
+/h4xor.php 2 http://idealgroups.org//h4xor.php
+/kcfinder/browse.php 1 www.google.com
+/wp-includes/Text/about.php 4 http://idealgroups.org//wp-includes/Text/about.php
+/temp/ 1 -
+/digicard/public/storage/logo/1705909207_IDEAL%20GROUPS%20MODERN%20LOGO-07.png 16 https://idealgroups.org/digicard/website/12345
+/alfa-rex2.php7 2 -
+/wp-includes/style-engine/plugins.php 1 -
+/.thumb/index.php 2 -
+/wp-blog.php 6 http://idealgroups.org//wp-blog.php
+/term.php 2 http://idealgroups.org//term.php
+/wp-admin/images/cloud.php 1 -
+/simple.php 17 -
+/wp-content/plugins/core-stab/casper.php 2 http://idealgroups.org//wp-content/plugins/core-stab/casper.php
+/blog/wp-json/wp/v2/users 1 -
+/wp-content/themes/twenty/twenty.php 5 http://idealgroups.org//wp-content/themes/twenty/twenty.php
+/wp-includes/ID3/about.php 1 -
+/alf.php 2 http://idealgroups.org//alf.php
+/log.php 4 http://idealgroups.org//log.php
+/wp-content/plugins/seoplugins/db.php 2 -
+/nf_tracking.php 1 -
+/wp-admin/images/install.php 5 http://idealgroups.org//wp-admin/images/install.php
+/system/.git/config 1 -
+/yanz.php 2 -
+/libraries/phpmailer/updates.php 1 -
+/wp-admin/css/colors/coffee/index.php 2 http://idealgroups.org//wp-admin/css/colors/coffee/index.php
+/misc/ajax.js 1 -
+/xl2023.php 5 -
+/digicard/7796 1 -
+/0z.php 4 http://idealgroups.org//0z.php
+/wp-head.php 16 http://idealgroups.org//wp-head.php
+/Fox-C404/index.php 2 -
+/wp-admin/css/colors/modern/about.php 1 -
+/digicard/public/storage/images/1705990128.jpg 3 https://idealgroups.org/digicard/payment
+/lock.php 2 http://idealgroups.org//lock.php
+/wp-content/uploads/typehub/custom/.RxR.php 2 http://idealgroups.org//wp-content/uploads/typehub/custom/.RxR.php
+/digicard/public/storage/logo/1705909047.png 37 https://idealgroups.org/digicard/home
+/wp-content/plugins/aioseoextensions/aioseoextensions.php 2 www.google.com
+/test 1 -
+/wp-includes/fonts/plugins.php 1 -
+/lock0360.php 2 http://idealgroups.org//lock0360.php
+/.well-known/acme-challenge/install.php 4 http://idealgroups.org//.well-known/acme-challenge/install.php
+/wp-admin/network/subjects.php 2 http://idealgroups.org//wp-admin/network/subjects.php
+/wp-admin/cloud.php 1 -
+/error.png 1 -
+/.well-known/acme-challenge/class.api.php 1 -
+/utchiha.php 2 http://idealgroups.org//utchiha.php
+/css/index.php 3 -
+/mar.php 3 http://idealgroups.org//mar.php
+/wp-admin/shell20211028.php 6 http://idealgroups.org//wp-admin/shell20211028.php
+/wp-admin/wp_filemanager.php 2 http://idealgroups.org//wp-admin/wp_filemanager.php
+/evil.php 2 http://idealgroups.org//evil.php
+/system_log.php 1 -
+/wp-includes/class.api.php 1 -
+/wp-admin/dropdown.php 12 http://idealgroups.org//wp-admin/dropdown.php
+/503.php 2 http://idealgroups.org//503.php
+/wp-admin/images/admin.php 2 -
+/b1a3k.php 2 http://idealgroups.org/b1a3k.php
+/wp-admin/index.php 3 http://idealgroups.org
+/ninjawebshell.php 1 -
+/cgi-bin/cgi-bin/about.php7 5 http://idealgroups.org//cgi-bin/cgi-bin/about.php7
+/cgi-bin/xmrlpc.php 4 -
+/wp-content/plugins/seoo/wsoyanz.php 2 -
+/backup/.git/config 1 -
+/lock360.php 4 http://idealgroups.org//lock360.php
+/.well-known/about.php 1 -
+/css.php 4 http://idealgroups.org//css.php
+/srx.php 2 http://idealgroups.org//srx.php
+/blog/ 1 -
+/cjfuns.php 6 http://idealgroups.org//cjfuns.php
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 4 http://idealgroups.org//wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php
+/uploads/.git/config 1 -
+/admin.php 8 -
+/settings/.git/config 1 -
+/core/qrcode.php 1 -
+/wp-content/plugins/Cache/Cache.php 7 -
+//wp-includes/ID3/license.txt 2 -
+/alfa.php 2 http://idealgroups.org//alfa.php
+/kill.php 2 http://idealgroups.org//kill.php
+/ccx/index.php 1 -
+/wp-content/plugins/td-composer/license.txt 5 -
+/glpi/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/wp-content/plugins/userpro/changelog.txt 1 -
+/wp-p.php7 2 -
+/m.php 2 http://idealgroups.org//m.php
+/wp-content/plugins/linkpreview/wp-blog.php 2 http://idealgroups.org//wp-content/plugins/linkpreview/wp-blog.php
+/wp-admin/images/index.php 1 -
+/images/cloud.php 1 -
+/media/system/js/core.js 3 -
+/moon.php 4 http://idealgroups.org//moon.php
+/home.php 2 http://idealgroups.org//home.php
+/wp-includes/xl2023.php 1 -
+/wp-admin/wso112233.php 6 http://idealgroups.org//wp-admin/wso112233.php
+/IndoXploit.php 2 http://idealgroups.org//IndoXploit.php
+/.well-known/class.api.php 1 -
+/gawean.PhP7 2 www.google.com
+/admin/includes/general.js 1 -
+/wp_filemanager.php 2 http://idealgroups.org//wp_filemanager.php
+/wp-content/plugins/anttt/simple.php 2 http://idealgroups.org//wp-content/plugins/anttt/simple.php
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/images/xmrlpc.php 4 -
+/api/.git/config 4 -
+/wp-2019.php 3 -
+/hehe.php 2 http://idealgroups.org//hehe.php
+/doc.php 4 http://idealgroups.org//doc.php
+/wp-includes/Requests/plugins.php 1 -
+/css/plugins.php 1 -
+/wp-admin/ 12 -
+/.git/config 7 http://mail.idealgroups.org/.git/config
+/xleet.php 5 -
+/theme-install.php 2 http://idealgroups.org//theme-install.php
+/templates/beez3/error.php 2 http://idealgroups.org//templates/beez3/error.php
+/wp-admin/user/plugins.php 1 -
+/wp-content/plugins/classic-editor/wp-login.php 7 http://idealgroups.org//wp-content/plugins/classic-editor/wp-login.php
+/wp-content/plugins/instabuilder2/cache/plugins/moon.php 4 http://idealgroups.org//wp-content/plugins/instabuilder2/cache/plugins/moon.php
+/batm.php 1 -
+/updates.php 1 -
+/plugins.php 4 http://idealgroups.org//plugins.php
+/digicard/public/storage/logo/1706002650_person_1.jpg 2 https://idealgroups.org/digicard/website/7796
+/wp-admin/images/plugins.php 1 -
+/wp-admin/css/colors/coffee/marijuana.php 1 -
+/tmpshell.php 2 http://idealgroups.org//tmpshell.php
+/wp-includes/Requests/atomlib.php 1 -
+/sites/default/files/HolaDR7_70778.php 2 http://idealgroups.org//sites/default/files/HolaDR7_70778.php
+/gawean.php 1 -
+/wp-admin/alfa.php 4 http://idealgroups.org//wp-admin/alfa.php
+/shellx.php 2 http://idealgroups.org//shellx.php
+/branding.html 1 -
+/wp-includes/SimplePie/plugins.php 2 -
+/wp-admin/css/index.php 2 -
+/home 4 http://idealgroups.org/home
+/coaching%20classes.html 2 -
+/utchiha_uploader.php 2 http://idealgroups.org//utchiha_uploader.php
+/vendor/phpunit/phpunit/build.xml 1 -
+/.well-known/admin.php 1 -
+/sites/all/libraries/elfinder/connectors/php/connector.php 2 http://idealgroups.org//sites/all/libraries/elfinder/connectors/php/connector.php
+/digicard/public/storage/logo/1705989413.png 62 https://idealgroups.org/digicard/videos/create
+/init.php 4 http://idealgroups.org//init.php
+/wp-admin/wp-trc.php 2 http://idealgroups.org//wp-admin/wp-trc.php
+/cgi-bin/wp-login.php 6 http://idealgroups.org//cgi-bin/wp-login.php
+/text.php 4 http://idealgroups.org//text.php
+/wp-content/plugins/Cache/dropdown.php 8 http://idealgroups.org//wp-content/plugins/Cache/dropdown.php
+/.well-known/index.php 3 -
+/shell20211028.php 9 -
+/edit-comments.php 4 http://idealgroups.org//edit-comments.php
+/R00T.php 2 http://idealgroups.org//R00T.php
+/css/cloud.php 1 -
+/wp-content/plugins/fix/up.php 9 -
+/wp-content/inputs.php 1 -
+/xleet-shell.php 1 -
+/504.php 1 www.google.com
+/wp-content/plugins/ai-engine/themes/_codeDark.scss 1 idealgroups.org
+/.well-known/plugins.php 1 -
+/wp-admin/home.php 2 http://idealgroups.org//wp-admin/home.php
+/cloud.php 3 -
+/wp-content/themes/pridmag/db.php 3 -
+/.well-known/pki-validation/plugins.php 1 -
+/digicard/public/storage/logo/1705910404.png 17 https://idealgroups.org/digicard/website/12345
+/wp-content/plugins 1 -
+/assets/.git/config 1 -
+/alfanew.php 9 -
+/zz.php 2 http://idealgroups.org//zz.php
+/user-new.php 2 http://idealgroups.org//user-new.php
+/wp-includes/pomo/plugins.php 1 -
+/banners.html 2 -
+/digicard/website/123456789 1 -
+/old 4 http://idealgroups.org/old
+/core 1 -
+/plugin-install.php 2 http://idealgroups.org//plugin-install.php
+/v3n0m.php 2 http://idealgroups.org//v3n0m.php
+/wp-includes/Requests/Text/admin.php 3 -
+/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php 2 http://idealgroups.org//wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php
+/wp-content/plugins/about.php 1 -
+/.DS_Store 3 -
+/wp-admin/css/colors/coffee/xmrlpc.php 4 -
+/core/.git/config 4 -
+/wp-content/plugins/elementor/includes/settings/index.php 2 http://idealgroups.org//wp-content/plugins/elementor/includes/settings/index.php
+/wp-admin/network/xmrlpc.php 4 -
+/assets/js/slick.min.js 1 https://www.idealgroups.org/web/
+/wp-content/repeater.php 2 -
+/wp-content/uploads 1 -
+/wp-touch.js 1 idealgroups.org
+/a.php 1 -
+/www.php 2 http://idealgroups.org//www.php
+/c.php 2 http://idealgroups.org//c.php
+/wp-content/plugins/ccx/index.php 5 http://idealgroups.org//wp-content/plugins/ccx/index.php
+/wp-content/plugins/real/v.php 2 http://idealgroups.org//wp-content/plugins/real/v.php
+/home/.git/config 1 -
+/ee.php 9 http://idealgroups.org//ee.php
+/wp-content/plugins/alfa-rex.php 1 -
+/wp-content/plugins/augmented-reality/vendor/elfinder/php/connector.minimal.php 2 http://idealgroups.org//wp-content/plugins/augmented-reality/vendor/elfinder/php/connector.minimal.php
+/js/header-rollup-554.js 1 -
+/tnt.php 2 http://idealgroups.org//tnt.php
+/wp-includes/atom.php 2 http://idealgroups.org//wp-includes/atom.php
+/assets/images/shapes/white_round_2.png 1 -
+/wp-content/plugins/masterx/wpx.php 2 http://idealgroups.org//wp-content/plugins/masterx/wpx.php
+/shells.php 2 http://idealgroups.org//shells.php
+/wp-includes/repeater.php 2 -
+/me.php 2 http://idealgroups.org//me.php
+/wp-content/index.php 8 -
+/Marvins.php 2 http://idealgroups.org//Marvins.php
+/wp-admin/wso.php 2 http://idealgroups.org//wp-admin/wso.php
+/wp-admin/css/colors/coffee/cloud.php 1 -
+/.well-known/security.txt 1 -
+/wp-content/themes/classic/inc/casper.php 2 http://idealgroups.org//wp-content/themes/classic/inc/casper.php
+/wp-content/cong.php 2 http://idealgroups.org//wp-content/cong.php
+/wp-includes/shell20211028.php 4 http://idealgroups.org//wp-includes/shell20211028.php
+/xox.php 2 http://idealgroups.org//xox.php
+/defend.php 1 -
+/cp.php 4 http://idealgroups.org//cp.php
+/ton.php 2 http://idealgroups.org//ton.php
+/ini.php 2 http://idealgroups.org//ini.php
+/wp-content/plugins/install.php 4 http://idealgroups.org//wp-content/plugins/install.php
+/1337.php 2 http://idealgroups.org//1337.php
+/sym.php 2 http://idealgroups.org//sym.php
+/digicard/public/storage/logo/1705905094.jpeg 6 https://idealgroups.org/digicard/website/1234
+/wp-content/plugins/index.php 5 http://idealgroups.org//wp-content/plugins/index.php
+/images/mar.php 1 -
+/wp-content/upgrade/plugins.php 1 -
+/class-bulk-skin.php 1 -
+/contact-us 1 -
+/minishell.php 2 http://idealgroups.org//minishell.php
+/wp-content/plugins/wordpresss3cll/up.php 4 http://idealgroups.org//wp-content/plugins/wordpresss3cll/up.php
+/MARIJUANA.php 1 -
+/wp-includes/assets/plugins.php 1 -
+/wp-content/shell20211028.php 7 -
+/leet.php 2 http://idealgroups.org//leet.php
+/tesla.php 2 http://idealgroups.org//tesla.php
+/1877.php 2 http://idealgroups.org//1877.php
+/wp-admin/ajax-actions.php 2 -
+/wp-admin/css/colors/blue/uploader.php 2 http://idealgroups.org//wp-admin/css/colors/blue/uploader.php
+/wordpress/wp-admin/css/colors/light/content.php 1 -
+/0x55.php 2 http://idealgroups.org//0x55.php
+/rxr.php 4 http://idealgroups.org//rxr.php
+/lufix.php 4 http://idealgroups.org//lufix.php
+/wp-content/plugins/seo//vendor/htmlawed/htmlawed/index.php 1 www.google.com
+/digicard/public/storage/banner/1695976814_decent_main_banner_designing.jpg 1 https://idealgroups.org/digicard/website/123456789
+/input.php 4 www.google.com
+/assets/js/jquery.magnific-popup.min.js 1 https://www.idealgroups.org/web/
+/wp-content/plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Batch/viewer.php 1 www.google.com
+/wp-content/themes/about.php 1 -
+/newsite 1 -
+/libraries/legacy/updates.php 1 -
+/wp-content/wp_filemanager.php 2 http://idealgroups.org//wp-content/wp_filemanager.php
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/xmlrpc.php 7 -
+/ioxi-rex4.php7 3 -
+/wp-includes/rest-api/about.php 4 http://idealgroups.org//wp-includes/rest-api/about.php
+/digicard/public/storage/logo/1705991354.png 32 https://idealgroups.org/digicard/home
+/main 3 http://idealgroups.org/main
+/wzy.php 5 www.google.com
+/wp-includes/Text/plugins.php 1 -
+/wp-admin/includes/cloud.php 1 -
+/st.php 4 http://idealgroups.org//st.php
+/alfaindex.php 2 http://idealgroups.org//alfaindex.php
+/uploads/up.php 2 http://idealgroups.org//uploads/up.php
+/assets/images/about/about_1.jpg 1 -
+/xmrlpc.php 4 -
+/1975.php 2 http://idealgroups.org//1975.php
+/fan.php 2 http://idealgroups.org//fan.php
+/wp-content/plugins/linkpreview/db.php 3 -
+/wp-includes/ID3/wp-login.php 1 -
+/wp-admin/css/colors/cloud.php 1 -
+/v2/_catalog 1 -
+/digicard//logo/1705989413.png 2 -
+/contact.html 2 -
+/.well-known/acme-challenge/wp-login.php 6 http://idealgroups.org//.well-known/acme-challenge/wp-login.php
+/radio.php 14 -
+/chocolaty%20holidays.html 1 -
+/wp-content/plugins/core/include.php 2 -
+/wp-admin/maint/index.php 2 -
+/wp-content/plugins/revslider/includes/page/index.php 2 http://idealgroups.org//wp-content/plugins/revslider/includes/page/index.php
+/clen.php 2 http://idealgroups.org//clen.php
+/default.php 4 http://idealgroups.org//default.php
+/wp-includes/style.php 1 -
+/assets/js/isotope.pkgd.min.js 1 https://www.idealgroups.org/web/
+/blog 1 -
+/wp-2020.php 2 http://idealgroups.org//wp-2020.php
+/digicard/public/storage/logo/1706695123_1706680460_Logo%20Icone.png 1 https://idealgroups.org/digicard/website/IdealGroups
+/update-core.php 2 http://idealgroups.org//update-core.php
+/plugins/system/debug/debug.xml 1 -
+/.tmb/wp-login.php 6 http://idealgroups.org//.tmb/wp-login.php
+/wp-admin/network/db.php 2 http://idealgroups.org//wp-admin/network/db.php
+/wp-content/mari.php 1 -
+/wp-admin/css/colors/blue/cloud.php 1 -
+/plesk-stat/ 1 -
+/contents.php 2 http://idealgroups.org//contents.php
+/wp-admin/install.php 6 http://idealgroups.org//wp-admin/install.php
+/tron.php 2 http://idealgroups.org//tron.php
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-admin/xmrlpc.php 4 -
+/ioxi01.php 1 -
+/wp-admin/includes/xmrlpc.php 4 -
+/wp-admin/cong.php 1 -
+/wp-includes/ 7 -
+/__1975.php 2 http://idealgroups.org//__1975.php
+/wp-admin/css/colors/xmrlpc.php 4 -
+/images/vuln.php 2 http://idealgroups.org//images/vuln.php
+/bc 3 http://idealgroups.org/bc
+/wp-includes/wp-class.php 7 -
+/app-ads.txt 4 -
+/wp-content/install.php 4 http://idealgroups.org//wp-content/install.php
+/byp.php 4 http://idealgroups.org//byp.php
+/test/ 1 -
+/wp-includes/IXR/wp-login.php 5 http://idealgroups.org//wp-includes/IXR/wp-login.php
+/0x.php 2 http://idealgroups.org//0x.php
+/wp-content/plugins/w0rdpr3ssnew/about.php 2 http://idealgroups.org//wp-content/plugins/w0rdpr3ssnew/about.php
+/wp-admin/wp-22.php 2 http://idealgroups.org//wp-admin/wp-22.php
+/xlettt.php 2 http://idealgroups.org//xlettt.php
+/digicard/public/storage/logo/1704440703.png 6 https://digicard.idealgroups.org/
+/b.php 1 -
+/wp-admin/css/wp-login.php 6 http://idealgroups.org//wp-admin/css/wp-login.php
+/wp-content/upgrade/ 6 -
+/wp-file.php 2 http://idealgroups.org//wp-file.php
+/digicard/public/js/coreui.bundle.min.js.map 6 -
+/worm0.PhP7 1 -
+/emergency.php 2 http://idealgroups.org//emergency.php
+/wp-content/alfa.php 2 http://idealgroups.org//wp-content/alfa.php
+/admin/.git/config 3 -
+/css/xmrlpc.php 4 -
+/wp-includes/IXR/plugins.php 1 -
+/cgi-bin/cgi-bin/about.php 4 http://idealgroups.org//cgi-bin/cgi-bin/about.php
+/admin/controller/extension/extension/Not_Found.php 2 http://idealgroups.org//admin/controller/extension/extension/Not_Found.php
+/wp-admin/js/widgets/xmrlpc.php 4 -
+/wp-admin/css/colors/coffee/mari.php 1 -
+/auto_seo.php 1 -
+/brouchures.html 1 -
+/fx.php 2 http://idealgroups.org//fx.php
+/wp.php 7 -
+/blogs/.git/config 2 -
+/images/plugins.php 1 -
+/dup-installer/main.installer.php 1 http://idealgroups.org/dup-installer/main.installer.php
+/indexs.php 2 http://idealgroups.org//indexs.php
+/snd.php 2 http://idealgroups.org//snd.php
+/444.php 1 www.google.com
+/sh.php 2 http://idealgroups.org//sh.php
+/mini.php 4 http://idealgroups.org//mini.php
+/wp-includes/js/tinymce/skins/lightgray/fonts/index.php 2 http://idealgroups.org//wp-includes/js/tinymce/skins/lightgray/fonts/index.php
+/wp-hoard.php 2 -
+/end.php 2 http://idealgroups.org//end.php
+/admin/view/javascript/common.js 1 -
+/wp-content/fw.php 2 http://idealgroups.org//wp-content/fw.php
+/alfanew2.php7 2 -
+/d7.php 2 http://idealgroups.org//d7.php
+/wp-admin-new/includes/plugins.php 1 -
+/data.php 2 http://idealgroups.org//data.php
+/wp-includes/html-api/plugins.php 1 -
+/uploads/xleet.php 2 http://idealgroups.org//uploads/xleet.php
+/wp-content/languages/wp-login.php 5 http://idealgroups.org//wp-content/languages/wp-login.php
+/.well-known/acme-challenge/xmrlpc.php 4 -
+/olux.php 2 http://idealgroups.org//olux.php
+/wp-content/plugins/apikey/mar.php 2 http://idealgroups.org//wp-content/plugins/apikey/mar.php
+/wp-includes/certificates/plugins.php 1 -
+/class.api.php 7 http://idealgroups.org//class.api.php
+/x.php 6 http://idealgroups.org//x.php
+/symlink.php 2 http://idealgroups.org//symlink.php
+/s/5333e24353e28313e2931313/_/ 1 -
+/wp-content/updates.php 1 -
+/digicard/public/storage/logo/1695981231.png 1 https://idealgroups.org/digicard/website/123456789
+/404.html 1 -
+/wp-includes/sitemaps/plugins.php 1 -
+/404.php 5 -
+/old/wp-json/wp/v2/users 1 -
+/wp-includes/customize/wp-login.php 5 http://idealgroups.org//wp-includes/customize/wp-login.php
+/wp-includes/ID3/plugins.php 1 -
+/wp-content/dropdown.php 5 http://idealgroups.org//wp-content/dropdown.php
+/wp-includes/js/jquery/jquery.js 4 -
+/cgi-bin/install.php 4 http://idealgroups.org//cgi-bin/install.php
+/adminfuns.php7 2 -
+/wp-admin/js/plugins.php 1 -
+/wp-content/themes/intense/block-css.php 1 -
+/wp-admin/user/wp-login.php 5 http://idealgroups.org//wp-admin/user/wp-login.php
+/gaza.php 2 http://idealgroups.org//gaza.php
+/z.php 2 http://idealgroups.org//z.php
+/wp-includes/dropdown.php 1 -
+/wp-admin/users.php 4 http://idealgroups.org//wp-admin/users.php
+/cache-compat.php 2 -
+/digicard/public/storage/testimonials/1705990472.png 3 https://idealgroups.org/digicard/testimonials
+/adminfuns.php 2 http://idealgroups.org//adminfuns.php
+/wp-content/plugins/mw-wp-form/css/admin-common.css 1 -
+/peler.php 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 6 -
+/modules/explorerpro/form.php 1 -
+/wp-content/themes/finley/min.php 4 -
+/digicard/public/storage/logo/1695977631_1675338064webdevelopment.png 1 https://idealgroups.org/digicard/website/123456789
+/digicard/public/storage/logo/1705910381.png 5 https://idealgroups.org/digicard/website/12345
+/wp-admin/js/widgets/about.php7 2 -
+/wp-admin/js/widgets/moon.php 1 -
+/wp-content/upload.php 2 http://idealgroups.org//wp-content/upload.php
+/telescope/requests 1 -
+/assets/js/jquery-3.6.3.min.js 1 https://www.idealgroups.org/web/
+/wp-includes/css/dist/editor/fxp.php 1 -
+/wp-content/themes/gaukingo/db.php 2 http://idealgroups.org//wp-content/themes/gaukingo/db.php
+/wp-content/plugins/revslider/includes/external/page/index.php 2 http://idealgroups.org//wp-content/plugins/revslider/includes/external/page/index.php
+/xml.php 4 http://idealgroups.org//xml.php
+/elp.php 2 www.google.com
+/digicard/public/storage/logo/1705990057_bannrer_design.jpg 3 https://idealgroups.org/digicard/services
+/wp-content/pm.php 1 -
+/.well-knownold/ 7 -
+/lufi.php 2 http://idealgroups.org//lufi.php
+/wp-includes/fw.php 2 http://idealgroups.org//wp-includes/fw.php
+/wp-content/auto_seo.php 1 -
+/an.php 2 http://idealgroups.org//an.php
+/wp-admin/network/wp-login.php 6 http://idealgroups.org//wp-admin/network/wp-login.php
+/wp-admin/xleet.php 2 http://idealgroups.org//wp-admin/xleet.php
+/wp-plugins.php 2 http://idealgroups.org//wp-plugins.php
+/root.php 2 http://idealgroups.org//root.php
+/cgi-bin/cloud.php 1 -
+/general.php 6 www.google.com
+/wp-content/themes/welfare-charity/www.php 2 http://idealgroups.org//wp-content/themes/welfare-charity/www.php
+/ajax-actions.php 2 -
+/wp-admin 1 -
+/modules/mod_simplefileuploadv1.3/elements/udd.php 2 http://idealgroups.org//modules/mod_simplefileuploadv1.3/elements/udd.php
+/wp-content/plugins/yyobang/mar.php 1 www.google.com
+/assets/js/jquery.nice-select.min.js 1 https://www.idealgroups.org/web/
+/wp-content/style.php 1 -
+/wp-admin/includes/themes.php 1 www.google.com
+/wp-admin/css/colors/blue/about.php 1 -
+/wp-admin/css/ 3 binance.com
+/old/ 3 http://idealgroups.org/old/
+/images/ 1 -
+/wp-content/plugins/hellopress/wp_mna.php 1 -
+/assets/js/appear.min.js 1 https://www.idealgroups.org/web/
+/cong.php 7 -
+/wp-content/plugins/backup-backup/includes/restore-batching.php 1 -
+/ch.php 2 http://idealgroups.org//ch.php
+/wp-content/plugins/finder/index.ph 1 -
+/user.php 4 http://idealgroups.org//user.php
+/wp-admin/admin-ajax.php 5 http://idealgroups.org//wp-admin/admin-ajax.php
+/wp-content/class.api.php 1 -
+/wordpress/wp-json/wp/v2/users 1 -
+/logos.html 1 -
+/moto.php 2 http://idealgroups.org//moto.php
+/wp-content/cache/plugins.php 1 -
+/Gecko.php 2 http://idealgroups.org//Gecko.php
+/xxl.php 4 www.google.com
+/.svn/wc.db 4 -
+/testing 1 -
+/wp-content/home.php 2 http://idealgroups.org//wp-content/home.php
+/assets/images/achieve/happy_clients.png 1 -
+/wp-admin/css/colors/blue/CasperExV1.php 4 http://idealgroups.org//wp-admin/css/colors/blue/CasperExV1.php
+/wp-admin/maint/moon.php 5 http://idealgroups.org//wp-admin/maint/moon.php
+/wp-includes/theme-compat/plugins.php 1 -
+/demo.php 2 http://idealgroups.org//demo.php
+/lalala.php 2 http://idealgroups.org//lalala.php
+/assets/js/jquery.animatedheadline.min.js 1 https://www.idealgroups.org/web/
+/wp-admin/options.php 2 -
+/fm1.php 3 -
+/wp/wp-json/wp/v2/users 1 -
+/wp-includes/IXR/about.php 2 http://idealgroups.org//wp-includes/IXR/about.php
+/wp-content/uploads/class.api.php 1 -
+/wp-admin/css/plugins.php 1 -
+/digicard/public/storage/testimonials/1704440634.png 2 https://digicard.idealgroups.org/
+/tools.php 2 http://idealgroups.org//tools.php
+/.tmb/class.api.php 1 -
+/wikindex.php 2 http://idealgroups.org//wikindex.php
+/customize.php 4 http://idealgroups.org//customize.php
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 5 http://idealgroups.org//wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/wp-content/plugins/seoo/alfa-ioxi.php 1 -
+/upl.php 4 http://idealgroups.org//upl.php
+/pi.php 2 http://idealgroups.org//pi.php
+/wp-includes/widgets/plugins.php 1 -
+/.vscode/sftp.json 1 -
+/woh.php 1 www.google.com
+/.well-known/wso112233.php 1 -
+/wp-admin/css/colors/blue/xmrlpc.php 4 -
+/403.php 4 http://idealgroups.org//403.php
+/wp-admin/js/about.php 7 http://idealgroups.org//wp-admin/js/about.php
+/sett.php 2 http://idealgroups.org//sett.php
+/columns.php 2 http://idealgroups.org//columns.php
+/wso112233.php 8 -
+/wsoyanz.php 1 -
+/wp-includes/certificates/wp-login.php 5 http://idealgroups.org//wp-includes/certificates/wp-login.php
+/demo/admin 1 -
+/assets/js/imagesloaded.pkgd.min.js 1 https://www.idealgroups.org/web/
+/pagenotfound.html 4 -
+/wp-includes/plugins.php 1 -
+/wp-login.php 24 -
+/DKIZ.php 2 http://idealgroups.org//DKIZ.php
+/digicard/public/storage/banner/1705910404_Youtube%20Channel%20Banner-01.jpg 11 https://idealgroups.org/digicard/website/12345
+/wp-json/lp/v1/load_content_via_ajax 1 idealgroups.org
+/ws.php 7 -
+/wp-includes/radio.php 2 http://idealgroups.org//wp-includes/radio.php
+/jquery.php 1 -
+/media-admin.php 4 http://idealgroups.org//media-admin.php
+/wsoyanzorng.php 2 http://idealgroups.org//wsoyanzorng.php
+/wp_wrong_datlib.php 2 http://idealgroups.org//wp_wrong_datlib.php
+/blog/mt/mt-xmlrpc.cgi 1 -
+/about.php 10 -
+/demo 3 -
+/plugin.php 1 -
+/wp-includes/css/plugins.php 1 -
+/wp-includes/class-json-ajax-session.php 2 http://idealgroups.org//wp-includes/class-json-ajax-session.php
+/repeater.php 10 -
+/update.php 2 http://idealgroups.org//update.php
+/wp-includes/php-compat/plugins.php 1 -
+/.well-known/acme-challenge/cloud.php 2 -
+/digicard/public/storage/banner/1705905094_images%20(10).jpeg 5 https://idealgroups.org/digicard/website/1234
+/exit.php 2 http://idealgroups.org//exit.php
+/wp-admin/setup-config.php 3 http://idealgroups.org//wp-admin/setup-config.php
+/digicard/website/7796 1 -
+/digicard/public/storage/logo/1695977766_1675338161appsdeveloopment.png 1 https://idealgroups.org/digicard/website/123456789
+/books.html 1 -
+/wp-admin/repeater.php 2 -
+/options.php 2 -
+/digicard/storage/logo/1705989413.png 2 -
+/wp-content/plugins/post-smtp/style/feeds.css 1 idealgroups.org
+/stylesheet.php 1 -
+/by.php 4 http://idealgroups.org//by.php
+/wp-22.php 9 www.google.com
+/images/editor/separator.gif 1 -
+/wp-includes/blocks/table/int/tmpl/index.php 4 http://idealgroups.org//wp-includes/blocks/table/int/tmpl/index.php
+/font-editor.php 2 http://idealgroups.org//font-editor.php
+/wp-includes/customize/plugins.php 1 -
+/wp-config-sample.php 1 -
+/wp 4 http://idealgroups.org/wp
+/ebs.php7 2 -
+/Deadcode1975.php 2 http://idealgroups.org//Deadcode1975.php
+/humans.txt 3 http://idealgroups.org/humans.txt
+/wp-admin/mari.php 1 -
+/cgi-bin/plugins.php 1 -
+//feed/ 2 -
+/bin/.git/config 1 -
+/debug/default/view 1 -
+/Mshell.php 2 www.google.com
+/wp-info.php 5 http://idealgroups.org//wp-info.php
+/chosen.php 5 www.google.com
+/wp-admin/js/widgets/cloud.php 1 -
+/wordpress/ 8 http://idealgroups.org/wordpress/
+/wp-content/plugins/backup-backup/includes/g4.php 1 -
+/alfa-rex.php 2 http://idealgroups.org//alfa-rex.php
+/wp-includes/random_compat/random_bytes_cyclone.php 2 http://idealgroups.org//wp-includes/random_compat/random_bytes_cyclone.php
+/new/wp-json/wp/v2/users 1 -
+/gecko.php 4 http://idealgroups.org//gecko.php
+/wp-contentold/themes/plugins.php 1 -
+/wp-admin/css/colors/blue/atomlib.php 1 -
+/wp-content/themes/ 1 -
+/license.php 2 http://idealgroups.org//license.php
+/wp-content/plugins/seoplugins/mar.php 2 -
+/wp-admin/js/about.php7 5 http://idealgroups.org//wp-admin/js/about.php7
+/wp-admin/css/colors/maro.php 1 -
+/google.php 4 http://idealgroups.org//google.php
+/ups.php 2 http://idealgroups.org//ups.php
+/ws.php7 2 -
+/F0x.php 2 http://idealgroups.org//F0x.php
+/wp-includes/mari.php 1 -
+/marijuana.php 6 http://idealgroups.org//marijuana.php
+/config.json 1 -
+/assets/js/script.js 1 https://www.idealgroups.org/web/
+/wp-admin/css/mari.php 1 -
+/Cards.html 1 -
+/css/install.php 4 http://idealgroups.org//css/install.php
+/about 1 -
+/img/xmrlpc.php 4 -
+/djportfolio.html 2 -
+/digicard/public/storage/banner/1704440703_lorem-lorem-logo.png 4 https://digicard.idealgroups.org/
+/wp-admin/includes/plugins.php 1 -
+/classwithtostring.php 6 http://idealgroups.org//classwithtostring.php
+/wp-includes/images/plugins.php 1 -
+/wp-admin/user/xmrlpc.php 4 -
+/autoload_classmap.php 4 -
+/contact 1 -
+/utchiha505.php 2 http://idealgroups.org//utchiha505.php
+/wp-admin/css/maro.php 1 -
+/private.php 2 http://idealgroups.org//private.php
+/backup 3 http://idealgroups.org/backup
+/wp-content/plugins/press/wp-class.php 2 -
+/credits.php 2 http://idealgroups.org//credits.php
+/wp-admin/css/colors/index.php 1 -
+/atomlib.php 1 -
+/1.php 5 http://idealgroups.org//1.php
+/wp-admin/maint/maint/ajax-actions.php 2 -
+/wp-admin/images/module.php 2 http://idealgroups.org//wp-admin/images/module.php
+/wp-admin/user/cloud.php 1 -
+/digicard/public/storage/banner/1705991354_PicsArt_24-01-22_19-10-53-184.jpg 4 https://idealgroups.org/digicard/home
+/wp-header.php 2 -
+/login.action 1 -
+/js/kcfinder/browse.php 1 www.google.com
+/bala.php 4 http://idealgroups.org//bala.php
+/wp-includes/pomo/wp-login.php 5 http://idealgroups.org//wp-includes/pomo/wp-login.php
+/wp-content/plugins/wp-file-upload/ROOBOTS.php 2 http://idealgroups.org//wp-content/plugins/wp-file-upload/ROOBOTS.php
+/ckeditor/kcfinder/browse.php 1 www.google.com
+/themes.php 4 http://idealgroups.org//themes.php
+/wso.php 4 http://idealgroups.org//wso.php
+/_all_dbs 1 -
+/assets/js/wow.min.js 1 https://www.idealgroups.org/web/
+/dropdown.php 10 http://idealgroups.org//dropdown.php
+/up.php 2 http://idealgroups.org//up.php
+/wp-includes/wp_filemanager.php 2 http://idealgroups.org//wp-includes/wp_filemanager.php
+/wp-content/themes/plugins.php 1 -
+/wp-content/plugins/ai-engine/app/index.js 1 -
+/wp-admin/images/xmrlpc.php 4 -
+/xx.php 4 http://idealgroups.org//xx.php
+/access.php 2 http://idealgroups.org//access.php
+/xmlrpc2.php 2 http://idealgroups.org//xmlrpc2.php
+/mt/mt-xmlrpc.cgi 1 -
+/app/.git/config 4 -
+/admin-post.php 2 -
+/wp-content/plugins/seoo/wsoyanz1.php 2 -
+/.git/HEAD 1 -
+/wpx.php 2 http://idealgroups.org//wpx.php
+/wp-content/uploads/plugins.php 1 -
+/utils/.git/config 1 -
+/digicard/public/img/consult/icons/service-shadow.png 225 https://idealgroups.org/digicard/public/assets/Style.css
+/wp-consar.php 4 -
+/fm.php 4 http://idealgroups.org//fm.php
+/wp-content/wp-conf.php 2 http://idealgroups.org//wp-content/wp-conf.php
+/wp-include/inputs.php 1 -
+/payout.php 2 http://idealgroups.org//payout.php
+/new/ 1 -
+/lyda.php 2 http://idealgroups.org//lyda.php
+/wp-content/plugins/dzs-zoomsounds/1877.php 4 http://idealgroups.org//wp-content/plugins/dzs-zoomsounds/1877.php
+/wp-content/plugins/wp-login.php 5 http://idealgroups.org//wp-content/plugins/wp-login.php
+/digicard/public/storage/logo/1705909521_IDEAL%20GROUPS%20MODERN%20LOGO-08.jpg 15 https://idealgroups.org/digicard/website/12345
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 357
+49.43.240.178 302 529 66574842 20240105200606
+223.235.156.178 214 426 10897687 20240123182501
+122.170.33.42 213 940 26130987 20240124155404
+103.240.207.221 187 358 37581775 20240122141358
+203.187.228.237 139 525 27177397 20240131151549
+122.161.82.40 93 855 36997109 20240131162248
+49.43.240.229 81 272 13992642 20240111234837
+103.58.152.230 61 379 30113160 20240131002000
+49.43.242.105 49 200 35057449 20240105201907
+152.59.32.196 48 120 1641354 20240123152153
+117.243.93.70 48 157 13029673 20240118150417
+219.91.213.52 47 178 13425616 20240105140302
+171.50.254.156 43 99 9994168 20240105110604
+106.216.229.155 42 137 9249231 20240104173302
+59.182.205.6 37 37 7869139 20240123150609
+152.59.35.109 30 32 3257455 20240118230615
+219.91.220.207 28 131 8674976 20240108154724
+103.251.217.87 28 91 10420031 20240109230335
+49.36.81.1 26 75 6886791 20240105183825
+152.58.34.143 26 43 6774277 20240123204522
+152.58.34.169 25 42 3244738 20240123202901
+42.111.208.36 22 56 1018732 20240124154613
+223.235.158.254 20 64 6072555 20240105135927
+103.240.207.90 19 78 4769995 20240124181629
+152.58.37.2 18 32 1530077 20240130151946
+222.79.103.59 1 1 10377 20240113213429
+45.8.19.70 2 2 20754 20240131170926
+65.154.226.166 4 52 1827229 20240111013905
+180.102.134.69 1 1 10377 20240108115424
+66.70.146.9 1 1 10377 20240129082731
+20.110.6.19 1 1 10377 20240105210127
+152.58.208.11 13 51 4028807 20240105105150
+5.133.192.146 1 2 12772 20240122185108
+69.167.28.128 1 1 0 20240110120016
+173.239.211.82 2 2 20754 20240131203436
+45.8.19.79 1 1 10377 20240131171829
+199.45.155.19 0 1 38870 
+173.252.127.25 0 1 74685 
+165.231.253.221 2 12 271154 20240131164309
+37.61.227.35 0 1 2164 
+113.141.91.58 1 1 10377 20240117041535
+106.77.93.147 1 19 718234 20240125073009
+152.58.37.6 3 4 47528 20240122121939
+119.12.202.98 0 1 4167 
+125.75.66.97 2 2 20708 20240107220211
+63.135.161.179 2 2 20754 20240131185624
+63.135.161.177 1 1 10377 20240131191745
+45.8.19.82 2 2 20754 20240131165854
+173.252.127.16 2 2 477564 20240111111040
+173.239.211.89 2 2 20754 20240131211150
+109.198.46.140 0 1 3267 
+137.226.113.44 3 3 31131 20240120004149
+63.135.161.166 1 1 10377 20240131193351
+44.204.115.49 1 1 10377 20240109231248
+118.99.2.23 2 12 271154 20240131164310
+23.230.235.113 1 1 10377 20240125172727
+123.201.95.74 1 19 718143 20240124132505
+103.240.207.218 2 5 21288 20240124173957
+179.43.191.18 1 1 10377 20240122154419
+152.58.61.129 1 3 6493 20240130152413
+161.123.72.101 0 1 139240 
+31.40.231.83 0 1 3681 
+49.44.76.170 0 4 118941 
+36.41.75.167 1 1 10377 20240115041215
+133.242.174.119 1 1 10377 20240131193302
+54.186.224.30 1 1 0 20240113104302
+93.113.53.241 0 1 5349 
+199.45.155.16 0 1 2395 
+46.8.107.2 1 1 41793 20240122204539
+219.91.220.135 1 6 538657 20240120114258
+122.8.11.219 0 1 34949 
+45.8.19.94 2 2 20754 20240131171740
+31.13.127.118 0 1 53485 
+35.171.144.152 3 3 125379 20240111234937
+159.253.120.135 2 2 64178 20240112230907
+63.135.161.171 1 1 10377 20240131193336
+69.171.251.9 0 1 72175 
+206.41.165.251 0 1 160948 
+5.133.192.94 1 2 12772 20240116113104
+165.154.224.196 0 1 2395 
+117.243.78.253 13 13 2818965 20240120120231
+173.239.211.81 1 1 10377 20240131210614
+37.44.201.51 1 1 10377 20240112142201
+109.248.205.85 1 1 41793 20240124201027
+173.252.127.23 1 1 10377 20240111111030
+69.63.184.116 0 1 57460 
+43.134.142.8 1 1 10377 20240118114518
+23.230.235.29 0 1 4167 
+87.236.176.224 0 1 38870 
+199.45.155.32 0 1 2395 
+152.58.34.91 0 4 0 
+49.36.89.253 5 55 1840795 20240113150043
+172.59.136.65 4 10 749106 20240131152024
+152.58.37.81 18 20 730931 20240122120149
+173.239.211.93 1 1 10377 20240131181852
+63.135.161.184 2 2 20754 20240131213558
+152.58.209.123 13 13 2818965 20240112212809
+203.166.144.18 0 1 10623 
+212.102.57.139 2 12 271154 20240131164309
+212.107.0.215 0 1 2982 
+62.84.117.117 1 1 41793 20240116053816
+35.173.64.170 1 1 10331 20240101150525
+152.58.232.37 0 17 494790 
+205.210.31.171 1 1 36128 20240120155330
+216.73.160.145 1 1 10377 20240131171756
+63.135.161.159 1 1 10377 20240131185310
+51.81.245.138 1 1 10377 20240131163319
+152.58.35.226 7 55 1277990 20240123203609
+152.59.33.128 2 3 13426 20240123101426
+45.147.248.16 1 1 41625 20240102074042
+93.158.91.244 2 2 20708 20240110145705
+183.164.37.218 1 1 10377 20240124055843
+199.244.88.228 1 1 10377 20240109141613
+173.252.127.7 1 17 684912 20240111111037
+63.135.161.170 2 2 20754 20240131182218
+5.133.192.136 1 1 10331 20240103234349
+172.59.136.61 2 9 876154 20240131152022
+93.158.91.19 1 2 12772 20240129020050
+93.159.230.87 2 2 20754 20240121104055
+5.133.192.87 1 2 12772 20240110053329
+63.135.161.173 3 3 31131 20240131221542
+91.92.245.162 1 1 41716 20240105114858
+91.92.248.145 1 1 41793 20240110004105
+206.189.40.74 1 1 41793 20240109140142
+65.154.226.170 5 62 2375347 20240110135204
+63.135.161.186 2 2 20754 20240131194644
+216.73.160.134 1 1 10377 20240131165424
+67.220.86.160 1 1 10377 20240123235734
+35.92.72.3 1 1 0 20240104135848
+152.59.34.57 18 68 4939630 20240131115900
+191.101.41.161 3 3 31131 20240131214951
+173.239.211.83 2 2 20754 20240131202008
+152.39.193.102 0 1 3342 
+162.43.230.83 0 1 2982 
+173.252.95.15 0 2 120985 
+87.236.176.89 0 1 38870 
+192.144.39.109 2 2 64178 20240106212429
+119.28.140.170 1 1 10377 20240106063641
+91.92.248.226 1 1 41625 20240103133745
+124.225.164.130 1 1 10377 20240112152013
+143.198.210.78 3 3 31131 20240106160650
+20.26.44.173 1 1 18747 20240131185302
+154.28.229.19 2 2 11171 20240131163328
+173.239.211.80 1 1 10377 20240131174235
+125.94.144.102 2 2 20708 20240114133622
+91.92.254.86 1 1 41793 20240107233620
+152.59.34.205 13 13 2818965 20240114221029
+52.207.236.142 1 1 10377 20240131164850
+173.239.211.91 1 1 10377 20240131182255
+89.184.202.70 0 1 3267 
+49.44.80.138 13 61 4065431 20240105174656
+121.5.250.152 4 4 21400 20240118015700
+185.209.5.125 0 1 3342 
+91.208.197.168 2 2 83250 20240101172132
+142.181.237.143 6 68 1894852 20240127115128
+163.5.64.69 1 1 41793 20240106214102
+54.39.50.123 4 4 110092 20240105031537
+203.187.194.22 5 15 281363 20240129114525
+37.187.215.254 1 1 41625 20240101185653
+173.252.83.7 0 1 141866 
+152.58.37.191 4 4 3140 20240130152238
+199.45.155.18 0 1 2395 
+173.239.211.97 2 2 20754 20240131201834
+173.239.211.92 1 1 10377 20240131224319
+152.58.35.105 15 63 4079920 20240120110855
+103.241.52.239 0 1 139240 
+63.135.161.178 1 1 10377 20240131184718
+2.58.56.31 1 1 10377 20240130175816
+184.94.240.88 3 3 85417 20240117121749
+20.210.58.98 1 1 18747 20240107193717
+2.58.56.160 1 1 10377 20240129151012
+5.182.86.212 1 1 10377 20240131163621
+2.57.28.85 0 1 6134 
+173.239.211.85 1 1 10377 20240131174429
+45.8.19.84 1 1 10377 20240131163747
+152.59.33.13 2 9 377101 20240123151956
+123.201.15.178 14 63 4078214 20240118143457
+173.239.211.88 1 1 10377 20240131214556
+63.135.161.175 1 1 10377 20240131231332
+91.92.253.121 1 1 10377 20240108112055
+128.90.123.18 1 1 0 20240112234825
+152.59.36.65 6 6 1634064 20240119085833
+35.210.151.25 1 1 10377 20240117030335
+54.147.135.225 1 1 10366 20240105104649
+91.134.209.18 1 1 41793 20240110045859
+37.187.215.246 1 1 41625 20240101205929
+152.58.60.194 1 1 785 20240130152507
+63.135.161.164 1 1 10377 20240131195915
+85.215.155.77 1 1 10377 20240117091634
+173.252.127.14 1 13 533004 20240111111037
+124.226.222.66 2 2 20743 20240116125144
+45.86.86.242 4 4 101865 20240128211337
+216.73.160.137 1 1 10377 20240131170544
+199.45.154.48 0 1 38870 
+49.14.166.205 14 63 4078214 20240129114318
+199.45.155.35 0 2 4790 
+103.133.107.41 1 1 41793 20240109162909
+3.138.108.122 5 28 679184 20240111114543
+213.255.249.137 0 1 2164 
+173.239.211.78 3 3 31131 20240131203035
+198.27.103.189 2 2 20754 20240107063834
+223.187.117.100 5 55 1840795 20240118145155
+173.252.127.117 1 22 612628 20240111111038
+23.230.235.73 0 1 2758 
+124.221.186.26 2 2 20754 20240111024224
+69.167.28.34 1 1 0 20240110040148
+165.154.224.222 1 1 10377 20240125065003
+182.44.12.37 1 1 10331 20240102150958
+63.135.161.185 2 2 20754 20240131220749
+209.20.184.26 0 1 160948 
+172.59.136.110 1 10 315159 20240131152020
+152.59.36.59 0 3 423522 
+152.59.34.54 2 3 342549 20240124204649
+178.128.59.119 1 1 10331 20240104110704
+202.182.74.32 1 1 10377 20240129105503
+183.216.144.200 1 1 10331 20240103153510
+152.58.34.159 1 1 7802 20240123202758
+23.230.235.144 0 1 2758 
+183.164.37.202 1 1 10377 20240118095925
+87.236.176.146 0 1 38870 
+101.68.211.2 2 2 20754 20240117152433
+173.252.111.116 0 2 302814 
+49.44.80.6 13 61 4065442 20240131151935
+172.59.137.19 2 7 592105 20240131152024
+154.28.229.135 1 1 10377 20240131163323
+199.45.154.18 0 1 2395 
+216.73.160.139 2 2 20754 20240131171036
+51.15.74.13 1 1 10377 20240131130403
+183.83.146.198 1 7 577528 20240123101645
+115.164.119.24 1 1 41793 20240129161229
+89.104.110.231 1 1 10377 20240131231902
+180.110.203.108 1 1 10377 20240109071726
+178.254.29.124 1 1 10377 20240116213353
+77.81.107.99 0 1 10623 
+91.92.253.77 2 2 83586 20240117223907
+137.184.177.220 1 1 41793 20240111204950
+43.133.72.69 1 1 10377 20240118221822
+51.68.205.115 1 1 41625 20240101054930
+65.154.226.169 1 1 10377 20240118064234
+117.243.109.242 1 1 10377 20240119150007
+42.111.200.50 4 52 2020657 20240131162602
+152.59.33.135 1 19 718146 20240124132505
+63.135.161.167 4 4 41508 20240131230720
+112.133.228.69 0 4 118941 
+131.108.60.169 1 1 10377 20240110034747
+173.252.127.12 1 1 453440 20240111111040
+45.143.172.75 1 1 10377 20240127111614
+173.252.127.19 3 3 399720 20240111111039
+223.244.35.77 2 2 20708 20240106035510
+152.58.35.116 2 2 14478 20240120111148
+173.239.211.86 1 1 10377 20240131201707
+122.170.62.191 6 38 2571724 20240104153706
+23.230.235.47 0 1 5349 
+198.235.24.248 1 1 36128 20240123124804
+152.59.35.99 2 10 726048 20240119001604
+63.135.161.183 2 2 20754 20240131230440
+14.215.163.132 1 1 10377 20240110023654
+182.42.105.144 1 1 10331 20240103203940
+45.8.19.90 3 3 31131 20240131171645
+65.155.30.101 0 5 537257 
+65.154.226.167 1 13 387651 20240102054627
+37.187.215.248 1 1 41625 20240101225221
+124.220.171.131 1 1 10377 20240111045947
+5.196.102.74 0 1 2395 
+144.91.106.14 2 2 20754 20240113105916
+173.252.127.8 1 1 230072 20240111111039
+3.80.89.126 1 1 41625 20240103152636
+45.141.215.136 1 1 10366 20240105020003
+104.129.56.135 2 12 271154 20240131164310
+63.135.161.180 1 1 10377 20240131190810
+122.170.32.116 4 16 59779 20240122135250
+49.44.80.8 5 53 1837606 20240122113433
+63.135.161.174 1 1 10377 20240131192810
+65.154.226.168 1 1 10331 20240103185047
+45.8.19.81 1 1 10377 20240131163534
+45.130.123.72 0 1 4588 
+193.138.218.201 1 1 10377 20240131163323
+106.77.77.12 1 19 718231 20240127113629
+81.200.221.185 2 2 55158 20240107213001
+42.83.147.55 2 2 20754 20240115095443
+198.235.24.171 1 1 36128 20240130233329
+104.244.74.57 1 1 10377 20240115093841
+172.105.123.58 1 1 10377 20240109134033
+63.135.161.165 2 2 20754 20240131180630
+216.73.161.67 0 26 1026814 
+42.111.192.7 0 1 65393 
+123.6.49.50 1 45 1066924 20240123072936
+152.58.34.206 0 1 2395 
+34.79.119.158 1 1 10377 20240123165248
+104.165.206.202 1 1 10377 20240111231138
+172.59.136.106 3 16 1231273 20240131152025
+185.251.251.13 0 1 34949 
+2.57.31.133 0 1 4217 
+111.7.96.154 2 2 20662 20240103080945
+192.36.109.108 1 1 10377 20240115200345
+5.196.102.64 0 2 4790 
+161.123.164.171 0 1 4217 
+87.98.153.11 1 1 41625 20240101062314
+63.135.161.168 1 1 10377 20240131184001
+176.124.32.105 4 4 128356 20240121130712
+173.252.127.9 2 2 666120 20240111111039
+49.43.243.93 2 8 578169 20240112183542
+119.28.142.212 1 1 10377 20240111112713
+173.239.211.84 2 2 20754 20240131222454
+152.58.34.249 13 41 1441753 20240123204009
+173.239.211.186 2 2 20662 20240104171927
+51.89.228.207 1 1 10377 20240107003852
+135.125.205.117 2 2 87732 20240110050013
+128.199.179.16 2 2 87732 20240115230128
+31.13.127.5 0 1 141866 
+31.13.127.117 0 1 34949 
+173.252.111.2 0 1 139240 
+120.71.59.24 1 1 10377 20240107064836
+152.59.34.40 0 11 0 
+34.123.56.82 1 1 10377 20240121063447
+43.135.129.233 1 1 10366 20240104193700
+194.5.48.240 1 1 41793 20240115150229
+152.58.37.112 2 2 15594 20240130152041
+5.188.62.26 1 1 10377 20240111223759
+216.73.160.135 2 2 20754 20240131165646
+162.142.125.222 0 1 38870 
+178.254.12.183 1 1 10377 20240108190003
+106.221.201.90 6 32 2375043 20240112194929
+122.170.71.35 13 62 4067837 20240127113727
+45.8.19.96 1 1 10377 20240131171107
+199.45.154.49 0 1 38870 
+183.164.51.143 1 1 10377 20240121160306
+125.160.97.129 1 1 10377 20240109075654
+173.239.211.79 1 1 10377 20240131204356
+205.169.39.233 2 28 1047476 20240102053050
+206.41.165.31 0 1 4588 
+89.249.57.130 0 1 6134 
+103.241.224.79 1 15 14239 20240131165500
+173.239.211.77 1 1 10377 20240131201031
+63.135.161.163 1 1 10377 20240131221038
+199.45.154.19 0 1 2395 
+111.172.249.49 1 1 10377 20240115201709
+35.90.201.241 1 1 41793 20240111101039
+199.45.155.34 0 1 2395 
+43.254.176.149 2 28 1047476 20240103121520
+45.8.19.89 2 2 20754 20240131171537
+67.166.162.237 1 27 1037145 20240101083254
+54.88.179.33 7 7 292551 20240126155712
+45.8.19.83 1 1 10377 20240131171139
+172.59.137.184 1 9 301645 20240131152022
+139.162.3.189 1 1 41793 20240116121337
+18.218.185.19 5 28 958146 20240106074558
+63.135.161.160 1 1 10377 20240131194317
+69.85.93.250 0 1 3681 
+87.236.176.160 0 1 38870 
+216.73.160.138 3 3 31131 20240131170443
+45.8.19.80 1 1 10377 20240131171305
+42.104.120.132 0 4 119318 
+45.90.60.224 0 1 2395 
+110.166.71.39 2 2 20708 20240109170158
+195.140.178.145 1 1 10331 20240104125716
+183.164.53.10 1 1 10377 20240123005506
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240101 11 39 1364303 10
+20240102 5 44 1489478 4
+20240103 11 37 1203043 9
+20240104 220 563 35110802 13
+20240105 358 921 124348538 17
+20240106 14 37 1126379 7
+20240107 10 11 216830 8
+20240108 86 378 16525395 6
+20240109 36 101 10570669 9
+20240110 15 78 3127825 10
+20240111 59 196 14202016 20
+20240112 26 79 6507379 7
+20240113 10 60 1882303 5
+20240114 14 14 2829342 2
+20240115 10 10 233580 8
+20240116 5 6 117112 5
+20240117 11 12 282143 7
+20240118 108 320 22399214 10
+20240119 9 17 2370489 3
+20240120 33 87 7500920 6
+20240121 5 5 95309 4
+20240122 220 460 40507272 8
+20240123 399 909 40021578 19
+20240124 244 1062 29009805 10
+20240125 3 37 1129792 3
+20240126 4 7 590694 1
+20240127 21 165 7079706 4
+20240128 4 4 101865 1
+20240129 24 84 4445273 7
+20240130 61 265 18143216 9
+20240131 414 1942 94983691 92
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 21
+2mn-5mn 4
+1h+ 11
+30s-2mn 12
+30mn-1h 13
+15mn-30mn 13
+0s-30s 250
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 111
+/web/ 465 6315039 252 213
+/digicard/website/7796 196 1035907 16 15
+/digicard/website/newTest 136 453627 0 1
+/digicard/website/IdealGroups 83 963804 8 9
+/web/assets/fonts/fa-light-300.woff2 70 13261640 2 4
+/web/assets/fonts/fa-solid-900.woff2 70 9849280 3 1
+/digicard/ 70 71726 13 6
+/web/assets/fonts/fa-regular-400.woff2 69 11952180 2 3
+/web/assets/fonts/fa-brands-400.woff2 68 5261568 2 0
+/digicard/public/assets/fontawesom/webfonts/fa-solid-900.woff2 59 8851180 6 0
+/web/admin/login 59 78667 3 2
+/web/assets/fonts/fa-brands-400.woff 56 4986960 2 1
+/web/assets/fonts/fa-regular-400.woff 56 12653960 1 1
+/web/assets/fonts/fa-solid-900.woff 55 10341540 0 1
+/digicard/super-admin 54 266594 0 0
+/web/assets/fonts/fa-light-300.ttf 54 26616600 0 8
+/web/assets/fonts/fa-light-300.woff 54 13581864 1 1
+/web/assets/fonts/fa-solid-900.ttf 53 20505276 0 6
+/web/assets/fonts/fa-brands-400.ttf 52 6984432 0 6
+/web/assets/fonts/fa-regular-400.ttf 52 23578880 1 7
+/digicard/public/assets/fontawesom/webfonts/fa-solid-900.ttf 51 20128068 0 9
+/digicard/services 38 423566 0 1
+/digicard/home 32 345458 0 1
+/digicard/testimonials 26 281065 0 0
+/web/products 24 124793 0 3
+/digicard/services/68/edit 7 75143 0 0
+/digicard/payment 21 215751 0 0
+/digicard/videos/17/edit 2 21196 0 0
+/web/admin/registration 1 794 0 0
+/digicard/videos 22 232513 0 1
+/digicard/website/1269 1 785 0 0
+/web/admin/home_banners_list 7 7597 0 0
+/cpanel 2 27146 2 0
+/digicard/testimonials/18/edit 1 10607 0 0
+/web/admin/product 3 52839 0 0
+/digicard/super-admin/create 17 72982 0 0
+/digicard/super-admin/33/edit 3 13138 0 0
+/digicard/profile 17 113417 0 0
+/digicard/website/12345 16 116701 2 2
+/unprotected/loader.html 2 1810 0 1
+/digicard/website/123456789 1 7203 0 0
+/web/about 21 218721 0 4
+/web/admin/client_list 2 75608 0 0
+/digicard/_ignition/health-check 4 196 0 0
+/web/contact.html 2 1589 0 0
+/digicard/contacts/16/edit 2 29438 0 0
+/digicard/contacts 22 224529 0 0
+/web/contact 11 107381 2 5
+/digicard/payment/41/edit 3 31845 0 0
+/digicard/login 2 2044 1 0
+/web/admin/category 2 35204 0 0
+/digicard/super-admin/24/edit 1 4395 0 0
+/web/admin/home_banners/edit/19 1 17474 0 0
+/web/admin/contacts 3 50130 0 0
+/web/assets/css/bootstrap.min.css.map 3 2382 0 0
+/digicard/website/1234 5 17783 0 1
+/web/admin/reset_password 1 12946 0 0
+/web/admin/home_banners 6 105696 0 0
+/digicard/inquiry 5 50333 0 0
+/web/project-details.html 2 1588 0 0
+/web/admin/client/add 1 17264 0 0
+/digicard/super-admin/51/edit 1 4374 0 0
+/digicard/services/44/edit 1 10533 0 0
+/web/admin/product_list 3 131271 0 1
+/web/category/16 1 3945 0 0
+/web/home.php 7 5562 0 1
+/2023/ 2 2076 0 0
+/web/admin/reset_password.php 2 1588 0 0
+/web/category/13 2 7538 0 0
+/web/clients 15 56985 0 0
+/digicard/services/61/edit 1 10655 0 0
+/digicard/website/decent 16 80656 1 2
+/web/admin/authentication/flows/dark/password-reset.html 1 794 0 0
+/digicard/contacts/22/edit 1 14761 0 0
+/digicard/website/Heet1234 1 785 0 0
+/digicard/about_us 11 114506 0 0
+/web/services.html 5 3176 0 1
+/web/admin/category/add 1 17562 0 0
+/digicard/services/create 18 187957 0 0
+/web/category/12 3 12947 0 0
+/digicard/testimonials/7/edit 1 10639 0 0
+/web/admin/client 2 35188 0 0
+/digicard/website/ParthDecentInfoways 2 9250 0 0
+/digicard/testimonials/20/edit 1 10792 0 0
+/web/index.php/category/17 2 26660 0 1
+/web/admin/settings 3 53670 0 0
+/web/image-tool/index.php 6 13484 0 0
+/web/admin/product/add 1 17630 0 0
+/digicard/services/63/edit 3 32258 0 0
+/digicard/payment/create 5 51853 0 0
+/digicard/super-admin/36/edit 1 4378 0 0
+/digicard/payment/24/edit 1 10596 0 0
+/digicard/videos/create 9 93382 0 0
+/digicard/dashboards 15 166207 0 0
+/digicard/testimonials/create 12 124533 0 0
+/web/admin/client_profile 6 101766 0 0
+/digicard/videos/19/edit 2 21145 0 0
+/web/admin 11 189536 0 0
+/digicard/payment/39/edit 2 21144 0 0
+/digicard/contacts/create 6 85374 0 0
+/web/category/14 1 3801 0 0
+/ 3 108384 3 3
+/digicard/website/rittz.in 11 85763 1 1
+/web/admin/home_banners/delete/19 1 79 0 0
+/web/admin/contacts_list 3 951 0 0
+/web/admin/category_list 2 31770 0 0
+/web/category/17 1 13365 0 1
+/digicard/testimonials/19/edit 2 21343 0 0
+/digicard/links 14 144739 0 0
+/web/admin/home_banners/add 4 69352 0 0
+/digicard/contacts/25/edit 1 14713 0 0
+END_SIDER

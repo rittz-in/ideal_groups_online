@@ -1,0 +1,3034 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202606 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2088                
+POS_TIME 2771                
+POS_VISITOR 63135               
+POS_DAY 97375               
+POS_DOMAIN 3699                
+POS_LOGIN 5128                
+POS_ROBOT 5283                
+POS_WORMS 6260                
+POS_EMAILSENDER 6391                
+POS_EMAILRECEIVER 6534                
+POS_SESSION 98240               
+POS_FILESIZE 101326              
+POS_REQUESTTIME 101480              
+POS_SIDER 98448               
+POS_FILETYPES 6669                
+POS_DOWNLOADS 7014                
+POS_OS 7062                
+POS_BROWSER 7833                
+POS_SCREENSIZE 15328               
+POS_UNKNOWNREFERER 15402               
+POS_UNKNOWNREFERERBROWSER 16511               
+POS_ORIGIN 17192               
+POS_SEREFERRALS 17335               
+POS_PAGEREFS 17548               
+POS_SEARCHWORDS 17791               
+POS_KEYWORDS 17961               
+POS_MISC 2434                
+POS_ERRORS 18038               
+POS_CLUSTER 4984                
+POS_SIDER_404 18293               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260701004155 106 24545 12676806917758
+FirstTime 20260601000200
+LastTime 20260630235928
+LastUpdate 20260701190930 106 0 105 0 0
+TotalVisits 854                 
+TotalUnique 819                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 907                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 16 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 39 72 9506737 71 162 6285610
+1 78 961 12364458 290 391 3171454
+2 24 29 3872651 405 474 8314728
+3 29 43 1832236 923 1015 8845444
+4 23 39 472372 100 203 7058527
+5 27 112 2027063 193 264 1595164
+6 27 100 2147309 116 217 8677302
+7 66 165 2399740 364 415 639811
+8 13 60 4364115 121 205 3463629
+9 77 139 9944061 35 50 43919
+10 38 111 8251324 113 239 207426
+11 93 249 36271100 815 896 3257420
+12 74 122 3779608 321 359 221339
+13 210 762 39500214 507 614 1247187
+14 90 266 9788444 101 172 18293253
+15 66 232 30258289 86 184 1700805
+16 157 356 19459874 148 189 1758433
+17 50 119 3864471 77 191 1419897
+18 57 133 13524102 204 294 4476310
+19 69 321 20858160 124 192 1604505
+20 67 277 22667495 190 246 990816
+21 75 137 7270893 763 825 710488
+22 31 91 14693621 100 151 801232
+23 54 272 26850071 390 450 42083642
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 89
+us 466 1967 70029296
+in 465 1784 159319046
+ir 54 60 1374715
+vn 50 50 212789
+br 36 36 201321
+cn 32 199 4001418
+gb 28 121 15058743
+de 25 260 30713391
+ru 23 137 3141946
+jp 23 23 124266
+ca 23 48 945897
+ar 17 17 81056
+ao 14 61 1171693
+id 14 21 191348
+mx 13 13 60241
+ke 13 61 3971477
+bg 13 14 158282
+za 11 11 53896
+pl 9 9 98255
+pk 8 8 34125
+nl 8 10 105846
+dz 8 8 41224
+fr 8 22 58739
+co 8 8 35236
+rs 6 8 1002190
+pe 3 3 10994
+az 3 3 18643
+il 5 13 3801612
+bh 1 1 3596
+do 1 1 3596
+om 1 1 6762
+by 2 2 9858
+hu 2 2 5021
+jm 3 3 15541
+th 3 3 11556
+uz 4 4 16333
+bo 1 1 3596
+tn 2 2 14747
+es 2 2 22398
+no 4 11 58783
+eg 5 5 25242
+ae 6 6 41071
+lk 0 1 3678987
+gt 1 1 3861
+sc 1 1 794
+ro 6 13 1436977
+sk 3 3 59058
+ve 3 3 18724
+au 5 6 40334
+cl 4 4 16764
+gr 1 1 4386
+lt 1 8 50397
+se 5 8 55958
+kr 1 1 4000
+np 2 3 3630994
+iq 4 4 11779
+ph 4 4 22994
+cr 2 2 4342
+ua 3 3 59737
+py 1 1 3896
+my 5 5 27847
+sv 1 1 6762
+be 0 1 2395
+tr 6 6 28498
+qa 2 2 5021
+sa 1 1 3548
+hn 1 1 3548
+eu 1 1 6762
+sn 1 1 3596
+ma 6 6 31473
+zz 1 1 5472
+ip 4 4 44796
+bd 4 4 5978
+mv 1 1 794
+pa 3 3 13396
+uy 3 3 13284
+sy 2 2 17039
+ec 3 3 12787
+tw 4 4 9815
+cz 1 1 794
+zw 1 1 794
+ee 0 13 171730
+lb 1 1 794
+it 3 7 145789
+nz 3 3 14347
+kz 1 1 11199
+gy 1 1 794
+ie 1 1 11199
+jo 3 3 8390
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 22
+Googlebot/ 322 2954311 20260628173138 0
+crawl 201 47510909 20260630183757 0
+bingbot/ 199 8906956 20260630173334 0
+Applebot/ 173 3013429 20260629193458 0
+bot[\s_+:,\.\;\/\\-] 102 918261 20260626134044 0
+Googlebot\-Image/ 21 777602 20260630102641 0
+scanner 17 190383 20260630194734 0
+(firefox/)([0-9]\.|[0-1][0]\.) 15 65856 20260624134101 0
+curl 11 267745 20260613140317 0
+facebookexternalhit/ 7 58758 20260626000917 0
+GPTBot/ 7 67182 20260626134044 0
+[\s_+:,\.\;\/\\-]bot 7 54130 20260626134044 0
+YandexBot/ 6 70798 20260629192450 0
+Mediapartners-Google 3 18364 20260630080712 0
+checker 3 33597 20260620050510 0
+Baiduspider/ 2 3303 20260626134043 0
+no_user_agent 2 55510 20260617135242 0
+ResearchBot 1 11199 20260612120244 0
+yandex 1 2395 20260626054751 0
+Wget/ 1 0 20260615154834 0
+discover 1 11199 20260622162624 0
+seek 1 794 20260626134044 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+jpg 519 145046219 0 0
+html 563 7904519 0 0
+js 1223 35715012 0 0
+css 1154 25470994 0 0
+xml 2 0 0 0
+map 33 26202 0 0
+jpeg 24 3230068 0 0
+ttf 84 29350960 0 0
+png 709 17148915 0 0
+svg 5 2091580 0 0
+woff 84 15205760 0 0
+woff2 149 21624388 0 0
+php 76 159958 0 0
+Unknown 543 2993833 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 49
+macosx10 35 11
+macosx5 4 4
+win98 9 9
+macosx13 19 19
+androidgingerbread 4 4
+winme 4 4
+macosx8 2 2
+win95 1 1
+ios_iphone 325 66
+win7 138 66
+win8 15 15
+macos11 6 6
+android10 376 99
+androidkitkat 1 1
+android13 1 0
+win10 1741 526
+androidics 1 1
+macosx6 1 1
+macos12 2 2
+androidjellybean 3 3
+androidoreo 27 8
+androideclair 1 1
+linux 1298 208
+winxp 10 8
+macosx15 406 164
+androidlollipop 79 16
+macosx14 21 20
+unix 4 4
+linuxdebian 1 1
+win2003 7 7
+android 26 3
+androidmarshmallow 155 18
+macosx9 7 7
+linuxubuntu 9 5
+macosx11 12 12
+androidhoneycomb 1 1
+win2000 11 11
+macosx7 4 4
+ios_ipad 125 17
+winnt 8 8
+Unknown 184 100
+macosx12 12 12
+os/2 3 0
+wince 5 5
+winlong 13 13
+win8.1 10 10
+win11 3 3
+macosx 33 24
+android12 5 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 361
+chrome48.0.4849.1063 1 1
+opera9.61. 1 1
+chrome25.0.891.0 1 1
+chrome50.0.4443.1657 1 0
+safari16.4 1 0
+chrome74.0.3729.131 3 3
+safari15.1 1 0
+firefox62.0 2 2
+chrome68.0.3409.1 1 1
+safari4.0.4 4 4
+chrome100.0.4896.127 1 1
+chrome148.0.7778.96 117 9
+opera9.28. 1 1
+chrome66.0.3359.2 1 1
+chrome75.0.3770.100 2 2
+chrome100.0.4889.0 1 1
+chrome33.0.899.0 1 1
+firefox89.0 20 3
+chrome78.0.3904.108 4 4
+chrome55.0.6647.1638 1 1
+chrome124.0 95 46
+chrome98.0.4758.80 1 1
+chrome59.0.5135.1599 1 1
+chrome84.0.4147.89 3 3
+chrome72.0.3626.121 1 1
+safari17.2 1 1
+opera9.14. 1 1
+chrome52.0.9036.1996 9 1
+chrome88.0.4324.96 1 1
+chrome47.0.2302.1251 4 1
+msie6.0 10 10
+chrome84.0.4147.105 2 2
+msie9.0 13 13
+opera9.57. 1 1
+safari4.1 3 3
+chrome47.0.805.0 1 1
+safari4.0.1 1 1
+firefox48.0 1 1
+firefox70.0 1 0
+chrome95.0.4638.69 2 2
+chrome104.0.415 1 0
+opera9.80. 1 1
+chrome86.0.4240.99 1 1
+opera9.38. 1 1
+safari18.3.1 1 1
+chrome45.0.821.0 1 1
+chrome39.0.1502.1209 5 1
+chrome44.0.2403.125 4 4
+chrome99.0.4844.51 1 1
+firefox134.0 8 5
+chrome79.0.3945.130 6 6
+chrome149.0.0.0 757 172
+chrome83.0.4103.97 9 2
+opera8.35. 1 1
+chrome84.0.4147.135 3 3
+chrome47.0.801.0 1 1
+chrome119.0.0.0 1 1
+opera9.43. 1 1
+chrome100.0.4896.75 1 1
+chrome55.0.1660.1699 5 1
+safari26.0 2 1
+chrome145.0.0.0 3 2
+opera9.63. 1 1
+chrome66.0.3359.139 3 3
+chrome136.0.0.0 3 3
+chrome60.0.803.0 1 1
+chrome88.0.4324.150 3 3
+msie8.0 2 2
+chrome67.0.3396.87 1 1
+chrome56.0.874.0 1 1
+chrome91.0.4472.101 2 2
+chrome72.0.3626.92 1 1
+firefox133.0 5 3
+chrome115.0.0.0 1 1
+chrome59.0.8436.1226 15 1
+opera8.96. 1 1
+chrome98.0.4758.109 1 1
+chrome120.0.0.0 36 28
+chrome17.0.963.66 1 1
+chrome77.0.3865.120 1 1
+opera10.00 1 1
+chrome49.0.3066.1067 25 1
+chrome51.0.9207.1534 1 1
+opera8.84. 1 1
+chrome97.0.4692.71 2 2
+chrome126.0.0.0 7 7
+chrome69.0.3497.100 1 1
+chrome85.0.4183.121 6 6
+chrome30.0.820.0 1 1
+safari16.5 2 2
+chrome87.0.4280.88 3 3
+chrome94.0.4606.54 2 2
+chrome96.0.4664.45 3 3
+opera8.60. 1 1
+chrome88.0.4324.190 2 2
+chrome47.0.880.0 1 1
+chrome130.0.0.0 45 31
+chrome22.0.814.0 1 1
+chrome54.0.7400.1619 1 1
+chrome45.0.4810.1422 5 1
+opera8.40. 1 1
+opera8.78. 1 1
+chrome108.0.0.0 46 9
+firefox23.0 1 1
+firefox115.0 92 20
+chrome54.0.853.0 1 1
+chrome55.0.822.0 1 1
+firefox126.0 1 1
+chrome55.0.3348.1444 1 1
+safari5.0.5 3 3
+chrome85.0.4183.83 1 1
+chrome127.0.0.0 2 2
+chrome14.0.832.0 1 1
+opera8.24. 1 1
+chrome43.0.2255.1483 5 1
+opera8.89. 1 1
+chrome79.0.3945.88 3 3
+chrome128.0.0.0 6 6
+safari3.0.5 3 3
+chrome106.0.0.0 7 7
+opera8.62. 1 1
+chrome93.0.4577.82 4 4
+chrome132.0.0.0 2 2
+Unknown 90 83
+opera8.51. 1 1
+chrome83.0.4103.106 1 1
+opera8.70. 1 1
+chrome45.0.7994.1779 25 1
+chrome51.0.6714.1613 1 1
+chrome114.0.0.0 3 3
+safari17.5 1 1
+chrome83.0.4103.116 2 2
+chrome89.0.0.0 1 1
+chrome122.0.0.0 5 3
+chrome46.0.4445.1955 2 1
+chrome144.0.0.0 1 0
+chrome90.0.4430.93 2 2
+chrome54.0.8329.1066 3 1
+chrome78.0.3904.97 1 1
+chrome88.0.4324.146 2 2
+chrome100.0.1483.27 1 1
+opera8.67. 1 1
+opera8.98. 1 1
+chrome86.0.4240.198 4 4
+chrome98.0.4758.102 1 1
+chrome138.0.0.0 41 6
+chrome92.0.4515.107 3 3
+chrome49.0.2463.1448 11 1
+chrome50.0.5763.1721 5 1
+chrome80.0.794 1 1
+chrome113.0.0.0 2 2
+safari18.1 12 12
+chrome28.0.1468.0 1 1
+safari4.0.2 1 1
+firefox142.0 9 9
+chrome20.0.816.0 1 1
+opera8.53. 2 2
+chrome86.0.4240.183 1 1
+firefox55.0 1 1
+chrome143.0.0.0 127 7
+opera9.45. 1 1
+chrome89.0.4389.114 3 3
+safari5.0 5 5
+chrome48.0.2028.1043 32 1
+chrome76.0.3809.100 1 1
+chrome87.0.4280.67 1 1
+chrome125.0 6 6
+chrome55.0.6934.1760 2 1
+chrome99.0.4844.84 3 3
+firefox128.0 1 1
+firefox40.0 1 1
+safari14.0.3 79 3
+chrome29.0.1547.62 1 1
+chrome65.0.3325.19 1 1
+safari18.0 1 1
+firefox29.0 1 1
+chrome52.0.5175.1834 2 0
+safari 145 25
+chrome74.0.3729.169 4 4
+chrome90.0.4430.41 1 1
+chrome101.0.4951.64 1 1
+chrome89.0.4389.72 3 3
+chrome51.0.1828.1499 4 1
+chrome89.0.4389.105 1 1
+chrome90.0.4427.5 1 1
+chrome125.0.0.0 2 2
+chrome110.0.0.0 2 2
+chrome42.0.7093.1916 2 1
+chrome76.0.1159 1 1
+chrome51.0.1968.1682 8 1
+chrome65.0.3325.181 2 2
+chrome44.0.2553.1309 4 1
+chrome104.0.0.0 1 1
+chrome29.0.1547.57 1 1
+safari26.3 7 1
+chrome41.0.2267.1745 2 1
+chrome94.0.4606.71 1 1
+chrome87.0.4280.141 4 3
+chrome68.0.3440.75 1 1
+chrome50.0.862.0 1 1
+chrome59.0.1850.1642 4 1
+chrome77.0.4000.0 1 1
+chrome59.0.9730.1351 1 0
+chrome31.0.894.0 1 1
+chrome145.0.7632.6 1 1
+firefox13.0 2 2
+chrome28.0.807.0 1 1
+opera8.15. 1 1
+opera8.69. 2 2
+chrome89.0.4389.128 2 2
+opera8.20. 1 1
+chrome43.0.3924.1982 3 1
+safari8.0.2 25 1
+chrome139.0.0.0 14 14
+chrome74.0.3729.157 2 2
+chrome91.0.4472.114 3 3
+chrome81.0.4044.113 2 2
+opera9.33. 2 2
+chrome135.0.0.0 1 1
+chrome146.0.0.0 9 3
+chrome68.0.3440.84 1 1
+opera8.19. 1 1
+chrome116.0.0.0 857 39
+chrome58.0.3029.110 8 8
+chrome101.0.0.0 1 1
+chrome99.0.4844.74 1 1
+chrome41.0.2226.0 1 1
+safari17.6 1 0
+chrome91.0.4472.164 2 2
+chrome27.0.1453.93 3 3
+chrome88.0.4324.104 2 2
+chrome80.0.3987.162 1 1
+chrome66.0.3359.170 1 1
+firefox141.0 1 1
+chrome92.0.4515.159 3 3
+safari18.2 1 1
+firefox14.0 1 1
+safari17.4.1 10 7
+safari5.1 3 3
+chrome87.0.4280.101 1 1
+chrome23.0.824.0 1 1
+opera9.98. 1 1
+firefox37.0 1 1
+chrome98.0.4691.94 1 1
+opera9.54. 1 1
+msie5.0 10 10
+chrome25.0.884.0 1 1
+chrome46.0.7209.1353 2 1
+chrome86.0.4240.75 25 25
+chrome76.0.3809.132 1 1
+safari5.0.1 1 1
+iphone 2 0
+safari5.0.4 1 1
+opera9.85. 1 1
+firefox149.0 13 3
+chrome103.0.0.0 1 1
+chrome80.0.3987.122 1 1
+chrome148.0.7778.178 3 0
+chrome91.0.4472.124 86 20
+chrome111.0 1 1
+firefox11.0 2 0
+chrome46.0.1841.1813 3 1
+opera9.12. 1 1
+firefox124.0 10 7
+chrome101.0.4951.54 6 6
+chrome67.0.3396.62 1 1
+chrome80.0.3987.132 6 6
+opera9.42. 1 1
+safari26.5 18 2
+chrome27.0.1453.116 1 1
+chrome93.0.4558.0 1 1
+chrome73.0.3683.103 1 1
+chrome39.0.884.0 1 1
+firefox130.365.195 1 1
+chrome88.0.4324.152 2 2
+safari17.0 1 1
+chrome42.0.2311.135 2 2
+safari13.0.3 44 24
+chrome29.0.1547.2 1 1
+chrome35.0.819.0 1 1
+chrome80.0.3987.87 3 3
+chrome41.0.7315.1573 1 1
+chrome65.0.3325.5 1 1
+firefox103.0 1 1
+chrome73.0.3683.86 2 2
+chrome123.0.0.0 28 3
+chrome83.0.4103.61 2 2
+chrome80.0.3987.163 1 1
+safari5.0.2 1 1
+chrome89.0.4389.69 1 1
+chrome96.0.4664.93 2 2
+chrome44.0.816.0 1 1
+chrome28.0.1464.0 1 1
+chrome39.0.2171.95 2 2
+chrome94.0.4606.61 2 2
+chrome28.0.1467.0 1 1
+chrome60.0.2213 1 0
+safari18.4 88 7
+chrome32.0.830.0 1 1
+chrome133.0.0.0 2 1
+safari18.3 3 2
+chrome57.0.899.0 1 1
+chrome100.0.4896.79 2 2
+chrome88.0.4324.192 2 2
+opera9.16. 1 1
+firefox148.0 1 1
+chrome27.0.1500.55 1 1
+chrome120.0 2 2
+chrome45.0.847.0 1 1
+opera31.0.1889.174 1 1
+safari4.0 2 2
+chrome115.0 4 4
+firefox15.0 1 1
+safari18.5 1 1
+chrome78.0.3904.70 1 1
+msie11.0 1 1
+chrome73.0.3683.75 1 1
+chrome51.0.9641.1476 4 1
+chrome99.0.7113.93 1 1
+opera8.64. 1 1
+chrome56.0.8926.1152 20 1
+chrome59.0.5274.1394 1 1
+chrome134.0.0.0 74 11
+msie7.0 12 12
+chrome54.0.886.0 1 1
+chrome121.0.0.0 12 1
+chrome54.0.8096.1368 25 1
+chrome35.0.3319.102 1 1
+chrome35.0.2117.157 1 1
+chrome56.0.7284.1380 7 1
+chrome89.0.4389.90 7 7
+chrome147.0.0.0 43 8
+chrome148.0.0.0 784 172
+safari26.0.1 1 1
+opera8.14. 1 1
+chrome77.0.3865.90 1 1
+chrome89.0.4389.91 1 1
+chrome109.0.0.0 1 0
+chrome90.0.4430.72 1 1
+chrome15.0.879.0 1 1
+chrome59.0.6357.1351 1 1
+chrome86.0.4240.111 1 1
+chrome53.0.4323.1739 1 1
+safari4.0.5 4 4
+chrome41.0.2228.0 1 1
+chrome63.0.887.0 1 1
+netscape5.0 9 9
+chrome45.0.7576.1310 3 1
+chrome80.0.3987.116 2 2
+chrome49.0.9000.1152 1 1
+chrome112.0.0.0 2 2
+chrome105.0.0.0 6 3
+chrome81.0.4044.122 2 2
+chrome88.0.4324.182 1 1
+opera8.28. 1 1
+chrome131.0.0.0 140 67
+safari26.2 67 6
+mozilla 31 13
+chrome124.0.0.0 163 70
+chrome58.0.874.0 1 1
+chrome142.0.0.0 111 25
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 16
+greedyhand/0.1 20260612154426
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko);_compatible;_Shap-User/0.1.0 20260617143220
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260627093705
+panscient.com 20260605070617
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260619182847
+trafilatura/2.1.0_(_https://github.com/adbar/trafilatura) 20260611212044
+Mozilla/5.0_(compatible;_RecScan/1.0) 20260620032149
+Python/3.12_aiohttp/3.13.3 20260627143953
+Mozilla/5.0_(compatible;) 20260625070443
+node 20260612101043
+cpp-httplib/0.29.0 20260603154723
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260629234412
+Goosee-Audit/1.0_(_internal-security-audit) 20260614051306
+WhatsApp/2.23.20.0 20260611094358
+Python/3.13_aiohttp/3.13.5 20260604012214
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_GoogleOther)_Chrome/148.0.7778.96_Safari/537.36 20260624230201
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+panscient.com 20260605070617
+greedyhand/0.1 20260612154426
+trafilatura/2.1.0_(_https://github.com/adbar/trafilatura) 20260611212044
+NetworkingExtension/8623.2.7.110.1_Network/5569.82.5_iOS/26.3.1 20260608151833
+Python/3.12_aiohttp/3.13.3 20260627143953
+node 20260612101043
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260629234412
+cpp-httplib/0.29.0 20260603154723
+Goosee-Audit/1.0_(_internal-security-audit) 20260614051306
+WhatsApp/2.23.20.0 20260611094358
+Python/3.13_aiohttp/3.13.5 20260604012214
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 990 1246
+From1 0 0
+From2 36 47
+From3 5 16
+From4 503 3859
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+www_bing_com 1 1
+yandex 1 1
+google_catchall 1 1
+www_google_com 33 44
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://www.agarwaltanks.com 2 2
+https://mail.idealgroups.org 2 13
+https://l.instagram.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+idealgroups.org 4
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+idealgroups.org 4
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 14
+503 4 0
+421 16 5792
+404 2616 1066583
+303 2 2192
+302 591 2539
+301 56 13956
+206 255 59678071
+400 4 156
+403 171 93993
+307 1 0
+406 2167 472792
+401 2 104
+409 1346 111718
+500 1 427104
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1198
+/.ENV.local 2 https://idealgroups.org/
+/assets/main.js 1 https://idealgroups.org/
+/phpinfo.php.save 2 -
+/fr/join 1 -
+/lediga-tjanster 1 -
+/plesk-stat/ 1 -
+/application.yml 2 https://idealgroups.org/
+/es/jobs 1 -
+/services/docker-compose.yml 1 -
+/build/%2F.env 1 https://idealgroups.org/
+https://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 https://idealgroups.org/
+/contact-us 9 https://idealgroups.org/contact
+/health 1 https://idealgroups.org/
+/api/v1/version 5 https://idealgroups.org/
+/actuator/%2Fconfigprops 1 https://idealgroups.org/
+/wp-json/ 4 https://idealgroups.org/
+/rejoignez-nous 1 -
+/backend/actuator/env 1 -
+/./.env.local 2 https://idealgroups.org/
+/sitemap.xml.gz 4 -
+/@vite/client 4 https://idealgroups.org/
+/helm/values.yml 1 -
+/hello/ 1 https://idealgroups.org/
+/img../%2F.env 2 https://idealgroups.org/
+/js/settings.js 1 https://idealgroups.org/
+/site.sql%23 1 https://idealgroups.org/
+/cart 1 https://idealgroups.org/
+/joomla.zip 1 -
+/hiring 1 -
+/build../docker-compose.yml 2 https://idealgroups.org/
+/uploads../../../etc/nginx/nginx.conf 1 https://idealgroups.org/
+/.npmrc%23 1 https://idealgroups.org/
+/wp-json/gravitysmtp/v1/config 1 -
+/frontend/.env.staging 1 -
+/env.txt 1 -
+/backup.sql.gz 3 https://idealgroups.org/
+/livewire/livewire.js 1 https://idealgroups.org/
+/job 1 -
+/api/aws.json 1 -
+/.env.production 17 -
+/helm/values-production.yaml 1 -
+/login/ 2 https://idealgroups.org/
+/jobs-karriere 1 -
+/./.env.test 1 https://idealgroups.org/
+/%2Fcss%252f..%252f..%252fetc%252fpasswd 1 https://idealgroups.org/
+/server-info.php 2 -
+/./config.env 1 https://idealgroups.org/
+/v1/actuator/env 1 -
+/.ssh/id_rsa.pem 2 https://idealgroups.org/
+/./%c0.env 1 https://idealgroups.org/
+/uploads.env 1 https://idealgroups.org/
+/static../%2F.env 2 https://idealgroups.org/
+/ROOT/actuator 1 https://idealgroups.org/
+/./.npmrc 1 https://idealgroups.org/
+/internal/.env.production 1 -
+/infra/terraform.tfvars 1 -
+https://idealgroups.org/static/../../../../etc/passwd 2 https://idealgroups.org/
+/images.env 1 https://idealgroups.org/
+/assets../../../etc/apache2/apache2.conf 1 https://idealgroups.org/
+/__ENV.js 1 https://idealgroups.org/
+/assets../../../etc/nginx/nginx.conf 1 https://idealgroups.org/
+/home/ubuntu/.ssh/%2Fid_rsa 1 https://idealgroups.org/
+/drupal.zip 1 -
+/.env.local 15 -
+/pi.php 2 -
+/trabalhe-conosco 1 -
+/public/plugins/ckeditor/images/spacer.gif 1 https://idealgroups.org/public/plugins/ckeditor/images/spacer.gif
+/htdocs/phpinfo.php 2 -
+/configprops 1 -
+/static../settings.py 1 https://idealgroups.org/
+/sanctum/csrf-cookie 1 https://idealgroups.org/
+/app/ 1 https://idealgroups.org/
+/www.rar 1 -
+/stillinger 1 -
+/work-with-us 1 -
+/.env.qa 1 -
+/uploads../%2F.env 2 https://idealgroups.org/
+/%2Fid_rsa 2 https://idealgroups.org/
+/app-ads.txt 42 -
+/deploy/service-account.json 1 -
+/development.zip 1 -
+/backend/.env.dev 1 -
+/.env.dev 7 -
+/static%2f..%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/phpmyadmin/ 1 -
+/app/heapdump 1 -
+/impressum 2 -
+/build/js/app.js 1 https://idealgroups.org/
+/infrastructure/docker-compose.yml 1 -
+/.env.backup2 4 -
+/vacatures 1 -
+/pricing 1 https://idealgroups.org/
+/telescope/api/queries 1 https://idealgroups.org/
+/js/index.js 2 https://idealgroups.org/
+/wp-admin/images/ 2 -
+/mgmt/shared/authn/login 3 https://idealgroups.org/
+/%2F.env.backup 2 https://idealgroups.org/
+/wp-admin/phpinfo.php 2 -
+/.credentials 1 -
+/media../../../etc/passwd 2 https://idealgroups.org/
+/.env.prod 8 -
+/admin.zip 1 -
+/%2Fjs%252f..%252f..%252fetc%252fpasswd 1 https://idealgroups.org/
+/img%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/.env.live 5 -
+/bugbounty 1 -
+/%2Fdatabase.sql 2 https://idealgroups.org/
+/_nuxt/__ENV.js 1 https://idealgroups.org/
+/db.rar 1 -
+/app/service-account.json 1 -
+/karriere 1 -
+/fr/employment 1 -
+/api../../%2F.env 1 https://idealgroups.org/
+https://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 2 https://idealgroups.org/
+/rekrytointi 1 -
+/media/system/js/core.js 2 -
+/build.env 1 https://idealgroups.org/
+/uploads../../../etc/passwd 2 https://idealgroups.org/
+/images../ 1 https://idealgroups.org/
+/backend/.env.prod 1 -
+/server.key 2 https://idealgroups.org/
+/config.env 5 https://idealgroups.org/
+https://idealgroups.org/assets/../../../../../../../../../../../../../etc/passwd 1 https://idealgroups.org/
+/static../config.py 1 https://idealgroups.org/
+/actuator 6 https://idealgroups.org/
+/public/../../../etc/passwd 1 https://idealgroups.org/
+/es/opportunities 1 -
+/app/actuator/env 1 -
+/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js 9 -
+/.env.test 6 -
+/assets/.env%23 1 https://idealgroups.org/
+/.env2 4 -
+/telescope/api/./requests 2 https://idealgroups.org/
+/app.env 2 https://idealgroups.org/
+/pma/ 1 -
+/de/vacancies 1 -
+/dist/app.js 1 https://idealgroups.org/
+/config.json.save 1 -
+https://idealgroups.org/static/../../../../../../etc/passwd 1 https://idealgroups.org/
+/backup.tar 1 -
+/home 3 https://idealgroups.org/
+/feed/ 3 https://idealgroups.org/
+/app/.env.production 1 -
+/latest.rar 1 -
+/uploads../../%2F.env 2 https://idealgroups.org/
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/web/%2F.env 2 https://idealgroups.org/
+/.env.pre-production 1 -
+/storage/logs/laravel-2026.log 1 https://idealgroups.org/
+/apple-app-site-association 4 -
+/js../%2F.env 2 https://idealgroups.org/
+/actuator/env/./server.ssl.key-store-password 1 https://idealgroups.org/
+/css../../../etc/apache2/apache2.conf 1 https://idealgroups.org/
+/assets../%2F.env 2 https://idealgroups.org/
+/files../config.py 1 https://idealgroups.org/
+/wp-json/gravitysmtp/v1/settings 1 -
+/idealgroups.tar 1 -
+/mysql.dump 1 -
+/api/env 4 -
+/actuator/logfile 3 https://idealgroups.org/
+https://idealgroups.org/cgi-bin/../../../../etc/passwd 1 https://idealgroups.org/
+/queue/status 2 https://idealgroups.org/
+/core/CHANGELOG.txt 4 https://idealgroups.org/
+/sitemap.txt 2 -
+/backup.rar 1 -
+/rest/settings 2 https://idealgroups.org/
+/root/.docker/config.json 1 https://idealgroups.org/
+/%2F.env.swp 2 https://idealgroups.org/
+/full.zip 1 -
+/.env.stage 5 -
+/viec-lam 1 -
+/healthz 1 https://idealgroups.org/
+/apple-touch-icon-precomposed.png 8 -
+/carrieres 1 -
+https://idealgroups.org/static/../../../../../../../../../../../../../../etc/passwd 2 https://idealgroups.org/
+/account 1 https://idealgroups.org/
+/deploy.pem 1 https://idealgroups.org/
+/public.env 1 https://idealgroups.org/
+/en/join-us 1 -
+/responsible-disclosure-policy 1 -
+/%2F.env.copy 2 https://idealgroups.org/
+/administrator/components/com_jce/jce.xml 15 https://idealgroups.org/
+/files../%2F.env 2 https://idealgroups.org/
+/assets../settings.py 1 https://idealgroups.org/
+/horizon/api/stats 3 https://idealgroups.org/
+/wp-includes/js/wp-emoji-release.min.js 2 https://idealgroups.org/
+/assets../.git/config 1 https://idealgroups.org/
+/telescope/api/requests 2 https://idealgroups.org/
+/static../../../etc/apache2/apache2.conf 1 https://idealgroups.org/
+/wp-content/plugins/giftware/public/js/ultimate-woocommerce-gift-card-public.js 1 -
+/wp-login.php 28 -
+/users 1 https://idealgroups.org/
+/frontend/.env.prod 1 -
+/ps_customer.sql.gz 1 -
+/wp-content.zip 1 -
+/assets/js/config.js 1 https://idealgroups.org/
+/wp-json/wpforms/v1/forms 1 https://idealgroups.org/
+/de/careers 1 -
+/js%2f..%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/database.zip 1 -
+/lavora-con-noi 1 -
+/application.yaml 1 https://idealgroups.org/
+/home/deploy/.ssh/%2Fid_rsa 1 https://idealgroups.org/
+https://idealgroups.org/static/../../../../../../../../../../../../../../../etc/passwd 2 https://idealgroups.org/
+/uploads../docker-compose.yml 1 https://idealgroups.org/
+/sitemap_index.xml 8 -
+/actuator/env 5 -
+/carreiras 1 -
+/s3cfg 1 https://idealgroups.org/
+/api/v1/smtp/credentials 1 https://idealgroups.org/
+/backend/actuator/configprops 1 -
+/opportunities 1 -
+/wp-includes/js/crop/ 3 -
+/gioi-thieu 1 -
+/fr/ 1 https://idealgroups.org/
+/js.env 1 https://idealgroups.org/
+/work-for-us 1 -
+/api/.env.prod 1 -
+/admin/telescope/api/requests 1 https://idealgroups.org/
+/home.php 10 -
+/helm/values.yaml 1 -
+/dist.env 1 https://idealgroups.org/
+/.env.ci 4 -
+/de/openings 1 -
+/oportunidades 1 -
+/docker-compose.dev.yml 1 -
+/public../ 2 https://idealgroups.org/
+/storage/logs/laravel-2025.log 1 https://idealgroups.org/
+/public/%2F.env 1 https://idealgroups.org/
+/home/git/.ssh/%2Fid_rsa 1 https://idealgroups.org/
+/idealgroupsorg.tar.gz 1 -
+/httptrace 2 https://idealgroups.org/
+/test.php 2 -
+https://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 2 https://idealgroups.org/
+/trabaja-con-nosotros 1 -
+/assets../config.py 1 https://idealgroups.org/
+/.env.log 1 https://idealgroups.org/
+/js/../../../etc/passwd 1 https://idealgroups.org/
+/telescope/api/commands 2 https://idealgroups.org/
+/threaddump 1 -
+/wp-content/plugins/piotnet-addons-for-elementor-pro/assets/css/minify/extension.min.css 1 https://idealgroups.org/
+/job-vacancies 1 -
+/static/.env%23 1 https://idealgroups.org/
+/es/hiring 1 -
+/php-info.php 2 -
+/api/.env.staging 1 -
+/api/actuator/logfile 1 -
+/mysql.sql%23 1 https://idealgroups.org/
+/api../docker-compose.yml 2 https://idealgroups.org/
+/administrator/components/com_jce/manifest.xml 2 https://idealgroups.org/
+/wp-content/themes/ 4 -
+/app.zip 1 -
+/.s3cfg 1 https://idealgroups.org/
+/metrics 1 https://idealgroups.org/
+/.ssh/%2Fid_dsa 2 https://idealgroups.org/
+/config.yml 1 https://idealgroups.org/
+/js/main.js 3 https://idealgroups.org/
+/actuator/sessions 2 https://idealgroups.org/
+/api/v1/ 1 https://idealgroups.org/
+/css../docker-compose.yml 1 https://idealgroups.org/
+/web.rar 1 -
+/assets%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/static%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/.env.json 6 https://idealgroups.org/
+/actuator/auditevents 1 -
+/docker-compose.yml 2 https://idealgroups.org/
+/nous-joindre 1 -
+/backup_idealgroups.zip 1 -
+/./.env_backup 1 https://idealgroups.org/
+/trace 1 https://idealgroups.org/
+/dist../docker-compose.yml 2 https://idealgroups.org/
+/assets../config/database.yml 1 https://idealgroups.org/
+/internal/actuator/env 1 -
+/wp-content/uploads/ 12 -
+https://idealgroups.org/static/../../../../../../../../../../../../../etc/passwd 2 https://idealgroups.org/
+/adoption 1 -
+/careers 1 -
+/qa/phpinfo.php 2 -
+/config.ini 1 -
+/css../%2F.env 2 https://idealgroups.org/
+/idealgroups_backup.zip 1 -
+/account.json 1 -
+/config/aws.json 1 -
+/home/ec2-user/.ssh/%2Fid_rsa 1 https://idealgroups.org/
+/media/../../../etc/passwd 1 https://idealgroups.org/
+/ik 1 -
+/de/work-with-us 1 -
+/telescope/api/notifications 1 https://idealgroups.org/
+/rest/default/V1/store/storeViews 2 https://idealgroups.org/
+/backend/.env.staging 1 -
+/app/.env.local 1 -
+/wp.zip 1 -
+/rest/health 1 https://idealgroups.org/
+/./.env.2 1 https://idealgroups.org/
+/%2Fuploads%252f..%252f..%252fetc%252fpasswd 1 https://idealgroups.org/
+/admin/.env.production 1 -
+/public../%2F.env 2 https://idealgroups.org/
+/public/phpinfo.php 2 -
+/admin/api/.env 1 -
+/karjera 1 -
+/app/actuator/heapdump 1 -
+/about-us 2 -
+/php.php 2 -
+/private/credentials.json 1 -
+/phpinfo 5 -
+/es/openings 1 -
+/idealgroups.tgz 1 -
+/actuator/configprops 3 https://idealgroups.org/
+/stellen 1 -
+/.env.default 1 -
+/storage/logs/laravel-2024.log 1 https://idealgroups.org/
+/test/phpinfo.php 2 -
+https://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 2 https://idealgroups.org/
+/wp_users.sql.gz 1 -
+/home/ubuntu/.ssh/id_ed25519 1 https://idealgroups.org/
+/settings.js 1 -
+/img/../../../etc/passwd 1 https://idealgroups.org/
+/my-account/ 3 -
+/actuator/env/spring.mail.username 2 https://idealgroups.org/
+/settings.yml 1 -
+/www.tar.gz 1 -
+/gcp-credentials.json 3 -
+/../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js 2 https://idealgroups.org/
+/secrets/gcp.json 1 -
+/public../settings.py 1 https://idealgroups.org/
+/public../.git/config 2 https://idealgroups.org/
+/de/hiring 1 -
+/static../../../etc/passwd 2 https://idealgroups.org/
+/services/.env.local 1 -
+/kubernetes.yml 1 -
+/%2F.env.old 2 https://idealgroups.org/
+/js/app.js 3 https://idealgroups.org/
+/uploads../config/database.yml 1 https://idealgroups.org/
+/web.zip 2 -
+/werken-bij-ons 1 -
+/v1/actuator/heapdump 1 -
+/assets.env 1 https://idealgroups.org/
+/idealgroupsorg.tgz 1 -
+/contact 10 https://idealgroups.org/home.php
+/firebase-adminsdk.json 3 -
+/docker/docker-compose.prod.yml 1 -
+/idealgroups.rar 1 -
+/backend/actuator/heapdump 1 -
+https://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 https://idealgroups.org/
+/./.env 1 https://idealgroups.org/
+/administrators.sql.gz 1 -
+/customer_entity.sql.gz 1 -
+/wp-content/plugins/updraftplus/js/updraft-admin-restore.js 1 -
+/fr/join-us 1 -
+/posizioni-aperte 1 -
+/staging.zip 1 -
+/static../../../../../etc/passwd 1 https://idealgroups.org/
+/register 6 -
+/work-here 1 -
+/es/work-with-us 1 -
+/files/.env%23 2 https://idealgroups.org/
+/actuator/gateway/routes 2 https://idealgroups.org/
+https://idealgroups.org/assets/../../../../../../../../../../../../etc/passwd 2 https://idealgroups.org/
+/wp-admin/maint/ 3 -
+/idealgroupsorg.zip 1 -
+/livewire/update 1 https://idealgroups.org/
+/rabota 1 -
+/assets/js/index.js 1 https://idealgroups.org/
+/css../../%2F.env 2 https://idealgroups.org/
+/full.rar 1 -
+/media../../../etc/apache2/apache2.conf 1 https://idealgroups.org/
+/.env.backup1 4 -
+/hello/error 1 https://idealgroups.org/
+/carreras 1 -
+/is-ilanlari 1 -
+/public../config.py 2 https://idealgroups.org/
+/./.env.development 1 https://idealgroups.org/
+/files../ 1 https://idealgroups.org/
+/accounting/control/main 2 https://idealgroups.org/
+/debug.log 1 https://idealgroups.org/
+/api/v2.0/sys/status 3 https://idealgroups.org/
+/media../../%2F.env 2 https://idealgroups.org/
+/composer.json 1 https://idealgroups.org/
+https://idealgroups.org/static/../../../../../../../../../etc/passwd 2 https://idealgroups.org/
+/app/docker-compose.prod.yml 1 -
+/dist/js/app.js 2 https://idealgroups.org/
+/api/v1/internal/settings 1 https://idealgroups.org/
+/oferty-pracy 1 -
+/latest.zip 1 -
+/dump.tar.gz 1 -
+/dev/phpinfo.php 2 -
+//config/.aws/credentials 1 -
+/job-application 1 -
+/private/.env.production 1 -
+/dana-na/auth/url_default/welcome.cgi 3 https://idealgroups.org/
+/api../../../../../etc/passwd 1 https://idealgroups.org/
+/files../.git/config 1 https://idealgroups.org/
+/.env.example 6 -
+//config.json 1 https://idealgroups.org/
+/.env.remote 4 -
+/backup.tar.gz 2 -
+/borsa-de-treball 1 -
+/wp-content/plugins/smtp-mail/tmp/debug.log 1 https://idealgroups.org/
+/configuration.yml 1 -
+/.ssh/%2Fid_rsa 3 https://idealgroups.org/
+/admin/.env.local 1 -
+/backup.tar.bz2 1 -
+/.well-known/passkey-endpoints 9 -
+/p.php 2 -
+/prod.zip 1 -
+/api/metrics 3 https://idealgroups.org/
+/server/.env.local 1 -
+/wp-content/plugins/ 1 https://idealgroups.org/
+/main.js 1 https://idealgroups.org/
+/.git/HEAD 11 -
+/dump.sql.gz 2 -
+/content../config.py 2 https://idealgroups.org/
+/resources.env 2 https://idealgroups.org/
+/phpMyAdmin/ 1 -
+/uploads%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/robots.txt 308 -
+/settings.json 1 -
+/img../settings.py 1 https://idealgroups.org/
+/administrator/components/com_jce/ 1 -
+/arbeiten-bei-uns 1 -
+/assets/css/contact.css 5 https://www.google.com/search
+/internal/docker-compose.yml 1 -
+/%2Fheapdump 1 https://idealgroups.org/
+/es/careers 1 -
+/hello/actuator 1 https://idealgroups.org/
+/css../../../../../etc/passwd 1 https://idealgroups.org/
+/media../docker-compose.yml 1 https://idealgroups.org/
+/api/v1/sendgrid/config 1 https://idealgroups.org/
+/.env.docker 5 -
+/career 1 -
+/home/ec2-user/.docker/config.json 1 https://idealgroups.org/
+/actuator/threaddump 1 -
+/js../../../etc/nginx/nginx.conf 1 https://idealgroups.org/
+/v1/actuator/configprops 1 -
+/%2Fdump.sql 2 https://idealgroups.org/
+/hr 1 -
+/%ef%bc%8eenv 2 https://idealgroups.org/
+/wp-content/uploads/debug.log 1 https://idealgroups.org/
+/prestashop.zip 1 -
+/deploy/terraform.tfvars 1 -
+/service/rest/v1/status 1 https://idealgroups.org/
+https://idealgroups.org/static/../../../../../../../../../../../etc/passwd 1 https://idealgroups.org/
+https://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 https://idealgroups.org/
+/working-with-us 1 -
+/xf_user.sql.gz 1 -
+/site.tar.gz 1 -
+/config/.env.production 1 -
+/wp-includes/html-api/ 9 -
+/app/.env.dev 1 -
+/admin/telescope/api/logs 1 https://idealgroups.org/
+/wordpress.zip 1 -
+/css../settings.py 2 https://idealgroups.org/
+/.env.staging 8 -
+/users.sql.gz 1 -
+/digicard/public/img/consult/icons/service-shadow.png 6 https://idealgroups.org/digicard/public/assets/Style.css
+/chaeyon 1 -
+/content../.git/config 1 https://idealgroups.org/
+/digicard/public/build/assets/app-12bdea52.css.map 2 -
+/clients.sql.gz 1 -
+/secrets/aws.json 1 -
+/tawzeef 1 -
+/frontend/.env.local 1 -
+/%252e%256env 2 https://idealgroups.org/
+/idealgroups.tar.gz 1 -
+/home/vagrant/.ssh/%2Fid_rsa 1 https://idealgroups.org/
+/bundle.js 2 https://idealgroups.org/
+/%2F.env.swo 2 https://idealgroups.org/
+/current-openings 1 -
+/profile 1 https://idealgroups.org/
+/postgres.zip 1 -
+/https://www.idealgroups.org/web/assets/images/ideal_group_fevicon_54.png 1 https://idealgroups.org
+https://idealgroups.org/static/../../../../../../../../../../../../etc/passwd 2 https://idealgroups.org/
+/stellenangebot 1 -
+/firebase.json 2 -
+/cli 3 https://idealgroups.org/
+/industries 1 -
+/join-us 1 -
+/recruit 1 -
+/plugins/editors/jce/jce.xml 15 -
+/graphql 4 https://idealgroups.org/
+/public%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/api../config/database.yml 1 https://idealgroups.org/
+/server/docker-compose.yml 1 -
+/services.html 13 -
+/static/../../../etc/passwd 1 https://idealgroups.org/
+/.env%00.jpg 2 https://idealgroups.org/
+/assets../../../../etc/passwd 2 https://idealgroups.org/
+/Dockerfile 2 -
+/%2Ffiles%252f..%252f..%252fetc%252fpasswd 1 https://idealgroups.org/
+/vacancy 1 -
+/aws.config.js 1 -
+https://idealgroups.org/assets/../../../../../../../../../../../../../../etc/passwd 2 https://idealgroups.org/
+/openings 1 -
+/test.zip 1 -
+/de/opportunities 1 -
+/latest.tar.gz 1 -
+/storage.env 1 https://idealgroups.org/
+/actuator/heapdump 3 https://idealgroups.org/
+/idealgroupsorg.tar 1 -
+/api../%2F.env 1 https://idealgroups.org/
+/public_html/phpinfo.php 2 -
+/app/actuator/configprops 1 -
+/images../settings.py 1 https://idealgroups.org/
+/images../.git/config 1 https://idealgroups.org/
+/es/vacancies 1 -
+/login 12 -
+/api/health 1 https://idealgroups.org/
+/app/docker-compose.yml 1 -
+/media/%2F.env 2 https://idealgroups.org/
+/vakansii 1 -
+/frontend.zip 1 -
+/wp-content/plugins/wp-mail-smtp/tmp/debug.log 1 https://idealgroups.org/
+/vbulletin_user.sql.gz 1 -
+/chosen 3 -
+/css../../../etc/nginx/nginx.conf 1 https://idealgroups.org/
+/.env.dist 5 -
+/employment 1 -
+/heapdump 2 https://idealgroups.org/
+/.boto 1 https://idealgroups.org/
+/accounts.sql.gz 1 -
+/lien-he 1 -
+/backup.zip 2 -
+/backup.dump 1 -
+/en/join 1 -
+/wp-content/plugins/piotnet-addons-for-elementor-pro/assets/js/minify/extension.min.js 1 https://idealgroups.org/
+/static.env 1 https://idealgroups.org/
+/js/env.js 2 https://idealgroups.org/
+/modules/ps_emailsubscription/ 1 https://idealgroups.org/
+/de/jobs 1 -
+/lienhe 1 -
+/www.zip 2 -
+https://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 2 https://idealgroups.org/
+/aws.json 1 https://idealgroups.org/
+/rencaizhaopin 1 -
+/wp-includes/ 5 -
+/assets../docker-compose.yml 1 https://idealgroups.org/
+/home/ec2-user/.ssh/id_ed25519 1 https://idealgroups.org/
+/admin_user.sql.gz 1 -
+/contacto 2 -
+/web.tar.gz 1 -
+/js../config/database.yml 1 https://idealgroups.org/
+/docker-compose.production.yml 1 -
+/%2Fbackup.sql 3 https://idealgroups.org/
+/telescope/api/logs 2 https://idealgroups.org/
+https://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 https://idealgroups.org/
+/config/service-account.json 1 -
+/./.env.dev 1 https://idealgroups.org/
+/public../../../../etc/passwd 2 https://idealgroups.org/
+/media.env 1 https://idealgroups.org/
+/ROOT/error 1 https://idealgroups.org/
+/uploads../../../../../etc/passwd 1 https://idealgroups.org/
+/openapi.json 1 https://idealgroups.org/
+/wp-content/plugins/wp-smtp/debug.log 1 https://idealgroups.org/
+/en/employment 1 -
+/img../../%2F.env 2 https://idealgroups.org/
+/admin/.env 10 -
+/.dockerconfigjson 1 https://idealgroups.org/
+/images../config.py 2 https://idealgroups.org/
+/b_user_group.sql.gz 1 -
+https://idealgroups.org/static/../../../../../../../../etc/passwd 1 https://idealgroups.org/
+/_profiler/empty/ 2 https://idealgroups.org/
+/assets/__ENV.js 1 https://idealgroups.org/
+/stellenangebote 1 -
+/telescope/api/mail 1 https://idealgroups.org/
+/static../ 1 https://idealgroups.org/
+/livewire/preview-file/123 3 -
+/cariera 1 -
+/faq 1 https://idealgroups.org/
+/wp_customers.sql.gz 1 -
+/plugins/editors/jce/css/content.css 2 https://idealgroups.org/
+/members.sql.gz 1 -
+/static/%2F.env 1 https://idealgroups.org/
+/actuator/env/spring.datasource.password 1 https://idealgroups.org/
+/css/../../../etc/passwd 1 https://idealgroups.org/
+/docker-compose.prod.yml 1 -
+/praca 1 -
+/config.js 16 -
+/db.sqlite3 1 -
+/storage/logs/laravel.log 1 https://idealgroups.org/
+/kubernetes.yaml 1 -
+https://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2fetc/passwd 2 https://idealgroups.org/
+/api/v1/env 1 https://idealgroups.org/
+/.env.testing 1 -
+/api../../../etc/nginx/nginx.conf 1 https://idealgroups.org/
+/idealgroupsorg.7z 1 -
+/public/.env%23 1 https://idealgroups.org/
+/actuator/dump 1 -
+/img../../../etc/apache2/apache2.conf 1 https://idealgroups.org/
+/werken-bij 1 -
+/.env.development.local 1 -
+/uat/phpinfo.php 2 -
+/media/jui/js/bootstrap.min.js 1 -
+/vacancies 1 -
+/.env%00 1 https://idealgroups.org/
+/auth 2 https://idealgroups.org/
+/dist../settings.py 2 https://idealgroups.org/
+/api/docker-compose.prod.yml 1 -
+/files.env 2 https://idealgroups.org/
+/%2F.env.bak 1 https://idealgroups.org/
+/info 8 https://idealgroups.org/
+/terraform.tfvars 1 -
+/en/openings 1 -
+/wp-admin/js/ 3 -
+/.ssh/id_ed25519 3 https://idealgroups.org/
+/.env.yml 4 -
+/%2Fdata.sql 2 https://idealgroups.org/
+/js../.git/config 1 https://idealgroups.org/
+/api/v1/auth/config 1 https://idealgroups.org/
+/api/documentation.json 1 https://idealgroups.org/
+/actuator/jolokia 2 https://idealgroups.org/
+/lediga-jobb 1 -
+/%2Fdb_backup.sql 2 https://idealgroups.org/
+/api/kernels 1 https://idealgroups.org/
+/wp-content/plugins/WordPressCore/ 9 -
+/src/.env.local 1 -
+/media../settings.py 1 https://idealgroups.org/
+https://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 https://idealgroups.org/
+/js../config.py 1 https://idealgroups.org/
+/old/phpinfo.php 2 -
+/api/debug/env 1 https://idealgroups.org/
+/./env 2 https://idealgroups.org/
+https://idealgroups.org/static/..%2f..%2f..%2f..%2fetc/passwd 1 https://idealgroups.org/
+/admin/web 1 -
+/./css.env 1 https://idealgroups.org/
+/_cluster/health 3 https://idealgroups.org/
+/spring/ 1 https://idealgroups.org/
+/offene-stellen 1 -
+/wp-sitemap.xml 3 https://idealgroups.org/
+/lavoro 1 -
+/assets../../%2F.env 2 https://idealgroups.org/
+/.env.demo 3 https://idealgroups.org/
+/api/actuator 1 https://idealgroups.org/
+/empleo 1 -
+https://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 https://idealgroups.org/
+/content../docker-compose.yml 2 https://idealgroups.org/
+/.env.production.local 1 -
+/production.zip 1 -
+/administrator/index.php 2 https://www.google.com/
+/.env.yaml 4 -
+/_next/static/chunks/pages/_app.js 1 https://idealgroups.org/
+/.env.save 9 -
+/static/js/app.js 3 https://idealgroups.org/
+/orders 1 https://idealgroups.org/
+/public../../../etc/passwd 2 https://idealgroups.org/
+/backend/credentials.json 1 -
+/dev.zip 1 -
+/core/phpinfo.php 2 -
+https://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 2 https://idealgroups.org/
+/co-hoi-viec-lam 1 -
+/contactez-nous 2 -
+/docker-compose.local.yml 1 -
+https://idealgroups.org/assets/../../../../../../../etc/passwd 1 https://idealgroups.org/
+/./config.js 2 https://idealgroups.org/
+/oc_user.sql.gz 1 -
+/en/work-with-us 1 -
+/js../../../etc/apache2/apache2.conf 1 https://idealgroups.org/
+/uploads/%2F.env 2 https://idealgroups.org/
+/src.zip 1 -
+/media/vendor/jquery/js/jquery.min.js 1 -
+/stellenportal 1 -
+/app/.env.prod 1 -
+/img../../../etc/nginx/nginx.conf 1 https://idealgroups.org/
+/tyopaikat 1 -
+/.env.template 1 -
+/deploy/docker-compose.yml 1 -
+/.env.preprod 4 -
+/tmui/login.jsp 3 https://idealgroups.org/
+/positions 1 -
+/config.rar 1 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/server-status.php 2 -
+/backend/service-account.json 1 -
+/api/v1/flows 3 https://idealgroups.org/
+/js/config.js 6 -
+/_next/static/chunks/main.js 1 https://idealgroups.org/
+/%c0.env 1 https://idealgroups.org/
+/insan-kaynaklari 1 -
+/fortisandbox/ 2 https://idealgroups.org/
+/_phpinfo.php 2 -
+/actuator/env/spring.datasource.url 2 https://idealgroups.org/
+/./config.json 2 https://idealgroups.org/
+/telescope/api/./jobs 1 https://idealgroups.org/
+/.well-known/traffic-advice 16 -
+/magento.zip 1 -
+/./.env.production 2 https://idealgroups.org/
+/config.py 1 https://idealgroups.org/
+/pinfo.php 2 -
+/files%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/app/actuator/logfile 1 -
+/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js%22 1 -
+/ledige-stillinger 1 -
+/services 1 -
+/app/.env.staging 1 -
+/security 1 -
+/.docker/config.json 2 -
+/admin/ 1 https://idealgroups.org/
+/PL-1466-160526/ 3 -
+/de/join-us 1 -
+/api.zip 1 -
+/docker-compose.override.yml 1 -
+/credentials 1 -
+/.well-known/apple-app-site-association 4 -
+https://idealgroups.org/icons/../../../../../../etc/passwd 2 https://idealgroups.org/
+/_ignition/execute-solution 2 https://idealgroups.org/
+/saiyo 1 -
+https://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 2 https://idealgroups.org/
+/db.tar.gz 1 -
+/.terraform/terraform.tfstate 1 -
+/backend/aws.json 1 -
+/media../config/database.yml 1 https://idealgroups.org/
+/stats/prometheus 3 https://idealgroups.org/
+/unete 1 -
+/readme.html 1 -
+/en/careers 1 -
+/en/contact-us 1 https://idealgroups.org/
+/security.txt 1 -
+/fr/hiring 1 -
+/api/status 3 https://idealgroups.org/
+/job-openings 1 -
+/home/admin/.ssh/%2Fid_rsa 1 https://idealgroups.org/
+/join-our-team 1 -
+/assets/css/products.css 4 https://www.google.com/search
+/talent 1 -
+/google-credentials.json 2 -
+/./trace 1 https://idealgroups.org/
+/idealgroups.7z 1 -
+/public%2f..%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/css../../../etc/passwd 2 https://idealgroups.org/
+/s3-credentials.json 1 https://idealgroups.org/
+/service-account.json 2 -
+/debug.php 2 -
+https://idealgroups.org/assets/..%2f..%2f..%2f..%2fetc/passwd 2 https://idealgroups.org/
+/./api.env 1 https://idealgroups.org/
+/uploads../settings.py 1 https://idealgroups.org/
+/config/.aws/credentials 1 -
+/media../../../../etc/passwd 2 https://idealgroups.org/
+/nous-rejoindre 1 -
+/./.env%00 1 https://idealgroups.org/
+/.env1 4 -
+/k8s.yml 1 -
+/site.zip 2 -
+/api/config 2 -
+/.env.1 2 https://idealgroups.org/
+/_next/static/chunks/webpack.js 1 https://idealgroups.org/
+/api../config.py 2 https://idealgroups.org/
+/wp-content/uploads/smtp-debug.log 1 https://idealgroups.org/
+/api../ 2 https://idealgroups.org/
+/api/.env.local 1 -
+/backend/.env.local 1 -
+/b_user.sql.gz 1 -
+/./web.env 1 https://idealgroups.org/
+/api/v1/totp/user-backup-code/../../system/system-information 3 https://idealgroups.org/
+/aws-config.js 1 -
+/static../../%2F.env 2 https://idealgroups.org/
+/wp-includes/css/dashicons.min.css 3 https://idealgroups.org/
+/media%2f..%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/recruitment 1 -
+//admin/config 1 -
+/jobba-hos-oss 1 -
+/admin/.git/config 1 -
+/wp-includes/images/ 9 -
+/public../../../etc/nginx/nginx.conf 1 https://idealgroups.org/
+/mysql.zip 1 -
+/static../docker-compose.yml 1 https://idealgroups.org/
+/vacantes 1 -
+/actuator/env/spring.security.oauth2.client.registration.github.client-secret 2 https://idealgroups.org/
+/js../docker-compose.yml 1 https://idealgroups.org/
+/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif 1 https://idealgroups.org/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif
+/js../../../etc/passwd 2 https://idealgroups.org/
+/idealgroups.zip 1 -
+/backend/docker-compose.yml 1 -
+/beta/phpinfo.php 2 -
+/checkout 1 https://idealgroups.org/
+/assets/js/app.js 2 https://idealgroups.org/
+/%2Fmedia%252f..%252f..%252fetc%252fpasswd 1 https://idealgroups.org/
+/.env_dev 1 https://idealgroups.org/
+/img../../../etc/passwd 2 https://idealgroups.org/
+/staging/phpinfo.php 2 -
+/volna-mista 1 -
+/css%2f..%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/uploads../../../../etc/passwd 2 https://idealgroups.org/
+/media../ 1 https://idealgroups.org/
+/idealgroupsorg.rar 1 -
+/files../../%2F.env 2 https://idealgroups.org/
+/%2Fstatic%252f..%252f..%252fetc%252fpasswd 1 https://idealgroups.org/
+/sitemap.xml 16 -
+/.env_prod 2 https://idealgroups.org/
+/.well-known/security.txt 1 -
+/src/.env.production 1 -
+/%2Fwordpress.sql 2 https://idealgroups.org/
+/webtools/control/main 2 https://idealgroups.org/
+/database.rar 1 -
+/dist../ 2 https://idealgroups.org/
+/.aws/credentials 8 -
+/job-list 1 -
+/%2Fimg%252f..%252f..%252fetc%252fpasswd 1 https://idealgroups.org/
+/join 1 -
+/appsettings.json 3 -
+/home/ubuntu/.docker/config.json 1 https://idealgroups.org/
+/emploi 1 -
+/%2F.Env 2 https://idealgroups.org/
+/restart 2 https://idealgroups.org/
+/prod.tar.gz 1 -
+/admin/phpinfo.php 2 -
+/backup.tgz 1 -
+/config/./database.yml 1 https://idealgroups.org/
+/%2F.ENV 2 https://idealgroups.org/
+/actuator/prometheus 1 https://idealgroups.org/
+/api../.git/config 1 https://idealgroups.org/
+/wp-includes/PHPMailer/ 9 -
+/about 3 -
+/app/error 2 https://idealgroups.org/
+/.well-known/change-password 6 -
+/fr/jobs 1 -
+/wazaif 1 -
+/tuyen-dung 1 -
+/mini 1 -
+/includes/phpinfo.php 2 -
+/spring/actuator 1 https://idealgroups.org/
+/idealgroupsorg.dump 1 -
+/v1/agent/self 3 https://idealgroups.org/
+/api/debug/info 1 https://idealgroups.org/
+/htdocs.zip 1 -
+/%252Eenv%23 1 https://idealgroups.org/
+/keyfile.json 2 -
+/dump.zip 2 -
+/es/join 1 -
+/api/v2/config 1 https://idealgroups.org/
+/en/vacancies 1 -
+/_profiler/phpinfo 6 -
+/horizon/dashboard 3 https://idealgroups.org/
+/.ssh/id_ecdsa 2 https://idealgroups.org/
+/www/phpinfo.php 2 -
+/api/ 1 https://idealgroups.org/
+/SetupWizard.aspx/xyzprobe 4 https://idealgroups.org/
+/db.zip 2 -
+/db.sql.gz 1 -
+/oc_customer.sql.gz 1 -
+/.aws/config 3 https://idealgroups.org/
+/home/user/.ssh/%2Fid_rsa 1 https://idealgroups.org/
+/api/heapdump 1 -
+/home/www-data/.ssh/%2Fid_rsa 1 https://idealgroups.org/
+/bolsa-de-trabajo 1 -
+/_profiler 1 -
+/media../../../etc/nginx/nginx.conf 1 https://idealgroups.org/
+/.aws/./config 1 https://idealgroups.org/
+/public../docker-compose.yml 2 https://idealgroups.org/
+/carreira 1 -
+/preview/phpinfo.php 2 -
+/serviceaccount.json 1 -
+/karriar 1 -
+/./ssl.key 1 https://idealgroups.org/
+/info.php 2 -
+https://idealgroups.org/static/../../../../../../../../../../etc/passwd 1 https://idealgroups.org/
+/wp-json/wp/v2/settings 1 -
+/backend/docker-compose.prod.yml 1 -
+/es/employment 1 -
+/cloud.json 1 -
+/static../../../etc/nginx/nginx.conf 1 https://idealgroups.org/
+/_metrics 1 https://idealgroups.org/
+/api/v1/security/login 2 https://idealgroups.org/
+/fr/opportunities 1 -
+https://idealgroups.org/assets/../../../../../../../../../../../../../../../etc/passwd 2 https://idealgroups.org/
+/site/phpinfo.php 2 -
+/v2/actuator/heapdump 1 -
+https://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 https://idealgroups.org/
+/api/v1/api-keys 1 https://idealgroups.org/
+/config/docker-compose.yml 1 -
+/wp-json/gravitysmtp/v1/tests/mock-data 4 -
+/.env_backup 1 https://idealgroups.org/
+/wp-admin/js/widgets/ 3 -
+/actuator/env/spring.mail.password 2 https://idealgroups.org/
+/build../config.py 2 https://idealgroups.org/
+/./.env.log 1 https://idealgroups.org/
+/phpversion.php 2 -
+/wp-content/ 2 -
+/.npmrc 1 https://idealgroups.org/
+/telescope//requests 1 https://idealgroups.org/
+/./js.env 1 https://idealgroups.org/
+/uploads/../../../etc/passwd 1 https://idealgroups.org/
+/carriere 1 -
+/wp-content/plugins/giftware/changelog.txt 1 -
+/.env.bak%23 1 https://idealgroups.org/
+/project-details.html 8 -
+/api/actuator/env 1 -
+/.env%3f 2 https://idealgroups.org/
+/uploads%2f..%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/files../../../etc/apache2/apache2.conf 1 https://idealgroups.org/
+/%252e%2565%256e%2576%23 2 https://idealgroups.org/
+/customers.sql.gz 1 -
+/api.env 1 https://idealgroups.org/
+/content../ 2 https://idealgroups.org/
+/co-hoi-nghe-nghiep 1 -
+/_next/static/ 4 https://idealgroups.org/
+/xmlrpc.php 25 -
+/dist/.env%23 1 https://idealgroups.org/
+/api/.env.production 1 -
+/.env.sample 5 -
+/static/js/runtime-main.js 1 https://idealgroups.org/
+/js/init.js 1 https://idealgroups.org/
+/sitemaps.xml 2 -
+/service-details.html 11 -
+/bitrix.zip 1 -
+/dist../.git/config 2 https://idealgroups.org/
+/services/.env.production 1 -
+/llms.txt 1 -
+/_wdt/latest 2 https://idealgroups.org/
+/wp-content/debug.log.1 1 https://idealgroups.org/
+/ponuka-prace 1 -
+/img../config/database.yml 1 https://idealgroups.org/
+/public/js/app.js 1 https://idealgroups.org/
+//.env 1 https://idealgroups.org/
+/fr/vacancies 1 -
+/jobs 1 -
+/docker-compose.yaml 3 https://idealgroups.org/
+/api/.env.dev 1 -
+/docker-compose.staging.yml 1 -
+/deploy/credentials.json 1 -
+/wp-content/plugins/piotnet-addons-for-elementor-pro/assets/css/minify/font-awesome-5.min.css 1 https://idealgroups.org/
+/api/tags 2 https://idealgroups.org/
+/config/database.yml 1 https://idealgroups.org/
+/logfile 1 -
+/files../../../etc/passwd 2 https://idealgroups.org/
+/assets/index.js 1 https://idealgroups.org/
+/en/jobs 1 -
+/mail/phpinfo.php 2 -
+/.s3credentials 1 https://idealgroups.org/
+/opencart.zip 1 -
+/api/v1/cloud/credentials 1 https://idealgroups.org/
+/assets../../../../../etc/passwd 1 https://idealgroups.org/
+/_ignition/health-check 3 https://idealgroups.org/
+/img../.git/config 1 https://idealgroups.org/
+/app 2 https://idealgroups.org/
+/_all_dbs 2 https://idealgroups.org/
+/de/employment 1 -
+/img../../../../etc/passwd 2 https://idealgroups.org/
+/dump 3 https://idealgroups.org/
+/posizioni 1 -
+https://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 https://idealgroups.org/
+/.env 4 https://idealgroups.org/
+/database.tar.gz 1 -
+/css../config/database.yml 1 https://idealgroups.org/
+/actuator/httptrace 3 https://idealgroups.org/
+/api/v1/env/wp-json/wp/v2/settings 1 https://idealgroups.org/
+/media../../../../../etc/passwd 1 https://idealgroups.org/
+/settings.ini 1 -
+/public../../../etc/apache2/apache2.conf 1 https://idealgroups.org/
+/css../config.py 1 https://idealgroups.org/
+/_next/data/ 2 https://idealgroups.org/
+/%2F.env.orig 2 https://idealgroups.org/
+/media%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/%2Fdb.sql 2 https://idealgroups.org/
+/_profiler/empty/search/results 2 https://idealgroups.org/
+/.env%00.txt 2 https://idealgroups.org/
+/build../ 1 https://idealgroups.org/
+/user/login 6 -
+/api/contents 2 https://idealgroups.org/
+/secrets.json 1 -
+/.env%23 3 https://idealgroups.org/
+/api/docker-compose.yml 1 -
+/docker/docker-compose.yml 1 -
+/actuator/./sessions 1 https://idealgroups.org/
+/remote/login 2 https://idealgroups.org/
+/media/jce/js/tiny_mce/tiny_mce.js 1 https://idealgroups.org/
+/env 4 -
+/cpanel/phpinfo.php 2 -
+/hosting/phpinfo.php 2 -
+/static/js/main.js 4 https://idealgroups.org/
+/solutions 1 -
+/build../.git/config 2 https://idealgroups.org/
+/spring/error 1 https://idealgroups.org/
+/emplois 1 -
+/%2Fkey.pem 1 https://idealgroups.org/
+/tmp/phpinfo.php 2 -
+/docs/api.json 1 https://idealgroups.org/
+https://idealgroups.org/assets/../../../../etc/passwd 1 https://idealgroups.org/
+/api/credentials.json 1 -
+/.env.dev.local 1 -
+/actuator/shutdown 1 https://idealgroups.org/
+/api/v2/cmdb/system/global 1 https://idealgroups.org/
+/0.html 4 -
+/devops/docker-compose.yml 1 -
+/./%2F.env 2 https://idealgroups.org/
+/v1/sys/health 1 https://idealgroups.org/
+/content../settings.py 1 https://idealgroups.org/
+/aws-credentials.json 1 https://idealgroups.org/
+/%2F.env 32 https://idealgroups.org/
+/service/responsible-disclosure 1 -
+/postgres.dump 1 -
+/actuator/restart 2 https://idealgroups.org/
+/infra/docker-compose.yml 1 -
+/_profiler/latest 4 https://idealgroups.org/
+/img.env 1 https://idealgroups.org/
+/docs/phpinfo.php 2 -
+/backend/.env.production 1 -
+/%2F.%2565nv 2 https://idealgroups.org/
+/media../%2F.env 2 https://idealgroups.org/
+/actuator/httpexchanges 2 https://idealgroups.org/
+/files../../../../etc/passwd 2 https://idealgroups.org/
+/apple-touch-icon.png 8 -
+/js../../../../../etc/passwd 1 https://idealgroups.org/
+/%2Fmysql.sql 1 https://idealgroups.org/
+/.aws/./credentials 1 https://idealgroups.org/
+/contatti 2 -
+/webroot/index.php/_environment 2 -
+/config/.env.local 1 -
+/kariyer 1 -
+/administrator/ 6 -
+/jos_users.sql.gz 1 -
+/build/.env%23 1 https://idealgroups.org/
+/_environment 4 -
+/media../config.py 1 https://idealgroups.org/
+/assets../../../etc/passwd 2 https://idealgroups.org/
+/docker-compose.prod.yaml 1 -
+/js../settings.py 1 https://idealgroups.org/
+/key.json 2 -
+/js../../%2F.env 2 https://idealgroups.org/
+/%2F%252Eenv 1 https://idealgroups.org/
+/global-protect/login.esp 3 https://idealgroups.org/
+/saiyou 1 -
+/assets/app.js 1 https://idealgroups.org/
+/public/config.js 1 https://idealgroups.org/
+/karrier 1 -
+/files../config/database.yml 1 https://idealgroups.org/
+https://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2fetc/passwd 1 https://idealgroups.org/
+/id_ed25519 2 https://idealgroups.org/
+/en/opportunities 1 -
+/kariera 1 -
+/./.env_dev 1 https://idealgroups.org/
+/css%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/wp-admin/css/colors/ectoplasm/ 9 -
+/firebase-credentials.json 1 -
+/.env.2 1 https://idealgroups.org/
+/wp-json/wc/v3/ 3 https://idealgroups.org/
+/wp-content/plugins/funnel-builder/assets/css/wfacp-style.css 1 -
+/cacti/ 2 https://idealgroups.org/
+/digicard/public/js/coreui.bundle.min.js.map 2 -
+/static../config/database.yml 1 https://idealgroups.org/
+/horizon 2 https://idealgroups.org/
+/assets%2f..%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/.env.development 10 -
+/credentials.json 3 -
+https://idealgroups.org/assets/../../../../../../etc/passwd 1 https://idealgroups.org/
+/de/join 1 -
+/config.zip 1 -
+/images../docker-compose.yml 2 https://idealgroups.org/
+/full.tar.gz 1 -
+/backup.7z 1 -
+/error 1 https://idealgroups.org/
+/dump.rar 1 -
+/.git/config 30 -
+//.aws/config 1 -
+/frontend/.env.dev 1 -
+/api../../../../etc/passwd 1 https://idealgroups.org/
+/api/actuator/heapdump 1 -
+/api/configprops 1 -
+/files../../../etc/nginx/nginx.conf 1 https://idealgroups.org/
+/server/.env.production 1 -
+/idealgroups.dump 1 -
+/wp-json/elementor/v1/system-info 1 https://idealgroups.org/
+/fr/work-with-us 1 -
+https://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 1 https://idealgroups.org/
+/products 2 -
+/smtp/phpinfo.php 2 -
+/uploads../../../etc/apache2/apache2.conf 1 https://idealgroups.org/
+/public.zip 1 -
+https://idealgroups.org/static/../../../../../../../etc/passwd 2 https://idealgroups.org/
+/%2Fpublic%252f..%252f..%252fetc%252fpasswd 1 https://idealgroups.org/
+/public../config/database.yml 1 https://idealgroups.org/
+/plugins/editors/jce/js/jce.js 1 https://idealgroups.org/
+/shutdown 1 https://idealgroups.org/
+/static../../../../etc/passwd 2 https://idealgroups.org/
+/v1/catalog/services 2 https://idealgroups.org/
+/db.sqlite 1 -
+/dist../config.py 1 https://idealgroups.org/
+/gcp.json 1 -
+/old_phpinfo.php 2 -
+/assets/js/main.js 1 https://idealgroups.org/
+/dashboard 4 https://idealgroups.org/
+/private.pem 1 https://idealgroups.org/
+/app.js 4 https://idealgroups.org/
+https://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 2 https://idealgroups.org/
+/files../../../../../etc/passwd 1 https://idealgroups.org/
+/es/join-us 1 -
+/%e2%80%8benv 2 https://idealgroups.org/
+/site.7z 1 -
+/files/../../../etc/passwd 1 https://idealgroups.org/
+/wp-content/debug.log 1 https://idealgroups.org/
+/signup 1 https://idealgroups.org/
+/aws.env 1 -
+///%2F.env 2 https://idealgroups.org/
+/actuator/env/spring.redis.password 2 https://idealgroups.org/
+/build../settings.py 1 https://idealgroups.org/
+/configuration.json 1 -
+//home/user/.aws/credentials 1 -
+/actuator/./configprops 1 https://idealgroups.org/
+/kontakt 2 -
+/css.env 1 https://idealgroups.org/
+/public../../%2F.env 2 https://idealgroups.org/
+/apply-online 1 -
+/api/v1/config 2 https://idealgroups.org/
+/fr/openings 1 -
+/terraform.tfstate 1 -
+/i.php 2 -
+/phpinfo.php 2 -
+/site.rar 1 -
+/.well-known/resource-that-should-not-exist-whose-status-code-should-not-be-200 6 -
+/workwithus 1 -
+/img../docker-compose.yml 1 https://idealgroups.org/
+/rekrutacja 1 -
+/actuator/mappings 2 https://idealgroups.org/
+/index.html 2 -
+/source.zip 1 -
+/files%2f..%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/open-positions 1 -
+/secrets/azure.json 1 -
+/img../../../../../etc/passwd 1 https://idealgroups.org/
+/api/openapi.json 1 https://idealgroups.org/
+/env.js 1 https://idealgroups.org/
+/.env.backup.txt 1 -
+/storage/%2F.env 1 https://idealgroups.org/
+/frontend/.env.production 1 -
+/empleos 1 -
+/.env.txt 7 https://idealgroups.org/
+/vendor.env 2 https://idealgroups.org/
+/actuator/env/server.ssl.key-store-password 1 https://idealgroups.org/
+/config.yaml 2 -
+/%2Fweb.config 1 https://idealgroups.org/
+/wp-content/plugins/wp-mail/debug.log 1 https://idealgroups.org/
+/%2F.env~ 2 https://idealgroups.org/
+/ads.txt 1 -
+https://idealgroups.org/static/../../../../../etc/passwd 1 https://idealgroups.org/
+/actuator/env/spring.datasource.username 2 https://idealgroups.org/
+//.aws/credentials 1 -
+/admin 10 -
+/img../config.py 1 https://idealgroups.org/
+/html.zip 1 -
+/application.properties 2 https://idealgroups.org/
+https://idealgroups.org/assets/../../../../../etc/passwd 1 https://idealgroups.org/
+/k8s.yaml 1 -
+/config.json 16 -
+/uploads../ 1 https://idealgroups.org/
+/actuator/env/./management.security.secret 2 https://idealgroups.org/
+/admin.rar 1 -
+/ps_employee.sql.gz 1 -
+/dist/%2F.env 1 https://idealgroups.org/
+/CHANGELOG.txt 1 https://idealgroups.org/
+/.env.tmp 1 -
+/settings.py 4 https://idealgroups.org/
+/kontakt.html 2 -
+/randkeyword.PhP7 10 -
+/responsible-disclosure 1 -
+/fr/careers 1 -
+/.env_old 2 https://idealgroups.org/
+/img%2f..%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/css../../../../etc/passwd 2 https://idealgroups.org/
+/%2Fsite.sql 1 https://idealgroups.org/
+/en/hiring 1 -
+/.env_copy 4 -
+/vagas 1 -
+/actuator/env/./spring.datasource.password 1 https://idealgroups.org/
+/api/./kernels 1 https://idealgroups.org/
+/config 1 https://idealgroups.org/
+https://idealgroups.org/assets/../../../../../../../../etc/passwd 2 https://idealgroups.org/
+/public../../../../../etc/passwd 1 https://idealgroups.org/
+/public_html.zip 1 -
+/js../ 1 https://idealgroups.org/
+/actuator/env/spring.mail.host 2 https://idealgroups.org/
+/wp-admin/ 22 -
+/assets/../../../etc/passwd 1 https://idealgroups.org/
+/offres-demploi 1 -
+/assets/css/about-us.css 6 -
+/deploy/docker-compose.prod.yml 1 -
+/uploads/ 2 -
+https://idealgroups.org/assets/../../../../../../../../../../../etc/passwd 1 https://idealgroups.org/
+/v2/actuator/env 1 -
+/js/constants.js 1 https://idealgroups.org/
+/backend.zip 1 -
+/api/org 2 https://idealgroups.org/
+/ssl.key 1 https://idealgroups.org/
+/zhaopin 1 -
+https://idealgroups.org/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 2 https://idealgroups.org/
+/js../../../../etc/passwd 2 https://idealgroups.org/
+/%2Fassets%252f..%252f..%252fetc%252fpasswd 1 https://idealgroups.org/
+https://idealgroups.org/assets/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 2 https://idealgroups.org/
+/private.key 2 https://idealgroups.org/
+/settings 1 https://idealgroups.org/
+/js%2f..%2f..%2fetc%2fpasswd 1 https://idealgroups.org/
+/css../.git/config 1 https://idealgroups.org/
+/administrator/phpinfo.php 2 -
+/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif 1 https://idealgroups.org/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif
+/offres-emploi 1 -
+/recrutement 1 -
+/build/static/js/main.js 1 https://idealgroups.org/
+/wp-content/plugins/updraftplus/css/updraftplus-notices.css 2 -
+/wp-json/wp/v2/users/ 1 -
+/.env.uat 5 -
+/api/actuator/configprops 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 907
+65.21.124.77 45 73 2070353 20260622162720
+48.216.184.220 36 852 8191864 20260604012217
+49.37.243.45 35 158 13798308 20260611130816
+14.97.193.22 29 93 10046045 20260602112605
+104.252.191.246 27 41 1057111 20260604162930
+103.4.251.110 27 41 1057111 20260604162442
+103.153.183.126 26 38 1366301 20260611111727
+106.205.212.227 26 74 6791264 20260611095358
+110.227.245.116 22 101 9870907 20260629200659
+113.193.112.37 20 80 4624542 20260609235637
+49.36.119.45 17 89 4643975 20260612134232
+103.240.207.60 16 82 7385394 20260624145103
+115.246.20.222 16 171 12126699 20260615192058
+122.172.98.168 15 74 4345956 20260625104155
+13.223.79.189 14 14 67860 20260608120909
+45.120.123.205 14 15 2833381 20260611094357
+154.223.24.76 14 61 1171693 20260627144004
+103.228.147.102 14 63 3985071 20260608160830
+150.129.164.238 13 13 2819787 20260613124534
+27.97.219.160 13 72 4061203 20260606194421
+105.161.19.112 13 61 3971477 20260605115945
+103.241.226.6 13 61 3971477 20260616184751
+103.250.152.46 13 61 3971477 20260619130306
+106.200.12.56 13 61 3971477 20260618152025
+103.39.128.45 13 13 2819787 20260611212346
+112.208.169.29 1 1 4386 20260611143137
+199.45.155.85 0 1 38870 
+38.79.146.132 1 1 3548 20260614134737
+14.191.147.53 1 1 3896 20260602095108
+190.189.76.213 1 1 11199 20260620043220
+195.96.139.130 0 1 2395 
+113.211.136.49 1 1 3861 20260612133724
+14.169.112.184 1 1 3596 20260601060801
+186.227.69.223 1 1 3548 20260610134148
+151.115.100.45 4 53 1734837 20260622233603
+85.121.245.14 1 1 11199 20260602061757
+14.188.184.5 1 1 3585 20260609140340
+167.99.248.111 1 1 11199 20260629063542
+216.128.9.11 1 1 5472 20260607171750
+103.59.161.143 1 1 11199 20260620032149
+198.235.24.149 1 1 44311 20260615121238
+34.182.159.181 11 22 98460 20260610122346
+169.224.88.76 1 1 4386 20260613135551
+104.222.171.76 1 1 794 20260624004131
+192.144.88.243 1 4 5348 20260620010629
+107.172.180.205 0 1 2395 
+49.36.73.21 1 1 5840 20260620113310
+176.65.139.239 1 2 45890 20260603104515
+103.251.215.69 1 1 11199 20260629170340
+45.148.126.156 1 1 11199 20260609164149
+14.236.206.94 1 1 11199 20260604130655
+205.143.208.11 2 2 28100 20260608013019
+181.176.225.65 1 1 3585 20260608134858
+14.187.135.182 1 1 794 20260603103152
+51.158.248.238 0 14 1230992 
+14.178.183.57 1 1 794 20260604163435
+14.186.216.185 1 1 3861 20260601185933
+35.92.13.244 1 1 0 20260625103900
+189.216.232.169 1 1 11199 20260605033439
+181.138.1.47 1 1 4864 20260602133215
+176.65.139.238 1 3 47469 20260608123123
+113.176.188.197 1 1 3596 20260603225259
+124.29.239.108 1 1 3548 20260613190110
+198.71.56.21 6 6 71954 20260615094712
+60.53.34.176 1 1 794 20260621202256
+186.158.126.1 1 1 794 20260601212851
+182.189.93.69 1 1 11199 20260610134717
+52.15.197.185 2 2 22398 20260615184001
+51.178.97.55 1 1 11199 20260611212044
+197.185.136.146 1 1 3977 20260607062406
+151.240.93.105 1 1 3861 20260605070444
+84.252.113.15 1 1 794 20260610134151
+45.188.181.191 1 1 4227 20260611143138
+34.106.152.32 1 1 14050 20260601152633
+37.61.124.129 1 1 3548 20260613141820
+43.157.38.131 1 1 794 20260619223609
+198.235.24.22 1 1 44311 20260616164908
+191.189.10.28 1 1 794 20260620033153
+168.119.25.12 1 1 11199 20260627090039
+84.54.70.113 1 1 794 20260603122439
+103.110.160.206 1 1 794 20260624004940
+201.41.78.168 1 1 3977 20260612133725
+167.160.77.64 5 53 1743641 20260627065253
+14.178.21.61 1 1 3861 20260601144033
+43.166.132.142 1 1 794 20260619192446
+80.241.209.174 1 1 11199 20260607010244
+52.73.245.39 1 1 11199 20260624214345
+94.99.168.54 1 1 3548 20260608150337
+189.178.44.255 1 1 794 20260621202256
+45.188.148.71 1 1 794 20260628103741
+1.39.179.84 1 1 4386 20260614134736
+35.87.62.224 1 1 11199 20260611121049
+88.232.169.183 1 1 3896 20260613135546
+47.151.101.199 1 1 4227 20260614134736
+144.16.21.58 1 1 11199 20260613135554
+137.184.227.205 1 1 11199 20260608012456
+187.192.145.95 1 1 794 20260628113618
+185.209.196.229 0 2 41265 
+123.20.173.129 1 1 4227 20260629054932
+44.216.250.208 1 1 11199 20260625065116
+84.54.66.247 1 1 5472 20260614134737
+216.9.225.89 6 6 193008 20260603154600
+54.188.238.103 1 1 44311 20260626234536
+85.121.127.23 1 1 11199 20260603143109
+193.148.56.79 2 2 55510 20260626121853
+178.135.19.140 1 1 794 20260611143137
+177.125.41.254 1 1 3548 20260624134122
+106.193.3.189 0 1 447290 
+106.202.104.241 0 1 3623861 
+14.191.116.138 1 1 794 20260602001556
+212.47.75.214 1 1 794 20260610130613
+52.45.9.143 3 3 33597 20260616161541
+66.132.172.135 1 2 13594 20260605003233
+84.37.154.207 1 1 3596 20260619214449
+102.244.197.68 1 1 4386 20260606171355
+66.132.186.176 0 1 38870 
+151.240.93.253 1 1 11199 20260605070603
+151.240.93.208 1 1 11199 20260605070452
+185.152.248.74 1 25 224480 20260623144441
+129.222.91.88 1 1 794 20260613135548
+85.105.165.175 1 1 4000 20260605160349
+205.210.31.33 1 1 44311 20260624203030
+44.217.144.79 1 1 11199 20260606061342
+131.255.206.84 1 1 11199 20260622140452
+45.187.6.197 1 1 3596 20260603002221
+146.70.116.254 1 2 13594 20260622162425
+66.132.195.75 1 1 11199 20260612232725
+200.199.27.99 1 1 794 20260614134738
+191.95.149.17 1 1 3548 20260601045759
+37.2.245.85 1 1 3977 20260604221922
+170.106.35.137 1 1 3596 20260619221630
+44.200.84.255 0 1 35764 
+176.65.139.234 0 1 1579 
+62.164.177.222 1 1 44311 20260628073717
+190.80.51.34 1 1 794 20260607194819
+181.21.172.210 1 1 11199 20260612212158
+66.132.195.66 1 2 13594 20260627084244
+196.96.196.246 1 1 3977 20260620025102
+49.47.218.103 0 1 3623861 
+163.47.148.55 1 1 3585 20260606103859
+103.149.56.18 1 1 6762 20260630224402
+223.238.237.86 1 1 7704 20260614104010
+180.191.169.69 1 1 3548 20260611143148
+177.23.251.152 1 1 3548 20260630122924
+180.191.251.222 1 1 3861 20260608150347
+103.161.69.240 1 1 794 20260625141116
+14.231.124.16 1 1 5840 20260602063310
+168.144.158.198 1 1 11199 20260615094216
+209.50.161.187 1 1 11199 20260612223751
+113.185.44.162 1 1 794 20260622140555
+86.185.252.81 1 1 3977 20260610134155
+88.150.96.27 1 1 11199 20260613135545
+182.8.97.175 1 1 5472 20260614185055
+103.5.132.18 0 1 236476 
+216.38.230.123 1 1 11199 20260613014113
+181.225.26.198 1 1 3548 20260630111544
+151.240.93.115 3 3 8350 20260605070541
+184.32.225.125 1 1 44311 20260618055738
+185.206.82.100 1 1 794 20260604222104
+205.210.31.162 1 1 44311 20260609184344
+212.39.95.180 1 1 794 20260621202256
+177.8.54.238 1 1 4000 20260608150343
+176.105.222.130 1 1 11199 20260629213703
+168.196.4.72 1 1 3548 20260620093427
+162.141.167.48 0 1 35764 
+67.171.143.1 1 1 11199 20260621094941
+27.159.75.50 3 20 388792 20260627133707
+41.214.49.99 1 1 3596 20260602035241
+151.240.93.135 1 1 4227 20260605070530
+23.22.99.102 0 4 172145 
+113.173.204.157 1 1 3585 20260627135617
+170.78.157.162 1 1 794 20260630041210
+110.44.1.243 1 1 794 20260628005536
+44.215.102.67 1 12 100925 20260617065304
+195.96.139.7 0 1 38870 
+106.208.62.199 0 1 3623861 
+23.27.251.98 1 9 63755 20260623231538
+223.123.111.233 1 1 5472 20260628093845
+92.155.148.28 1 1 3896 20260624134059
+84.229.113.32 1 1 3587 20260603050435
+185.242.3.222 1 1 11199 20260605143208
+103.149.130.244 0 1 175858 
+195.96.139.185 0 1 38870 
+49.36.78.90 6 67 1800751 20260609133735
+45.80.196.29 1 1 11199 20260610134151
+64.233.173.234 1 2 61048 20260605124631
+49.47.141.242 1 14 1076773 20260617191610
+24.154.10.13 1 1 794 20260611143153
+104.164.44.98 1 1 794 20260627165659
+64.144.210.130 1 1 794 20260628005134
+14.190.62.234 1 1 794 20260601151417
+177.76.247.105 1 1 3596 20260614134738
+52.90.208.17 1 12 100925 20260617065906
+197.101.125.130 1 1 11199 20260606171511
+45.239.225.93 1 1 3580 20260606094344
+151.240.93.38 3 3 9041 20260605070547
+5.133.192.94 1 2 13594 20260614071130
+190.109.111.252 1 1 6762 20260612133718
+186.219.252.29 1 1 3861 20260624134102
+91.92.240.232 2 2 0 20260619101326
+191.191.228.37 1 1 3861 20260607171752
+104.164.114.229 0 3 933966 
+82.215.97.110 1 1 4227 20260628131417
+185.234.72.226 1 1 0 20260615100540
+177.86.20.182 1 1 11199 20260618181623
+178.120.11.131 1 1 5472 20260616025113
+192.223.121.155 1 1 3596 20260618181610
+205.210.31.172 1 1 44311 20260624224002
+179.36.215.51 1 1 11199 20260606220513
+138.117.46.145 1 1 3977 20260603005118
+205.169.39.4 1 1 11199 20260612020521
+66.249.73.13 1 1 189452 20260624230201
+156.252.15.134 1 1 794 20260628005937
+190.34.223.5 1 1 5840 20260610134151
+172.15.58.201 1 1 11199 20260602093559
+160.25.9.146 1 1 11199 20260624134057
+27.147.166.129 1 1 3596 20260613135543
+185.152.248.197 1 3 3861 20260620111504
+46.224.208.228 1 1 11199 20260614035944
+42.193.175.155 3 3 42150 20260601183412
+186.194.217.88 1 1 794 20260605212350
+197.17.1.195 1 1 11199 20260604171304
+151.240.93.26 1 1 11199 20260605070335
+91.231.89.33 0 1 418316 
+34.83.131.191 0 11 89726 
+169.224.121.175 1 1 3596 20260604171303
+45.43.191.170 1 1 11199 20260605165622
+58.10.245.15 1 1 4000 20260614134735
+3.139.242.79 2 2 22398 20260629053835
+179.108.1.195 1 1 5472 20260606171332
+54.147.32.238 1 1 11199 20260608133723
+14.254.50.160 1 1 3548 20260606235330
+74.88.74.114 1 1 4227 20260621202255
+49.36.9.200 1 1 5840 20260615180051
+3.126.130.46 1 1 11199 20260625110837
+8.243.71.183 1 1 794 20260624134059
+23.27.251.133 1 1 11199 20260617134233
+178.77.190.214 1 1 3596 20260620210350
+158.222.117.48 11 11 57443 20260621120957
+38.150.92.243 1 1 4864 20260627135654
+123.21.112.32 1 1 5472 20260611184705
+43.161.224.78 1 1 6762 20260619200508
+185.209.196.239 1 1 11199 20260621212652
+31.130.240.49 1 1 11199 20260616083346
+195.96.139.87 1 1 11199 20260619182844
+149.22.94.52 1 1 4000 20260613135547
+31.134.7.138 1 1 11199 20260610122441
+162.243.163.123 1 1 11700 20260610180432
+136.158.26.205 1 1 4386 20260605160349
+84.37.155.133 0 1 4406 
+162.120.184.11 1 1 11199 20260623180325
+80.241.208.128 1 1 11199 20260609142030
+216.38.230.126 0 1 2395 
+78.168.254.146 1 1 4000 20260611143138
+18.207.134.158 0 11 89726 
+120.204.13.32 1 1 11199 20260628042657
+36.69.4.232 1 1 11199 20260611143147
+113.177.169.80 1 1 3896 20260611011649
+165.245.209.254 1 1 11199 20260614133448
+77.74.177.114 2 2 22398 20260623024659
+185.175.234.135 1 4 45391 20260619203318
+103.111.35.212 1 1 4864 20260629193511
+160.20.204.240 1 1 4227 20260603142814
+103.76.241.76 1 1 794 20260629213914
+103.72.3.197 1 1 5472 20260608150343
+151.240.93.89 2 2 14779 20260605070602
+54.81.199.30 0 1 5349 
+13.221.215.33 1 1 11199 20260603025204
+23.94.179.91 1 1 11199 20260605073757
+91.231.89.39 1 1 44311 20260622174248
+64.227.157.40 1 1 11199 20260610121548
+186.48.63.115 1 1 5840 20260606061218
+177.91.151.18 1 1 3977 20260603220631
+198.235.24.150 1 1 44311 20260615201043
+185.247.137.236 0 1 38870 
+123.21.129.192 1 1 3548 20260622140758
+105.106.7.170 1 1 3548 20260604194554
+209.38.192.24 1 1 11199 20260618115402
+37.60.251.208 1 1 11199 20260610130604
+217.119.114.58 1 1 3548 20260612141802
+18.193.101.223 1 1 11199 20260608153452
+103.112.207.170 1 1 5472 20260630195657
+74.244.184.138 1 1 11199 20260614134738
+72.14.201.162 1 1 11199 20260612131524
+176.65.139.229 1 2 45890 20260601181528
+89.149.192.90 1 12 141136 20260622170150
+54.159.92.191 3 3 56715 20260616232559
+190.218.56.216 1 1 6762 20260601033228
+177.125.223.234 1 1 3548 20260606051803
+201.182.73.209 1 1 3548 20260607171753
+14.187.166.153 1 1 3548 20260620120159
+5.166.103.88 1 1 794 20260601190215
+223.177.119.227 0 1 3623861 
+36.68.53.88 1 1 4386 20260608150355
+49.43.159.140 0 1 3623861 
+14.116.236.44 1 1 11199 20260628042658
+185.72.232.75 1 1 4227 20260610134153
+82.132.245.137 2 18 7897234 20260606224906
+123.17.148.47 1 1 3896 20260613211628
+190.183.230.90 1 1 794 20260606214542
+103.70.171.7 1 1 3977 20260618181611
+209.242.199.225 1 1 794 20260620031550
+49.14.134.110 1 1 3861 20260606171345
+89.211.114.248 1 1 794 20260629212719
+93.158.91.11 1 2 13594 20260603061617
+42.58.32.164 0 4 71424 
+43.157.179.227 1 1 3548 20260619225435
+54.242.122.81 1 1 11199 20260612095010
+193.186.4.191 1 1 3977 20260619185022
+66.182.196.72 1 1 3861 20260610134151
+182.110.177.1 1 13 180420 20260627052740
+151.240.93.10 1 1 794 20260605070545
+103.228.147.65 1 23 21244575 20260629112714
+5.78.78.137 1 1 11199 20260629041134
+52.12.226.52 1 1 0 20260617043849
+169.239.158.81 1 1 794 20260612133733
+185.190.38.73 1 1 3548 20260607195108
+213.184.93.51 0 13 171730 
+3.90.40.208 1 1 11199 20260623082846
+18.224.25.7 1 1 11199 20260615125323
+100.0.109.34 1 1 6762 20260618181627
+98.97.151.55 1 1 5840 20260624134101
+151.240.93.66 1 1 4386 20260605070435
+189.242.79.27 1 1 794 20260606171352
+69.164.215.36 1 1 14047 20260618150514
+87.106.134.37 1 1 11199 20260625070443
+94.232.26.196 1 1 5472 20260613090809
+14.230.196.74 1 1 4864 20260628103420
+45.71.210.151 1 1 3585 20260607101236
+5.155.135.168 1 1 3548 20260602030734
+154.80.68.175 1 1 794 20260620123959
+66.132.195.107 1 2 13594 20260620022124
+49.36.237.3 1 1 794 20260610134152
+152.37.166.239 1 1 11199 20260614134744
+128.201.236.28 1 1 794 20260601043143
+104.28.162.11 2 2 0 20260610062012
+43.157.142.101 1 1 3548 20260619194313
+79.177.133.176 0 1 3623861 
+160.30.62.206 1 1 4227 20260630044549
+149.34.216.231 1 1 11199 20260624112127
+31.0.0.22 1 1 794 20260607171752
+14.243.104.137 1 1 5840 20260629234718
+139.135.73.181 1 1 5472 20260610134152
+151.240.93.139 4 4 17906 20260605070536
+198.235.24.137 1 1 44311 20260602162218
+176.65.139.237 0 1 1579 
+109.107.253.9 1 1 794 20260627135645
+85.130.210.15 1 1 11199 20260608150340
+168.144.26.125 1 1 11688 20260624070400
+64.233.173.235 0 1 49849 
+91.92.42.30 0 1 35764 
+5.255.98.161 1 1 11199 20260609080012
+45.43.166.15 2 9 50397 20260622015000
+144.126.225.244 1 1 11199 20260630122408
+212.45.80.208 1 1 11199 20260602214522
+162.62.132.25 1 1 3548 20260619222620
+201.253.138.31 1 1 5472 20260612133727
+104.165.13.108 0 3 2089 
+103.4.250.122 2 2 22398 20260622162534
+147.182.249.180 1 1 11199 20260616115540
+43.159.149.56 1 1 794 20260619205440
+151.240.93.51 2 2 9020 20260605070456
+178.88.209.167 1 1 11199 20260617133824
+34.11.236.75 4 4 22398 20260610222620
+181.16.234.232 1 1 794 20260607054711
+138.185.145.78 1 1 44311 20260630170534
+64.233.173.201 0 10 85576 
+185.24.60.42 1 1 5840 20260618181608
+106.201.185.52 5 27 811614 20260603150248
+178.210.226.41 1 1 4227 20260601214451
+105.102.192.32 1 1 3585 20260627135755
+2a06:98c0:3600::103 4 4 44796 20260618230340
+151.240.93.164 3 3 15993 20260605070522
+47.234.189.81 1 1 3596 20260607171752
+106.63.26.20 0 1 38870 
+8.229.66.9 2 2 28097 20260601190442
+18.232.90.32 4 4 70333 20260617132955
+130.43.42.91 1 1 4386 20260607171752
+89.244.95.74 3 12 3913507 20260604190143
+196.77.109.158 1 1 3977 20260624134059
+144.31.35.166 0 1 115906 
+91.105.183.4 1 1 3548 20260601151100
+104.28.164.108 1 23 230862 20260627120444
+44.250.251.124 1 1 0 20260601102109
+103.216.70.177 1 1 11199 20260610134201
+180.249.167.62 1 1 794 20260624134107
+181.224.92.117 1 1 3548 20260601133813
+54.157.223.168 1 1 11199 20260615103921
+151.240.231.236 0 1 25523 
+52.204.251.91 1 1 11199 20260630094841
+45.238.186.175 1 1 4386 20260621202301
+36.91.28.38 1 1 11199 20260617133824
+176.65.139.231 1 3 47469 20260606200502
+90.160.97.95 1 1 11199 20260618181609
+177.131.164.91 1 1 3861 20260620183505
+35.238.5.237 0 2 99229 
+151.244.73.144 0 2 262897 
+122.179.168.50 5 27 811614 20260611170059
+43.131.45.213 1 1 11199 20260619195434
+175.157.87.158 0 1 3678987 
+34.42.118.47 12 23 109659 20260611114640
+2.58.13.90 1 2 87833 20260621185048
+14.254.172.16 1 1 5472 20260620020956
+86.137.160.157 1 1 14049 20260610212310
+39.38.72.244 1 1 794 20260611220612
+198.235.24.141 1 1 44311 20260610174617
+45.70.227.248 1 1 6762 20260610080548
+176.205.158.19 1 1 11199 20260617133822
+47.11.101.105 1 1 3548 20260612133725
+186.208.68.18 1 1 5840 20260604195206
+181.232.191.67 1 1 794 20260625141415
+91.231.89.38 0 1 418316 
+205.169.39.57 2 2 22398 20260615230016
+159.89.53.39 0 1 115906 
+27.52.102.53 1 1 794 20260615180731
+91.231.89.37 1 1 44311 20260622175232
+182.176.203.3 1 1 4386 20260612133722
+49.213.32.221 1 1 3596 20260612065436
+66.132.172.134 1 2 13594 20260620044531
+168.194.163.237 1 1 5840 20260606171353
+35.88.70.247 1 1 0 20260612101043
+35.209.68.128 1 1 11199 20260611050216
+179.48.47.51 1 1 794 20260610134152
+72.63.244.178 1 25 224448 20260622131704
+209.38.147.252 1 1 11686 20260610191831
+101.201.58.111 1 1 44311 20260601053909
+140.245.98.34 1 1 11199 20260601212141
+201.243.119.149 1 1 11199 20260621205758
+38.25.60.60 1 1 794 20260611143149
+103.87.56.212 1 1 3548 20260606160747
+190.143.236.34 1 1 3861 20260604001355
+31.40.204.244 1 1 44311 20260603154658
+41.248.60.89 1 1 11199 20260601212556
+192.144.90.34 1 11 4000 20260619233440
+152.250.192.8 1 1 3585 20260602130722
+174.138.44.84 0 1 1945 
+2.50.206.169 1 1 3548 20260607050035
+54.145.173.169 1 1 11199 20260616083603
+35.159.229.183 1 1 11199 20260608153453
+4.246.178.10 12 12 0 20260604012214
+190.44.7.218 1 1 794 20260629144731
+188.241.66.149 1 4 289214 20260622005407
+94.247.172.129 1 1 11199 20260615150333
+185.207.251.39 1 1 44311 20260613162214
+89.244.95.71 3 23 4459460 20260606165333
+109.161.190.90 1 1 3596 20260612133720
+193.186.4.190 1 1 11199 20260615134806
+91.98.178.79 2 2 17039 20260617044104
+43.135.182.43 1 1 3896 20260619193411
+5.189.156.109 1 1 11199 20260614035942
+178.105.220.209 2 2 28094 20260613023040
+36.140.220.27 1 1 11199 20260625170257
+151.240.93.183 2 2 14747 20260605070617
+37.209.173.27 1 1 5840 20260613005543
+135.148.170.116 4 4 114978 20260629231602
+32.192.206.102 1 1 11199 20260630082505
+181.29.111.179 1 1 3861 20260611195208
+34.229.249.202 1 1 11199 20260609080444
+186.156.213.190 1 1 794 20260605111345
+89.21.130.95 1 1 11199 20260610120538
+118.38.166.127 1 1 4000 20260604171303
+170.233.249.5 1 1 794 20260624134100
+143.198.184.162 0 1 1945 
+39.14.30.108 1 1 4227 20260612133718
+190.183.169.164 1 1 4000 20260630010156
+157.15.46.16 1 1 3548 20260612172647
+185.152.248.213 0 1 87039 
+38.248.128.23 1 1 3896 20260621103509
+149.115.147.75 1 1 794 20260623200328
+130.245.32.176 1 13 105618 20260628134135
+216.38.230.118 0 1 38870 
+152.57.98.33 1 14 1076773 20260611150552
+14.189.241.3 1 1 3576 20260620090003
+39.63.25.188 1 1 3587 20260607161608
+216.9.225.163 2 2 25497 20260603154723
+123.194.155.179 1 1 4000 20260610134154
+65.111.30.1 1 1 5472 20260621001812
+189.168.142.18 1 1 11199 20260611214921
+34.30.248.127 0 2 99229 
+175.107.255.61 1 1 3977 20260630121152
+38.25.43.210 1 1 4000 20260612133732
+184.144.16.247 1 1 3977 20260611143137
+45.136.26.34 1 1 11199 20260616182544
+18.219.151.133 1 1 11199 20260624193530
+176.120.111.105 1 1 4227 20260606152933
+167.148.117.105 0 1 1945 
+197.205.41.64 1 1 5472 20260602030703
+14.191.23.55 1 1 14048 20260615163647
+93.216.70.71 6 85 11158214 20260624191221
+186.154.32.0 1 1 3585 20260629045415
+23.22.173.232 0 2 60442 
+122.169.119.131 1 1 11199 20260627215231
+109.205.8.108 2 9 50397 20260606003229
+35.173.242.144 1 8 209185 20260626070248
+189.174.161.155 1 1 794 20260613135549
+209.87.169.133 1 1 11199 20260622014932
+177.21.106.228 1 1 3548 20260613135551
+152.59.4.16 1 24 1963166 20260607160303
+43.166.244.21 1 1 11199 20260628042658
+105.111.232.18 1 1 4000 20260620055219
+42.106.17.221 1 10 1077959 20260608151831
+89.92.240.69 1 1 3896 20260612133715
+27.34.111.241 1 1 3548 20260630160642
+176.65.139.236 0 1 1579 
+151.240.93.80 0 1 699 
+197.42.40.252 1 1 3861 20260628012940
+189.28.90.247 1 1 5472 20260605032801
+188.215.94.240 1 5 1110618 20260623195528
+168.144.19.157 1 1 11697 20260624074226
+185.152.250.157 1 5 1110618 20260621184241
+85.17.145.102 1 1 11199 20260610140110
+43.130.3.122 1 1 794 20260619201414
+109.199.105.90 1 1 11199 20260614035951
+43.231.58.132 1 1 3977 20260612230142
+190.155.42.169 1 1 794 20260630213951
+190.7.16.181 1 1 794 20260618181611
+54.163.43.119 1 1 11199 20260616145917
+14.231.47.157 1 1 4000 20260605202920
+45.38.215.145 1 3 113356 20260622005007
+16.54.237.189 4 4 70330 20260616022759
+66.249.73.15 1 1 189452 20260624155441
+205.210.31.50 1 1 44311 20260624223311
+107.175.216.47 1 3 11199 20260624041735
+34.238.162.167 0 11 89726 
+104.165.203.208 1 5 19198 20260619174624
+216.38.230.114 0 2 74634 
+222.254.98.127 1 1 4386 20260629025249
+189.203.235.41 1 1 11199 20260607212729
+103.135.89.74 1 1 3580 20260629142749
+197.221.126.79 1 1 5840 20260605195419
+167.60.216.96 1 1 3548 20260621023016
+152.42.225.238 1 1 11199 20260629225228
+85.106.156.107 1 1 5840 20260612133716
+151.240.93.158 1 1 3587 20260605070558
+37.72.141.198 1 1 11199 20260614051306
+189.230.14.51 1 1 5840 20260603154832
+196.189.18.84 1 1 3596 20260621133918
+93.105.178.148 1 1 3896 20260621202255
+47.230.248.41 1 1 5472 20260621202259
+64.23.135.197 1 1 11199 20260612115328
+5.28.189.104 1 1 11199 20260630213614
+194.70.234.105 1 1 11199 20260605000843
+134.185.85.99 1 1 11199 20260604165605
+190.20.105.223 1 1 3977 20260628192558
+151.240.93.206 4 4 18658 20260605070556
+85.154.169.202 1 1 6762 20260611143141
+103.237.36.219 1 1 794 20260623140348
+180.249.184.216 1 1 5472 20260624134102
+14.236.80.102 1 1 3548 20260612133730
+154.27.152.137 1 1 3861 20260613135544
+78.101.145.185 1 1 4227 20260624134059
+195.96.139.168 1 1 11199 20260613055822
+192.200.149.44 1 1 11199 20260621202310
+223.242.210.89 1 1 11199 20260627052851
+157.230.189.204 3 3 22511 20260601225047
+200.141.208.38 1 1 3548 20260627142310
+123.20.74.198 1 1 794 20260624141844
+31.94.11.112 2 14 3966662 20260607003438
+185.170.110.225 1 32 4101 20260620083432
+112.197.29.153 1 1 3861 20260602025847
+190.190.194.46 1 1 11199 20260612133728
+131.255.97.18 1 1 3576 20260603071422
+122.173.24.108 1 1 6762 20260621202256
+3.76.98.88 2 2 22398 20260625110837
+100.25.180.254 1 1 11199 20260626160817
+103.144.103.157 1 1 5472 20260618181609
+35.228.86.232 12 23 109659 20260611093341
+103.171.159.172 1 1 4386 20260614140726
+54.165.169.15 1 4 112007 20260604103801
+45.237.110.119 1 1 4864 20260605204626
+164.92.154.188 1 1 11199 20260606115200
+14.177.92.115 1 1 11199 20260602022204
+198.46.154.22 2 2 25497 20260603154716
+177.3.57.129 1 1 11199 20260628225432
+98.97.76.47 1 1 3596 20260611143145
+185.244.8.76 0 4 1109824 
+113.172.59.20 1 1 794 20260620060510
+205.169.39.48 1 1 11199 20260625011742
+172.109.225.216 1 1 11199 20260612224542
+3.151.194.164 1 1 11199 20260616192427
+13.216.227.78 1 1 11199 20260629005717
+42.83.147.56 1 1 11199 20260619182226
+95.237.249.142 1 1 4386 20260618181606
+151.240.93.73 2 2 6634 20260605070527
+202.136.82.226 1 1 3548 20260624134115
+191.99.8.58 1 1 11199 20260621202305
+66.132.172.188 0 1 38870 
+203.175.125.148 1 1 11199 20260622123858
+120.232.0.36 1 13 180420 20260627052833
+151.240.93.84 1 1 794 20260605070455
+5.133.192.87 1 2 13594 20260623185213
+113.181.206.2 1 1 4000 20260610105232
+185.152.39.29 1 4 6425 20260618002323
+106.63.26.14 0 1 38870 
+193.186.4.156 1 1 5840 20260602235311
+151.240.93.202 0 1 699 
+167.250.36.18 1 1 3896 20260612213236
+32.193.243.149 3 3 23192 20260608120858
+43.131.26.226 1 1 11199 20260619191021
+216.10.217.102 1 1 11199 20260618135453
+156.231.192.201 1 1 11199 20260629114306
+34.203.50.75 5 5 55995 20260627111052
+196.189.19.65 1 1 5840 20260629203507
+43.134.71.232 1 1 11199 20260619212337
+35.255.92.22 5 5 178069 20260606004930
+179.129.242.140 1 1 794 20260605160356
+79.173.244.200 1 1 4000 20260612152344
+151.240.93.133 1 1 3576 20260605070600
+103.110.160.255 0 3 20020 
+103.4.251.136 1 1 11199 20260604162409
+14.186.10.76 1 1 794 20260605165436
+176.116.22.29 1 15 93014 20260619154155
+196.189.154.79 1 1 3548 20260618181609
+217.164.56.7 1 1 3977 20260614142207
+193.186.4.185 1 1 11199 20260609235546
+139.59.177.195 1 1 11199 20260626143153
+193.186.4.143 1 1 11199 20260625104151
+103.231.229.101 1 1 794 20260602214519
+113.188.184.161 1 1 3548 20260628091116
+66.249.73.11 3 79 28243513 20260624155428
+196.217.86.44 1 1 3548 20260612191253
+103.172.164.93 1 1 794 20260622213237
+111.206.96.236 1 1 11199 20260628042658
+64.233.173.202 2 16 181565 20260629200702
+187.195.214.199 1 1 5472 20260601013731
+91.92.241.254 2 2 22398 20260610190522
+85.221.152.45 1 1 5840 20260607171751
+34.123.127.71 2 2 11199 20260617143220
+69.62.70.233 1 1 44311 20260602040746
+45.168.217.134 1 1 4227 20260618181607
+102.254.170.34 1 1 11199 20260602011921
+113.179.71.105 1 1 3548 20260624135352
+178.172.209.111 1 1 4386 20260601082842
+198.235.24.185 2 2 88622 20260629234412
+46.213.3.206 1 1 11199 20260603054431
+103.110.162.9 0 1 9204 
+52.43.150.135 1 1 0 20260608095855
+151.240.93.18 1 1 3585 20260605070550
+122.179.91.100 1 1 11199 20260625111053
+167.60.66.250 1 1 3896 20260604194130
+43.231.29.95 1 1 794 20260613135548
+104.143.91.242 1 1 794 20260627171315
+72.63.109.99 1 1 11199 20260617133824
+47.128.22.48 1 25 230862 20260617133822
+94.152.186.69 1 1 44311 20260601014322
+89.244.95.147 0 32 1306578 
+176.65.139.232 1 1 44311 20260605032602
+207.241.173.124 0 1 35764 
+213.231.160.254 1 1 3585 20260628182906
+34.12.102.174 1 1 11199 20260630155108
+103.187.68.224 1 1 0 20260617082529
+37.236.201.146 1 1 794 20260629043502
+14.191.6.130 1 1 794 20260621163927
+181.94.225.86 1 1 4000 20260621202257
+72.27.8.184 1 1 794 20260602072428
+197.146.67.81 1 1 3896 20260620004707
+41.56.227.9 1 1 4386 20260605114430
+157.211.44.229 1 1 3548 20260618181608
+70.70.54.254 1 1 794 20260614134736
+110.168.211.195 1 1 794 20260612133732
+198.235.24.58 1 1 44311 20260610175237
+223.25.253.165 1 1 11199 20260606223722
+186.251.195.104 1 1 5472 20260604171304
+151.240.93.162 1 1 3596 20260605070442
+100.11.55.138 1 1 5840 20260608150333
+170.106.163.48 1 1 3548 20260619224631
+23.27.225.33 0 1 35518 
+162.120.184.8 1 1 11199 20260629170644
+45.148.10.245 1 1 11199 20260602152345
+41.175.199.99 1 1 794 20260621185451
+105.102.223.67 1 1 11199 20260603212958
+179.126.125.39 1 1 3587 20260606163228
+66.132.224.87 0 1 38870 
+195.96.139.129 0 1 38870 
+138.199.142.70 1 1 6762 20260611080826
+89.144.53.20 0 15 3426906 
+102.128.167.182 1 8 112975 20260620124234
+212.47.150.64 1 1 3896 20260618181611
+190.106.185.234 1 1 794 20260627170502
+3.215.121.87 1 1 11199 20260625015850
+45.9.27.28 1 1 11199 20260605220054
+181.115.61.168 1 1 3548 20260610202304
+91.231.89.120 1 1 25531 20260622175652
+64.111.93.169 1 1 11199 20260605101317
+157.230.185.55 1 1 11199 20260624121006
+208.84.100.247 0 11 89726 
+14.226.126.88 1 1 3896 20260629191935
+151.240.93.37 3 3 10681 20260605070543
+24.152.108.42 1 1 794 20260620214536
+66.154.100.10 1 1 11199 20260624003330
+105.245.168.121 1 1 6762 20260630050020
+162.120.184.13 2 2 16671 20260622175719
+188.120.103.34 1 1 3896 20260607205444
+200.8.235.80 1 1 3548 20260621040553
+182.252.75.79 1 1 794 20260613183940
+103.131.145.90 1 1 11199 20260621213824
+63.178.44.94 1 1 11199 20260608153452
+102.208.183.43 1 1 11199 20260630185533
+122.170.157.70 5 27 811614 20260606153039
+5.255.126.194 0 1 35764 
+61.189.2.71 1 13 180420 20260627052758
+5.255.124.172 1 1 11199 20260616012049
+156.209.45.124 1 1 3548 20260626140600
+185.152.251.250 1 24 198748 20260619141804
+222.252.8.32 1 1 11199 20260617134851
+182.188.117.115 1 1 5840 20260613135545
+116.204.228.226 1 1 4000 20260611112230
+43.228.114.162 1 1 11199 20260602140537
+104.164.173.245 1 1 11199 20260622162523
+103.161.231.224 2 2 15199 20260607171754
+162.120.184.5 3 3 33597 20260618162652
+223.178.208.147 1 1 4227 20260613135548
+2.51.43.84 1 1 6762 20260614134740
+146.70.124.206 1 2 13594 20260604162415
+144.126.231.182 1 1 11199 20260608115140
+27.159.75.49 3 79 1715931 20260628073309
+66.132.195.68 1 2 13594 20260612204805
+145.14.141.112 1 1 3548 20260620063319
+34.199.73.35 1 1 11199 20260615011623
+187.150.224.63 1 1 3587 20260603233153
+49.44.84.104 5 53 1743641 20260609235642
+18.206.82.65 0 4 89469 
+156.247.174.61 1 1 5840 20260628051817
+116.71.14.196 1 1 794 20260622140452
+113.212.111.136 1 1 11199 20260625141116
+41.108.154.128 1 1 4000 20260606171341
+84.71.231.248 1 1 11199 20260611143145
+45.82.223.179 1 1 794 20260620032350
+94.72.160.10 1 1 44311 20260601101804
+139.135.46.138 1 1 4386 20260610072821
+103.135.135.168 1 1 3585 20260601103746
+201.47.17.94 1 1 5472 20260611143137
+34.22.38.7 0 11 89726 
+69.160.103.63 1 1 3548 20260613135547
+84.21.190.140 1 1 11199 20260623142018
+216.38.230.117 0 1 2395 
+213.201.139.209 1 2 6943 20260620051124
+118.91.176.23 1 1 5840 20260621202256
+200.121.220.242 1 1 3548 20260620001702
+89.244.95.112 1 60 6010023 20260624215142
+103.168.66.237 11 11 477011 20260620034903
+124.156.226.179 1 1 794 20260619211421
+134.185.86.134 1 1 11199 20260606230336
+2.58.13.24 1 7 63933 20260624134801
+45.170.128.218 1 1 3596 20260613071128
+104.164.171.102 1 1 3587 20260624064837
+43.153.10.83 1 1 3580 20260619210450
+129.226.95.137 1 1 3548 20260619215336
+52.23.216.180 1 1 25111 20260608070958
+45.148.10.62 2 13 112124 20260605145300
+167.172.134.236 2 2 22398 20260620140427
+171.97.181.159 1 1 6762 20260613135548
+181.120.230.64 1 1 3896 20260606204958
+43.130.37.243 1 1 5840 20260619213308
+103.155.196.184 1 1 3548 20260624134117
+113.189.2.209 1 1 3548 20260621164832
+13.222.69.0 1 1 11199 20260624220733
+216.38.230.124 3 4 13594 20260613014114
+91.92.40.172 1 1 11199 20260616004344
+102.210.17.64 1 1 794 20260614213556
+185.247.137.247 0 1 2395 
+200.163.233.234 1 1 794 20260622005808
+14.187.198.202 1 1 3548 20260601173310
+37.111.223.132 1 1 794 20260624141557
+190.106.186.192 1 1 3861 20260620111904
+186.84.20.45 1 1 3596 20260610134152
+151.240.93.36 2 2 4342 20260605070552
+162.120.188.86 1 1 11199 20260604004321
+69.164.253.121 1 1 11199 20260601045700
+169.224.64.117 1 1 3977 20260606062528
+151.240.93.243 1 1 3896 20260605070516
+41.230.131.187 1 1 3548 20260606194705
+3.219.228.21 0 3 105111 
+145.40.133.165 1 1 3596 20260608150336
+179.5.180.13 1 1 6762 20260624134112
+184.82.0.195 1 1 794 20260608150342
+106.63.26.140 0 1 2395 
+68.111.253.169 1 1 3596 20260605160351
+172.104.171.149 1 1 11199 20260628133012
+43.131.32.36 1 1 5472 20260619214405
+188.166.7.151 1 1 11199 20260604133805
+102.53.142.141 1 1 4864 20260630010500
+217.164.193.195 1 1 11199 20260619135505
+66.249.73.10 4 120 14601848 20260616205647
+185.184.199.125 1 1 3548 20260607075546
+32.192.207.151 1 1 44311 20260608011738
+66.249.73.12 3 27 531951 20260624230148
+194.104.23.0 1 1 11199 20260620212615
+175.141.173.9 1 1 794 20260618181609
+106.75.66.166 1 2 14880 20260612132056
+18.207.193.135 1 1 11199 20260615161951
+94.10.206.231 2 2 11993 20260624005347
+154.28.229.57 1 1 11199 20260604162908
+199.45.155.76 1 2 13594 20260627093657
+102.100.96.89 1 1 3548 20260630060842
+151.240.93.142 2 2 15426 20260605070500
+136.158.27.138 1 1 4000 20260601145133
+91.231.89.123 2 2 47509 20260622175719
+165.73.74.52 1 1 794 20260610161701
+125.165.152.197 1 1 3861 20260621202255
+104.222.171.17 1 1 4864 20260624083843
+138.121.65.221 1 1 3977 20260601022248
+189.203.29.13 1 1 4227 20260601115251
+105.104.198.16 1 1 5840 20260614134737
+86.44.243.125 1 1 11199 20260620214724
+3.95.138.229 0 11 89726 
+141.164.45.187 2 2 40243 20260617045334
+216.115.179.147 1 1 11199 20260612133716
+112.79.16.136 1 1 3977 20260621202258
+107.21.189.99 1 1 11199 20260623192807
+64.233.173.203 2 13 456315 20260629200703
+110.141.0.16 1 1 794 20260614134737
+43.164.197.117 1 1 794 20260619202258
+199.45.154.129 0 1 38870 
+39.10.64.85 1 1 794 20260618181610
+2.50.154.32 1 1 4386 20260630183537
+151.247.70.184 0 1 821404 
+34.195.125.215 1 1 11199 20260627111616
+198.46.154.21 1 1 44311 20260603154722
+54.87.189.147 0 1 2164 
+168.205.153.109 1 1 794 20260626141918
+120.232.94.28 1 13 180420 20260627052819
+168.119.25.28 2 2 25243 20260627115408
+222.252.105.254 1 1 3861 20260605001506
+191.99.43.0 1 1 794 20260601000200
+3.208.171.167 0 6 295984 
+207.241.173.41 0 1 35764 
+146.190.133.171 1 1 11199 20260622115742
+27.34.71.29 0 1 3623861 
+151.240.93.254 1 1 794 20260605070553
+185.8.106.170 1 8 50397 20260609123652
+123.201.95.144 2 24 1310922 20260604130826
+37.187.199.185 1 1 11199 20260620105947
+135.234.85.209 2 2 22398 20260625011722
+45.70.238.177 1 1 4000 20260618181608
+176.65.139.233 0 1 1579 
+106.75.99.100 1 2 14880 20260629022643
+187.187.193.22 1 1 3548 20260601040842
+103.79.183.180 1 1 5472 20260629203806
+116.97.105.221 1 1 3548 20260614142207
+94.176.16.33 1 1 794 20260622140526
+43.173.187.51 1 1 11199 20260628042657
+200.192.101.22 1 1 3548 20260606171339
+42.106.160.6 13 61 3971477 20260606194332
+64.89.160.19 1 1 44311 20260623050648
+50.60.106.80 1 1 5472 20260613135544
+209.242.194.220 1 3 202175 20260623195926
+186.225.144.204 1 1 3596 20260624134109
+68.183.232.140 1 1 11199 20260609155011
+87.236.176.52 0 1 2395 
+195.178.110.31 1 1 44311 20260605144943
+189.146.136.172 1 1 794 20260630235928
+91.196.152.145 0 1 2395 
+177.66.146.153 1 1 11199 20260605160357
+161.97.85.47 1 1 794 20260610130611
+61.170.48.127 5 21 786563 20260627052918
+122.171.17.219 0 2 269422 
+103.187.68.234 1 1 0 20260623161612
+84.54.70.50 1 1 5840 20260605160353
+188.132.160.21 1 1 4000 20260624134058
+144.172.94.226 1 1 44311 20260611193232
+14.182.83.59 1 1 6762 20260619235801
+14.234.175.225 1 1 3580 20260607092801
+151.240.93.226 1 1 3548 20260605070535
+91.106.43.61 1 1 3576 20260601133847
+216.26.253.204 1 1 11199 20260621001810
+105.100.112.161 1 1 3580 20260627144427
+14.191.37.31 1 1 3585 20260616140100
+37.236.34.11 1 1 3861 20260601151029
+103.96.235.128 1 1 3548 20260628175604
+31.155.128.21 1 1 6762 20260610134153
+14.232.218.170 1 1 11199 20260617112559
+37.237.165.176 1 1 3548 20260603134631
+104.28.153.59 1 1 11199 20260610202652
+52.87.155.149 1 1 11199 20260603132551
+174.138.41.56 3 3 22511 20260602024711
+208.84.102.38 1 1 11199 20260617061942
+181.237.169.194 1 1 3861 20260618181625
+106.63.26.157 0 1 38870 
+181.41.206.61 1 1 11199 20260620211422
+200.118.81.4 1 1 3548 20260621202258
+18.144.41.174 1 1 11199 20260604035102
+164.163.209.107 1 1 4227 20260612153645
+164.92.113.228 1 1 11199 20260628124421
+209.97.187.149 1 1 11199 20260601170011
+95.19.115.8 1 1 11199 20260624134112
+190.55.101.104 1 1 4000 20260612133717
+191.102.0.6 1 1 5472 20260604032728
+179.52.216.168 1 1 3596 20260604224536
+49.190.58.57 1 2 13594 20260619020829
+14.191.198.186 1 1 3896 20260610134155
+179.6.81.226 1 1 3861 20260618181618
+103.152.105.218 1 1 794 20260626213639
+80.0.102.48 1 1 3548 20260621202257
+222.252.20.207 1 1 3977 20260613135542
+179.160.3.102 1 1 4386 20260603131911
+104.165.13.146 1 20 212069 20260623170507
+51.81.245.138 2 2 22398 20260612154426
+151.240.93.123 2 2 7444 20260605070539
+43.157.153.236 1 1 4227 20260619220224
+209.242.197.111 0 4 1109824 
+167.233.68.234 5 16 151420 20260626100921
+90.249.108.72 1 1 5472 20260603161505
+167.253.17.229 1 1 11199 20260608210847
+177.73.203.151 1 1 5840 20260611143139
+35.247.143.244 1 1 11199 20260626122215
+49.36.46.210 1 1 3548 20260614134737
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20260601 41 42 853239 37
+20260602 60 131 17727611 29
+20260603 39 64 4983025 28
+20260604 152 1071 17842077 29
+20260605 91 155 4575046 57
+20260606 69 245 25276137 33
+20260607 25 61 6038557 23
+20260608 58 175 9441371 29
+20260609 44 275 12204609 16
+20260610 67 84 1258048 39
+20260611 153 390 29139103 35
+20260612 55 134 5050647 39
+20260613 45 61 3199075 31
+20260614 26 28 3785490 26
+20260615 38 193 12419947 18
+20260616 36 126 4709584 18
+20260617 24 128 2194624 19
+20260618 39 95 11538341 27
+20260619 49 165 4595352 36
+20260620 46 119 2134378 35
+20260621 42 51 1832474 32
+20260622 55 254 13102038 26
+20260623 17 82 1977058 17
+20260624 66 306 55966739 47
+20260625 31 91 4532001 15
+20260626 12 30 459863 11
+20260627 50 264 7668012 26
+20260628 27 131 5427195 25
+20260629 55 194 35818389 29
+20260630 22 23 218378 22
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 4
+1h+ 1
+30s-2mn 24
+15mn-30mn 3
+0s-30s 817
+5mn-15mn 3
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 73
+/web/ 509 7779492 401 373
+/web/contact 69 486850 35 36
+/web/about 65 421644 33 31
+/web/home.php 49 44202 38 38
+/web/assets/fonts/fa-light-300.woff2 43 7956984 5 6
+/web/products 40 294494 18 21
+/web/assets/fonts/fa-solid-900.woff2 38 5206048 3 3
+/web/assets/fonts/fa-regular-400.woff2 36 6062700 0 7
+/web/assets/fonts/fa-brands-400.woff2 32 2398656 1 0
+/web/category/14 31 119691 22 23
+/web/category/16 30 119310 24 23
+/web/category/15 30 107880 23 25
+/web/clients 30 135382 22 22
+/web/category/13 30 120000 23 23
+/web/category/17 28 114129 20 19
+/web/category/12 26 114036 20 19
+/web/category/home.php 24 85152 20 23
+/web/category/11 23 81604 15 16
+/web/assets/fonts/fa-solid-900.ttf 21 7737840 0 2
+/web/assets/fonts/fa-brands-400.woff 21 1813440 0 0
+/web/assets/fonts/fa-regular-400.woff 21 4601440 0 0
+/web/assets/fonts/fa-solid-900.woff 21 3760560 0 0
+/web/assets/fonts/fa-brands-400.ttf 21 2686320 0 1
+/web/assets/fonts/fa-light-300.woff 21 5030320 0 0
+/web/assets/fonts/fa-regular-400.ttf 21 9068800 0 4
+/web/category/24 12 58368 7 8
+/web/assets/js/isotope.pkgd.min.js.map 3 2382 0 0
+/web/category/9 15 53220 10 9
+/web/assets/js/appear.min.js.map 3 2382 0 0
+/web/assets/js/jquery.animatedheadline.min.js.map 3 2382 0 0
+/web/category/19 11 39457 7 7
+/digicard/website/Brijesh_shah 2 16790 2 1
+/web/admin/category 3 48972 0 0
+/web/category/service-details.html 1 3548 1 1
+/digicard/website/IdealGroups 15 210732 11 11
+/web/category/20 9 32184 5 5
+/web/category/services.html 1 3548 1 1
+/webmail/phpinfo.php 2 27233 0 2
+/digicard/website/jigish_shah 2 10660 2 2
+/web/services.html 1 794 1 1
+/web/admin/home_banners_list 1 1513 0 0
+/web/admin/home_banners 1 16336 0 0
+/web/image-tool/index.php 1 3371 0 0
+/web/category/18 11 39435 7 7
+/web/admin/contacts_list 1 317 0 1
+/web/category/contact.html 12 42576 12 12
+/web/assets/js/jquery.magnific-popup.min.js.map 3 2382 0 0
+/web/contact.html 15 11910 15 15
+/web/project-details.html 2 1588 2 2
+/webmail 2 27158 1 0
+/web/assets/js/jquery.nice-select.min.js.map 3 2382 0 0
+/web/admin/category_list 3 47655 0 0
+/ 4 46771 4 4
+/web/sitemap.xml 2 0 0 1
+/web/assets/js/wow.min.js.map 3 2382 0 0
+/web/assets/js/slick.min.js.map 3 2382 0 1
+/web/team-profile.html 18 14292 13 14
+/web/category/22 12 42960 6 8
+/web/assets/js/circle-progress.min.js.map 3 2382 1 0
+/web/error 1 2118 0 0
+/web/assets/js/jquery-3.6.3.min.js.map 3 2382 0 2
+/web/assets/js/script.js.map 3 2382 0 0
+/cpanel 1 33901 0 0
+/web/assets/js/imagesloaded.pkgd.min.js.map 3 2382 0 0
+/web/assets/fonts/fa-light-300.ttf 21 9858000 0 3
+/digicard/website/mspaper 1 10538 1 1
+/web/admin/contacts 1 15438 0 0
+/digicard/website/dipesh_shah 2 15410 1 2
+/web/admin 1 18908 0 0
+/digicard/website/hetalpatel 4 19326 2 2
+/web/category/21 13 46605 8 8
+/digicard/website/idealgroups 1 14044 1 0
+/web/category/10 16 56768 10 8
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+5K+ 3193
+0-44 1180
+100-500 3751
+2K-5K 1454
+500-1K 2113
+44-100 1355
+1K-2K 520
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

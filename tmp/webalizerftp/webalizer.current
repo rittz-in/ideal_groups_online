@@ -1,0 +1,187 @@
+# Webalizer V2.23-08 Incremental Data - 03/17/2026 11:55:01
+2026 3 17 11 55 1
+56 56 4 28 0 0 620453 0 0 1
+1 4 37 6 17
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+26 26 249847 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 6 68593 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+20 20 204070 1 0 0
+4 4 97943 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+13 13 155499 0
+3 3 47223 0
+0 0 0 0
+0 0 0 0
+3 3 7109 0
+26 26 249847 0
+3 3 45911 0
+8 8 114864 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+56
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/pages/make_payment.blade.php
+0 21 0 348693 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/app/Services/UpiPaymentService.php
+0 7 0 26442 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/pages/checkout.blade.php
+0 1 0 12568 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/app/Http/Controllers/Auth/ForgotPasswordController.php
+0 1 0 667 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/pages/cart.blade.php
+0 1 0 18210 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/layouts/header.blade.php
+0 1 0 3501 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/app/Http/Controllers/Auth/ResetPasswordController.php
+0 1 0 799 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/pages/product_detail.blade.php
+0 1 0 9793 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/layouts/app.blade.php
+0 1 0 23903 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/app/Http/Controllers/Auth/VerificationController.php
+0 1 18446744073709551615 1085 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/layouts/new-app.blade.php
+0 1 0 7697 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/app/Http/Controllers/Auth/ConfirmPasswordController.php
+0 1 27446160 979 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/partials/bottom-nav.blade.php
+0 1 0 4207 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/pages/track_order.blade.php
+0 1 0 28032 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/app/Http/Controllers/Auth/LoginController.php
+0 1 0 967 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/pages/product.blade.php
+0 1 0 19841 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/.env
+0 1 0 1246 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/routes/web.php
+0 1 0 38168 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/partials/page-header.blade.php
+0 1 0 2725 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/partials/product_list.blade.php
+0 1 0 2007 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/app/Providers/RouteServiceProvider.php
+0 1 0 1207 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/pages/order_pay_payment.blade.php
+0 1 0 19048 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/pages/order_confirmation.blade.php
+0 1 0 7754 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/app/Models/Order.php
+0 3 0 7109 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/app/Http/Controllers/OrderController.php
+0 1 0 20260 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/pages/home.blade.php
+0 1 0 7708 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/app/Http/Controllers/Auth/RegisterController.php
+0 1 0 2748 0 0
+/home1/idealgro/fizznfreeze.idealgroups.org/resources/views/frontend/layouts/menubar.blade.php
+0 1 0 3089 0 0
+# End Of Table - urls
+# -sites- (monthly)
+42.105.168.22
+0 26 26 249847 0 0
+-
+110.224.140.62
+0 20 20 204070 0 0
+-
+223.236.49.172
+0 6 6 68593 0 0
+-
+106.213.27.0
+0 4 4 97943 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+106.213.27.0
+0 4 4 97943 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+idealgro
+0 56 56 620453 1 0
+# End Of Table - usernames

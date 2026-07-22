@@ -1,0 +1,778 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202507 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.kmanimalhealthcare.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2066                
+POS_TIME 2738                
+POS_VISITOR 22966               
+POS_DAY 24391               
+POS_DOMAIN 3386                
+POS_LOGIN 3699                
+POS_ROBOT 3854                
+POS_WORMS 4091                
+POS_EMAILSENDER 4222                
+POS_EMAILRECEIVER 4365                
+POS_SESSION 24849               
+POS_FILESIZE 25660               
+POS_SIDER 25006               
+POS_FILETYPES 4500                
+POS_DOWNLOADS 4655                
+POS_OS 4741                
+POS_BROWSER 4867                
+POS_SCREENSIZE 5154                
+POS_UNKNOWNREFERER 5228                
+POS_UNKNOWNREFERERBROWSER 5715                
+POS_ORIGIN 5870                
+POS_SEREFERRALS 6002                
+POS_PAGEREFS 6146                
+POS_SEARCHWORDS 6294                
+POS_KEYWORDS 6446                
+POS_MISC 2402                
+POS_ERRORS 6505                
+POS_CLUSTER 3555                
+POS_SIDER_404 6645                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250801014908 1 0 19009013234247
+FirstTime 20250701033031
+LastTime 20250729205906
+LastUpdate 20250801184554 1 0 0 0 0
+TotalVisits 37                  
+TotalUnique 35                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 35                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 14328 0 0 0
+1 4 4 84 250 250 4718224
+2 0 0 0 0 0 0
+3 1 2 27669 1 4 9031
+4 1 1 7164 1 1 83
+5 1 2 27669 1 4 2511
+6 0 0 0 1 2 7400
+7 2 2 14338 0 0 0
+8 3 3 106527 19 19 8555
+9 5 6 141370 12 15 5140
+10 2 3 34823 0 3 2428
+11 0 0 0 0 0 0
+12 7 9 3523346 342 378 4852290
+13 0 0 0 3 3 14003
+14 0 0 0 95 95 235982
+15 3 3 14645 70 70 129560
+16 10 10 107090 244 244 4693415
+17 2 2 8294 16 16 3473
+18 2 2 7481 0 0 0
+19 0 0 0 0 0 0
+20 2 2 14328 21 21 167569
+21 2 2 1427 16 16 3616
+22 0 0 0 0 1 226
+23 13 13 142615 526 531 5188370
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 31 36 629824
+ru 18 19 3539246
+de 4 4 84
+es 2 2 2240
+gb 2 2 7251
+in 2 2 128
+zz 2 2 7251
+be 1 1 7174
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 261 17170100 20250727123143 0
+checker 1 7174 20250722133136 0
+curl 1 7174 20250723063401 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+Unknown 29 140344 0 0
+html 32 569478 0 0
+php 1 7199 0 0
+log 1 3373702 0 0
+png 5 102475 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/storage/logs/laravel.log 1 0 3373702
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+win10 36 35
+winlong 1 1
+macosx15 2 2
+linux 7 7
+Unknown 22 17
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+chrome123.0.0.0 4 4
+mozilla 17 12
+opera98.0.0.0 1 1
+chrome116.0.0.0 1 1
+firefox120.0 1 1
+netscape5.0 2 2
+chrome121.0.0.0 1 1
+chrome78.0.3904.108 12 12
+msie7.0 1 1
+safari17.0 1 1
+chrome137.0.0.0 7 7
+chrome91.0.4472.124 17 16
+Unknown 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+python-httpx/0.28.1 20250724215012
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250729205906
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250721100453
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20250721162550
+Cpanel-HTTP-Client/1.0 20250721162544
+Mozilla/5.0_zgrab/0.x 20250715100522
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+python-httpx/0.28.1 20250724215012
+Cpanel-HTTP-Client/1.0 20250721162544
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 62 68
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+406 288 65088
+409 30 2490
+404 1076 2787878
+301 2 552
+403 4 1420
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 428
+/vit-premix-l.php 1 -
+/public/js/main.js 1 -
+/.git/objects/d7/0a133c482171201e5aa4535f7cde82c6c3f5af 4 -
+/apis/controllers/users.js 1 -
+/server.js 1 -
+/_phpinfo.php 1 -
+/.git/objects/32/85b15c5731bb3887f792a4347ab186e5fdea45 5 -
+/.git/objects/06/7e3eb6a457b8b8a86ed61987c53cc8506d0b47 3 -
+/.env.local 2 -
+/latest/meta-data/iam/security-credentials 1 -
+/.git/objects/96/bba1dce1c68ab9aff0321cdb5f4080150f1baa 4 -
+/.git/objects/9b/19b93c9f13d72749cc3bac760a28325116f3f1 5 -
+/.git/objects/1d/ca56b8de04ce8396b1698375ad1d6cd8109071 5 -
+/web 2 -
+/.git/objects/3d/9ca068f910feea354955f81bffe6b82325f8f5 5 -
+/.git/objects/97/beb1594e78c6b5312e301dd93c411e32521b3f 3 -
+/env.development.local 1 -
+/.git/objects/ba/98e08b4d097654c1b3eaa1b89cb6f29cea6874 4 -
+/.git/objects/bb/269ef7261eb8b4e4841c4854d5e5bcb00a8da4 4 -
+/.git/objects/0b/bc396807cf41eb75f7096f185fc49a107f45d9 5 -
+/.env_sample 2 -
+/api/config/config.yml 2 -
+/.git/objects/e7/fcd9529255d7573f17be9a3214465dddea4960 4 -
+/.git/objects/86/cec85ba07e1eb6b003c8c6c89a348c490362af 4 -
+/.git/hooks/pre-commit 1 -
+//helper/phpinfo.php 1 -
+/.git/objects/68/efdb445b23f29238ad1d03cabe53a689540472 5 -
+/helper/EmailHelper.js 1 -
+/gatsby-config.js 1 -
+/.git/objects/cb/17a07ec77f219a9182fa529e6e6ca608b65db1 4 -
+/.git/objects/12/8d0552e715d532a6016b9fe07212ed1f57aeac 5 -
+/wp-config.sublime-project 1 -
+/.git/objects/5b/64014d786bb3d3e970152e2b7bae5dab2f7f3d 4 -
+/.git/objects/67/7de48c82d69e631062e076f8f0d8c9256b986e 4 -
+/.env.smtp 1 -
+/wp-config.php_old2014 1 -
+/.git/objects/82/d2e67d75ee30073d8bdb14056198a3ba82abbb 5 -
+/main.yml 2 -
+/.git/objects/3a/c4d97bbc3abcdd0d5d387cd56ca02686919679 3 -
+/react-app/.env.production 1 -
+/.git/objects/26/6cdafeb62ac13744b2c571e27b8e61246a65b6 5 -
+/.git/objects/2a/030f298be66f160821bb3f42afd4c87fb45228 3 -
+/.git/objects/3d/c45eb3fc9ef7a970b104b9c6090aa046201c74 5 -
+/.git/objects/5b/88f3953140143c731e758cb6b35cca48bf17b6 5 -
+/apache/i.php 1 -
+/.git/objects/b1/5552c9d0e103a245bd41d48f1d96ac83655e03 5 -
+/var/log/nginx/error.log 1 -
+/_profiler/phpinfo 2 -
+/.git/objects/55/d54bf52acad20089097372ba43504d6c2fd84e 4 -
+/.git/objects/2e/b3148ae9ece8d20a241d34d042eb8db1a59220 4 -
+/.env.prod 1 -
+/s3.js 1 -
+/.git/objects/70/79368a1897f421814c8a8e5bc2b54290c13b20 3 -
+/app/config/parameters.yml 2 -
+/.git/objects/a3/a497290d53974fc52f03790b7e60b32deb1a21 4 -
+/configs/development.yml 1 -
+/.git/objects/30/0c8b38b6d65ca4900fce4a962151a650e24491 5 -
+/.git/objects/f8/d7eadc0a5c1033ad4c49c8c516ebe3e35d341e 4 -
+/inf.php 1 -
+/.git/objects/fe/f81986719d4643edc880b7dc9b94c9ed7025f0 3 -
+/i.php 1 -
+/config/settings.json 1 -
+//info.php 1 -
+/configs/routes.js 1 -
+/app.py 2 -
+/wp-config.php_new 1 -
+/phpsysinfo/phpsysinfo.php 1 -
+/.env.php 1 -
+/.env.smtp_host 1 -
+/.git/objects/27/bf599e983a60bb80adcd13daf00ecb350fe1b7 4 -
+/.git/objects/06/0b037d291f23fd62040441c8ea12758d1c16ab 5 -
+/index.js 1 -
+/.git/objects/6e/c19c6eb10b87a9c4174daac5dc9dc6e4c74226 4 -
+/index.html 1 -
+//help/info.php 1 -
+/.aws/policies 1 -
+/.git/objects/26/e608c8738bb787e361558e461c001cb9defc58 4 -
+/config/local.yml 1 -
+/enviroments/.env.production 1 -
+/aws-secret.yaml 2 -
+/.git/objects/9e/f27988ea85fef23e78153581dc37215a3fc623 4 -
+/im-grosty.php 1 -
+/static/js/main.js 1 -
+/.git/objects/d4/9aec1636205e2d929dc8ccdf1b0606825906ff 4 -
+/information 1 -
+/.env1 1 -
+/php-info 1 -
+/linusadmin-phpinfo.php 1 -
+/admin/internal/api 1 -
+/.git/objects/2d/e8cb0900835751e2ce56f27c8e7d1b484f4eb6 5 -
+/.git/objects/40/d4d27b48fe77126d354f52dce5d798353a61f0 5 -
+/p.php 1 -
+/dev 2 -
+/.git/objects/d8/e43f5d33d07437daa6c48429ffd72da3787480 5 -
+/.git/objects/4f/6ba0cc0cfd7088617cc020aeb53901c66ea879 4 -
+/.git/objects/f1/12c0c8286087ec4dacd69a81a6b25895d59347 5 -
+/controller/api/post.js 1 -
+/config.yaml 1 -
+/.AWS_/credentials 2 -
+/php_info.php 1 -
+/.git/objects/c0/8bcdec9cc5a1c2ac53904c332eb4b9a2fd611b 4 -
+/.git/objects/cb/fbeea9c2d1314e97598e8f3d37f0dc49232a2f 5 -
+/.git/objects/e8/0f82f4ca5ff14e18afd5ac2d0d25be19ae5423 5 -
+/.git/objects/21/ea234062b99731273d02cf7dbb46fa8423b250 4 -
+/sendgrid.env 1 -
+/security.txt 2 -
+/api/shared/config/config.env 2 -
+/.git/objects/3c/bf59b790c57c168f7343d2052b8c21d27ed322 5 -
+/controllers/settings.js 1 -
+/wordpress 2 -
+/.git/objects/a7/f9747903b58bea8474a2d6c96b5ddfde79c8f3 3 -
+/old 2 -
+/.git/objects/c4/a633d69e52581a772d747c8561f64fedc37b2a 4 -
+/about-us.php 1 -
+/admin/infophp.php 1 -
+/.git/objects/19/e5dfb1f1e4bec74cca7870c36bc6eea16dc7be 4 -
+/blog 2 -
+/.git/objects/93/6552b5f7d40c3be1d8fdf0aa5e6784270fc312 5 -
+/auth/bigquery 1 -
+/info.php 1 -
+/testphpinfo 1 -
+/.git/objects/b3/2d7b7fc00f567170957afbba694e59b4d9e5ea 4 -
+/.git/objects/3a/ec5e27e5db801fa9e321c0a97acbb49e10908f 5 -
+/.git/objects/51/c552cdf23f658d43bc10162f0b774cd311fd8b 5 -
+/.git/objects/7a/56b97aba586fb7090168f6196cfd5b98c6f148 5 -
+/.envs 1 -
+/user/config/config.js 1 -
+/.git/objects/e1/a99a65bbf8ef9e97026db44ee3a2c2f05a3b7d 5 -
+/.git/objects/2c/d6d572e8082d657f088a7dcfd992624b0e80ba 5 -
+/stresso-lite.php 1 -
+/.git/objects/fe/1928131386c6611e1b63b6d5c4356aea4ac978 4 -
+/config/constants.js 1 -
+/secrets.yml 1 -
+/marketing/.env.production 1 -
+/.git/objects/24/e0cdaf3ce48f61673654cd4c827675cf511454 4 -
+/wp-config.dist 1 -
+/google-cloud-sdk/lib/googlecloudsdk/gcloud.pyo 1 -
+/.git/objects/eb/0cf88431e79e282763a4bffca979477cc8880e 4 -
+/api/shared/config.env 2 -
+/.git/objects/fb/e016681778486bc4797bed209a8b59aa50f6f9 2 -
+/.well-known/security.txt 1 -
+/server/.env.local 1 -
+/.git/objects/eb/d5499d207d5da565d221e26bee93db3ebf79a9 3 -
+/config/sendgrid.php 1 -
+/.git/objects/b2/1d76073da43ea986ecf0e07982a2452ca4f4af 3 -
+/my_env/chakaash.py 2 -
+/.git/objects/c8/5f0cedd2bbed213949b26a147b93417a7556bb 2 -
+/.git/objects/9e/b8c06fcf4ed512eae2df2488ffd9c2e54116ab 4 -
+/logs/aws/ses.log 1 -
+/.git/objects/5c/d47d7fe1ede6fb8a71ef1c51308a1103892609 5 -
+/.git/objects/64/09b9b9fc24a50cd6435ba7aede9ae2e591ef2a 5 -
+/app/config.yml 1 -
+/.git/objects/44/83f3bd4238556f432bd3b9e4f5bf41f21dc278 4 -
+/.git/objects/8a/c41499a214e56a7470b0996bb3ae37aecf4c61 4 -
+/aws.yml 2 -
+/wp-config.b 1 -
+/main 2 -
+/.git/objects/dc/7440bbe40465631f05e542d5799fe9f758d003 3 -
+/admin/proxy 1 -
+/app.js 1 -
+/.git/objects/97/c651706d896c2f4a11bc8c20ec7c41ec5f991c 5 -
+/server/s3.js 1 -
+/wiki 1 -
+/test 2 -
+/aws/credentials 2 -
+/.aws/config 1 -
+/wp-config 1 -
+/.git/objects/05/9d25d01247e29a973715d53afa5dbb96c37485 3 -
+/karma.conf.json 1 -
+/info2.php 1 -
+/.git/objects/a9/065da92dd1ae1145fda20dcb97bf50ce1546fa 3 -
+/.git/objects/49/a71909565d8572e9d915c039b0fab49d0f4a1a 5 -
+/.git/hooks/pre-push 1 -
+/xampp/info.php 1 -
+/.git/objects/c5/597192cca183249336f55b18d33497eab3d38d 4 -
+/.git/objects/13/db7172f18b88926954fe9bdae6e4f8ed2ae18e 5 -
+/new 2 -
+/src/main/resources/logback.xml 1 -
+/demo 2 -
+/wp-admin/setup-config.php 3 -
+/.env.mail_keys 1 -
+/opt/aws/ses.env 1 -
+/.git/objects/8f/0de65c560259bd171d746d12aa187f666893a3 5 -
+/.gitkeep 1 -
+/server/config/database.js 1 -
+/new/.env.production 1 -
+/.git/objects/32/03056a0cff0b03badaeec4a5d005b8de4154b5 4 -
+/.git/objects/1f/d6cf1680d44d930859bda34109507ff19329e9 5 -
+/.git/objects/eb/0536286f3081c6c0646817037faf5446e3547d 5 -
+/.git/objects/8f/660a099ae74d4be4c0c41b0155ba55f0f1d313 5 -
+/.env.test 1 -
+/.git/objects/23/d0bc4561d3f1801dc0d67081c50f608f1eb99b 4 -
+/.git/objects/aa/c8e75d07107d0303f25870bbef98c6281fcba5 4 -
+/.env_mail 1 -
+/.env.mail_settings.local 1 -
+/appsettings.json 1 -
+/secrets/aws_ses.env 1 -
+/wp-config.cache 1 -
+/testing 2 -
+/.git/objects/f9/2051264c21251393e98262b0b2d744ee132eb4 3 -
+/.git/objects/c3/d85a899081d17e1bbe8002bc238c8554816f5b 5 -
+/.env.stage 2 -
+/.git/objects/df/34cc18b6ab7e39a59c8a12fc149183c2d532b3 5 -
+/new/.env.staging 2 -
+/.git/logs/refs/heads/master 1 -
+/.git/objects/e8/28ad8189ee7c270c24be93f2eb73d833c0da87 5 -
+/configs/routes-4aug.js 1 -
+/.env.dev 1 -
+/.git/objects/97/b1e71abfc95f121498958c0e9f5fc6dcec6fa4 3 -
+/newsite 2 -
+/.travis.yml 2 -
+/backend/config/development.yml 2 -
+/.env.bak1 1 -
+/.git/objects/67/a3329b183e042b14516122b5d470bc337a5a90 5 -
+/config.env 1 -
+/.git/objects/06/b4642b7466d119b80e60ab195e777eac58a18d 4 -
+/backup 2 -
+/settings.py 1 -
+/.git/objects/5b/4282076ea6859e110250a96f630a7715e1b728 3 -
+/var/log/cloud-init-output.log 1 -
+/.git/objects/94/d95ce5e57ef89e1efff523772f9b38ae44b221 5 -
+/.git/objects/8f/5c77393911e53671f39049f85720f06c468008 5 -
+/marketing/.env.staging 1 -
+/.env.smtp_access 1 -
+/.git/objects/20/7cc552f4a5f183e4cbe0bad52d55d17fecd38e 4 -
+/.git/objects/81/a7229b085acceacba99220d098fd156abc4eb4 5 -
+/.git/objects/d2/45abecf51be2e7727e8cda162fc4feea9e4540 5 -
+/.env.save 1 -
+/.git/objects/9d/cc003df484d2ac0bc0ea67d87cb75cb6e23cc7 4 -
+/wp-config.cust 1 -
+/.git/objects/77/4aba43cfa127ee3e67ddb41f98be3f00fb5559 5 -
+/.env.config 1 -
+/.git/objects/3e/df52ecdef28d7ba11f47f8f15b92b04a47f0d1 3 -
+/root/infophp 1 -
+/.git/objects/5b/307ff1e885b07c8e2e802b70799148dc4e9a8a 5 -
+/.git/objects/ff/af93e1032b5235bb6632ab5d9089a0d48229cd 3 -
+/.git/objects/12/ac1b7ff39162ce07d95275c45e230cb7d7fc1a 4 -
+/.git/objects/0b/811ba6011af552e67dfcaf2cff1205070dfc7e 4 -
+/dev.php 1 -
+/.git/objects/33/02ea85fb896ac438112d1242b6f3cd52902856 3 -
+/.aws/credentials 4 -
+/api/config.js 1 -
+/.git/objects/5d/ebb19da6c461d1ed36fc0b56c5693d1d27f8f5 5 -
+/.git/objects/f2/55b514e661cc9e2b737139641df98943d8171f 4 -
+/.env.production 2 -
+/.git/objects/9e/96d3836d15a15a624de135a86ffe1bcdcd5062 4 -
+/.git/objects/fc/b21d396d657f597ef8b6729f73d89b0a871c9b 5 -
+/.env.txt 1 -
+/config/application.yml 2 -
+/.env_mail_server 1 -
+/static/js/main.e85f7a37.js 1 -
+/.git/objects/f6/4fdc26a7feac07719dc58038623cb740fa0bee 5 -
+/site 2 -
+/.git/objects/96/4f23582904aa8fffe4ac189671b6254ea5ee6c 4 -
+/api/v1/proxy 1 -
+/.git/objects/77/f2b6870f9700e30ae948d39a837ea49213e531 5 -
+/.git/objects/a9/1eb2daf86c297c9005cc2a1cc0927b6646b701 3 -
+/.git/objects/24/9da8171acd0816601ccb095c3320393e66dea6 5 -
+/.git/objects/9a/23af756d4b957684f45e788e4e09045b99e506 5 -
+/phpinfo/php-details.php 1 -
+/api/objects/codes.php.save 1 -
+/api/proxy 1 -
+/.git/objects/1f/3872c9ceb2adb8566c9ec3e14055a4e166d973 5 -
+/.env.ini 1 -
+/.git/objects/d6/b7ef32c8478a48c3994dcadc86837f4371184d 20 -
+/.git/objects/62/6fcddab54de006d38b0d7bbc48973d17c7fa5a 5 -
+/.git/objects/3a/5270a0e363bdbdebfaf2845e5d09c3d16afa5b 3 -
+/phpinfo2.php 1 -
+/.git/objects/59/067dd7b522c1f75e58bcbc72be91696f9cad92 5 -
+/product/.env.production 1 -
+/latest/meta-data 1 -
+/.git/objects/8f/92e6104687d0b31b0308490cb85c41ae0290e8 5 -
+/tools/phpinfo.php 1 -
+/.git/objects/ba/f95faa45ea643e865c90dc2bd9e691a94eb006 5 -
+/developer.php 1 -
+//service/phpinfo.php 1 -
+/.git/objects/2a/d85250c4e9615795a38f3d6677066382e9d2f7 5 -
+/.git/objects/b4/7f5bb45486596485a24db51302fe031f239b99 4 -
+/config/settings.prod 1 -
+/.git/objects/5d/451e1fae88c81c097aa55de6ff039a3cc0a1c3 4 -
+/.circleci/configs/development.yml 2 -
+/phpinfo 2 -
+/.git/objects/57/fbe36689cfc024b8eddc44c324c5a5f8243a95 4 -
+/.git/refs/stash 1 -
+/.env.smtp.local 1 -
+/.gitmodules 1 -
+/docker-compose.yml 1 -
+/cms 2 -
+/.env.development 1 -
+/config.yml 1 -
+/.git/objects/cb/6f1c703f6d1d5dffab59e2a3885ce800da03b9 4 -
+/mytest/astech_robot.js 1 -
+/controller/admin/post.js 1 -
+/.env_mail_login 1 -
+/km-nutonic.php 1 -
+/backend/config/settings.yml 1 -
+/crm/.env.production 1 -
+/bin 2 -
+/.git/objects/63/7bcc3e59c248e63e330ba254b25e0139ccd8da 2 -
+/admin/server_info.php 1 -
+/portal 2 -
+/live_env 2 -
+/cloud/Scraper.js 1 -
+/shared/config/config.js 1 -
+/.git/objects/2a/075a58597c4c86a3ada670c4987563cf53227a 4 -
+/phpinfo.php3 1 -
+/helpers/utility.js 1 -
+/.git/objects/42/1b5695627db43c022947cfc7c0ecce6b9689be 5 -
+/.git/objects/cf/b21b0620cfcbba35c25e34fb6c55fc61e96bee 4 -
+/user/.env.staging 1 -
+/main.js 1 -
+/.git/objects/8f/4803c05638697d84ea28d40693324ec70f7990 4 -
+/.git/objects/d5/a68396c81e446407f070c2503b7353e0725609 5 -
+/lara/info.php 1 -
+/.git/objects/7f/e978f8510cbb72cf464557b00a8e72a5ce8446 5 -
+/robots.txt 1 -
+/test_info.php 1 -
+/phpinfo.php 1 -
+/static/js/2.ca066a4b.chunk.js 1 -
+/latest/user-data 1 -
+/wp-config.stage 1 -
+/.git/objects/e5/10df7efebdefdd91265ad918b673abf48d262d 5 -
+/.git/objects/ee/f13116e9ec1d68da4221d4967fc4e5fa06bcc3 5 -
+/.git/objects/f5/56ab0e21f245e6f901cf0268ddc295a8360a3f 2 -
+/.git/objects/17/faaeb6f9405f309f7df0ba45905e16a30dbf8e 5 -
+/config/config.json 1 -
+/.env.sample 1 -
+/config/env 1 -
+/wordpress/wp-admin/setup-config.php 1 -
+/test.php 1 -
+//server/phpinfo.php 1 -
+/blog.env 1 -
+/.git/objects/1d/3241b7b7f312a8cf82674ba2e1a095c670953e 5 -
+/info1.php 1 -
+/.git/objects/eb/1cf1a3f425f54bfb6980069fe808b214ad8d50 4 -
+/debug/default/view 2 -
+/config/aws.yml 1 -
+/_profiler/phpinfo/phpinfo.php 1 -
+/admin/.env 1 -
+/.git/objects/81/edc683ddfc819f666d68c6b5b28cdc8c084697 5 -
+/config/secrets.json 1 -
+/.git/objects/50/baa5e568df5577d90c22d6b7dd2250c09a4861 3 -
+/app_dev.php/_profiler/phpinfo 1 -
+/configs/s3_config.json 1 -
+/.git/objects/a8/b62ad601ab90457aed24fd319b0d21f5dba338 5 -
+/dep.php 1 -
+/sms.py 1 -
+/admin/config 3 -
+/api/config.env 2 -
+/api/v2/proxy 1 -
+/.git/objects/7b/600d1a938c3a1018d995f754042ec0292cce33 4 -
+/.git/objects/3d/66664a0f9231e39ed53dc138c6dcab01428794 4 -
+/.git/objects/7f/c2ff2cf2376419111945fdfa79ec87fb42e8eb 4 -
+/js/main.js 1 -
+/.git/objects/fb/55b4a82f8ad8c0fb0e521b61d9bad7c587931c 5 -
+/vit-premix-b.php 1 -
+/.git/objects/1e/b321407f7f05126d4bc680692d0a33249b1e11 5 -
+/.env.smtp_login 1 -
+/wp-content/themes/twentyfourteen/archive.php 1 -
+/.git/objects/87/7c6f90a5d9e2d8457a2e812052d644fc5fff9a 5 -
+/.git/objects/5a/d84bd86458b5bbc26ec7107c8d2cba67014d15 5 -
+/.env.production.local 2 -
+/test_phpinfo3.php 1 -
+/.git/objects/54/3e6110c16d79e72f6537f4bed7985b0e284ebd 5 -
+/.git/objects/0b/cf8e0bbe127991d37954a9b7f9a063d06d4143 5 -
+/tmp 2 -
+/.git/objects/5e/9a90b1519387efcddf52aa062b27da7354c5f6 4 -
+/.git/objects/69/a8fb06d3a7a7e7b0b7d5d793602f94aaca6cbd 5 -
+/application.properties 2 -
+/.git/objects/01/e4a6cda9eb380973b23a40d562bca8a3a198b4 3 -
+/admin/controllers/merchant.js 1 -
+/_profiler/phpinfo/info.php 1 -
+/config/parameters.yml 2 -
+/.git/objects/7c/532304f7efff9fff832b8e6f609298254a46bc 4 -
+/config/settings.local 1 -
+/.git/objects/0e/6480f26a3708db4b182fc7b53651880b5e8b81 5 -
+/.git/objects/f2/85550aaef0db2976d61ba6f45891aaff4b8854 3 -
+/wp-config.production 1 -
+/.git/objects/15/882ffd6dfc637ce59d87a56f27a1616b0ada11 5 -
+/swagger.json 1 -
+/.git/objects/f0/52a2f5d3e3e5e8666406560a7cb8020ee4e72c 4 -
+/computeMetadata/v1 1 -
+/my_env/palash.py 2 -
+/src/main/resources/application-dev.yml 1 -
+/.git/objects/93/96c3c9b3b5e60f4f616ea03411fef1303f2c22 3 -
+/.sendgrid/config 1 -
+/.git/objects/aa/f61d8163db2a76b3865afbb0fb8042e185d3d3 4 -
+/service/email_service.py 1 -
+/dashboard/admin/phpinfo.php 1 -
+/.git/objects/39/012b3f72ee5ddffd68d6dc0055abaab5a4faa9 4 -
+/admin/controllers/partner.js 1 -
+/.git/objects/d8/2074bd780de3528f5f4abbc813fd302753cf0c 4 -
+/backend/config/default.yml 1 -
+/wp-config.phpd 1 -
+/.env_mail_admin 1 -
+/scripts/nodemailer.js 1 -
+/.git/objects/63/8ec96066aa83821c4b7dfd5be4a0bec922a6a2 3 -
+/qa/.env.staging 1 -
+/.git/objects/e1/e05648e00b4f3402e49ff70023dba40205aa9c 2 -
+/.git/objects/77/ec359ab4de60f6dd2205cbc5b2aab373d8a185 4 -
+/.git/objects/8a/5aea709cb9dd16dbe1ade7d20ff0b1d8574981 3 -
+/redis-*.conf 1 -
+/partner/config/config.js 1 -
+/lara/phpinfo.php 1 -
+/.env.smtp_server 1 -
+/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391 5 -
+/wp 2 -
+/.git/objects/05/c4471f2b53fc17d3cac9d3d252755a35479f7c 4 -
+/swagger.js 1 -
+/config.json 1 -
+/.git/objects/aa/7eb77aefb69756a23abe23e9908cdbca485b62 5 -
+/.git/objects/e0/5f4c9a1b27a35c20ac897b44dfb7a9238ff9b7 4 -
+/config/storage.yml 1 -
+/.git/objects/88/9937e11a55065725869401d22252f888029c2f 4 -
+/my_env/newsletter.py 1 -
+/product/.env.staging 1 -
+/home 2 -
+/.git/hooks/post-commit 1 -
+/phpinfo3.php 1 -
+/new/.env.local 1 -
+/.envs/.production/.django 1 -
+/.git/objects/cb/a410e5b37ed4d7d363f6a45d160e454bea4815 4 -
+/.git/objects/58/53846c20771767dbdde0229933d8cfa0b4d55c 5 -
+//current/phpinfo.php 1 -
+/user/controllers/index.js 1 -
+/node/.env_example 2 -
+/.git/objects/22/038879d1df33a7a47e8c29fc54201f40c42bf9 5 -
+/wp-admin/install.php 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 35
+185.177.72.106 13 13 142615 20250710233831
+213.136.81.138 4 4 84 20250705013037
+143.198.193.186 3 3 106527 20250714160241
+54.197.39.101 3 3 106527 20250722124006
+143.244.57.123 3 3 106527 20250705083440
+45.94.31.13 3 3 106527 20250728092531
+119.18.54.35 2 2 128 20250721162544
+185.177.72.115 2 3 3381996 20250727123207
+18.236.104.120 2 2 614 20250724215012
+95.214.55.211 2 2 2240 20250706212213
+23.178.112.104 1 1 87 20250721162549
+185.177.72.111 1 1 307 20250725151554
+104.236.248.76 1 1 7174 20250723175748
+46.8.225.111 1 1 7164 20250718004310
+209.38.215.139 1 1 7174 20250711150301
+34.220.33.193 1 1 87 20250721162550
+199.45.155.81 1 2 27659 20250721100448
+3.22.104.232 1 1 7164 20250715100522
+45.82.78.254 1 1 7164 20250714003925
+209.38.122.51 1 1 7164 20250729073556
+170.39.218.50 1 1 7164 20250725044833
+185.247.137.134 1 1 7164 20250729205906
+206.168.34.47 1 2 27669 20250703095351
+209.38.192.139 1 1 7174 20250725092923
+167.94.145.96 1 2 27669 20250701052440
+199.45.155.99 1 2 27659 20250707123206
+167.94.138.165 1 2 27669 20250701033031
+51.20.249.200 1 1 87 20250721162550
+87.236.176.213 1 1 7174 20250709072651
+167.172.40.180 1 1 7164 20250701154328
+146.190.234.139 1 1 7174 20250725185728
+165.22.209.234 1 1 7164 20250715120255
+18.224.192.118 1 1 7164 20250710201832
+18.117.254.246 1 1 87 20250721162550
+18.136.212.230 1 1 87 20250721162549
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20250701 3 5 62502 3
+20250703 1 2 27669 1
+20250705 7 7 106611 2
+20250706 2 2 2240 2
+20250707 1 2 27659 1
+20250709 1 1 7174 1
+20250710 14 14 149779 2
+20250711 1 1 7174 1
+20250714 4 4 113691 2
+20250715 2 2 14328 2
+20250718 1 1 7164 1
+20250721 8 9 28222 7
+20250722 3 3 106527 1
+20250723 1 1 7174 1
+20250724 2 2 614 2
+20250725 4 4 21819 4
+20250727 2 3 3381996 1
+20250728 3 3 106527 1
+20250729 2 2 14328 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 36
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/ 32 569478 23 24
+/.well-known/acme-challenge/JQmLvszWCXxUaJt1kA4cZ0srPyY4m345e_fp_vTEkUQ 5 435 5 5
+/.git/HEAD 5 105 1 1
+/.git/config 4 1228 3 3
+/.env.example 4 4480 3 2
+/.gitignore 1 243 0 1
+/.git/logs/refs/remotes/origin/HEAD 1 198 0 0
+/.git/info/exclude 1 240 0 0
+/.git/logs/HEAD 1 1148 1 0
+/.well-known/acme-challenge/11_08XUH0K3TVJQGL23IOLGG7O_00Q0H 1 64 1 0
+/.git/COMMIT_EDITMSG 1 15 0 0
+/.git/FETCH_HEAD 1 105 0 0
+/.git/index 1 131721 0 0
+/.git/packed-refs 1 112 0 0
+/.gitattributes 1 186 0 0
+/index.php 1 7199 0 0
+/.well-known/acme-challenge/-22X89H0__IJ7HC6U5A2XAZFUADQP0_E 1 64 0 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+0-44 21
+1K-2K 35
+100-500 396
+500-1K 27
+44-100 79
+5K+ 106
+2K-5K 1077
+END_FILESIZE

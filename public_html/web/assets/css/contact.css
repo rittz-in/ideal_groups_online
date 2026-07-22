@@ -1,0 +1,12 @@
+.frameMap{
+	width: 100%;
+}
+
+.alert-success
+{
+	background-color: #C03D29 !important;
+}
+.alert-label
+{
+	color:#fff !important;	
+}

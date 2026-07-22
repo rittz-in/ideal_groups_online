@@ -1,0 +1,600 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202601 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2093                
+POS_TIME 2775                
+POS_VISITOR 12282               
+POS_DAY 16034               
+POS_DOMAIN 3552                
+POS_LOGIN 4000                
+POS_ROBOT 4155                
+POS_WORMS 4327                
+POS_EMAILSENDER 4458                
+POS_EMAILRECEIVER 4601                
+POS_SESSION 16714               
+POS_FILESIZE 17121               
+POS_REQUESTTIME 17268               
+POS_SIDER 16903               
+POS_FILETYPES 4736                
+POS_DOWNLOADS 4861                
+POS_OS 4949                
+POS_BROWSER 5272                
+POS_SCREENSIZE 6096                
+POS_UNKNOWNREFERER 6170                
+POS_UNKNOWNREFERERBROWSER 6644                
+POS_ORIGIN 6882                
+POS_SEREFERRALS 7016                
+POS_PAGEREFS 7160                
+POS_SEARCHWORDS 7308                
+POS_KEYWORDS 7460                
+POS_MISC 2439                
+POS_ERRORS 7519                
+POS_CLUSTER 3856                
+POS_SIDER_404 7697                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260201020532 153 19789 10853948728988
+FirstTime 20260101054314
+LastTime 20260131091216
+LastUpdate 20260201191447 153 0 152 0 0
+TotalVisits 125                 
+TotalUnique 95                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 95                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 11 29602 56 57 11406
+1 15 15 45086 635 638 190423
+2 1 1 1041 475 479 130785
+3 12 12 31870 291 291 143889
+4 2 2 4347 38 39 10949
+5 5 5 12001 32 33 17857
+6 7 7 20899 43 47 12121
+7 12 12 37433 202 204 26287
+8 1 1 1049 9 12 4248
+9 13 13 26519 119 128 190566
+10 6 6 6136 13 13 16215
+11 11 11 18151 44 45 45497
+12 12 12 37438 254 254 103889
+13 10 10 17106 35 43 38557
+14 14 14 21289 111 111 55328
+15 7 7 16364 24 29 21420
+16 12 12 32899 227 229 33610
+17 11 11 31863 204 204 416218
+18 16 16 36968 72 73 31112
+19 13 13 31563 54 54 23687
+20 9 9 20732 36 37 29843
+21 22 22 56827 112 116 52832
+22 6 6 12867 337 339 44117
+23 23 26 221907695 325 342 5097144
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+us 179 179 478468
+in 15 18 221897429
+gb 13 13 20110
+ru 11 11 12070
+jp 9 9 9148
+gr 4 4 13232
+se 4 4 3781
+nl 3 3 3141
+lt 2 2 2090
+af 2 2 6616
+au 2 2 2083
+bg 1 1 1040
+br 1 1 1049
+be 1 1 1039
+dk 1 1 1045
+ca 1 1 3308
+fr 1 1 1045
+de 1 1 1051
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 18 59568 20260130034213 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+html 217 559755 0 0
+log 3 221859840 0 0
+Unknown 34 38150 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/storage/logs/laravel.log 3 0 221859840
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+macosx10 2 2
+win7 10 7
+macosx15 8 8
+linuxubuntu 3 3
+win8 3 3
+win8.1 3 3
+macosx 5 5
+androidnougat 1 1
+macosx12 1 1
+ios_ipad 11 11
+winnt 1 1
+android 2 2
+win10 164 164
+android13 5 5
+ios_iphone 9 9
+androidcupcake 1 1
+win11 1 1
+linux 9 9
+winxp 1 1
+Unknown 14 14
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 41
+safari 3 3
+chrome139.0.0.0 1 1
+firefox115 2 2
+chrome78.0.3904.108 7 7
+safari26.0 2 2
+chrome95.0.4638.69 2 2
+firefox122.0 4 4
+msie9.0 3 3
+msie11.0 1 1
+netscape5.0 33 33
+firefox142.0 3 3
+chrome109.0.0.0 1 1
+firefox51.0 1 1
+chrome116.0 3 3
+chrome120.0.0.0 2 2
+chrome52.0.2768.93 1 1
+chrome56.0.2925.8 1 1
+chrome137.0.0.0 1 1
+android 1 1
+chrome126.0.0.0 3 3
+Unknown 1 1
+chrome91.0.4472.124 1 1
+firefox123 2 2
+firefox46.0 1 1
+chrome80.0.3987.149 129 129
+chrome58.0.3029.110 3 3
+chrome138.0.0.0 1 1
+firefox117.0 7 7
+firefox47.0 10 7
+chrome56.0.2926.57 1 1
+msie8.0 1 1
+chrome100.0.4896.60 1 1
+chrome49.0.2630.36 1 1
+mozilla 12 12
+chrome43.0.2357.134 1 1
+chrome93.0.4577.63 2 2
+chrome121.0.0.0 1 1
+chrome52.0.2752.93 1 1
+chrome60.0.3112.107 1 1
+firefox50.0 1 1
+chrome131.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(CMS-Filter/py3) 20260106131120
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260130235400
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260123145034
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260113155812
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260113155812
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 251 254
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+409 2070 171478
+500 1 381520
+301 459 120264
+406 948 211536
+404 281 1227079
+403 26 11738
+405 5 4564817
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 134
+/.git/config 8 -
+/config/constants.js 1 -
+/asset/jquery-file-upload/server/php 1 -
+/config.js 1 -
+//contact 1 -
+/node/.env_example 1 -
+/assets/plugins/jquery-file-upload 1 -
+/wp-includes/PHPMailer 3 -
+/_profiler/phpinfo 4 -
+/new/.env.staging 1 -
+/assets/global/plugins/jquery-file-upload/server/php 1 -
+/shared/config/config.js 1 -
+/.vscode/sftp.json 1 -
+/assets/assets/jquery-file-upload/server/php 1 -
+/assets/jquery-file-upload 1 -
+/livewire/update 5 http://digicard.idealgroups.org/
+/settings.py 1 -
+/config.env 1 -
+/service/email_service.py 1 -
+/test.php 1 http://digicard.idealgroups.org/.env
+/phpinfo.php 1 http://digicard.idealgroups.org/.env
+/public/livewire/update 5 http://digicard.idealgroups.org/livewire/update
+/aws-secret.yaml 1 -
+/info.php 1 http://digicard.idealgroups.org/.env
+/main/user/assets/jquery-file-upload/server/php 1 -
+/appsettings.json 3 -
+/WordPress/x 1 -
+/swagger.json 2 -
+/.env.staging 1 -
+/.env.production.local 1 -
+/.env.prod 3 -
+/config/env/production/database.js 1 -
+/.env.local 3 -
+/wp-admin 13 -
+/static/js/main.e85f7a37.js 1 -
+/assets/jquery-file-upload/server/php 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 3 -
+/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif 2 http://www.digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif
+/.trash7309/dd 1 -
+/images/fk2e3 1 -
+/server.js 3 -
+/.env.development 2 -
+/wp-includes/blocks/code 3 -
+/wp-includes/blocks 1 -
+/.env.save 2 -
+/wp-includes/ID3 2 -
+/public/js/main.js 1 -
+/.git-credentials 2 -
+/_debugbar/phpinfo 1 -
+/wp-json 2 https://www.google.com
+/wp-admin/maint 1 -
+/jquery-file-upload/server/php 1 -
+/public/plugins/ckeditor/images/spacer.gif 2 http://www.digicard.idealgroups.org/public/plugins/ckeditor/images/spacer.gif
+/secrets.json 1 -
+/readme.html 2 -
+/config.json 4 -
+/settings.json 1 -
+/vendor/livewire/livewire.js 4 http://digicard.idealgroups.org/livewire/livewire.js
+/swagger.js 1 -
+/js/main.js 1 -
+/user/login 8 -
+/administrator 7 http://digicard.idealgroups.org/administrator/
+/.env.production 2 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/server/config/database.js 1 -
+/wp-admin/css 14 binance.com
+/wp-includes/css 1 -
+/api/shared/config.env 1 -
+/jquery-file-upload 1 -
+/wp-admin/network 1 -
+/info 2 -
+/vendor/livewire/livewire.min.js 4 http://digicard.idealgroups.org/livewire/livewire.min.js
+/.bzr/branch/format 1 -
+/api/swagger.json 1 -
+/application.properties 1 -
+/test 1 -
+/admin/uploads/bn_1_1754420677.phtml 1 -
+/userfuns.php 2 www.google.com
+/.aws/credentials 6 -
+/.git/HEAD 1 -
+/wp-includes/ID3/license.txt 2 -
+/admin/.env 1 -
+/.env_sample 1 -
+/config/aws.yml 1 -
+/scripts/nodemailer.js 1 -
+/admin/assets/js/jquery-file-upload 1 -
+/assets/plugins/jquery-file-upload/server/php 1 -
+/wp-config 3 -
+/phpinfo 5 -
+/admin/jquery-file-upload 1 -
+/admin 19 -
+/.trash7309/f 1 -
+/main.js 1 -
+/asset/plugins/jquery-file-upload/server/php 1 -
+/x 4 -
+/php.php 1 http://digicard.idealgroups.org/.env
+/livewire/livewire.min.js 4 http://digicard.idealgroups.org/vendor/livewire/livewire.js
+/admin/tinymce/plugins/jquery-file-upload 1 -
+/backend/config/default.yml 1 -
+/static/js/2.ca066a4b.chunk.js 1 -
+/1.php 1 http://digicard.idealgroups.org/.env
+/.env.deploy 1 -
+/.env.stage 1 -
+/new/.env.local 1 -
+/karma.conf.json 1 -
+/wp-login 3 -
+/assets/js/jquery-file-upload 1 -
+/gatsby-config.js 1 -
+/wp-includes/js/dist 3 -
+/assets/administrator/jquery-file-upload 1 -
+/wp-includes/SimplePie 3 -
+/api/config.env 1 -
+/sftp-config.json 1 -
+/livewire/livewire.js 4 http://digicard.idealgroups.org/
+/.gitconfig 1 -
+/new/.env.production 2 -
+/wp-includes/block-patterns 1 -
+/p.php 1 http://digicard.idealgroups.org/.env
+/uploads/94056-upload.phtml 1 -
+/wp-json/wc/v3 1 -
+/assets/admin/js/jquery-file-upload 1 -
+/js/jquery-file-upload 1 -
+/wp-content 6 -
+/assets/admin/jquery-file-upload 1 -
+/credentials.json 2 -
+/static/js/main.141b0494.js 1 -
+/application.yml 2 -
+/i.php 1 http://digicard.idealgroups.org/.env
+/wordpress/wp-admin/includes 2 -
+/phpi.php 1 http://digicard.idealgroups.org/.env
+/config/secrets.env 2 -
+/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif 2 http://www.digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif
+/.trash7309/fafa 1 -
+/api/shared/config/config.env 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 95
+165.232.128.159 12 12 39696 20260112110937
+164.92.69.83 9 9 29772 20260105164927
+164.92.87.254 9 9 29772 20260112073130
+35.160.184.126 9 9 29772 20260110011845
+143.198.50.117 8 8 26464 20260112165340
+213.35.103.47 8 8 8101 20260116111731
+152.69.210.5 8 8 8097 20260121145029
+45.148.10.160 7 10 221879596 20260124232413
+18.237.255.221 7 7 23156 20260111003249
+64.227.106.107 6 6 19848 20260126091315
+137.184.118.176 6 6 19848 20260105210051
+64.23.243.181 6 6 19848 20260104203337
+137.184.122.11 6 6 19848 20260113172111
+164.92.95.132 6 6 19848 20260116015418
+161.118.211.239 5 5 5091 20260120194221
+209.38.64.188 5 5 16540 20260113123228
+129.150.51.252 4 4 4055 20260115131756
+161.118.217.181 4 4 4057 20260107183854
+178.128.117.111 4 4 13232 20260107122630
+45.148.10.158 3 3 3543 20260110091707
+64.227.101.50 3 3 9924 20260107063410
+146.190.135.219 3 3 9924 20260107093151
+146.190.123.231 3 3 9924 20260125073433
+129.212.190.111 3 3 9924 20260105131351
+198.186.131.170 3 3 3127 20260118114316
+109.252.161.240 1 1 1041 20260105172718
+143.198.235.91 2 2 2088 20260111031808
+162.142.125.223 1 1 1038 20260109054748
+138.197.122.146 1 1 1050 20260128193205
+199.45.155.71 1 1 1051 20260105202610
+100.48.162.207 1 1 1042 20260123204603
+121.127.34.151 2 2 6616 20260106045929
+44.196.29.182 1 1 1051 20260128210422
+213.35.97.64 1 1 1041 20260115184618
+157.230.145.245 3 3 9924 20260111224443
+51.250.7.56 1 1 1044 20260131091216
+93.158.90.72 1 1 840 20260122235919
+152.233.20.43 1 1 1049 20260109143713
+206.168.34.123 1 1 1041 20260116114459
+64.89.163.4 1 1 3308 20260119120135
+89.188.178.88 1 1 1041 20260126213130
+185.177.72.67 1 1 0 20260112092707
+87.236.176.199 1 1 1039 20260105113514
+159.195.86.98 1 1 1045 20260106131120
+52.12.169.240 2 2 6616 20260112005850
+100.52.3.146 1 1 1051 20260118034101
+137.184.189.149 1 1 1054 20260114181922
+54.186.55.79 2 2 6616 20260101075518
+206.168.34.50 1 1 1052 20260127150549
+136.144.19.95 1 1 3308 20260107234155
+91.224.92.126 2 2 2090 20260127213459
+104.28.212.129 1 1 1052 20260124140913
+143.110.142.179 3 3 9924 20260112072711
+185.177.72.65 2 2 3316 20260114035504
+185.247.137.243 1 1 1048 20260123145034
+136.144.19.212 1 1 3308 20260107015604
+167.172.119.67 3 3 9924 20260101054317
+143.198.147.48 3 3 9924 20260111182707
+194.110.207.198 1 1 1045 20260102075703
+64.227.118.108 1 1 1040 20260110145141
+165.22.154.146 3 3 9924 20260112000417
+138.68.150.187 1 1 1040 20260124135521
+3.140.182.19 1 1 1041 20260109104842
+109.199.110.55 1 1 1040 20260129095432
+164.92.114.188 3 3 9924 20260109030800
+77.90.185.143 1 1 1051 20260104222947
+107.172.180.205 1 1 1051 20260107064429
+140.245.117.185 3 3 3019 20260123213304
+45.139.104.168 1 1 1050 20260104124804
+93.158.90.65 1 1 1049 20260122235917
+93.158.90.32 1 1 1050 20260101220452
+100.50.77.146 1 1 1040 20260104163057
+167.94.146.55 1 1 1039 20260102045558
+205.210.31.223 1 1 3308 20260113155812
+81.200.8.55 1 1 1041 20260112153326
+3.146.111.124 1 1 1044 20260104091256
+124.198.131.235 2 2 2083 20260113144241
+5.188.9.110 1 1 1040 20260112233434
+45.148.10.63 1 1 3316 20260110031005
+206.168.34.119 1 1 1044 20260123183911
+45.149.173.209 3 3 9924 20260129122731
+3.20.201.240 1 1 1041 20260122015433
+199.45.155.88 1 1 1047 20260113003339
+145.220.91.19 3 3 3141 20260120101614
+93.158.90.33 1 1 842 20260101220453
+64.227.108.102 3 3 9924 20260107035825
+34.177.100.148 2 2 2081 20260120164854
+66.132.153.129 1 1 1042 20260130235400
+100.25.198.201 1 1 1048 20260102163441
+185.177.72.69 3 3 3543 20260110233952
+162.142.125.124 1 1 1049 20260120083507
+143.198.108.189 3 3 9924 20260106010606
+167.94.138.37 1 1 1050 20260105114345
+198.186.130.10 3 3 3121 20260128153412
+104.168.28.15 1 1 1050 20260106202506
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20260101 8 8 21740 5
+20260102 3 3 3132 3
+20260103 6 6 19848 2
+20260104 14 14 34998 8
+20260105 14 14 34995 8
+20260106 8 8 17422 6
+20260107 20 20 54728 9
+20260109 12 12 32900 5
+20260110 18 18 44522 8
+20260111 32 32 92141 12
+20260112 20 20 58317 9
+20260113 16 16 46142 6
+20260114 4 4 3135 4
+20260115 10 10 10184 4
+20260116 11 11 24945 3
+20260118 2 2 2092 2
+20260119 1 1 3308 1
+20260120 7 7 7186 4
+20260121 4 4 4051 1
+20260122 3 3 2930 3
+20260123 8 8 8235 6
+20260124 9 12 221881688 3
+20260125 6 6 19848 2
+20260126 4 4 10965 2
+20260127 2 2 2103 2
+20260128 3 3 3140 3
+20260129 4 4 10964 2
+20260130 1 1 1042 1
+20260131 1 1 1044 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+2mn-5mn 1
+30mn-1h 1
+0s-30s 120
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 216 558703 119 111
+/login 20 25386 3 10
+/register 8 7412 0 1
+/password/reset 3 3829 2 2
+/.gitignore 2 454 0 0
+/.env.example 1 1069 0 0
+/public/ 1 1052 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+500-1K 27
+0-44 22
+2K-5K 318
+1K-2K 83
+100-500 1412
+5K+ 143
+44-100 2066
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

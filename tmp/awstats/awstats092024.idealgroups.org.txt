@@ -1,0 +1,370 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202409 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2685                
+POS_VISITOR 11166               
+POS_DAY 11649               
+POS_DOMAIN 3534                
+POS_LOGIN 3798                
+POS_ROBOT 3953                
+POS_WORMS 4085                
+POS_EMAILSENDER 4216                
+POS_EMAILRECEIVER 4359                
+POS_SESSION 11813               
+POS_SIDER 11959               
+POS_FILETYPES 4494                
+POS_DOWNLOADS 4593                
+POS_OS 4641                
+POS_BROWSER 4757                
+POS_SCREENSIZE 4901                
+POS_UNKNOWNREFERER 4975                
+POS_UNKNOWNREFERERBROWSER 5148                
+POS_ORIGIN 5230                
+POS_SEREFERRALS 5362                
+POS_PAGEREFS 5506                
+POS_SEARCHWORDS 5654                
+POS_KEYWORDS 5806                
+POS_MISC 2349                
+POS_ERRORS 5865                
+POS_CLUSTER 3654                
+POS_SIDER_404 6050                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20241001000000 1347 184161 7423455334252
+FirstTime 0
+LastTime 20240922103935
+LastUpdate 20241001184619 1347 0 1346 0 0
+TotalVisits 4                   
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 14                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 7 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 13734 13742 3451882
+1 0 0 0 37123 37242 9250912
+2 0 0 0 28871 28894 7084924
+3 0 0 0 24251 24267 6000912
+4 0 0 0 23471 23528 5884245
+5 1 1 4238 14371 14408 3590665
+6 8 9 73174 18243 18277 4577471
+7 0 0 0 22395 22477 5638316
+8 0 0 0 36208 36223 9113925
+9 2 2 15248 52982 53175 13349921
+10 1 3 81978 66466 66686 16716923
+11 0 2 77740 36143 36146 8891813
+12 0 1 38870 6474 6530 1617664
+13 0 0 0 48125 48186 12082067
+14 0 0 0 47740 47881 12002733
+15 0 0 0 10306 10315 2590229
+16 0 0 0 47355 47405 11806663
+17 0 0 0 54016 54073 13552923
+18 0 0 0 55870 55927 13942791
+19 0 0 0 21182 21270 5302110
+20 0 2 77740 31647 31769 7930821
+21 0 0 0 41930 41998 10510412
+22 0 2 77740 53890 54016 13630617
+23 0 0 0 4237 4265 1064338
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+nl 8 8 34304
+bg 2 2 15248
+jp 1 1 4238
+us 1 11 392938
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+png 10 388700 0 0
+cgi 12 58028 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+ios_iphone 1 1
+Unknown 10 0
+win10 3 3
+macosx15 8 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+safari14.0.3 8 8
+mozilla 10 0
+chrome90.0.4430.85 1 1
+safari13.0.3 1 1
+chrome80.0.3987.149 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240919124934
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 10 20
+From1 1 1
+From2 0 0
+From3 0 0
+From4 1 1
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+406 2194 495618
+404 672 387444
+302 2801 650010
+409 1120 91964
+403 937 162825
+400 5 2970
+301 790964 197792748
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 109
+/.well-known/pki-validation/link.php 1 -
+/.well-known/pki-validation/LA.php 3 -
+/.well-known/pki-validation/server.php 3 -
+/.well-known/pki-validation/update.php 1 -
+/.well-known/pki-validation/alfacgiapi/radio.php 1 -
+/.well-known/pki-validation/settings.php 3 -
+/.well-known/pki-validation/baja.php 2 -
+/.well-known/pki-validation/users.php 1 -
+/.well-known/pki-validation/cong.php 1 -
+/.well-known/pki-validation/delpaths.php 3 -
+/.well-known/pki-validation/class_api.php 1 -
+/.well-known/pki-validation/validation.php 3 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/404.php 1 -
+/.well-known/pki-validation/sclass_api.php 3 -
+/.well-known/pki-validation/radio.php 3 -
+/.well-known/pki-validation/install.php 29 -
+/.well-known/pki-validation/atomlib.php 3 -
+/.well-known/pki-validation/alfacgiapi/py.alfa 2 -
+/.well-known/pki-validation/wp-theme.php 3 -
+/.well-known/pki-validation/cache.php 1 -
+/.well-known/pki-validation/index.php 39 -
+/.well-known/pki-validation/license.php 1 -
+/.well-known/pki-validation/fai.php 1 -
+/.well-known/pki-validation/test.php 1 -
+/.well-known/pki-validation/rafosul.php 2 -
+/.well-known/pki-validation/fond.php 1 -
+/.well-known/pki-validation/alfacgiapi/404.php 1 -
+/.well-known/pki-validation/xm 1 -
+/.well-known/pki-validation/web.php 4 -
+/.well-known/pki-validation/cloud.php 45 -
+/.well-known/pki-validation/edit.php 1 -
+/.well-known/pki-validation/1.php 5 -
+/.well-known/pki-validation/mariju.php 20 -
+/.well-known/pki-validation/user.php 3 -
+/.well-known/pki-validation/cloud1.php 3 -
+/.well-known/pki-validation/alfacgiapi/bash.alfa 2 -
+/.well-known/pki-validation/ssl.php 3 -
+/.well-known/pki-validation/bypass.php 3 -
+/.well-known/pki-validation/gix.php 3 -
+/.well-known/pki-validation/red.php 1 -
+/.well-known/pki-validation/autoload_classmap.php 3 -
+/.well-known/pki-validation/luuf.php 1 -
+/.well-known/pki-validation/fex.php 1 -
+/.well-known/pki-validation/themes.php 3 -
+/.well-known/pki-validation/moon.php 6 -
+/.well-known/acme-challenge/file 13 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/.well-known/pki-validation/upfile.php 1 -
+/.well-known/pki-validation/admin1.php 3 -
+/.well-known/pki-validation/top.php 3 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/.well-known/pki-validation/w.php 2 -
+/.well-known/pki-validation/indexx.php 3 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/radio.php 1 -
+/.well-known/pki-validation/lock.php 3 -
+/.well-known/pki-validation/sxx.php 3 -
+/.well-known/pki-validation/adminfuns.php 1 -
+/.well-known/pki-validation/userfuns.php 1 -
+/.well-known/pki-validation/doc.php 5 -
+/.well-known/pki-validation/min.php 3 -
+/.well-known/pki-validation/gif.php 3 -
+/.well-known/pki-validation/setup.php 1 -
+/.well-known/pki-validation/alfacgiapi/perl.alfa 2 -
+/.well-known/pki-validation/bb.php 1 -
+/.well-known/pki-validation/moon1.php 2 -
+/.well-known/pki-validation/bangu.php 1 -
+/.well-known/pki-validation/index1.php 2 -
+/.well-known/pki-validation/xmrlpc.php 52 -
+/.well-known/pki-validation/2index.php 2 -
+/.well-known/pki-validation/dropdown.php 4 -
+/.well-known/pki-validation/file.php 24 -
+/.well-known/pki-validation/lexy.php 1 -
+/.well-known/pki-validation/wp-config.php 25 -
+//.well-known/pki-validation/moon.php 1 -
+/.well-known/pki-validation/content.php 3 -
+/.well-known/pki-validation/afnew.php 22 -
+/.well-known/pki-validation/parx.php 17 -
+/.well-known/pki-validation/style.php 1 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/index.php 1 -
+/.well-known/pki-validation/class.api.php 1 -
+/.well-known/pki-validation/403.php 2 -
+/.well-known/pki-validation/colors/ 5 -
+/.well-known/pki-validation/webdb.php 2 -
+/.well-known/pki-validation/mar.php 3 -
+/.well-known/pki-validation/ 12 -
+/.well-known/pki-validation/wrapper.php 2 -
+/.well-known/pki-validation/shell.php 19 -
+/.well-known/pki-validation/system.php 3 -
+/.well-known/pki-validation/wp-blog.php 3 -
+/.well-known/pki-validation/agcsekli.php 3 -
+/.well-known/pki-validation/alfacgiapi/index.php 1 -
+/.well-known/pki-validation/scripts.php 2 -
+/.well-known/pki-validation/sx.php 4 -
+/.well-known/pki-validation/rx.php 1 -
+/.well-known/pki-validation/network.php 1 -
+/.well-known/pki-validation/plugins.php 3 -
+/.well-known/pki-validation/cifcxgxm.php 1 -
+/index.phpMarket+Reports%2FNew+Jersey 2 -
+/.well-known/pki-validation/wp-sigunq.php 21 -
+/.well-known/pki-validation/defaults.php 1 -
+/.well-known/pki-validation/about.php 54 -
+/.well-known/pki-validation/admin.php 33 -
+/.well-known/pki-validation/iR7SzrsOUEP.php 3 -
+/.well-known/pki-validation/classwithtostring.php 28 -
+//.well-known/pki-validation/ 1 -
+/.well-known/pki-validation/x.php 21 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/.well-known/pki-validation/flower.php 2 -
+/.well-known/pki-validation/wp-load.php 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 14
+188.166.251.131 8 8 34304 20240922065659
+91.92.243.190 2 2 15248 20240922090726
+4.213.96.10 1 1 4238 20240922103935
+43.130.31.48 1 1 4238 20240922052548
+199.45.154.125 0 1 38870 
+199.45.154.138 0 1 38870 
+206.168.34.218 0 1 38870 
+206.168.34.117 0 1 38870 
+199.45.155.71 0 1 38870 
+199.45.155.67 0 1 38870 
+199.45.154.141 0 1 38870 
+167.94.145.100 0 1 38870 
+167.94.146.49 0 1 38870 
+206.168.34.119 0 1 38870 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20240910 0 1 38870 0
+20240917 0 1 38870 0
+20240918 0 2 77740 0
+20240919 0 6 233220 0
+20240922 12 12 58028 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/cgi-sys/suspendedpage.cgi 12 58028 4 4
+END_SIDER

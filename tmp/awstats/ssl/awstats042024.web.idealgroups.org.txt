@@ -1,0 +1,327 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.web.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2693                
+POS_VISITOR 6631                
+POS_DAY 7372                
+POS_DOMAIN 3225                
+POS_LOGIN 3532                
+POS_ROBOT 3687                
+POS_WORMS 3944                
+POS_EMAILSENDER 4075                
+POS_EMAILRECEIVER 4218                
+POS_SESSION 7663                
+POS_SIDER 7810                
+POS_FILETYPES 4353                
+POS_DOWNLOADS 4602                
+POS_OS 4688                
+POS_BROWSER 4836                
+POS_SCREENSIZE 5072                
+POS_UNKNOWNREFERER 5146                
+POS_UNKNOWNREFERERBROWSER 5506                
+POS_ORIGIN 5588                
+POS_SEREFERRALS 5720                
+POS_PAGEREFS 5864                
+POS_SEARCHWORDS 6012                
+POS_KEYWORDS 6164                
+POS_MISC 2357                
+POS_ERRORS 6223                
+POS_CLUSTER 3388                
+POS_SIDER_404 6322                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240503165043 1 0 11222207047782
+FirstTime 20240403034958
+LastTime 20240429141234
+LastUpdate 20240503184258 1 0 0 0 0
+TotalVisits 17                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 1 1 10377 0 1 794
+2 0 0 0 0 0 0
+3 1 1 10377 0 1 794
+4 0 0 0 1 1 226
+5 0 0 0 0 0 0
+6 1 1 10377 0 0 0
+7 2 2 20754 0 0 0
+8 0 0 0 0 0 0
+9 1 1 10377 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 2 2 20754 0 0 0
+13 0 0 0 0 0 0
+14 2 4 12759 0 1 794
+15 0 0 0 0 0 0
+16 62 63 118976 33 34 82417
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 1 1 10377 0 0 0
+21 0 0 0 0 0 0
+22 1 1 794 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+br 56 57 45258
+us 10 10 116020
+ca 2 2 20754
+gb 2 4 12759
+ru 2 2 10377
+be 1 1 10377
+in 1 1 10377
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+Go\-http\-client/ 13 24740 20240420163039 0
+archive\.org_bot 1 10377 20240420163337 0
+no_user_agent 1 41793 20240420163027 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+php 11 8734 0 0
+secret 3 2382 0 0
+config 3 2382 0 0
+html 15 176694 0 0
+txt 2 1588 0 0
+json 1 794 0 0
+bashrc 3 2382 0 0
+js 1 794 0 0
+local 6 4764 0 0
+Unknown 31 24614 0 0
+xml 1 794 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/app-ads.txt 1 0 794
+/ads.txt 1 0 794
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+linux 2 2
+ios_ipad 57 56
+androidmarshmallow 1 1
+macosx15 6 6
+win10 7 5
+Unknown 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+netscape5.0 1 1
+chrome88.0.4324.96 1 1
+chrome52.0.1997.98 1 1
+opera9.64 1 1
+chrome122.0.0.0 4 2
+mozilla 3 3
+safari11.0 57 56
+chrome108.0.0.0 2 2
+chrome121.0.0.0 6 6
+chrome110.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(l9scan/2.0.5333e24353e28313e2931313;__https://leakix.net) 20240420163036
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240423125950
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240421011207
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 74 77
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+406 14 3164
+403 5 1775
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+200.158.50.8 56 57 45258 20240420163254
+51.159.103.19 2 4 12759 20240429141234
+165.227.173.41 2 2 42587 20240420163036
+45.83.220.210 1 1 10377 20240428062420
+13.245.236.97 1 1 794 20240427225931
+142.93.217.138 1 1 10377 20240427090524
+159.89.94.131 1 1 10377 20240422074420
+195.211.77.142 1 1 10377 20240420163010
+206.168.34.182 1 1 10377 20240421011207
+68.183.211.64 1 1 10377 20240423125936
+164.90.231.129 1 1 10377 20240409160908
+87.236.176.64 1 1 10377 20240423125950
+199.45.155.23 1 1 10377 20240403034958
+143.198.110.107 1 1 10377 20240413205613
+161.35.148.130 1 1 10377 20240424073825
+195.211.77.140 1 1 0 20240420162954
+45.134.142.205 1 1 10377 20240420165233
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20240403 1 1 10377 1
+20240409 1 1 10377 1
+20240413 1 1 10377 1
+20240420 61 62 108599 5
+20240421 1 1 10377 1
+20240422 1 1 10377 1
+20240423 2 2 20754 2
+20240424 1 1 10377 1
+20240427 2 2 11171 2
+20240428 1 1 10377 1
+20240429 2 4 12759 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 17
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 37
+/ 15 176694 15 13
+/.env.example 3 2382 0 0
+/.secret 3 2382 0 0
+/.env.staging 3 2382 0 0
+/.env.production 3 2382 0 0
+/config/.env.local 3 2382 0 0
+/.env.local 3 2382 0 0
+/Dockerfile 3 2382 0 0
+/config/.secrets 3 2382 0 0
+/.config 3 2382 0 0
+/.secrets 3 2382 0 0
+/.bashrc 3 2382 0 0
+/.Dockerfile 2 1588 0 0
+/.git/HEAD 1 794 1 0
+/php.ini.default 1 794 0 0
+/phpinfo.php 1 794 0 0
+/.git/index 1 794 0 0
+/php.ini-production 1 794 0 0
+/_all_dbs 1 794 0 1
+/parameters.php 1 794 0 0
+/FileZilla.xml 1 794 0 0
+/database.php 1 794 0 0
+/truffle-configuration 1 794 0 0
+/config.inc.php 1 794 0 0
+/.git/description 1 794 0 0
+/php.ini-development 1 794 0 0
+/.git/config 1 794 1 1
+/env.php 1 794 0 0
+/local.php 1 794 0 1
+/settings.php 1 794 0 0
+/test.php 1 794 0 0
+/wp-config.php 1 794 0 0
+/config.php 1 794 0 0
+/info.php 1 794 0 0
+/sellers.json 1 794 0 1
+/.git/COMMIT_EDITMSG 1 794 0 0
+/configuration/truffle 1 794 0 0
+END_SIDER

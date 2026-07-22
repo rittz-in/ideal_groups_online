@@ -1,0 +1,664 @@
+@extends('frontend.layouts.new-app')
+
+@section('title', 'Fizz & Freeze - Track Your Order')
+
+@section('content')
+@push('styles')
+<style>
+    .input-field {
+        width: 100%;
+        padding: 0.75rem 1rem;
+        border: 2px solid #f3f4f6;
+        border-radius: 0.75rem;
+        transition: all 0.2s;
+        font-size: 0.875rem;
+    }
+    .input-field:focus {
+        border-color: #681f32;
+        outline: none;
+        box-shadow: 0 0 0 4px rgba(104, 31, 50, 0.1);
+    }
+    @media (max-width: 380px) {
+        .search-btn {
+            padding-left: 1rem !important;
+            padding-right: 1rem !important;
+            font-size: 0.875rem !important;
+        }
+    }
+</style>
+@endpush
+<div class="min-h-screen flex flex-col pb-20" style="background: #f8f9ff;">
+
+    @include('frontend.partials.page-header', [
+        'backHref'  => route('product', ['category' => 'all']),
+        'backLabel' => 'Back to Menu',
+        'icon'      => '🛵',
+        'title'     => 'Track Your Order',
+        'subtitle'  => 'Live status updates every 10 seconds',
+        'showLive'  => true,
+        'waveColor' => '#f8f9ff',
+    ])
+
+
+    <!-- Content -->
+    <div class="flex-1 px-4 -mt-4">
+        <div class="max-w-md mx-auto">
+
+            <!-- ── Manual search (collapsed by default if auto-loading) ── -->
+            <div id="search-card" class="bg-white rounded-2xl shadow-lg p-5 mb-4">
+                <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wide">Search Order</p>
+                <div class="flex gap-2">
+                    <input type="text" id="order-number-input"
+                           class="input-field flex-1 min-w-0"
+                           placeholder="e.g. ORD2026…">
+                    <button onclick="doTrackOrder(document.getElementById('order-number-input').value.trim())"
+                           class="bg-primary text-white px-6 py-3 rounded-xl font-semibold search-btn whitespace-nowrap">
+                        Track
+                    </button>
+                </div>
+                <div class="flex items-center my-3">
+                    <div class="flex-1 border-t border-gray-200"></div>
+                    <span class="px-3 text-xs text-gray-400">OR</span>
+                    <div class="flex-1 border-t border-gray-200"></div>
+                </div>
+                <div class="flex gap-2">
+                    <input type="tel" id="mobile-input"
+                           class="input-field flex-1"
+                           placeholder="Your mobile number">
+                    <button onclick="findMyOrders()"
+                            class="bg-secondary text-white px-5 py-3 rounded-xl font-semibold text-sm whitespace-nowrap">
+                        Find
+                    </button>
+                </div>
+            </div>
+
+            <!-- Loading -->
+            <div id="loading-state" class="hidden text-center py-12">
+                <div class="w-12 h-12 border-4 border-primary border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
+                <p class="text-gray-400 text-sm">Fetching your order…</p>
+            </div>
+
+            <!-- Error -->
+            <div id="error-state" class="hidden">
+                <div class="bg-red-50 rounded-2xl p-6 text-center">
+                    <div class="text-5xl mb-3">😕</div>
+                    <h3 class="text-lg font-bold text-red-700 mb-1">Order Not Found</h3>
+                    <p class="text-red-500 text-sm" id="error-message">Please check your order number and try again.</p>
+                </div>
+            </div>
+
+            <!-- ── Single Order View ── -->
+            <div id="single-order-result" class="hidden space-y-4">
+
+                <!-- Order Card -->
+                <div class="bg-white rounded-2xl shadow-lg overflow-hidden">
+                    <!-- Gradient banner -->
+                    <div id="status-banner" class="px-6 py-5 text-white text-center relative overflow-hidden">
+                        <div class="absolute inset-0 opacity-20"
+                             style="background: url('data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><circle cx=%2220%22 cy=%2220%22 r=%2215%22 fill=%22white%22 opacity=%220.1%22/><circle cx=%2280%22 cy=%2280%22 r=%2220%22 fill=%22white%22 opacity=%220.1%22/></svg>') center/cover no-repeat;">
+                        </div>
+                        <div id="status-icon" class="text-5xl mb-2 relative z-10"></div>
+                        <p id="status-label" class="text-xl font-bold relative z-10"></p>
+                        <p id="status-sublabel" class="text-sm opacity-80 relative z-10 mt-1"></p>
+                    </div>
+
+                    <div class="px-6 py-4">
+                        <!-- Order meta -->
+                        <div class="grid grid-cols-3 gap-3 mb-4">
+                            <div class="text-center p-3 bg-gray-50 rounded-xl">
+                                <p class="text-xs text-gray-400 mb-1">Order #</p>
+                                <p class="text-xs font-bold text-gray-700 break-all" id="display-order-number"></p>
+                            </div>
+                            <div class="text-center p-3 bg-gray-50 rounded-xl">
+                                <p class="text-xs text-gray-400 mb-1">Table</p>
+                                <p class="text-2xl font-bold text-primary" id="display-table"></p>
+                            </div>
+                            <div class="text-center p-3 bg-gray-50 rounded-xl">
+                                <p class="text-xs text-gray-400 mb-1">Total</p>
+                                <p class="text-lg font-bold text-green-600" id="display-total"></p>
+                            </div>
+                        </div>
+
+                        <!-- Payment status -->
+                        <div id="payment-badge-row"
+                             class="flex items-center justify-between px-4 py-3 rounded-xl mb-4"
+                             style="background:#f0fdf4;">
+                            <span class="text-sm text-gray-500 font-medium">Payment</span>
+                            <span id="payment-badge" class="px-3 py-1 rounded-full text-xs font-bold"></span>
+                        </div>
+
+                        <!-- Cancel window -->
+                        <div id="cancel-zone" class="hidden bg-red-50 border border-red-200 rounded-xl p-4 mb-4">
+                            <div class="flex items-center justify-between mb-2">
+                                <p class="text-xs text-red-600">⏰ You can cancel within <strong id="cancel-timer">2:00</strong></p>
+                            </div>
+                            <button onclick="cancelOrder(window._trackingOrderNumber)"
+                                    id="cancel-btn"
+                                    class="w-full bg-red-500 text-white py-2.5 rounded-xl font-semibold text-sm hover:bg-red-600 transition-colors">
+                                Cancel Order
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ── Progress Timeline ── -->
+                <div class="bg-white rounded-2xl shadow-lg p-6" id="timeline-card">
+                    <h4 class="font-bold text-gray-800 mb-5 flex items-center gap-2">
+                        <svg class="w-4 h-4 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                  d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
+                        </svg>
+                        Order Progress
+                    </h4>
+                    <div id="timeline-steps" class="relative"></div>
+                </div>
+
+                <!-- ── Order Items ── -->
+                <div class="bg-white rounded-2xl shadow-lg p-6">
+                    <h4 class="font-bold text-gray-800 mb-4 flex items-center gap-2">
+                        <svg class="w-4 h-4 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                  d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
+                        </svg>
+                        Your Items
+                    </h4>
+                    <div id="order-items-list" class="divide-y divide-gray-100"></div>
+                </div>
+
+                <!-- Refresh hint -->
+                <p class="text-center text-xs text-gray-400 pb-2">
+                    🔄 Auto-refreshing every 10 seconds &nbsp;|&nbsp;
+                    <button onclick="doTrackOrder(window._trackingOrderNumber)" class="text-primary underline">Refresh now</button>
+                </p>
+            </div>
+
+            <!-- Multiple Orders List -->
+            <div id="orders-list-result" class="hidden">
+                <h3 class="text-base font-bold text-gray-700 mb-3">Your Recent Orders</h3>
+                <div id="orders-list" class="space-y-3"></div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!-- ── Notification toast ── -->
+<div id="notif-toast"
+     class="hidden fixed top-4 left-1/2 -translate-x-1/2 z-50 max-w-sm w-full mx-4">
+    <div class="bg-white rounded-2xl shadow-2xl border border-gray-100 px-5 py-4 flex items-start gap-3">
+        <div id="notif-icon" class="text-2xl mt-0.5"></div>
+        <div class="flex-1 min-w-0">
+            <p id="notif-title" class="font-bold text-gray-800 text-sm"></p>
+            <p id="notif-body"  class="text-gray-500 text-xs mt-0.5"></p>
+        </div>
+        <button onclick="document.getElementById('notif-toast').classList.add('hidden')"
+                class="text-gray-300 hover:text-gray-500 text-lg leading-none flex-shrink-0">✕</button>
+    </div>
+</div>
+@endsection
+
+@push('scripts')
+<script>
+/* ===================================================
+   Configuration
+=================================================== */
+const STATUS_POLL_MS   = 10000;   // poll every 10 s
+const CANCEL_WINDOW_S  = 120;     // 2 minutes
+const ORDER_STATUS_URL = '{{ url("/order/status") }}';
+const MY_ORDERS_URL    = '{{ url("/order/my-orders") }}';
+const CANCEL_URL       = '{{ url("/order/cancel") }}';
+const CSRF_TOKEN       = '{{ csrf_token() }}';
+
+/* ===================================================
+   State
+=================================================== */
+window._trackingOrderNumber = null;
+let   _pollInterval         = null;
+let   _cancelTimerInterval  = null;
+let   _lastKnownStatus      = null;     // for notification diff
+
+/* ===================================================
+   Status meta (icon, banner colour, label, sublabel)
+=================================================== */
+const STATUS_META = {
+    pending:   { icon:'📝', colour:'#f59e0b', label:'Order Received',     sub:'Waiting for restaurant to confirm…' },
+    confirmed: { icon:'✅', colour:'#3b82f6', label:'Order Confirmed',    sub:'Your order has been accepted!' },
+    preparing: { icon:'👨‍🍳', colour:'#8b5cf6', label:'Being Prepared',    sub:'The kitchen is cooking your food…' },
+    ready:     { icon:'🔔', colour:'#10b981', label:'Ready to Serve!',    sub:'Your order is ready at the counter!' },
+    served:    { icon:'🍽️', colour:'#059669', label:'Order Served',       sub:'Enjoy your meal! 😊' },
+    completed: { icon:'✨', colour:'#6b7280', label:'Order Completed',    sub:'Thank you for dining with us!' },
+    cancelled: { icon:'❌', colour:'#ef4444', label:'Order Cancelled',    sub:'This order has been cancelled.' },
+};
+
+const STATUS_STEPS = [
+    { key:'pending',   label:'Order Received',  icon:'📝',  time_field: 'created_at' },
+    { key:'confirmed', label:'Confirmed',        icon:'✅',  time_field: 'confirmed_at' },
+    { key:'preparing', label:'Preparing',        icon:'👨‍🍳', time_field: null },
+    { key:'ready',     label:'Ready',            icon:'🔔',  time_field: 'prepared_at' },
+    { key:'served',    label:'Served',           icon:'🍽️',  time_field: 'served_at' },
+    { key:'completed', label:'Completed',        icon:'✨',  time_field: 'completed_at' },
+];
+
+/* ===================================================
+   Boot: auto-load if order param in URL or localStorage
+=================================================== */
+document.addEventListener('DOMContentLoaded', () => {
+    // 1. Try URL param  (?order=ORD…)
+    const params = new URLSearchParams(window.location.search);
+    let   order  = params.get('order')
+               || '{{ $orderNumber ?? "" }}';   // server-side fallback
+
+    // 2. Fall back to localStorage last order
+    if (!order) {
+        order = localStorage.getItem('lastOrderNumber') || '';
+    }
+
+    if (order) {
+        document.getElementById('order-number-input').value = order;
+        doTrackOrder(order);
+        requestNotifPermission();
+        return;
+    }
+
+    // 3. Try ?table=TABLE_NUMBER — look up the active order for that table
+    const tableParam = params.get('table') || '{{ $tableNumber ?? "" }}';
+    if (tableParam) {
+        requestNotifPermission();
+        showLoading();
+        fetch(`/order/table-active/${encodeURIComponent(tableParam)}`)
+            .then(r => r.json())
+            .then(data => {
+                if (data.success && data.order_number) {
+                    document.getElementById('order-number-input').value = data.order_number;
+                    doTrackOrder(data.order_number);
+                } else {
+                    hideLoading();
+                    showError('No active order found for this table. Place an order first!');
+                }
+            })
+            .catch(() => { hideLoading(); });
+    }
+});
+
+
+/* ===================================================
+   Request browser notification permission
+=================================================== */
+function requestNotifPermission() {
+    if ('Notification' in window && Notification.permission === 'default') {
+        Notification.requestPermission();
+    }
+}
+
+/* ===================================================
+   Show in-app toast
+=================================================== */
+function showToast(icon, title, body, autoHide = 5000) {
+    document.getElementById('notif-icon').textContent  = icon;
+    document.getElementById('notif-title').textContent = title;
+    document.getElementById('notif-body').textContent  = body;
+    const toast = document.getElementById('notif-toast');
+    toast.classList.remove('hidden');
+    if (autoHide > 0) setTimeout(() => toast.classList.add('hidden'), autoHide);
+}
+
+/* ===================================================
+   Send browser push notification
+=================================================== */
+function pushNotif(icon, title, body) {
+    showToast(icon, title, body);
+
+    if ('Notification' in window && Notification.permission === 'granted') {
+        new Notification(title, {
+            body,
+            icon: '/favicon.ico',
+            badge: '/favicon.ico',
+            tag: 'order-status',          // replaces previous notification
+            renotify: true,
+        });
+    }
+}
+
+/* ===================================================
+   UI helpers
+=================================================== */
+function showLoading() {
+    ['single-order-result','orders-list-result','error-state'].forEach(id =>
+        document.getElementById(id).classList.add('hidden'));
+    document.getElementById('loading-state').classList.remove('hidden');
+}
+
+function hideLoading() {
+    document.getElementById('loading-state').classList.add('hidden');
+}
+
+function showError(message) {
+    hideLoading();
+    document.getElementById('error-message').textContent = message;
+    document.getElementById('error-state').classList.remove('hidden');
+}
+
+/* ===================================================
+   Main: track by order number
+=================================================== */
+async function doTrackOrder(orderNumber) {
+    if (!orderNumber) {
+        alert('Please enter an order number');
+        return;
+    }
+
+    window._trackingOrderNumber = orderNumber;
+    showLoading();
+    stopPolling();
+
+    await fetchAndRender(orderNumber);
+
+    // Start live polling (skip for completed/cancelled)
+    _pollInterval = setInterval(async () => {
+        await fetchAndRender(orderNumber);
+    }, STATUS_POLL_MS);
+}
+
+/* ===================================================
+   Fetch order and render
+=================================================== */
+async function fetchAndRender(orderNumber) {
+    try {
+        const res  = await fetch(`${ORDER_STATUS_URL}/${orderNumber}`);
+        const data = await res.json();
+        hideLoading();
+
+        if (data.success) {
+            renderOrder(data.order);
+
+            // Notify if status changed
+            const newStatus = data.order.status;
+            if (_lastKnownStatus && _lastKnownStatus !== newStatus) {
+                const meta = STATUS_META[newStatus] || {};
+                pushNotif(meta.icon || '🔔', 'Order Update', meta.label || `Status: ${newStatus}`);
+            }
+            _lastKnownStatus = newStatus;
+
+            // Stop polling when terminal state
+            if (['completed','cancelled'].includes(newStatus)) {
+                stopPolling();
+            }
+        } else {
+            showError(data.message || 'Order not found.');
+            stopPolling();
+        }
+    } catch (err) {
+        console.error('Poll error:', err);
+        // Don't show error on network hiccup during polling
+        hideLoading();
+    }
+}
+
+function stopPolling() {
+    if (_pollInterval) { clearInterval(_pollInterval); _pollInterval = null; }
+}
+
+/* ===================================================
+   Render single order view
+=================================================== */
+function renderOrder(order) {
+    document.getElementById('single-order-result').classList.remove('hidden');
+    document.getElementById('orders-list-result').classList.add('hidden');
+    document.getElementById('error-state').classList.add('hidden');
+
+    const meta = STATUS_META[order.status] || STATUS_META.pending;
+
+    // Banner
+    const banner = document.getElementById('status-banner');
+    banner.style.background = `linear-gradient(135deg, ${meta.colour}dd, ${meta.colour}99)`;
+    document.getElementById('status-icon').textContent   = meta.icon;
+    document.getElementById('status-label').textContent  = meta.label;
+    document.getElementById('status-sublabel').textContent = meta.sub;
+
+    // Meta grid
+    document.getElementById('display-order-number').textContent = order.order_number;
+    document.getElementById('display-table').textContent        = order.table_number;
+    document.getElementById('display-total').textContent        = '₹' + parseFloat(order.total).toFixed(2);
+
+    // Payment badge
+    const isPaid     = order.payment_status === 'paid';
+    const isPending  = order.payment_status === 'pending_verification';
+    const pbadge     = document.getElementById('payment-badge');
+    const pbRow      = document.getElementById('payment-badge-row');
+    if (isPaid) {
+        pbadge.textContent = '✓ Paid';
+        pbadge.className   = 'px-3 py-1 rounded-full text-xs font-bold bg-green-200 text-green-800';
+        pbRow.style.background = '#f0fdf4';
+    } else if (isPending) {
+        pbadge.textContent = '⏳ Pending Verification';
+        pbadge.className   = 'px-3 py-1 rounded-full text-xs font-bold bg-yellow-200 text-yellow-800';
+        pbRow.style.background = '#fefce8';
+    } else {
+        pbadge.textContent = '💳 Unpaid';
+        pbadge.className   = 'px-3 py-1 rounded-full text-xs font-bold bg-red-100 text-red-700';
+        pbRow.style.background = '#fff1f2';
+    }
+
+    // Cancel window
+    const cancelZone = document.getElementById('cancel-zone');
+    if (order.can_cancel) {
+        cancelZone.classList.remove('hidden');
+        startCancelTimer(order.cancel_time_remaining);
+    } else {
+        cancelZone.classList.add('hidden');
+        stopCancelTimer();
+    }
+
+    // Timeline
+    renderTimeline(order);
+
+    // Items
+    renderItems(order.items || []);
+}
+
+/* ===================================================
+   Timeline
+=================================================== */
+function renderTimeline(order) {
+    const container    = document.getElementById('timeline-steps');
+    const currentIndex = STATUS_STEPS.findIndex(s => s.key === order.status);
+    const isCancelled  = order.status === 'cancelled';
+
+    if (isCancelled) {
+        container.innerHTML = `
+            <div class="flex items-center gap-4">
+                <div class="w-12 h-12 rounded-full flex items-center justify-center text-xl bg-red-500 text-white flex-shrink-0">❌</div>
+                <div>
+                    <p class="font-semibold text-red-600">Order Cancelled</p>
+                    <p class="text-xs text-gray-400">This order has been cancelled</p>
+                </div>
+            </div>`;
+        return;
+    }
+
+    const timeMap = {
+        pending:   order.created_at,
+        confirmed: order.confirmed_at,
+        ready:     order.prepared_at,
+        served:    order.served_at,
+        completed: order.completed_at,
+    };
+
+    container.innerHTML = STATUS_STEPS.map((step, idx) => {
+        const isActive  = idx <= currentIndex;
+        const isCurrent = idx === currentIndex;
+        const time      = timeMap[step.key] || null;
+
+        return `
+        <div class="flex items-center gap-4 ${idx < STATUS_STEPS.length - 1 ? 'mb-2' : ''}">
+            <!-- line + dot column -->
+            <div class="flex flex-col items-center flex-shrink-0" style="width:48px">
+                <div class="w-10 h-10 rounded-full flex items-center justify-center text-lg transition-all duration-500
+                     ${isActive ? 'text-white shadow-md' : 'bg-gray-100 text-gray-300'}"
+                     style="${isActive ? `background:${STATUS_META[order.status]?.colour || '#f59e0b'}` : ''}">
+                    ${step.icon}
+                </div>
+                ${idx < STATUS_STEPS.length - 1 ? `
+                <div class="w-0.5 h-6 mt-1 transition-all duration-500
+                     ${idx < currentIndex ? 'bg-green-400' : 'bg-gray-200'}"></div>` : ''}
+            </div>
+            <!-- text -->
+            <div class="flex-1 pb-${idx < STATUS_STEPS.length - 1 ? '5' : '0'}">
+                <p class="font-semibold text-sm ${isActive ? 'text-gray-800' : 'text-gray-300'}">
+                    ${step.label}
+                    ${isCurrent ? '<span class="ml-2 inline-block w-2 h-2 rounded-full bg-primary animate-pulse"></span>' : ''}
+                </p>
+                ${time ? `<p class="text-xs text-gray-400 mt-0.5">at ${time}</p>` : ''}
+            </div>
+        </div>`;
+    }).join('');
+}
+
+/* ===================================================
+   Order items
+=================================================== */
+function renderItems(items) {
+    const container = document.getElementById('order-items-list');
+    if (!items.length) {
+        container.innerHTML = '<p class="text-gray-400 text-sm text-center py-4">No items</p>';
+        return;
+    }
+    container.innerHTML = items.map(item => `
+        <div class="flex items-center justify-between py-3 first:pt-0 last:pb-0">
+            <div class="flex items-center gap-3">
+                <span class="w-7 h-7 rounded-full bg-primary text-white flex items-center justify-center text-xs font-bold flex-shrink-0">
+                    ${item.quantity}
+                </span>
+                <span class="text-sm text-gray-700">${item.name}</span>
+            </div>
+            <span class="text-sm font-semibold text-gray-800">₹${parseFloat(item.total).toFixed(2)}</span>
+        </div>
+    `).join('');
+}
+
+/* ===================================================
+   Cancel timer
+=================================================== */
+let _cancelTimerSecs = CANCEL_WINDOW_S;
+
+function startCancelTimer(minutesRemaining) {
+    stopCancelTimer();
+    _cancelTimerSecs = Math.round(minutesRemaining * 60);
+    updateCancelTimerDisplay();
+
+    _cancelTimerInterval = setInterval(() => {
+        _cancelTimerSecs--;
+
+        if (_cancelTimerSecs <= 0) {
+            stopCancelTimer();
+            const zone = document.getElementById('cancel-zone');
+            if (zone) zone.classList.add('hidden');
+            return;
+        }
+
+        updateCancelTimerDisplay();
+    }, 1000);
+}
+
+function updateCancelTimerDisplay() {
+    const el = document.getElementById('cancel-timer');
+    if (!el) return;
+    const m = Math.floor(_cancelTimerSecs / 60);
+    const s = _cancelTimerSecs % 60;
+    el.textContent = `${m}:${s.toString().padStart(2, '0')}`;
+}
+
+function stopCancelTimer() {
+    if (_cancelTimerInterval) { clearInterval(_cancelTimerInterval); _cancelTimerInterval = null; }
+}
+
+/* ===================================================
+   Cancel order
+=================================================== */
+async function cancelOrder(orderNumber) {
+    if (!confirm('Are you sure you want to cancel this order?')) return;
+
+    try {
+        const res  = await fetch(`${CANCEL_URL}/${orderNumber}`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json', 'X-CSRF-TOKEN': CSRF_TOKEN }
+        });
+        const data = await res.json();
+
+        if (data.success) {
+            showToast('❌', 'Order Cancelled', 'Your order has been cancelled successfully.');
+            stopCancelTimer();
+            await fetchAndRender(orderNumber);
+        } else {
+            alert(data.message || 'Could not cancel order.');
+        }
+    } catch (err) {
+        alert('Network error. Please try again.');
+    }
+}
+
+/* ===================================================
+   Find orders by mobile
+=================================================== */
+async function findMyOrders() {
+    const mobile = document.getElementById('mobile-input').value.trim();
+    if (!mobile || mobile.length < 10) {
+        alert('Please enter a valid 10-digit mobile number');
+        return;
+    }
+
+    stopPolling();
+    showLoading();
+
+    try {
+        const res  = await fetch(`${MY_ORDERS_URL}/${mobile}`);
+        const data = await res.json();
+        hideLoading();
+
+        if (data.success && data.orders.length > 0) {
+            displayOrdersList(data.orders);
+        } else {
+            showError('No orders found for this mobile number.');
+        }
+    } catch (err) {
+        showError('Network error. Please try again.');
+    }
+}
+
+function displayOrdersList(orders) {
+    const STATUS_COLORS = {
+        pending:   'bg-yellow-100 text-yellow-800',
+        confirmed: 'bg-blue-100 text-blue-800',
+        preparing: 'bg-purple-100 text-purple-800',
+        ready:     'bg-green-100 text-green-800',
+        served:    'bg-green-100 text-green-800',
+        completed: 'bg-gray-100 text-gray-700',
+        cancelled: 'bg-red-100 text-red-700',
+    };
+
+    const html = orders.map(order => {
+        const meta  = STATUS_META[order.status] || {};
+        const color = STATUS_COLORS[order.status] || 'bg-gray-100 text-gray-700';
+        return `
+        <div class="bg-white rounded-2xl shadow-sm p-4 cursor-pointer hover:shadow-md transition-shadow"
+             onclick="doTrackOrder('${order.order_number}')">
+            <div class="flex justify-between items-center mb-2">
+                <span class="font-bold text-gray-800 text-sm">${order.order_number}</span>
+                <span class="px-2 py-1 rounded-full text-xs font-semibold ${color}">
+                    ${meta.icon || ''} ${order.status.charAt(0).toUpperCase() + order.status.slice(1)}
+                </span>
+            </div>
+            <div class="flex justify-between text-sm text-gray-500">
+                <span>Table ${order.table_number}</span>
+                <span class="font-semibold text-gray-800">₹${parseFloat(order.total).toFixed(2)}</span>
+            </div>
+            <p class="text-xs text-gray-400 mt-1">${order.created_at}</p>
+        </div>`;
+    }).join('');
+
+    document.getElementById('orders-list').innerHTML = html;
+    document.getElementById('orders-list-result').classList.remove('hidden');
+    document.getElementById('single-order-result').classList.add('hidden');
+}
+</script>
+@endpush

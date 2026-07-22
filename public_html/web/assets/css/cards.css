@@ -1,0 +1,39 @@
+/* pricing table css */
+.priceTable{
+	background-color: #F1F1F1;
+    padding-bottom: 25px;
+    margin-left: 30px;
+	border: 1px solid #afafaf;
+}
+.table thead tr{
+	background-color: #BF3C28;
+	color: #fff;
+	font-size: 20px;
+}
+.table tbody tr td{
+	font-size: 17px;
+	font-family: 'Kumbh Sans', sans-serif;
+    color: #293043;
+	padding-top: 10px;
+    margin-bottom: 8px;
+    line-height: 1.2;
+    font-weight: 500;
+}
+.tableBtn{
+	background: #BF3C28;
+	color: #fff;
+    cursor: pointer;
+    font-weight: 700;
+    border-radius: 25px;
+    padding: 12px 30px;
+    text-transform: capitalize;
+}
+.workGallery{
+	text-align: center;
+}
+.workGallery p{
+	font-weight: 700;
+    font-family: 'Kumbh Sans', sans-serif;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}

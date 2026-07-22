@@ -1,0 +1,2728 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202504 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.ugi.net.in.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2062                
+POS_TIME 2746                
+POS_VISITOR 23616               
+POS_DAY 75817               
+POS_DOMAIN 3722                
+POS_LOGIN 4923                
+POS_ROBOT 5078                
+POS_WORMS 6291                
+POS_EMAILSENDER 6422                
+POS_EMAILRECEIVER 6565                
+POS_SESSION 76734               
+POS_FILESIZE 101358              
+POS_SIDER 76949               
+POS_FILETYPES 6700                
+POS_DOWNLOADS 7015                
+POS_OS 7104                
+POS_BROWSER 7760                
+POS_SCREENSIZE 12658               
+POS_UNKNOWNREFERER 12732               
+POS_UNKNOWNREFERERBROWSER 14019               
+POS_ORIGIN 14929               
+POS_SEREFERRALS 15077               
+POS_PAGEREFS 15367               
+POS_SEARCHWORDS 16029               
+POS_KEYWORDS 16203               
+POS_MISC 2409                
+POS_ERRORS 16286               
+POS_CLUSTER 4779                
+POS_SIDER_404 16534               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250501001203 415 103806 10849242651608
+FirstTime 20250401001003
+LastTime 20250430235421
+LastUpdate 20250501184255 415 0 414 0 0
+TotalVisits 1900                
+TotalUnique 1214                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1405                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 30 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 189 617 21957542 214 463 3273023
+1 98 245 11848995 170 279 4580964
+2 102 127 1049338 146 196 2934103
+3 130 131 789329 107 148 2095671
+4 180 516 23920740 150 258 4021496
+5 244 873 17192702 239 824 4028054
+6 255 259 4985758 218 287 2106768
+7 183 448 15180630 227 402 7275354
+8 238 538 24689519 127 222 2203124
+9 207 498 21368126 117 164 2448528
+10 248 486 21573599 108 177 2883781
+11 258 824 42817572 177 354 7908964
+12 285 1240 74066816 111 207 2775366
+13 327 615 24535162 139 184 1628531
+14 450 808 34237898 264 335 4174593
+15 192 889 51026508 141 244 2647776
+16 239 937 54979150 98 155 2668078
+17 248 777 44282229 146 184 2242491
+18 169 442 20822667 137 199 2274459
+19 219 410 17616149 140 213 2932880
+20 186 531 25002897 123 186 3219830
+21 146 396 16875087 117 157 2441752
+22 133 271 10235110 143 175 2152902
+23 260 682 30703461 120 149 1028936
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 69
+in 2716 6744 315065573
+us 897 4519 207619366
+ca 799 848 38776887
+eg 95 96 336646
+ru 85 185 6923773
+gb 58 183 10023700
+cn 52 109 2959294
+pl 48 48 561789
+ao 42 50 294623
+br 41 41 247491
+id 34 35 845884
+ua 29 64 2287125
+ir 25 156 9190912
+de 23 23 324065
+be 20 28 1010375
+cz 16 87 7118592
+eu 16 16 120215
+za 12 12 365507
+au 12 37 466384
+vn 11 11 77977
+se 10 14 142028
+bd 9 10 63618
+ro 8 16 262711
+fr 7 7 214960
+bg 7 15 239763
+il 1 9 119575
+md 1 1 9929
+ht 1 1 9929
+co 3 3 34550
+tr 3 3 17871
+pt 3 3 120295
+mn 2 2 20143
+th 1 1 0
+ch 1 1 0
+iq 1 1 7652
+ma 3 3 27824
+sr 1 1 12787
+ph 3 3 22956
+mu 1 3 176536
+bb 1 11 356939
+pr 1 1 10243
+np 1 1 13679
+no 3 3 116740
+mc 1 1 2817
+ve 2 2 18856
+gr 4 12 141494
+jp 2 2 2820
+it 4 4 132803
+es 6 6 65533
+jo 1 1 13679
+mx 5 5 33487
+ke 1 1 13472
+tw 2 2 5742
+pk 6 6 7505
+nl 7 7 66671
+cw 1 1 2817
+kr 6 65 4288004
+cl 5 5 79250
+sc 3 3 58126
+zz 4 4 16143
+sg 2 3 25766
+my 5 5 19138
+sa 5 5 19287
+ip 2 2 27151
+tn 2 2 7652
+ae 1 1 12787
+ie 0 4 21460
+pa 1 1 13472
+ar 5 5 44146
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 28
+Googlebot/ 1088 19869357 20250430184058 32
+unknown 555 51816 20250430180405 555
+bingbot/ 375 10195519 20250430235911 17
+crawl 319 11622040 20250430212733 3
+bot[\s_+:,\.\;\/\\-] 310 3277138 20250430133011 65
+facebookexternalhit/ 137 5602050 20250430204342 68
+Applebot/ 66 756619 20250430055022 6
+Googlebot\-Image/ 61 4394451 20250429075516 0
+no_user_agent 36 1527554 20250428075209 0
+Apache\-HttpClient/ 32 5408 20250428050925 0
+(firefox/)([0-9]\.|[0-1][0]\.) 29 2279045 20250424101110 0
+YandexBot/ 27 150797 20250420060808 16
+Pinterestbot 23 253483 20250430184329 0
+yandex 19 247110 20250411131550 0
+feed 18 269114 20250414085632 0
+[\s_+:,\.\;\/\\-]bot 14 108808 20250430204018 0
+link 13 136685 20250407174331 1
+BW/ 12 231563 20250428175957 2
+YandexImages/ 11 491336 20250420020814 0
+curl 11 244570 20250428053036 4
+Dalvik/ 4 30494 20250425033440 0
+LinkedInBot/ 4 327664 20250423223117 0
+scrapy 4 54095 20250423172220 0
+DuckDuckBot 4 30494 20250422171246 0
+java 2 0 20250419233643 0
+nutch 2 13579 20250415020549 1
+Baiduspider- 1 5459 20250419052038 0
+checker 1 0 20250425232524 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+woff2 122 27314824 0 0
+Unknown 100 107856 0 0
+php 2787 1411514 0 0
+txt 16 22336 0 0
+css 1787 27505946 0 0
+html 2155 62528550 0 0
+js 1519 19791278 0 0
+owa 2 23415 0 0
+png 2466 95655328 0 0
+jpg 2264 344549805 0 0
+xml 20 44482 0 0
+jpeg 322 32801650 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+//wp-includes/ID3/license.txt 16 0 22336
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 42
+android10 1739 154
+macosx 9 9
+ios_ipad 1 1
+macosx13 1 1
+win10 5208 1705
+macos12 9 8
+win2000 3 3
+palmos 1 1
+linuxubuntu 74 74
+macosx6 9 9
+Unknown 3265 2521
+winlong 3 3
+androidlollipop 2 2
+unix 3 3
+blackberry 1 1
+win8.1 70 70
+win95 1 1
+ios_iphone 856 51
+bsdfreebsd 1 1
+android12 1 1
+winnt 1 1
+macosx10 1 1
+win8 10 10
+win7 56 23
+linuxdebian 1 1
+winxp 11 11
+win2003 5 5
+macosx8 1 1
+androidmarshmallow 32 9
+macosx5 1 1
+macosx7 5 5
+win11 4 4
+androidics 1 1
+macosx9 1 1
+linux 1248 185
+android11 5 0
+macosx15 497 262
+androidnougat 191 29
+android 5 1
+winunknown 2 2
+android13 65 6
+androidoreo 160 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 234
+chrome124.0.0.0 95 16
+chrome19.0.1062.0 1 1
+safari17.4.1 2 2
+chrome12.0.742.112 1 1
+galeon 1 1
+chrome108.0.0.0 61 61
+chrome116.0.5845.96 2 2
+chrome134.0.0.0 1295 104
+chrome9.0.592.0 2 2
+chrome5.0.335.0 1 1
+chrome6.0.427.0 1 1
+chrome100.0.4896.79 59 2
+safari18.1 16 16
+chrome114.0.0.0 791 771
+chrome96.0.4664.110 2 2
+chrome76.0.3809.100 1 0
+chrome56.0.2924.76 1 1
+firefox77.0 1 1
+chrome89.0.4389.114 27 27
+safari17.5 2 2
+chrome96.0.4664.93 4 4
+chrome135.0.7049.99 62 4
+chrome86.0.4240.75 20 20
+safari 376 22
+safari1.2.4 1 1
+chrome109.0.0.0 346 30
+chrome6.0.428.0 1 1
+firefox124.0 1 1
+chrome60.0.3112.107 4 4
+chrome91.0.4472.101 5 0
+firefox57.0 1 1
+chrome5.0.375.126 1 1
+chrome23.0.1271.17 1 1
+chrome84.0.4147.105 3 3
+chrome17.0.963.65 1 1
+chrome105.0.0.0 19 15
+chrome117.0.5938.132 235 8
+chrome28.0.1464.0 1 1
+chrome83.0.4103.97 78 78
+safari18.3 10 10
+chrome115.0.5790.171 1 1
+chrome106.0.0.0 12 12
+chrome106.0.5249.30 206 19
+chrome5.0.375.127 1 1
+chrome14.0.804.0 1 1
+chrome87.0.4280.66 5 5
+chrome15.0.861.0 1 1
+safari6.0 1 1
+chrome4.0.223.4 1 1
+firefox127.0 2 2
+opera9.36. 1 1
+chrome10.0.648.133 2 2
+chrome12.0.703.0 1 1
+chrome88.0.4240.193 4 4
+chrome22.0.847.0 1 1
+chrome89.0.4389.105 3 0
+chrome5.0.375.99 2 2
+safari18.2 11 11
+firefox80.0 2 2
+samsung 2 0
+chrome79.0 1 1
+firefox126.0 6 6
+firefox107.0 55 55
+chrome59.0.3071.125 187 25
+chrome80.0.3987.149 39 39
+firefox137.0 68 5
+chrome15.0.874.120 1 1
+netscape5.0 5 5
+firefox125.0.1 2 2
+safari16.6 1 0
+chrome118.0.0.0 2 2
+chrome60.0.3112.90 1 1
+chrome91.0.4472.114 4 4
+chrome90.0.4430.85 3 3
+chrome4.0.212.0 2 2
+chrome104.0.0.0 10 10
+safari17.2 81 10
+firefox136.0 1 1
+chrome6.0 1 1
+chrome128.0.0.0 187 8
+firefox43.0 17 1
+firefox119.0 1 1
+chrome4.0.211.7 1 1
+opera89.0.4447.51 5 5
+chrome119.0.0.0 98 98
+chrome111.0.0.0 1 1
+chrome114.0.5735.134 1 1
+chrome131.0.0.0 159 59
+safari17.1.2 2 2
+chrome91.0.4472.164 29 0
+chrome121.0.0.0 9 4
+chrome129.0.0.0 101 8
+chrome68.0.3440.91 23 1
+chrome127.0.6533.119 9 0
+safari17.0.1 1 0
+chrome115.0.0.0 83 83
+chrome68.0.3440.106 1 1
+msie5.01 1 1
+msie7.0 2 2
+chrome88.0.4324.181 1 0
+chrome85.0.4183.121 4 4
+edge12 79 2
+chrome116.0.0.0 17 17
+chrome136.0.0.0 1 1
+chrome125.0.0.0 66 6
+chrome91.0.4472.124 24 16
+msie8.0 1 1
+firefox47.0 2 2
+chrome8.0.552.215 1 1
+chrome63.0.3239.111 74 5
+chrome126.0.0.0 68 12
+chrome135.0.0.0 2111 237
+chrome58.0.3029.110 20 20
+chrome9.0.597.19 1 1
+chrome135.0.7049.100 1 0
+firefox118.0 2 2
+chrome73.0.3683.90 2 2
+chrome113.0.5672.126 2 2
+chrome24.0.1312.57 1 1
+chrome24.0.1290.1 1 1
+msie5.0 1 1
+chrome55.0.2883.87 2 2
+chrome135.0.7049.95 1 1
+edge18 62 3
+firefox24.0 3 3
+chrome91.0.4472.77 240 8
+firefox78.0 2 2
+chrome130.0.0.0 166 26
+firefox59.0 1 0
+chrome112.0.5615.138 1 1
+chrome120.0.0.0 11 4
+firefox129.0 4 4
+firefox121.0 1 1
+chrome122.0.0.0 11 9
+chrome87.0.4280.141 2 2
+chrome11.0.696.0 1 1
+opera77.0.4054.203 2 0
+chrome94.0.4606.81 31 31
+chrome132.0.0.0 296 30
+safari10.0 79 2
+chrome110.0.0.0 8 8
+chrome79.0.3945.74 7 7
+firefox135.0 9 1
+chrome4.0.219.4 1 1
+Unknown 3042 2472
+chrome134.0.6998.135 1 0
+chrome83.0.4103.61 18 2
+safari15.0 2 1
+mozilla 228 54
+chrome119.0.6045.9 3 0
+safari18.4 158 11
+chrome17.0.963.66 3 3
+opera80.4.4244.7786 1 1
+chrome5.0.375.125 1 1
+firefox128.0 1 0
+chrome42.0.2311.90 1 1
+firefox123.0 1 1
+firefox103.0 1 1
+chrome32.0.1667.0 1 1
+chrome104.0.5112.101 3 0
+chrome125.0.6422.60 213 6
+chrome32.0.1664.3 1 1
+firefox110.0 3 3
+chrome78.0.3904.108 121 121
+chrome103.0.0.0 3 3
+chrome78.0.3904.70 60 1
+firefox55.0 1 1
+chrome11.0.661.0 1 1
+chrome16.0.912.77 1 1
+chrome6.0.397.0 1 1
+chrome79.0.3945.130 54 54
+chrome79.0.3945.79 118 4
+chrome98.0.4758.102 1 1
+firefox122.0 1 1
+chrome19.0.1061.1 1 1
+safari17.3.1 1 1
+chrome127.0.0.0 64 7
+chrome101.0.4951.64 3 3
+chrome7.0.540.0 1 1
+chrome135.0.7049.52 1 1
+chrome96.0.4664.45 1 1
+chrome133.0.6943.16 19 2
+msie11.0 2 2
+chrome4.0.221.8 1 1
+safari17.6 1 1
+chrome117.0.0.0 2 2
+safari18.3.1 69 3
+firefox114.0 10 10
+chrome95.0.4638.69 18 2
+chrome21.0.1180.82 4 4
+chrome122.0.6261.95 1 0
+chrome8.0.552.344 1 1
+firefox19.0 2 2
+chrome101.0.4951.67 1 1
+safari13.1.1 3 3
+chrome5.0.342.3 1 1
+firefox21.0 3 3
+chrome116.0.5845.1023 61 2
+chrome36.0.1985.125 2 2
+chrome97.0.4692.71 60 8
+chrome27.0.1453.93 2 2
+safari18.1.1 141 11
+chrome88.0.4324.150 3 3
+chrome11.0.672.2 1 1
+chrome10.0.648.204 1 1
+chrome101.0.4951.54 65 65
+chrome63.0.868.0 1 1
+chrome10.0.649.0 1 1
+chrome80.0.3987.162 1 1
+chrome15.0.874.121 1 1
+opera117.0.0.0 28 1
+chrome39.0.2171.95 1 1
+opera8.39. 1 1
+chrome65.0.3325.181 1 1
+chrome13.0.748.0 1 1
+chrome7.0.514.0 1 1
+chrome4.0.237.0 1 1
+msie9.0 2 2
+chrome113.0.0.0 64 5
+chrome134.0.6998.165 28 5
+safari14.1.1 1 1
+chrome4.0.222.5 1 1
+chrome4.0.221.3 2 2
+chrome57.0.2987.108 4 0
+opera9.66. 1 1
+chrome10.0.648.134 1 1
+chrome31.0.1650.16 1 1
+chrome123.0.0.0 3 2
+safari18.0 65 6
+chrome5.0.308.0 1 1
+safari15.4 59 3
+chrome133.0.0.0 283 27
+blackberry 1 1
+opera8.62. 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 22
+Mozilla/5.0_(compatible;_Dataprovider.com) 20250430180511
+Google 20250428001846
+okhttp/3.14.9 20250410053528
+Faraday_v0.17.4 20250410103125
+Python/3.12_aiohttp/3.11.11 20250404053450
+Mozilla/5.0_(compatible) 20250419133118
+Faraday_v2.11.0 20250422145347
+okhttp/4.9.2 20250412203651
+cpp-httplib/0.15.3 20250412034433
+Mozila/5.0 20250415163840
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250429060036
+WordPress/6.8;_https://ugi.net.in 20250430235425
+TMP 20250409123706
+Mozilla/5.0_(compatible;_MatchorySearch/1.3;__https://www.matchory.com) 20250404090943
+axios/1.9.0 20250425194045
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250430005138
+python-httpx/0.24.1 20250413051836
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250424181518
+WordPress/6.7.2;_https://ugi.net.in 20250417011617
+got_(https://github.com/sindresorhus/got) 20250404183000
+\ 20250429144820
+Python/3.11_aiohttp/3.11.16 20250421103627
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 17
+Python/3.11_aiohttp/3.11.16 20250421103627
+\ 20250429144820
+axios/1.9.0 20250425194045
+got_(https://github.com/sindresorhus/got) 20250404183000
+WordPress/6.7.2;_https://ugi.net.in 20250417011617
+python-httpx/0.24.1 20250413051836
+WordPress/6.8;_https://ugi.net.in 20250430235425
+TMP 20250409123706
+Mozila/5.0 20250415163840
+cpp-httplib/0.15.3 20250412034433
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250429060036
+okhttp/4.9.2 20250412203651
+Python/3.12_aiohttp/3.11.11 20250404053450
+Faraday_v2.11.0 20250422145347
+Faraday_v0.17.4 20250410103125
+okhttp/3.14.9 20250410053528
+Google 20250428001846
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 3619 4399
+From1 6 6
+From2 233 244
+From3 5 164
+From4 1323 8747
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 8
+seznam 1 1
+www_google_it 1 1
+www_google_com 224 232
+google_com 0 3
+www_google_de 2 2
+www_google_co_uk 1 1
+www_google_com_hk 3 3
+www_google_ru 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 14
+https://webmail.ugi.net.in/owa/auth/logon.aspx 2 2
+https://l.instagram.com 1 1
+http://zglvoz.slashpet.com 1 1
+https://l.facebook.com 1 1
+http://balsuryagroup.com 0 64
+http://urjaindustries.co.in/index.html 0 1
+https://fumamx.com 0 29
+http://urjaindustries.co.in 0 36
+http://balsuryagroup.com 0 2
+http://www.urjaindustries.co.in 0 12
+http://balsuryagroup.com/history.html 0 2
+http://urjaindustries.co.in/about.html 0 1
+http://balsuryagroup.com/index.html 0 4
+http://zglvoz.slashpet.com/profile/188182618/view/ 0 8
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//ugi.net.in/ 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+//ugi.net.in/ 2
+https 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 14
+403 31 196355
+404 537 12361653
+206 87 804029
+429 68 15436
+421 1 322
+500 1 0
+302 57 0
+406 756 169726
+405 1 42
+401 85 8954
+301 892 236
+409 424 35192
+408 1 422
+503 13 178809
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 180
+/about.html 1 -
+/.env.production 1 -
+/utlandska-casino-i-avsaknad-av-svensk-licens/t.me/casino_utan_svensk_licens 2 https://ugi.net.in/utlandska-casino-i-avsaknad-av-svensk-licens/t.me/casino_utan_svensk_licens
+/310180b6d1092688026c3e.wmv 1 -
+/wp-includes/wp-class.php 1 -
+/products.html 1 -
+/env.js 1 -
+/humans.txt 1 -
+/wp-admin/includes/hello_dolly_v2.php 1 -
+/favicon.png 1 -
+/wp-content/plugins/HelloDollyV2/hello_dolly_v2.php 2 -
+/.aws/credentials 4 -
+/um_services/insulated-glasses/portfolio.html 1 -
+/administrator 2 https://www.google.com
+/um_services/heat-strengthen-glass/about.html 1 -
+/products/index.html 1 -
+/portfolio/conatct-page.html 1 -
+/js/config.js 1 -
+/d9cc9684c3119043a03a89836ec52d43ec5498d092.avi 1 -
+/d6799529952b4acbeb8506da44a9481d20165bc8.ogg 1 -
+/um 1 -
+/wp-content/plugins/WP-Security/templates/login-form.php 1 -
+/.well-known/security.txt 1 -
+/website/.git/config 1 -
+/portfolio/blog.html 1 -
+/fm.php 1 -
+/uploaded_script.php 3 www.google.com
+/um_services/security-glass/about.html 1 -
+/38 1 https://ugi.net.in/38
+/about/portfolio.html 1 -
+/um_services/laminated-glasses/conatct-page.html 1 -
+/goat.php 8 -
+/wp-content/plugins/instant-appointment/assets/css/bootstrap-icons.min.css 1 -
+/about/about.html 1 -
+/blog/.git/config 2 -
+/um_services/heat-strengthen-glass/blog.html 1 -
+/owa/auth.owa 2 https://ugi.net.in/owa/auth/logon.aspx
+/portfolio/products.html 1 -
+/contact/portfolio.html 2 -
+/um_services/insulated-glasses/conatct-page.html 1 -
+/portfolio/about.html 1 -
+/um_services/security-glass/index.html 1 -
+/.git/config 31 -
+/2025/03/page/4/t.me/casino_utan_svensk_licens 2 -
+/index.php 14 https://ugi.net.in
+/6446cb458174c44da70c02c19db5e76e566694.wmv 1 -
+/6bc35253d7c41016e7b6059ae001.mpeg 1 -
+/products/products.html 1 -
+/66cb56c0a84b6a.mkv 1 -
+/blog/wp-login.php 12 -
+/wp-content/themes/aihub/style.css 1 -
+/portfolio/index.html 1 -
+/um_services/security-glass/conatct-page.html 1 -
+/um_services/tempered-glasses/about.html 1 -
+/backend/.git/config 1 -
+/membership-pricing/ 1 -
+/wp-content/plugins/wordpress-file-upload-pro/css/wordpress_file_upload_style.css 3 -
+/wp-content/plugins/suretriggers/app/build/main.css 2 -
+/admin/.env 1 -
+/production/.git/config 1 -
+/wp-content/themes/woffice/style.css 1 -
+/products/about.html 1 -
+/category/uncategorized/page/3/t.me/casino_utan_svensk_licens 1 https://ugi.net.in/category/uncategorized/page/3/t.me/casino_utan_svensk_licens
+/about/conatct-page.html 1 -
+/api/_profiler/phpinfo 1 -
+/phpinfo 1 -
+/wp-content/plugins/drag-and-drop-multiple-file-upload-for-woocommerce/assets/css/dnd-upload-wc.css 1 -
+/wp-content/themes/umiya-glasses/assets/js/bootstrap.bundle.min.js.map 1 -
+/about/index.html 1 -
+/products/conatct-page.html 1 -
+/blog.html 1 -
+/um_services/heat-strengthen-glass/portfolio.html 1 -
+/tinyfilemanager.php 1 -
+/security.txt 1 -
+/php_info.php 1 -
+/author/umiyaadmin/page/4/t.me/casino_utan_svensk_licens 2 https://ugi.net.in/author/umiyaadmin/page/4/t.me/casino_utan_svensk_licens
+/30c6ba8e4c4065.mpg 1 -
+/wp/wp-login.php 9 -
+/sitemaps.xml 2 -
+/7524371b6c834dcd2075aa359e4241b66ba6aa9920.mp4 1 -
+/js/app.js 1 -
+/wp-json/sure-triggers/v1/ 1 -
+/um_services/laminated-glasses/index.html 1 -
+/um_services/insulated-glasses/about.html 1 -
+/config.json 1 -
+/api/config.js 1 -
+/products/portfolio.html 1 -
+/wp-content/plugins/WordPressCore/include.php 1 -
+/dashboard/.git/config 1 -
+/wp-content/.git/config 2 -
+/um_services/insulated-glasses/products.html 1 -
+/2025/03/page/3/t.me/casino_utan_svensk_licens 1 https://ugi.net.in/2025/03/page/3/t.me/casino_utan_svensk_licens
+/past.php 4 -
+/infos/ 1 -
+/um_services/insulated-glasses/blog.html 1 -
+/contact/products.html 2 -
+/um_services/tempered-glasses/products.html 1 -
+/portfolio.html 1 -
+/_profiler/phpinfo.php 1 -
+/um_services/security-glass/portfolio.html 1 -
+/filemanager.php 1 -
+/category/uncategorized/page/2/t.me/casino_utan_svensk_licens 1 https://ugi.net.in/category/uncategorized/page/2/t.me/casino_utan_svensk_licens
+/um_services/tempered-glasses/blog.html 1 -
+/.env_sample 1 -
+/.env.save 1 -
+/backup/.git/config 1 -
+/um_services/ceramic-printed-glass/conatct-page.html 1 -
+/wp-content/themes/hello_dolly_v2.php 1 -
+/contact/conatct-page.html 2 -
+/dev/.git/config 1 -
+/info/ 1 -
+/um_services/tempered-glasses/portfolio.html 1 -
+/um_services/heat-strengthen-glass/products.html 1 -
+/um_services/security-glass/blog.html 1 -
+/wp-content/plugins/drag-and-drop-multiple-file-upload-for-woocommerce/assets/js/codedropz-uploader-min.js 2 -
+/um_services/ceramic-printed-glass/index.html 1 -
+/index.html 2 -
+/um_services/tempered-glasses/index.html 1 -
+/um_services/heat-strengthen-glass/index.html 1 -
+/.ftpconfig 1 -
+/wp-seo.php 1 -
+/ 44 https://www.google.com
+/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_style.css 1 -
+/conatct-page.html 10 http://ugi.net.in
+/contact/index.html 2 -
+/um_services/laminated-glasses/about.html 1 -
+/wp-content/mu-plugins/ 1 -
+/sitemap_index.xml 2 -
+/.zer0day 1 -
+/portal/.git/config 1 -
+/.env.prod 1 -
+/um_services/heat-strengthen-glass/conatct-page.html 1 -
+/wp-content/themes/umiya-glasses/assets/css/owl.video.play.png 3 -
+/e53791164cc4ed3e4cb1228dc04edb7da199b77439.flac 1 -
+/um_services/ceramic-printed-glass/about.html 1 -
+/.well-known/traffic-advice 55 -
+/credentials 1 -
+/_profiler/phpinfo 5 -
+/portfolio/portfolio.html 1 -
+/about/blog.html 1 -
+/36 1 https://ugi.net.in/36
+/shop/wp-login.php 12 -
+/um_services/security-glass/products.html 1 -
+/wp-emoji-release.min.js 11 -
+// 111 -
+/sftp-config.json 1 -
+/.env_1 1 -
+/.env.dev 1 -
+/um_services/ceramic-printed-glass/products.html 1 -
+/.env.www 1 -
+/um_services/ceramic-printed-glass/blog.html 1 -
+/um_services/tempered-glasses/conatct-page.html 1 -
+/assets/env.js 1 -
+/cms/.git/config 2 -
+/819b90b4873209808cd09da44e7e723d43ac4239ea31ad.mpg 1 -
+/.vscode/sftp.json 1 -
+/37 1 https://ugi.net.in/37
+/contact/about.html 2 -
+/api/.git/config 1 -
+/wp-sec.php 1 -
+/author/umiyaadmin/page/3/t.me/casino_utan_svensk_licens 2 https://ugi.net.in/author/umiyaadmin/page/3/t.me/casino_utan_svensk_licens
+/products/blog.html 1 -
+/wp-cm.php.php 1 -
+/contact/blog.html 2 -
+/sitemap 5 -
+/um_services/laminated-glasses/blog.html 1 -
+/um_services/laminated-glasses/products.html 1 -
+/nope.php 3 -
+/wp-content/plugins/definite-unique/license.txt 1 -
+/.env.example 1 -
+/um_services/ceramic-printed-glass/portfolio.html 1 -
+/um_services/insulated-glasses/index.html 1 -
+/about/products.html 1 -
+/casino-utan-svensk-licens-och-spelpaus-2025-goplay/t.me/casino_utan_svensk_licens 1 https://ugi.net.in/casino-utan-svensk-licens-och-spelpaus-2025-goplay/t.me/casino_utan_svensk_licens
+/ads.txt 7 -
+/wp-json/custom/v1/ 2 -
+/frontend/.git/config 1 -
+/um_services/laminated-glasses/portfolio.html 1 -
+/phpinfo.php 2 -
+/34 1 https://ugi.net.in/34
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1405
+119.18.54.35 2410 2410 219149 20250430235425
+108.141.166.46 132 682 11260888 20250413051834
+54.242.35.41 21 21 237390 20250427142130
+13.59.87.67 20 97 4621622 20250404183000
+54.196.199.72 19 19 210592 20250407230830
+115.241.107.58 19 219 15962139 20250430163304
+220.197.30.97 19 24 843254 20250409123720
+69.160.160.50 18 77 4215659 20250430212803
+220.197.30.96 18 31 1537380 20250409123721
+47.79.122.22 17 17 692944 20250415142830
+188.245.87.15 17 17 183522 20250404090943
+47.79.0.139 15 15 334519 20250415233906
+34.45.197.140 14 14 61677 20250428130915
+138.199.29.146 14 14 114475 20250414135439
+36.81.239.8 14 14 191509 20250430090042
+104.196.22.2 14 14 61677 20250420112339
+47.79.98.204 13 13 815482 20250414170243
+47.79.98.205 12 12 444400 20250415134031
+47.254.83.202 12 12 136579 20250407233841
+47.79.5.22 12 12 589569 20250415142644
+47.79.6.175 11 11 425407 20250415140607
+47.79.5.88 11 12 486082 20250416222855
+47.79.98.245 11 11 586823 20250415065102
+47.79.121.231 11 11 265203 20250415142648
+47.79.6.241 11 11 871084 20250417071752
+73.129.218.2 1 1 2819 20250414234529
+217.114.43.197 1 9 120283 20250407092724
+34.28.108.192 1 1 13680 20250425153315
+106.217.177.155 6 65 4501585 20250424232553
+47.82.10.247 1 1 27993 20250404202935
+119.13.223.59 1 9 119359 20250412002302
+27.59.94.16 0 1 5459 
+31.204.18.194 1 1 10158 20250415233719
+187.191.8.155 1 1 403 20250424012043
+102.129.130.37 1 1 24695 20250403180320
+35.194.55.141 0 3 107836 
+47.82.11.167 1 1 24778 20250408045048
+103.52.33.140 0 1 5365 
+47.82.11.121 2 2 51253 20250415142050
+91.124.117.141 1 1 13802 20250407234331
+47.82.11.70 3 3 53103 20250415074037
+116.202.206.40 1 1 13472 20250411224908
+152.59.22.202 4 60 4230455 20250423154712
+199.244.88.230 1 1 13471 20250408053332
+156.228.0.91 1 1 2816 20250426054539
+47.79.123.96 3 3 71598 20250414170131
+87.236.176.180 0 1 1568 
+206.168.34.92 0 1 1568 
+162.120.184.10 1 1 0 20250430180500
+179.94.175.208 1 1 265 20250408154908
+149.56.150.76 0 1 5365 
+167.94.138.120 1 3 16608 20250416172629
+138.197.89.81 1 2 15040 20250409165138
+193.186.4.137 3 3 40416 20250410112401
+150.129.149.165 5 74 4825625 20250402145354
+193.186.4.186 1 1 13472 20250403124544
+47.82.10.92 1 1 161780 20250404102649
+103.84.105.87 2 62 4254402 20250423123717
+110.224.129.121 0 1 5365 
+185.247.228.175 1 1 10158 20250415233719
+47.82.11.135 1 1 33386 20250404131326
+193.186.4.138 4 4 54509 20250428121424
+45.143.196.238 2 2 25068 20250426115058
+189.1.219.96 1 1 9929 20250401215703
+52.200.211.223 1 1 0 20250422233236
+205.210.31.26 1 1 7381 20250425081645
+64.226.157.214 2 16 947334 20250426205229
+156.228.77.26 1 1 2819 20250410105114
+27.96.90.42 0 1 5365 
+36.70.134.17 1 1 7652 20250414101941
+128.199.238.9 3 3 110064 20250412184716
+48.210.125.34 1 1 0 20250424160026
+47.82.11.191 1 1 24264 20250411092301
+47.82.11.93 3 3 190385 20250411090405
+35.91.142.198 1 1 13472 20250401083639
+161.77.160.152 1 1 10158 20250415233719
+47.82.11.212 2 2 199756 20250415135629
+103.106.228.246 0 1 5365 
+194.35.113.10 4 4 11486 20250423095054
+47.82.10.125 1 1 27470 20250404101816
+107.151.219.200 3 3 110064 20250410232633
+186.224.152.241 2 2 5741 20250403120735
+154.16.192.182 0 1 1396 
+124.243.178.66 1 1 12787 20250406093918
+47.82.9.2 2 2 24055 20250404130134
+96.125.168.199 1 1 13679 20250424202723
+117.99.52.56 2 60 4247376 20250429151254
+149.57.191.239 1 18 242743 20250427071800
+77.72.1.49 1 1 2816 20250425155408
+34.216.175.253 1 1 13472 20250408013354
+47.82.11.116 1 1 168492 20250414170238
+54.198.122.219 1 1 13679 20250422075838
+90.199.131.101 1 8 133513 20250415233740
+104.207.35.94 1 1 2820 20250407084032
+23.81.60.157 1 1 13679 20250429144820
+47.82.11.103 1 1 31049 20250415132948
+101.44.25.104 1 1 10101 20250404131157
+4.255.247.224 1 1 54058 20250417011610
+47.82.11.83 1 1 25352 20250413165145
+47.82.10.154 1 1 118030 20250412065224
+186.227.207.161 1 1 2817 20250424112430
+47.82.10.202 1 1 30098 20250404202832
+140.228.23.22 1 1 27387 20250403044632
+47.82.11.216 1 1 25992 20250408143821
+44.235.211.232 1 1 11 20250429124115
+47.79.123.148 9 9 187035 20250415134605
+86.135.41.203 1 1 11631 20250415233718
+192.178.15.36 8 49 1529318 20250423164034
+125.161.141.196 1 1 7652 20250414102012
+165.22.50.199 0 1 1396 
+149.56.160.160 5 5 204341 20250430180421
+106.200.26.123 0 1 5459 
+47.82.10.106 1 1 29776 20250404111046
+42.111.193.122 3 60 4430000 20250405134619
+152.59.1.240 4 63 4524496 20250413170517
+142.93.6.51 1 2 15247 20250419133113
+165.225.120.122 0 1 5459 
+180.101.52.6 0 3 31169 
+49.36.91.87 0 1 5365 
+147.185.132.102 1 1 54058 20250415221348
+47.82.11.47 1 1 23663 20250411080511
+47.82.11.34 1 1 151844 20250415142200
+106.221.73.237 6 76 5718232 20250411132954
+72.14.201.143 4 4 54303 20250429193625
+190.92.201.99 1 1 9942 20250404011158
+93.158.91.237 1 1 13472 20250409104850
+45.186.75.88 2 30 2919348 20250415233736
+47.82.11.174 1 1 26816 20250411085304
+199.45.155.99 1 3 16608 20250413144104
+47.82.11.118 1 1 28022 20250408143121
+168.181.173.107 2 2 5838 20250417231626
+149.20.243.10 1 18 242514 20250427071900
+43.241.127.82 0 1 5365 
+43.245.140.166 2 2 5834 20250421111602
+106.213.154.73 5 62 4443472 20250416161849
+172.93.218.207 1 1 40100 20250429081206
+89.184.14.115 1 1 9929 20250415233721
+196.251.80.141 3 3 111036 20250426144715
+35.232.135.26 0 4 894314 
+47.82.11.218 1 1 21805 20250408142108
+117.217.73.100 4 67 5415929 20250401165110
+156.251.111.169 2 2 26944 20250415233715
+47.82.10.36 1 1 25845 20250413163311
+177.81.158.129 1 1 10101 20250413062537
+49.145.201.191 1 1 7652 20250414101832
+149.22.90.237 2 2 5741 20250401001330
+47.82.10.108 2 2 57001 20250404192412
+38.250.153.16 1 1 13472 20250406022050
+49.36.235.204 4 89 5245754 20250423004010
+103.115.87.53 1 1 13472 20250405004201
+102.129.130.101 1 1 13482 20250414053815
+66.249.68.2 1 1 23976 20250409092701
+1.39.25.162 0 1 5459 
+152.59.5.21 2 43 2958127 20250402205827
+156.228.104.31 2 2 5751 20250412120939
+66.29.141.59 1 1 13679 20250421104849
+217.194.131.135 1 1 13472 20250415233714
+168.151.139.241 1 9 119518 20250412002302
+49.0.246.98 1 1 10101 20250408220436
+208.207.128.32 2 2 20401 20250415233729
+47.79.5.167 8 8 328483 20250415134142
+49.36.69.188 0 1 5459 
+2a06:98c0:3600::103 2 2 27151 20250417095758
+54.175.89.116 1 1 51530 20250420071353
+47.82.11.11 3 3 385619 20250415074530
+123.6.49.44 0 3 16095 
+154.16.246.249 1 1 173744 20250417070026
+194.75.9.67 2 2 13737 20250415164306
+34.56.93.232 3 3 110064 20250413180732
+152.58.33.65 0 1 5459 
+87.236.176.107 1 1 13471 20250410074641
+177.37.181.164 2 2 22247 20250418223437
+47.82.11.50 2 2 41921 20250411082154
+185.212.115.16 2 2 5744 20250417123102
+91.124.117.247 1 1 25352 20250403184845
+177.130.241.140 2 2 26944 20250415233715
+45.93.184.183 1 1 160388 20250408180557
+47.79.3.239 8 8 560504 20250415141222
+47.251.55.133 9 9 115984 20250429114000
+193.186.4.184 4 4 40623 20250417165608
+165.22.122.166 1 1 13679 20250418025339
+106.216.89.59 3 61 5061176 20250429163358
+24.199.96.79 1 1 10228 20250418045343
+152.59.4.251 3 60 4442224 20250407085043
+47.79.98.210 10 10 460007 20250415235233
+166.108.207.251 1 1 10101 20250408094544
+140.228.23.6 1 1 13507 20250403031044
+104.207.49.163 2 2 5750 20250407130746
+47.82.10.10 1 1 29951 20250415140025
+65.48.181.22 1 11 356939 20250415233732
+192.141.120.108 4 4 47872 20250418223439
+131.196.229.129 1 1 265 20250421111555
+15.235.114.75 2 60 4220030 20250414012311
+141.11.146.67 0 1 5459 
+209.99.169.10 1 1 13472 20250415233714
+47.82.10.150 2 2 55868 20250404192227
+15.188.14.231 3 3 37703 20250427051723
+162.43.224.217 1 1 10158 20250415233730
+44.246.224.54 2 2 55080 20250410103125
+47.82.11.21 1 1 67836 20250404110839
+65.21.138.160 1 1 54058 20250411192344
+165.232.39.189 1 1 10116 20250418103442
+173.212.207.177 1 1 2817 20250424133144
+13.239.249.58 1 1 13679 20250417165301
+140.228.23.91 1 1 27874 20250403113417
+87.236.176.237 1 1 13680 20250418205507
+47.82.11.63 1 1 181604 20250410154836
+216.180.105.85 0 1 5365 
+185.61.218.139 2 2 5742 20250418142445
+42.111.192.70 3 63 5121792 20250423164027
+47.82.11.113 1 1 19835 20250404113904
+72.14.201.182 2 2 26942 20250415145823
+167.71.238.60 3 3 111036 20250430160324
+47.82.10.93 1 1 11261 20250404111616
+96.62.105.231 1 1 26200 20250403080756
+110.238.108.254 1 1 10243 20250409134055
+196.251.89.80 3 3 110064 20250405080415
+47.82.11.206 1 1 160465 20250415134939
+13.42.205.55 5 5 67775 20250429082631
+47.82.11.231 1 1 118205 20250415133903
+47.82.10.203 1 1 175242 20250404103821
+47.82.11.125 1 1 24854 20250408061217
+34.116.251.84 2 79 4621877 20250412001642
+142.147.244.158 1 1 9929 20250414141950
+64.233.173.141 0 3 7634 
+58.97.252.165 1 1 10158 20250415233729
+129.122.164.163 1 1 13472 20250415233718
+82.86.108.198 1 1 7652 20250414101803
+123.19.168.216 1 1 13472 20250416214345
+173.252.95.2 0 1 5365 
+47.82.10.116 1 2 18974 20250415091623
+47.82.11.102 1 1 166020 20250413182132
+47.82.11.48 1 1 13300 20250413171819
+172.59.186.56 2 2 5741 20250406070617
+156.228.89.115 2 2 5735 20250426044827
+35.226.138.182 0 5 371048 
+47.82.10.83 1 1 13950 20250416200821
+103.228.147.149 7 92 6152794 20250402120829
+199.45.155.89 0 1 1568 
+47.82.11.119 2 2 48776 20250408142127
+120.36.16.178 1 1 13472 20250406024348
+152.39.220.114 2 2 23401 20250415233721
+158.46.167.252 1 1 10243 20250415233722
+194.156.79.226 2 2 72272 20250430174926
+152.58.112.21 1 1 0 20250415233712
+47.82.10.216 0 1 8920 
+54.235.58.143 1 1 11204 20250404191645
+178.171.10.158 1 1 10158 20250415233719
+47.82.11.3 1 1 170116 20250415140836
+140.228.23.92 1 1 14262 20250426231024
+140.228.23.217 1 1 175825 20250402233345
+47.82.11.45 1 1 24264 20250408045509
+47.82.11.131 1 1 13460 20250408140716
+5.82.80.150 2 2 5742 20250407061619
+167.94.145.100 1 3 16814 20250423140734
+47.82.11.184 1 1 29337 20250408143537
+187.20.6.188 1 1 7652 20250414101654
+52.140.67.9 2 61 4221598 20250407195324
+47.82.11.106 1 1 173407 20250415141326
+113.190.76.31 1 1 7652 20250414101923
+206.168.34.210 1 3 16608 20250407151719
+149.126.223.88 2 2 54334 20250414080650
+34.59.15.127 0 1 7847 
+154.16.192.217 0 1 1396 
+91.124.117.113 1 1 13928 20250418061459
+80.94.97.38 1 1 2817 20250424115355
+111.184.107.32 2 2 5742 20250407055806
+109.199.118.129 1 1 13472 20250413062242
+47.82.10.167 1 1 29341 20250404110855
+35.205.163.48 1 1 54058 20250408110203
+47.82.10.121 1 1 25165 20250404102851
+45.165.149.213 2 2 5743 20250404131328
+106.219.163.140 4 4 49352 20250402060602
+106.221.68.225 0 1 5459 
+47.82.10.70 2 2 39811 20250414232442
+136.32.229.177 1 1 0 20250415233723
+96.62.105.39 1 1 26215 20250403073157
+34.139.142.149 6 6 10535 20250425194045
+18.216.76.174 0 2 23506 
+198.44.171.92 3 3 111036 20250426081835
+119.13.87.34 1 1 12787 20250404215753
+156.228.182.26 1 1 2817 20250426044816
+35.87.173.231 2 2 108116 20250416042416
+185.199.236.107 1 1 2816 20250423191144
+122.161.48.118 2 61 4248502 20250414112010
+41.237.218.56 1 1 7652 20250414102104
+69.57.162.20 1 1 13680 20250425213310
+159.223.89.247 0 1 1396 
+72.14.201.191 1 1 13679 20250430144804
+156.237.93.2 1 1 12787 20250415233716
+80.116.230.144 1 1 10243 20250415233733
+47.82.11.71 3 3 82949 20250408142149
+199.45.155.111 1 3 16608 20250416115939
+91.124.117.166 1 1 13708 20250418124702
+45.77.152.68 1 1 13598 20250415233712
+96.62.105.33 1 1 25992 20250408195548
+156.228.125.31 2 2 5750 20250407122354
+51.68.13.62 6 6 220128 20250404193532
+182.23.89.114 1 1 13679 20250421111542
+34.78.184.176 1 1 54058 20250415212406
+81.79.74.155 2 2 5743 20250404105748
+47.82.10.50 3 3 60580 20250404114401
+152.59.1.38 0 1 296937 
+51.15.162.185 1 1 27407 20250429024930
+154.213.195.187 1 1 2816 20250419174526
+76.38.58.4 2 2 5834 20250421111607
+47.82.11.20 1 1 30703 20250404202506
+152.58.61.252 0 1 1568 
+217.146.82.196 3 3 110064 20250408083633
+140.228.23.138 1 1 161780 20250403052632
+96.62.105.98 1 1 26473 20250403050632
+104.207.63.150 1 1 2820 20250407084032
+139.171.113.94 1 1 13471 20250410130332
+177.54.192.178 2 2 5838 20250419192251
+45.89.148.191 1 1 13374 20250403121417
+47.82.11.10 1 1 24925 20250404061904
+48.210.125.7 2 2 0 20250419145657
+203.88.142.210 3 80 5850596 20250410094410
+188.212.140.201 1 1 12787 20250415233716
+35.243.150.173 1 1 2817 20250424092444
+199.188.200.133 1 1 13680 20250422232635
+72.14.201.139 2 2 27151 20250429173006
+193.186.4.190 3 3 41038 20250430112325
+54.234.202.126 1 1 54544 20250420000858
+47.82.11.150 1 1 35739 20250408141219
+35.195.215.216 1 1 54544 20250423171048
+152.59.3.56 3 62 5326667 20250412121454
+78.26.151.147 2 29 1373622 20250415234433
+64.137.101.153 0 1 5459 
+193.186.4.187 4 4 40623 20250428172633
+47.79.1.203 7 7 418117 20250413185146
+178.171.108.243 2 2 13472 20250415233721
+193.186.4.136 4 4 54095 20250430181547
+45.143.172.128 1 1 9929 20250415233731
+162.142.125.210 1 3 16608 20250407111758
+54.80.236.228 1 1 0 20250427210851
+182.253.40.54 1 1 13679 20250419041106
+45.93.184.234 1 1 26833 20250407222320
+143.198.4.120 1 1 10289 20250418145658
+184.146.139.83 0 1 5459 
+180.101.52.102 0 2 4428 
+182.69.75.13 2 62 4254402 20250422173442
+192.104.34.34 1 1 54058 20250402025129
+47.82.11.62 1 1 25619 20250404065218
+49.36.91.171 0 1 5459 
+103.75.227.66 0 1 5365 
+64.233.173.101 0 3 3007 
+190.114.247.184 1 1 11204 20250412215857
+103.114.65.220 0 1 5365 
+223.184.0.250 4 64 4499160 20250402171949
+62.57.25.227 1 1 13680 20250428001846
+56.228.26.55 1 1 54058 20250416091355
+35.164.222.55 1 1 0 20250421181221
+157.90.158.79 1 27 716839 20250410040325
+104.131.175.149 3 3 110064 20250402084026
+192.178.15.37 7 57 1361274 20250429163404
+202.62.37.65 1 1 13677 20250424202818
+223.185.28.208 3 3 41039 20250425070506
+140.245.54.61 2 2 5732 20250421205803
+157.230.44.88 0 1 1396 
+162.142.125.212 0 1 1568 
+95.182.125.201 2 2 5743 20250423095323
+46.8.157.251 2 2 5742 20250425132627
+47.82.11.36 2 2 36205 20250414174653
+64.227.126.121 1 1 10128 20250418152727
+156.233.89.143 6 6 17100 20250425115134
+182.237.11.94 6 87 7921426 20250428102527
+114.125.171.253 1 1 7652 20250414101817
+185.193.125.104 1 1 13679 20250429105622
+149.50.218.202 1 1 7381 20250428213043
+103.239.254.252 3 3 8617 20250415230223
+44.234.86.41 3 61 4202540 20250408123558
+170.106.192.94 4 4 51746 20250410053528
+52.149.60.125 0 1 0 
+102.164.30.250 3 3 19422 20250424203130
+47.79.122.209 5 6 143631 20250408141618
+47.82.10.159 2 2 52446 20250404191932
+47.82.11.64 3 3 78620 20250413182458
+47.82.10.189 0 1 58953 
+47.82.11.152 1 1 181604 20250412062856
+196.242.20.230 3 3 58126 20250403030204
+208.207.129.154 1 1 10243 20250415233722
+194.28.28.219 1 1 265 20250417231607
+220.197.32.134 1 1 13472 20250401184558
+190.215.223.58 1 1 13472 20250414145242
+192.178.6.36 1 1 13679 20250426070155
+156.253.170.73 2 2 5735 20250424070144
+156.242.33.166 2 2 5735 20250424082633
+103.14.107.141 1 1 10158 20250415233719
+185.193.156.153 0 1 1396 
+45.191.54.62 1 1 13472 20250415233721
+23.95.23.224 1 23 353387 20250427142054
+152.58.63.18 0 1 5365 
+156.253.179.249 6 6 17100 20250425125957
+69.58.79.88 1 18 242827 20250427071846
+47.82.10.153 1 1 26228 20250404064146
+27.115.124.109 0 1 5365 
+177.126.149.37 1 1 7652 20250414101710
+47.82.11.104 1 1 24775 20250408043449
+47.82.11.186 4 4 65600 20250415135006
+209.99.135.35 0 1 5459 
+178.171.57.15 1 1 9929 20250415233731
+147.185.132.84 1 1 54544 20250418064715
+47.82.11.40 4 4 490358 20250413184946
+27.115.124.45 0 1 5365 
+149.50.218.65 2 2 5741 20250406065830
+47.82.11.156 1 1 173598 20250414174400
+91.124.117.124 1 1 183002 20250415052315
+91.124.117.51 1 1 14139 20250421021810
+152.42.255.97 3 3 110064 20250408140000
+106.215.154.90 5 78 7626336 20250424163505
+192.121.136.190 1 1 13679 20250429144518
+14.194.147.74 2 62 4253865 20250410174712
+154.213.167.1 1 1 11389 20250423223338
+104.207.47.239 2 2 5750 20250407122355
+82.102.18.118 2 2 108602 20250430012110
+31.56.240.153 1 12 462783 20250406044328
+116.212.190.129 1 1 10243 20250415233733
+27.115.124.38 0 1 5365 
+106.76.248.25 0 1 5459 
+89.187.179.6 3 3 41037 20250430111327
+161.77.90.81 1 1 9929 20250415233731
+50.63.24.239 1 1 2817 20250424151037
+47.82.10.9 1 1 27494 20250404100505
+168.151.104.10 1 1 0 20250412001810
+107.151.215.112 3 3 111036 20250419095448
+110.238.110.55 1 1 9929 20250402215443
+102.129.252.157 0 1 1396 
+37.59.218.157 3 3 110064 20250404203843
+42.108.76.117 4 59 4177813 20250401155626
+142.93.14.79 1 1 54544 20250419154739
+156.228.91.235 1 1 2820 20250407184951
+154.214.1.190 10 10 28312 20250410050329
+179.43.149.114 1 1 13472 20250412070835
+47.82.11.33 3 3 306135 20250414164607
+167.172.130.206 3 3 110064 20250402082339
+108.165.142.49 1 1 9929 20250415233731
+66.29.141.204 1 1 2817 20250424111300
+200.142.110.44 1 1 13679 20250424202831
+5.133.192.108 1 2 15040 20250401214348
+105.78.128.128 1 1 10243 20250414044959
+140.228.23.131 1 1 14020 20250421172957
+47.82.11.57 1 1 118205 20250411092413
+144.217.135.238 2 61 4252834 20250430180503
+136.227.191.113 2 2 25103 20250415233718
+89.46.242.93 1 1 10158 20250415233719
+138.197.8.229 1 1 54058 20250413220300
+3.238.147.168 1 1 13472 20250415112105
+156.228.107.106 6 6 17100 20250425102903
+47.82.10.55 2 2 51419 20250411084414
+47.82.11.28 2 2 40676 20250415143338
+47.82.9.1 1 1 27061 20250404200345
+136.158.2.194 1 1 7652 20250414101747
+152.59.37.19 1 19 619272 20250420151048
+94.102.55.18 1 1 13679 20250428093145
+1.38.176.55 4 65 4531429 20250403120434
+34.123.170.104 0 24 505086 
+197.87.11.29 1 1 13472 20250405070748
+143.244.57.92 3 3 110064 20250408130534
+49.36.91.19 2 62 3718741 20250419152246
+172.98.191.120 1 1 9929 20250415233731
+98.124.44.196 0 1 5459 
+42.106.22.244 1 1 0 20250429174457
+106.76.95.155 1 57 4152672 20250430112347
+13.48.130.34 1 1 54544 20250425180642
+46.8.157.223 2 2 5741 20250429074301
+46.8.22.237 2 2 5743 20250423093004
+34.55.106.208 0 5 632656 
+47.82.11.25 2 2 201602 20250417095804
+139.59.46.213 1 2 15040 20250401114557
+128.199.126.239 1 1 13679 20250419093143
+94.139.58.185 1 1 9929 20250415233722
+47.82.11.100 3 3 80641 20250414173823
+47.82.11.77 3 3 74531 20250415133834
+152.59.22.3 2 58 4166351 20250429162834
+69.116.169.154 2 2 5743 20250408060351
+47.82.11.15 2 2 39802 20250415083340
+198.245.110.55 1 1 10243 20250415233735
+188.116.24.109 1 1 13679 20250421231954
+36.65.207.202 1 1 7652 20250414102109
+47.82.11.18 2 2 51267 20250404201917
+14.162.196.196 1 1 2923 20250409032915
+47.82.11.161 1 1 26104 20250408140652
+93.119.99.99 1 1 0 20250415233711
+35.230.38.196 3 3 56780 20250416134952
+47.79.122.126 10 10 359968 20250417200114
+47.82.11.127 1 1 25228 20250413162724
+51.68.13.197 3 3 110064 20250407022028
+47.79.121.39 6 6 293426 20250414165219
+156.228.83.214 2 2 5734 20250426054547
+156.228.95.97 1 1 2819 20250414053604
+189.75.105.111 1 1 12787 20250413191410
+117.99.85.66 0 1 5365 
+40.136.224.81 1 1 13472 20250416174241
+195.154.78.111 1 1 27407 20250429013036
+183.83.147.144 0 1 5459 
+85.239.39.156 2 2 5742 20250429213736
+217.160.202.182 1 1 13680 20250428044129
+182.48.226.137 0 1 5459 
+27.59.94.29 2 60 4247375 20250429205455
+27.115.124.101 0 2 10730 
+161.123.171.67 2 61 4252299 20250412001859
+106.205.233.113 0 1 5365 
+192.36.24.172 1 1 13679 20250417051029
+156.253.167.187 2 2 5735 20250425222408
+47.82.11.145 1 1 177501 20250414171845
+87.236.176.82 0 1 1568 
+103.10.224.137 0 1 5365 
+80.87.176.204 1 1 13472 20250405143029
+79.173.88.118 2 61 4252299 20250406044741
+212.92.83.231 1 1 10243 20250415233733
+47.82.10.137 1 1 183002 20250404062215
+123.31.131.239 1 1 9929 20250415233722
+72.14.201.142 4 4 40623 20250423185352
+34.122.147.229 2 75 4537696 20250412001557
+47.82.10.172 1 1 58879 20250404062016
+47.82.11.245 1 1 13516 20250415183512
+47.79.6.193 5 5 224080 20250415132829
+103.118.29.120 1 1 2817 20250424141139
+46.202.78.162 1 1 11631 20250414140042
+143.0.191.165 1 1 12974 20250418223439
+90.127.91.37 1 1 12787 20250415233716
+185.31.202.245 1 1 13598 20250414140139
+175.137.10.126 1 1 7652 20250414101949
+176.42.28.236 1 1 7399 20250414101651
+96.62.105.42 1 1 13351 20250414205759
+3.250.224.60 1 1 13471 20250402005248
+47.82.10.237 1 1 13739 20250416130211
+114.31.148.24 0 1 0 
+152.58.36.25 0 1 5459 
+103.85.10.243 9 91 6297542 20250403143406
+35.90.214.221 1 1 13679 20250421222046
+146.103.10.78 1 1 14089 20250424112435
+45.161.137.207 2 2 21617 20250418223438
+47.82.11.158 2 2 198350 20250413155642
+47.79.117.252 7 7 440457 20250417165235
+85.209.72.5 2 2 5893 20250418214256
+91.124.117.168 1 1 13307 20250408152329
+45.170.14.234 1 1 13472 20250416171830
+47.82.11.78 1 1 25438 20250411085735
+74.125.150.2 0 6 166543 
+91.124.117.120 1 1 13856 20250415072557
+106.76.249.127 0 1 0 
+102.165.16.231 1 1 13679 20250420094033
+180.101.52.135 0 1 37975 
+3.82.141.11 1 1 13472 20250402230621
+140.179.86.220 0 1 5459 
+47.82.11.9 2 2 75971 20250408041214
+87.236.176.154 0 1 1568 
+35.202.254.132 3 3 110064 20250404193518
+149.22.98.49 1 1 13679 20250419003803
+31.13.127.8 0 1 5365 
+47.82.11.39 3 3 69753 20250415142405
+114.10.118.216 1 1 7652 20250414101856
+47.82.11.17 2 2 38428 20250413085743
+72.14.201.141 3 3 40623 20250429114834
+18.237.228.189 1 1 0 20250412181916
+111.119.233.125 1 1 10101 20250409054116
+3.81.59.145 1 1 13472 20250415075237
+218.156.103.31 1 1 7652 20250414101739
+43.241.146.250 0 1 5365 
+85.239.35.233 2 2 5740 20250417034024
+116.111.20.124 1 1 7652 20250414101659
+47.79.5.207 7 7 304638 20250415132058
+47.82.11.27 1 1 13513 20250411082006
+185.247.137.110 0 1 1568 
+93.180.237.80 1 9 119346 20250412002438
+121.40.185.81 1 1 13472 20250412072535
+107.77.233.209 2 2 5743 20250408053427
+67.84.70.210 1 1 13472 20250404053450
+47.82.11.8 2 2 49012 20250415135917
+18.222.24.160 9 71 1012558 20250420164812
+49.34.171.28 2 59 4171810 20250429111744
+142.93.71.144 2 2 5743 20250402034731
+172.253.192.248 0 1 5365 
+87.236.176.32 0 1 1568 
+170.254.123.210 2 2 5741 20250408045044
+119.13.212.63 1 9 119575 20250412002302
+103.144.104.114 1 1 2973 20250421213716
+173.252.127.10 1 19 1004586 20250403071833
+35.193.113.2 0 2 13373 
+47.82.11.32 1 1 27387 20250411084803
+5.133.192.140 1 2 15247 20250419074622
+47.82.11.114 1 1 25352 20250411084622
+47.82.11.159 1 1 24943 20250408044853
+15.204.182.106 2 2 27358 20250419091232
+47.82.10.64 2 2 208277 20250415143548
+116.90.229.90 1 1 13679 20250424202943
+128.201.211.28 3 18 1205122 20250415233658
+107.146.158.106 2 2 5741 20250406073451
+47.82.11.41 4 4 254507 20250408141140
+54.213.194.226 1 1 13472 20250409042714
+146.185.204.159 2 2 5742 20250430192714
+178.238.10.147 3 3 111036 20250422164448
+147.185.132.52 1 1 7381 20250425085313
+113.212.111.87 2 2 5742 20250407061301
+44.200.76.153 1 1 13472 20250403054044
+35.202.72.83 4 4 201788 20250402065817
+117.97.196.138 0 1 5459 
+185.247.137.188 1 1 13679 20250418132920
+187.190.189.108 1 1 10128 20250418223436
+54.202.54.158 1 1 0 20250404203103
+185.247.137.246 0 1 1568 
+85.204.70.92 3 3 110064 20250407212639
+65.181.111.151 1 1 2820 20250411090314
+103.182.131.140 0 1 5365 
+42.105.164.120 0 1 5459 
+103.249.233.25 8 130 9681700 20250401162716
+106.205.198.65 3 59 4180030 20250429171418
+35.93.119.139 1 1 13472 20250402182445
+47.82.11.153 1 1 2820 20250413175732
+154.213.164.142 6 6 17100 20250425130028
+40.160.21.14 2 2 24792 20250420141255
+156.233.93.78 2 2 5751 20250412090131
+1.23.19.71 0 1 5365 
+205.169.39.20 2 61 4252299 20250415073808
+125.167.126.255 1 1 7652 20250414102038
+47.82.9.40 0 1 1066 
+152.59.4.164 4 4 40357 20250402214357
+46.8.154.102 2 2 5743 20250423092631
+47.82.11.214 2 2 37750 20250415135858
+173.252.127.2 0 17 1130224 
+206.204.35.120 1 9 121048 20250412002302
+3.91.10.96 1 1 13472 20250407084034
+34.85.234.80 3 3 57266 20250424205931
+149.40.52.214 1 1 7381 20250430192130
+2.57.77.223 1 9 119575 20250412002438
+187.190.154.32 1 1 7652 20250414101912
+103.141.175.204 1 1 13679 20250419192238
+31.10.60.124 1 1 13679 20250430182415
+136.227.164.30 1 1 11204 20250415233710
+144.217.135.228 0 1 5459 
+159.69.187.190 1 1 54058 20250401103503
+168.151.116.29 1 9 119359 20250412002438
+95.222.31.201 1 1 13472 20250415233715
+42.105.164.52 0 1 5459 
+106.194.75.241 2 61 4248943 20250419110756
+162.142.125.195 1 4 18384 20250423134914
+156.228.93.142 1 1 2817 20250424135719
+5.139.225.210 1 1 9929 20250415233721
+177.107.183.27 1 1 0 20250415233711
+34.136.205.122 8 8 168392 20250410195226
+193.186.4.185 3 3 40622 20250423125009
+47.82.11.137 1 1 24537 20250413181839
+185.253.162.16 2 2 15015 20250422201627
+152.59.0.234 5 33 4602101 20250402211911
+47.82.10.188 1 1 30800 20250404111254
+3.94.204.244 1 1 13679 20250429075322
+77.72.2.74 1 1 2819 20250410192724
+186.179.163.10 1 1 12787 20250415233720
+103.85.8.233 3 74 6945054 20250416173700
+103.85.11.198 0 2 10918 
+34.222.211.100 3 3 110064 20250403223328
+47.82.11.237 1 1 162197 20250412044334
+104.15.15.69 2 2 5742 20250406044453
+103.240.79.220 3 63 4253867 20250409150518
+47.82.11.165 1 1 190036 20250408062048
+147.185.132.64 1 1 7381 20250429060036
+192.36.109.99 1 1 13680 20250424172312
+71.19.251.24 1 1 11697 20250412062851
+65.111.27.25 1 1 0 20250404185146
+47.82.9.5 2 2 43157 20250404111500
+89.187.170.129 1 1 11697 20250405185622
+154.213.165.162 6 6 17100 20250425161430
+98.51.1.9 2 2 5741 20250406065943
+47.82.10.158 1 1 11089 20250404062826
+47.79.98.118 8 8 389143 20250414174625
+216.250.255.116 1 1 13679 20250429030538
+167.99.54.225 1 1 2832 20250410042244
+192.178.15.35 6 57 1495033 20250423164037
+193.186.4.140 2 2 27151 20250429163339
+47.82.10.28 1 1 29382 20250404193638
+47.82.11.55 2 2 16293 20250408102213
+190.205.70.81 1 1 7652 20250414102007
+87.236.176.220 0 1 1568 
+46.228.199.158 2 2 27151 20250420042413
+212.225.225.11 1 1 13472 20250401233641
+47.82.11.96 2 2 341593 20250415140742
+167.94.138.176 1 3 16608 20250416092210
+92.186.178.193 1 1 10158 20250415233729
+27.59.85.206 1 1 0 20250422151417
+45.231.143.58 1 1 9929 20250412070132
+49.43.225.243 1 1 7652 20250414102041
+47.82.11.141 3 3 210317 20250417175227
+34.221.7.45 1 1 0 20250410112752
+47.82.10.200 0 1 15883 
+47.82.11.58 1 1 177501 20250413082810
+68.107.61.33 1 1 0 20250415233723
+35.243.200.201 2 12 218575 20250425201602
+102.129.130.14 1 1 164990 20250403081956
+37.251.53.49 2 2 5750 20250407151244
+98.158.234.81 1 1 13680 20250418223431
+107.175.199.181 1 1 13472 20250401191956
+70.191.20.92 2 2 5744 20250409042635
+54.187.194.196 1 1 13679 20250430170446
+205.169.39.169 3 68 4321255 20250410084048
+124.243.133.244 1 1 10101 20250406220305
+198.54.120.4 2 2 27358 20250428013745
+184.105.108.4 1 1 13680 20250424093409
+74.125.150.8 1 10 165177 20250402212854
+47.82.10.100 1 1 13521 20250416213643
+118.70.182.41 1 1 7652 20250414102056
+146.198.7.7 2 2 24676 20250415233711
+31.13.127.114 0 1 5365 
+47.82.10.94 1 1 14153 20250404064051
+223.196.67.165 0 1 5365 
+47.82.11.86 2 2 38281 20250413155801
+66.84.89.100 1 1 13679 20250422081435
+156.242.39.221 6 6 17102 20250428050933
+192.171.89.16 0 1 5459 
+47.82.10.18 2 2 187412 20250416010147
+24.120.55.5 1 1 13472 20250416025101
+5.183.130.226 2 2 5741 20250429074255
+47.79.123.171 7 7 150352 20250414165459
+87.236.176.232 0 1 1568 
+54.211.167.170 1 1 13679 20250425032648
+91.124.117.148 1 1 13705 20250420104113
+38.57.3.35 1 1 2816 20250423193632
+143.198.6.188 1 1 11204 20250415233710
+158.69.25.39 2 2 27151 20250425005742
+185.183.33.61 1 1 13471 20250408205917
+59.152.121.173 0 1 5365 
+47.82.11.52 3 3 247629 20250404195627
+223.226.221.99 0 1 5365 
+35.173.250.219 3 3 111036 20250424173637
+205.169.39.224 3 68 4321997 20250425153032
+152.59.0.212 0 1 5365 
+206.189.149.115 1 1 10345 20250418071402
+54.198.71.249 2 19 470625 20250409025250
+91.124.117.135 1 1 160513 20250418013427
+199.244.88.218 1 1 13679 20250423082806
+47.79.5.178 7 7 323482 20250414170907
+45.93.184.179 1 1 173598 20250408052815
+148.113.215.71 1 1 13679 20250422145347
+47.82.11.238 1 1 26614 20250404065357
+103.240.208.50 0 1 5365 
+46.8.157.186 2 2 5743 20250423092618
+106.215.153.38 5 64 4537968 20250403013209
+157.32.42.47 0 1 5365 
+47.79.4.196 10 10 405567 20250415141955
+188.130.129.240 2 2 5741 20250429074636
+34.28.27.97 0 3 174435 
+188.130.221.229 2 2 5741 20250429074456
+34.70.70.169 0 2 119361 
+180.101.52.132 0 3 93541 
+39.34.145.89 2 2 5893 20250418044427
+156.228.109.174 1 1 2816 20250418100309
+47.79.0.217 4 4 259201 20250415143338
+47.82.10.157 1 1 13684 20250404072024
+42.111.192.108 3 71 6631889 20250405124413
+190.89.29.244 1 1 2817 20250418044437
+36.255.186.209 0 1 5365 
+142.202.234.22 1 1 10243 20250415233733
+164.92.64.129 1 1 11389 20250418080233
+106.219.0.32 0 1 5365 
+206.204.47.62 1 9 119346 20250412002302
+189.62.67.102 2 2 5742 20250407061241
+102.129.130.77 1 1 152894 20250403133935
+142.93.78.51 2 2 5737 20250417075732
+154.213.167.31 1 1 2816 20250418203334
+103.250.159.230 3 59 4176804 20250430194828
+128.140.60.1 3 63 4267339 20250401044540
+162.43.234.221 1 1 0 20250415233733
+152.59.22.27 0 1 5365 
+154.220.112.98 5 5 64533 20250408150258
+117.99.55.22 2 58 4166351 20250429190625
+149.56.160.252 2 61 4252834 20250430180511
+66.29.132.2 1 1 13472 20250405201322
+47.82.10.53 1 1 15390 20250404192534
+205.210.31.17 1 1 7381 20250418093759
+88.97.161.47 2 2 5743 20250408060306
+47.252.21.241 1 1 13472 20250402055044
+35.184.217.154 0 2 13117 
+175.101.29.65 2 62 4253867 20250401130418
+86.128.209.101 1 1 265 20250419041116
+122.171.21.146 1 1 13679 20250423134012
+193.186.4.142 4 4 53887 20250415145705
+47.82.9.25 0 1 485 
+47.79.5.5 4 4 168293 20250414084629
+47.82.10.144 1 1 13680 20250417195906
+47.82.10.128 2 2 51737 20250415140024
+47.82.10.44 1 1 25741 20250404062822
+79.211.235.84 1 1 13472 20250415233715
+47.82.11.23 1 1 25405 20250404065336
+41.212.75.226 1 1 13472 20250408014715
+47.79.1.223 5 5 354499 20250414084534
+193.24.211.3 1 1 54544 20250422092306
+106.219.161.116 3 4 30617 20250425012857
+47.82.11.215 3 3 53142 20250417170130
+31.58.20.44 1 1 9929 20250414140004
+213.239.210.90 3 3 26764 20250409202443
+93.123.109.101 0 8 80347 
+138.68.107.132 1 1 10429 20250418085959
+140.245.58.42 0 4 5584 
+47.82.11.129 1 1 29951 20250411081306
+31.13.127.112 0 1 5365 
+47.79.3.180 4 4 378188 20250414173528
+165.22.63.163 0 1 1396 
+47.79.121.230 10 10 347125 20250417100104
+146.103.10.109 1 1 12632 20250403004624
+143.244.41.240 3 3 94975 20250420192824
+47.82.11.223 1 1 13402 20250412042434
+139.99.23.122 1 1 2819 20250415163840
+40.74.114.126 1 1 0 20250407153502
+192.126.181.226 1 1 161 20250425082413
+109.248.55.171 2 2 5741 20250429074305
+87.236.176.71 1 1 13679 20250421041722
+62.241.50.183 1 1 12787 20250415233715
+80.243.229.245 1 1 0 20250415233721
+3.86.6.52 1 1 13472 20250401081029
+47.82.10.122 1 1 25002 20250404130338
+34.58.172.190 0 2 27799 
+47.82.11.38 2 2 179708 20250414172401
+179.190.145.154 1 1 13598 20250412174009
+47.82.11.123 3 3 90954 20250408141710
+83.142.52.137 2 2 5740 20250417042304
+175.44.42.127 1 9 87974 20250421170047
+146.70.178.164 3 3 111036 20250422052929
+156.228.79.189 2 2 5748 20250413030030
+172.253.15.229 0 1 5459 
+167.172.33.69 1 2 15040 20250405195446
+198.23.217.37 1 1 13679 20250424202740
+34.74.231.141 0 1 5365 
+196.251.72.127 1 1 13472 20250401003648
+62.204.49.124 2 2 5742 20250418142444
+149.126.217.236 2 2 54334 20250409161509
+47.82.11.115 2 2 54337 20250415134155
+188.239.46.208 1 1 13951 20250430235421
+152.59.4.176 2 2 22945 20250402212310
+54.196.117.95 2 2 27151 20250427010402
+156.242.34.35 2 3 16718 20250410114629
+104.211.160.239 1 1 0 20250415161119
+47.79.98.168 7 7 228312 20250414164903
+45.154.98.241 9 9 333108 20250430141822
+181.48.150.246 1 1 13472 20250410053747
+188.241.200.45 1 9 119459 20250412002302
+47.82.10.133 1 1 64049 20250404201235
+35.243.228.254 0 1 5365 
+107.151.219.149 3 3 111036 20250418014708
+47.82.10.80 1 1 2819 20250415133919
+140.228.23.219 1 1 13503 20250403103924
+216.194.81.13 1 1 11631 20250415233718
+147.185.132.109 1 1 7381 20250425094810
+47.82.11.91 1 1 24775 20250411083405
+85.72.61.202 1 1 0 20250415233718
+168.151.111.170 1 9 119660 20250412002302
+39.44.3.57 4 4 1612 20250425140956
+34.46.149.179 0 8 594960 
+47.82.10.240 1 1 25834 20250404092147
+47.82.11.136 1 1 13953 20250414172818
+47.82.11.199 1 1 26048 20250411080424
+47.82.11.101 1 1 170195 20250404103855
+34.72.176.129 4 126 8571376 20250424230653
+47.82.11.72 1 1 25438 20250414165139
+72.145.76.1 1 1 0 20250418140632
+15.204.161.7 1 1 13787 20250420140912
+103.250.188.164 0 1 5365 
+87.236.176.87 1 1 13680 20250430005135
+156.228.101.114 1 1 2820 20250413121825
+47.79.7.99 8 8 346245 20250414165851
+47.82.11.201 1 1 58879 20250408142743
+47.82.11.236 1 1 25352 20250415133002
+192.36.172.171 1 1 13472 20250403070509
+47.82.10.139 2 2 51938 20250404062237
+34.126.114.78 1 1 13679 20250420222531
+47.82.11.193 1 1 31049 20250411090632
+199.45.155.108 0 1 1568 
+47.82.10.111 1 1 14262 20250417174441
+116.74.116.118 4 61 4443472 20250402183814
+73.248.132.137 1 1 10158 20250415233729
+168.151.100.146 1 9 122204 20250412002302
+222.108.229.219 1 1 7652 20250414101743
+5.133.192.133 1 2 15247 20250427025002
+89.213.141.2 1 1 195310 20250430154303
+187.123.155.91 3 3 8608 20250429235521
+24.191.44.109 2 2 5744 20250409034628
+47.82.11.29 1 1 26200 20250408052729
+172.59.66.44 1 1 265 20250415194425
+108.165.142.29 1 1 9929 20250415233721
+47.79.121.52 11 12 506674 20250414170140
+161.123.138.254 1 1 10158 20250414135946
+116.199.171.106 3 63 4524816 20250410085036
+78.41.84.36 1 1 9929 20250415233731
+156.233.94.14 2 2 5735 20250424135735
+109.248.129.227 2 2 5741 20250429094904
+122.170.109.98 3 64 5147102 20250422122209
+152.58.242.189 2 61 4248943 20250430233830
+49.237.16.135 1 1 0 20250415233732
+66.249.68.1 1 1 10243 20250406215626
+45.89.118.55 1 1 0 20250415233711
+103.124.205.117 0 1 5365 
+47.82.11.60 2 2 39177 20250415140959
+188.130.210.182 2 2 5743 20250423094132
+91.124.117.180 1 1 13688 20250408111313
+156.228.182.78 2 2 5735 20250419174539
+162.12.208.107 1 1 7652 20250414101919
+212.80.201.40 1 1 10243 20250415233734
+54.245.7.35 2 58 4170242 20250428072502
+206.204.44.140 1 9 119660 20250412002438
+47.82.11.244 2 2 299848 20250415143458
+156.249.56.96 2 2 15033 20250429124107
+3.88.59.85 1 1 54058 20250413061237
+47.79.98.246 1 1 24786 20250404191212
+179.33.206.123 1 1 7399 20250414101704
+47.82.11.53 2 2 57772 20250413184914
+34.229.11.127 1 1 54544 20250422120234
+103.172.183.202 3 64 5119570 20250402114937
+72.14.201.185 3 3 26944 20250417091516
+47.79.7.143 5 5 343040 20250415134747
+47.82.11.144 1 1 27387 20250413162303
+47.82.10.61 1 1 27171 20250404063819
+47.82.11.128 1 1 174910 20250415142647
+47.82.11.37 1 1 13517 20250417170642
+47.82.11.44 2 2 52308 20250413162600
+47.82.11.19 2 2 209240 20250415150224
+194.34.248.168 2 2 5741 20250429094707
+152.59.3.186 1 1 13472 20250412160419
+47.79.7.116 8 8 490066 20250414233058
+216.180.107.237 1 18 242687 20250427092204
+123.6.49.50 0 1 5365 
+115.247.196.158 5 85 7273656 20250428172812
+47.82.10.23 1 1 14087 20250404065448
+68.65.120.171 1 1 13472 20250407222002
+3.20.221.62 3 3 111036 20250425031419
+152.56.72.119 3 71 4348083 20250417222630
+34.172.251.3 3 3 57266 20250430115425
+205.169.39.3 2 61 4252834 20250424230634
+177.220.226.126 1 1 13472 20250402043459
+140.228.23.48 1 1 182951 20250408171721
+103.240.76.252 5 79 7888767 20250414162439
+47.82.10.52 1 1 25947 20250411085721
+38.153.46.4 1 1 13472 20250402090942
+198.235.24.14 1 1 54544 20250425060502
+144.126.131.219 0 3 16377 
+47.82.11.22 1 1 19966 20250404200631
+88.231.128.184 1 1 7652 20250414101721
+91.197.254.58 1 1 11631 20250415233717
+91.124.117.212 1 1 13643 20250408085022
+47.82.11.12 1 1 25947 20250415134052
+200.61.165.32 1 1 7652 20250414102047
+162.120.184.15 1 1 13679 20250430163256
+189.4.151.55 1 1 7652 20250414101823
+45.89.148.221 1 1 24242 20250403150010
+47.82.11.187 2 2 26170 20250404130751
+90.181.66.87 9 80 7025028 20250413121526
+94.74.126.12 1 1 9929 20250404071151
+47.79.2.254 10 11 612453 20250415134028
+185.169.234.23 1 1 13678 20250425035215
+152.59.3.57 1 2 276314 20250402205857
+205.210.31.167 1 1 54544 20250422065240
+200.229.25.158 1 1 24854 20250403001344
+138.197.32.165 1 1 13787 20250418070055
+173.252.127.7 0 1 35284 
+72.14.201.140 4 4 41037 20250429190620
+177.44.100.160 2 2 5742 20250407061503
+87.236.176.80 0 1 1568 
+123.6.49.47 0 2 10730 
+49.34.160.152 0 1 5365 
+47.82.11.157 2 2 59158 20250415143128
+23.20.165.224 0 3 4704 
+213.232.122.146 1 1 13679 20250429223311
+119.12.207.57 1 9 123015 20250412002302
+109.198.43.159 1 1 9929 20250415233720
+51.83.238.159 6 6 301252 20250412034433
+149.28.233.36 4 4 48048 20250415233719
+84.21.171.184 1 1 13472 20250410191802
+88.218.144.60 1 1 10158 20250415233719
+3.21.129.107 2 2 27358 20250430163426
+47.82.11.211 1 1 13371 20250415190640
+47.82.11.133 1 1 173598 20250413085548
+23.189.176.140 2 2 5900 20250414234515
+85.87.65.34 1 1 10243 20250415233733
+47.82.10.177 0 1 21764 
+177.86.79.223 1 1 265 20250405143005
+47.82.10.91 1 1 32045 20250404111550
+47.82.11.192 1 1 31982 20250408140041
+106.222.211.46 0 1 5459 
+103.241.54.232 1 1 11204 20250415233710
+49.36.66.111 0 2 10730 
+152.59.2.84 1 26 1555464 20250425200300
+149.57.191.107 1 18 242626 20250427071826
+208.207.234.196 1 1 10243 20250415233722
+187.17.187.9 1 1 11631 20250413235021
+47.82.10.101 1 1 129284 20250404192326
+152.58.90.112 2 58 4165910 20250416112129
+47.82.10.199 1 1 13928 20250417093855
+123.14.59.89 0 1 5365 
+27.115.124.6 0 1 5365 
+91.124.117.14 1 1 24925 20250408190408
+47.82.10.72 1 1 108166 20250404190529
+142.147.104.75 1 18 242526 20250427071908
+47.82.11.239 2 2 42385 20250411090758
+207.244.219.81 1 1 11204 20250414135845
+146.103.10.67 1 1 13720 20250427212333
+87.236.176.112 1 1 13679 20250421041851
+34.60.68.228 0 4 590244 
+47.82.11.140 1 1 162197 20250415141520
+193.186.4.141 3 3 40623 20250419151710
+68.65.122.55 1 1 13471 20250412143058
+156.228.98.190 1 1 2817 20250430112301
+64.176.223.207 4 4 40328 20250415233726
+110.226.19.151 2 64 5138367 20250415145712
+47.82.11.196 1 1 13374 20250410154001
+101.44.24.132 1 1 9929 20250403222704
+64.233.173.100 1 4 282218 20250429163405
+47.82.11.90 1 1 175862 20250404065235
+47.82.11.139 1 1 14153 20250408135812
+206.168.34.114 0 1 1568 
+42.105.168.35 5 64 4515059 20250420131135
+47.82.11.111 1 1 27592 20250404105520
+165.51.53.119 1 1 0 20250415233722
+31.204.7.64 1 1 10158 20250415233719
+152.59.4.84 0 1 296937 
+106.205.153.60 2 60 4223633 20250417150152
+146.59.227.21 2 2 109088 20250418165915
+92.99.25.152 1 1 12787 20250415233717
+102.129.130.4 1 1 28668 20250401025948
+187.190.167.80 1 1 7652 20250414101828
+177.137.47.4 2 2 5741 20250408041053
+103.159.156.114 0 1 5365 
+71.203.171.254 1 1 2918 20250430182610
+107.151.208.101 6 6 220128 20250417000515
+158.46.173.119 1 1 10243 20250415233722
+68.97.171.99 2 2 5838 20250417231615
+47.82.10.4 1 1 11088 20250404062946
+181.133.151.113 1 1 13679 20250423162906
+47.82.10.223 1 1 172326 20250404191111
+47.82.11.105 4 4 244934 20250408140110
+54.234.110.115 2 61 4252299 20250406044406
+154.197.9.171 1 9 119459 20250412002438
+103.103.88.213 2 2 5838 20250419041124
+187.54.159.84 1 1 265 20250419192241
+193.202.82.45 2 2 5740 20250417033720
+47.82.11.122 2 2 57043 20250408142230
+185.247.137.237 0 1 1568 
+106.205.213.200 0 1 5459 
+156.228.108.77 2 2 5750 20250407130747
+156.228.113.72 1 1 2816 20250426142602
+145.220.91.19 1 1 13472 20250406041444
+152.59.4.173 1 1 10158 20250402212622
+3.90.152.101 2 2 26944 20250408081833
+124.243.191.68 1 1 9929 20250407192534
+156.228.183.97 2 2 5735 20250418203343
+192.126.181.239 1 1 161 20250412083242
+185.247.137.205 0 1 1568 
+47.82.10.115 1 1 22813 20250404192541
+47.82.11.73 3 3 83789 20250408140441
+47.82.10.229 2 2 53485 20250404193802
+51.36.175.128 1 1 13679 20250417231600
+46.8.192.220 2 2 5742 20250418141900
+106.216.121.238 2 24 609219 20250416080925
+31.204.14.71 2 2 23401 20250415233721
+47.82.9.101 0 1 1044 
+152.69.216.106 1 1 54058 20250402132139
+47.82.11.126 1 1 175037 20250404111136
+167.94.145.97 0 1 1568 
+205.198.121.190 5 66 4531427 20250415091005
+122.170.152.55 4 64 4499160 20250402110532
+47.82.11.68 1 1 11088 20250408135821
+52.38.97.170 4 4 54303 20250424100715
+156.248.85.80 1 1 2817 20250424070344
+188.245.121.92 3 63 4267339 20250404090849
+47.82.10.149 1 1 13438 20250417175202
+208.196.120.2 1 1 10158 20250415233729
+191.55.186.180 1 1 265 20250430182447
+165.140.72.101 1 1 10158 20250415233729
+106.221.72.212 1 1 13472 20250413182928
+47.82.11.246 1 1 25986 20250415143634
+143.198.88.107 0 1 1396 
+49.36.64.43 0 1 5459 
+42.108.74.104 1 38 2962404 20250401163650
+47.82.11.65 3 3 77212 20250414165047
+152.39.176.110 1 1 10158 20250415233740
+191.220.73.134 1 1 0 20250415233718
+47.79.3.11 8 8 185439 20250415143949
+66.220.149.14 0 1 5459 
+54.71.203.174 3 3 33 20250420131123
+47.82.11.142 2 2 25264 20250415141342
+206.168.34.38 0 2 3136 
+47.82.10.143 2 2 35964 20250404201157
+181.47.22.218 1 1 2922 20250408154920
+177.11.211.249 1 1 7652 20250414102115
+102.129.130.42 1 1 146846 20250403013621
+5.8.18.5 8 8 22543 20250421103627
+41.231.228.38 1 1 7652 20250414101717
+47.82.10.175 1 1 28014 20250404064113
+51.79.83.213 4 120 8440595 20250428120637
+44.211.146.224 4 4 53888 20250410004619
+47.79.2.41 10 10 656805 20250415144156
+42.111.192.27 8 70 5546863 20250417213403
+47.82.9.80 0 1 1142 
+199.45.154.120 0 1 1568 
+47.82.11.190 1 1 28068 20250408143322
+193.186.4.143 1 1 0 20250423123708
+187.137.40.63 1 1 7652 20250414102051
+154.213.164.2 1 1 2817 20250425222400
+162.142.125.122 1 2 15040 20250413153812
+47.82.10.230 0 1 799 
+47.82.10.162 2 2 60004 20250404062932
+96.62.105.61 1 1 13526 20250417145255
+156.233.93.5 6 6 17100 20250425121040
+45.148.10.235 0 1 31829 
+35.245.186.224 1 1 13472 20250404124713
+178.171.60.209 1 1 12787 20250415233715
+96.62.105.123 1 1 24883 20250408045815
+168.197.86.38 2 2 5741 20250406065513
+117.99.194.94 0 1 5365 
+192.126.175.184 1 1 161 20250421082651
+43.252.192.94 0 2 10918 
+179.41.137.48 1 1 13472 20250415035323
+47.79.123.193 11 11 382855 20250415142029
+91.124.117.43 1 1 146796 20250403075557
+47.79.2.34 10 10 324425 20250417195855
+49.36.89.40 0 1 5459 
+54.226.250.71 1 1 13471 20250409183829
+64.233.173.99 1 4 78419 20250429163403
+49.36.88.127 0 1 5459 
+96.62.105.5 1 1 13490 20250411181056
+185.247.137.142 0 1 1568 
+182.138.158.61 1 1 13472 20250406024041
+47.82.11.120 1 1 28425 20250408141850
+47.82.10.217 1 1 28034 20250404061830
+146.103.10.133 1 1 160514 20250408114500
+72.14.201.184 2 2 13472 20250414162349
+47.82.10.2 1 1 26723 20250415135945
+35.85.64.209 1 1 13679 20250428072326
+94.247.172.129 1 1 13472 20250415175141
+42.104.162.76 0 1 5365 
+94.74.124.67 1 1 10243 20250404191149
+103.61.195.246 1 1 13679 20250417184154
+201.75.189.31 1 1 265 20250416174250
+47.82.10.87 1 1 24668 20250415135600
+45.94.31.147 6 6 222072 20250424202416
+35.229.78.59 3 3 111036 20250430171355
+143.198.155.116 1 1 12974 20250418082627
+164.163.99.10 1 1 0 20250415233711
+156.228.109.158 1 1 2817 20250424082616
+27.125.248.105 2 2 5744 20250409042657
+47.82.11.76 3 3 187088 20250416112859
+23.124.162.236 1 1 2921 20250415194634
+150.242.18.42 0 1 5459 
+125.160.194.26 1 1 7652 20250414101953
+45.157.52.87 1 1 0 20250408021853
+54.201.68.110 2 61 4252834 20250421223111
+185.247.137.82 0 1 1568 
+47.82.10.16 2 2 76818 20250415135709
+208.207.128.47 1 1 10243 20250415233722
+152.39.191.187 1 1 0 20250415233720
+47.82.11.85 1 1 26690 20250408140354
+34.44.26.147 0 2 109685 
+124.243.174.179 1 1 9942 20250405215046
+18.236.97.15 1 1 13472 20250415122744
+72.14.201.138 3 3 40830 20250424161636
+89.252.138.194 1 1 2820 20250411131122
+199.45.155.106 0 1 1568 
+42.118.48.17 1 1 7652 20250414101852
+47.82.11.24 1 1 26111 20250404061907
+15.235.83.130 2 60 4220565 20250423211153
+102.165.16.23 1 1 7381 20250429043403
+40.69.92.134 1 1 0 20250407115011
+201.186.173.144 1 1 7652 20250414101930
+185.247.137.72 1 1 13679 20250429114354
+122.176.98.149 2 2 93672 20250414131007
+95.182.125.155 2 2 5743 20250423094433
+198.235.24.119 1 1 54544 20250425142257
+34.219.213.232 2 58 4169707 20250409122205
+103.141.183.145 2 2 16394 20250408154847
+103.47.104.101 2 61 4248944 20250429204039
+72.14.201.186 6 6 81453 20250430145001
+177.72.86.9 2 2 5742 20250407061829
+35.232.230.239 0 1 57988 
+62.201.226.90 1 1 7652 20250414101734
+47.82.11.88 1 1 50692 20250404062103
+72.14.201.137 1 1 13470 20250412121359
+205.210.31.142 1 1 54058 20250411200603
+87.101.92.130 1 1 11694 20250405190837
+73.2.241.141 2 2 5741 20250408043609
+196.119.87.54 1 1 7399 20250414101648
+199.45.155.79 0 1 1568 
+47.82.11.14 1 1 26048 20250415140145
+47.82.11.49 1 1 24854 20250411091043
+47.82.11.7 1 1 29415 20250410124313
+87.236.176.40 0 1 1568 
+47.82.11.95 2 2 55861 20250408143457
+34.28.189.153 0 4 248394 
+45.149.20.223 1 1 10243 20250415233734
+35.226.113.24 0 2 92410 
+156.228.107.253 1 1 2817 20250424070127
+200.80.102.161 1 1 9929 20250413130543
+91.222.174.85 3 3 40415 20250406052708
+106.75.190.3 1 1 13679 20250428021132
+47.82.11.56 2 2 193171 20250414083218
+15.204.183.221 1 1 11389 20250420141102
+172.253.192.126 0 1 5459 
+103.46.202.150 1 1 7652 20250414102001
+47.79.121.0 9 9 371749 20250417105740
+45.41.141.2 1 1 13679 20250419032206
+146.103.10.73 1 1 160465 20250408030536
+91.92.17.30 2 2 24676 20250415233711
+31.13.127.17 0 1 5365 
+45.148.10.174 0 1 5331 
+47.82.11.194 2 2 196947 20250414134214
+147.185.132.12 1 1 7381 20250425163857
+199.188.201.172 1 1 2820 20250412014557
+1.22.83.80 0 1 5365 
+192.140.14.78 1 1 13472 20250415143337
+45.120.122.179 0 1 5365 
+47.82.11.185 1 1 26833 20250408140734
+74.125.150.1 0 8 359128 
+156.253.172.228 6 6 17122 20250403051052
+49.0.205.164 1 1 10042 20250404041340
+116.74.51.123 0 1 5459 
+168.151.123.71 2 10 120823 20250412002310
+59.184.142.144 0 1 5459 
+178.20.187.107 1 1 13679 20250417023524
+106.219.165.62 3 4 30617 20250417112247
+172.253.217.61 0 1 5365 
+146.190.110.245 2 2 27358 20250430083556
+35.231.32.249 0 1 5459 
+83.142.55.63 2 2 5742 20250429193225
+79.110.28.43 2 2 5742 20250418142444
+206.41.166.79 3 3 38274 20250408055805
+180.101.52.165 1 5 22055 20250404105828
+47.82.11.155 1 1 166020 20250408045621
+72.14.201.51 1 1 11208 20250415234429
+149.57.191.173 2 18 467992 20250413100710
+47.79.3.237 11 11 568065 20250414164508
+64.233.173.143 1 3 73676 20250418120017
+167.94.138.41 1 3 16815 20250421114532
+193.168.182.44 1 1 161 20250419081930
+179.125.130.197 1 1 10345 20250418223438
+47.82.11.31 1 1 26925 20250404062325
+47.82.11.124 1 1 28276 20250411083141
+111.119.251.141 1 1 10243 20250401053421
+54.185.5.155 3 75 4480944 20250415124758
+47.82.11.42 2 2 54331 20250411092400
+47.82.11.148 2 2 179600 20250413182215
+103.189.207.240 2 2 5741 20250406065206
+163.61.72.36 1 1 2820 20250411113542
+149.36.48.86 0 3 4188 
+91.132.184.62 1 9 119518 20250412002438
+38.60.208.127 2 61 4252299 20250406044601
+107.151.222.75 7 7 276616 20250429021635
+178.128.235.35 1 1 11818 20250418123424
+103.124.225.248 1 1 2977 20250415230157
+46.184.7.41 1 1 7652 20250414101752
+64.233.173.142 1 7 293863 20250418120019
+45.133.136.251 1 1 9929 20250415233731
+72.14.201.136 1 1 13679 20250424163344
+98.80.216.32 1 1 13472 20250401202957
+164.90.225.186 1 1 2820 20250411082030
+156.228.86.67 2 2 5749 20250411232950
+203.202.255.243 1 1 13472 20250410180106
+47.79.121.70 9 9 214751 20250414164820
+34.200.106.137 1 3 16608 20250412203646
+72.14.201.187 2 2 13472 20250425113000
+16.171.69.99 1 1 54544 20250424105547
+49.14.145.29 4 62 4449520 20250419122034
+31.10.62.131 1 1 13679 20250424203003
+103.240.79.155 3 63 4253867 20250404175158
+94.190.249.152 1 1 11204 20250415233710
+47.82.11.74 1 1 26083 20250415132024
+47.82.11.1 3 3 54195 20250413084829
+34.172.106.53 3 3 111036 20250428190859
+193.186.4.139 4 4 54095 20250430194741
+72.14.201.188 2 2 27358 20250428133356
+103.159.156.105 0 1 5459 
+104.197.69.115 2 67 4369334 20250410052401
+47.82.11.217 2 2 27617 20250415144046
+47.82.11.2 1 1 24775 20250415134024
+106.215.170.224 0 1 5459 
+182.237.11.82 4 83 7008677 20250410115017
+107.148.50.195 1 1 13679 20250424202743
+43.252.199.246 6 77 5737070 20250428083836
+159.138.136.35 1 1 12787 20250404161329
+47.82.11.87 4 4 257652 20250414170332
+54.186.156.92 1 1 0 20250419105324
+103.241.224.10 5 67 5424849 20250429164540
+52.15.161.229 1 1 13680 20250430115317
+198.44.191.178 1 1 54544 20250417232832
+172.233.62.72 1 1 13679 20250427024239
+47.82.10.163 1 1 13387 20250417120053
+151.80.139.240 2 2 109088 20250427080533
+194.67.121.219 1 1 2817 20250424091906
+156.249.138.56 6 6 17100 20250425131046
+91.134.80.59 3 3 110064 20250407120329
+47.82.11.149 2 2 54286 20250414172633
+191.101.250.210 3 3 58126 20250413154709
+156.248.82.134 2 2 5749 20250411234424
+91.124.117.8 1 1 26251 20250403140935
+146.103.10.85 1 1 160264 20250403071600
+113.165.147.32 1 1 7652 20250414102032
+47.82.11.130 1 1 28668 20250415133856
+88.3.110.121 1 1 10243 20250415233722
+46.8.23.104 2 2 5741 20250429095639
+192.169.177.201 4 4 46806 20250407123029
+173.252.127.5 1 23 2032409 20250403071839
+161.123.213.15 1 1 10243 20250415233722
+49.36.71.201 0 1 5365 
+123.6.49.15 0 1 5365 
+54.87.173.141 1 1 51044 20250413173256
+45.90.196.2 2 2 5741 20250429095457
+47.82.11.143 1 1 173407 20250413155655
+66.249.68.8 3 3 37000 20250405083212
+146.103.10.254 1 1 152679 20250414052549
+49.34.160.46 0 1 5365 
+103.151.173.197 0 1 5459 
+42.108.106.207 0 1 5459 
+47.82.10.169 1 1 13832 20250416214532
+185.247.137.247 1 1 13472 20250410071757
+96.62.105.37 1 1 25975 20250401170456
+5.133.192.131 1 2 15040 20250410012105
+154.213.202.48 10 10 28281 20250427140013
+47.82.10.242 3 3 202488 20250417101027
+47.82.11.175 1 1 26331 20250408142249
+38.181.79.154 0 2 10730 
+188.40.58.39 1 1 13679 20250427112216
+46.8.22.58 2 2 5743 20250423092756
+47.82.11.249 1 1 138488 20250404193128
+42.111.198.140 0 1 5459 
+205.169.39.54 4 122 8504598 20250414200808
+47.82.11.230 1 1 28276 20250415144133
+198.98.60.152 3 3 28531 20250409011301
+47.82.10.146 2 2 50363 20250404065345
+47.252.21.203 1 1 13472 20250401193550
+147.185.132.22 1 1 54544 20250429023255
+27.61.153.197 7 66 5117083 20250430154853
+108.181.23.93 0 29 2306731 
+47.82.10.185 1 1 50692 20250404191551
+206.127.197.155 1 1 10243 20250415233734
+124.236.100.56 2 2 27358 20250429121704
+58.97.234.4 1 1 9929 20250415233731
+54.183.203.96 1 1 13472 20250403110149
+47.79.118.217 11 12 403861 20250415140230
+152.59.5.54 7 67 4518430 20250418120059
+49.36.90.147 0 1 5459 
+49.249.144.238 1 1 2919 20250419192259
+47.82.11.30 2 2 164173 20250414172236
+47.79.123.158 10 10 532225 20250417171648
+106.219.162.158 4 4 49352 20250408210957
+206.168.34.90 1 3 16608 20250416151435
+146.103.10.226 1 1 25222 20250407225634
+47.82.9.105 1 1 14269 20250417095805
+142.252.14.240 3 3 38854 20250427144854
+192.145.29.158 1 1 54544 20250428205413
+96.62.105.53 1 1 176052 20250427145631
+185.247.137.242 0 1 1568 
+93.65.4.252 1 1 13472 20250415194415
+47.79.7.122 5 5 121216 20250417124345
+47.79.7.230 7 7 188080 20250411081938
+74.208.213.99 1 1 13472 20250411144441
+47.82.11.67 1 1 13269 20250416010647
+47.82.10.42 2 2 173888 20250415142600
+185.108.107.155 1 1 11693 20250407034249
+45.93.184.44 1 1 26723 20250408060035
+42.105.164.82 0 1 5459 
+57.128.59.5 6 6 220128 20250407013140
+137.119.183.42 2 2 5844 20250415164321
+199.45.155.80 1 3 16608 20250416151614
+162.120.184.0 2 2 13679 20250429202550
+203.166.151.29 1 1 10243 20250415233722
+89.184.29.12 1 1 12787 20250415233717
+111.124.201.203 4 4 53888 20250401184604
+112.200.25.179 1 1 7652 20250414102100
+193.186.4.191 1 1 13679 20250423082932
+156.228.185.15 2 2 15033 20250429171621
+180.101.52.7 0 3 52200 
+47.82.11.16 1 1 26083 20250414170858
+188.241.249.134 1 1 10243 20250415233722
+103.87.248.38 1 1 10158 20250414110820
+47.82.11.181 1 1 190036 20250414175105
+116.104.199.240 2 2 5741 20250406072856
+47.82.11.54 2 2 40226 20250415143053
+34.170.191.172 0 2 96755 
+152.59.4.63 2 2 20316 20250402212852
+103.228.147.47 2 58 4165910 20250415105837
+109.165.109.116 1 26 1925808 20250420015354
+76.118.180.236 2 2 5741 20250405123435
+167.71.21.36 3 3 110064 20250401192332
+158.62.65.61 1 1 7652 20250414101705
+92.205.22.139 6 6 70181 20250430104717
+142.188.207.141 0 1 5365 
+3.148.212.120 9 71 1012558 20250419210250
+178.95.112.186 1 1 0 20250415233731
+47.82.11.43 1 1 26331 20250404130230
+23.249.163.159 1 1 10158 20250415233729
+193.168.183.52 1 1 161 20250408082553
+105.66.2.237 1 1 7652 20250414101730
+46.250.169.43 1 1 10101 20250407220158
+47.82.9.12 0 1 37975 
+104.165.84.20 0 1 5459 
+116.96.46.177 1 1 7652 20250414101936
+140.228.23.158 1 1 23991 20250408121501
+143.244.57.120 3 3 111036 20250427220814
+47.82.11.26 1 1 146796 20250415142443
+190.92.202.141 1 1 10158 20250404101605
+111.119.192.246 1 1 10101 20250407053654
+72.14.201.48 1 1 11208 20250415225808
+106.219.153.145 6 77 5724694 20250418152331
+49.145.254.181 1 1 7652 20250414101726
+196.251.89.173 3 3 110064 20250404075834
+117.97.205.127 1 60 4208126 20250407152239
+186.224.24.12 1 1 0 20250415233734
+54.214.215.203 1 1 0 20250427110015
+122.162.148.52 1 1 403 20250420185609
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20250401 128 530 31278961 35
+20250402 163 683 39549443 44
+20250403 173 545 30575596 47
+20250404 602 886 30435749 255
+20250405 91 225 11440504 23
+20250406 101 302 13499267 27
+20250407 152 343 14052755 49
+20250408 405 474 12059717 174
+20250409 151 310 11597604 30
+20250410 154 610 33037329 50
+20250411 150 222 8180204 68
+20250412 175 660 27572479 62
+20250413 278 980 25912219 73
+20250414 316 628 31144461 143
+20250415 383 768 35611318 223
+20250416 118 435 22194372 45
+20250417 161 352 14917881 50
+20250418 191 348 11653403 47
+20250419 131 377 13803858 39
+20250420 101 298 9369637 29
+20250421 65 141 4523940 30
+20250422 60 193 9947265 25
+20250423 97 384 19628341 34
+20250424 121 459 26127610 53
+20250425 126 228 6667530 42
+20250426 67 86 1437295 23
+20250427 96 222 2768605 30
+20250428 109 466 29994315 37
+20250429 163 738 43654659 64
+20250430 158 667 39120667 49
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 38
+30mn-1h 56
+2mn-5mn 24
+15mn-30mn 51
+30s-2mn 34
+1h+ 113
+0s-30s 1584
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 413
+/wp-cron.php 2225 0 191 202
+/ 754 14703552 557 378
+/wp-login.php 383 1384056 215 222
+/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 122 27314824 18 67
+/wp-admin/admin-ajax.php 120 1920 8 6
+/contact/ 91 1140642 19 30
+/products/ 62 819662 23 30
+/um_services/tempered-glasses/ 59 581250 31 38
+/um_services/laminated-glasses/ 50 472480 34 32
+//wp-json/oembed/1.0/embed 50 97400 0 44
+/um_services/insulated-glasses/ 49 458043 31 34
+/about/ 42 687342 12 16
+//xmlrpc.php 41 19425 0 3
+/wp-json/contact-form-7/v1/contact-forms/239/feedback/schema 38 7474 1 23
+/portfolio/ 32 393506 9 17
+/um_services/ceramic-printed-glass/ 30 304534 13 16
+/um_services/heat-strengthen-glass/ 23 232454 8 8
+/um_services/security-glass/ 23 229968 7 9
+/xmlrpc.php 16 5068 12 13
+/category/king-johnnie/ 8 218092 8 4
+/mostbet-tr-indir-android-mostbet-turkiye-mobil-uygulamasinin-incelemesi/ 7 177464 5 6
+/top-slot-equipment-to-play-win-online-for-actual-money-in-2025/ 7 188412 5 2
+/casino-movie-review-film-summary-1995/ 6 164322 6 5
+/upptack-de-basta-plinko-casinona-och-vinn-omfattande-i-sverige/ 6 148650 3 5
+/aviator-expresamente-online-no-pais-brasileiro-receba-bonus-no-aviator-como-jogar/ 6 145584 4 4
+/bonus-free-rewrite-senza-deposito-immediato-top-offerte-2025/ 2 58764 2 1
+/site-oficial-no-pais-brasileiro-cadastro-jogos-e-bonus/ 2 53900 1 1
+/category/uncategorized/page/2/ 1 120393 1 1
+/category/maribet-casino-tr/ 2 30474 2 2
+/infrastructure/page/54/ 2 24618 1 1
+/infrastructure/page/3/ 2 27724 2 2
+/infrastructure/page/41/ 1 14160 1 1
+/infrastructure/page/29/ 1 13680 1 1
+/bonusy-bukmacherskie-bez-depozytu-rodzaje-ranking-bukmacherow-kody-promocyjne-obstawianie/ 1 24111 1 0
+/no-deposit-bonus-deals-2024-best-internet-casino-slots-added-bonus-codes/ 2 51946 1 1
+/infrastructure/page/47/ 2 27710 2 2
+/infrastructure/page/46/ 3 40509 3 3
+/online-casino-along-with-no-deposit-reward-usa-keep-what-you-win/ 4 99772 4 4
+/aviator-1win-guia-completo-em-relacao-a-o-jogo-sobre-aviao-exclusivo-simply-no-cassino/ 2 55976 0 0
+/kyf-tkhtr-fdl-mzwdy-llb-fy-kzynw-1xbet-kmsry/ 1 13827 1 1
+/mostbet-promo-codes-inside-sri-lanka-expect-exclusive-rewards/ 3 44730 1 1
+/1win-apk-cote-divoire-telecharger-en-ligne-pour-android-os-e-ios-hvn-tweed-new-destination-airport/ 1 27167 1 1
+/category/book-of-ra/ 2 58018 2 1
+/2025/03/page/7/ 2 365902 2 2
+/category/uncategorized/page/11/ 2 277136 2 2
+/author/umiyaadmin/page/22/ 2 49836 2 0
+/2025/02/page/7/ 2 320776 2 2
+/post-title-3/ 4 44832 4 3
+/category/bankobet/ 2 50356 2 2
+/online-casino-creating-an-account-process-how-in-order-to-register/ 3 79224 1 2
+/france-2022-meilleurs-bitcoin-internet-casinos-pour-les-cybernautes-francais-france-2022-meilleurs-bitcoin-internet-casinos-pour-les-joueurs-francais/ 2 51088 1 1
+/online-casino-turk-guvenli-bir-deneyim-icin-ipuclari/ 3 41601 1 2
+/category/uncategorized/page/9/ 4 749768 3 4
+/pin-up-online-casino-no-brasil/ 1 27494 1 1
+/category/casino-online-ar/ 1 49902 1 1
+/casino-utan-svensk-licens-spelpaus-2024-se-hela-listan/ 3 75894 1 2
+/best-casino-apps-intended-for-real-money-best-us-mobile-internet-casinos-2025/ 1 26831 1 1
+/2025/02/page/6/ 1 175887 1 1
+/a-beginners-facts-playing-casino-slots/ 2 51572 2 1
+/stavki-na-sport-i-rossii-na-sports-ru-spisok-samykh-bukmekerov-rossii-poslednego-novosti-aktualnye-prognozy-na-sportivnye-matchi/ 3 61948 1 1
+/2025/03/page/6/ 1 165969 1 1
+/direktora-onlain-kazino-pin-up-otpravili-i-dva-mesiatsa-zhe-sizo/ 3 100158 2 2
+/1win-skachat-zerkalo-i-prilozhenie-besplatno-tiurkenshantspark-skachat-prilozhenie-bukmekera-1vin/ 1 29000 1 0
+/luchshie-bukmekerskie-kontory-reiting-luchshikh-bukmekerov-onlain-vinreiting/ 1 30775 1 1
+/wp-admin/upgrade.php 1 21 0 0
+/kumarhanede-bahis-oynamak-teknolojik-yenilikler-ve-degisimler/ 2 27638 2 1
+/author/umiyaadmin/page/10/ 1 174967 1 1
+/infrastructure/page/42/ 2 26980 2 2
+/what-is-typically-the-best-moments-of-30-days-to-play-slot-machines/ 3 74310 1 2
+/site-oficial-simply-no-brasil-cadastro-games-e-bonus/ 1 24847 1 0
+/wp-json/oembed/1.0/embed 1 1022 0 1
+/blaze-casino-bonus-games-avaliados-revisados-2024/ 3 85035 0 0
+/stavki-na-kibersport-onlain-koeffitsienty-bukmekerov/ 2 64212 1 1
+/category/glass-fabrication/ 1 13733 1 0
+/infrastructure/page/18/ 2 27121 2 2
+/vovan-kazino-ofitsialnyi-sait-registratsiia-i-bonusy-igrai-v-sloty-onlain/ 5 140140 5 4
+/slot-cheating-equipment-list-of-gadgets-to-control-slots/ 2 53710 2 1
+/infrastructure/page/7/ 4 54500 4 4
+/category/masalbet/ 1 25450 0 1
+/category/pinco/ 1 82125 0 1
+/1win-zerkalo-moshchnyi-dostup-k-saitu-tekushchee-rabochee-na-den-1win-ofitsialnyi-sait-registratsi-center-for-technology-in-learning-and-teaching-iowa-state-university/ 2 59552 1 1
+/casino-utan-svensk-licens-spela-i-avsaknad-av-spelpaus-2/ 3 78333 1 3
+/category/aviator/ 2 53850 2 1
+/aviator-1win-guia-completo-em-relacao-a-o-jogo-sobre-aviao-exclusivo-simply-no-cassino-3/ 2 55986 1 1
+/2025/03/page/12/ 5 591025 5 5
+/site-oficial-de-cassino-on-the-web-e-apostas-not-any-brasil/ 3 80499 3 3
+/post-title-2/ 1 11261 1 1
+/gta-online-casino-manual-how-to-help-to-make-millions-lucky-wheel-vehicles-tips-tricks/ 5 130415 4 4
+/infrastructure/page/30/ 2 27902 2 2
+/en-iyi-canli-casino-firsatlarini-nasil-tespit-edebilirsiniz/ 2 27050 0 2
+/exploration-des-jeux-inspires-de-plinko-et-leur-impact-sur-lindustrie-gaming/ 4 56612 2 2
+/infrastructure/page/9/ 4 54752 3 4
+/category/aviator-brazil/ 2 51628 2 1
+/infrastructure/page/44/ 2 27604 2 2
+/category/casino-zonder-crucks-netherlands/ 2 52248 1 2
+/infrastructure/page/51/ 4 53608 3 4
+/wp-sitemap.xml 4 1311 1 0
+/casino-online-spain-top-casinos-pra-jugar-en-2024/ 2 55540 0 1
+/czy-typy-premium-sa-skuteczne/ 3 84042 2 2
+/slottica-casino-slotica-kasyno-logowanie-bonus-bez-depozytu-em-oficjalnej-stronie/ 6 179706 4 4
+/igrovye-avtomaty-na-prilichnye-2025-luchshie-saity-igrovykh-avtomatov-i-dengi/ 3 85275 1 2
+/category/casino-en-ligne-fr/ 1 27061 1 1
+/igrovye-avtomaty-so-vyvodom-na-kartu-igrat-na-mnimye-dengi/ 2 62842 1 1
+/wp-sitemap-posts-post-1.xml 3 26589 0 0
+/casino-zonder-cruks-nederland-gokken-zonder-cruks-2024/ 6 147222 4 5
+/1xbet-zerkalo-rabochee-poiti-ofitsialnyi-sait-cherez-zerkalo/ 3 93057 2 1
+/luchshie-bukmekerskie-kontory-v-rossii-2025-reiting-top-14-odnim-legalnykh-onlain-bukmekerov-usovershenstvo-stavok-na-sport-v-internete-so-otzyvami-khoroshei-reputatsiei/ 3 95946 1 2
+/diamond-online-casino-heist-payout-vault-time-loot-daily-cash-grab/ 1 28038 0 1
+/1win-login-quickly-access-to-on-the-web-betting-in-india/ 1 24786 1 1
+/2025/03/page/11/ 4 703060 3 3
+/lista-legalnych-kasyn-2025/ 1 25165 1 1
+/category/online-casino-au/ 1 27384 1 1
+/infrastructure/page/8/ 4 53228 4 4
+/category/borosilicate-glass/ 1 14668 1 1
+/infrastructure/page/38/ 3 41595 3 3
+/10-best-actual-money-on-the-web-slots-sites-associated-with-2025/ 1 27286 1 1
+/infrastructure/page/52/ 5 67565 4 4
+/casibom-giris-guvenilir-casino-ve-bahis-platformu/ 4 102964 2 1
+/author/umiyaadmin/page/2/ 1 138488 1 1
+/2025/03/page/3/ 4 472120 3 4
+/guncel-giris-uyelik-ve-promosyonlar-ile-kazanin/ 6 148008 4 4
+/infrastructure/page/25/ 1 13387 1 1
+/canli-casino-siteleri-2024-guvenilir-en-iyi-10-site/ 1 23976 1 0
+/2025/02/page/3/ 1 172326 1 1
+/author/umiyaadmin/page/7/ 3 549006 2 2
+/category/1win-official-in-russia/ 1 126517 1 1
+/bookmaker-mostbet-tr-guvenli-spor-bahisleri-empieza-casino-icin-bahis-yapin-kayit/ 1 25854 1 1
+/featured-post-title/ 1 11347 1 1
+/infrastructure/page/10/ 2 27976 2 2
+/1xbet-apk-1xbet-mobile-phone-telecharger-1xbet-app-pour-iphone-android-1xbet/ 2 46454 1 1
+/mostbet-turkiye-resmi-site-kayit-bonus-5-673-giris-yapmak/ 6 151368 5 5
+/1win-uz-skachat-apk-pod-uzbekistan-1vin-vkhod-v-kazino/ 1 22813 1 1
+/rukovodstvo-po-razlichnym-variantam-blekdzheka-v-kazino-mostbet/ 2 29836 0 1
+/perissotero-apo-paikhnidia-einai-mia-empeiria/ 2 65990 1 1
+/category/uncategorized/page/4/ 3 527475 3 2
+/bystraia-1xbet-registratsiia-po-nomeru-telefona-1xbet-vkhod-zhe-akkaunt-2/ 2 61246 2 2
+/wp-login.php/ 4 11278 2 0
+/category/1win-brazil/ 1 81546 0 1
+/author/umiyaadmin/page/17/ 1 184062 1 1
+/upptack-de-basta-plinko-casinona-och-vinn-omfattande-i-sverige-2/ 6 148668 5 4
+/sugar-rush-indir-ucretsiz-oyun-indir-ve-oyna/ 4 89064 2 2
+/infrastructure/page/39/ 3 41757 3 3
+/infrastructure/page/2/ 2 26612 2 2
+/category/mostbet-russia/ 1 54809 1 0
+/lmrhnt-lrydy-wnlyn-1xbet-i-shrk-lmrhnt-1xbet-tsjyl-ldkhwl-i-1xbet-com/ 1 19835 1 1
+/category/%D1%88%D0%B2%D0%B5%D1%86%D0%B8%D1%8F/ 2 52332 2 1
+/how-to-win-at-slots-10-tips-and-techniques-you-want-to-be-able-to-know-before-playing/ 4 99700 2 2
+/um_services/tempered-glasses/service-img-1/ 2 22176 2 2
+/2025/02/page/10/ 1 64049 1 1
+/legalne-kasyna-online-t-polsce-lista-2025/ 2 51790 1 1
+/comment-telecharger-1win-cote-divoire/ 1 28891 1 0
+/vulkan-vegas-casino-osterreich-dein-einstieg-in-dieses-beste-online-glucksspiel/ 2 51818 1 1
+/2025/03/page/10/ 3 524730 2 3
+/bystraia-1xbet-registratsiia-po-nomeru-telefona-1xbet-vkhod-zhe-akkaunt/ 3 91857 2 2
+/mostbet-bahiscisi-en-iyi-oranlar-empieza-cevrimici-canli-bahis-deneyimi/ 2 49390 2 2
+/category/uncategorized/page/10/ 5 842460 3 5
+/author/umiyaadmin/page/11/ 3 527776 3 2
+/1xbet-registratsiia-i-vkhod-ofitsialnomu-sait-bonus-100-usd-bystraia-zhe-prostaia-registratsiia/ 3 88011 2 2
+/kent-kazino-ofitsialnogo-sait-kent-casino-rabochee-zerkalo-a-segodnia/ 5 147075 4 4
+/how-to-win-at-roulette-professional-tips-to-win-inside-modern-casinos/ 5 129930 2 4
+/verde-casino1200-220-ingyenes-porgetest-2025/ 2 57200 1 1
+/infrastructure/page/43/ 2 27286 2 2
+/author/umiyaadmin/page/18/ 2 329980 2 2
+/2025/02/page/9/ 1 173023 1 0
+/pin-up-internet-casino-no-brasil-mergulhe-em-um-samba-para-slots-e-games/ 3 81327 2 2
+/2025/03/page/9/ 2 340232 2 2
+/wp-sitemap-taxonomies-post_tag-1.xml 3 546 0 1
+/plinko-erklart-so-funktioniert-dieses-spiel-im-casino/ 5 124875 5 3
+/pin-up-online-online-casino-oyun-oyna-bonus-yakala-gercek-nakit-kazan/ 3 74136 2 1
+/pin-up-casino-brasil-ee-login-e-registro-no-site-oficial-carry-out-cassino/ 2 53380 2 1
+/matchi-onlain-sleduiushchee-smotret-priamye-transliatsii-sporta-laiv-stavki-na-sport-1xbet-i-1xbet-com/ 1 19966 1 1
+/automaty-do-gry-online-na-prawdziwe-pieniadze-maszyny-do-gier/ 1 26686 1 1
+/zaklady-online-lista/ 1 27470 1 1
+/author/umiyaadmin/ 1 168028 1 0
+/best-different-roulette-games-strategy-how-to-be-able-to-win-at-roulette/ 5 129735 5 5
+/author/umiyaadmin/page/12/ 5 950180 5 5
+/infrastructure/page/19/ 2 26725 2 2
+/pin-up-online-casino-brasil-site-oficial/ 1 25937 0 1
+/category/1win-turkiye/ 1 30349 1 0
+/infrastructure/page/6/ 5 66870 5 3
+/1xbet-ofitsialnyi-sait-v-azerbaidzhane-i-stavki-na-sport-i-kazino-onlain/ 2 55262 0 1
+/casino-uden-rofus-de-billigste-spil-uden-omkring-rofus-i-2025/ 3 76116 2 1
+/category/bbrbet-mx/ 2 108894 0 1
+/1xbet-egypt-betting-company-i-online-sports-betting-login-1xbet-i-eg-1xbet-com/ 1 28080 0 0
+/sample-page/ 1 9982 0 0
+/infrastructure/page/15/ 2 26866 2 2
+/1win-ofitsialnyi-sait-bk-1vin-rabochee-zerkalo-dlia-vkhoda-2/ 1 31930 1 0
+/category/uncategorized/page/3/ 1 149806 1 1
+/category/slottica/ 2 62588 0 2
+/1win-bet-giriste-karsilasilan-yaygin-sorunlarin-ustesinden-gelmek/ 1 13649 1 0
+/infrastructure/page/20/ 2 26843 2 2
+/recibo-sin-deposito-sobre-casino-en-linea/ 2 52952 1 2
+/um_services/tempered-glasses/service-img-2/ 2 22176 1 2
+/category/plinko/ 2 53098 2 2
+/category/%D0%BA%D0%BE%D0%BC%D0%B5%D1%82%D0%B0-%D0%BA%D0%B0%D0%B7%D0%B8%D0%BD%D0%BE/ 3 152076 3 2
+/author/umiyaadmin/page/5/ 6 963084 5 6
+/category/slots/ 2 81688 2 0
+/author/umiyaadmin/page/21/ 5 759220 3 4
+/ramenbet-ofitsialnyi-sait/ 1 31092 1 1
+/samye-igrovye-avtomaty-igrat-besplatno-onlain/ 1 28066 1 1
+/category/sweet-bonanza/ 2 31128 2 2
+/ucretsiz-oynayin-kurallari-ogrenin/ 2 43610 2 2
+/how-to-set-way-up-a-blackjack-stand-just-like-a-pro/ 3 75006 2 2
+/vulkan-vegas-bonus-code-2024-alle-vulkanvegas-promotional-codes-aktionscode-bestandskunden/ 6 168132 2 3
+/mostbet-bahiscisi-en-iyi-oranlar-ve-cevrimici-canli-bahis-deneyimi/ 1 24722 1 1
+/kht-shy-khll-mly-ltsjyl-fy-kzynw-1xbet-blmsryyn/ 2 27600 0 1
+/category/1winrussia/ 1 22209 0 1
+/category/vovan-casino/ 2 58906 2 0
+/casino-utan-svensk-licens-spela-i-avsaknad-av-spelpaus/ 3 78312 2 2
+/2025/02/page/2/ 1 171599 1 1
+/comment-telecharger-1win-apk-without-difficulte-en-cote-divoire/ 2 56136 2 1
+/infrastructure/page/35/ 2 28089 2 2
+/2025/03/page/2/ 5 692195 5 5
+/best-ontario-online-casinos-top-licensed-casinos-in-2025/ 1 26936 1 1
+/infrastructure/page/28/ 1 14007 1 1
+/pinko-kazino-onlain-registratsiia-ofitsialnomu-sait-i-zerkalo-pinco-casino/ 1 27609 1 0
+/owa/auth.owa 2 23415 2 2
+/ofitsialnyi-sait-dzhoikazino-onlain-kazino-1-v-rossii/ 1 29873 1 1
+/1xbetweonegseubes-coesin-uhoejuso-2024-ringkeu-domein-maghim-jeobsog-korea-hangug-gongsig/ 2 61592 1 1
+/the-best-moment-to-play-on-the-internet-slots-in-the-particular-us-2025-edition/ 6 155070 3 4
+/pin-up-casino-zero-brasil/ 2 51206 1 1
+/missouri-casino-to-be-horseshoe-saint-paillette-in-rebranding/ 3 79143 2 2
+/infrastructure/page/53/ 6 75792 6 6
+/1xbet-tsjyl-ldkhwl-fy-lmgrb-tsjyl-ldkhwl-l-lmwq-1xbet-tsjyl-ldkhwl-lljwl/ 1 25705 1 1
+/1win-ofitsialnyi-sait-bk-1vin-rabochee-zerkalo-dlia-vkhoda/ 1 31926 1 0
+/how-to-win-within-a-casino-gambling-approaches-for-beginners/ 3 77976 3 3
+/category/ricky-casino-australia/ 1 27585 1 1
+/stavki-v-sport-bukmekerskaia-kontora-baltbet/ 2 41748 1 1
+/utlandska-casino-i-avsaknad-av-svensk-licens/ 4 95904 2 3
+/sprawdz-najszybciej-wyplacalne-kasyna-online-w-polsce-2024/ 1 26087 0 1
+/post-title-2-2/ 1 11282 1 1
+/descubriendo-grandes-victorias-con-los-bonos-de-casinos-en-linea/ 2 27912 1 1
+/category/se/ 2 117758 2 2
+/category/sugar-rush/ 2 71478 2 2
+/category/pin-up-peru/ 2 59534 1 0
+/1win-bahis-ve-on-line-casino-sitesi-bilgileri/ 1 25039 1 1
+/pin-up-rsmi-sayta-giris-pinup-arizona-casino/ 3 73308 1 0
+/how-much-funds-can-casino-provide-you-with/ 3 82218 2 2
+/luchshie-bukmekerskie-kontory-v-evrope-2025-reiting-top-14-luchshikh-legalnykh-onlain-bukmekerov-dlia-stavok-a-sport-v-internete-s-otzyvami-luchshei-reputatsiei/ 2 64888 1 1
+/pin-up-casino-to-melhor-bonus-sobre-boas-vindas-para-brasileiros/ 3 50260 0 1
+/um_services/tempered-glasses/service-img-3/ 2 22178 1 1
+/como-jugar-a-ruleta-online-guia-sobre-estrategia-para-ruleta/ 1 26460 1 1
+/infrastructure/page/24/ 1 13527 1 1
+/1win-pais-brasileiro-site-oficial-1win-apostas-esportivas-registro-e-deposito/ 2 52072 1 0
+/author/umiyaadmin/page/8/ 2 320835 2 2
+/aviator-1win-guia-completo-em-relacao-a-o-jogo-sobre-aviao-exclusivo-simply-no-cassino-2/ 2 55986 1 0
+/rol-media-osveshcheniia-v-1xbet-stavki-vliianie-i-tendentsii/ 3 44469 2 1
+/najlepsze-kasyno-online-i-zaklady-sportowe-bonusy-automaty-poker-zaklady-esportowe/ 4 104584 4 3
+/mostbet-turkiye-durante-iyi-casino-ve-spor-bahisleri-platformu/ 2 50810 1 2
+/category/qizilbilet/ 2 54340 2 1
+/can-an-individual-really-hack-online-casino-software-to-win/ 5 130240 5 5
+/casino-gambling-the-full-guidebook-for-beginners-betmgm/ 6 149124 5 5
+/glory-casino-participate-in-online-on-standard-site-in-of-india-glory-casino-is-definitely-the-new-internet-casino-in-india-subscribe-to-glory-casino-to-see-for-yourself-that-will-it-is-the-most-effec/ 2 52408 1 0
+/best-casinos-for-big-wins/ 1 26673 1 1
+/infrastructure/ 6 79800 6 6
+/2025/02/page/4/ 2 305788 2 2
+/entire-casino-recenze/ 1 18258 0 1
+/category/casino/page/3/ 2 183302 2 0
+/2025/03/page/4/ 4 587184 3 3
+/how-to-increase-slot-machine-earnings-by-maximizing-profits/ 2 54052 1 2
+/bbrbet-resena-es-accesible-y-seguro/ 6 190512 3 4
+/10-ideal-welcome-bonus-gives-your-way-online-casinos/ 3 71973 3 2
+/mostbet-sah-sitesi-kisisel-dolaba-giris/ 1 24402 0 1
+/book-of-ra-deluxe-kostenlos-zocken-demo-ohne-anmeldung/ 2 55074 2 2
+/category/kasyno-online-pl/ 1 108166 1 1
+/mostbet-mobil-uygulama-yolda-bahis-yapmayi-kolaylastiriyor/ 3 40236 0 2
+/infrastructure/page/45/ 2 27014 2 2
+/wp-json/contact-form-7/v1/contact-forms/239/refill 1 22 0 1
+/pin-up-o-melhor-cassino-do-brasil-web-site-oficial-ee-jogar-caca-niqueis/ 2 51564 0 1
+/poker-sites-uden-dansk-licens-2025-spil-poker-uden-mitid/ 3 79842 2 2
+/category/1win-uzbekistan/ 1 35265 1 1
+/gama-casino-vkhod-i-registratsiia-i-ofitsialnyi-sait-gama-kazino-na-dengi/ 3 89382 2 2
+/creer-une-strategie-equilibree-en-integrant-plinko-au-divertissement/ 2 28230 1 1
+/category/uncategorized/ 1 175037 1 1
+/author/umiyaadmin/page/20/ 4 648788 4 4
+/category/casino-onlina-ca/ 1 28384 1 0
+/um_services/tempered-glasses/service-img-4/ 2 22176 1 2
+/category/casino/ 1 129284 1 1
+/tag/featured/ 1 14640 1 1
+/how-to-play-roulette-regulations-betting/ 3 79419 2 1
+/crazy-time-rewarding-and-entertaining-survive-dealer-game/ 6 145452 6 6
+/obzor-bukmekerskoi-kontory-1win-effektivnaia-tekhpodderzhka/ 1 15387 1 0
+/category/casino-online-it/ 1 30937 1 0
+/obzor-bk-mostbet-mostbet-com-otzyvy-bonusy-do-35-000/ 2 59210 0 1
+/category/1win-india/ 3 78936 3 1
+/kasyno-online-blik-2025-najlepsze-kasyna-internetowe-z-blik-wplata-w-polsce/ 1 25734 1 1
+/wp-sitemap-taxonomies-category-1.xml 3 1845 0 0
+/best-online-casinos-sydney-top-aussie-betting-sites-2025/ 1 25687 0 1
+/2025/02/page/8/ 2 323560 2 2
+/category/verde-casino-hungary/ 1 30098 1 1
+/prokhoda-na-ofitsialnyi-sait-stavkibet/ 1 32045 1 1
+/infrastructure/page/49/ 3 41859 3 3
+/2025/03/page/8/ 2 320528 2 2
+/category/glass-manufacturer/ 1 16199 0 0
+/author/umiyaadmin/page/6/ 5 830100 5 5
+/infrastructure/page/21/ 2 27665 2 2
+/1vin-bukmekerskaia-kompaniia-igrovye-avtomaty-onlain-sportivnye-stavki-v-rossii/ 2 61406 1 1
+/infrastructure/page/26/ 1 13549 1 1
+/jak-polskie-kasyno-online-promuje-odpowiedzialny-hazard/ 3 41046 1 2
+/populer-canli-online-casino-sitesi-discount-gambling-establishment-giris-ve-kayit/ 3 75363 1 2
+/infrastructure/page/27/ 1 13438 1 1
+/category/uncategorized/page/5/ 5 867035 5 4
+/casino-online-legal-en-espana-recibo-de-bienvenida-de-150/ 5 141380 5 4
+/author/umiyaadmin/page/4/ 3 440538 2 3
+/craps-ultimate-guide-everything-an-individual-need-to-know/ 6 160896 4 5
+/infrastructure/page/13/ 2 26702 2 2
+/zaklady-bukmacherskie-legalny-bukmacher-online/ 6 172008 6 4
+/gambling-earnings-minnesota-department-associated-with-revenue/ 6 157506 5 6
+/mostbet-27-turkiyede-bahis-ve-casino-bonus-2500250fs/ 2 51368 1 1
+/1win-olitsetvorenie-azarta-i-udachi-v-onlain-igrakh/ 2 50136 1 1
+/registratsiia-akkaunta-v-onlain-kazino-poshagovaia-instruktsiia/ 1 15390 1 1
+/poker-sider-uden-licens-2025-top-15-holdem-poker-sider-i-dag/ 3 77502 1 2
+/category/1xbet-russian/ 1 38524 0 1
+/infrastructure/page/33/ 2 28178 2 2
+/how-to-create-money-on-roulette/ 3 76857 2 1
+/sweet-bienestar-free-spin-veren-siteler-bedava-slot-oyna/ 1 23709 1 1
+/bukmekerskaia-kontora-1vin-kz-stavki-na-sport-a-kazino-onlain/ 3 87732 2 2
+/author/umiyaadmin/page/16/ 1 180981 1 1
+/wp-json/contact-form-7/v1/contact-forms/239/feedback 5 1133 0 4
+/infrastructure/page/22/ 1 13521 1 1
+/analyse-des-mises-optimales-sur-plinko-strategies-gagnantes-devoilees/ 2 26920 1 2
+/get-rich-or-weep-tryin-steps-to-start-a-good-online-casino-and-just-how-much-it-costs/ 6 160926 4 4
+/turkiyede-kumarhane-tasariminin-evrimi/ 2 27212 2 2
+/top-onlain-kazino-rossii-reitingi-i-obzory/ 3 91155 1 2
+/category/uncategorized/page/7/ 4 694392 4 4
+/infrastructure/page/5/ 5 70235 3 5
+/wp-json/wp/v2/pages 5 805 5 5
+/category/uncategorized/page/6/ 4 726416 4 3
+/1win-ofitsialnyi-sait-bukmekerskoi-kontory-2023-onlain-stavki-na-sport-vkhod-v-bk-1vin-iz/ 2 59492 1 1
+/seminole-casino-motel-immokalee-reopening-its-doors-delightful-to-c-m-baid-methacollege-approved-by-aicte-pci-new-delhi-associated-to-the-tamil-nadu-dr-michael-g-r-health-related-university-chennai/ 6 186294 4 4
+/infrastructure/page/34/ 1 14269 1 1
+/ofitsialnyi-sait-1win-casino/ 6 160338 6 6
+/infrastructure/page/40/ 1 13766 1 1
+/1win-proem-na-ofitsialnyi-sait-i-rabochee-zerkalo-1vin-stavki-i-sport/ 3 78993 2 2
+/bukmekerskaia-kontora-marafon-onlain-stavki-i-sport-s-edinstvennymi-vysokimi-koeffitsientami-zakliuchiv-pari-na-sportivnye-sobytiia/ 4 103900 2 2
+/best-online-casinos-in-canada-2025/ 3 76335 1 1
+/casino-without-swedish-license-2024-without-spelpaus/ 3 74358 2 1
+/wp-sitemap-posts-page-1.xml 3 960 0 0
+/sports-betting-and-online-gambling-establishment-bangladesh-bonus-thirty-five-000-rs/ 3 71163 1 2
+/category/1win-brasil/ 1 67836 1 1
+/category/basaribet/ 2 30160 1 2
+/how-to-start-an-online-online-casino-in-2025-step-by-step-guide/ 3 78645 2 3
+/kometa-kazino-kometa-casino-registratsiia-na-ofitsialnom-saite-igrat-na-nastoiashchie-dengi/ 2 64122 1 1
+/author/umiyaadmin/page/13/ 3 545454 3 2
+/the-real-history-of-martin-scorseses-casino/ 1 28320 0 1
+/infrastructure/page/14/ 1 13996 1 1
+/kde-se-natacel-motion-picture-casino-royale-stilingi-baldai-terasai-ventosear-namams-vidaus-baldai-dolce-casa/ 3 105276 2 2
+/pin-way-up-casino-site-oficial-aqui-no-brasil-ganhe-r1500-de-bonus-login/ 1 24908 1 1
+/wp-sitemap-posts-um_services-1.xml 3 963 0 1
+/category/gama-casino/ 2 101066 1 2
+/leonbet-casino-online-paikhnidia-me-to-leon-casino/ 1 29341 1 1
+/casino-utan-svensk-licens-och-spelpaus-2025-goplay/ 3 78684 1 2
+/author/umiyaadmin/page/3/ 1 118072 1 0
+/aviator-giris-yeni-baslayanlar-icin-en-iyi-ipuclari/ 4 54396 2 1
+/bizzo-login-exciting-play/ 1 24086 0 1
+/2025/03/page/5/ 3 481395 3 3
+/category/casino/page/2/ 1 175242 1 1
+/2025/02/page/5/ 1 185079 1 1
+/samye-onlain-kazino-i-2024-reiting-top-10-saitov-usovershenstvo-igry-na-prilichnye/ 1 28988 1 1
+/infrastructure/page/48/ 3 40038 3 3
+/2025/02/ 2 390422 2 2
+/everything-gambling-establishment-doesnt-let-you-know-about-the-particular-true-story/ 2 56068 1 2
+/sweet-bonanza-slot-for-couples-enhance-your-canadian-gaming-date-night/ 2 28646 1 2
+/2025/03/ 2 335990 2 2
+/author/umiyaadmin/page/19/ 3 532503 3 2
+/mostbet-brasil-internet-site-oficial-inscricao-bonus-15-000r-entrar/ 3 83112 2 1
+/onlain-kazino-pinko-v-rossii-igrat-na-ofitsialnom-saite-pinko-casino/ 2 57518 1 0
+/author/umiyaadmin/page/15/ 2 305358 2 2
+/azrbaycanda-onlayn-kazino-pin-up-flag-up-slot-masinlari/ 1 22236 0 1
+/author/umiyaadmin/page/9/ 1 170195 1 1
+/affordable-online-internet-casinos-for-real-money-players/ 6 157200 6 5
+/infrastructure/page/12/ 2 26964 2 2
+/bookmaker-mostbet-tr-guvenli-spor-bahisleri-ve-casino-icin-bahis-yapin-kayit/ 2 54466 1 1
+/infrastructure/page/37/ 3 40937 3 3
+/infrastructure/page/36/ 2 27852 2 2
+/pinko-kazino-pinco-casino-stavki-i-igry-onlain/ 1 30963 1 1
+/vulkan-vegas-promotional-code-no-first-deposit-odbierz-bonus-computer-code/ 2 42470 2 2
+/infrastructure/page/4/ 5 67260 3 3
+/infrastructure/page/31/ 2 28524 2 2
+/infrastructure/page/50/ 4 55208 3 4
+/najlepsze-kasyno-online-watts-polsce-ranking-2024/ 2 55184 1 1
+/juega-en-bbrbet-durante-mexico-2025-reclama-tu-bono-sobre-bienvenida/ 6 188052 3 2
+/20bet-fogadasi-oldal-magas-oddsokkal-magyarorszagon/ 6 167244 6 6
+/how-to-decide-on-winning-slot-machines-leading-10-tips/ 3 74619 2 2
+/infrastructure/page/32/ 2 27440 2 2
+/top-on-line-gambling-canada-greatest-sites-for-real-cash-in-2025/ 3 78366 1 1
+/best-no-first-deposit-online-casino-additional-bonuses-2025/ 5 138780 5 2
+/bankobet-guncel-adres-bilgisi/ 5 118315 5 5
+/index.php 1 1024 0 1
+/killuavit-aviatorpredictor-the-aviator-prediction-app-gives-real-time-predictions-for-the-aviator-online-game-enhancing-your-gameplay-with-accurate-forecasts/ 6 152628 4 5
+/infrastructure/page/17/ 1 13371 1 1
+/effiziente-sportwetten-ihre-gewinnchancen-ohne-oasis-erhohen/ 2 28174 2 2
+/infrastructure/page/16/ 3 40926 3 3
+/post-title/ 1 11262 1 1
+/1xbet-guvenilir-mi/ 2 28634 1 2
+/prilozhenie-1win-na-pk-kak-skachat-a-polzovatsia/ 1 27667 1 1
+/author/umiyaadmin/page/14/ 3 520856 3 3
+/category/bizzo-casino/ 1 25731 1 1
+/ricky-casino-australia-participate-in-online-pokies-plus-win-real-money/ 1 26024 0 0
+/infrastructure/page/23/ 1 13977 1 1
+/category/ramenbet/ 1 32442 1 1
+/1xbet-egypt-betting-company-i-online-sports-betting-login-1xbet-i-eg-1xbet-com-2/ 1 28083 0 1
+/wp-sitemap-users-1.xml 1 12268 0 0
+/turk-oyuncularinin-mariobet-casinoyu-tercih-etme-nedenleri/ 2 27368 2 2
+/2021/10/ 1 26964 0 1
+/bons-cassinos-online-em-nosso-pais-2025-guia-completo/ 3 81513 2 2
+/1win-bet-giris-turkiyede-online-casino/ 1 20912 0 1
+/how-to-win-in-roulette-tips-on-how-to-conquer-the-odds-inside-roulette/ 3 74649 3 1
+/category/sweet-bonanza-tr/ 1 25337 1 1
+/igrovye-avtomaty-i-realnye-dengi-2025-igrat-onlain-pippardom-vyvodom/ 1 30800 1 1
+/infrastructure/page/11/ 2 27588 2 2
+/best-different-roulette-games-strategy-how-in-order-to-win-at-roulette/ 3 75666 3 2
+/category/uncategorized/page/8/ 3 532134 2 3
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+1K-2K 1408
+100-500 2061
+0-44 3582
+44-100 424
+5K+ 10050
+2K-5K 1834
+500-1K 363
+END_FILESIZE

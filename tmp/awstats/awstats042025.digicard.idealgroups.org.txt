@@ -1,0 +1,611 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202504 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2056                
+POS_TIME 2728                
+POS_VISITOR 13589               
+POS_DAY 15965               
+POS_DOMAIN 3418                
+POS_LOGIN 3832                
+POS_ROBOT 3987                
+POS_WORMS 4212                
+POS_EMAILSENDER 4343                
+POS_EMAILRECEIVER 4486                
+POS_SESSION 16454               
+POS_FILESIZE 17031               
+POS_SIDER 16611               
+POS_FILETYPES 4621                
+POS_DOWNLOADS 4772                
+POS_OS 4859                
+POS_BROWSER 5041                
+POS_SCREENSIZE 5682                
+POS_UNKNOWNREFERER 5756                
+POS_UNKNOWNREFERERBROWSER 6211                
+POS_ORIGIN 6331                
+POS_SEREFERRALS 6463                
+POS_PAGEREFS 6626                
+POS_SEARCHWORDS 6774                
+POS_KEYWORDS 6926                
+POS_MISC 2392                
+POS_ERRORS 6985                
+POS_CLUSTER 3688                
+POS_SIDER_404 7153                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250501032649 1 0 14006478713733
+FirstTime 20250401142501
+LastTime 20250429134114
+LastUpdate 20250501184253 1 0 0 0 0
+TotalVisits 66                  
+TotalUnique 60                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 60                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 28 28 849118
+1 1 1 3308 110 113 83133
+2 2 2 2105 6 6 7962
+3 2 2 2089 11 11 20102
+4 2 2 6616 16 16 3473
+5 3 3 4348 23 24 23306
+6 2 2 4350 25 26 40528
+7 4 4 12672 13 15 5935
+8 0 0 0 19 19 2435
+9 0 0 0 10 10 18411
+10 4 4 10973 82 83 146188
+11 5 5 12014 11 11 2486
+12 4 4 10981 278 279 138022
+13 2 2 2096 5 8 5760
+14 8 8 21991 59 60 8100
+15 3 3 3133 8 9 17448
+16 11 11 4751 7 9 6092
+17 9 9 27514 17 20 23514
+18 3 3 3131 17 24 18195
+19 5 5 7481 7 13 27628
+20 6 7 73793854 312 324 597486
+21 1 1 3308 252 252 89622
+22 3 3 9924 20 20 4377
+23 3 3 7667 44 47 30486
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+us 35 35 58846
+ca 13 13 40771
+nl 7 7 18647
+no 4 4 13232
+sc 4 5 73787230
+gb 3 3 3151
+in 3 3 3444
+cn 2 2 8316
+lt 2 2 6624
+ru 2 2 2101
+fr 2 2 6632
+bg 2 2 2100
+kz 1 1 1040
+zz 1 1 87
+be 1 1 1041
+cl 1 1 1044
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+scanner 1 0 20250426060215 0
+curl 1 0 20250421181328 0
+no_user_agent 1 3308 20250426095350 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+md 2 8316 0 0
+json 2 2502 0 0
+Unknown 9 1859 0 0
+html 70 158197 0 0
+log 1 73783432 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/storage/logs/laravel.log 1 0 73783432
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+Unknown 21 21
+androidnougat 1 1
+androidlollipop 1 1
+android13 1 1
+win10 52 51
+linuxubuntu 2 2
+linux 1 1
+macosx15 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 30
+chrome95.0.4638.69 3 3
+Unknown 2 2
+chrome79.0.3945.79 1 1
+chrome80.0.3987.149 10 10
+firefox75.0 1 1
+mozilla 19 19
+firefox71.0 2 2
+chrome132.0.0.0 1 1
+chrome84.0.4147.105 2 2
+firefox134.0 1 1
+chrome104.0.0.0 1 1
+firefox45.0 1 1
+chrome76.0.3809.132 4 4
+chrome121.0.0.0 2 2
+chrome99.0.4859.172 1 1
+firefox126.0 1 1
+chrome89.0.4389.114 3 3
+chrome83.0.4103.61 2 2
+edge92 1 1
+firefox111.0 1 1
+chrome75.0.3770.100 1 1
+chrome60.0.3112.107 1 1
+chrome135.0.0.0 8 8
+chrome114.0.0.0 1 1
+edge17 1 1
+firefox79.0 1 1
+chrome73.0.3683.90 1 1
+firefox122.0 1 1
+chrome91.0.4472.124 9 8
+chrome58.0.3029.110 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250425190306
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250429111012
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20250421162704
+Cpanel-HTTP-Client/1.0 20250421162658
+Mozilla/5.0_(compatible) 20250429134114
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20250421162658
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 78 79
+From1 1 1
+From2 2 2
+From3 0 0
+From4 2 2
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+409 163 13529
+403 19 9709
+404 330 1094460
+405 2 836779
+500 1 0
+301 352 89530
+406 542 122492
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 213
+/.git/logs 1 -
+/wp-content/plugins/wp-daft/t62.php 6 www.google.com
+/wp-content/themes/homey/css/main.css 1 -
+/wp-conf.php 4 -
+/autoload_classmap.php 2 -
+/.npmrc 1 -
+/panel/kcfinder/upload.php 2 -
+/api/credentials 1 -
+/.git/objects 1 -
+/staging.env 1 -
+/.vscode/sftp.json 3 -
+/.aws/credentials 2 -
+/filemanager/kcfinder/upload.php 1 -
+/config/packages 1 -
+/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif 1 http://www.digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif
+/env.txt 1 -
+/config/default.json 1 -
+/bar/kcfinder/upload.php 1 -
+/repeater.php 6 www.google.com
+/yonetim/engine/ckeditor/kcfinder/upload.php 2 -
+/wordpress/wp-admin/includes 1 -
+/wp 2 www.google.com
+/upload/images/kcfinder/upload.php 1 -
+/assets/ckeditor/kcfinder/upload.php 1 -
+/sites/all/themes 1 -
+/about.php 2 -
+/app-ads.txt 1 -
+/upload/kcfinder/upload.php 2 -
+/.well-known/acme-challenge/index.php 4 -
+/prod.env 1 -
+/joomla/configuration.php-dist 1 -
+/wp-content/index.php 3 -
+/var/log/system.log 1 -
+/files/kcfinder/upload.php 1 -
+/web/config.php 1 -
+/db.ini 1 -
+/bitrix/php_interface/dbconn.php 1 -
+/.well-known/index.php 3 -
+/.git/packed-refs 1 -
+/kcfinder/upload.php 2 -
+/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif 1 http://www.digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif
+/menu.php 1 -
+/sftp-config.json 3 -
+/x.php 1 -
+/private/kcfinder/upload.php 1 -
+/CHANGELOG.txt 1 -
+/server.js 1 -
+/config/database.yml 1 -
+/cgi-bin/phpinfo.php 1 -
+/404.php 3 -
+/dropdown.php 2 -
+/new 1 www.google.com
+/.svn/entries 1 -
+/simple.php 13 www.google.com
+/app/libraries/kcfinder/upload.php 2 -
+/var/logs/dev.log 1 -
+/wp-json/wp/v2/users 1 -
+/swagger.json 1 -
+/uploads/cache/kcfinder/upload.php 1 -
+/helm/values.yaml 1 -
+/config/secrets.yml 1 -
+/.env.production 1 -
+/core/install.php 1 -
+//idealgroups.org/digicard/public/js/coreui.bundle.min.js 1 -
+/test.php 1 -
+/uploads/files/kcfinder/upload.php 1 -
+/modules/ckeditor/kcfinder/upload.php 1 -
+/install.php 2 -
+/auth.json 1 -
+/images/kcfinder/upload.php 1 -
+/plugin/ckeditor/kcfinder/upload.php 1 -
+/data/uploads/kcfinder/upload.php 1 -
+/database.json 1 -
+/tmp/kcfinder/upload.php 1 -
+/stage.env 1 -
+/phpinfo 1 -
+/ws.php 2 -
+/wp-content/themes/about.php 1 www.google.com
+/admin/kcfinder/upload.php 2 -
+/src/config.js 1 -
+/css/index.php 2 -
+/modules/admin/editor/kcfinder/upload.php 1 -
+/blog 1 www.google.com
+/uploads/kcfinder/upload.php 2 -
+/.git/HEAD 2 -
+/ckeditor/plugins/kcfinder/upload.php 2 -
+/assets/kcfinder/upload.php 2 -
+/foo/kcfinder/upload.php 1 -
+/admin/editor/kcfinder/upload.php 2 -
+/assets/admin/plugins/kcfinder/upload.php 1 -
+/info.php 1 -
+/js/kcfinder/upload.php 2 -
+/admin/public/kcfinder/upload.php 1 -
+/wp-admin/network/index.php 3 -
+/nova-api/styles 1 -
+/admin/.env 1 -
+/sites/all/modules 1 -
+/Dockerfile 1 -
+/wp-includes/ID3/license.txt 3 -
+/app.js 1 -
+/lib/kcfinder/upload.php 2 -
+/config/production.json 1 -
+/assets/css/kcfinder/upload.php 1 -
+/data/kcfinder/upload.php 1 -
+/api/config.json 1 -
+/wp-content/plugins/revslider/includes/external/page/index.php 1 -
+/secrets.json 1 -
+/core/kcfinder/upload.php 1 -
+/.git/logs/HEAD 1 -
+/ucms/img/loading.gif 3 http://www.digicard.idealgroups.org/ucms/img/loading.gif
+/test/kcfinder/upload.php 1 -
+/logs/kcfinder/upload.php 1 -
+/.git/config 3 -
+/.env.local 2 -
+/wordpress 3 www.google.com
+/plugin/kcfinder/upload.php 1 -
+/wp-admin/install.php 1 -
+/site/plugins/kcfinder/upload.php 2 -
+/resources/kcfinder/upload.php 1 -
+/assets/plugin/kcfinder/upload.php 2 -
+/plugins/kcfinder/upload.php 2 -
+/storage/kcfinder/upload.php 1 -
+/config/routes.yaml 1 -
+/system/kcfinder/upload.php 1 -
+/settings.yaml 1 -
+/modules/kcfinder/upload.php 2 -
+/randkeyword.PhP7 1 -
+/digicard 1 www.google.com
+/wp-login.php 3 -
+/.env.save 1 -
+/logs/error.php 1 -
+/mah.php 1 -
+/yarn.lock 1 -
+/wp-content/plugins/core-plugin/include.php 3 -
+/media/kcfinder/upload.php 1 -
+/assets/js/kcfinder/upload.php 2 -
+/.well-known/acme-challenge/plugins.php 1 -
+/wp-config.php 1 -
+/public/plugins/ckeditor/images/spacer.gif 1 http://www.digicard.idealgroups.org/public/plugins/ckeditor/images/spacer.gif
+/wp.php 2 -
+/administrator/index.php 1 -
+/assets/admin/js/kcfinder/upload.php 2 -
+/backup.env 1 -
+/test 1 www.google.com
+/_profiler/phpinfo 1 -
+/phpinfo.php 1 -
+/bs1.php 1 -
+/old 1 www.google.com
+/.well-known/pki-validation/ 4 -
+/openapi.json 1 -
+/wp-content/plugins/wordpress-three/miin.php 6 www.google.com
+/plugin.php 3 -
+/ads.txt 5 -
+/.git/branches 1 -
+/painel/kcfinder/upload.php 2 -
+/phpinfo2.php 1 -
+/storage/app/kcfinder/upload.php 2 -
+/config/kcfinder/upload.php 1 -
+/vendor/kcfinder/upload.php 2 -
+/xmlrpc.php 1 -
+/system/libraries/kcfinder/upload.php 1 -
+/tiny.php 2 -
+/debug.php 1 -
+/.dockerignore 1 -
+/sellers.json 1 -
+/.git/refs 1 -
+/credentials.env 1 -
+/en/kcfinder/upload.php 1 -
+/var/logs/prod.log 1 -
+/app/etc/local.xml 1 -
+/backup 1 www.google.com
+/img/kcfinder/upload.php 1 -
+/api-docs 1 -
+/bootstrap/cache/config.php 1 -
+/wp-config-sample.php 1 -
+/.well-known/about.php 2 -
+/.env.test 1 -
+/ckeditor/kcfinder/upload.php 2 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 -
+/wp-includes/ID3 1 -
+/swagger-ui.html 1 -
+/app/etc/env.php 1 -
+/typo3conf/localconf.php 1 -
+/adminfuns.php 1 -
+/wp-content/uploads/2023/05/404.php 2 -
+/config.json 1 -
+/function.php 2 -
+/randkeyword.php 3 -
+/config/secrets.json 1 -
+/development.env 1 -
+/secret/kcfinder/upload.php 1 -
+/.git/index 1 -
+/wp-content/debug.log 1 -
+/admin-panel/vendor/kcfinder/upload.php 2 -
+/secure-config.json 1 -
+/digicard/public/assets/logo.png 1 -
+/.well-known/security.txt 1 -
+/temp 1 www.google.com
+/file.php 1 -
+/wp-admin/maint/index.php 4 -
+/var/log/exception.log 1 -
+/webboard/plugins/editors/kcfinder/upload.php 2 -
+/config.js 1 -
+/phpinfo1.php 1 -
+/backup/config.php 1 -
+/inc/kcfinder/upload.php 1 -
+/admin.php 7 www.google.com
+/local_settings.py 1 -
+/.env.dev 1 -
+/phpmyadmin/index.php 1 -
+/apps/admin/view/default/layui/images/face/11.gif 2 http://www.digicard.idealgroups.org/apps/admin/view/default/layui/images/face/11.gif
+/sites/default/settings.php 1 -
+/config.inc.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 60
+84.247.181.144 4 4 13232 20250421122606
+154.83.103.115 4 5 73787230 20250409202400
+146.190.77.47 3 3 9924 20250402220011
+198.244.164.27 3 3 3124 20250428193926
+107.151.222.237 3 3 9924 20250429115210
+142.93.182.3 3 3 9924 20250402103336
+207.211.165.241 3 3 9924 20250417231022
+65.109.39.184 3 3 9924 20250414172801
+93.123.109.101 2 2 2100 20250408143640
+217.9.247.21 2 2 6624 20250407205942
+119.18.54.35 2 2 128 20250421162658
+35.227.56.58 2 2 2089 20250429035844
+122.114.10.213 2 2 8316 20250429071229
+134.199.153.238 1 1 3308 20250420210803
+13.58.164.208 1 1 87 20250421162704
+164.92.202.12 1 1 1049 20250423100228
+185.247.137.194 1 1 1052 20250406021013
+128.199.27.24 1 1 1051 20250409194714
+167.94.138.39 1 1 1048 20250424133656
+5.135.58.203 1 1 3316 20250423173951
+64.15.129.126 1 1 3316 20250417143229
+167.172.36.156 1 1 1049 20250425120006
+87.236.176.76 1 1 1041 20250429111012
+217.114.43.197 1 1 1049 20250420155512
+62.197.157.42 1 1 3308 20250423232241
+62.197.147.70 1 1 3316 20250422142228
+152.42.255.153 1 1 1043 20250422163323
+192.175.111.246 1 1 3316 20250417143228
+5.253.204.189 1 1 1040 20250420074504
+34.218.209.111 1 1 87 20250421162704
+181.214.107.99 1 1 1044 20250401142501
+192.175.111.233 1 1 3308 20250417173749
+199.45.154.132 1 1 1052 20250407165947
+35.180.172.158 1 1 1042 20250414062738
+104.131.24.188 1 1 1041 20250419155433
+51.158.205.57 1 1 1051 20250421181417
+35.224.159.55 1 1 1050 20250416160611
+13.53.217.122 1 1 87 20250421162704
+192.175.111.250 1 1 3308 20250417173750
+46.101.238.100 1 1 1048 20250429134114
+145.220.91.19 1 1 1043 20250401150915
+64.15.129.112 1 1 3308 20250417173754
+162.142.125.210 1 1 1041 20250425190306
+167.94.145.98 1 1 1041 20250425185152
+192.175.111.241 1 1 3308 20250417173754
+62.197.145.51 1 1 3308 20250418015637
+162.142.125.121 1 1 1039 20250414192526
+62.197.153.42 1 1 3316 20250419074715
+162.142.125.124 1 1 1039 20250425185219
+64.15.129.108 1 1 3316 20250417143223
+193.56.113.29 1 1 3316 20250412121843
+16.16.74.242 1 1 0 20250407051910
+54.204.99.126 1 1 1053 20250409023612
+18.142.251.29 1 1 87 20250421162703
+23.178.112.217 1 1 87 20250421162703
+45.150.5.21 1 1 3316 20250420140632
+134.199.239.114 1 1 1043 20250405165644
+188.95.54.56 1 1 3308 20250419192216
+192.175.111.236 1 1 3316 20250417143224
+198.54.114.67 1 1 1051 20250428234714
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20250401 2 2 2087 2
+20250402 7 7 20897 3
+20250405 1 1 1043 1
+20250406 1 1 1052 1
+20250407 4 4 7676 3
+20250408 1 1 1051 1
+20250409 7 8 73792642 4
+20250412 1 1 3316 1
+20250414 5 5 12005 3
+20250416 2 2 4358 2
+20250417 9 9 29804 9
+20250418 1 1 3308 1
+20250419 3 3 7665 3
+20250420 4 4 8713 4
+20250421 13 13 15888 10
+20250422 2 2 4359 2
+20250423 3 3 7673 3
+20250424 1 1 1048 1
+20250425 5 5 5210 5
+20250428 2 2 2093 2
+20250429 9 9 22418 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 65
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 70 158197 58 58
+/.well-known/acme-challenge/blYj7vYWl4ZIdYmQQ2J1EkxsJYjQ8x97jIe85vbnP_w 5 435 5 5
+/README.md 2 8316 1 1
+/.env.example 1 1069 0 0
+/.well-known/acme-challenge/DXRM-5N7CD241-L06QK-NHF2XHLW6I9N 1 64 0 1
+/.gitignore 1 227 1 0
+/.well-known/acme-challenge/TFOGC872OFB4VZ7V_6HXWUUN85UXQ9_9 1 64 1 0
+/package.json 1 519 0 1
+/composer.json 1 1983 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+2K-5K 308
+1K-2K 33
+500-1K 18
+5K+ 77
+0-44 11
+100-500 894
+44-100 170
+END_FILESIZE

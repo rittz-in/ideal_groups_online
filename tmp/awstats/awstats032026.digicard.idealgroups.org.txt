@@ -1,0 +1,837 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202603 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2093                
+POS_TIME 2771                
+POS_VISITOR 18114               
+POS_DAY 20226               
+POS_DOMAIN 3515                
+POS_LOGIN 3865                
+POS_ROBOT 4020                
+POS_WORMS 4286                
+POS_EMAILSENDER 4417                
+POS_EMAILRECEIVER 4560                
+POS_SESSION 20808               
+POS_FILESIZE 21175               
+POS_REQUESTTIME 21322               
+POS_SIDER 20966               
+POS_FILETYPES 4695                
+POS_DOWNLOADS 4811                
+POS_OS 4859                
+POS_BROWSER 5083                
+POS_SCREENSIZE 5703                
+POS_UNKNOWNREFERER 5777                
+POS_UNKNOWNREFERERBROWSER 6207                
+POS_ORIGIN 6445                
+POS_SEREFERRALS 6577                
+POS_PAGEREFS 6740                
+POS_SEARCHWORDS 6888                
+POS_KEYWORDS 7040                
+POS_MISC 2435                
+POS_ERRORS 7099                
+POS_CLUSTER 3721                
+POS_SIDER_404 7287                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260401001025 66 9533 11261912805545
+FirstTime 20260301140108
+LastTime 20260331195137
+LastUpdate 20260401193249 66 0 65 0 0
+TotalVisits 60                  
+TotalUnique 53                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 53                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 1069 1903 1903 848307
+1 4 4 8715 39 39 444268
+2 6 6 4183 1829 1829 595545
+3 6 6 14289 47 51 43232
+4 1 1 1039 116 118 456393
+5 2 2 2110 239 239 103812
+6 5 5 12031 4 6 10592
+7 3 3 5397 12 13 6378
+8 6 6 17589 447 451 622809
+9 2 2 6616 246 248 38115
+10 2 2 6616 1452 1455 755480
+11 5 5 5096 294 297 128860
+12 4 4 3985 16 17 404329
+13 8 8 17289 140 140 431572
+14 3 3 9924 748 751 241408
+15 3 3 5390 325 325 82656
+16 1 1 1042 25 27 30209
+17 2 2 2093 2 4 3534
+18 1 1 1052 71 71 93640
+19 6 6 12480 503 505 128426
+20 2 2 2090 467 468 562697
+21 0 0 0 1059 1086 3842059
+22 1 1 3316 12 13 454147
+23 5 5 7502 404 408 151402
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 47 47 75668
+cn 6 6 17622
+gb 5 5 16540
+nl 5 5 4183
+ca 5 5 16564
+in 3 3 9924
+ru 3 3 3125
+se 2 2 1890
+dk 1 1 1041
+af 1 1 3316
+be 1 1 1040
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+curl 16 38285 20260325212512 0
+no_user_agent 8 26472 20260331033720 0
+scanner 2 2091 20260310103632 0
+checker 1 1051 20260308182143 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+Unknown 9 8991 0 0
+md 2 8316 0 0
+html 68 133606 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+macosx 4 4
+linux 4 4
+win8 1 1
+ios_ipad 2 2
+win8.1 1 1
+macosx15 11 11
+win10 29 29
+ios_iphone 3 3
+android 2 2
+win7 4 4
+android13 2 2
+macosx11 1 1
+Unknown 15 15
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 30
+chrome95.0.4638.69 5 5
+chrome142.0.0.0 4 4
+safari26.0 2 2
+chrome126.0.0.0 3 3
+chrome58.0.3029.110 1 1
+firefox117.0 1 1
+chrome80.0.3987.149 1 1
+firefox43.0 1 1
+chrome116.0 4 4
+chrome46.0.2490.80 1 1
+chrome91.0.4472.124 2 2
+netscape5.0 2 2
+firefox123 2 2
+firefox45.0 1 1
+Unknown 5 5
+firefox46.0 1 1
+safari17.6 1 1
+chrome131.0.0.0 1 1
+mozilla 10 10
+chrome71.0.2623.112 1 1
+chrome78.0.3904.108 13 13
+chrome139.0.0.0 1 1
+chrome114.0.0.0 1 1
+safari17.0 2 2
+chrome120.0.0.0 4 4
+chrome83.0.4103.61 2 2
+firefox122.0 2 2
+chrome63.0.3239.132 1 1
+safari 3 3
+chrome51.0.2732.35 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260326080438
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260331073616
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260312020127
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260331073616
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 76 76
+From1 0 0
+From2 1 1
+From3 0 0
+From4 2 2
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+302 2 417
+206 1 1069
+409 6147 509454
+406 347 73902
+404 1029 3080691
+403 36 20532
+301 2851 863645
+405 14 5862261
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 441
+/wp-content/uploads/autoload_classmap.ph 3 -
+/s3.yml 2 -
+/public/stripe.js 2 -
+/public/plugins/ckeditor/images/spacer.gif 1 http://digicard.idealgroups.org/public/plugins/ckeditor/images/spacer.gif
+/.git/hooks/pre-commit 2 -
+/.git/refs/heads/main 3 -
+/.git/logs/refs/remotes/origin/main 2 -
+/wp-includes/SimplePie 9 -
+/_vti_bin/* 2 -
+/s3/credentials 2 -
+/sam-template.yaml 2 -
+/workspaces/* 2 -
+/.env.prod 3 -
+/.well-known/* 2 -
+/[locale]/* 2 -
+/s3.key 2 -
+/randkeyword.PhP7 5 -
+/proc/index.cgi 2 -
+/_react/action/* 2 -
+/app/serverless.yaml 2 -
+/app/nuxt.config.js 2 -
+/chat 2 -
+/posts/* 2 -
+/package-updates/apt.cgi 2 -
+/api/v1/* 2 -
+/docker/overlay/config.json 2 -
+/$(pwd)/.env.staging 2 -
+/aws/ses/smtp.env 2 -
+/auth/* 2 -
+/.git 4 -
+/wp-includes/js/jquery 8 -
+/.git/objects/pack 2 -
+/blog 2 -
+/.env.aws 2 -
+/root/.boto 2 -
+/app/serverless.yml 2 -
+/oauth/authorize 2 -
+/aws/config/s3.json 2 -
+/src/config/stripe.ts 2 -
+/[slug] 2 -
+/docker/registry/config.yml 2 -
+/.git/objects/info 2 -
+/aws_s3_config.json 2 -
+/terraform/terraform.tfvars.json 2 -
+/.vercel/functions/* 2 -
+/old/aws_config 2 -
+/var/task/nuxt.config.js 2 -
+/app/.env.local 2 -
+/s3/bucket 2 -
+/metrics 2 -
+/Dockerfile 2 -
+/v2/* 2 -
+/.amplifyrc 2 -
+/rest/oauth2-credential/auth 2 -
+/servers/link.cgi 2 -
+/.env.dev 3 -
+/__nextjs_action/* 2 -
+/rest/node-types 2 -
+/livewire/update 3 http://digicard.idealgroups.org/
+/site/xmlrpc.php 6 -
+/config.json 4 -
+/.env.json 1 -
+/$(pwd)/.terraform/terraform.tfstate 2 -
+/root/.s3cfg 2 -
+/software/*.cgi 2 -
+/~/.gitconfig 2 -
+/app/package.json 2 -
+/.dockerignore 2 -
+/checkout 2 -
+/actions/* 2 -
+/notifications/* 2 -
+/.boto 2 -
+/webmin/package-updates/update.cgi 2 -
+/blog/xmlrpc.php 6 -
+/servers/save.cgi 2 -
+/__clockwork/latest 2 -
+/payment_gateways/stripe.yaml 2 -
+/_next/static/* 2 -
+/dayrui/Fcms/View/login.html 2 http://www.digicard.idealgroups.org/dayrui/Fcms/View/login.html
+/.git/logs/refs/heads/master 2 -
+/cms/* 2 -
+/backup/xmlrpc.php 6 -
+/serverless.yml 2 -
+/wordpress/xmlrpc.php 6 -
+/.gitmodules 2 -
+/.env.staging 3 -
+/warm.PhP 3 -
+/$(pwd)/docker-compose.yml 2 -
+/_next/data/*/about.json 2 -
+/wordpress/wp-admin/includes 7 -
+/rest/license 2 -
+/rest/credentials-for-node 2 -
+/.env_config 1 -
+/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif 1 http://digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif
+/console/* 2 -
+/v1/* 2 -
+/serverless.yaml 2 -
+/.env.save 3 -
+/package-updates/index.cgi 2 -
+/.git/index 3 -
+/Readme.txt 2 http://www.digicard.idealgroups.org/Readme.txt
+/api/webhook/* 2 -
+/attacker/docker-compose.yml 2 -
+/config/env 1 -
+/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif 1 http://digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif
+/.env.development.local 1 -
+/$(pwd)/terraform.tfstate 2 -
+/stripe/config.json 2 -
+/.git/logs/HEAD 3 -
+/[[...optional]] 2 -
+/home/*/.gitconfig 2 -
+/.env.container 1 -
+/.env.tmp 1 -
+/docker-compose.yml 2 -
+/root/.git-credentials 2 -
+/.docker/config.json 2 -
+/fr/* 2 -
+/s3.properties 2 -
+/.env.docker 1 -
+/s3/backup 2 -
+/s3/.aws/config 2 -
+/.cache 2 -
+/~/.boto 2 -
+/wp-json/wp/v2/users 3 -
+/about 2 -
+/stripe.config.js 2 -
+/docs 2 -
+/api/v1/executions 2 -
+/_next/data/*/index.json 2 -
+/.git/refs/heads/master 3 -
+/__nextjs_action 2 -
+/new/xmlrpc.php 6 -
+/aws_s3_bucket 2 -
+/.env.php 1 -
+/config/.env.local 1 -
+/var/task/nuxt.config.ts 2 -
+/api/auth/* 2 -
+/graphql 2 -
+/* 2 -
+/content/* 2 -
+/worm.PhP 3 -
+/app/next.config.js 2 -
+/rest/workflows 2 -
+/.github 2 -
+/aws.json 2 -
+/contact 2 -
+/.git/packed-refs 2 -
+/.env.production.local 1 -
+/en/* 2 -
+/payment/* 2 -
+/orders/* 2 -
+/integrations/* 2 -
+/aws/buckets 2 -
+/wp/xmlrpc.php 6 -
+/%2f.env 2 -
+/$(pwd)/netlify.toml 2 -
+/wp-includes/ID3/license.txt 5 -
+/aws.yml 2 -
+/aws/metadata 2 -
+/root/.gitconfig 2 -
+/*/[slug] 2 -
+/.git/ORIG_HEAD 2 -
+/sitemap.xml 4 -
+/stripe-keys.json 2 -
+/robots.txt 5 -
+/.github/CODEOWNERS 2 -
+/client/stripe.config.js 2 -
+/var/task/serverless.yml 2 -
+/healthz 2 -
+/web/xmlrpc.php 6 -
+/.git/COMMIT_EDITMSG 2 -
+/.env_1 2 -
+/manage/* 2 -
+/rest/oauth1-credential/auth 2 -
+/.git/hooks/post-commit 2 -
+/sysinfo.cgi 2 -
+/.github/workflows/ci.yml 2 -
+/.git/logs/refs/remotes/origin/master 2 -
+/api/credentials 2 -
+/var/task/amplify.yml 2 -
+/user/* 2 -
+/..%5c..%5c..%5c..%5c..%5c..%5cvar/log/apache2/access.log 2 -
+/s3.secret 2 -
+/$(pwd)/serverless.yml 2 -
+/.env.dist 1 -
+/.gitlab/issue_templates 2 -
+/s3.yaml 2 -
+/_layouts/* 2 -
+/package-updates/save.cgi 2 -
+/:27017 2 -
+/.well-known/stripe 2 -
+/app/terraform.tfstate 2 -
+/app/etc/local.xml 13 -
+/docker/.env.local 1 -
+/rest/* 2 -
+/.aws/config 2 -
+/:27018 2 -
+/api/v1/workflows 2 -
+/plus/img/df_dedetitle.gif 2 http://www.digicard.idealgroups.org/plus/img/df_dedetitle.gif
+/src/config/stripe.js 2 -
+/aws-ses.json 2 -
+/.well-known/acme-challenge/* 2 -
+/error 2 -
+/$(pwd)/serverless.yaml 2 -
+/.gitlab-ci.yml 2 -
+/.env.testing 2 -
+/editor/* 2 -
+/.env1 1 -
+/.env2 1 -
+/~/.aws/credentials 2 -
+/package-updates/install.cgi 2 -
+/form/* 2 -
+/package-updates/refresh.cgi 2 -
+/$(pwd)/.env.local 2 -
+/_layouts/15/* 2 -
+/rest/credential-translation 2 -
+/old/wp-json/wp/v2/users 1 -
+/.env.local 5 -
+/aws/bucket 2 -
+/home/*/.aws/credentials 2 -
+/x 5 -
+/billing/* 2 -
+/root/.aws/credentials 2 -
+/*/[id] 2 -
+/.git/info/exclude 2 -
+/api/data/* 2 -
+/[tenant]/* 2 -
+/media/* 2 -
+/.env.dev.local 1 -
+/:27019 2 -
+/wp-content/uploads/wp-cert.phtml 1 -
+/.github/PULL_REQUEST_TEMPLATE.md 2 -
+/aws.env 2 -
+/.well-known/pki-validation/ 5 -
+/new/wp-json/wp/v2/users 1 -
+/var/task/docker-compose.yaml 2 -
+/sendgrid.env 6 -
+/rest/login 2 -
+/admin/.env 5 -
+/ALFA_DATA/alfacgiapi/perl.alfa 6 -
+/config/secrets.yml 2 -
+/wp/wp-json/wp/v2/users 1 -
+/.git/FETCH_HEAD 2 -
+/[id] 2 -
+/rest/tags 2 -
+/aws.yaml 2 -
+/[...catchAll] 2 -
+/uploads/-upload.phtml 1 -
+/oauth/* 2 -
+/profile/* 2 -
+/blog/[year]/[month]/[slug] 2 -
+/var/task/serverless.json 2 -
+/[workspace]/* 2 -
+/settings/* 2 -
+/wp-content/debug.log 2 -
+/webhook 2 -
+/.env.production 5 -
+/user/login 2 -
+/dnscfg.cgi 2 -
+/$(pwd)/*.auto.tfvars 2 -
+/.env.development 3 -
+/trpc/* 2 -
+/.well-known/stripe.txt 2 -
+/package-updates/perform.cgi 2 -
+/$(pwd)/next.config.js 2 -
+/$(pwd)/.env.development 2 -
+/threads/* 2 -
+/var/task/next.config.mjs 2 -
+/articles/* 2 -
+/.git/info 2 -
+/.env.test 3 -
+/.well-known/security.txt 1 -
+/rest/workflows/run 2 -
+/app/.terraform/terraform.tfstate 2 -
+/.env_settings 1 -
+/form 2 -
+/waku/* 2 -
+/old/xmlrpc.php 6 -
+/~/.git-credentials 2 -
+/app/vercel.json 2 -
+/app/next.config.mjs 2 -
+/_waku/* 2 -
+/~/.aws/config 2 -
+/admin/uploads/bn__.phtml 1 -
+/api/v1/credentials 2 -
+/.gitlab-ci 2 -
+/wp-content 9 -
+/cart 2 -
+/stripe/webhook_secret.env 2 -
+/.github/workflows/main.yml 2 -
+/.s3cfg 2 -
+/.terraform/credentials.tfrc.json 2 -
+/var/task/netlify.toml 2 -
+/wordpress/wp-json/wp/v2/users 1 -
+/.gitlab/merge_request_templates 2 -
+/.envrc 1 -
+/aws/s3/credentials 2 -
+/$(pwd)/.git/config 2 -
+/root/.netrc 2 -
+/$(pwd)/next.config.mjs 2 -
+/var/task/vercel.json 2 -
+/stripe-credentials.json 2 -
+/config/stripe.yaml 2 -
+/plugins/payments/stripe.json 2 -
+/.gitlab 2 -
+/wp-includes/css/dist 8 -
+/$(pwd)/vercel.json 2 -
+/.git/description 2 -
+/s3/buckets 2 -
+/aws/s3/env.env 2 -
+/.aws/credentials 5 -
+/shop/[category]/* 2 -
+/package-updates/* 2 -
+/$(pwd)/terraform.tfvars 2 -
+/app/netlify.toml 2 -
+/package-updates/yum.cgi 2 -
+/signup 2 -
+/.terraform.lock.hcl 2 -
+/var/task/next.config.ts 2 -
+/backup/wp-json/wp/v2/users 1 -
+/.github/funding.yml 2 -
+/%2fbackend%2f.env 2 -
+/site/wp-json/wp/v2/users 1 -
+/s3/bucket.env 2 -
+/form-test/* 2 -
+/.env_sample 2 -
+/home/*/.netrc 2 -
+/web/wp-json/wp/v2/users 1 -
+/_api/* 2 -
+/webhooks/incoming/stripe.json 2 -
+/api/login 2 -
+/app/amplify.yaml 2 -
+/vercel.json 2 -
+/app/etc/env.php 5 -
+/pages/* 2 -
+/stripe.yaml 2 -
+/terraform.tfvars 2 -
+/.git/HEAD 3 -
+/opt/mailcow-dockerized/mailcow.conf 2 -
+/~/.netrc 2 -
+/package-updates/update.cgi 2 -
+/var/task/package.json 2 -
+/wp-content/plugins/erinyani 7 -
+/projects/* 2 -
+/terraform.tfstate 2 -
+/%2f.aws%2fcredentials 2 -
+/.env.www 2 -
+/.env_backup 1 -
+/apps/admin/view/default/layui/images/face/11.gif 2 http://www.digicard.idealgroups.org/apps/admin/view/default/layui/images/face/11.gif
+/.stripe 2 -
+/.git/refs/remotes/origin/HEAD 2 -
+/messages/* 2 -
+/rest/executions 2 -
+/app/.env.production 2 -
+/app/.git/config 2 -
+/.git-credentials 2 -
+/docker-compose.env 1 -
+/package-updates/download.cgi 2 -
+/__debug 2 -
+/env 2 -
+/chat/* 2 -
+/.git/logs/refs/heads/main 2 -
+/.github/ISSUE_TEMPLATE 2 -
+/package-updates 2 -
+/statics/images/ext/dir.gif 4 http://www.digicard.idealgroups.org/statics/images/ext/dir.gif
+/.terraform.tfstate 2 -
+/stripe.env 2 -
+/.git/objects 2 -
+/wp-includes/js/dist 7 -
+/app/* 2 -
+/:28017 2 -
+/root/.aws/config 2 -
+/warm.PhP7 3 -
+/retu.PhP7 3 -
+/webhook/* 2 -
+/.env_secret 1 -
+/_profiler/phpinfo 3 -
+/dashboard/* 2 -
+/wp-includes/js/tinymce/themes/inlite 10 -
+/rest/variables 2 -
+/api/serverless/* 2 -
+/admin/* 2 -
+/rest/settings 2 -
+/teams/* 2 -
+/blog/wp-json/wp/v2/users 1 -
+/.git-askpass.sh 2 -
+/include/ckeditor/plugins/smiley/images/angel_smile.gif 2 http://www.digicard.idealgroups.org/include/ckeditor/plugins/smiley/images/angel_smile.gif
+/template.yaml 2 -
+/var/task/amplify/backend/function/*/src/index.js 2 -
+/software/update.cgi 2 -
+/products 2 -
+/.netlify/functions/* 2 -
+/loaders/* 2 -
+/phpinfo 1 -
+/.github/dependabot.yml 2 -
+/rest/users 2 -
+/test 2 -
+/var/task/amplify.yaml 2 -
+/_react/data/* 2 -
+/wp-includes/ID3 6 -
+/webhook-waiting/* 2 -
+/var/task/docker-compose.yml 2 -
+/.docker/secrets.json 2 -
+/app/amplify.yml 2 -
+/aws.env.json 2 -
+/api/* 2 -
+/public/livewire/update 3 http://digicard.idealgroups.org/livewire/update
+/administrator 2 http://digicard.idealgroups.org/administrator/
+/rest/logout 2 -
+/xmlrpc.php 6 -
+/.git-secret 2 -
+/aws-codecommit 2 -
+/_vercel/insights 2 -
+/config/stripe.json 2 -
+/webhook-test/* 2 -
+/_next/data/*/*.json 2 -
+/payment/stripe.json 2 -
+/home/*/.git-credentials 2 -
+/package-updates/*.cgi 2 -
+/api/users/* 2 -
+/wp-includes/l10n 9 -
+/admin 3 -
+/~/.s3cfg 2 -
+/var/task/serverless.yaml 2 -
+/admin/uploads/bn_1_1754420677.phtml 5 -
+/wp-admin 2 http://digicard.idealgroups.org/wp-admin/
+/$(pwd)/package.json 2 -
+/.git/config 5 -
+/publish/* 2 -
+/saka.phP7 2 -
+/.git/hooks 2 -
+/var/task/next.config.js 2 -
+/amplify/team-provider-info.json 2 -
+/software/install-updates.cgi 2 -
+/app/docker-compose.yml 2 -
+/.github/stale.yml 2 -
+/stripe.json 2 -
+/admin.html 2 -
+/.github/workflows 2 -
+/$(pwd)/.env.production 2 -
+/uploads/94056-upload.phtml 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 53
+141.98.11.181 5 5 16540 20260309090301
+150.136.253.162 4 4 4044 20260320110035
+151.145.54.165 4 4 4049 20260302131602
+45.149.173.219 3 3 9924 20260317082549
+169.150.203.242 3 3 9924 20260301140111
+169.150.203.249 3 3 9924 20260312133934
+34.142.251.255 3 3 2083 20260318023211
+34.18.216.58 2 2 2138 20260320053309
+169.150.203.197 2 2 6616 20260315011743
+145.220.91.19 2 2 2083 20260331053144
+115.231.78.15 2 2 4366 20260329230946
+206.119.178.206 2 2 8316 20260331195137
+149.102.225.177 2 2 6616 20260319104959
+3.151.194.164 2 2 2080 20260330203058
+104.168.98.195 2 2 2098 20260331070759
+66.132.153.125 1 1 1049 20260311204149
+18.211.58.193 1 1 1041 20260322070257
+136.169.232.138 1 1 1042 20260330155618
+167.94.138.161 1 1 1043 20260302235205
+46.101.24.240 1 1 1050 20260325120510
+205.210.31.108 1 1 3316 20260327132727
+136.169.235.163 1 1 1041 20260323032124
+3.18.186.238 1 1 1040 20260306064046
+66.132.153.131 1 1 1053 20260309174204
+52.23.209.126 1 1 0 20260331030436
+87.236.176.26 1 1 1040 20260312020127
+93.158.90.71 1 1 1049 20260329122855
+101.199.254.209 1 1 3316 20260326064355
+3.82.234.136 1 1 1049 20260323010401
+209.38.96.177 1 1 1043 20260307233919
+66.132.195.108 1 1 1040 20260324173229
+34.206.76.135 1 1 1052 20260315185917
+101.91.110.154 1 1 3308 20260329095944
+162.142.125.34 1 1 1045 20260317121039
+199.45.155.79 1 1 1049 20260326080438
+27.115.124.2 1 1 3316 20260330030044
+198.186.130.10 1 1 1050 20260313011344
+89.251.0.103 1 1 0 20260315024022
+134.122.34.26 1 1 1040 20260321192909
+198.235.24.9 1 1 3308 20260323152855
+205.210.31.139 1 1 3308 20260331073616
+93.158.90.65 1 1 841 20260329122856
+217.60.3.203 1 1 1041 20260319192716
+46.101.15.179 1 1 1050 20260312022321
+121.127.34.138 1 1 3316 20260301224123
+167.94.138.177 1 1 1050 20260318235757
+77.221.141.115 1 1 1042 20260319192651
+167.94.138.184 1 1 1052 20260302115243
+205.210.31.183 1 1 3316 20260331061740
+157.151.167.16 1 1 1041 20260309192659
+199.45.155.76 1 1 1043 20260310060154
+198.235.24.158 1 1 3316 20260321061648
+101.199.254.199 1 1 3316 20260330032916
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20260301 4 4 13240 2
+20260302 6 6 6144 3
+20260306 1 1 1040 1
+20260307 1 1 1043 1
+20260308 4 4 13232 2
+20260309 4 4 6444 4
+20260310 3 3 3133 3
+20260311 1 1 1049 1
+20260312 5 5 12014 3
+20260313 1 1 1050 1
+20260315 4 4 7668 3
+20260316 1 1 1039 1
+20260317 4 4 10969 2
+20260318 3 3 2093 2
+20260319 4 4 8699 3
+20260320 6 6 6182 3
+20260321 2 2 4356 2
+20260322 1 1 1041 1
+20260323 3 3 5398 3
+20260324 1 1 1040 1
+20260325 1 1 1050 1
+20260326 2 2 4365 2
+20260327 1 1 3316 1
+20260329 5 5 9564 4
+20260330 4 4 8715 4
+20260331 7 7 17029 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 59
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 67 133606 55 53
+/login 4 4162 0 2
+/.env.example 2 2138 2 2
+/register 2 1850 0 0
+/README.md 2 8316 1 1
+/password/reset 1 841 1 1
+/cgi-sys/ 1 0 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+100-500 3185
+0-44 39
+2K-5K 914
+44-100 6138
+5K+ 163
+500-1K 50
+1K-2K 54
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

@@ -1,0 +1,1459 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202504 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.ugi.net.in.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2058                
+POS_TIME 2737                
+POS_VISITOR 37621               
+POS_DAY 38321               
+POS_DOMAIN 3540                
+POS_LOGIN 3807                
+POS_ROBOT 3962                
+POS_WORMS 4536                
+POS_EMAILSENDER 4667                
+POS_EMAILRECEIVER 4810                
+POS_SESSION 39018               
+POS_FILESIZE 39430               
+POS_SIDER 39229               
+POS_FILETYPES 4945                
+POS_DOWNLOADS 5060                
+POS_OS 5108                
+POS_BROWSER 5228                
+POS_SCREENSIZE 5474                
+POS_UNKNOWNREFERER 5548                
+POS_UNKNOWNREFERERBROWSER 5735                
+POS_ORIGIN 5917                
+POS_SEREFERRALS 6051                
+POS_PAGEREFS 6195                
+POS_SEARCHWORDS 6343                
+POS_KEYWORDS 6495                
+POS_MISC 2400                
+POS_ERRORS 6554                
+POS_CLUSTER 3663                
+POS_SIDER_404 6767                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250501004252 24 4942 10883769967056
+FirstTime 20250401003647
+LastTime 20250430212732
+LastUpdate 20250501184254 24 0 23 0 0
+TotalVisits 283                 
+TotalUnique 11                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 11 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 30 30 0 272 278 381792
+1 34 35 111639 272 279 882657
+2 25 25 206 1175 1190 301703
+3 26 26 206 775 783 1328498
+4 33 33 0 295 303 600280
+5 34 34 516 379 397 1886333
+6 19 19 516 269 284 1096494
+7 33 34 124898 275 285 1042549
+8 37 37 0 222 229 73660
+9 31 33 222866 578 584 12625468
+10 27 28 111433 151 155 90049
+11 44 45 111639 244 259 592874
+12 27 27 0 260 264 2256782
+13 25 26 111433 253 257 139269
+14 25 25 0 375 380 537720
+15 31 31 0 309 321 909985
+16 25 25 0 263 277 1741840
+17 36 36 0 354 379 980375
+18 43 43 1032 489 531 2393219
+19 29 30 111433 199 213 243749
+20 28 29 111949 282 301 1276762
+21 37 37 0 841 888 6588013
+22 26 26 0 167 171 260261
+23 19 19 0 238 241 457963
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+in 705 705 0
+sc 11 11 2580
+us 7 16 1003721
+cn 1 1 13465
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+Googlebot/ 35 3745 20250429203541 35
+facebookexternalhit/ 32 3496 20250429181241 32
+unknown 19 2041 20250430212806 19
+Apache\-HttpClient/ 18 3042 20250428050912 0
+no_user_agent 11 858500 20250429011404 0
+bot[\s_+:,\.\;\/\\-] 10 1070 20250428001315 10
+Pinterestbot 7 749 20250427172756 7
+YandexBot/ 3 333 20250420021411 3
+bingbot/ 1 107 20250424110055 1
+Applebot/ 1 107 20250411070806 1
+nutch 1 107 20250415020545 1
+curl 1 0 20250428053006 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+html 2 13465 0 0
+js 9 1002897 0 0
+php 722 3404 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+macosx15 2 2
+macosx10 10 1
+Unknown 705 705
+win10 16 16
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+Unknown 705 705
+chrome119.0.0.0 2 2
+chrome77.0.3865.90 1 1
+firefox77.0 1 1
+chrome83.0.4103.97 1 1
+chrome91.0.4472.124 11 11
+chrome39.0.2171.95 10 1
+chrome84.0.4147.105 1 1
+chrome75.0.3770.100 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress/6.8;_https://ugi.net.in 20250430212732
+WordPress/6.7.2;_https://ugi.net.in 20250417011609
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/6.7.2;_https://ugi.net.in 20250417011609
+WordPress/6.8;_https://ugi.net.in 20250430212732
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 724 733
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 11
+409 5105 421172
+405 5 210
+301 716 0
+101 1 0
+404 2000 36106609
+406 954 215604
+401 25 2748
+302 62 0
+500 5 5235
+403 217 993915
+503 9 69505
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1120
+/admin/execute.php 1 -
+/phpinfo.php 12 -
+/wordpress/wp-admin/includeswp-conflg.php 1 -
+/templates/beez5/ 1 -
+/storage/framework/cache/ 5 -
+/wp-includes/autoload_classmap.php 1 -
+/1.php 2 -
+/graphiql 1 -
+/node/.env_example 1 -
+/new/.env.local 1 -
+/ads.txt 1 -
+/mah.php 1 -
+/public/uploads/.bucket 1 -
+/.aws_keys.json 1 -
+/aws/s3/secrets.json 1 -
+/public/bucket.json 1 -
+/.env_sample 1 -
+/.github/workflows/build.yml 1 -
+/aws/cloudfront/config.json 1 -
+/s3-credentials.json 1 -
+/configs/smtp.config 1 -
+/geju.php 1 -
+/wp-includes/Text/wp.php 1 -
+/images/cjfuns.php 1 -
+/manager.php 1 -
+/old_phpinfo.php 1 -
+/templates/atomic/ 1 -
+/.env.smtp_access 1 -
+/wp-content/themes/wp-pridmag/admin.php 1 -
+/php_info.php 1 -
+/config/env/sendgrid_keys.env 1 -
+/autoload_classmap.php 1 -
+/readme.php 1 -
+/api/aws/token 1 -
+/wp-includes/pomo/rk2.php 1 -
+/smtp.json 3 -
+/vendor/aws/keys.json 1 -
+/wp-content/plugins/hide-my-wp/view/assets/css/rtl.min.css 1 -
+/wp-content/languages/asus.php 1 -
+/wp-includes/Requests/Auth/ 1 -
+/wp-content/plugins/dummyyummy/wp-signup.php 1 -
+/services/mailgun/config.json 1 -
+/wp-includes/blocks/wp-conflg.php 1 -
+/aws/s3/keys.json 1 -
+/config/.htaccess 1 -
+/frontend/web/debug/default/view 1 -
+/wp-includes/images/about.php 2 -
+/s3-bucket-list.json 1 -
+/api 1 -
+/modules/mod_simplefileuploadv1.3/elements/filemanager.php 1 -
+/backend/.git/config 1 -
+/certs/fullchain.pem 1 -
+/wp-includes/SimplePie/Content/Type/alfa-rex.php 1 -
+/admin/function.php 1 -
+/modules/mod_simplefileuploadv1.3/elements/Clean.php 1 -
+/wp-2019.php 1 -
+/.well-known/acme-challenge/classwithtostring.php 1 -
+/site/wp-json/wp/v2/users 5 -
+/wp-content/languages/ 3 -
+/.aws_secrets.json 1 -
+/templates/atomic/error.php 1 -
+/.env.prod.local 1 -
+/wp-configs.php 1 -
+/application.yml 5 -
+/api/token.json 1 -
+/.s3/secrets.json 1 -
+/wp-admin/mah.php 1 -
+/wp-admin/includes/about.php 1 -
+/swagger.json 5 -
+/latest/meta-data 1 -
+/Assets/edit.php 1 -
+/169.254.169.254/latest/meta-data/placement/availability-zone 1 -
+/wp-admin/js/admin.php 1 -
+/var/logs/prod.log 5 -
+/.well-known/lv.php 1 -
+/kubernetes/eks/secrets.json 1 -
+/wp-content/mu-plugins/ 1 -
+/dump.tar.gz 2 -
+/api-gateway/.env.production 1 -
+/wp-content/themes/wp-pridmag/classwithtostring.php 1 -
+/api-gateway/.env.staging 1 -
+/aws/lambda/config.json 1 -
+/tmp/.aws/keys.json 1 -
+/private/aws.json 3 -
+/config/services/sendgrid.yaml 1 -
+/wp-includes/js/tinymce/skins/lightgray/img/about.php 2 -
+/wp-includes/images/crystal/about.php 1 -
+/wp-includes/images/chosen.php 1 -
+/tmp/error.log 1 -
+/infos/ 1 -
+/wp-includes/Text/network.php 4 -
+/wp 4 www.google.com
+/wp-includes/images/media/text.php 1 -
+/plugin.php 1 -
+/file.php 1 -
+/keys/sendgrid_keys.json 1 -
+/config/settings.env 3 -
+/s3-bucket.json 1 -
+/aws/eks/secrets.json 1 -
+/config/sparkpost_config.json 1 -
+/typo3conf/localconf.php 5 -
+/sparkpost_keys 1 -
+/credentials/sendgrid.json 1 -
+/azure-pipelines.yml 1 -
+/php.php 1 -
+/config/dev.json 3 -
+/wp-content/upgrade/autoload_classmap.php 1 -
+/phpinfo1.php 5 -
+/wp-includes/SimplePie/about.php 1 -
+/wp-admin/chosen.php 1 -
+/api-gateway/v1/openapi.json 1 -
+/old 2 www.google.com
+/.backup.tar 1 -
+/aws/api-gateway/swagger.json 1 -
+/wp-includes/lock.php 1 -
+/config.js 10 -
+/wp-includes/mah.php 1 -
+/wp-includes/images/smilies/network.php 1 -
+/wp-content/uploads/2020/admin.php 1 -
+/wordpress/wp-json/wp/v2/users 10 -
+/aws/ecs/task-credentials.json 1 -
+/169.254.169.254/latest/meta-data/placement/ 1 -
+/.npmrc 5 -
+/wp-includes/customize/muse.php 1 -
+/public/aws_secrets.json 1 -
+/update/.git/config 1 -
+/.well-known/as.php 1 -
+/wp-content/plugins/seoplugins/ 2 -
+/settings/mailgun.json 1 -
+/assets/images/about.php 1 -
+/.vscode/sftp.json 3 -
+/config/routes.yaml 5 -
+/staging.env 5 -
+/ugi 2 www.google.com
+/aws/iam/temporary.json 1 -
+/dev/shell.php 1 -
+/api-docs 5 -
+/wp-admin/classwithtostring.php 1 -
+/plugins/phpThumb/404.php 1 -
+/wp-includes/html-api/wp-conflg.php 1 -
+/.env.js 1 -
+/administrator/templates/bluestork/error.php 1 -
+/api/aws/credentials 1 -
+/jp.php 1 -
+/graphql/console 1 -
+/inputs.php 2 -
+/metadata/instance/compute/vmId 1 -
+/.backup.zip 1 -
+/api/v1/keys 1 -
+/keys/public.pem 1 -
+/.aws_lambda/handler.js 1 -
+/bitrix/php_interface/dbconn.php 5 -
+/admin/.git/config 1 -
+/.env.prod.json 1 -
+/backup 2 www.google.com
+/wp-includes/ID3/admin.php 1 -
+/wp-content/config.php 1 -
+/th/plugins/phpThumb/404.php 1 -
+/wp-content/wp-configs.php 1 -
+/cloudfront/secrets.json 1 -
+/.aws/config 3 -
+/inf.php 1 -
+/tmp/aws_keys.json 1 -
+/aws_keys.json 3 -
+/public/execute.php 1 -
+/169.254.169.254/latest/meta-data/iam/security-credentials/ecsTaskExecutionRole/ 1 -
+/dev/execute.php 1 -
+/index/x.php 1 -
+/config/services/mailjet.yaml 1 -
+/application/config/ 1 -
+/wp-includes/customize/wp-conflg.php 1 -
+/yarn.lock 5 -
+/cgi-bin/xmrlpc.php 1 -
+/api/credentials 5 -
+/wp-includes/style-engine/content.php 1 -
+/docker-compose.yml 3 -
+/169.254.169.254/latest/meta-data/iam/security-credentials/aws-sdk-credentials/ 1 -
+/kubernetes/metadata 1 -
+/dynamic_js 1 -
+/s3-access.json 1 -
+/api/aws/s3 1 -
+/wp-content/cong.php 1 -
+/.git/refs/remotes/origin/main 3 -
+/api/aws/sns 1 -
+/bootstrap/cache/config.php 5 -
+/backup/xmlrpc.php 15 -
+/execute.php 1 -
+/env.txt 5 -
+/.well-known/acme-challenge/about.php 1 -
+/system/config/email.php 1 -
+/internal-api/aws/credentials 1 -
+/wp-includes/random_compat/chosen.php 1 -
+/.gitconfig 2 -
+/.cloudfront/config.json 1 -
+/new 2 www.google.com
+/wp-content/uploads/2022/update.php 1 -
+/edit.php 1 -
+/backup/config.php 5 -
+/.well-known/pki-validation/fm.php 1 -
+/aws/api-gateway/openapi.json 1 -
+/internal/169.254.169.254/latest/meta-data/iam/security-credentials/ 1 -
+/public/backup.zip 1 -
+/logs/debug.log 1 -
+/api/db_dump.php 1 -
+/aws/s3/private.json 1 -
+/sitemap_index.xml.gz 1 -
+/services/mailjet/config.json 1 -
+/admin/graphql 1 -
+/wp-admin/js/widgets/xmrlpc.php 1 -
+/.aws/s3/secrets 1 -
+/.aws/ecs-task-credentials 1 -
+/aws_credentials.txt 1 -
+/logs/mailjet.log 1 -
+/package/dynamic_js 1 -
+/dev/.git/config 1 -
+/wp-content/radio.php 1 -
+/.well-known/pki-validation/about.php 1 -
+/wp-content/plugins/seoplugins/wso112233.php 1 -
+/templates/beez_20/ 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 5 -
+/laravel/.env.production 2 -
+/wp-includes/js/crop/shell.php 1 -
+/backup.env 5 -
+/mail/sendgrid/api.key 1 -
+/tmp/aws_secrets.json 1 -
+/sendgrid_keys.txt 1 -
+/application/config/email.php 1 -
+/jenkins.yml 1 -
+/config/secrets.yml 5 -
+/frontend/.git/config 1 -
+/wp-content/themes/plugin.php 1 -
+/dev/backup.zip 1 -
+/ecs/task-credentials 1 -
+/wp-content/plugins/admin.php 1 -
+/mail/mailgun/api.key 1 -
+/public/s3.json 1 -
+/wp-content/packed.php 1 -
+/cgi-bin/about.php 2 -
+/info/ 1 -
+/test/backup.zip 1 -
+/new/.env.production 2 -
+/hidden/aws_keys.json 3 -
+/sites/all/themes/ 5 -
+/wp-admin/wp-admin.php 1 -
+/wp-includes/js/alfa-rex.php 1 -
+/wp-content/themes/wp-pridmag/lock.php 1 -
+/public/.aws/config 1 -
+/latest/meta-data/iam/security-credentials/ 1 -
+/api/test 1 -
+/.env_1 1 -
+/wp-content/themes/include.php 2 -
+/logs/error.log 1 -
+/cgi-bin/fm.php 1 -
+/api/key.json 1 -
+/wp-includes/certificates/about.php 1 -
+/sitemap/sitemap-index.xml 1 -
+/metadata/instance/compute/resourceGroupName 1 -
+/eks/metadata 1 -
+/169.254.170.2/latest/meta-data/iam/security-credentials/ 1 -
+/aws/metadata/iam/security-credentials/ 1 -
+/app/etc/env.php 5 -
+/secrets/secret.key 1 -
+/aws/s3/tokens.yml 1 -
+/user/libraries 1 -
+/api/run 1 -
+/wp-admin/network/lock.php 1 -
+/wp-content/plugins/wp.php 1 -
+/wp-includes/rest-api/alfa-rex.php 1 -
+/assets/item.php 1 -
+/db_backup.dump 1 -
+/api/keys/mailjet.txt 1 -
+/admin/db.php 1 -
+/api-gateway/.env.local 1 -
+/s3/presigned-links 1 -
+/wp-admin/log.php 1 -
+/.git/refs/remotes/ 1 -
+/wp-content/plugins/wp-help/ 1 -
+/sitemap_index.xml 1 -
+/api-gateway/keys.json 1 -
+/s3/config.json 1 -
+/wp-includes/pomo/install.php 1 -
+/admin.php 3 -
+/wp-includes/images/media/about.php 1 -
+/wp-includes/assets/file.php 1 -
+/metadata/instance/network/interface/0/ipv4/ipAddress/0/publicIpAddress 1 -
+/aws/api-gateway/config.json 2 -
+/.well-known/credentials.json 1 -
+/internal/admin 1 -
+/wp-includes/pomo/chosen.php 1 -
+/id_rsa.pub 1 -
+/wp-content/plugins/phpad/as.php 1 -
+/about/function.php 2 -
+/public/uploads/s3-keys.json 1 -
+/config/aws.js 1 -
+/metadata/instance/network/interface/0/ipv4/ipAddress/0/ 1 -
+/api-gateway/v2/openapi.json 1 -
+/wp-content/themes/twenty/twenty.php 2 -
+/169.254.169.254/latest/meta-data/iam/security-credentials/ec2-instance-role 1 -
+/wp-includes/js/codemirror/about.php 1 -
+/admin/db_dump.php 1 -
+/logs/sendgrid.log 1 -
+/administrator/templates/isis/error.php 1 -
+/api/shell.php 1 -
+/themes.php 1 -
+/config/production.json 5 -
+/aws/keys_backup.json 1 -
+/api_keys/sparkpost_keys.json 1 -
+/dist 1 -
+/.git/refs/heads/main 3 -
+/169.254.169.254/latest/meta-data/public-hostname 1 -
+/test 3 -
+/aws/credentials.json 3 -
+/public/storage.json 1 -
+/wp-content/languages/chosen.php 1 -
+/settings/mailjet.json 1 -
+/graphql/api 1 -
+/wp-content/themes/travelscape/json.php 1 -
+/.settings.json 1 -
+/templates/beez/ 1 -
+/aws/s3/tokens.json 1 -
+/admin/debug 2 -
+/.well-known/pki-validation/parx.php 1 -
+/joomla/configuration.php-dist 5 -
+/.sitemap.xml 1 -
+/config/app.php 5 -
+/wp-links.php 2 -
+/.circleci/configs/development.yml 1 -
+/config/env/sparkpost_keys.env 1 -
+/api/v1/aws/keys 1 -
+/wp-content/plugins/seoplugins/mar.php 1 -
+/wp-includes/blocks/about.php 1 -
+/wp-admin/network/chosen.php 1 -
+/wp-info.php 1 -
+/app/config/mailgun.php 1 -
+/.cloudfront/secrets.json 1 -
+/debug/default/view 1 -
+/cloudfront/keys.json 1 -
+/wp-admin/js/about.php 1 -
+/wp-content/plugins/wp-time-capsule/wptc-dialog.css 1 -
+/wp-config.sublime-project 1 -
+/aws/api-gateway/tokens.json 1 -
+/item.php 2 -
+/wp-content/plugins/suretriggers/assets/images/STLogo.svg 1 -
+/wp-admin/user/content.php 1 -
+/assets/images/28c5400b0b.php 2 -
+/sapi/debug/default/view 1 -
+/api/account/sendgrid 1 -
+/metadata/instance/network/interface/0/ipv4/ipAddress/0/privateIpAddress 1 -
+/wp-content/upgrade/about.php 1 -
+/api/key 1 -
+/admin/secret 1 -
+/css/xp.php 1 -
+/aws/ses_smtp.json 1 -
+/.aws/credentials 14 -
+/.well-known/link.php 1 -
+/pi.php 1 -
+/p.php 1 -
+/backup.zip 1 -
+/wp-content/upgrade/admin.php 1 -
+/wp-content/plugins/xmrlpc.php 1 -
+/db.php 1 -
+/sendgrid.env 2 -
+/css/item.php 1 -
+/403.php 1 -
+/aws_lambda/handler.js 1 -
+/info 1 -
+/config/sendgrid.php 1 -
+/assets/images/xl2024.php 1 -
+/wp-content/uploads/link.php 1 -
+/wp-content/plugins/Cache/Cache.php 1 -
+/aws/iam/assume-role.json 1 -
+/vendor/.aws/keys.json 1 -
+/169.254.169.254/latest/meta-data/ 1 -
+/aws_lambda/config.json 1 -
+/wp-content/uploads/autoload_classmap.php 1 -
+/ssl/cert.pem 1 -
+/ty.php 2 -
+/services/sendgrid/config.json 1 -
+/wordpress/xmlrpc.php 14 -
+/.git/HEAD 22 -
+/radio.php 2 -
+/backup_old.zip 1 -
+/wp-emoji-release.min.js 1 -
+/uploaded_script.php 3 www.google.com
+/aws/sts/secrets.json 1 -
+/sparkpost/credentials 1 -
+/graphql/test 1 -
+/api/sendgrid/config.php 1 -
+/.git/refs/ 5 -
+/metadata/instance/compute/ 1 -
+/s3/keys.json 1 -
+/.git/packed-refs 5 -
+/12wudscz.php 1 -
+/api/mailgun/config.php 1 -
+/.travis.yml 1 -
+/wp-includes/fonts/item.php 1 -
+/function.php 2 -
+/lara/info.php 1 -
+/admin/upload/themes-install.php 1 -
+/images/autoload_classmap.php 1 -
+/wp-admin/includes/wp-conflg.php 1 -
+/graphql-explorer 1 -
+/.gitmodules 3 -
+/email/providers/mailjet.php 1 -
+/wp-includes/Text/Diff/Engine/about.php 2 -
+/images/404.php 1 -
+/wp-content/plugins/instant-appointment/assets/css/bootstrap-icons.min.css 1 -
+/laravel/core/.env.production 1 -
+/admin/test 2 -
+/console 1 -
+/cloudfront/api-keys.json 1 -
+/app.js 5 -
+/app/etc/local.xml 5 -
+/vendor/phpunit/phpunit/LICENSE 12 -
+/api/execute 1 -
+/internal/aws/metadata.json 1 -
+/wp-includes/Text/alfa-rex.php 1 -
+/wp-includes/certificates/up.php 1 -
+/.git/branches/ 5 -
+/info1.php 1 -
+/admin/debug.php 2 -
+/wp-includes/sitemaps/providers/about.php 1 -
+/aws/config.ini 1 -
+/templates/beez5/error.php 1 -
+/m.php 1 -
+/wp-config 1 -
+/wp-includes/js/crop/zmFM.php 1 -
+/.well-known/pki-validation/muse.php 1 -
+/secrets.json 5 -
+/config/database.yml 5 -
+/wp-includes/style-engine/about.php 2 -
+/vendor/aws/credentials 1 -
+/.env.local.json 1 -
+/aws/s3/public-bucket.json 1 -
+/WordPress/wp-admin/includes/zmFM.php 2 -
+/vendor/aws/secrets.json 1 -
+/.env.example 6 -
+/settings.py 2 -
+/169.254.169.254/latest/meta-data/hostname 1 -
+/api/aws/ses 1 -
+/.git/objects/ 5 -
+/wp-content/bk/ 1 www.google.com
+/portal/.git/config 2 -
+/public/.s3cfg 1 -
+/fm.php 2 -
+/wp-content/plugins/about.php 2 -
+/169.254.169.254/latest/meta-data/ami-id 1 -
+/api/keys/sendgrid.txt 1 -
+/api/v1/aws/token 1 -
+/api/keys/mailgun.txt 1 -
+/admin/config/search/xmlsitemap 1 -
+/aws/s3/config.json 1 -
+/sites/default/settings.php 5 -
+/keys/mailjet.key 1 -
+/new/.env.staging 1 -
+/_profiler/phpinfo 7 -
+/vendor/.aws/config 1 -
+/app/config/sendgrid.php 1 -
+/wp-content/admin.php 1 -
+/api/mailjet/config.php 1 -
+/secure-config.json 5 -
+/wp-content/file.php 1 -
+/.git/logs/ 5 -
+/settings.json 1 -
+/server.js 5 -
+/packed.php 1 -
+/wp-includes/css/about.php 1 -
+/nova-api/styles 5 -
+/wp-includes/Requests/Utility/cc.php 1 -
+/aws/iam/config.json 1 -
+/wp-content/uploads/file.php 1 -
+/shop/lock.php 1 -
+/wp-content/upgrade/shell.php 1 -
+/wp-content/themes/about.php 1 -
+/aws/cloudfront/secrets.json 1 -
+/0x.php 1 -
+/blog/.git/config 2 -
+/wp-content/plugins/ioxi/ioxi/dropdown.php 1 -
+/api-gateway/dev/swagger.json 1 -
+/core/install.php 5 -
+/aws/ses.json 3 -
+/aws/cognito/token.json 1 -
+/.s3cfg 1 -
+/.env.json 1 -
+/cgi-bin/moon.php 1 -
+/run.php 1 -
+/.backup.tar.gz 1 -
+/api/backup.zip 1 -
+/wp-content/upgrade/info.php 1 -
+/.env.local 9 -
+/filemanager.php 1 -
+/config/parameters.yml 3 -
+/.env.dev.json 1 -
+/cgi-bin/1.php 1 -
+/local_settings.py 5 -
+/ses/keys.json 3 -
+/latest/meta-data/iam/info 1 -
+/config/sparkpost.py 1 -
+/eks/secrets/iam 1 -
+/.well-knownold/inputs.php 1 -
+/backend 1 -
+/.aws_lambda/config.json 1 -
+/api/.git/config 1 -
+/sites/all/modules/ 5 -
+/php-info.php 3 -
+/wp-admin/bk/ 1 www.google.com
+/.well-known/.well-known/cc.php 1 -
+/sftp-config.json 3 -
+/wordpress/wp-includes/wp-config-sample.php 2 -
+/.aws_secrets.js 1 -
+/vendor/.aws 1 -
+/.dump 1 -
+/about.php 2 -
+/api/_profiler/phpinfo 1 -
+/web/config.php 5 -
+/.dump.tar 1 -
+/credentials.env 5 -
+/libraries/legacy/info.php 2 -
+/config/mailjet.php 1 -
+/admin/fckeditor/editor/filemanager/updates.php 1 -
+/aws/api-gateway.json 1 -
+/.aws/metadata/iam/security-credentials/ 1 -
+/wp-content/plugins/Cache.php 1 -
+/beta/backup.zip 1 -
+/public/aws_keys.json 1 -
+/wp-admin/images/about.php 1 -
+/169.254.169.254/latest/meta-data/iam/security-credentials/aws-elasticbeanstalk-ec2-role 1 -
+/wp-includes/block-supports/variations.php 1 -
+/smtp/backup.json 1 -
+/wp-includes/rest-api/autoload_classmap.php 1 -
+/config/env/sparkpost.env 1 -
+/169.254.169.254/latest/meta-data/local-ipv4 1 -
+/wp-includes/html-api/cloud.php 1 -
+/api/shared/config/config.env 1 -
+/.svn/entries 5 -
+/db.dump 1 -
+/smtp/private.json 1 -
+/hidden/.aws/config 3 -
+/prod.env 5 -
+/linusadmin-phpinfo.php 2 -
+/.dockerignore 5 -
+/metadata/instance/compute/zone 1 -
+/admin/images/slider/CUfcfoH.php 1 -
+/vendor/mailjet/config.php 1 -
+/api/execute.php 1 -
+/aws/s3/public.json 1 -
+/.database 1 -
+/.env.save 3 -
+/wp-content/uploads/chosen.php 1 -
+/metadata/instance/compute/name 1 -
+/wp-includes/Requests/Response/siteindex.php 1 -
+/Assets/item.php 1 -
+/storage/logs/laravel.log 6 -
+/.well-known/pki-validation/pwnd.php 1 -
+/api/v1/token 1 -
+/cronlab 1 -
+/13.php 1 -
+/wp-includes/blocks/edit.php 1 -
+/admin/uploads/lv.php 1 -
+/s3/public/keys 1 -
+/configs/mail.config 1 -
+/aws/env_vars.txt 1 -
+/wp-content/mah.php 1 -
+/graphql 4 -
+/text.php 1 -
+/storage/logs/mail.log 1 -
+/config/aws.json 1 -
+/wp-includes/Text/Diff/about.php 1 -
+/templates/protostar/ 1 -
+/test4.php 1 -
+/admin/shell.php 1 -
+/.git/config 20 -
+/storage/framework/sessions/ 5 -
+/api/debug.php 2 -
+/.well-known/themes.php 1 -
+/shell20211028.php 2 -
+/api-gateway/v2/swagger.json 1 -
+/wp-includes/php-compat/chosen.php 1 -
+/assets/admin.php 1 -
+/_nuxt 1 -
+/admin/run.php 1 -
+/config/aws_keys.json 3 -
+/admin/uploads/media.php 1 -
+/auth/bigquery 1 -
+/web/debug/default/view 1 -
+/.AWS_/credentials 2 -
+/mail-service/config.json 1 -
+/.git/index 8 -
+/sitemap-index.xml.gz 1 -
+/config/parameters.json 3 -
+/phpinfo3.php 1 -
+/storage/framework/views/ 5 -
+/web/wp-json/wp/v2/users 5 -
+/169.254.169.254/latest/meta-data/instance-id 1 -
+/wp-includes/customize/autoload_classmap.php 1 -
+/public/shell.php 1 -
+/info.php 10 -
+/templates/protostar/error.php 1 -
+/secrets/aws.json 3 -
+/.db_backup.tar.gz 1 -
+/doc.php 1 -
+/mail/settings.php 1 -
+/admin/controller/extension/extension/i8HQoK6nR.php 1 -
+/wp-includes/ID3/autoload_classmap.php 1 -
+/default.php 2 -
+/s3/.aws/config 1 -
+/wp-trackback.php 1 -
+/files/log.php 1 -
+/aws/iam/secrets.json 1 -
+/aws/token.json 1 -
+/media/system/js/core.js 9 -
+/wp-includes/SimplePie/wp-conflg.php 1 -
+/index/function.php 2 -
+/api/rce 1 -
+/bash.php 1 -
+/var/log/system.log 5 -
+/scripts/twilio-chat 1 -
+/.github/workflows/deploy.yml 1 -
+/website/.git/config 2 -
+/vendor/.aws/secrets.json 1 -
+/wp/wp-admin/setup-config.php 2 -
+/web/xmlrpc.php 11 -
+/email/credentials.json 3 -
+/.s3/keys.json 1 -
+/app/.git/config 1 -
+/aws-secret.yaml 2 -
+/wp-content/plugin.php 1 -
+/admin/graphql/explore 1 -
+/.msmtprc 1 -
+/.well-known/dropdown.php 1 -
+/as.php 1 -
+/images/about.php 1 -
+/about/wp-conflg.php 1 -
+/wp-admin/item.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/ 10 -
+/wp-includes/block-supports/autoload_classmap.php 1 -
+/wp-content/autoload_classmap.php 1 -
+/.well-known/acme-challenge/wso112233.php 1 -
+/_profiler/phpinfo/phpinfo.php 1 -
+/sitemap-index.xml 1 -
+/wordpress 4 www.google.com
+/.git/hooks/pre-push 1 -
+/.env.staging.json 1 -
+/aws_creds.js 1 -
+/169.254.169.254/latest/meta-data/network/interfaces/macs/mac/subnet-id 1 -
+/api/aws/iam 1 -
+/wp-includes/wp-includes/alfa-rex.php 1 -
+/test/wp-admin/setup-config.php 2 -
+/cms/.git/config 2 -
+/backup.tar.gz 1 -
+/aws/s3/credentials.yml 1 -
+/wp-includes/Requests/about.php 1 -
+/backup.tar 1 -
+/.database.tar.gz 1 -
+/alfanew.php 1 -
+/aws/iam/keys.json 1 -
+/bak.php 1 -
+/settings.js 1 -
+/.well-known/security.txt 6 -
+/.well-known/pki-validation/jp.php 1 -
+/aws/iam/temp-creds.json 1 -
+/s3cmd.ini 1 -
+/backup/wp-json/wp/v2/users 5 -
+/wp-includes/js/about.php 1 -
+/wp-includes/sodium_compat/src/content.php 1 -
+/old/wp-admin/setup-config.php 2 -
+/wp-content/plugins/elementor/about.php 1 -
+/api/aws/keys 1 -
+/wp-aa.php 4 -
+/templates/beez3/ 1 -
+/wp-content/upgrade-temp-backup/alfa-rex.php 1 -
+/smtp.env 1 -
+/.remote 1 -
+/wp-admin/maint/buy.php 1 -
+/auth.json 5 -
+/test.php 9 -
+/wp-content/plugins/wp-automatic/inc/csv.php 4 -
+/home/.git/config 1 -
+/.git/logs/HEAD 9 -
+/wp-includes/js/tinymce/skins/wordpress/images/about.php 1 -
+/wp-content/languages/link.php 1 -
+/aws/iam/credentials.json 1 -
+/beta/execute.php 1 -
+/aws-admin 1 -
+/wp-includes/sodium_compat/link.php 1 -
+/aws_lambda/secrets.json 1 -
+/admin/api/graphql 1 -
+/wp-includes/ID3/about.php 1 -
+/wp-includes/block-supports/about.php 1 -
+/aws/iam/role-chain.json 1 -
+/index.js 2 -
+/gel4y.php 1 -
+/development.env 5 -
+/config/packages/ 5 -
+/.git/refs/heads/master 3 -
+/ 10 https://www.google.com
+/.circleci/config.yml 1 -
+/plugins/DaoZM.php 1 -
+/sparkpost_keys.txt 1 -
+/ajax/xl2024.php 1 -
+/backend/.env.example 1 -
+/169.254.170.2/v2/credentials/ 1 -
+/settings.yaml 5 -
+/tmp/.aws/secrets.json 1 -
+/ini.php 2 -
+/Dockerfile 5 -
+/169.254.169.254/latest/meta-data/instance-type 1 -
+/wp-admin/date.php 1 -
+/keys/mailgun.key 1 -
+/js/style.php 1 -
+/laravel/.env.local 1 -
+/config/config.json 3 -
+/config.php 2 -
+/s3/.aws/config.json 1 -
+/debug.php 6 -
+/helm/values.yaml 5 -
+/lv.php 1 -
+/blog 2 www.google.com
+/new/wp-admin/setup-config.php 2 -
+/s3/presigned-urls 1 -
+/config/services/mailgun.yaml 1 -
+/.env.smtp_host 1 -
+/k8s/eks/secrets/aws 1 -
+/wp-admin/maint/about.php 1 -
+/docker-compose.yaml 2 -
+/api/aws/api-gateway 1 -
+/wp-content/themes/xmrlpc.php 1 -
+/dropdown.php 1 -
+/admin/phpinfo.php 2 -
+/buy.php 1 -
+/aws/iam/role-assume 1 -
+/ecs/task-credentials.json 1 -
+/wp-admin/js/wp-conflg.php 1 -
+/.cloudfront/keys.json 1 -
+/uploads/test.php 1 -
+/index/lock.php 1 -
+/wp-includes/assets/themes.php 1 -
+/css/cloud.php 1 -
+/wp-includes/SimplePie/Cache/content.php 1 -
+/wp-admin/images/alfa-rex.php 1 -
+/wp-content/themes/astra/inc/ki1k.php 2 -
+/laravel/core/.env.staging 1 -
+/data/aws/credentials 3 -
+/old/config.json 1 -
+/ssh/id_rsa.pub 1 -
+/credentials/mailgun.json 1 -
+/169.254.169.254/latest/meta-data/public-ipv4 1 -
+/vendor/.aws/credentials 1 -
+/metadata/instance/compute/vmSize 1 -
+/temp 1 www.google.com
+/rce.php 1 -
+/CHANGELOG.txt 5 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/about.php 1 -
+/css.php 1 -
+/wp-includes/assets/about.php 1 -
+/phpinfo 6 -
+/index/about.php 1 -
+/.gitattributes 1 -
+/db.ini 5 -
+/wp-content/themes/file.php 1 -
+/wp-content/uploads/classwithtostring.php 1 -
+/hidden/.aws/credentials 3 -
+/.aws_creds.json 1 -
+/169.254.169.254/latest/meta-data/iam/ 1 -
+/wp-admin/includes/install.php 1 -
+/test/shell.php 1 -
+/upload/wp-info.php 1 -
+/wp-content/plugins/wp-help/mini.php 1 -
+/wp-content/themes/cay-van-phong/filemanager.php 2 -
+/tool/view/phpinfo.view.php 1 -
+/cong.php 1 -
+/var/logs/dev.log 5 -
+/config.inc.php 5 -
+/admin/controller/extension/extension/blue.php 1 -
+/api-gateway/v1/swagger.json 1 -
+/wp-config.dist 1 -
+/.db_backup 1 -
+/i.php 2 -
+/wordpress/ 2 -
+/templates/beez_20/error.php 1 -
+/.git/info/exclude 4 -
+/wp-content/uploads/json.php 1 -
+/.git/execute.php 1 -
+/bk/ 1 www.google.com
+/api-gateway/staging/swagger.json 1 -
+/credentials/mailjet.json 1 -
+/sparkpost_keys.py 1 -
+/aws/sts/config.json 1 -
+/wp-includes/rest-api/blue.php 1 -
+/sendgrid_keys.py 1 -
+/aws_secret.txt 1 -
+/email/settings.php 1 -
+/app/config/mailjet.php 1 -
+/aws-api 1 -
+/wp-includes/fonts/about.php 1 -
+/assets/images/doc.php 1 -
+/alfa.php 3 -
+/css/cong.php 1 -
+/wp-config.php_old2014 1 -
+/storage/logs 1 -
+/api/config.json 5 -
+/wp-content/plugins/revslider/includes/external/page/ 1 -
+/wp/wp-json/wp/v2/users 10 -
+/public/.aws/secrets.json 1 -
+/wp-includes/SimplePie/system.php 1 -
+/byp.php 1 -
+/aws_config.js 1 -
+/wp-content/themes/astra/inc/network.php 1 -
+/shell 1 -
+/.git/backup 1 -
+/aws_secrets.json 3 -
+/wp-admin/includes/xmrlpc.php 1 -
+/package 1 -
+/api/aws/cognito 1 -
+/k8s/metadata 1 -
+/public/uploads/.s3cfg 1 -
+/wp-content/themes/sketch/404.php 1 -
+/x.php 1 -
+/admin/atomlib.php 1 -
+/wp-content/function.php 1 -
+/wp-includes/block-patterns/vuln.php 1 -
+/graphql/dev 1 -
+/config/sparkpost_keys.json 1 -
+/wp-admin/js/alfa-rex.php 1 -
+/.env.php 1 -
+/wp-includes/sitemaps/alfa-rex.php 1 -
+/admin/config 1 -
+/api-gateway/config.json 1 -
+/api/v1/credentials 1 -
+/docker-compose.override.yml 1 -
+/wp-content/themes/zero2one/includes/identityverification 1 -
+/dashboard/phpinfo.php 1 -
+/wp-content/about.php 1 -
+/metadata/instance/compute/location 1 -
+/settings/sendgrid.json 1 -
+/wp-includes/theme-compat/chosen.php 1 -
+/wp-content/themes/newsfeed-theme/bbh.php 1 -
+/install.php 1 -
+/email/smtp_config.json 3 -
+/wp-content/upgrade/wp-sigunq.php 1 -
+/wp-content/themes/classic/inc/json.php 1 -
+/sitemap 1 -
+/.aws_lambda/secrets.json 1 -
+/config/secrets.json 5 -
+/config.yaml 1 -
+/config/smtp.json 3 -
+/goat1.php 1 -
+/debug 1 -
+/169.254.169.254/latest/meta-data/network/interfaces/macs/mac/ 1 -
+/tmp/backup.zip 1 -
+/swagger-ui.html 5 -
+/wp-includes/customize/shell.php 1 -
+/openapi.json 5 -
+/user/.env.staging 1 -
+/error.log 1 -
+/graphql/query 1 -
+/vendor/aws/config 1 -
+/Assets/admin.php 1 -
+/internal/aws/credentials 1 -
+/wp-content/uploads/plugins.php 1 -
+/api/v1/aws/credentials 1 -
+/package/static_js 1 -
+/s3/public/credentials 1 -
+/admin/rce.php 1 -
+/169.254.169.254/latest/user-data 1 -
+/dump.zip 1 -
+/.env.test 5 -
+/wp-admin/css/about.php 1 -
+/internal-api/aws/iam 1 -
+/gitlab-ci.yml 1 -
+/metadata/instance/compute/subscriptionId 1 -
+/settings.env 3 -
+/wp-admin/images/users.php 1 -
+/css/ 2 -
+/api-gateway/secrets.json 1 -
+/wp-includes/makeasmtp.php 1 -
+/.git/refs/remotes/origin/master 3 -
+/private/smtp.json 3 -
+/wp/xmlrpc.php 19 -
+/email/providers/sendgrid.php 1 -
+/config/.htpasswd 1 -
+/wp-content/plugins/duplicator/assets/about.php 1 -
+/aws/s3/credentials.json 1 -
+/k8s/secrets/aws 1 -
+/wp-admin/images/install.php 1 -
+/command.php 1 -
+/laravel 1 -
+/production/.git/config 1 -
+/169.254.170.2/v2/metadata/ 1 -
+/.aws/metadata 1 -
+/.aws_config.js 1 -
+/server_info.php 2 -
+/wp-content/blue.php 1 -
+/js/fm.php 2 -
+/aws/api-gateway/secrets.json 2 -
+/api/bash 1 -
+/package.json 5 -
+/config/default.json 5 -
+/phpinfo2.php 5 -
+/api/aws/lambda 1 -
+/api/test.php 1 -
+/aws_secrets.js 1 -
+/aws/iam/temp-keys 1 -
+/169.254.170.2/v2/credentials/ecsTaskExecutionRole 1 -
+/wp-includes/wp-includes/about.php 1 -
+/k8s/eks/token.json 1 -
+/wp-includes/network.php 1 -
+/config.phpinfo 1 -
+/.s3/config.json 1 -
+/config/mailgun.php 1 -
+/s3/.aws 1 -
+/network.php 1 -
+/private/aws_credentials.json 3 -
+/root/infophp 1 -
+/wp-admin/user/bak.php 1 -
+/site/xmlrpc.php 10 -
+/email/providers/mailgun.php 1 -
+/wp-includes/IXR/about.php 2 -
+/gecko.php 1 -
+/169.254.169.254/latest/meta-data/iam/info/ 1 -
+/moon.php 1 -
+/wordpress/wp-admin/setup-config.php 3 -
+/images/UGILogo1.jpg 2 -
+/classwithtostring.php 1 -
+/admin/test.php 1 -
+/vendor/sendgrid/config.php 1 -
+/old/xmlrpc.php 15 -
+/logs/error.php 5 -
+/.well-known/admin.php 1 -
+/karma.conf.json 2 -
+/wp-includes/random_compat/about.php 1 -
+/keys/private.pem 1 -
+/phpinfo.php3 1 -
+/wp-config.cache 1 -
+/.env.www 1 -
+/wp-includes/SimplePie/Content/Type/ 2 -
+/.aws_lambda 1 -
+/wp-content/.git/config 2 -
+/tmp/execute.php 1 -
+/keys/sparkpost_keys.json 1 -
+/_profiler/phpinfo.php 1 -
+/aws_keys.js 1 -
+/api-gateway/config.yaml 1 -
+/s3/.aws/credentials 1 -
+/max.php 1 -
+/lock.php 2 -
+/wp-includes/SimplePie/Cache/about.php 1 -
+/composer.json 5 -
+/shop/wp-admin/setup-config.php 2 -
+/bs1.php 1 -
+/stage.env 5 -
+/wp-content/plugins/bk/ 1 www.google.com
+/cloudfront/config.json 1 -
+/instance/sendgrid_keys.py 1 -
+/debug/default/view.html 1 -
+/.git/shell.php 1 -
+/api/account 1 -
+/administrator/templates/isis/ 1 -
+/mail/config.php 1 -
+/.aws/metadata/iam 1 -
+/169.254.170.2/latest/meta-data/ 1 -
+/aws/iam/temporary-credentials 1 -
+/.well-known/pkivalidation/log.php 1 -
+/config/config.yml 3 -
+/old/wp-json/wp/v2/users 10 -
+/wp-includes/sodium_compat/src/alfa-rex.php 1 -
+/email.json 3 -
+/admin/terminal.php 1 -
+/aws/metadata/iam/security-credentials 1 -
+/k8s/eks/credentials 1 -
+/wp-content/plugins/WordPressCore/alfa-rex.php 1 -
+/simple.php 2 -
+/laravel/.env.staging 1 -
+/aws/iam/ecs-task-credentials.json 1 -
+/infos.php 1 -
+/.well-known/pki-validation/siteindex.php 1 -
+/blog/wp-admin/setup-config.php 2 -
+/wp-includes/rest-api/admin.php 1 -
+/pgsql.dump 1 -
+/.env.production 9 -
+/test/execute.php 1 -
+/latest/user-data 1 -
+/wp.php 2 -
+/api/token 1 -
+/api/command 1 -
+/credentials 1 -
+/.aws/s3/keys 1 -
+/shell.php 2 -
+/.backup/pgsql.dump 1 -
+/api-gateway/production/swagger.json 1 -
+/new/xmlrpc.php 19 -
+/api-gateway/config.yml 1 -
+/src/config.js 5 -
+/logs/mailgun.log 1 -
+/wp-includes/sitemaps/about.php 1 -
+/.env.production.local 1 -
+/169.254.169.254/latest/meta-data/network/interfaces/macs/mac/vpc-id 1 -
+/administrator/templates/hathor/ 1 -
+/config.json 2 -
+/ses.json 3 -
+/config/settings.json 4 -
+/storage/oauth-private.key 3 -
+/s3/presigned 1 -
+/internal-api/aws/metadata 1 -
+/aws/metadata 2 -
+/css/chosen.php 1 -
+/internal-api/iam/credentials 1 -
+/tmp/.aws/credentials 1 -
+/api_keys/sendgrid_keys.json 1 -
+/api-gateway/openapi.json 1 -
+/modules/mod_simplefileuploadv1.3/elements/udd.php 1 -
+/user.php 1 -
+/api/graphql 1 -
+/modules/mod_simplefileuploadv1.3/elements/i8HQoK6nR.php 1 -
+/admin/.env 10 -
+/wp-content/IXR/ 1 -
+/.env.dev 9 -
+/database.json 5 -
+/.aws/ecs-task-credentials.json 1 -
+/api/aws/cloudfront 1 -
+/aws/lambda/secrets.json 1 -
+/aws/.env.ses 1 -
+/laravel/core/.env.local 1 -
+/cgi-bin/phpinfo.php 5 -
+/aws/metadata.json 1 -
+/admin/ty.php 1 -
+/wp-admin/css/colors/coffee/alfa-rex.php 1 -
+/api-gateway/.env.dev 1 -
+/themes/zMousse/otuz1.php 1 -
+/.dump.tar.gz 1 -
+/new/wp-json/wp/v2/users 10 -
+/internal/aws/iam/keys.json 1 -
+/modules/mod_simplefileuploadv1.3/elements/fozi/ 1 -
+/_next/static/chunks/app 1 -
+/src/.git/config 1 -
+/aws/cognito/config.json 1 -
+/k8s/secrets/iam 1 -
+/administrator/templates/hathor/error.php 1 -
+/wp-includes/bk/ 1 www.google.com
+/keys/sendgrid.key 1 -
+/wp-admin/network/upfile.php 1 -
+/metadata/instance/compute/tags 1 -
+/blog/xmlrpc.php 14 -
+/admin/command.php 1 -
+/config/config.php 1 -
+/aws.json 3 -
+/wp-content/themes/bk/ 1 www.google.com
+/aws/ecs/task-credentials 1 -
+/wp-admin/plugin.php 1 -
+/tmp/shell.php 1 -
+/wp-admin/css/wp-conflg.php 1 -
+/scripts 1 -
+/aws/cognito/secrets.json 1 -
+/aws/.env.prod 1 -
+/backup/.git/config 1 -
+/wp-includes/Text/wp-conflg.php 1 -
+/aws/api-gateway/keys.json 2 -
+/s3/presigned-url 1 -
+/beta/shell.php 1 -
+/.gitignore 8 -
+/.config.js 1 -
+/index.html 1 -
+/wp-includes/packed.php 1 -
+/makeasmtp.php 1 -
+/private/.git/config 1 -
+/static/js 1 -
+/public/.aws/credentials 1 -
+/metadata/instance/compute/platformFaultDomain 1 -
+/.env.prod 4 -
+/wp-content/plugins/pwnd/gecko.php 1 -
+/console.php 1 -
+/smtp/keys.json 1 -
+/terminal.php 1 -
+/wp-includes/style-engine/autoload_classmap.php 1 -
+/includes/mail.config.php 1 -
+/admin/fckeditor/editor/filemanager/owlmailer.php 1 -
+/templates/beez3/error.php 1 -
+/.well-known/pki-validation/xmrlpc.php 1 -
+/.well-known/acme-challenge/parx.php 1 -
+/.aws_lambda/token.json 1 -
+/.aws/s3/tokens 1 -
+/includes/config.php 1 -
+/debug.log 1 -
+/wp-admin/css/colors/coffee/about.php 1 -
+/aws/eks/config.json 1 -
+/wp-includes/sodium_compat/autoload_classmap.php 1 -
+/api/v1/proxy 1 -
+/aws_lambda/token.json 1 -
+/tmp/.aws/config 1 -
+/ssl/private.key 1 -
+/api/internal-aws 1 -
+/aws_smtp.json 3 -
+/s3/secrets.json 1 -
+/browse.php 1 -
+/.db_backup.tar 1 -
+/wp-includes/theme-compat/about.php 1 -
+/wp-content/plugins/background-image-cropper/plugins.php 1 -
+/logs/mail.log 1 -
+/wp-content/themes/cay-van-phong/3luaO.php 1 -
+/blog/wp-json/wp/v2/users 10 -
+/.git/refs/heads/ 1 -
+/.well-known/aws.json 1 -
+/wp-content/uploads/bk/ 1 www.google.com
+/public/s3-bucket.json 1 -
+/wp-content/configs.php 1 -
+/config/config.env 3 -
+/wp-content/plugins/phpadmin/acp.php 1 -
+/dashboard/.git/config 2 -
+/storage/oauth-public.key 3 -
+/aws/metadata/iam 2 -
+/cgi-bin/admin.php 1 -
+/metadata/instance/compute/plan 1 -
+/api/debug 3 -
+/aws/s3/public-buckets.json 1 -
+/wp-content/themes/twentytwentytwo/alfa-rex.php 1 -
+/config/settings/sparkpost_keys.js 1 -
+/var/log/exception.log 5 -
+/wp-admin/packed.php 1 -
+/169.254.169.254/latest/meta-data/network/interfaces/macs/ 1 -
+/mail/mailjet/api.key 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+119.18.54.35 705 705 0 20250430212732
+154.83.103.101 6 6 1548 20250407061602
+18.222.133.189 2 2 412 20250410015534
+154.83.103.115 2 2 516 20250409202449
+154.83.103.15 2 2 516 20250401050319
+152.69.216.106 2 2 0 20250404164648
+52.138.83.8 1 1 0 20250418185124
+154.83.103.19 1 1 0 20250403152452
+3.20.224.41 1 1 206 20250411115627
+54.174.25.30 1 1 206 20250419034835
+121.40.185.81 1 1 13465 20250412072527
+34.68.96.207 0 1 111433 
+34.86.105.82 0 1 111433 
+34.86.170.166 0 1 111433 
+34.9.105.12 0 1 111433 
+34.90.54.195 0 1 111433 
+34.21.0.195 0 1 111433 
+35.239.96.41 0 1 111433 
+34.60.43.66 0 1 111433 
+34.60.169.67 0 1 111433 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20250401 41 41 516 10
+20250402 22 22 0 10
+20250403 21 22 111433 12
+20250404 22 22 0 8
+20250405 22 22 0 11
+20250406 22 22 1032 11
+20250407 28 28 516 10
+20250408 25 25 206 10
+20250409 22 22 516 10
+20250410 33 33 206 10
+20250411 25 25 206 11
+20250412 19 19 13465 11
+20250413 27 28 111433 8
+20250414 19 19 0 8
+20250415 27 27 0 8
+20250416 23 24 111433 9
+20250417 19 19 0 9
+20250418 22 22 0 8
+20250419 23 24 111639 8
+20250420 18 18 0 11
+20250421 22 22 0 10
+20250422 24 24 0 8
+20250423 21 22 111433 11
+20250424 31 31 0 8
+20250425 28 28 0 9
+20250426 16 16 0 10
+20250427 18 18 0 10
+20250428 23 25 222866 8
+20250429 30 32 222866 7
+20250430 31 31 0 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 7
+30mn-1h 54
+5mn-15mn 13
+2mn-5mn 2
+0s-30s 130
+15mn-30mn 16
+1h+ 61
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/wp-cron.php 705 0 271 271
+/wp-config.php 8 0 6 2
+/wp-admin/install.php 5 2580 0 4
+/xmlrpc.php 4 824 4 4
+/ 1 13465 1 1
+/wp-content/ 1 0 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+100-500 1163
+2K-5K 10
+44-100 5028
+0-44 1591
+500-1K 55
+5K+ 2127
+1K-2K 8
+END_FILESIZE

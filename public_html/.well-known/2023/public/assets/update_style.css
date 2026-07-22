@@ -1,0 +1,105 @@
+.card-header{
+    background-color: #BC3A24 !important;
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.map_style {
+    height: 10px !important;
+    width: 10px !important;
+}
+
+.Submit_btn{
+    background-color: #BC3A24 !important; 
+    color: white !important;
+}
+
+
+.ViewSite{
+    background-color: #BC3A24 !important; 
+    color: white !important;
+    text-decoration: none;
+}
+
+.ViewSite::hover{
+    background-color: #BC3A24 !important; 
+    color: white !important;
+}
+
+.banner_image{
+    width: 100%; 
+    padding: 20px
+}
+
+#icon_spacing{
+    padding-right: 50px !important;
+    padding-left: 50px !important;
+}
+
+.icon_card{
+    padding: 10px; 
+    object-fit: cover; 
+    width: 60px; 
+    border: #E6E6E6 solid 4px; 
+    border-radius: 5px;
+}
+
+
+
+
+.follow_us
+{
+    color: white; padding: 5px; font-size: 35px; text-align: center;
+}
+
+.round_logo{
+    padding: 50px; 
+    border: 10px solid #fff;
+    max-width:100%;
+}
+
+.inquiry_submit{
+    color: white !important; 
+    font-weight: bold;
+}
+.inquiry_submit::hover{
+    color: white !important; 
+    font-weight: bold;
+}
+
+
+.testimonial_auther{
+    font-size: 16px; 
+    font-weight: bold;
+}
+
+.testimonials_image{
+    height:28px !important;
+    width:28px !important; 
+   border-radius: 50% !important;
+}
+
+.notfound{
+    color: red !important;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.inquiry_submit{
+    color: white; 
+    font-weight: bold;
+}
+
+.text_inquiry{
+    margin-left: 16px;
+}
+
+.not_found_text{
+    color: red;
+    font-weight: bold;
+}
+
+.click-off{
+    color: black;
+}

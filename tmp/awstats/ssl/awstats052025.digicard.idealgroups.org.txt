@@ -1,0 +1,399 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202505 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2060                
+POS_TIME 2731                
+POS_VISITOR 8911                
+POS_DAY 10106               
+POS_DOMAIN 3386                
+POS_LOGIN 3721                
+POS_ROBOT 3876                
+POS_WORMS 4268                
+POS_EMAILSENDER 4399                
+POS_EMAILRECEIVER 4542                
+POS_SESSION 10583               
+POS_FILESIZE 10808               
+POS_SIDER 10730               
+POS_FILETYPES 4677                
+POS_DOWNLOADS 4771                
+POS_OS 4819                
+POS_BROWSER 4998                
+POS_SCREENSIZE 5381                
+POS_UNKNOWNREFERER 5455                
+POS_UNKNOWNREFERERBROWSER 6014                
+POS_ORIGIN 6381                
+POS_SEREFERRALS 6513                
+POS_PAGEREFS 6657                
+POS_SEARCHWORDS 6805                
+POS_KEYWORDS 6957                
+POS_MISC 2395                
+POS_ERRORS 7016                
+POS_CLUSTER 3577                
+POS_SIDER_404 7160                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250601223412 1 0 7966936186587
+FirstTime 20250501142225
+LastTime 20250531154805
+LastUpdate 20250602184629 1 0 0 0 0
+TotalVisits 30                  
+TotalUnique 29                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 29                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 10 10 830
+1 1 1 1038 2 2 6636
+2 1 1 1045 17 18 22220
+3 2 2 4346 126 131 24860
+4 4 4 4158 200 201 147606
+5 0 0 0 193 194 18447
+6 0 0 0 5 5 7593
+7 1 1 1047 1 3 5903
+8 0 0 0 1 1 226
+9 2 2 2082 6 9 432596
+10 1 1 1038 20 21 7240
+11 5 5 5207 379 397 94636
+12 5 5 7472 256 259 31736
+13 1 1 1044 195 195 16185
+14 2 2 2088 2 5 5901
+15 3 4 3157 203 227 82624
+16 2 2 2070 180 184 34009
+17 0 0 0 0 0 0
+18 0 0 0 171 171 16538
+19 0 0 0 5 5 14113
+20 1 1 1036 341 342 37909
+21 0 0 0 8 9 10660
+22 1 1 1044 6 6 6675
+23 2 2 2069 5 6 10044
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 18 18 18748
+cn 4 4 6423
+za 4 4 4148
+gb 2 2 2081
+pa 1 2 1067
+ru 1 1 1045
+nl 1 1 1046
+in 1 1 1036
+be 1 1 1037
+ca 1 1 3310
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+curl 4 13272 20250529013300 0
+checker 4 4164 20250512225325 0
+bot[\s_+:,\.\;\/\\-] 4 3967 20250520094200 0
+no_user_agent 2 6628 20250520103628 0
+link 1 1045 20250502143952 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 1037 20250501151544 0
+scrapy 1 1048 20250504020906 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 34 39919 0 0
+js 1 22 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+androidjellybean 2 2
+linux 11 11
+win11 1 1
+win7 3 3
+macosx15 4 4
+androidnougat 4 4
+Unknown 7 7
+win8 1 0
+win10 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+chrome63.0.3239.132 1 1
+mozilla 6 6
+Unknown 1 1
+chrome30.0.1599.82 1 1
+firefox77.0 2 2
+chrome58.0.3029.110 1 1
+chrome28.0.1469.0 1 0
+chrome71.0.2623.112 1 1
+msie9.0 1 1
+chrome135.0.0.0 6 6
+firefox99.0 1 1
+chrome104.0.0.0 1 1
+chrome120.0.0.0 1 1
+firefox136.0 4 4
+chrome136.0.0.0 1 1
+android 1 1
+seamonkey 1 1
+chrome60.0.3112.107 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250530123658
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250511164047
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250529095108
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250530123658
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 29 30
+From1 5 5
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+301 2 503
+406 128 28702
+405 1 421002
+404 155 380515
+409 2088 173304
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 63
+/1975.phP 1 www.google.com
+/wp-admin 1 https://www.google.com
+/app-settings.js 1 -
+/assets/config.js 1 -
+/digicard/public/assets/logo.png 3 -
+/settings.js 1 -
+/credentials.json 1 -
+/aws-exports.js 1 -
+/public/scripts.js 1 -
+/.env.project 4 -
+/js/settings.js 1 -
+/admin/.env 1 -
+/.env.dist 4 -
+//idealgroups.org/digicard/public/assets/Style.css 3 -
+/runtime-env.js 1 -
+/config.json 4 -
+/assets/js/main.js 1 -
+/dist/app.js 1 -
+/env.js 2 -
+/ads.txt 5 -
+/.env.development 5 -
+/debug/default/view 2 -
+/src/js/index.js 1 -
+/.env.save 6 -
+/robots.txt 4 -
+/config.js 1 -
+/firebase.js 1 -
+//idealgroups.org/digicard/public/js/coreui.bundle.min.js 8 -
+/secrets.json 1 -
+/js/env.js 1 -
+/phpinfo 2 -
+/.env.production 6 -
+/js/config.js 1 -
+/config/config.json 1 -
+/auth.json 2 -
+/manifest.json 1 -
+/_profiler 1 https://www.digicard.idealgroups.org/_profiler/
+//idealgroups.org/digicard/public/build/assets/app-12bdea52.css 3 -
+/assets/settings.js 1 -
+/_profiler/empty/search/results 1 -
+/js/main.js 1 -
+/metadata 1 -
+/assets/env.js 1 -
+/config/default.json 1 -
+/js/vendor.js 1 -
+/ftpsync.settings 2 -
+/scripts/main.js 1 -
+/hardhat.config.js 2 -
+/api/app.js 1 -
+/enviroments/.env.production 4 -
+/client/main.js 1 -
+/scripts/app.js 1 -
+/.env.local 1 -
+/live_env 4 -
+/.env.prod 6 -
+/public/js/app.js 1 -
+/app/assets/javascripts/application.js 1 -
+/.git/config 27 -
+/firebase-config.js 1 -
+/.json 2 -
+/js/app.js 1 -
+/static/app.js 1 -
+/_profiler/phpinfo 6 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 29
+196.251.115.39 3 3 3113 20250512100750
+51.77.108.53 2 2 2081 20250514045446
+112.94.252.124 2 2 2077 20250516043316
+115.231.78.15 2 2 4346 20250516034508
+159.223.15.216 1 1 1034 20250517165647
+159.223.212.185 1 1 1043 20250529122054
+164.92.102.168 1 1 1042 20250531154805
+44.200.60.207 1 1 1044 20250502223210
+87.236.176.37 1 1 1037 20250529095108
+44.203.232.234 1 1 1045 20250517114741
+196.251.116.97 1 1 1035 20250523235416
+209.97.135.49 1 1 1044 20250503132732
+64.23.160.17 1 1 1042 20250505115309
+167.94.146.59 1 1 1045 20250509095840
+162.142.125.197 1 1 1037 20250504123448
+54.173.10.72 1 1 1048 20250502154127
+64.227.159.214 1 1 1043 20250507140250
+161.35.233.167 1 1 1036 20250503201448
+198.235.24.254 1 1 3310 20250530123658
+103.163.161.30 1 1 1036 20250524123651
+206.168.34.195 1 1 1036 20250511164047
+206.168.34.193 1 1 1045 20250501142225
+134.209.35.81 1 1 1034 20250518232610
+162.243.234.117 1 1 1038 20250515015042
+188.166.166.207 1 1 1046 20250531122410
+159.223.221.209 1 1 1045 20250521115544
+185.247.137.91 1 1 1045 20250528024214
+179.43.128.106 1 2 1067 20250514150408
+206.81.2.228 1 1 1047 20250507072449
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20250501 1 1 1045 1
+20250502 2 2 2092 2
+20250503 2 2 2080 2
+20250504 1 1 1037 1
+20250505 1 1 1042 1
+20250507 4 4 4165 3
+20250509 1 1 1045 1
+20250511 1 1 1036 1
+20250512 1 1 1038 1
+20250514 3 4 3148 2
+20250515 1 1 1038 1
+20250516 4 4 6423 2
+20250517 2 2 2079 2
+20250518 1 1 1034 1
+20250521 1 1 1045 1
+20250523 1 1 1035 1
+20250524 1 1 1036 1
+20250528 1 1 1045 1
+20250529 2 2 2080 2
+20250530 1 1 3310 1
+20250531 2 2 2088 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 30
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 34 39919 30 30
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+44-100 2088
+1K-2K 42
+500-1K 1
+0-44 2
+2K-5K 172
+100-500 129
+5K+ 2
+END_FILESIZE

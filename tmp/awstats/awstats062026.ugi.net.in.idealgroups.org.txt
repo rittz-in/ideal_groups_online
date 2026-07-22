@@ -1,0 +1,360 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202606 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.ugi.net.in.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2095                
+POS_TIME 2756                
+POS_VISITOR 8877                
+POS_DAY 9023                
+POS_DOMAIN 3320                
+POS_LOGIN 3553                
+POS_ROBOT 3708                
+POS_WORMS 3944                
+POS_EMAILSENDER 4075                
+POS_EMAILRECEIVER 4218                
+POS_SESSION 9117                
+POS_FILESIZE 9347                
+POS_REQUESTTIME 9462                
+POS_SIDER 9263                
+POS_FILETYPES 4353                
+POS_DOWNLOADS 4431                
+POS_OS 4479                
+POS_BROWSER 4569                
+POS_SCREENSIZE 4659                
+POS_UNKNOWNREFERER 4733                
+POS_UNKNOWNREFERERBROWSER 4820                
+POS_ORIGIN 4902                
+POS_SEREFERRALS 5032                
+POS_PAGEREFS 5176                
+POS_SEARCHWORDS 5324                
+POS_KEYWORDS 5476                
+POS_MISC 2420                
+POS_ERRORS 5535                
+POS_CLUSTER 3409                
+POS_SIDER_404 5670                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260701020208 2 231 13694052625444
+FirstTime 0
+LastTime 20260615074047
+LastUpdate 20260701190932 2 0 1 0 0
+TotalVisits 2                   
+TotalUnique 2                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 2                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 8 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 3 4 0
+1 0 0 0 2 2 0
+2 0 0 0 4 5 226
+3 0 0 0 5 5 0
+4 0 0 0 2 2 0
+5 0 0 0 16 26 62205
+6 0 0 0 9 18 55316
+7 1 1 244 7 10 416
+8 0 0 0 7 9 0
+9 0 0 0 9 18 55542
+10 0 0 0 34 34 189428
+11 0 0 0 7 8 226
+12 0 0 0 56 56 246326
+13 0 0 0 13 13 42672
+14 0 0 0 5 5 6405
+15 0 0 0 30 34 93363
+16 0 0 0 12 12 664
+17 0 0 0 7 9 452
+18 1 1 244 66 70 83851
+19 0 0 0 8 8 12192
+20 0 0 0 7 9 12192
+21 0 0 0 10 10 475
+22 0 0 0 8 8 0
+23 0 0 0 67 71 249020
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+cn 1 1 244
+ro 1 1 244
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+unknown 2 214 20260615074046 2
+[\s_+:,\.\;\/\\-]bot 1 107 20260611231308 1
+crawl 1 244 20260611231336 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+xml 2 488 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 2
+macosx15 1 1
+android 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 2
+chrome131.0.0.0 1 1
+chrome120.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2 2
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 179 1091184
+301 111 0
+409 90 7470
+406 52 11752
+302 2 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 108
+/api/.env.production 1 -
+/.next/required-server-files.json 1 -
+/application.yml 3 -
+/assets/js/main.js 3 -
+/app/config/parameters.yml 1 http://ugi.net.in.idealgroups.org/
+/portal/.git/config 2 -
+/assets/vendor/glightbox/js/glightbox.min.js 3 -
+/build/.git/config 2 -
+/assets/vendor/bootstrap/js/bootstrap.bundle.min.js 1 -
+/.env.test 1 -
+/build-manifest.json 1 -
+/admin/credentials.json 1 -
+/assets/vendor/php-email-form/validate.js 3 -
+/_nuxt/builds/latest.json 1 -
+/admin/.git/config 2 -
+/credentials.json 1 -
+/public/.git/config 2 -
+/api/config 1 -
+/composer.json 1 http://ugi.net.in.idealgroups.org/
+/assets/img/apple-touch-icon.png 1 -
+/firebase-messaging-sw.js 1 -
+/assets/vendor/isotope-layout/isotope.pkgd.min.js 3 -
+/wp-content/.git/config 2 -
+/api/.git/config 2 -
+/web/.git/config 2 -
+/backend/.git/config 2 -
+/.git/config 10 -
+/config.env 1 -
+/firebase-config.json 1 -
+/settings.json 1 -
+/google.json 1 -
+/config.js 2 -
+/config.json 3 -
+/build/manifest.json 1 -
+/.next/build-manifest.json 1 -
+/api/v1/settings 1 -
+/v2/.git/config 2 -
+/serviceAccountKey.json 1 -
+/dashboard/.git/config 2 -
+/.gitconfig 1 http://ugi.net.in.idealgroups.org/
+/firebase-service-account.json 1 -
+/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js 3 -
+/project/.git/config 2 -
+/asset-manifest.json 2 -
+/static/.git/config 2 -
+/service-account.json 1 -
+/.env.dist 1 -
+/.env.production.local 1 -
+/config/application.yml 1 http://ugi.net.in.idealgroups.org/
+/v1/.git/config 2 -
+/.env.local 1 -
+/.env.prod 1 -
+/symfony/.git/config 2 -
+/api/.env.local 1 -
+/.env.staging 1 -
+/secrets.yml 1 -
+/laravel/.git/config 2 -
+/__/firebase/init.json 2 -
+/assets/js/aos.js 3 -
+/_next/build-manifest.json 1 -
+/env.json 1 -
+/api/v1/env 1 -
+/google-services.json 1 -
+/www/.git/config 2 -
+/assets/vendor/swiper/swiper-bundle.min.js 3 -
+/src/.git/config 2 -
+/site/.git/config 2 -
+/.env.qa 1 -
+/settings.py 2 -
+/assets/vendor/aos/aos.js 3 -
+/webpack-stats.json 1 -
+/.aws/credentials 3 -
+/frontend/.git/config 2 -
+/.git/HEAD 6 -
+/code/.git/config 2 -
+/.env.save 1 -
+/vault.env 1 -
+/blog/.git/config 2 -
+/appsettings.json 1 http://ugi.net.in.idealgroups.org/
+/stats.json 1 -
+/app.js 1 http://ugi.net.in.idealgroups.org/
+/api/settings 1 -
+/html/.git/config 2 -
+/config/parameters.yml 1 http://ugi.net.in.idealgroups.org/
+/.env.development 1 -
+/.env.example 1 -
+/api/v1/config 1 -
+/.env-config.js 1 http://ugi.net.in.idealgroups.org/
+/config/secrets.yml 1 -
+/htdocs/.git/config 2 -
+/shop/.git/config 2 -
+/gcp-credentials.json 1 -
+/assets/vendor/purecounter/purecounter_vanilla.js 3 -
+/manifest.json 1 -
+/wordpress/.git/config 2 -
+/key.json 1 -
+/assets/img/favicon.png 1 -
+/env.js 1 -
+/_next/static/buildManifest.js 1 -
+/.env.production 1 -
+/loadable-stats.json 1 -
+/v3/.git/config 2 -
+/assets/.git/config 2 -
+/v1/graphql 1 -
+/dist/.git/config 2 -
+/.env.default 1 -
+/server.js 1 http://ugi.net.in.idealgroups.org/
+/app/.git/config 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2
+85.121.240.75 1 1 244 20260601180801
+106.63.26.156 1 1 244 20260615074047
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20260601 1 1 244 1
+20260615 1 1 244 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/sitemap.xml 2 488 2 2
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 4
+0-44 121
+100-500 58
+5K+ 179
+44-100 90
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

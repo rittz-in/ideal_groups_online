@@ -1,0 +1,18 @@
+.productWorkPlan{
+	text-align: center;
+}
+.productWorkPlan img{
+	width: 35%;
+}
+.productWorkPlan h2{
+	padding-top: 25px;
+	font-size: 22px;
+}
+.productWorkPlan p{
+	line-height: 22px;
+	padding: 0px 30px;
+}
+.productExperience{
+	font-size: 40px;
+	text-transform: capitalize;
+}

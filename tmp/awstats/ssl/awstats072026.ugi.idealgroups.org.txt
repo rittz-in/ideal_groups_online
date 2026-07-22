@@ -1,0 +1,345 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202607 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.ugi.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2092                
+POS_TIME 2738                
+POS_VISITOR 8108                
+POS_DAY 8180                
+POS_DOMAIN 3285                
+POS_LOGIN 3496                
+POS_ROBOT 3651                
+POS_WORMS 3783                
+POS_EMAILSENDER 3914                
+POS_EMAILRECEIVER 4057                
+POS_SESSION 8236                
+POS_FILESIZE 8434                
+POS_REQUESTTIME 8550                
+POS_SIDER 8373                
+POS_FILETYPES 4192                
+POS_DOWNLOADS 4256                
+POS_OS 4304                
+POS_BROWSER 4369                
+POS_SCREENSIZE 4419                
+POS_UNKNOWNREFERER 4493                
+POS_UNKNOWNREFERERBROWSER 4580                
+POS_ORIGIN 4662                
+POS_SEREFERRALS 4792                
+POS_PAGEREFS 4936                
+POS_SEARCHWORDS 5084                
+POS_KEYWORDS 5236                
+POS_MISC 2402                
+POS_ERRORS 5295                
+POS_CLUSTER 3352                
+POS_SIDER_404 5431                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260720190725 1 0 13024929347744
+FirstTime 0
+LastTime 0
+LastUpdate 20260721201202 1 0 1 0 0
+TotalVisits 0                   
+TotalUnique 0                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 0                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 3 3 807
+1 0 0 0 4 5 1519
+2 0 0 0 1 1 355
+3 0 0 0 4 5 1388
+4 0 0 0 4 4 2104
+5 0 0 0 2 2 710
+6 0 0 0 3 3 1293
+7 0 0 0 149 156 43937
+8 0 0 0 2 2 452
+9 0 0 0 3 4 1300
+10 0 0 0 1 1 583
+11 0 0 0 61 64 19151
+12 0 0 0 1 1 583
+13 0 0 0 3 4 664
+14 0 0 0 6 7 2358
+15 0 0 0 2 3 936
+16 0 0 0 2 2 581
+17 0 0 0 1 1 355
+18 0 0 0 3 3 1164
+19 0 0 0 10 11 3976
+20 0 0 0 2 2 938
+21 0 0 0 2 2 938
+22 0 0 0 5 5 2003
+23 0 0 0 2 3 1065
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 0 0
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 141 47215
+406 93 20340
+421 1 362
+403 47 20662
+409 7 581
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 109
+/private-key 1 -
+/.continue/config.json 1 -
+/health 1 -
+/.aws/config 1 -
+/.config/anthropic/credentials/default.json 1 -
+/.hermes/config.yaml 1 -
+/.gitconfig 1 -
+/firebase-credentials.json 1 -
+/admin/.env 1 -
+/api/env 2 -
+/graphql 1 -
+/api/v2/config 2 -
+/.env.test 1 -
+/google-credentials.json 1 -
+/config/database.yml 1 -
+/.bash_profile 1 -
+/__/firebase/init.json 2 -
+/rclone.conf 1 -
+/gcp-key.json 1 -
+/.zshrc 1 -
+/.aws/credentials 2 -
+/public/admin.json 1 -
+/terraform.tfstate 1 -
+/gradle.properties 1 -
+/administrator/components/com_sppagebuilder/config.xml 1 -
+/settings.py 1 -
+/.env.example 2 -
+/env.js 1 -
+/wp-json 2 -
+/host.key 1 -
+/config/storage.yml 1 -
+/.claude/settings.json 1 -
+/secrets.yml 1 -
+/components/com_sppagebuilder/assets/css/sppagebuilder.css 1 -
+/application.yml 2 -
+/ 1 https://www.ugi.idealgroups.org/
+/bootstrap.yml 1 -
+/actuator/configprops 1 -
+/ngsw.json 1 -
+/config.js 1 -
+/.bashrc 1 -
+/robots.txt 2 -
+/api/v1/settings 2 -
+/.gradle/gradle.properties 1 -
+/z9x8c7v6b5-debug-trigger-ugi.idealgroups.org 1 -
+/keys/service-account.json 1 -
+/sw.js 1 -
+/config/application.properties 2 -
+/firebase-config.json 1 -
+/appsettings.Production.json 1 -
+/docker-compose.yaml 1 -
+/sa.json 1 -
+/.openclaw/openclaw.json 1 -
+/manifest.webmanifest 1 -
+/.env.development 2 -
+/api/config 2 -
+/.env.staging 1 -
+/application.properties 2 -
+/runtime-config.js 1 -
+/service-worker.js 1 -
+/.well-known/jwks.json 2 -
+/sendgrid.env 1 -
+/__env.js 1 -
+/.ssh/id_ed25519 1 -
+/config.env 2 -
+/localhost.key 1 -
+/v1/graphql 1 -
+/.svn/entries 1 -
+/settings.json 1 -
+/api/v2/settings 2 -
+/.git-credentials 1 -
+/api/account 2 -
+/openapi.json 1 -
+/.streamlit/secrets.toml 1 -
+/.cursor/mcp.json 1 -
+/actuator 1 -
+/env.json 1 -
+/config/gcp-credentials.json 1 -
+/.claude.json 1 -
+/.codex/config.toml 1 -
+/auth.json 1 -
+/secrets.json 1 -
+/values.yaml 1 -
+/bootstrap.properties 1 -
+/.gitlab-ci.yml 1 -
+/.env.dev 2 -
+/server.key 1 -
+/.hermes/auth.json 1 -
+/local.settings.json 1 -
+/config.json 2 -
+/appsettings.json 1 -
+/config/master.key 1 -
+/config/secrets.yml 2 -
+/.env.production 1 -
+/storage/logs/laravel.log 1 -
+/api/v1/config 1 -
+/.git/config 7 -
+/.ssh/known_hosts 1 -
+/actuator/env 2 -
+/.vscode/launch.json 1 -
+/.mcp.json 1 -
+/api/openapi.json 2 -
+/ssl/server.key 1 -
+/api/health 2 -
+/.aider.conf.yml 1 -
+/api/v1/env 1 -
+/.git/HEAD 3 -
+/.env.local 2 -
+/.ssh/id_ecdsa 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 0
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 0
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 4
+100-500 256
+44-100 7
+0-44 12
+500-1K 19
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

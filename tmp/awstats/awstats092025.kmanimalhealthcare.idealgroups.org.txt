@@ -1,0 +1,418 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202509 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.kmanimalhealthcare.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2103                
+POS_TIME 2762                
+POS_VISITOR 8661                
+POS_DAY 10856               
+POS_DOMAIN 3475                
+POS_LOGIN 3830                
+POS_ROBOT 3985                
+POS_WORMS 4284                
+POS_EMAILSENDER 4415                
+POS_EMAILRECEIVER 4558                
+POS_SESSION 11467               
+POS_FILESIZE 11977               
+POS_REQUESTTIME 12111               
+POS_SIDER 11614               
+POS_FILETYPES 4693                
+POS_DOWNLOADS 4814                
+POS_OS 4862                
+POS_BROWSER 5028                
+POS_SCREENSIZE 5535                
+POS_UNKNOWNREFERER 5609                
+POS_UNKNOWNREFERERBROWSER 6287                
+POS_ORIGIN 6563                
+POS_SEREFERRALS 6695                
+POS_PAGEREFS 6879                
+POS_SEARCHWORDS 7027                
+POS_KEYWORDS 7179                
+POS_MISC 2426                
+POS_ERRORS 7238                
+POS_CLUSTER 3686                
+POS_SIDER_404 7381                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251001033702 1 0 21340664944388
+FirstTime 0
+LastTime 20250930101922
+LastUpdate 20251001184235 1 0 0 0 0
+TotalVisits 61                  
+TotalUnique 55                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 55                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 71018 123 125 17093
+1 2 2 14348 11 11 50592
+2 5 5 149210 17 20 10632
+3 2 2 71058 708 708 1719024
+4 1 1 7164 1 1 2428
+5 0 0 0 94 95 21466
+6 1 1 7174 0 6 12249
+7 2 2 7481 41 45 28776
+8 3 3 106527 14 19 19011
+9 5 5 149210 15 15 38673
+10 6 6 156414 16 16 5675
+11 8 8 163855 17 19 12725
+12 7 7 191873 25 25 7709
+13 1 2 27669 3 7 11794
+14 0 0 0 4 5 7476
+15 1 1 7164 252 253 437759
+16 10 10 107090 70 70 78561
+17 10 11 262205 235 239 48924
+18 5 5 113754 22 22 18157
+19 3 3 14645 4 4 12256
+20 4 5 77506 2 4 9602
+21 6 7 148524 22 28 63563
+22 2 3 34823 6 8 57141
+23 2 2 42683 156 159 32091
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 62 67 1588404
+ca 6 6 184799
+ru 5 5 22136
+in 4 4 14456
+cz 2 2 14348
+de 2 2 42673
+gb 2 2 14348
+nl 2 2 14328
+za 1 1 307
+zz 1 1 87
+cn 1 1 35509
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Googlebot/ 22 6542 20250930080123 21
+checker 7 50218 20250928224314 0
+no_user_agent 6 213174 20250928211902 0
+curl 2 0 20250921183455 0
+unknown 1 109 20250928235803 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+html 78 1827436 0 0
+png 5 102475 0 0
+Unknown 10 1484 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+androidlollipop 2 2
+win7 1 1
+macosx15 3 3
+win10 46 46
+macosx 1 1
+Unknown 29 24
+linux 10 10
+win98 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+chrome73.0.3683.90 2 2
+chrome139.0.0.0 4 4
+firefox24.0 1 1
+chrome78.0.3904.108 32 32
+chrome91.0.4472.124 2 2
+chrome138.0.0.0 2 2
+safari 1 1
+Unknown 9 9
+firefox92.0 1 1
+netscape7.1 1 1
+netscape5.0 3 3
+chrome120.0.0.0 1 1
+firefox139.0 1 1
+chrome132.0.0.0 2 2
+chrome92.0.4515.107 1 1
+chrome58.0.3029.110 3 3
+mozilla 17 12
+chrome126.0.0.0 1 1
+chrome113.0.5672.93 1 1
+firefox31.9 1 1
+chrome88.0.4240.193 3 3
+firefox113.0 1 1
+chrome106.0.0.0 2 2
+firefox83.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250923212328
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20250920162621
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20250913183916
+Mozilla/5.0_zgrab/0.x 20250926124328
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250918025253
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250930101922
+Cpanel-HTTP-Client/1.0 20250920162615
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Cpanel-HTTP-Client/1.0 20250920162615
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250930101922
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 86 91
+From1 0 0
+From2 2 2
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 1 1
+www_google_co_uk 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 791 1935643
+302 1 286
+409 834 69222
+406 228 51528
+405 1 396655
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 30
+/user/login 1 -
+//admin/.env 1 https://www.google.com/
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/functions.js 1 -
+/wordpress/ 2 -
+/administrator/ 1 -
+/admin 2 -
+/.production 1 https://www.google.com/
+/register 1 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/waypoints.min.js 1 -
+/security.txt 1 -
+/wp-admin/ 1 -
+/ads.txt 1 -
+/w4.php 755 -
+/sitemap.xml 1 -
+/sellers.json 1 -
+/config.json 1 -
+/demo/guestId/1758383779412 1 http://www.kmanimalhealthcare.idealgroups.org/
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/fontawesome.min.js 1 -
+/.aws/credentials 1 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/bootstrap.min.js 1 -
+/.well-known/security.txt 3 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/jquery.js 2 -
+/.remote 1 https://www.google.com/
+/app-ads.txt 1 -
+/.local 1 https://www.google.com/
+/_profiler/phpinfo 1 -
+/warm.PhP7 1 -
+/googlebc5d67a88fac5571.html 1 -
+//installer.php 1 -
+/login 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 55
+45.94.31.31 14 14 497126 20250913095756
+34.60.87.160 5 5 177545 20250918175922
+34.140.56.116 3 3 106527 20250925180751
+34.9.204.158 3 3 106527 20250918082903
+34.45.89.146 3 3 106527 20250903163303
+35.92.113.226 3 3 106527 20250911175031
+185.177.72.30 2 2 7481 20250914190948
+3.222.165.167 2 2 14338 20250927115453
+18.224.192.118 2 2 14328 20250915191728
+185.177.72.31 2 2 7481 20250922111848
+34.173.25.133 2 2 71018 20250920120911
+119.18.54.35 2 2 128 20250920162615
+54.242.196.16 2 2 71018 20250914105850
+95.173.216.34 2 2 14348 20250928010321
+147.185.132.225 1 1 35509 20250903113528
+142.93.197.147 1 1 7174 20250905062035
+206.189.97.179 1 1 7174 20250921205005
+205.169.39.7 1 1 7174 20250928095643
+167.94.145.98 1 2 27659 20250923212326
+45.131.155.100 1 1 7164 20250909172503
+194.26.192.150 1 1 7164 20250907200057
+13.53.75.12 1 1 87 20250920162621
+35.240.210.254 1 1 7164 20250918222339
+54.202.159.155 1 1 87 20250920162621
+103.82.240.139 1 1 7164 20250901214226
+206.189.10.124 1 1 7174 20250919235439
+162.142.125.202 1 2 27659 20250918220201
+199.45.155.72 1 2 27659 20250902175746
+3.138.185.30 1 1 7164 20250926124328
+51.158.205.60 1 1 7174 20250921183541
+198.235.24.143 1 1 35509 20250930101922
+101.198.0.181 1 1 35509 20250928235748
+198.235.24.229 1 1 35549 20250926031010
+15.237.247.81 1 1 7164 20250914155446
+205.169.39.12 1 1 7174 20250921075336
+199.45.155.95 1 2 27659 20250919204131
+147.185.132.84 1 1 35509 20250926095622
+196.251.88.64 1 1 307 20250914071100
+46.101.166.46 1 1 7164 20250910041540
+46.4.108.125 1 1 7164 20250909174643
+205.210.31.41 1 1 35509 20250920111118
+198.235.24.216 1 1 35509 20250916021004
+185.247.137.246 1 1 7174 20250918025253
+37.114.63.40 1 1 35509 20250907035311
+66.249.89.139 1 1 53 20250913183916
+143.110.245.24 1 1 7164 20250923174430
+18.225.37.67 1 1 87 20250920162621
+34.124.161.201 1 1 7164 20250913105645
+13.212.124.184 1 1 87 20250920162621
+151.115.89.145 1 1 7174 20250920212614
+20.203.75.63 1 1 7174 20250929104720
+198.235.24.249 1 1 35549 20250919105823
+23.178.112.211 1 1 87 20250920162620
+167.99.77.32 1 1 35509 20250922200121
+162.142.125.112 1 2 27669 20250905130606
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20250901 1 1 7164 1
+20250902 2 3 34823 2
+20250903 4 4 142036 2
+20250905 2 3 34843 2
+20250907 2 2 42673 2
+20250909 2 2 14328 2
+20250910 4 4 113691 2
+20250911 5 5 177545 2
+20250912 6 6 213054 2
+20250913 5 5 113744 3
+20250914 6 6 85970 4
+20250915 1 1 7164 1
+20250916 1 1 35509 1
+20250917 2 2 71018 1
+20250918 9 10 255051 5
+20250919 3 4 70382 3
+20250920 11 11 114264 9
+20250921 3 3 21522 3
+20250922 3 3 42990 2
+20250923 2 3 34823 2
+20250925 3 3 106527 1
+20250926 3 3 78222 3
+20250927 2 2 14338 1
+20250928 4 4 57031 3
+20250929 1 1 7174 1
+20250930 1 1 35509 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 61
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 77 1827383 53 51
+/.well-known/acme-challenge/5Lugfij-WnjSCXwVW40KHdUDZNT6Vz2nd-pazI7iOXg 5 435 5 5
+/.git/config 3 921 1 3
+/googlee4e010c3db509f5f.html 1 53 1 1
+/.well-known/acme-challenge/GNXIAYB4YOHFH1W59SRWELIO610VJ-RX 1 64 1 0
+/.well-known/acme-challenge/M0N92WU8830MXZ1S8HUCT_17MHHUY04U 1 64 0 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 6
+100-500 254
+5K+ 100
+500-1K 1
+44-100 842
+2K-5K 798
+0-44 2
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

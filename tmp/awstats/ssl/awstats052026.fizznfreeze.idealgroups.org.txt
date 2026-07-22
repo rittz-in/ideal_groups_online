@@ -1,0 +1,1167 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202605 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.fizznfreeze.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2100                
+POS_TIME 2779                
+POS_VISITOR 23083               
+POS_DAY 26992               
+POS_DOMAIN 3564                
+POS_LOGIN 4047                
+POS_ROBOT 4202                
+POS_WORMS 4518                
+POS_EMAILSENDER 4649                
+POS_EMAILRECEIVER 4792                
+POS_SESSION 27692               
+POS_FILESIZE 28633               
+POS_REQUESTTIME 28781               
+POS_SIDER 27880               
+POS_FILETYPES 4927                
+POS_DOWNLOADS 5130                
+POS_OS 5178                
+POS_BROWSER 5426                
+POS_SCREENSIZE 6244                
+POS_UNKNOWNREFERER 6318                
+POS_UNKNOWNREFERERBROWSER 6772                
+POS_ORIGIN 7034                
+POS_SEREFERRALS 7171                
+POS_PAGEREFS 7315                
+POS_SEARCHWORDS 7463                
+POS_KEYWORDS 7615                
+POS_MISC 2442                
+POS_ERRORS 7674                
+POS_CLUSTER 3903                
+POS_SIDER_404 7869                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260601000856 25 5736 13506680811507
+FirstTime 20260501155300
+LastTime 20260531195841
+LastUpdate 20260601192513 25 0 24 0 0
+TotalVisits 101                 
+TotalUnique 88                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 100                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 13 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 9 87021 12 15 4996
+1 0 0 0 22 23 7558
+2 1 5 144057 23 26 5047
+3 3 19 552797 36 41 6490
+4 5 50 1213927 33 36 43627
+5 9 54 1401608 247 252 43344
+6 4 5 279519 23 25 7960
+7 11 58 1593473 276 283 54848
+8 6 45 2205256 22 28 6924
+9 13 148 6685541 273 289 52280
+10 6 6 385378 86 97 9375
+11 3 29 939597 11 13 2613
+12 44 96 5077766 20 22 5370
+13 4 5 392000 10 15 37817
+14 3 10 265354 557 655 179882
+15 5 20 773765 29 34 44313
+16 14 48 2306798 390 401 29289
+17 20 54 3034588 292 306 156546
+18 16 54 3449572 90 175 1858987
+19 9 20 1193201 21 24 5346
+20 1 13 464023 83 86 1238247
+21 17 63 3776670 31 42 113059
+22 5 21 829887 558 656 178583
+23 3 38 1118433 41 48 7601
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+in 67 185 7761552
+us 62 289 9009294
+de 22 95 6870096
+fr 9 114 5797975
+ru 7 27 1558384
+nl 6 52 2199804
+gb 5 40 2025155
+cn 4 4 144260
+jp 3 3 36063
+rs 3 4 356079
+ca 3 4 299819
+ua 3 3 283387
+dk 2 2 72173
+ro 2 28 903491
+eu 1 2 115014
+be 1 3 193958
+zz 1 14 507619
+it 1 1 36108
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+bot[\s_+:,\.\;\/\\-] 141 1989446 20260531225605 65
+scanner 46 1507128 20260526142628 0
+unknown 5 120 20260529212615 5
+curl 2 72131 20260529214236 0
+Googlebot/ 2 72169 20260530155818 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+woff2 15 5780064 0 0
+css 133 4759537 0 0
+Unknown 186 7907411 0 0
+json 1 19909 0 0
+js 469 15594404 0 0
+png 26 951226 0 0
+svg 40 3157680 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+macosx 20 4
+android13 1 1
+unix 2 1
+Unknown 19 11
+android 2 2
+ios_iphone 3 2
+win10 440 106
+linuxubuntu 15 8
+win7 4 4
+linux 250 33
+macosx15 109 25
+winxp 3 3
+android10 1 1
+macosx14 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 39
+chrome133.0.0.0 2 2
+chrome103.0.0.0 2 1
+chrome76.0.3809.132 1 1
+chrome147.0.0.0 75 15
+chrome84.0.4147.89 2 2
+Unknown 3 2
+chrome134.0.0.0 152 12
+firefox121.0.0 2 2
+chrome120.0.0.0 1 1
+firefox31.0 3 3
+chrome136.0.0.0 1 1
+chrome135.0.0.0 36 3
+mozilla 18 11
+safari18.3 2 0
+safari 1 1
+chrome85.0.4183.121 4 4
+chrome146.0.0.0 74 5
+chrome58.0.3029.110 2 2
+chrome107.0.5304.188 1 1
+netscape5.0 48 9
+chrome42.0.2311.135 1 1
+chrome122.0.0.0 1 1
+firefox149.0 24 4
+safari26.0 10 1
+chrome19.0.1063.0 1 1
+firefox150.0 11 3
+safari18.4 5 4
+chrome145.0.0.0 4 0
+chrome123.0.0.0 2 2
+chrome148.0.0.0 77 39
+chrome142.0.0.0 13 7
+chrome143.0.0.0 53 10
+chrome124.0 1 1
+firefox134.0 15 8
+chrome126.0.0.0 3 3
+chrome131.0.0.0 131 19
+firefox133.0 23 0
+chrome130.0.0.0 46 14
+chrome124.0.0.0 19 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260519221639
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260528020136
+fasthttp 20260529212615
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260528155219
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+fasthttp 20260529212615
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260519221639
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 92 445
+From1 0 0
+From2 0 0
+From3 0 0
+From4 110 425
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+301 41 12245
+404 1765 6005
+403 3 1749
+421 1 362
+419 22 53548
+409 123 10209
+405 129 82947
+302 265 60167
+406 1030 231876
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 681
+/.env.example 15 -
+/wp-json/wp/v2/users 2 -
+/src/config/config.json 2 -
+/var/task/netlify.toml 2 -
+/api/constants.js 2 -
+/rest/variables 2 -
+/haproxy 2 -
+/config/parameters.yml 2 -
+/.env.docker.dev 2 -
+/*/[id] 2 -
+/.vscode/settings.json 1 -
+/s3/credentials 2 -
+/root/.aws/credentials 2 -
+/constants.ini 2 -
+/api/v1/me 2 -
+/API/constants.js 2 -
+/_api/* 2 -
+/[workspace]/* 2 -
+/google-service-account.json 6 -
+/firebase-adminsdk.json 4 -
+/./node_modules/typeahead.js/dist/typeahead.bundle.js 3 -
+/vite.config.js 1 -
+/rest/tags 2 -
+/telescope/logs 2 -
+/config/config.json 2 -
+/.env.yaml 3 -
+/messages/* 2 -
+/.git/FETCH_HEAD 3 -
+/aws.yaml 2 -
+/minio/health/live 2 -
+/api/v1/status/config 2 -
+/api/fetch 10 https://fizznfreeze.idealgroups.org/
+/src/config/stripe.js 2 -
+/_react/data/* 2 -
+/stripe/config.json 2 -
+/.gitlab/merge_request_templates 2 -
+/sysinfo.cgi 2 -
+/.github/PULL_REQUEST_TEMPLATE.md 2 -
+/content/* 2 -
+/package-updates/refresh.cgi 2 -
+/app/nuxt.config.js 2 -
+/aws_s3_bucket 2 -
+/config/aws.json 2 -
+/app.yaml 2 -
+/home/*/.aws/credentials 2 -
+/compose.yaml 2 -
+/.docker.env 1 -
+/gcp-service-account.json 1 -
+/.yarnrc 1 -
+/backend/index.js 2 -
+/Procfile 2 -
+/var/task/docker-compose.yml 2 -
+/package-updates/index.cgi 2 -
+/.env.remote 3 -
+/.cache 2 -
+/api/contact 1 -
+/webhook 2 -
+/.vscode/sftp.json 2 -
+/.env.save 11 -
+/subscribe 1 -
+/waku/* 2 -
+/root/.netrc 2 -
+/package-updates/perform.cgi 2 -
+/trpc/* 2 -
+/manage/env 1 -
+/credentials.js 2 -
+/blog 2 -
+/app/amplify.yaml 2 -
+/.env.json 3 -
+/actions/* 2 -
+/root/.s3cfg 2 -
+/api/constant.js 2 -
+/app/amplify.yml 2 -
+/.well-known/acme-challenge/ 2 -
+/oauth/* 2 -
+/rest/workflows 2 -
+/constants.yml 2 -
+/.svn/wc.db 2 -
+/BackEnd/config.js 2 -
+/.github/workflows/release.yml 2 -
+/env.txt 2 -
+/.idea/workspace.xml 1 -
+/web/constant.js 2 -
+/.git/HEAD 13 -
+/settings 2 -
+/docker-cloud.yml 2 -
+/Dockerfile 5 -
+/__nextjs_action 2 -
+/media/* 2 -
+/env.js 2 -
+/.gitlab 2 -
+/staging/config/common.js 2 -
+/src/constants.js 2 -
+/var/task/amplify.yaml 2 -
+/.env.uat 3 -
+/./node_modules/perfect-scrollbar/dist/perfect-scrollbar.js 3 -
+/js/config.js 1 -
+/_ignition/health-check 4 -
+/.env.vault 4 -
+/package-updates/install.cgi 2 -
+/horizon 4 -
+/api/webhook/* 2 -
+/auth/login 1 -
+/debug/vars 2 -
+/rest/logout 2 -
+/pip.conf 2 -
+/.vercel/project.json 2 -
+/actuator/env 1 -
+/api/users/admin/check 2 -
+/profile/* 2 -
+/v2/* 2 -
+/[[...optional]] 2 -
+/.env_sample 2 -
+/%2fbackend%2f.env 2 -
+/.env.txt 7 -
+/var/task/next.config.js 2 -
+/api/me 1 -
+/.pypirc 3 -
+/.gitlab/issue_templates 2 -
+/composer.json 3 -
+/telescope/telescope-api/environment 2 -
+/.github 2 -
+/package-updates/* 2 -
+/sitemap.xml 62 -
+/.config/gcloud/application_default_credentials.json 3 -
+/api/node/config.js 2 -
+/rest/settings 2 -
+/admin/config 2 -
+/admin 2 -
+/aws/s3/credentials 2 -
+/_profiler/phpinfo 2 -
+/application_default_credentials.json 4 -
+/.env.testing.local 2 -
+/servers/save.cgi 2 -
+/.npmrc 1 -
+/zxq8m3k-test-none 2 -
+/config/common.js 2 -
+/config.js 6 -
+/.env.staging.enc 2 -
+/.github/dependabot.yml 2 -
+/symfony/_profiler/phpinfo 2 -
+/src/config/environment.json 2 -
+/.docker/config.json 4 -
+/package-updates/*.cgi 2 -
+/config.ts 2 -
+/appsettings.QA.json 2 -
+/admin/constants.js 2 -
+/composer.lock 2 -
+/cloudbuild.json 2 -
+/software/update.cgi 2 -
+/app/next.config.js 2 -
+/publish/* 2 -
+/staging/config/config.js 2 -
+/config/aws.ini 2 -
+/amplify/team-provider-info.json 2 -
+/src/constant.js 2 -
+/settings/* 2 -
+/rest/oauth2-credential/auth 2 -
+/sam-template.yaml 2 -
+/config/database.yml 3 -
+/web/constants.js 2 -
+/app/serverless.yaml 2 -
+/.git/logs/refs/remotes/origin/master 2 -
+/configs/application.ini 2 -
+/server/config/common.js 2 -
+/* 2 -
+/.git/COMMIT_EDITMSG 2 -
+/dashboard 2 -
+/aws.config.js 4 -
+/api/* 2 -
+/login/ads.txt 4 -
+/.git/hooks/pre-commit 2 -
+/.env.staging 14 -
+/.env.yml 3 -
+/api/config.js 2 -
+/.svn/entries 2 -
+/bitbucket-pipelines.yml 2 -
+/app/package.json 2 -
+/.env1 3 -
+/.env.development.local 1 -
+/.s3cfg 2 -
+/..%5c..%5c..%5c..%5c..%5c..%5cvar/log/apache2/access.log 2 -
+/API/config.js 2 -
+/appsettings.json 4 -
+/functions/.runtimeconfig.json 2 -
+/.docker/secrets.json 2 -
+/_layouts/15 1 https://fizznfreeze.idealgroups.org/_layouts/15/
+/config.yml 3 -
+/constants.js 2 -
+/readme.md 2 -
+/.env.testing 8 -
+/.env.dev.enc 2 -
+/backend 1 -
+/api/common.js 2 -
+/api/v1/credentials 2 -
+/.env.dev 17 -
+/aws/s3/env.env 2 -
+/backend/node/constants.js 2 -
+/.well-known/* 2 -
+/api/data/* 2 -
+/API/common.js 2 -
+/aws_s3_config.json 2 -
+/Docker.md 2 -
+/aws.env 2 -
+/rest/executions 2 -
+/aws/credentials 2 -
+/config/stripe.yaml 2 -
+/teams/* 2 -
+/NOTES.md 2 -
+/API.md 2 -
+/s3.properties 2 -
+/var/task/serverless.yaml 2 -
+/app/config/parameters.yml.dist 2 -
+/wp-content/debug.log 2 -
+/settings.py 3 -
+/appsettings.Development.json 4 -
+/aws.json 2 -
+/.firebase/hosting.json 1 -
+/.env.production 17 -
+/projects/* 2 -
+/serverless.yaml 4 -
+/server.js 2 -
+/api/users/* 2 -
+/[locale]/* 2 -
+/google-credentials.json 4 -
+/gcloud-service-key.json 3 -
+/blog/[year]/[month]/[slug] 2 -
+/workspaces/* 2 -
+/backend/config/common.js 2 -
+/local_settings.py 1 -
+/webhook-waiting/* 2 -
+/.netrc 2 -
+/sendgrid.env 4 -
+/azure-pipelines.yml 2 -
+/rest/login 2 -
+/s3.key 2 -
+/aws/metadata 2 -
+/admin/config/constants.js 2 -
+/s3/buckets 2 -
+/docs 2 -
+/.DS_Store 2 -
+/firebase-config.json 3 -
+/api/v1/executions 2 -
+/google-key.json 3 -
+/.gitlab-ci.yml 5 -
+/servers/link.cgi 2 -
+/.well-known/stripe.txt 2 -
+/dnscfg.cgi 2 -
+/./node_modules/hammerjs/hammer.js 3 -
+/serverless.yml 4 -
+/[tenant]/* 2 -
+/var/task/next.config.ts 2 -
+/manage 1 -
+/graphql 2 -
+/elasticsearch_cluster_yml 2 -
+/.env.test.enc 2 -
+/docker-compose.yaml 1 -
+/.env.docker 8 -
+/.env_copy 3 -
+/.env.test 8 -
+/admin/env 1 -
+/config/aws.yml 2 -
+/env.rb 2 -
+/vercel.json 2 -
+/.env.encrypted 4 -
+/rest/credential-translation 2 -
+/netlify.toml 2 -
+/config/stripe.json 2 -
+/api/client_secret.json 1 -
+/next.config.js 1 -
+/app/.terraform/terraform.tfstate 2 -
+/var/task/amplify/backend/function/*/src/index.js 2 -
+/app/next.config.mjs 2 -
+/sa-key.json 1 -
+/rest/license 2 -
+/api/login 2 -
+/laravel/config.env 2 -
+/.env.prod 16 -
+/src/FileUpload.js 2 -
+/./resources/assets/vendor/js/bootstrap.js 3 -
+/login/sellers.json 4 -
+/template.yaml 2 -
+/var/task/serverless.json 2 -
+/keyfile.json 4 -
+/asdkjh2k3h4_nonexistent_path 1 -
+/insta-compose.yml 2 -
+/index.js 2 -
+/rest/credentials-for-node 2 -
+/.git/info/exclude 2 -
+/.env.ci 3 -
+/account 1 -
+/config.prod.ini 2 -
+/test 2 -
+/.env.live 7 -
+/secrets.yaml 2 -
+/.gitlab-ci 2 -
+/appsettings.Test.json 2 -
+/buildspec.yaml 2 -
+/credentials.go 2 -
+/.git/refs/heads/main 3 -
+/_vti_bin/* 2 -
+/api/serverless/* 2 -
+/rest/users 2 -
+/healthz 2 -
+/form/* 2 -
+/_waku/* 2 -
+/_react/action/* 2 -
+/app/terraform.tfstate 2 -
+/.env.tmp 4 -
+/wp-json/gravitysmtp/v1/tests/mock-data 5 -
+/metrics 4 -
+/gcp-credentials.json 4 -
+/.env2 3 -
+/key.json 4 -
+/en/* 2 -
+/.terraform/credentials.tfrc.json 2 -
+/backend/config.js 2 -
+/cloudbuild.yaml 2 -
+/.env.int 2 -
+/conf.yaml 2 -
+/buildspec.yml 2 -
+/.env.sample 5 -
+/.github/CODEOWNERS 2 -
+/constants.json 2 -
+/docker/overlay/config.json 2 -
+/config/test.json 2 -
+/attacker/docker-compose.yml 2 -
+/elasticsearch.yml 2 -
+/logs/error.log 1 -
+/firebase-service-account.json 3 -
+/.git/logs/refs/remotes/origin/main 2 -
+/config/environment.rb 2 -
+/.github/stale.yml 2 -
+/.gitattributes 2 -
+/service_account.json 3 -
+/telescope/requests 2 -
+/phpinfo 2 -
+/.github/funding.yml 2 -
+/aws/bucket 2 -
+/_debugbar/open 2 -
+/controller.js 2 -
+/fr/* 2 -
+/form 2 -
+/telescope/dumps 2 -
+/API/config/database.js 2 -
+/editor/* 2 -
+/server/config.js 2 -
+/actuator 1 -
+/firebase-debug.log 2 -
+/config/constants.js 2 -
+/payment/* 2 -
+/.vercel/output/config.json 2 -
+/application.properties 1 -
+/__nextjs_action/* 2 -
+/rest/oauth1-credential/auth 2 -
+/chat 2 -
+/config.yaml 3 -
+/API/config/constants.js 2 -
+/zz-nonexistent-test-8492.html 2 -
+/actuator/configprops 1 -
+/newsletter 1 -
+/s3/bucket.env 2 -
+/%2f.env 2 -
+/user/* 2 -
+/webhook-test/* 2 -
+/var/task/docker-compose.yaml 2 -
+/aws-ses.json 2 -
+/_layouts/15/* 2 -
+/gcp_key.json 3 -
+/shop/[category]/* 2 -
+/_next/data/*/*.json 2 -
+/api/node/common.js 2 -
+/package-updates/update.cgi 2 -
+/api/config/constants.js 2 -
+/rest/workflows/run 2 -
+/cloud-key.json 3 -
+/.git/description 2 -
+/aws.yml 2 -
+/pages/* 2 -
+/settings.json 2 -
+/app/netlify.toml 2 -
+/backend/constants.js 2 -
+/.envrc 2 -
+/config/development.json 1 -
+/nuxt.config.js 1 -
+/.env.local 22 -
+/aws.env.json 2 -
+/gcp-sa.json 3 -
+/config/production.json 1 -
+/web/config/common.js 2 -
+/api/env.js 2 -
+/.git/hooks/post-commit 2 -
+/api/v1/workflows 2 -
+/root/.aws/config 2 -
+/wp_mail_smtp.ini 2 -
+/chat/* 2 -
+/config/environment.json 2 -
+/IAM.md 2 -
+/%2f.aws%2fcredentials 2 -
+/admin/server.js 2 -
+/app.js 2 -
+/.github/ISSUE_TEMPLATE 2 -
+/plugins/payments/stripe.json 2 -
+/constant.js 2 -
+/orders/* 2 -
+/.git-credentials 8 -
+/home/*/.gitconfig 2 -
+/config/env.json 2 -
+/about 2 -
+/.github/workflows/main.yml 3 -
+/dashboard/* 2 -
+/server/app.js 2 -
+/_layouts/* 2 -
+/api/version 2 -
+/.env.config 2 -
+/console/* 2 -
+/app/config/parameters.yml 2 -
+/src/config/common.js 2 -
+/.vercel/functions/* 2 -
+/config.rb 2 -
+/api/shared/config.env 2 -
+/_next/static/* 2 -
+/actuator/env/cloud 1 -
+/.env.1 1 -
+/stripe.yaml 2 -
+/app.yml 2 -
+/api/http/routers 2 -
+/.env-example 2 -
+/__debug 2 -
+/profile 2 -
+/settings/production.py 1 -
+/manage/* 2 -
+/.well-known/acme-challenge/* 2 -
+/.env.enc 4 -
+/home/*/.git-credentials 2 -
+/auth/signin 1 -
+/s3/backup 2 -
+/payment_gateways/stripe.yaml 2 -
+/src/config/stripe.ts 2 -
+/.zsh_history 2 -
+/debug/pprof/cmdline 2 -
+/client_secret.json 1 -
+/env.yaml 2 -
+/*/[slug] 2 -
+/debug/pprof 2 -
+/rest/* 2 -
+/webhook/* 2 -
+/billing/* 2 -
+/config/credentials.yml.enc 2 -
+/admin/config/common.js 2 -
+/software/install-updates.cgi 2 -
+/.env.backup2 3 -
+/app/credentials.json 1 -
+/serviceAccountKey.json 3 -
+/config/constant.js 2 -
+/.env.project 2 -
+/posts/* 2 -
+/./node_modules/bootstrap/dist/js/bootstrap.esm.js 3 -
+/var/task/nuxt.config.ts 2 -
+/var/log/app.log 1 -
+/aws/ses/smtp.env 2 -
+/.git/refs/heads/master 3 -
+/src/config/constants.js 2 -
+/.git/packed-refs 4 -
+/backend/node/constant.js 2 -
+/oauth/authorize 2 -
+/form-test/* 2 -
+/_debugbar 2 -
+/.git-secret 2 -
+/src/env.js 2 -
+/config.json 4 -
+/admin/utils.js 2 -
+/_vercel/insights 2 -
+/appsettings.Staging.json 3 -
+/api/subscribe 1 -
+/backend/constant.js 2 -
+/app/docker-compose.yml 2 -
+/stripe-credentials.json 2 -
+/firebase-key.json 3 -
+/.terraform.tfstate 2 -
+/.aws/credentials 8 -
+/config/secrets.yml 3 -
+/.github/workflows/deploy.yml 2 -
+/api/proxy 10 https://fizznfreeze.idealgroups.org/
+/app/vercel.json 2 -
+/opt/mailcow-dockerized/mailcow.conf 2 -
+/.github/workflows 2 -
+/stripe.json 2 -
+/.pip/pip.conf 2 -
+/proxy 10 https://fizznfreeze.idealgroups.org/
+/storage/.env.enc 2 -
+/api/auth/* 2 -
+/signup 3 -
+/.git/logs/HEAD 5 -
+/API/config/common.js 2 -
+/webhooks/incoming/stripe.json 2 -
+/credentials.ini 2 -
+/firebase-credentials.json 1 -
+/api/node/constant.js 2 -
+/docker-compose.yml 3 -
+/firebase.json 2 -
+/.yarnrc.yml 1 -
+/appsettings.Local.json 2 -
+/secrets.json 3 -
+/payment/stripe.json 2 -
+/web/env.js 2 -
+/api/config/common.js 2 -
+/package-updates/yum.cgi 2 -
+/.env.production.local 2 -
+/app/config/development.ini 2 -
+/app/.git/config 2 -
+/app/.env.production 2 -
+/aws.properties 2 -
+/.env.qa 2 -
+/.aws/config 2 -
+/var/task/package.json 2 -
+/search 1 -
+/_next/data/*/about.json 2 -
+/.github/workflows/ci.yml 4 -
+/signin 1 -
+/.git/logs/refs/heads/main 2 -
+/web/config/constants.js 2 -
+/application.yml 1 -
+/.git/ORIG_HEAD 2 -
+/[slug] 2 -
+/api/admin 1 -
+/settings.ini 2 -
+/server/env.js 2 -
+/aws/buckets 2 -
+/application.yaml 1 -
+/docker/registry/config.yml 2 -
+/.git/index 4 -
+/.hg/hgrc 2 -
+/root/.gitconfig 2 -
+/backend/node/common.js 2 -
+/.dockerignore 2 -
+/application-production.properties 1 -
+/v1/* 2 -
+/.git/refs/remotes/origin/HEAD 2 -
+/terraform.tfvars 2 -
+/settings.yaml 2 -
+/.env.aws 2 -
+/api/settings.py 2 -
+/contact 3 -
+/rest/node-types 2 -
+/config/server.js 2 -
+/server/constant.js 2 -
+/staging/config/constants.js 2 -
+/.circleci/config.yml 2 -
+/config/credentials.json 1 -
+/terraform.tfstate 2 -
+/.git/credentials 3 -
+/notifications/* 2 -
+/admin/constant.js 2 -
+/appsettings.Production.json 4 -
+/.netlify/functions/* 2 -
+/.env.local.enc 2 -
+/.amplifyrc 2 -
+/.gitmodules 2 -
+/backend/config/constants.js 2 -
+/old/aws_config 2 -
+/.env.production.save 1 -
+/.env_1 2 -
+/root/.git-credentials 2 -
+/s3.yml 2 -
+/staging/config.js 2 -
+/.env.backup1 3 -
+/admin.html 2 -
+/_layouts/15/ToolPane.aspx 1 -
+/Jenkinsfile 3 -
+/.netlify/state.json 2 -
+/api/node/constants.js 2 -
+/s3.yaml 2 -
+/sa.json 3 -
+/amplify.yml 1 -
+/var/task/serverless.yml 2 -
+/credentials.json 8 -
+/.env.dev.local 3 -
+/articles/* 2 -
+/stripe.env 2 -
+/cms/* 2 -
+/products 2 -
+/root/.boto 2 -
+/services/environments.ini 2 -
+/.git/config 51 -
+/[...catchAll] 2 -
+/credentials.csv 2 -
+/storage/logs/laravel.log 8 -
+/config.env 4 -
+/package-updates/save.cgi 2 -
+/auth 1 -
+/client_secrets.json 1 -
+/s3/.aws/config 2 -
+/prod/config.js 2 -
+/.git-askpass.sh 2 -
+/README.md 2 -
+/auth/* 2 -
+/login/app-ads.txt 4 -
+/server/config/constants.js 2 -
+/admin/dashboard 1 -
+/server/info 2 -
+//www.fizznfreeze.idealgroups.org/login' 2 -
+/myproject/settings.py 2 -
+/.gitignore 2 -
+/env 5 -
+/logs/application.log 1 -
+/threads/* 2 -
+/admin/.env 10 -
+/var/task/amplify.yml 2 -
+/config/env.js 2 -
+/apis/index.js 2 -
+/dev/env.js 2 -
+/.boto 2 -
+/backend/node/config.js 2 -
+/package-updates/download.cgi 2 -
+/server/constants.js 2 -
+/config/service-account.json 1 -
+/integrations/* 2 -
+/.terraform.lock.hcl 2 -
+/.env-sample 2 -
+/package-updates/apt.cgi 2 -
+/terraform/terraform.tfvars.json 2 -
+/var/task/next.config.mjs 2 -
+/config/config.js 2 -
+/app/* 2 -
+/aws-config.js 4 -
+/src/app.js 2 -
+/./node_modules/node-waves/src/js/waves.js 3 -
+/config/application.yml 3 -
+/stripe.config.js 2 -
+/api/server.js 2 -
+/LOG.md 2 -
+/software/*.cgi 2 -
+/config/utils.js 2 -
+/app/serverless.yml 2 -
+/api/credentials 2 -
+/aws/config/s3.json 2 -
+/aws_credentials.ini 2 -
+/var/task/vercel.json 2 -
+/var/task/nuxt.config.js 2 -
+/public/stripe.js 2 -
+/_ignition/execute-solution 10 -
+/admin/config/database.js 2 -
+/s3/bucket 2 -
+/client/stripe.config.js 2 -
+/config/master.key 2 -
+/config.json.save 4 -
+/.env.development 8 -
+/circle.yml 2 -
+/.env.dist 5 -
+/deploy.sh 2 -
+/backend/env.js 2 -
+/gcp-key.json 3 -
+/api/auth/session 1 -
+/actuator/env/aws 1 -
+/admin/* 2 -
+/service-account.json 6 -
+/telescope 2 -
+/.env.stage 5 -
+/_next/data/*/index.json 2 -
+/local.settings.json 1 -
+/proc/index.cgi 2 -
+/.env.preprod 3 -
+/config/app.js 2 -
+/.env.production.enc 4 -
+/[id] 2 -
+/web/app.js 2 -
+/env.json 2 -
+/webmin/package-updates/update.cgi 2 -
+/api/v1/* 2 -
+/en 1 -
+/.terraform/terraform.tfstate 2 -
+/.env.production.encrypted 2 -
+/app/.env.local 3 -
+/DOCS.md 2 -
+/.git/logs/refs/heads/master 2 -
+/loaders/* 2 -
+/home/*/.netrc 2 -
+/.env.local.save 1 -
+/stripe-keys.json 2 -
+/s3.secret 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 100
+106.215.43.92 39 77 4234387 20260520125444
+45.148.10.62 10 90 2763832 20260527031225
+89.244.95.142 6 32 3438483 20260524211711
+45.88.138.44 6 6 216501 20260524162627
+72.14.147.173 5 50 1213927 20260529045343
+45.148.10.119 5 5 125500 20260507170338
+103.218.242.15 4 4 144264 20260529214232
+104.164.173.193 4 20 590904 20260525055051
+89.244.95.78 4 21 2033619 20260526183315
+104.164.126.123 4 20 590873 20260525072139
+123.58.209.162 4 4 144260 20260529214237
+5.255.121.146 3 16 425040 20260519171840
+46.101.164.72 3 36 1774764 20260528215045
+45.148.10.5 3 3 277137 20260526190114
+51.158.203.227 3 38 1932672 20260525090234
+31.40.204.182 3 3 283387 20260531195803
+107.172.195.18 3 19 554833 20260525055057
+208.84.100.11 3 16 425048 20260514185136
+3.91.60.177 3 36 1774760 20260524163104
+207.241.173.215 3 16 425067 20260524182709
+62.210.198.218 3 38 1932678 20260525080944
+62.210.198.195 3 38 1932653 20260525092003
+62.210.198.204 3 38 1932644 20260525093400
+176.65.139.236 2 5 233511 20260517131943
+157.15.40.6 2 2 0 20260530155451
+176.65.139.235 0 1 3409 
+66.132.172.220 1 2 115015 20260528155214
+198.235.24.48 1 1 92483 20260519221639
+66.132.195.37 1 1 36107 20260504061726
+34.193.251.180 1 1 36109 20260510155356
+216.9.225.163 1 1 98421 20260531195816
+176.65.139.237 0 3 29007 
+143.244.47.83 2 2 0 20260531074852
+64.50.191.32 1 14 507627 20260501155300
+91.196.152.160 1 1 92483 20260524170334
+3.139.242.79 1 1 36078 20260503212500
+199.45.154.149 1 2 115012 20260512160625
+64.23.164.219 1 2 115021 20260511074627
+66.132.172.176 1 2 115037 20260512094650
+87.236.176.5 1 1 36074 20260517063144
+158.173.76.23 1 1 36106 20260527113907
+91.196.152.148 1 1 92483 20260524175916
+133.242.174.119 1 1 36063 20260525165502
+146.190.174.254 1 2 115014 20260525155924
+159.65.150.192 1 2 115045 20260519203724
+176.65.139.239 1 4 142254 20260523103938
+87.236.176.206 0 1 78942 
+168.100.9.205 1 1 36071 20260524174118
+91.196.152.45 0 1 78942 
+91.196.152.84 0 1 78942 
+44.244.61.163 1 14 219792 20260526173603
+158.173.74.29 1 1 36067 20260527103841
+91.196.152.78 0 1 78942 
+176.65.139.231 2 3 186993 20260531143541
+87.236.176.110 0 1 78942 
+34.105.242.218 1 1 36097 20260509214019
+176.65.139.233 2 3 207913 20260529132911
+185.213.175.173 1 14 507591 20260521124806
+13.201.70.114 1 14 219794 20260527054234
+103.4.250.163 1 1 36076 20260524162624
+141.11.62.236 1 1 0 20260526144217
+91.231.89.127 0 1 78942 
+64.227.44.85 1 2 115029 20260528072944
+91.231.89.126 1 1 92483 20260524170402
+176.65.139.238 1 8 152680 20260519121906
+176.65.139.232 1 3 98075 20260514213341
+3.99.59.90 1 14 219788 20260525095126
+103.4.251.193 2 2 72146 20260525083914
+91.196.152.60 0 1 78942 
+54.216.96.128 1 14 219812 20260527075902
+3.233.88.40 2 2 72174 20260515103420
+185.148.3.222 1 2 115038 20260519183634
+91.196.152.163 1 1 92327 20260524180017
+205.210.31.15 1 1 92327 20260519221511
+91.231.89.37 1 1 92327 20260524180149
+91.231.89.17 1 1 92327 20260524170617
+176.65.139.229 0 4 32416 
+3.18.186.238 1 1 36070 20260518170603
+199.45.154.115 1 1 36059 20260520164756
+103.4.251.32 2 2 72140 20260524174046
+47.236.59.180 1 2 115009 20260529212614
+176.65.139.234 1 3 98075 20260521161019
+158.51.125.158 1 14 507619 20260521234704
+195.96.139.163 1 1 36108 20260528020131
+91.196.152.42 0 1 78942 
+91.196.152.147 1 1 92327 20260524170417
+178.62.237.151 1 2 115014 20260528183916
+198.12.69.93 1 1 92483 20260531195826
+66.132.172.139 1 2 115019 20260528135706
+3.216.193.107 1 1 36099 20260531121120
+91.196.152.48 0 1 78942 
+199.45.154.122 1 2 115013 20260504144758
+176.65.139.168 2 5 213661 20260509183108
+91.90.124.13 2 28 903491 20260530111030
+91.196.152.166 1 1 92483 20260525085315
+3.151.194.164 1 1 36077 20260511052114
+193.32.162.180 1 1 92483 20260526103607
+137.184.15.53 1 2 115035 20260505123430
+192.210.150.196 1 1 92483 20260531195841
+103.196.9.201 1 1 36070 20260524174030
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20260501 1 14 507627 1
+20260503 1 1 36078 1
+20260504 2 3 151120 2
+20260505 5 22 796181 4
+20260506 0 3 29007 0
+20260507 4 4 89431 1
+20260509 2 2 128424 2
+20260510 1 1 36109 1
+20260511 2 3 151098 2
+20260512 2 4 230049 2
+20260513 1 4 121334 1
+20260514 4 17 517375 2
+20260515 2 5 101181 1
+20260517 2 3 207343 2
+20260518 1 4 65077 1
+20260519 8 26 961267 6
+20260520 40 78 4270446 2
+20260521 3 29 1107537 3
+20260522 0 3 29007 0
+20260523 1 4 121334 1
+20260524 30 108 7155577 16
+20260525 35 273 11400892 16
+20260526 11 57 3083451 7
+20260527 7 49 1156903 6
+20260528 9 50 2378898 7
+20260529 15 61 1709787 5
+20260530 3 32 932498 2
+20260531 10 10 695200 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30s-2mn 1
+2mn-5mn 1
+30mn-1h 1
+0s-30s 97
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 21
+/login 138 6902152 99 89
+/assets/vendor/fonts/fontawesome/fa-brands-400.woff2 8 864160 0 3
+/app/orders/getAll 8 712 0 0
+/register 7 443168 1 5
+/assets/vendor/fonts/tabler/tabler-icons.woff2 7 4915904 0 4
+/password/reset 5 8150 1 0
+/app/orders/statistics 5 465 0 0
+/app/orders/kitchen 4 174780 0 0
+/app/orders/active 4 5277 0 0
+/app/orders/list 3 131301 0 0
+/app/customers/getAll 2 512 0 0
+/app/customers/list 2 85000 0 0
+/checkout 1 7517 0 0
+/app/reports/sales 1 42679 0 0
+/assets/json/search-vertical.json 1 19909 0 0
+/app/products/list 1 42888 0 0
+/app/products/getAll 1 7275 0 0
+/app/tables/getAll 1 3528 0 0
+/app/reports/sales/data 1 89 0 0
+/app/tables/list 1 42155 0 0
+/cart 1 9763 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+44-100 145
+5K+ 737
+1K-2K 70
+100-500 1338
+500-1K 248
+0-44 1851
+2K-5K 73
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

@@ -1,0 +1,1154 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202501 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2051                
+POS_TIME 2730                
+POS_VISITOR 27606               
+POS_DAY 36682               
+POS_DOMAIN 3592                
+POS_LOGIN 4188                
+POS_ROBOT 4343                
+POS_WORMS 5195                
+POS_EMAILSENDER 5326                
+POS_EMAILRECEIVER 5469                
+POS_SESSION 37527               
+POS_FILESIZE 39431               
+POS_SIDER 37735               
+POS_FILETYPES 5604                
+POS_DOWNLOADS 5945                
+POS_OS 6039                
+POS_BROWSER 6537                
+POS_SCREENSIZE 8488                
+POS_UNKNOWNREFERER 8562                
+POS_UNKNOWNREFERERBROWSER 9220                
+POS_ORIGIN 9602                
+POS_SEREFERRALS 9743                
+POS_PAGEREFS 9946                
+POS_SEARCHWORDS 10160               
+POS_KEYWORDS 10312               
+POS_MISC 2393                
+POS_ERRORS 10371               
+POS_CLUSTER 4044                
+POS_SIDER_404 10549               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250201004941 68 19187 9355726765031
+FirstTime 20250101090402
+LastTime 20250131194148
+LastUpdate 20250201185031 68 0 67 0 0
+TotalVisits 241                 
+TotalUnique 210                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 234                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 10 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 10 12 245355 47 131 737893
+1 109 300 81918418 51 128 3332770
+2 2 6 84387 32 91 925512
+3 5 17 178560 26 57 563995
+4 4 6 82845 30 47 396365
+5 5 6 77491 29 62 4106015
+6 18 116 6032366 69 120 1839962
+7 12 49 925407 47 60 84625
+8 33 138 10208438 110 181 1793994
+9 28 134 7224607 23 38 107676
+10 91 442 25105100 43 128 1971518
+11 109 373 29354691 59 89 992118
+12 62 288 14593172 48 86 3835286
+13 92 496 81073940 55 78 737641
+14 66 186 13563048 34 64 1540532
+15 90 252 20092468 59 130 551711
+16 57 211 12655445 307 334 1148062
+17 47 237 13086502 40 53 24117
+18 4 5 74660 35 58 123482
+19 80 241 13330414 60 76 126899
+20 23 217 7881065 68 106 1552133
+21 4 5 57495 39 77 2572185
+22 6 8 383947 57 174 12518394
+23 46 158 9445377 93 170 13594736
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 26
+in 498 1867 194515183
+us 318 1348 68336428
+th 47 288 70117563
+ru 31 34 449920
+ca 22 85 5135322
+ie 14 63 4078250
+cn 11 24 296562
+gb 11 63 1896771
+de 8 57 2027094
+no 6 6 131733
+se 5 10 63950
+pl 5 5 23025
+jp 5 5 20323
+kz 4 4 98287
+il 3 3 54306
+gr 3 3 31185
+fr 2 24 200242
+cl 2 2 43911
+ke 1 1 5638
+id 1 1 4605
+ua 1 1 10395
+ao 1 1 10395
+eg 1 1 10395
+eu 1 1 10395
+be 1 5 92925
+ip 1 1 10395
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 18
+Googlebot/ 240 3351565 20250131054108 0
+bingbot/ 237 6700221 20250131160044 0
+bot[\s_+:,\.\;\/\\-] 145 33108968 20250130121643 0
+Applebot/ 94 1037661 20250129065731 0
+facebookexternalhit/ 81 4804117 20250126081607 0
+crawl 63 602995 20250126015623 0
+AdsBot\-Google[\x20]\( 33 2893935 20250117015743 0
+BW/ 13 135885 20250126110832 0
+no_user_agent 10 375190 20250131145825 0
+scrapy 7 72765 20250120210222 0
+YandexImages/ 6 1620113 20250121021303 0
+Googlebot\-Image/ 4 9580 20250130001758 0
+YandexBot/ 3 26428 20250121063605 0
+yandex 1 2395 20250117081848 0
+Velen 1 10395 20250104232708 0
+Mediapartners-Google 1 13105 20250123012846 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 14332 20250123012448 0
+Adsbot 1 10395 20250117015709 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+css 597 8588574 0 0
+ttf 181 66493100 0 0
+html 259 2780321 0 0
+json 1 794 0 0
+png 840 7336532 0 0
+txt 2 1588 0 0
+jpeg 34 4538117 0 0
+jpg 740 171462878 0 0
+svg 1 418316 0 0
+Unknown 140 697623 0 0
+js 686 17376799 0 0
+woff 181 34443032 0 0
+woff2 227 33520888 0 0
+php 14 16636 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/web/app-ads.txt 1 0 794
+/web/ads.txt 1 0 794
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 30
+macosx14 1 0
+bsdnetbsd 1 0
+ios_iphone 75 17
+winxp 4 1
+macosx 2 1
+macosx15 481 89
+macosx10 1 0
+Unknown 45 25
+androidnougat 1 0
+win95 1 0
+macosx11 48 33
+win7 84 20
+ios_ipad 4 2
+android11 6 0
+macos11 40 18
+win8.1 2 1
+androidoreo 2 0
+bsdfreebsd 1 0
+linuxubuntu 3 2
+androidmarshmallow 1 1
+android 1 1
+linux 307 88
+winunknown 1 0
+androidjellybean 1 0
+android10 816 203
+macosx12 2 2
+androidpie 1 0
+symbian 2 0
+win10 1965 498
+android12 4 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 91
+chrome62.0.3187.0 1 0
+chrome83.0.4103.97 16 6
+chrome63.0.3239.132 13 0
+chrome58.0.3029.110 1 1
+chrome128.0.0.0 6 6
+chrome116.0.0.0 2 2
+chrome123.0.0.0 50 1
+chrome61.0.3163.128 1 0
+chrome5.0.309.0 1 0
+chrome48.0.2564.116 1 0
+chrome22.0.1229.79 1 0
+chrome132.0.0.0 178 37
+chrome115.0.0.0 2 2
+chrome122.0.0.0 6 6
+chrome55.0.2859.0 1 0
+safari14.1.2 1 0
+chrome100.0.4896.143 2 0
+chrome131.0.6778.139 1 1
+chrome51.0.2704.106 1 0
+opera10.62 1 1
+chrome124.0.0.0 11 3
+chrome85.0.4183.121 4 4
+safari5.0 1 0
+safari17.6.11 1 1
+chrome127.0.0.0 1 1
+chrome106.0.0.0 1 1
+chrome74.0.3729.169 1 1
+chrome109.0.0.0 197 38
+chrome92.0.4515.159 1 0
+mozilla 31 18
+chrome78.0.3904.62 2 2
+chrome120.0.0.0 90 41
+chrome16.0.912.36 1 1
+chrome130.0.0.0 126 28
+chrome105.0.0.0 10 5
+firefox134.0 1 1
+safari15.4 1 0
+chrome47.0.2526.80 1 0
+chrome91.0.4472.124 1 1
+chrome99.0.4844.88 1 0
+safari18.1.1 65 8
+firefox19.0 1 0
+safari9.0 2 1
+nokia 2 0
+firefox52.0 47 33
+chrome87.0.4280.88 40 18
+chrome129.0.6668.29 35 13
+Unknown 13 3
+chrome92.0.4515.131 1 0
+chrome98.0.4758.119 1 0
+chrome110.0.0.0 3 3
+chrome98.0.4758.102 2 0
+opera114.0.0.0 1 1
+netscape5.0 28 6
+safari17.0 4 4
+firefox31.0 1 0
+chrome61.0.3163.100 65 16
+chrome100.0.6254.407 1 1
+chrome99.0.4844.84 1 0
+firefox114.0 5 5
+netscape3.01 1 0
+chrome117.0.0.0 4 4
+chrome108.0.0.0 2 2
+chrome103.0.0.0 4 4
+chrome101.0.4951.61 1 0
+opera12.0 1 1
+chrome114.0.0.0 11 11
+chrome89.0.4389.114 1 0
+chrome100.0.4896.127 5 0
+chrome87.0.4280.66 1 0
+safari13.0.3 7 7
+safari7.0 1 0
+chrome131.0.0.0 2267 566
+safari7.2.0.0 1 0
+chrome30.0.1551.0 1 0
+chrome121.0.0.0 81 12
+chrome101.0.4951.41 4 0
+chrome101.0.4951.64 1 0
+chrome100.0.4896.75 3 2
+chrome129.0.0.0 75 17
+chrome89.0.4389.105 1 0
+chrome98.0.4758.80 1 1
+chrome61.0.3163.79 1 1
+firefox123.0 3 3
+chrome125.0.0.0 43 3
+chrome92.0.4515.166 2 0
+chrome113.0.0.0 289 48
+chrome20.0.0000.00 1 0
+chrome79.0.3945.136 1 0
+safari 1 0
+chrome97.0.4692.99 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20250124235518
+Mozilla/5.0_(compatible) 20250130122244
+Python/3.11_aiohttp/3.11.11 20250116191356
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250131160015
+Python/3.10_aiohttp/3.9.5 20250122163118
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250129204900
+Mozilla/5.0_(compatible;_vuhuvRBT/2.0;__https://vuhuv.com/rbt.html) 20250102223942
+python-httpx/0.28.1 20250122151136
+Symfony_BrowserKit 20250101203754
+Adobe_Application_Manager_2.0 20250123012608
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Python/3.11_aiohttp/3.11.11 20250116191356
+Microsoft_URL_Control_-_6.00.8862 20250123012847
+Python/3.10_aiohttp/3.9.5 20250122163118
+python-httpx/0.28.1 20250122151136
+Symfony_BrowserKit 20250101203754
+Uzbl_(Webkit_1.3)_(Linux_i686_[i686]) 20250123012846
+Adobe_Application_Manager_2.0 20250123012608
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 234 682
+From1 0 0
+From2 50 50
+From3 2 2
+From4 717 3169
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com 47 47
+www_google_co_in 2 2
+www_bing_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://mail.idealgroups.org 1 1
+https://www.agarwaltanks.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+503 3 0
+404 858 337310
+400 1 52
+301 15 3593
+409 147 12201
+406 209 30962
+401 1 35
+403 9 3195
+302 312 2
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 396
+/assets/comp/richfilemanager/scripts/jQuery-File-Upload/server/php/ 1 -
+/admin/javascripts/tinymce/filemanager/dialog.php 1 -
+/uploads/server/php/ 1 -
+/core/.git/config 1 -
+/wp-content/plugins/core-plugin-1/include.php 6 -
+/js/filemanager/dialog.php 1 -
+/coaster/jquery/gallery-upload/server/php/ 1 -
+/plugins/js/server/php/ 1 -
+/scripts/plugins/filemanager/filemanager/dialog.php 1 -
+/vendor/javascripts/filemanager/filemanager/dialog.php 1 -
+/assets/tinymce/filemanager/filemanager/dialog.php 1 -
+/scripts/plugins/tinymce/filemanager/filemanager/dialog.php 1 -
+/storage/tinymce/filemanager/dialog.php 1 -
+/system/js/plugin/filemanager/filemanager/dialog.php 1 -
+/assets/plugins/js/jquery-file-upload/server/php/ 1 -
+/api/.git/config 1 -
+/sendgrid.env 1 -
+/tinymce/js/tinymce/plugins/filemanager/dialog.php 1 -
+/dashboard 1 https://idealgroups.org/wp-admin/
+/sitemap.xml 1 -
+/storage/js/tinymce/plugins/filemanager/filemanager/dialog.php 1 -
+/scripts/plugins/filemanager/dialog.php 1 -
+/lib/jQuery-File-Upload/server/php/ 1 -
+/vendor/laravel/.git/config 1 -
+/subdomain/.git/config 1 -
+/filemanager/dialog.php 2 -
+/tinymce/filemanager/dialog.php 1 -
+/adm/javascripts/tinymce/filemanager/dialog.php 1 -
+/protected/.git/config 1 -
+/js/tinymce/plugins/filemanager/filemanager/dialog.php 1 -
+/admin/asset/plugins/jquery-file-upload/server/php/ 1 -
+/storage/scripts/tinymce/filemanager/filemanager/dialog.php 1 -
+/assets/images/shapes/white_round_2.png 2 -
+/assets/global/plugins/jQuery-File-Upload/server/php/ 1 -
+/assets/js/tinymce/plugins/file_manager/filemanager/dialog.php 1 -
+/contact.html 6 -
+/public/javascripts/filemanager/filemanager/dialog.php 1 -
+/local/.git/config 1 -
+/.git/config 22 -
+/vendor/filemanager/dialog.php 1 -
+/www/filemanager/dialog.php 1 -
+/actuator/env 2 -
+/public/scripts/tinymce/filemanager/dialog.php 1 -
+/audio/.git/config 1 -
+/admin/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/js/Jquery-File-Upload/server/php/ 1 -
+/asset/global/plugins/server/php/ 1 -
+/send_otp.php 1 -
+/app/config/.git/config 1 -
+/admin/plugins/server/php/ 1 -
+/system/plugin/filemanager/dialog.php 1 -
+/assets/lib/jQuery-File-Upload/server/php/ 1 -
+/prod/.git/config 1 -
+/admin/assets/plugins/js/server/php/ 1 -
+/vendor/tinymce/filemanager/filemanager/dialog.php 1 -
+/js/server/php/ 1 -
+/file_manager/dialog.php 1 -
+/tinymce/filemanager/filemanager/dialog.php 1 -
+/wp-content/plugins/include.php 11 -
+/server 2 -
+/formcraft/file-upload/server/php/ 1 -
+/assets/js/plugins/filemanager/filemanager/dialog.php 1 -
+/tinymce/js/filemanager/filemanager/dialog.php 1 -
+/production/.git/config 1 -
+/vendor/filemanager/filemanager/dialog.php 1 -
+/old/.git/config 1 -
+/library/.git/config 1 -
+/public/filemanager/dialog.php 1 -
+/storage/javascripts/filemanager/dialog.php 1 -
+/php_info.php 1 -
+/assets/css/contact.css 1 -
+/assets/vendors/jquery.fileupload/server/php/ 1 -
+/contact 1 -
+/resources/global/plugins/jQuery-File-Upload/server/php/ 1 -
+/lib/jquery-file-upload/server/php/ 1 -
+/system/filemanager/dialog.php 1 -
+/phpinfo 1 -
+/public/javascripts/tinymce/filemanager/dialog.php 1 -
+/laravel/.git/config 1 -
+/_all_dbs 2 -
+/phpinfo.php 1 -
+/public/plugins/multiuploader/server/php/ 1 -
+/wp-admin/plugin-install.php 2 -
+/database/.git/config 1 -
+/assets/plugins/filemanager/dialog.php 1 -
+/vendor/assets/tinymce/filemanager/dialog.php 1 -
+/multiuploader/server/php/ 1 -
+/vendor/scripts/tinymce/filemanager/dialog.php 1 -
+/assets/javascripts/tinymce/filemanager/dialog.php 1 -
+/wp-content/plugins/WordPressCore/include.php 13 -
+/assets/images/achieve/happy_clients.png 2 -
+/assets/images/about/about_1.jpg 2 -
+/front/.git/config 1 -
+/media/mediamgr/other/jq_fileupload/server/php/ 1 -
+/wp-includes/images/include.php 7 -
+/verify_otp 1 -
+/adm/js/tinymce/plugins/filemanager/dialog.php 1 -
+/admin/scripts/filemanager/filemanager/dialog.php 1 -
+/base/.git/config 1 -
+/assets/plugins/jquery.fileupload/server/php/ 1 -
+/pos/.git/config 1 -
+/system/js/plugin/tinymce/filemanager/dialog.php 1 -
+/app/webroot/global/plugins/jQuery-File-Upload/server/php/ 1 -
+/admin/assets/global/plugins/Jquery-File-Upload/server/php/ 1 -
+/crm/.git/config 1 -
+/wp-content/plugins/WordPressCore-1/include.php 8 -
+/plugins/tinymce/plugins/filemanager/dialog.php 1 -
+/html-main/.git/config 1 -
+/assets/global/plugins/Jquery-File-Upload/server/php/ 1 -
+/wp-admin/ 15 https://www.google.com
+/dev/.git/config 1 -
+/storage/js/filemanager/dialog.php 1 -
+/wp-content/themes/include.php 11 -
+/public/js/filemanager/dialog.php 1 -
+/admin/php/ 1 -
+/storage/assets/tinymce/filemanager/dialog.php 1 -
+/public/plugins/jQuery-File-Upload/server/php/ 1 -
+/assets/global/plugins/server/php/ 1 -
+/public/js/tinymce/plugins/filemanager/dialog.php 1 -
+/.well-known/apple-app-site-association 6 -
+/assets/color_admin/plugins/jquery-file-upload/server/php/ 1 -
+/vendor/jquery.filer/uploads 1 -
+/public/plugins/jquery-file-upload/server/php/ 1 -
+/assets/css/products.css 1 -
+/asset/plugins/Jquery-File-Upload/server/php/ 1 -
+/plugin/richfilemanager/scripts/jQuery-File-Upload/server/php/ 1 -
+/.aws/credentials 1 -
+/public/multiuploader/server/php/ 1 -
+/fmanager/filemanager/dialog.php 1 -
+/js/tinymce/plugins/filemanager/dialog.php 1 -
+/0.html 1 -
+/about 2 -
+/login 1 https://idealgroups.org/wp-admin/
+/admin/js/jquery-file-upload/server/php/ 1 -
+/admin/asset/plugins/js/Jquery-File-Upload/server/php/ 1 -
+/admin/plugin/server/php/ 1 -
+/asset/global/plugins/Jquery-File-Upload/server/php/ 1 -
+/admin/assets/plugins/js/Jquery-File-Upload/server/php/ 1 -
+/wp-json/litespeed/v1/cdn_status 1 https://idealgroups.org
+/metronic/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/assets/server/php/ 1 -
+/tokensale/.git/config 1 -
+/adm/js/tinymce/plugins/filemanager/filemanager/dialog.php 1 -
+/beta/.git/config 1 -
+/apps/.git/config 1 -
+/public/js/filemanager/filemanager/dialog.php 1 -
+/bportfolio.html 1 -
+/js/tinymce/filemanager/filemanager/dialog.php 1 -
+/adm/scripts/tinymce/filemanager/dialog.php 1 -
+/filemanager/filemanager/dialog.php 1 -
+/public/.git/config 1 -
+/vendor/javascripts/tinymce/filemanager/dialog.php 1 -
+/admin/assets/plugins/Jquery-File-Upload/server/php/ 1 -
+/admin/javascripts/tinymce/filemanager/filemanager/dialog.php 1 -
+/admin/assets/tinymce/filemanager/dialog.php 1 -
+/theme/assets/global/plugins/jQuery-File-Upload/server/php/ 1 -
+/assets/tinymce/plugins/file_manager/dialog.php 1 -
+/Cards.html 1 -
+/tinymce/js/filemanager/dialog.php 1 -
+/storage/filemanager/dialog.php 1 -
+/cms 1 https://idealgroups.org/wp-admin/
+/system/js/plugin/filemanager/dialog.php 1 -
+/storage/javascripts/tinymce/filemanager/dialog.php 1 -
+/assets/plugins/Jquery-File-Upload/server/php/ 1 -
+/backend/.git/config 1 -
+/wp-content/.git/config 1 -
+/assets/css/about-us.css 1 -
+/admin/assets/tinymce/filemanager/filemanager/dialog.php 1 -
+/app/.git/config 2 -
+/asset/global/plugins/jquery-file-upload/server/php/ 1 -
+/admin/assets/plugins/jquery-file-upload/server/php/ 1 -
+/labs/jQuery-File-Upload-9.22.0/server/php/ 1 -
+/sites/default/libraries/mailchimp/.git/config 1 -
+/%7Cadmin%7CYXZ$3RJ%25%251wp-login.php 1 -
+/public/tinymce/filemanager/dialog.php 1 -
+/admin/plugins/js/jquery-file-upload/server/php/ 1 -
+/admin/assets/plugins/js/jquery-file-upload/server/php/ 1 -
+/wp-includes/widgets/include.php 6 -
+/scripts/tinymce/filemanager/dialog.php 1 -
+/public/filemanager/filemanager/dialog.php 1 -
+/backups/.git/config 1 -
+/sites/all/libraries/mailchimp/.git/config 1 -
+/asset/server/php/ 1 -
+/tokenlite/tokenlite_app/.git/config 1 -
+/plugin/richfilemanager/scripts/jquery-file-upload/server/php/ 1 -
+/assets/jQuery-File-Upload/server/php/ 1 -
+/ads.txt 7 -
+/send_otp 1 -
+/assets/plugins/multiuploader/server/php/ 1 -
+/media/upload/filemanager/dialog.php 1 -
+/assets/backend/plugins/jQuery-File-Upload/server/php/ 1 -
+/blog/.git/config 1 -
+/admin/js/filemanager/dialog.php 1 -
+/admin/filemanager/filemanager/dialog.php 1 -
+/assets/javascripts/plugins/filemanager/dialog.php 1 -
+/vendor/javascripts/tinymce/filemanager/filemanager/dialog.php 1 -
+/public/javascripts/filemanager/dialog.php 1 -
+/public/plugins/tinymce/js/tinymce/plugins/filemanager/dialog.php 1 -
+/assets/comp/richfilemanager/scripts/jquery-file-upload/server/php/ 1 -
+/admin/asset/global/plugins/jquery-file-upload/server/php/ 1 -
+/system/js/plugins/tinymce/filemanager/dialog.php 1 -
+/assets/css/common.css 1 -
+/assets/lib/jquery-file-upload/server/php/ 1 -
+/coaching%20classes.html 1 -
+/assets/plugins/js/server/php/ 1 -
+/token/tokenlite/tokenlite_app/.git/config 1 -
+/public/javascripts/tinymce/filemanager/filemanager/dialog.php 1 -
+/style.php 6 www.google.com
+/kyc/.git/config 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 2 -
+/verify_otp.php 1 -
+/public/assets/tinymce/filemanager/filemanager/dialog.php 1 -
+/adm/javascripts/tinymce/filemanager/filemanager/dialog.php 1 -
+/storage/javascripts/tinymce/filemanager/filemanager/dialog.php 1 -
+/fmanager/filemanager/filemanager/dialog.php 1 -
+/js/jQuery-File-Upload/server/php/ 1 -
+/assets/tinymce/file_manager/dialog.php 1 -
+/plugins/filemanager/dialog.php 1 -
+/services.html 1 -
+/storage/assets/tinymce/filemanager/filemanager/dialog.php 1 -
+/public/assets/tinymce/filemanager/dialog.php 1 -
+/public/plugins/tinymce/js/tinymce/plugins/responsive_filemanager/filemanager/dialog.php 1 -
+/cms/.git/config 1 -
+/jquery.fileupload/server/php/ 1 -
+/wp-login.php 20 -
+/storage/js/tinymce/plugins/filemanager/dialog.php 1 -
+/assets/filemanager/filemanager/dialog.php 1 -
+/admin/asset/plugins/server/php/ 1 -
+/vendor/assets/tinymce/filemanager/filemanager/dialog.php 1 -
+/assets/file_manager/dialog.php 1 -
+/admin/server/php/ 1 -
+/app-ads.txt 14 -
+/assets/plugins/filemanager/filemanager/dialog.php 1 -
+/public/js/tinymce/plugins/filemanager/filemanager/dialog.php 1 -
+/js/filemanager/filemanager/dialog.php 1 -
+/assets/tinymce/filemanager/dialog.php 1 -
+/wp-admin 1 https://idealgroups.org/wp-admin/
+/admin/filemanager/dialog.php 1 -
+/assets/jquery-file-upload/server/php/ 1 -
+/admin/plugins/js/server/php/ 1 -
+/assets/css/clients.css 1 -
+/digicard/public/img/consult/icons/service-shadow.png 8 https://idealgroups.org/digicard/public/assets/Style.css
+/assets/js/file_manager/filemanager/dialog.php 1 -
+/assets/plugins/js/Jquery-File-Upload/server/php/ 1 -
+/new/.git/config 1 -
+/info 2 -
+/config/secrets.yml 1 -
+/backend 1 https://idealgroups.org/wp-admin/
+/assets/themes/metronic/global/jquery-file-upload/server/php/ 1 -
+/admin/js/server/php/ 1 -
+/theme/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/admin/tools/assets/jquery-file-upload/server/php/ 1 -
+/coloradmin/assets/plugins/jquery-file-upload/server/php/ 1 -
+/wp-content/plugins/cleantalk-spam-protect/ 2 -
+/.env.exemple 1 -
+/assets/upload/jquery-file-upload/server/php/ 1 -
+/admin/assets/jquery-file-upload/server/php/ 1 -
+/php_info 1 -
+/system/js/plugins/filemanager/dialog.php 1 -
+/apple-app-site-association 6 -
+/assets/plugins/jquery-file-upload/server/php/ 1 -
+/asset/plugins/js/jquery-file-upload/server/php/ 1 -
+/assets/javascripts/tinymce/filemanager/filemanager/dialog.php 1 -
+/assets/libs/jquery-file-upload/server/php/ 1 -
+/super/assets/comp/richfilemanager/scripts/jquery-file-upload/server/php/ 1 -
+/customer/.git/config 1 -
+/admin/assets/server/php/ 1 -
+/server/php/ 1 -
+/vendor/.git/config 1 -
+/js/tinymce/filemanager/dialog.php 1 -
+/wp-admin/.git/config 1 -
+/adm/scripts/tinymce/filemanager/filemanager/dialog.php 1 -
+/admin/plugins/js/Jquery-File-Upload/server/php/ 1 -
+/storage/scripts/tinymce/filemanager/dialog.php 1 -
+/user/login 1 https://idealgroups.org/wp-admin/
+/robots.txt 254 -
+/.well-known/traffic-advice 7 -
+/vendor/js/tinymce/plugins/filemanager/dialog.php 1 -
+/test/.git/config 1 -
+/home.php 2 -
+/vendor/javascripts/filemanager/dialog.php 1 -
+/admin/asset/plugins/js/server/php/ 1 -
+/assets/backend/js/plugins/filemanager/filemanager/dialog.php 1 -
+/assets/js/plugins/filemanager/dialog.php 1 -
+/vendor/tinymce/filemanager/dialog.php 1 -
+/admin/asset/global/plugins/Jquery-File-Upload/server/php/ 1 -
+/assets/file_manager/filemanager/dialog.php 1 -
+/v2/assets/plugins/jQuery-File-Upload/server/php/ 1 -
+/app/webroot/global/plugins/jquery-file-upload/server/php/ 1 -
+/wp-content/plugins/core-plugin/include.php 6 -
+/admin/asset/plugins/js/jquery-file-upload/server/php/ 1 -
+/admin/scripts/filemanager/dialog.php 1 -
+/asset/plugins/js/Jquery-File-Upload/server/php/ 1 -
+/djportfolio.html 1 -
+/storage/tinymce/filemanager/filemanager/dialog.php 1 -
+/plugins/js/Jquery-File-Upload/server/php/ 1 -
+/project-details.html 3 -
+/admin/asset/server/php/ 1 -
+/assets/vendor_admin/plugins/jQuery-File-Upload/server/php/ 1 -
+/assets/color_admin/plugins/jQuery-File-Upload/server/php/ 1 -
+/coloradmin/assets/plugins/jQuery-File-Upload/server/php/ 1 -
+/admin/asset/plugins/Jquery-File-Upload/server/php/ 1 -
+/plugins/jQuery-File-Upload/server/php/ 1 -
+/public/jquery.fileupload/server/php/ 1 -
+/newsite/.git/config 1 -
+/plugins/js/jquery-file-upload/server/php/ 1 -
+/src/.git/config 1 -
+/assets/css/cards.css 1 -
+/assets/upload/jQuery-File-Upload/server/php/ 1 -
+/web/assets/js/%25url%25 1 -
+/info.php 3 -
+/assets/filemanager/dialog.php 1 -
+/application/.git/config 1 -
+/admin/assets/Jquery-File-Upload/server/php/ 1 -
+/scripts/tinymce/filemanager/filemanager/dialog.php 1 -
+/assets/uploads/product/1669979144ChocolateVisaConsultancy.jpg 2 -
+/assets/js/tinymce/plugins/file_manager/dialog.php 1 -
+/assets/libs/jQuery-File-Upload/server/php/ 1 -
+/branding.html 1 -
+/admin/tools/assets/Jquery-File-Upload/server/php/ 1 -
+/storage/filemanager/filemanager/dialog.php 1 -
+/conf/.git/config 1 -
+/plugins/server/php/ 1 -
+/public/upload/server/php/ 1 -
+/s/5333e24353e28313e2931313/_/ 2 -
+/storage/javascripts/filemanager/filemanager/dialog.php 1 -
+/tokenlite_app/.git/config 1 -
+/system/js/plugins/filemanager/filemanager/%20dialog.php 1 -
+/assets/backend/js/plugins/filemanager/dialog.php 1 -
+/plugin/server/php/ 1 -
+/storage/js/filemanager/filemanager/dialog.php 1 -
+/.vscode/sftp.json 2 -
+/botsolid/assets/plugins/jquery-file-upload/server/php/ 1 -
+/vendor/js/filemanager/filemanager/dialog.php 1 -
+/vendor/js/tinymce/plugins/filemanager/filemanager/dialog.php 1 -
+/config.json 3 -
+/js/jquery-file-upload/server/php/ 1 -
+/vendor/scripts/tinymce/filemanager/filemanager/dialog.php 1 -
+/assets/backend/plugins/jquery-file-upload/server/php/ 1 -
+/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/debug/default/view 2 -
+/admin/assets/global/plugins/server/php/ 1 -
+/scripts/filemanager/filemanager/dialog.php 1 -
+/scripts/plugins/tinymce/filemanager/dialog.php 1 -
+/public/tinymce/filemanager/filemanager/dialog.php 1 -
+/plugins/jquery-file-upload/server/php/ 1 -
+/assets/js/tinymce/file_manager/filemanager/dialog.php 1 -
+/resources/global/plugins/jquery-file-upload/server/php/ 1 -
+/super/assets/comp/richfilemanager/scripts/jQuery-File-Upload/server/php/ 1 -
+/server/.git/config 1 -
+/admin/js/Jquery-File-Upload/server/php/ 1 -
+/_profiler/phpinfo 3 -
+/v1/assets/plugins/jquery-file-upload/server/php/ 1 -
+/telescope/requests 2 -
+/assets/vendor_admin/plugins/jquery-file-upload/server/php/ 1 -
+/admin/assets/plugins/server/php/ 1 -
+/asset/plugins/js/server/php/ 1 -
+/www/.git/config 1 -
+/.DS_Store 2 -
+/asset/plugins/jquery-file-upload/server/php/ 1 -
+/brouchers%20content.html 1 -
+/v2/_catalog 2 -
+/tokenlite-ico-script-v1.3.2/tokenlite/tokenlite_app/.git/config 1 -
+/OTApp/.git/config 1 -
+/cronlab/.git/config 1 -
+/assets/plugins/server/php/ 1 -
+/scripts/filemanager/dialog.php 1 -
+/admin/js/filemanager/filemanager/dialog.php 1 -
+/admin/uploads/server/php/ 1 -
+/assets/js/tinymce/filemanager/dialog.php 1 -
+/admin/.git/config 1 -
+/tinymce/js/tinymce/plugins/filemanager/filemanager/dialog.php 1 -
+/v2/assets/plugins/jquery-file-upload/server/php/ 1 -
+/index.html 1 -
+/assets/uploads/category/1669975667bannerdesign.png 2 -
+/admin/asset/global/plugins/server/php/ 1 -
+/_profiler/phpinfo.php 2 -
+/asset/plugins/server/php/ 1 -
+/assets/plugins/jQuery-File-Upload/server/php/ 1 -
+/xmlrpc.php 2 -
+/assets/Jquery-File-Upload/server/php/ 1 -
+/assets/themes/metronic/global/jQuery-File-Upload/server/php/ 1 -
+/login.action 2 -
+/storage/.git/config 1 -
+/frontend/.git/config 1 -
+/metronic/assets/global/plugins/jQuery-File-Upload/server/php/ 1 -
+/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js 11 -
+/assets/javascripts/plugins/filemanager/filemanager/dialog.php 1 -
+/admin 1 https://idealgroups.org/wp-admin/
+/public/scripts/tinymce/filemanager/filemanager/dialog.php 1 -
+/media/upload/filemanager/filemanager/dialog.php 1 -
+/assets/js/tinymce/filemanager/filemanager/dialog.php 1 -
+/mailchimp/.git/config 1 -
+/vendor/js/filemanager/dialog.php 1 -
+/www/filemanager/filemanager/dialog.php 1 -
+/public/javascript/jquery.upload/server/php/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 234
+49.36.89.191 87 191 77770757 20250112015017
+27.59.94.87 56 111 13732957 20250128112233
+49.43.32.23 51 102 12030878 20250104152852
+182.52.22.122 47 288 70117563 20250125135855
+34.38.213.62 34 48 1069388 20250116191359
+103.221.76.130 29 79 6912353 20250123140054
+117.217.74.6 28 93 9820400 20250102102523
+49.43.32.100 20 121 8264334 20250103110714
+122.161.50.22 20 89 4951071 20250113124033
+183.83.146.241 19 111 8025544 20250113150127
+209.29.196.10 19 82 5072739 20250116235116
+15.237.61.142 18 94 4029207 20250123010231
+27.57.172.64 18 79 4629235 20250115225621
+182.77.31.15 18 68 4586351 20250131173914
+103.188.236.67 18 79 4629235 20250101162136
+157.32.42.50 16 65 4432857 20250127125647
+27.61.182.116 16 76 4451290 20250123122212
+157.32.43.189 16 76 4451290 20250124104224
+157.32.42.3 16 72 6110583 20250128081349
+121.243.22.130 15 73 4626406 20250114130230
+157.90.203.163 14 14 145530 20250129173830
+152.59.0.102 13 54 3723070 20250104163041
+124.123.27.54 13 35 3038646 20250106151617
+150.242.84.68 13 61 4065460 20250115195810
+100.24.35.44 13 62 4067855 20250131194148
+66.220.149.22 0 17 428599 
+87.236.176.47 0 1 38870 
+5.35.69.6 1 1 10395 20250125073907
+183.83.229.232 5 42 984281 20250101200429
+125.165.152.218 1 1 4605 20250106131149
+27.59.86.44 1 1 6102 20250109151558
+106.213.172.52 1 29 1055990 20250106130936
+43.153.74.75 1 1 10395 20250102091335
+204.137.14.54 2 2 43911 20250119204727
+27.59.87.44 2 2 12204 20250109151752
+31.13.115.10 1 1 188028 20250105230305
+66.220.149.15 1 1 140704 20250101103015
+154.28.229.153 1 1 10395 20250119163838
+185.247.137.106 0 1 2395 
+173.252.95.9 1 1 230072 20250101103554
+115.231.78.15 0 2 71528 
+93.159.230.85 1 1 10395 20250105131029
+107.181.130.130 1 1 10395 20250118063312
+5.133.192.99 1 2 12790 20250110112026
+167.172.42.216 1 1 10395 20250127114042
+43.153.71.132 2 2 5313 20250102103331
+2a06:98c0:3600::103 1 1 10395 20250123144556
+191.96.11.228 2 2 43911 20250101090405
+80.85.246.140 1 1 10395 20250115044409
+51.81.245.138 1 1 10395 20250131163306
+35.213.197.94 2 2 16033 20250111191803
+167.71.166.6 1 1 10395 20250118115134
+31.13.115.6 1 1 251516 20250105230305
+31.13.115.115 2 3 399682 20250105230306
+106.205.249.92 12 68 3087652 20250101144603
+43.131.39.179 1 1 794 20250102095129
+173.252.95.19 1 1 10395 20250101103543
+154.28.229.115 2 2 20790 20250131163323
+223.71.52.82 1 1 0 20250120123108
+35.171.144.152 2 2 20790 20250118155102
+72.14.201.215 1 1 3969 20250131012523
+3.147.86.150 5 74 703517 20250102100421
+66.220.149.23 0 17 670195 
+66.220.149.28 1 1 10395 20250101103000
+94.103.93.19 1 1 10395 20250112103749
+2.57.121.209 1 1 10395 20250114073102
+134.122.68.210 1 1 10395 20250110131118
+103.228.147.218 2 35 1628409 20250130171034
+173.252.95.20 1 15 630226 20250101103556
+89.244.95.116 1 50 1931208 20250120151451
+138.197.141.82 1 1 10395 20250113223519
+173.252.127.112 1 1 453440 20250126081540
+173.252.95.39 0 16 317853 
+80.77.25.23 2 2 43911 20250131151202
+80.85.245.145 1 1 10395 20250123171145
+89.169.33.220 1 1 10395 20250109170057
+37.139.53.179 2 2 60600 20250129003213
+77.238.225.41 1 1 10395 20250104014939
+167.71.1.69 1 1 10395 20250130122244
+54.227.194.246 5 15 997293 20250130175409
+80.85.245.241 1 1 10395 20250127051010
+162.142.125.214 0 1 2395 
+193.186.4.136 1 1 4605 20250115091619
+31.13.115.8 1 1 134316 20250105230307
+185.247.137.5 0 1 38870 
+167.94.138.179 1 2 12790 20250129204858
+185.247.137.208 0 1 38870 
+80.85.245.187 2 2 20790 20250119000626
+157.230.186.171 3 3 20638 20250103190958
+173.252.127.42 1 1 492900 20250114111815
+173.252.127.17 2 2 307536 20250114111815
+106.221.75.87 1 13 171194 20250101140333
+31.13.115.7 2 2 250596 20250105230304
+31.13.115.1 1 1 140704 20250105230303
+173.252.127.113 1 1 10395 20250126081525
+80.85.246.74 1 1 10395 20250108104107
+185.247.137.188 1 1 10395 20250131160013
+103.59.200.101 2 42 485174 20250115201825
+34.217.208.255 1 1 10395 20250117165610
+88.218.62.29 3 3 31185 20250120164742
+173.252.127.22 0 43 1308414 
+173.252.127.15 0 19 341141 
+152.53.111.250 1 1 10395 20250117092838
+171.120.25.238 1 1 10395 20250113115047
+206.168.34.117 0 1 38870 
+173.252.95.13 2 2 879792 20250101103555
+54.75.81.68 1 8 49593 20250122151131
+27.59.92.44 1 7 70434 20250109151519
+173.252.127.14 1 1 188028 20250114111813
+212.118.53.218 3 3 31185 20250131002123
+91.246.41.166 1 1 10395 20250107092653
+154.194.20.235 1 1 10395 20250104235606
+170.106.73.216 1 1 10395 20250102111908
+185.41.152.31 2 24 200242 20250109130909
+18.234.244.194 1 1 10395 20250102105129
+34.1.25.70 1 9 80101 20250107121451
+49.51.183.15 1 1 10395 20250102113954
+54.70.53.171 1 1 0 20250101143614
+173.252.127.12 1 1 10395 20250114111804
+193.186.4.140 1 1 4605 20250128081310
+80.85.246.214 2 2 20790 20250119202116
+138.124.59.248 2 2 43911 20250107064954
+74.125.215.76 1 1 3969 20250131012523
+45.63.2.252 1 1 10395 20250128121646
+173.252.127.27 3 15 644927 20250126081537
+88.210.11.43 1 1 10395 20250122075144
+173.252.95.3 3 3 531640 20250101103555
+50.92.24.114 1 1 10395 20250105144954
+49.43.34.195 13 29 3811366 20250104152129
+124.236.100.56 4 4 41580 20250126071747
+173.252.127.8 2 2 527596 20250126081538
+172.120.202.54 1 1 10395 20250116100956
+49.43.0.32 13 62 4067855 20250111060050
+146.190.112.241 1 1 10395 20250124121743
+193.186.4.143 1 1 4605 20250101170042
+31.13.115.4 1 13 675644 20250105230306
+54.83.83.197 13 62 4067855 20250131165107
+51.158.232.218 1 1 10395 20250124065823
+180.151.241.2 1 1 10395 20250114130204
+178.62.115.95 1 1 10395 20250112122917
+173.252.127.18 1 1 90672 20250126081538
+195.2.78.89 2 2 20790 20250109142551
+128.199.13.219 1 1 10395 20250116130310
+137.184.232.175 1 1 10395 20250104134407
+156.255.20.40 1 1 10395 20250116070058
+87.236.176.169 0 1 2395 
+149.88.103.44 6 6 41276 20250114151347
+47.79.123.13 1 1 41793 20250114113622
+31.13.115.112 0 18 271106 
+173.252.95.112 0 19 435109 
+35.171.157.2 1 1 10395 20250119132541
+194.59.186.98 2 2 43911 20250129161130
+173.252.95.40 1 1 77376 20250101103553
+197.240.61.222 1 1 5638 20250102222412
+167.94.138.126 1 2 12790 20250125214358
+31.13.115.114 2 2 463835 20250110190832
+157.32.41.66 8 64 3065274 20250101113527
+66.220.149.18 1 1 173220 20250101103015
+142.93.96.39 1 1 10395 20250108123758
+34.42.243.148 4 4 144126 20250103234822
+137.226.113.44 4 4 41580 20250124235518
+152.59.1.61 13 62 4067855 20250107173601
+54.187.162.178 1 1 0 20250114105719
+31.13.115.5 1 19 1022699 20250105230306
+173.252.127.28 1 1 188028 20250126081538
+64.227.157.127 1 1 10395 20250102141849
+31.13.115.113 1 1 189452 20250105230304
+120.230.113.114 1 1 10395 20250126081529
+103.240.207.187 4 53 2115999 20250101204950
+93.158.91.31 1 2 12790 20250104031111
+2.58.56.116 2 2 43911 20250117054101
+31.13.115.9 1 1 90672 20250105230305
+193.186.4.139 1 1 4605 20250113082208
+106.205.247.124 0 2 116986 
+167.94.138.115 0 1 2395 
+173.252.127.2 1 1 251516 20250126081539
+42.83.147.54 1 1 10395 20250114193356
+173.252.127.10 0 2 40910 
+54.196.117.95 1 1 10395 20250129074000
+66.220.149.2 0 7 127851 
+173.252.95.115 1 1 453440 20250101103556
+115.231.78.6 0 1 35764 
+51.159.101.199 6 58 1844796 20250131172524
+37.99.43.117 4 4 98287 20250109234809
+194.9.191.20 1 1 10395 20250102223942
+66.220.149.6 1 8 97208 20250101103014
+173.252.95.16 1 1 188028 20250101103553
+123.201.66.222 1 29 1055991 20250106130656
+223.233.77.56 1 1 10395 20250131160607
+87.236.176.56 0 1 38870 
+209.251.23.121 3 58 3952204 20250118205848
+43.157.156.190 1 1 3821 20250102101251
+173.252.127.9 2 4 719680 20250126081540
+77.74.177.118 1 1 10395 20250119154144
+173.252.127.19 2 2 587756 20250126081539
+18.133.223.202 1 1 10395 20250122163118
+173.252.127.43 1 1 386892 20250114111814
+173.252.127.55 1 1 230072 20250114111815
+49.36.82.220 13 73 4157581 20250107104839
+66.220.149.19 1 1 189452 20250101103015
+164.92.138.97 1 1 10395 20250114131524
+87.236.176.99 1 1 10395 20250112152601
+66.249.66.166 1 1 794 20250109210633
+152.59.1.166 13 62 4067855 20250107090857
+27.59.84.44 1 7 106863 20250109151530
+42.111.208.4 3 3 25395 20250101184905
+111.231.12.66 2 2 20790 20250115234602
+138.124.123.105 4 4 87822 20250127211814
+152.59.3.104 7 64 3071738 20250119093841
+172.245.92.196 2 2 43911 20250125070545
+173.252.127.11 3 3 482892 20250114111814
+154.28.229.104 1 1 10395 20250119163838
+193.186.4.138 1 1 4605 20250101113436
+173.252.95.4 1 1 140704 20250101103551
+152.59.48.48 1 1 10395 20250127181345
+185.141.119.189 1 1 10395 20250120131637
+167.99.191.99 1 1 10395 20250128133222
+173.252.95.5 1 1 173220 20250101103552
+54.149.2.190 1 1 0 20250122102737
+93.158.91.25 1 2 12790 20250123050251
+173.252.127.13 2 2 403292 20250126081539
+115.231.78.8 0 10 85320 
+152.44.103.153 3 43 625878 20250107125049
+157.90.104.32 1 1 10395 20250101203754
+5.133.192.133 2 4 25580 20250129145404
+35.153.215.143 1 1 10395 20250102043140
+173.252.127.21 0 20 469228 
+91.201.115.174 2 2 20790 20250110132755
+104.164.173.213 1 1 10395 20250131163323
+68.234.40.52 3 39 806336 20250123073811
+195.2.81.171 3 3 15794 20250105005653
+213.136.71.30 1 1 10395 20250116064731
+159.203.189.92 3 3 20638 20250103104430
+87.236.176.205 0 1 2395 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20250101 78 446 20079210 29
+20250102 48 182 10643433 15
+20250103 31 132 8460131 5
+20250104 83 192 19630079 9
+20250105 21 72 4252610 16
+20250106 17 95 5165627 5
+20250107 46 253 13089340 7
+20250108 4 15 131306 4
+20250109 13 26 328264 9
+20250110 4 16 133701 4
+20250111 17 68 4145943 4
+20250112 90 195 77804337 4
+20250113 43 206 13083933 6
+20250114 40 147 8818910 18
+20250115 37 186 9215659 7
+20250116 61 139 6227682 10
+20250117 5 16 199286 4
+20250118 8 63 4004179 5
+20250119 15 72 3178019 8
+20250120 5 5 72978 5
+20250121 0 49 1889415 0
+20250122 6 13 114294 5
+20250123 69 293 16235161 7
+20250124 19 79 4482475 4
+20250125 53 295 70205449 5
+20250126 15 64 4088645 12
+20250127 21 71 4546823 5
+20250128 77 188 19889725 6
+20250129 8 10 150881 6
+20250130 8 53 2713837 4
+20250131 61 262 14693866 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 1
+1h+ 1
+0s-30s 220
+30s-2mn 14
+30mn-1h 1
+15mn-30mn 1
+2mn-5mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 45
+/web/ 226 2742851 169 125
+/web/assets/fonts/fa-light-300.woff2 60 11367120 5 7
+/web/assets/fonts/fa-regular-400.woff2 58 10046760 4 4
+/web/assets/fonts/fa-solid-900.woff2 58 8160832 7 9
+/web/assets/fonts/fa-brands-400.woff2 51 3946176 5 4
+/web/assets/fonts/fa-regular-400.woff 46 10583312 3 4
+/web/assets/fonts/fa-regular-400.ttf 46 20858240 4 12
+/web/assets/fonts/fa-brands-400.woff 45 4080240 2 3
+/web/assets/fonts/fa-solid-900.woff 45 8461260 4 4
+/web/assets/fonts/fa-brands-400.ttf 45 6044220 3 5
+/web/assets/fonts/fa-solid-900.ttf 45 17410140 1 5
+/web/assets/fonts/fa-light-300.ttf 45 22180500 4 7
+/web/assets/fonts/fa-light-300.woff 45 11318220 2 3
+/web/contact 31 185374 9 13
+/web/about 25 109270 2 13
+/web/products 16 72304 3 1
+/web/home.php 12 9528 2 3
+/web/services.html 11 8734 0 2
+/web/clients 8 30568 2 3
+/web/contact.html 7 5558 0 1
+/web/category/13 7 27783 2 2
+/web/category/17 7 58549 0 1
+/digicard/website/mspaper 6 36611 5 5
+/web/category/15 5 17955 0 0
+/web/project-details.html 5 3970 0 0
+/web/category/24 3 14679 0 0
+/web/sellers.json 1 794 0 1
+/digicard/ 1 1022 1 0
+/web/category/22 2 7172 0 0
+/web/category/services.html 1 3554 0 0
+/web/team-profile.html 3 2382 0 0
+/web/category/service-details.html 1 3554 0 0
+/web/service-details.html 2 1588 0 0
+/web/category/home.php 2 7108 0 0
+/web/co%20t 2 1588 0 0
+/digicard/website/IdealGroups 3 42143 2 3
+/web/category/contact.html 2 7108 0 1
+/web/contactus 1 794 0 0
+/web/category/19 2 7184 0 0
+/web/category/16 5 19735 0 0
+/web/category/18 2 7178 0 0
+/web/category/14 5 19210 0 0
+/web/category/20 2 7166 0 0
+/web/category/12 5 21590 0 0
+/web/category/21 3 10770 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+44-100 83
+100-500 803
+2K-5K 578
+5K+ 1436
+500-1K 309
+0-44 200
+1K-2K 157
+END_FILESIZE

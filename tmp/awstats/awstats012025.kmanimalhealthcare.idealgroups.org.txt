@@ -1,0 +1,404 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202501 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.kmanimalhealthcare.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2066                
+POS_TIME 2738                
+POS_VISITOR 9579                
+POS_DAY 11009               
+POS_DOMAIN 3395                
+POS_LOGIN 3709                
+POS_ROBOT 3864                
+POS_WORMS 4107                
+POS_EMAILSENDER 4238                
+POS_EMAILRECEIVER 4381                
+POS_SESSION 11448               
+POS_FILESIZE 11896               
+POS_SIDER 11595               
+POS_FILETYPES 4516                
+POS_DOWNLOADS 4634                
+POS_OS 4682                
+POS_BROWSER 4834                
+POS_SCREENSIZE 5080                
+POS_UNKNOWNREFERER 5154                
+POS_UNKNOWNREFERERBROWSER 5894                
+POS_ORIGIN 6299                
+POS_SEREFERRALS 6431                
+POS_PAGEREFS 6575                
+POS_SEARCHWORDS 6802                
+POS_KEYWORDS 6954                
+POS_MISC 2402                
+POS_ERRORS 7013                
+POS_CLUSTER 3565                
+POS_SIDER_404 7170                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250201014056 1 0 28011224667494
+FirstTime 20250101063836
+LastTime 20250129203000
+LastUpdate 20250201185032 1 0 0 0 0
+TotalVisits 42                  
+TotalUnique 35                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 35                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 3 63178 11 13 8974
+1 1 2 27659 2 3 452
+2 2 2 71018 9 11 46273
+3 1 2 27659 2 3 452
+4 2 3 63178 13 16 11854
+5 2 2 14338 7 7 397645
+6 1 1 35549 22 22 182513
+7 1 1 7174 12 13 428656
+8 4 4 85356 69 69 327392
+9 1 1 35509 2 2 71098
+10 0 0 0 8 8 504294
+11 2 2 14338 2 3 37977
+12 2 2 14338 4 4 71018
+13 2 3 34833 0 2 2428
+14 1 2 27669 0 1 0
+15 1 1 7164 0 0 0
+16 11 11 85959 46 51 149891
+17 1 1 35509 14 15 9652
+18 1 1 7174 13 13 445985
+19 0 0 0 2 2 452
+20 2 3 63168 10 12 44031
+21 1 1 7174 0 0 0
+22 3 5 90837 12 15 9200
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 29 38 569545
+in 4 4 71146
+ca 3 3 42770
+nl 2 2 14328
+cn 2 2 71058
+gb 2 2 42683
+be 1 1 7164
+zz 1 1 87
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 33 1172477 20250130073326 0
+Go\-http\-client/ 4 14952 20250102083629 0
+curl 1 0 20250119164024 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+Unknown 7 563 0 0
+png 9 184455 0 0
+html 37 633763 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+Unknown 31 22
+win10 15 15
+win7 2 2
+androidmarshmallow 2 2
+linuxubuntu 1 1
+macosx15 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+chrome100.0.4896.75 6 6
+chrome49.0.2623.112 2 2
+mozilla 28 19
+chrome52.0.1997.98 2 2
+chrome124.0.0.0 1 1
+safari15.1 2 2
+chrome51.0.2704.106 2 2
+Unknown 3 3
+firefox24.0 1 1
+chrome95.0.4638.69 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible) 20250128113537
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250128080334
+Cpanel-HTTP-Client/1.0 20250119163800
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250129203004
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20250119163808
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250123151616
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Cpanel-HTTP-Client/1.0 20250119163800
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250128080334
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 42 51
+From1 0 0
+From2 0 0
+From3 2 2
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://hml-mscalendar.minastc.com.br 1 1
+https://www.perceptionbyanna.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+409 6 498
+301 6 1524
+101 6 0
+406 78 17628
+403 2 710
+405 3 1190424
+404 136 352024
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 72
+/public/admin/filemanager 2 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 2 -
+/rfm/dialog.php 1 -
+/public/laravel-filemanager 2 -
+/images/files/event-files 2 -
+/debug/default/view 2 -
+/assets/filemanager/dialog.php 1 -
+/plugins/file-manager 2 -
+/laravel-filemanager 2 -
+/config.json 2 -
+/js/filemanager 2 -
+/telescope/requests 2 -
+/public/backend/filemanager 2 -
+/laravelfm 2 -
+/plugins/laravel-filemanager 2 -
+/.vscode/sftp.json 2 -
+/assets/default/vendor/filemanager/dialog.php 1 -
+/public/filemanager/dialog.php 1 -
+/public/filemanager 2 -
+/media/filemanager 2 -
+/file-manager 2 -
+/backoffice/fm 2 -
+/admin/feature/filemanager 2 -
+/user/filemanager 2 -
+/filemanager/dialog.php 1 -
+/app-ads.txt 1 -
+/backend/laravel-filemanager 2 -
+/plugins/filemanager 2 -
+/filemanager 2 -
+/user/file-manager 2 -
+/vendor/filemanager 1 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/jquery.counterup.min.js 1 -
+/server 2 -
+/back-office/ppid-filemanager 2 -
+/ads.txt 4 -
+/public/asset/filemanager 2 -
+/public/backend/laravel-filemanager 2 -
+/public/admin/laravel-filemanager 2 -
+/public/asset/laravel-filemanager 2 -
+/.DS_Store 2 -
+/backend/file-manager 2 -
+/sellers.json 1 -
+/admin/laravel-filemanager 2 -
+/admin/filemanager 2 -
+/v2/_catalog 2 -
+/about 2 -
+/media/laravel-filemanager 2 -
+/public/plugins/filemanager 2 -
+/asset/laravel-filemanager 2 -
+/admin/file-manager 2 -
+/fm 2 -
+/public/file-manager 2 -
+/public/plugins/laravel-filemanager 2 -
+/wp-includes/ID3/license.txt 6 -
+/frontend-filemanager 2 -
+/login.action 2 -
+/vendor/laravel-filemanager 1 -
+/backend/filemanager 2 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/jquery.js 1 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/waypoints.min.js 1 -
+/_all_dbs 2 -
+/asset/filemanager 2 -
+/user/laravel-filemanager 2 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/isotope.pkgd.min.js 1 -
+/js/laravel-filemanager 2 -
+/actuator/env 2 -
+/media-manager 2 -
+/info.php 2 -
+/vendor/file-manager 1 -
+/public/plugins/file-manager 2 -
+/s/5333e24353e28313e2931313/_/ 2 -
+/fmanager 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 35
+35.171.144.152 3 3 21522 20250119121816
+54.88.179.33 3 3 21502 20250119121815
+149.88.22.69 3 3 106527 20250120220714
+119.18.54.35 2 2 128 20250119163800
+45.144.227.14 2 2 71018 20250123002912
+188.166.247.193 2 2 14328 20250113085044
+47.128.67.218 1 1 87 20250119163807
+206.168.34.67 1 2 27669 20250110142620
+106.75.168.5 1 1 35509 20250119164225
+35.95.112.155 1 1 7174 20250126214312
+106.75.157.14 1 1 35549 20250119164059
+206.168.34.76 1 2 27659 20250129203000
+51.158.205.64 1 1 7174 20250119164032
+87.236.176.223 1 1 7164 20250123151616
+16.170.171.152 1 1 87 20250119163808
+64.227.129.202 1 1 7174 20250110130259
+162.142.125.223 1 2 27659 20250117135251
+15.204.103.142 1 1 35509 20250121093823
+23.178.112.216 1 1 87 20250119163807
+161.35.57.200 1 1 7164 20250128113537
+64.23.155.44 1 1 7174 20250122185441
+167.94.138.192 1 2 27669 20250117041045
+142.93.153.212 1 1 7174 20250124072933
+162.142.125.46 1 2 27669 20250113001213
+167.94.138.35 1 2 27659 20250107031340
+54.188.53.202 1 1 87 20250119163808
+157.245.204.205 1 1 35509 20250102083624
+18.227.111.41 1 1 87 20250119163808
+207.154.212.47 1 1 35549 20250101063836
+205.210.31.221 1 1 35509 20250128080334
+132.145.29.111 1 1 35509 20250120021442
+162.142.125.200 1 2 27659 20250106224514
+167.94.138.44 1 2 27669 20250126225836
+51.89.142.176 1 1 35509 20250108022049
+206.168.34.71 1 2 27659 20250113013920
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20250101 1 1 35549 1
+20250102 1 1 35509 1
+20250106 1 2 27659 1
+20250107 1 2 27659 1
+20250108 1 1 35509 1
+20250109 3 3 21512 2
+20250110 3 4 42007 3
+20250113 3 5 62492 3
+20250117 2 4 55328 2
+20250119 14 14 135816 13
+20250120 3 3 106527 3
+20250121 1 1 35509 1
+20250122 2 2 42683 2
+20250123 2 2 42673 2
+20250124 1 1 7174 1
+20250126 2 3 34843 2
+20250128 2 2 42673 2
+20250129 1 2 27659 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 42
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 37 633763 36 36
+/.well-known/acme-challenge/44XrzJLIELO1HuJbxfyr5T5GcM7ynkqo90ZuT_jjTyU 5 435 5 5
+/.well-known/acme-challenge/7X78XL9QHEHU2H10HN01A6SJ6IKQPEJ5 1 64 0 1
+/.well-known/acme-challenge/KF2DJ7_Y87H64812J9VLXIZAJR10V6OX 1 64 1 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 5
+100-500 75
+2K-5K 17
+0-44 4
+5K+ 53
+44-100 13
+END_FILESIZE

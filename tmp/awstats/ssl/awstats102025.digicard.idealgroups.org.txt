@@ -1,0 +1,1023 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202510 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2097                
+POS_TIME 2758                
+POS_VISITOR 20580               
+POS_DAY 22401               
+POS_DOMAIN 3426                
+POS_LOGIN 3771                
+POS_ROBOT 3926                
+POS_WORMS 4197                
+POS_EMAILSENDER 4328                
+POS_EMAILRECEIVER 4471                
+POS_SESSION 22809               
+POS_FILESIZE 23268               
+POS_REQUESTTIME 23414               
+POS_SIDER 23005               
+POS_FILETYPES 4606                
+POS_DOWNLOADS 4712                
+POS_OS 4760                
+POS_BROWSER 5033                
+POS_SCREENSIZE 5663                
+POS_UNKNOWNREFERER 5737                
+POS_UNKNOWNREFERERBROWSER 6081                
+POS_ORIGIN 6233                
+POS_SEREFERRALS 6369                
+POS_PAGEREFS 6513                
+POS_SEARCHWORDS 6661                
+POS_KEYWORDS 6813                
+POS_MISC 2422                
+POS_ERRORS 6872                
+POS_CLUSTER 3627                
+POS_SIDER_404 7057                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251101070707 4 750 13198516196718
+FirstTime 0
+LastTime 20251031231110
+LastUpdate 20251101184911 4 0 3 0 0
+TotalVisits 55                  
+TotalUnique 45                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 45                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 2 2 2071 200 200 18941
+2 4 4 4146 4 6 2654
+3 1 1 1038 6 6 5354
+4 26 26 102298 572 572 2324383
+5 0 0 0 2 2 452
+6 65 65 218190 1067 1068 4663311
+7 10 10 85584 197 197 19035
+8 13 13 15800 10 29 838116
+9 8 8 8322 3 4 3697
+10 2 2 2089 0 3 2428
+11 0 0 0 2 2 0
+12 4 4 4181 7 8 16046
+13 3 3 5398 13 13 5916
+14 4 4 9857 66 67 501011
+15 2 2 4354 10 10 3009
+16 7 7 9599 37 40 45539
+17 1 1 1036 5 5 2880
+18 5 5 5222 25 30 1257041
+19 3 3 3125 12 14 8178
+20 1 1 1044 8 10 402995
+21 0 0 0 3 3 392
+22 2 2 2080 9 17 30030
+23 4 4 4171 5 5 249
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 121 121 431470
+cn 19 19 19772
+in 12 12 12492
+ru 7 7 12964
+gb 2 2 2090
+de 2 2 6636
+au 1 1 1044
+al 1 1 1044
+be 1 1 1045
+ca 1 1 1048
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 5 16566 20251025142114 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 2088 20251020091721 0
+bot[\s_+:,\.\;\/\\-] 2 2078 20251015085526 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+Unknown 53 359387 0 0
+html 114 130218 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+linux 13 13
+ios_iphone 77 77
+androidmarshmallow 1 1
+macosx 1 1
+win10 17 17
+macosx11 4 4
+Unknown 8 8
+macosx15 1 1
+androidpie 5 5
+win98 2 2
+win7 7 7
+android12 23 23
+androidoreo 1 1
+wince 1 1
+androidnougat 6 6
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 32
+chrome60.0.3112.107 6 6
+firefox56.0 1 1
+opera9.64 1 1
+firefox47.0 4 4
+safari 76 76
+Unknown 2 2
+opera8.65 1 1
+chrome141.0.0.0 2 2
+chrome100.0.4896.60 1 1
+chrome139.0.0.0 5 5
+chrome136.0.0.0 3 3
+android 5 5
+chrome58.0.3029.110 5 5
+chrome137.0.0.0 1 1
+chrome132.0.0.0 2 2
+chrome112.0.0.0 1 1
+firefox139.0 2 2
+chrome47.0.2526.106 4 4
+safari1.3.1 1 1
+chrome138.0.0.0 1 1
+mozilla 6 6
+opera8.51 1 1
+msie9.0 1 1
+opera7.01 1 1
+chrome52.0.1997.98 1 1
+chrome114.0.0.0 23 23
+chrome91.0.4472.124 2 2
+chrome134.0.0.0 4 4
+chrome5.0.342.3 1 1
+chrome57.0.2987.132 1 1
+iphone 1 1
+firefox124.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+python-httpx/0.28.1 20251022183548
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20251031231110
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20251031021340
+python-httpx/0.24.1 20251021060038
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+python-httpx/0.28.1 20251022183548
+python-httpx/0.24.1 20251021060038
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 144 144
+From1 6 6
+From2 0 0
+From3 0 0
+From4 17 17
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+406 182 33900
+405 7 2813509
+404 1506 3702660
+500 8 3521701
+409 527 43741
+403 12 4260
+302 13 2736
+301 33 8418
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 636
+/hdfcbk 4 -
+/vendor/.env.save 1 -
+/d05cfa29-d652-4d21-ad96-98208cf7ead2 1 -
+/aadhaar-number-seeding 1 -
+/india 4 -
+/caches 4 -
+/ilomgeneralinsurance 4 -
+/linkbasedpayment 1 -
+/bhimrecharge 1 -
+/invoice 4 -
+/api/swagger.json 1 -
+/erupi 2 -
+/dbadmin 4 -
+/0-gravity-beachclub 1 -
+/national-financial-switch 1 -
+/public/.env.save 1 -
+/dubaiharbourmarinas 1 -
+/cache 4 -
+/nationalpaymentscorporation 1 -
+/ncmc-wallet 1 -
+/prize 4 -
+/dashboard 4 -
+/nuup-npci 1 -
+/hdfclifere 4 -
+/authorize 4 -
+/swagger/swagger-ui.html 1 -
+/hdfcpension 4 -
+/aadharatmpay 2 -
+/savings 4 -
+/4404846b03364d03bd1654e6b077f5b8 1 -
+/icicibankltd 4 -
+/apbsnpci 1 -
+/verify 4 -
+/card 4 -
+/netc-program 1 -
+/web 4 -
+/zabeel-saray 1 -
+/.env.development 2 -
+/themes/.env.save 1 -
+/aadhaar-authentication 1 -
+/valmo 4 -
+/hdfcbankbahrain 4 -
+/assets/.env.save 1 -
+/aadhaarpaymentbridge 1 -
+/naiaisland 4 -
+/immediatepaymentservice 1 -
+/chequetruncationsystem 1 -
+/rgcsnpci 1 -
+/bankonline 4 -
+/files 4 -
+/bbps-npci 1 -
+/phpmyadmin 4 -
+/upimoney 2 -
+/baccarat-residences-dubai 1 -
+/csfcamps 4 -
+/9d91d10b-4900-4bfc-91d8-5daad3471091 1 -
+/fiveguys 4 -
+/xdubaipark 1 -
+/dubaiharbour 4 -
+/auth 4 -
+/security 4 -
+/manage 4 -
+/al-meida-villas 1 -
+/0-gravity 4 -
+/insurancearticlez 4 -
+/real-time-gross-settlement 1 -
+/acc0e74e-f927-45f9-8579-19ef9b9e3091 1 -
+/password 4 -
+/nayaisland 1 -
+/userpanel 4 -
+/immediate-payment-service 1 -
+/digisaathi 4 -
+/b2168001-bf4f-43ca-ae59-6e042034753c 1 -
+/rupayprepaidcard 1 -
+/bhimnpci 1 -
+/upipin 1 -
+/51c77f90dc4849058c7ed445d0b48329 1 -
+/admin 4 -
+/server/config/database.js 1 -
+/93575a02-f150-4f32-907e-5c61a6586ab6 1 -
+/statement 4 -
+/system/.env.save 1 -
+/naaiaisland 1 -
+/bank 4 -
+/bharatconnect 2 -
+/hdfcbankhongkong 4 -
+/offer 4 -
+/nationalelectronictollcollection 1 -
+/kitebeachdubai 1 -
+/npciinternationalpaymentslimited 2 -
+/registration 4 -
+/includes/.env.save 1 -
+/national-payments 1 -
+/ilgic 4 -
+/ilomgic 4 -
+/meeshodesign 4 -
+/hellowin 4 -
+/signup 4 -
+/hidden 4 -
+/shamal-holding 1 -
+/private-data 4 -
+/theislandbyshamal 1 -
+/config/.env.save 1 -
+/claim 4 -
+/logs 4 -
+/shamal-island 1 -
+/xyogadubai 4 -
+/skydivedubaiaed 1 -
+/bhim-recharge 1 -
+/the-island-umm-suqeim 1 -
+/bhim-app 1 -
+/national-unified-ussd-platform 1 -
+/core/.env.save 1 -
+/bhim-npci 1 -
+/.env_sample 1 -
+/root/img/loading.gif 2 https://www.digicard.idealgroups.org/root/img/loading.gif
+/myicicilombard 4 -
+/icicilombardmail 4 -
+/rupayglobal 1 -
+/experience-naia 1 -
+/orders 4 -
+/islandbyshamal 1 -
+/staff 4 -
+/swagger-ui.html 1 -
+/portal 4 -
+/hdfcbankcares 4 -
+/bbpsnpci 1 -
+/umm-suqeim-island-by-shamal 1 -
+/password-reset 4 -
+/mail 4 -
+/v2/api-docs 1 -
+/staffs 4 -
+/order 4 -
+/backups 4 -
+/naiadubay 1 -
+/inflight-dubai 1 -
+/xparkjr 4 -
+/card-to-card-fund-transfer 1 -
+/upinpci 1 -
+/naia-island-project 1 -
+/reward 4 -
+/naidubai 1 -
+/fishfarmllc 1 -
+/.git/config 14 -
+/upi-handle 1 -
+/visitnaiadubai 1 -
+/profiles 4 -
+/icicilombardmails 4 -
+/dubai-harbour-marinas 1 -
+/neftinternetbanking 1 -
+/upi 4 -
+/nuupnpci 1 -
+/.env.local 3 -
+/root 4 -
+/apbs-npci 1 -
+/naaia-island 1 -
+/dubaiharbourresidences 4 -
+/bhimspoof 2 -
+/icicihfc 4 -
+/hdfc-ergo-uat 1 -
+/meraas 4 -
+/0gravitybeachclub 1 -
+/naia-island-dubai 1 -
+/jetman 4 -
+/rupay-global 1 -
+/umm-suqeim-island-dubai 1 -
+/naiaislanddubai 1 -
+/dubai-harbour-residences 1 -
+/.env.sample 1 -
+/secret 4 -
+/app/.env.save 1 -
+/engage-il 4 -
+/shamalholding 4 -
+/rgcs-npci 1 -
+/theespressolab 4 -
+/settings 4 -
+/hdfc-securities-limited 2 -
+/cts-npci 1 -
+/emails 4 -
+/aadhaar-payment-bridge 1 -
+/icicilombard 4 -
+/admin/.env.save 1 -
+/hdfcsec 4 -
+/otto-buddy 3 -
+/nadalshebagarden 1 -
+/webjars/swagger-ui/index.html 1 -
+/lombard-icici 3 -
+/skydivedubai 4 -
+/email 4 -
+/bharat-ecommerce-payment-gateway 1 -
+/baccaratresidencesdubai 4 -
+/valmo-franchise 1 -
+/thewppa 4 -
+/graphql 1 -
+/src/.env.save 1 -
+/stayatnaia 1 -
+/fish-farm-llc 1 -
+/bhim-spoof 2 -
+/upichalega 4 -
+/withdraw 4 -
+/authorization 4 -
+/aadhaarenabledpaymentsystem 1 -
+/api/.env.save 1 -
+/sessions 4 -
+/insuranceprod 4 -
+/icici 4 -
+/lombardicici 3 -
+/cheque-truncation-system 1 -
+/nationalcommonmobilitycard 1 -
+/secure 4 -
+/skydive-dubai-aed 1 -
+/neft-npci 1 -
+/hdfcergouat 1 -
+/shamaldevelopment 4 -
+/rupay-global-clearing-system 1 -
+/npci-clearing-house 1 -
+/hdfccapital 4 -
+/transfer 4 -
+/bharat-billpay 1 -
+/nasgardens 4 -
+/ummsuqeimislandbyshamal 1 -
+/rupay-contactless 1 -
+/inflightdubai 4 -
+/rupay-prepaid-card 1 -
+/bharatinterfaceformoney 1 -
+/nationalfinancialswitch 1 -
+/bhimaadhaarpay 1 -
+/national-electronic-funds-transfer 1 -
+/npcimapper 1 -
+/0gravitydubai 1 -
+/25d67f97-7883-429c-b7bd-dfb27f9c2d5b 1 -
+/nfinite 4 -
+/thooq 4 -
+/impsnpci 1 -
+/netcprogram 1 -
+/naia-dubay 1 -
+/app-ads.txt 2 -
+/wp-admin 9 https://wordpress.org/
+/store 4 -
+/robots.txt 4 -
+/upigateway 2 -
+/discover-naia 1 -
+/meeshoaiservices 4 -
+/nad-al-sheba-garden 1 -
+/balance 4 -
+/keys 4 -
+/houtai/img/loading.gif 2 https://www.digicard.idealgroups.org/houtai/img/loading.gif
+/hdfcergohealth 4 -
+/immediate-payment-system 1 -
+/upi-pin 1 -
+/sushisamba 4 -
+/hdfcergogeneralinsurancecompanylimited 1 -
+/.env.save 1 -
+/bharatbillpay 4 -
+/naia-dubaiisland 1 -
+/bharat-bill-payment-central-unit 1 -
+/aeps 1 -
+/manager/img/loading.gif 2 https://www.digicard.idealgroups.org/manager/img/loading.gif
+/ads.txt 2 -
+/1acf76f7-1247-4250-a3f1-80a4ca1877bc 1 https://www.digicard.idealgroups.org/1acf76f7-1247-4250-a3f1-80a4ca1877bc/
+/skyhub-dubai 1 -
+/nipl 4 -
+/nachapb 1 -
+/national-payments-corporation-of-india 1 -
+/bharatbillpaymentsystem 1 -
+/.env.tmp 1 -
+/bharat-connect 4 -
+/npcivajra 1 -
+/www 4 -
+/icici-lombard-gic 3 -
+/shamalisland 1 -
+/the-island-by-shamal 1 -
+/cart 4 -
+/upihandle 1 -
+/adminpanel 4 -
+/skyhub 4 -
+/umm-suqeim-island 1 -
+/gofast 4 -
+/autoninja 4 -
+/shamalinvestments 4 -
+/hdfc-ergo 1 -
+/mailer 4 -
+/netc---npci 1 -
+/hdfcergohealthinsurancecompanylimited 1 -
+/common-service-area 1 -
+/storage/.env.save 1 -
+/checkout 4 -
+/backup 4 -
+/api/config.env 1 -
+/hdfcergoknowledge 4 -
+/hdfcfund 4 -
+/.git 1 https://digicard.idealgroups.org/.git/
+/service/email_service.py 1 -
+/hdfcbankfinancialservices 4 -
+/test 4 -
+/upi-app 1 -
+/accounts 4 -
+/apis 4 -
+/2e5b2805-dc83-460e-b296-7db2b4ba021e 1 https://www.digicard.idealgroups.org/2e5b2805-dc83-460e-b296-7db2b4ba021e/
+/imps-npci 1 -
+/.env.prod 2 -
+/hdfc-ergo-general-insurance-company-limited 1 -
+/valmofranchise 1 -
+/bharat-qr 1 -
+/bcresidences 4 -
+/hbctxdom 4 -
+/nach-system 1 -
+/bhimcustomer 2 -
+/netcnpci 1 -
+/naia-dubae 1 -
+/hdfcbankfastag 4 -
+/archives 4 -
+/hdfccredila 4 -
+/thehdfcschool 4 -
+/hdfc 4 -
+/national-electronic-toll-collection 1 -
+/upi-gateway 2 -
+/api-docs/swagger.json 1 -
+/secrets 4 -
+/hdfchealth 4 -
+/neftnpci 1 -
+/swagger/index.html 1 -
+/ilgicltd 4 -
+/nfs-switch 1 -
+/nationalelectronicfundstransfer 1 -
+/bharatbillpaymentoperatingunit 1 -
+/nachsystem 1 -
+/bhimqr 1 -
+/deepdivedubai 4 -
+/national-payments-corporation 1 -
+/netctransactions 1 -
+/bharat-bill-payment-operating-unit 1 -
+/netc-fastag 1 -
+/netcfastag 1 -
+/nfsnpci 1 -
+/loan 4 -
+/realtimegrosssettlement 1 -
+/upi-money 2 -
+/0-gravity-dubai 1 -
+/upiapp 1 -
+/unlock 4 -
+/naiaislandproject 1 -
+/baccarathotelandresidences 1 -
+//idealgroups.org/digicard/public/js/coreui.bundle.min.js 7 -
+/members 4 -
+/carts 4 -
+/iltakecare 3 -
+/upi-qr 1 -
+/icicigroupcompanies 4 -
+/rtgs-npci 1 -
+/jiwin-invest 4 -
+/home-page 4 -
+/system/img/loading.gif 2 https://www.digicard.idealgroups.org/system/img/loading.gif
+/ninjacrm 4 -
+/bharat-clearing-settlement 1 -
+/icicilombardgic 3 -
+/nfsswitch 1 -
+/nach-apb 1 -
+/icici-lombard-ozone 2 -
+/dubaifilm 4 -
+/npciupi 1 -
+/valmologistics 1 -
+/hdfc-ergo-health-insurance-company-limited 1 -
+/icicibank 4 -
+/bharatbillpaymentcentralunit 1 -
+/phpinfo 1 -
+/national-common-mobility-card 1 -
+/shoofo 4 -
+/rupay-credit-card 1 -
+/meeshogrocery 4 -
+/lib/.env.save 1 -
+/uploads 4 -
+/.env.production 2 -
+/help 4 -
+/icici-lombard 4 -
+/nayaa-island 1 -
+/.env.test 2 -
+/islandatummsuqeim 1 -
+/allthingsev 4 -
+/support 4 -
+/bbpou 1 -
+/npcisupport 4 -
+/naiadubaiisland 1 -
+/hdfcergo-uat 1 -
+/naiadubae 1 -
+/private 4 -
+/bhimapp 1 -
+/risellc 4 -
+/clients 4 -
+/link-based-payment 1 -
+/administrator/img/loading.gif 2 https://www.digicard.idealgroups.org/administrator/img/loading.gif
+/htparekhfoundation 4 -
+/hdfc-bank-financial-services 3 -
+/token 4 -
+/821fef9eb5d6419cbc5b4f2765e30e6d 1 -
+/naiaa-island 1 -
+/recover 4 -
+/upiid 1 -
+/virtual-payment-address 1 -
+/new/.env.local 1 -
+/tokens 4 -
+/cardtocardfundtransfer 1 -
+/extremeflight 4 -
+/nasgardensquare 4 -
+/be25ccf4-17ed-41b1-b384-02fc799cbc28 1 -
+/randsinvestments 4 -
+/meeshoapp 4 -
+/invoices 4 -
+/upiqr 2 -
+/visit-naiadubai 1 -
+/visitnaia-dubai 1 -
+/v3/api-docs 1 -
+/nationalautomatedclearinghouse 1 -
+/bharat-switch 1 -
+/bhim 1 -
+/hartshoreditch 4 -
+/icicibankbahrain 4 -
+/hdfclife-international 4 -
+/activate 4 -
+/authentication 4 -
+/interoperablecardlesscashwithdrawal 1 -
+/ebanking 4 -
+/npci-international-payments-limited 2 -
+/ncmcwallet 1 -
+/icicilombardemail 4 -
+/thesquareatnas 4 -
+/naia-island 1 -
+/npci-mapper 1 -
+/.env.stage 1 -
+/hdfcsecuritieslimited 3 -
+/fishfarmdubai 1 -
+/npcinet 1 -
+/neft-internet-banking 1 -
+/nayaaisland 1 -
+/reprobiotech 4 -
+/island-at-umm-suqeim 1 -
+/npciclearinghouse 1 -
+/life99 4 -
+/valmo-delivery-partner 1 -
+/npci-vajra 1 -
+/sys 4 -
+/0202020e4cc8469386685b83618e1f64 1 -
+/bhim-making-india-cashless 1 -
+/downloads 4 -
+/app/img/loading.gif 2 https://www.digicard.idealgroups.org/app/img/loading.gif
+/billing 4 -
+/national-automated-clearing-house 1 -
+/ipartnermobileicicilombard 3 -
+/hdfcsales 4 -
+/ottobuddy 3 -
+/rupay 4 -
+/meeshosupplier 4 -
+/bhim-customer 1 -
+/itraceit 4 -
+/sales 4 -
+/netbanking 4 -
+/configurations 4 -
+/unifiedpaymentsinterface 1 -
+/ipartner-mobile-icici-lombard 3 -
+/log 4 -
+/rupay-select 1 -
+/verification 4 -
+/valmodeliverypartner 1 -
+/ummsuqeimisland 1 -
+/xdubai 4 -
+/ilgicdash 4 -
+/bhim-aadhaar 1 -
+/nfs-npci 1 -
+/bbpcu 1 -
+/dropzone 4 -
+/bharat-bill-payment-system 1 -
+/shamalgroup 4 -
+/config.env 1 -
+/rtgsnpci 1 -
+/virtualpaymentaddress 1 -
+/il-take-care 3 -
+/baccarat-hotel-and-residences 1 -
+/cruisedubai 4 -
+/meeshosuppliers 4 -
+/default 4 -
+/deep-dive-dubai 1 -
+/naia-dubai-island 1 -
+/hdfcpropertyfund 4 -
+/main 4 -
+/plugins/.env.save 1 -
+/graphql/api 1 -
+/application/.env.save 1 -
+/bhim-upi 1 -
+/hdfclife 4 -
+/naya-island 1 -
+/zabeelsaray 1 -
+/administrator 4 -
+/123pay 2 -
+/banking 4 -
+/api/shared/config/config.env 1 -
+/hdbfs 4 -
+/password-recovery 4 -
+/ummsuqeimislanddubai 1 -
+/upipay 2 -
+/interoperable-cardless-cash-withdrawal 1 -
+/naiaaisland 1 -
+/.env.dist 1 -
+/almedmar 4 -
+/aadhaar-enabled-payment-system 1 -
+/shop 4 -
+/skydiveempuriabrava 4 -
+/customer 4 -
+/ilom 4 -
+/xdubai-shop 1 -
+/valmo-logistics 1 -
+/rupayselect 1 -
+/swagger.json 1 -
+/kitebeach 4 -
+/4c2b10b2-8ec1-4ca3-9e56-80843507b335 1 https://www.digicard.idealgroups.org/4c2b10b2-8ec1-4ca3-9e56-80843507b335/
+/discovernaia 1 -
+/management 4 -
+/upload 4 -
+/prodicicilombard 4 -
+/island-by-shamal 1 -
+/bhimmakingindiacashless 1 -
+/temp 4 -
+/zabeelinvestments 4 -
+/bharatclearingsettlement 1 -
+/configuration 4 -
+/sql 4 -
+/immediatepaymentsystem 1 -
+/bharat-interface-for-money 1 -
+/member 4 -
+/bharatecommercepaymentgateway 1 -
+/.env.production.local 1 -
+/sites/favicon.png 1 -
+/user 4 -
+/rupaycreditcard 1 -
+/almaktab 4 -
+/file 4 -
+/shamal 4 -
+/_all_dbs 1 -
+/bhim-qr 1 -
+/tmp 4 -
+/api/gql 1 -
+/api/shared/config.env 1 -
+/upi-pay 2 -
+/hdfcbank 4 -
+/aepsnpci 1 -
+/stayat-naia 1 -
+/bhimaadhaar 1 -
+/iciciventure 4 -
+/ucms/img/loading.gif 2 https://www.digicard.idealgroups.org/ucms/img/loading.gif
+/refund 4 -
+/hellowyn 4 -
+/dubai360 4 -
+/admin/img/loading.gif 2 https://www.digicard.idealgroups.org/admin/img/loading.gif
+/hdfcergo 4 -
+/client 4 -
+/key 4 -
+/nationalpaymentscorporationofindia 1 -
+/session 4 -
+/bhim-payments 1 -
+/fastag 1 -
+/hdfc-bank 4 -
+/old 4 -
+/kite-beach-dubai 1 -
+/nachnpci 1 -
+/onoc-npci 1 -
+/bhim-aadhaar-pay 1 -
+/insurancepp 4 -
+/update 4 -
+/node/.env_example 1 -
+/aadhaarauthentication 1 -
+/npci-upi 1 -
+/hdfcbank-cares 4 -
+/data 4 -
+/almeidavillas 1 -
+/naia-dubai 1 -
+/fish-farm-dubai 1 -
+/system 4 -
+/upi-npci 1 -
+/xdubaishop 4 -
+/reset 4 -
+/f389fd88-b934-4253-9034-264a91056858 1 -
+/netc 4 -
+/aeps-npci 1 -
+/upi-id 1 -
+/icicidirect 4 -
+/api/graphql 1 -
+/nationalunifiedussdplatform 1 -
+/deposit 4 -
+/download 4 -
+/onocnpci 1 -
+/unified-payments-interface 1 -
+/db 4 -
+/coupon 4 -
+/nach-npci 1 -
+/fishfarm 4 -
+/api 5 -
+/sellers.json 2 -
+/hidden-files 4 -
+/50002f11-286e-497a-a04d-8f217da239f5 1 https://www.digicard.idealgroups.org/50002f11-286e-497a-a04d-8f217da239f5/
+/experiencenaia 1 -
+/naiadubai 1 -
+/icicilombardozone 2 -
+/aadhaarnumberseeding 1 -
+/rupaycontactless 1 -
+/bharat-bill-pay 2 -
+/bhimupi 4 -
+/interoperablecashdeposit 1 -
+/credit 4 -
+/.env.dev 2 -
+/modules/.env.save 1 -
+/transaction 4 -
+/ctsnpci 1 -
+/nationalpayments 1 -
+/admin/.env 5 -
+/bharatqr 1 -
+/skyhubdubai 1 -
+/databases 4 -
+/cp 4 -
+/signin 4 -
+/archive 4 -
+/bhimpayments 1 -
+/interoperable-cash-deposit 1 -
+/upi-chalega 1 -
+/e-rupi 2 -
+/rupayglobalclearingsystem 1 -
+/service 4 -
+/naia-islanddubai 1 -
+/.env.staging 2 -
+/commonservicearea 1 -
+/theislandummsuqeim 1 -
+/bharatswitch 1 -
+/account 4 -
+/confirm 4 -
+/npci 4 -
+/netc-transactions 1 -
+/swagger/v1/swagger.json 1 -
+/meesho 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 45
+34.11.205.87 57 57 172261 20251023062323
+34.53.58.250 25 25 101261 20251024072737
+113.31.186.146 6 6 6250 20251020084424
+45.138.16.143 6 6 6223 20251022161708
+136.117.89.213 5 5 42789 20251023070549
+121.237.36.31 5 5 5199 20251020095954
+183.134.59.131 5 5 5197 20251020084632
+104.196.254.129 5 5 42797 20251023043726
+34.169.86.179 4 4 41752 20251023071133
+195.178.110.68 4 4 9857 20251025142557
+44.244.104.107 4 4 4151 20251022013521
+27.61.150.188 2 2 2127 20251031164518
+51.159.102.248 2 2 2090 20251021184322
+16.171.132.226 2 2 2106 20251022183548
+45.131.155.100 2 2 2073 20251017015638
+176.65.149.195 2 2 6636 20251022135417
+13.158.78.28 2 2 2106 20251021060038
+195.178.110.159 2 2 2073 20251007165620
+92.60.40.229 1 1 1044 20251022221943
+44.193.254.10 1 1 1036 20251022173124
+159.89.234.128 1 1 1048 20251024120112
+199.45.155.94 1 1 1037 20251014180242
+35.230.62.220 1 1 1044 20251022123027
+103.149.13.191 1 1 1035 20251005040008
+35.247.99.255 1 1 1044 20251022122757
+206.168.34.205 1 1 1044 20251009204453
+123.178.210.191 1 1 1043 20251020101915
+124.236.100.56 1 1 1044 20251024093207
+138.68.82.23 1 1 3318 20251021162415
+206.168.34.194 1 1 1043 20251011190520
+159.203.58.244 1 1 1046 20251008104624
+185.247.137.234 1 1 1034 20251018183739
+54.156.67.126 1 1 1046 20251022231042
+45.131.155.101 1 1 1034 20251027163530
+121.237.36.29 1 1 1039 20251020090202
+87.236.176.118 1 1 1045 20251031231110
+167.71.134.110 1 1 1036 20251018135049
+174.138.87.134 1 1 1036 20251005020712
+139.59.18.142 1 1 1044 20251022130503
+204.76.203.25 1 1 3318 20251024082703
+64.227.134.37 1 1 1035 20251005024815
+143.110.191.164 1 1 1045 20251022190132
+162.142.125.223 1 1 1038 20251031021340
+18.228.13.238 1 1 1036 20251005222049
+34.182.123.115 1 1 1045 20251022120835
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20251005 4 4 4142 4
+20251007 2 2 2073 2
+20251008 1 1 1046 1
+20251009 1 1 1044 1
+20251011 2 2 2080 2
+20251014 1 1 1037 1
+20251017 1 1 1036 1
+20251018 2 2 2070 2
+20251019 1 1 3318 1
+20251020 19 19 19764 6
+20251021 7 7 9594 5
+20251022 18 18 21030 14
+20251023 95 95 399817 6
+20251024 4 4 6453 4
+20251025 4 4 9857 1
+20251027 1 1 1034 1
+20251031 4 4 4210 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+0s-30s 46
+5mn-15mn 2
+15mn-30mn 2
+30mn-1h 3
+2mn-5mn 1
+1h+ 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 107 122906 51 46
+/login 17 20036 0 2
+/cpanel 8 108853 2 0
+/controlpanel 8 108855 1 0
+/webmail 8 108860 1 1
+/register 8 7424 0 1
+/public/ 7 7312 0 2
+/.env.example 3 3207 0 3
+/password/reset 1 2152 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+5K+ 52
+44-100 527
+0-44 32
+1K-2K 132
+100-500 208
+500-1K 13
+2K-5K 1514
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

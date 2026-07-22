@@ -1,0 +1,453 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202512 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.ugi.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2092                
+POS_TIME 2739                
+POS_VISITOR 11814               
+POS_DAY 11886               
+POS_DOMAIN 3316                
+POS_LOGIN 3527                
+POS_ROBOT 3682                
+POS_WORMS 3814                
+POS_EMAILSENDER 3945                
+POS_EMAILRECEIVER 4088                
+POS_SESSION 11942               
+POS_FILESIZE 12140               
+POS_REQUESTTIME 12258               
+POS_SIDER 12079               
+POS_FILETYPES 4223                
+POS_DOWNLOADS 4287                
+POS_OS 4335                
+POS_BROWSER 4400                
+POS_SCREENSIZE 4450                
+POS_UNKNOWNREFERER 4524                
+POS_UNKNOWNREFERERBROWSER 4611                
+POS_ORIGIN 4693                
+POS_SEREFERRALS 4823                
+POS_PAGEREFS 4967                
+POS_SEARCHWORDS 5115                
+POS_KEYWORDS 5267                
+POS_MISC 2403                
+POS_ERRORS 5326                
+POS_CLUSTER 3383                
+POS_SIDER_404 5455                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260101094738 2 226 9654410561461
+FirstTime 0
+LastTime 0
+LastUpdate 20260101190719 2 0 1 0 0
+TotalVisits 0                   
+TotalUnique 0                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 0                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 11 15 5039
+1 0 0 0 11 15 3423
+2 0 0 0 5 5 1517
+3 0 0 0 17 17 2937
+4 0 0 0 5 8 2939
+5 0 0 0 21 23 6130
+6 0 0 0 3 12 3776
+7 0 0 0 5 8 2324
+8 0 0 0 5 5 1058
+9 0 0 0 3 6 2001
+10 0 0 0 4 6 1872
+11 0 0 0 6 8 2584
+12 0 0 0 3 5 1420
+13 0 0 0 215 216 114706
+14 0 0 0 6 12 3472
+15 0 0 0 12 17 5037
+16 0 0 0 3 4 1420
+17 0 0 0 2 3 1065
+18 0 0 0 7 10 2001
+19 0 0 0 9 10 2586
+20 0 0 0 10 11 2326
+21 0 0 0 11 13 2810
+22 0 0 0 23 24 3958
+23 0 0 0 13 17 5271
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 0 0
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 329 144723
+403 59 23883
+406 49 11074
+409 24 1992
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 218
+/wp-content/themes/pridmag/ 1 -
+/wp-includes/rest-api/ 1 -
+/wp-includes/ID3/wp-includes/IXR/ 1 -
+/wp-content/plugins/backup-backup/includes/ 1 -
+/_profiler/phpinfo 1 -
+/ 16 -
+/.env.save 1 -
+/wp-includes/css/ 1 -
+/modules/mod_simplefileuploadv1.3/elements/ 1 -
+/wp-content/plugins/revslider/includes/external/page/ 1 -
+/wp-includes/images/smilies/ 1 -
+/.env.production 1 -
+/wp-content/plugins/seooyanz/ 1 -
+/wp-admin/ 1 -
+/wp-content/plugins/home/ 1 -
+/wp-content/plugins/linkpreview/ 1 -
+/public/_ignition/execute-solution 2 -
+/patriotic/wp-includes/images/smilies/ 1 -
+/.git/config 13 -
+/plugins/jquery.filer/uploads/ 1 -
+/wp-content/plugins/ubh/ 1 -
+/wp-content/plugins/WordPressCore/ 1 -
+/wp-content/plugins/ioxi/ioxi/ 1 -
+/.env.js 1 -
+/wp-content/themes/wp-pridmag/ 1 -
+/wp-includes/css/dist/ 1 -
+/components/ 1 -
+/fonts/ 1 -
+/wp-includes/IXR/ 1 -
+/ALFA_DATA/alfacgiapi/ 1 -
+/public/vendor/laravel-filemanager/js/script.js 2 -
+/wp-content/plugins/wp-file-manager/admin/ 1 -
+/wp-content/plugins/wp-hps/sh/ 1 -
+/wordpress/wp-includes/ 1 -
+/wp-content/themes/alera/ 1 -
+/wp-admin/css/colors/modern/ 1 -
+/admin/images/slider/ 1 -
+/assets/css/dist/ 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/ 1 -
+/wp-content/debug.log 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 -
+/wp-includes/blocks/group/ 1 -
+/wp-admin/css/ 1 -
+/wp-content/languages/ 1 -
+/wp-includes/images/crystal/ 1 -
+/_next/data 11 -
+/wp-admin/css/colors/ 1 -
+/wp-content/uploads/simple-file-list/ 1 -
+/wp-admin/js/dist/ 1 -
+/wp-includes/js/jcrop/ 1 -
+/wp-content/uploads/2024/ 1 -
+/wp-admin/css/colors/light/ 1 -
+/wp-includes/id3/ 1 -
+/wp-content/themes/tflow/ 1 -
+/wp-includes/sitemaps/ 1 -
+/wp-content/plugins/wp-diambar/includes/ 1 -
+/js/ 1 -
+/themes/pridmag/ 1 -
+/wp-content/uploads/2023/11/ 1 -
+/phpinfo 1 -
+/wp-includes/blocks/file/ 1 -
+/wp-content/ 1 -
+/vendor/laravel-filemanager/js/script.js 2 -
+/wp-content/uploads/ao_ccss/ 1 -
+/admin/controller/extension/extension/ 1 -
+/administrator/ 1 -
+/wp-includes/images/wlw/ 1 -
+/wp-includes/SimplePie/ 1 -
+/laravel.log 1 -
+/wp-content/plugins/seoplugins/ 1 -
+/wp-content/plugins/google-seo-rank/ 1 -
+/wp-content/plugins/apikey/ 1 -
+/.env.development 1 -
+/up/.well-known/ 1 -
+/wp-content/plugins/cache-wordpress/ 1 -
+/wp-includes/block-bindings/ 1 -
+/wp-includes/ 1 -
+/api/action 11 -
+/api/actions 11 -
+/wp-content/themes/seotheme/ 1 -
+/wp-content/plugins/pwnd/ 1 -
+/wp-includes/interactivity-api/ 1 -
+/wp-admin/network/ 1 -
+/include/ 1 -
+/wp-includes/ID3 1 -
+/wp-content/plugins/wp-theme-editor/ 1 -
+/wp-content/plugins/erinyani/ 1 -
+/wp-content/themes/twentytwentyfour/ 1 -
+/wp-content/plugins/wpeazvp/ 1 -
+/wp-includes/theme-compat/ 1 -
+/.env.example 2 -
+/wp-content/uploads/2021/ 1 -
+/admin/editor/ 1 -
+/images/ 1 -
+/wp-includes/js/ 1 -
+/wp-content/themes/ 1 -
+/css/ 1 -
+/wp-includes/PHPMailer/ 1 -
+/cache-wordpress/ 1 -
+/wp-content/plugins/aryabot/ 1 -
+/wp-includes/widgets/ 1 -
+/wp-includes/js/tinymce/plugins/fullscreen/ 1 -
+/wp-content/plugins/elementor/ 1 -
+/wp-admin/meta/ 1 -
+/wp-content/plugins/pwnd-1/ 1 -
+/wp-includes/js/plupload/ 1 -
+/mt/ 1 -
+/Admin/uploads/ 1 -
+/wp-includes/Text/ 1 -
+/includes/ 1 -
+/blog/wp-includes/ 1 -
+/cgi-bin/ 1 -
+/symfony/_profiler/phpinfo 1 -
+/wp-content/maintenance/ 1 -
+/wp-content/plugins/limit/ 1 -
+/wordpress/wp-admin/includes 1 -
+/wp-includes/fonts/ 1 -
+/wp-content/uploads/2023/ 1 -
+/_ignition/execute-solution 2 -
+/wp-content/themes/zakra/ 1 -
+/wp-content/themes/rishi/ 1 -
+/.env.prod 1 -
+/ALFA_DATA/ 1 -
+/wp-includes/wp-includes/ 1 -
+/wp-content/ALFA_DATA/alfacgiapi/ 1 -
+/wp-content/plugins/erin/ 1 -
+/wp-content/plugins/zaen/includes/ 1 -
+/tmps/ 1 -
+/_fragment 2 -
+/wp-content/themes/twentyfive/ 1 -
+/wp-content/uploads/revslider/templates/immersion-photography/ 1 -
+/wp-content/plugins/core/ 1 -
+/wp-includes/SimplePie/XML/ 1 -
+/wp-content/plugins/random/ 1 -
+/wp-admin/css/colors/ocean/ 1 -
+/wp-admin/js/widget/ 1 -
+/uploads/ 1 -
+/wp-includes/js/codemirror/ 1 -
+/logs/debug.log 1 -
+/routes/ 1 -
+/wp-admin/css/colors/sunrise/ 1 -
+/wp-content/mu-plugins/ 1 -
+/wp-content/plugins/Uwogh-Segs/ 1 -
+/wp-includes/l10n/ 1 -
+/wp-includes/Text/Diff/Renderer/ 1 -
+/modules/ 1 -
+/wp-includes/js/jquery/ 1 -
+/wp-content/plugins/cekidot/ 1 -
+/wp-includes/images/media/ 1 -
+/wp-includes/js/dist/ 1 -
+/apps 11 -
+/logs/error.log 1 -
+/wp-content/plugins/rencontre/inc/photo_import/ 1 -
+/wp-content/themes/sketch/ 1 -
+/wp-content/plugins/wp-freeform/ 1 -
+/wp-includes/blocks/ 1 -
+/wp-content/themes/sky-pro/ 1 -
+/wp-content/uploads/wpr-addons/forms/ 1 -
+/wp-content/themes/digital-download/ 1 -
+/upload/image/ 1 -
+/admin/uploads/images/ 1 -
+/wp-content/uploads/ 1 -
+/wp-content/plugins/core-stab/ 1 -
+//cdn.js 1 -
+/wp-admin/css/colors/ectoplasm/ 1 -
+/wp-includes/Requests/ 1 -
+/wp-content/plugins/cp-pro/ 1 -
+/wp-content/plugins/db/ 1 -
+/wp-admin/images/ 1 -
+/wp-includes/sitemaps/providers/ 1 -
+/wp-includes/customize/ 1 -
+/.tmb/ 1 -
+/admin/uploads/ 1 -
+/wp-includes/sodium_compat/lib/ 1 -
+/wp-includes/certificates/ 1 -
+/wordpress/wp-admin/includes/ 1 -
+/admin/.env 1 -
+/wp-includes/pomo/ 1 -
+/admin/tmp/ 1 -
+/wordpress/wp-admin/includes/wp-admin/js/ 1 -
+/wordpress/wp-content/uploads/ 1 -
+/wp-content/uploads/2022/ 1 -
+/storage/logs/laravel.log 1 -
+/wp-content/plugins/ 1 -
+/wp-content/plugins/owfsmac/ 1 -
+/wp-content/plugins/BrutalShell/ 1 -
+/templates/beez3/ 1 -
+/wp-admin/js/widgets/ 1 -
+/wp-admin/maint/ 1 -
+/home/ 1 -
+/blog/ 1 -
+/templates/atomic/ 1 -
+/robots.txt 39 -
+/wp-content/x/ 1 -
+/sites/default/files/ 1 -
+/about/ 1 -
+/wp-content/plugins/cakil/ 1 -
+/wp-content/plugins/fix/ 1 -
+/wp-content/plugins/seoo/ 1 -
+/wp-content/uploads/typehub/custom/ 1 -
+/wp-includes/blocks/query/ 1 -
+/wp-includes/images/ 1 -
+/admin/upload/ 1 -
+/wp-content/themes/thuoc-nam/ 1 -
+/wp-admin/user/ 1 -
+/.git/ 1 -
+/wp-admin/css/colors/blue/ 1 -
+/wp-includes/ID3/ 1 -
+/debug.log 1 -
+/site/wp-includes/ 1 -
+/wp-includes/assets/ 1 -
+/wp-content/upgrade/ 1 -
+/wp-includes/js/tinymce/langs/ 1 -
+/wp-content/plugins/prenota/ 1 -
+/wp-content/plugins/Cache/ 1 -
+/wp-content/plugins/dummyyummy/ 1 -
+/wp-admin/js/ 1 -
+/assets/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 0
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 0
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 4
+0-44 46
+44-100 24
+500-1K 212
+100-500 188
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

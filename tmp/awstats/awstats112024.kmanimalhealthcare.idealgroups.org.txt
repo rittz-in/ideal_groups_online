@@ -1,0 +1,378 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202411 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/awstats.kmanimalhealthcare.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2032                
+POS_TIME 2704                
+POS_VISITOR 8954                
+POS_DAY 11160               
+POS_DOMAIN 3306                
+POS_LOGIN 3633                
+POS_ROBOT 3788                
+POS_WORMS 4072                
+POS_EMAILSENDER 4203                
+POS_EMAILRECEIVER 4346                
+POS_SESSION 11393               
+POS_SIDER 11550               
+POS_FILETYPES 4481                
+POS_DOWNLOADS 4599                
+POS_OS 4647                
+POS_BROWSER 4824                
+POS_SCREENSIZE 5177                
+POS_UNKNOWNREFERER 5251                
+POS_UNKNOWNREFERERBROWSER 5666                
+POS_ORIGIN 5786                
+POS_SEREFERRALS 5918                
+POS_PAGEREFS 6062                
+POS_SEARCHWORDS 6286                
+POS_KEYWORDS 6438                
+POS_MISC 2368                
+POS_ERRORS 6497                
+POS_CLUSTER 3489                
+POS_SIDER_404 6630                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20241201125027 1 0 15393777709526
+FirstTime 20241119094639
+LastTime 20241129103419
+LastUpdate 20241201183117 1 0 0 0 0
+TotalVisits 56                  
+TotalUnique 55                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 55                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 16 114684 16 16 13167
+1 0 0 0 0 0 0
+2 2 3 34843 0 1 0
+3 0 0 0 1 1 35509
+4 2 3 63208 0 1 0
+5 0 0 0 0 0 0
+6 1 1 7164 3 4 109075
+7 2 2 14328 0 0 0
+8 2 3 63168 17 20 75936
+9 15 15 86307 40 46 171255
+10 2 2 42723 2 3 73446
+11 2 2 42683 2 2 71098
+12 9 10 311901 1 4 35549
+13 3 3 78192 23 25 22578
+14 0 0 0 2 2 71018
+15 2 2 14338 0 0 0
+16 2 2 14338 0 0 0
+17 2 2 71058 0 0 0
+18 1 1 7174 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 1 1 7174 0 0 0
+22 0 0 0 0 0 0
+23 6 6 43004 2 2 1646
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+us 48 52 518278
+ca 8 8 284232
+gb 4 4 85356
+zz 2 2 174
+be 2 2 14338
+cn 2 2 71058
+in 2 2 128
+sc 1 1 7174
+au 1 1 35549
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+no_user_agent 14 497406 20241130101519 0
+Go\-http\-client/ 6 22423 20241121084153 0
+curl 2 0 20241119095046 0
+archive\.org_bot 2 14477 20241119094739 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+png 4 81980 0 0
+Unknown 11 911 0 0
+html 59 933396 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+Unknown 21 17
+androidmarshmallow 3 3
+linux 5 5
+ios_iphone 7 7
+win7 2 2
+macosx15 8 8
+androidoreo 6 6
+win10 22 22
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 16
+edge18 7 7
+chrome52.0.1997.98 3 3
+chrome100.0.4896.60 3 3
+chrome124.0.0.0 2 2
+chrome49.0.2623.112 2 2
+chrome63.0.3239.111 6 6
+safari16.1 1 1
+safari15.4 5 5
+safari17.4.1 1 1
+chrome128.0.0.0 4 4
+chrome95.0.4638.69 2 2
+chrome113.0.0.0 4 4
+Unknown 2 2
+mozilla 19 15
+chrome130.0.0.0 8 8
+chrome129.0.0.0 5 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20241121063452
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20241127043201
+Cpanel-HTTP-Client/1.0 20241119094639
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20241119094646
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20241119094639
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 68 72
+From1 0 0
+From2 0 0
+From3 2 2
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://welmart.kesug.com 1 1
+https://cumbieadvisory-dev.us1.advisor.ws 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+301 2 508
+409 2 166
+403 3 1065
+404 68 139712
+406 20 4520
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 39
+/demo/guestId/1732214645212 1 http://www.kmanimalhealthcare.idealgroups.org/
+/demo/guestId/1732216439911 1 http://www.kmanimalhealthcare.idealgroups.org/
+/v2/_catalog 3 -
+/wp-includes/ID3/license.txt 2 -
+/demo/guestId/1732214758160 1 http://kmanimalhealthcare.idealgroups.org/
+/wp-admin/setup-config.php 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 3 -
+/server 3 -
+/demo/guestId/1732216358567 1 http://kmanimalhealthcare.idealgroups.org/
+/.DS_Store 3 -
+/login.action 3 -
+/demo/guestId/1732213355041 1 http://kmanimalhealthcare.idealgroups.org/
+/wordpress/wp-admin/setup-config.php 1 -
+/demo/guestId/1732216304235 1 http://kmanimalhealthcare.idealgroups.org/
+/demo/guestId/1732215255774 1 http://kmanimalhealthcare.idealgroups.org/
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/isotope.pkgd.min.js 1 -
+/demo/guestId/1732215260015 1 http://www.kmanimalhealthcare.idealgroups.org/
+/demo/guestId/1732215253423 1 http://www.kmanimalhealthcare.idealgroups.org/
+/demo/guestId/1732216365368 1 http://kmanimalhealthcare.idealgroups.org/
+/demo/guestId/1732214681002 1 http://kmanimalhealthcare.idealgroups.org/
+/telescope/requests 3 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/lightcase.js 1 -
+/demo/guestId/1732216310437 1 http://kmanimalhealthcare.idealgroups.org/
+/s/5333e24353e28313e2931313/_/ 3 -
+/debug/default/view 3 -
+/_all_dbs 3 -
+/.vscode/sftp.json 3 -
+/config.json 3 -
+/demo/guestId/1732214764644 1 http://kmanimalhealthcare.idealgroups.org/
+/sellers.json 2 -
+//kmanimalhealthcare.idealgroups.org/public/siteassets/js/functions.js 1 -
+/demo/guestId/1732214635934 1 http://www.kmanimalhealthcare.idealgroups.org/
+/demo/guestId/1732216394146 1 http://www.kmanimalhealthcare.idealgroups.org/
+/ads.txt 3 -
+/demo/guestId/1732214668958 1 http://kmanimalhealthcare.idealgroups.org/
+/demo/guestId/1732215264799 1 http://kmanimalhealthcare.idealgroups.org/
+/about 3 -
+/demo/guestId/1732213362261 1 http://kmanimalhealthcare.idealgroups.org/
+/app-ads.txt 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 55
+35.171.144.152 2 2 71098 20241121172943
+34.221.167.140 2 2 14328 20241121235239
+18.237.27.120 2 2 14348 20241122002417
+119.18.54.35 2 2 128 20241119094639
+35.93.136.110 2 2 14328 20241122004242
+35.92.225.177 2 2 14328 20241121231827
+54.185.233.106 2 2 14328 20241122002422
+44.243.158.57 2 2 14348 20241121233755
+44.244.201.23 2 2 14328 20241122001602
+50.112.76.110 2 2 14348 20241122004356
+141.98.252.205 2 2 71018 20241126133128
+44.244.60.196 2 2 14328 20241122004148
+34.219.86.95 2 2 14328 20241122001437
+35.162.238.159 2 2 14348 20241122001401
+64.15.129.123 2 2 71098 20241119123613
+165.22.192.129 1 1 7174 20241129103419
+35.94.63.248 1 1 87 20241119094645
+51.159.111.112 1 1 7164 20241119095038
+16.170.223.227 1 1 87 20241119094646
+87.236.176.114 1 1 7164 20241121063452
+167.94.145.97 1 2 27659 20241127043158
+23.178.112.107 1 1 87 20241119094644
+52.77.226.149 1 1 87 20241119094645
+192.175.111.248 1 1 35509 20241119123555
+192.175.111.233 1 1 35509 20241119123602
+104.194.200.7 1 1 7174 20241119154516
+207.154.197.113 1 1 35509 20241119094804
+54.88.179.33 1 1 35509 20241121172942
+165.231.253.215 1 1 7174 20241120025706
+16.170.133.56 1 1 87 20241119094646
+24.199.107.88 1 1 7174 20241119213820
+144.126.195.0 1 1 7174 20241123183614
+87.236.176.243 1 1 7174 20241120110308
+104.232.195.220 1 1 7174 20241119160118
+106.75.168.5 1 1 35549 20241119102025
+104.232.195.177 1 1 7164 20241119154517
+107.173.151.206 1 1 7174 20241120130811
+18.117.127.30 1 1 87 20241119094646
+64.15.129.121 1 1 35549 20241119123606
+192.175.111.240 1 1 35509 20241119123558
+64.227.125.196 1 1 7164 20241121074938
+104.232.194.174 1 1 7164 20241119160118
+23.178.112.103 1 1 87 20241119094645
+192.175.111.237 1 1 35549 20241119123614
+64.15.129.111 1 1 35509 20241119123604
+199.45.154.131 1 2 27659 20241120082412
+51.158.205.64 1 1 7174 20241119095049
+143.110.213.72 1 1 35509 20241121084144
+199.45.154.139 1 2 27669 20241120122122
+106.75.156.65 1 1 35509 20241119114021
+199.45.155.76 1 2 27669 20241123021635
+139.59.136.184 1 1 35549 20241119094804
+209.38.40.110 1 1 7164 20241123073851
+34.221.155.97 1 1 87 20241119094646
+13.228.29.119 1 1 87 20241119094646
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20241119 30 30 477447 28
+20241120 5 7 76850 5
+20241121 12 12 199448 9
+20241122 16 16 114684 8
+20241123 3 4 42007 3
+20241126 2 2 71018 1
+20241127 1 2 27659 1
+20241129 1 1 7174 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 55
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 59 933396 46 46
+/.well-known/acme-challenge/E_be9e2kxrxzSjYhVoaAENBDPuw9N-y8Xy_cVr5J9bI 5 435 5 5
+/.well-known/acme-challenge/3F3xdjxvYnJBSQ0gQedjPwBqlBkvcu0S7IYe3PRJo30 4 348 4 4
+/.well-known/acme-challenge/28_JI1LZ93B27ARAQ74Z1F465H7_QDBN 1 64 0 1
+/.well-known/acme-challenge/-SDFLTKH1IUTSD9KK3P-7LSLU2C_X66P 1 64 1 0
+END_SIDER

@@ -1,0 +1,608 @@
+/*************   About-Us Section   **********/
+.about-us {
+  .about-img {
+    position: relative;
+    padding-left: 100px;
+    @include media-breakpoint-down(lg) {
+      padding-left: 30px;
+    }
+    &::before {
+      content: "";
+      background-color: $blue-color;
+      position: absolute;
+      top: -50px;
+      left: 0;
+      width: 210px;
+      height: 450px;
+      z-index: 0;
+      @include media-breakpoint-down(lg) {
+        top: -30px;
+        height: 400px;
+      }
+      @include media-breakpoint-down(md) {
+        top: -20px;
+        height: 330px;
+        width: 120px;
+      }
+    }
+    &::after {
+      content: "";
+      border: 2px solid $secondary;
+      position: absolute;
+      bottom: -50px;
+      left: 50px;
+      width: 70%;
+      height: 340px;
+      z-index: 0;
+      @include media-breakpoint-down(lg) {
+        bottom: -40px;
+        left: 10px;
+        height: 280px;
+      }
+      @include media-breakpoint-down(md) {
+        bottom: -15px;
+        height: 210px;
+        width: 50%;
+      }
+    }
+    img {
+      position: relative;
+      z-index: 2;
+    }
+  }
+  .content {
+    display: flex;
+    height: 100%;
+    @include media-breakpoint-down(md) {
+      padding-top: 30px;
+    }
+    .info-area {
+      margin: auto 0;
+      @include media-breakpoint-down(md) {
+        padding-top: 30px;
+      }
+      .sub-title {
+        margin-bottom: 15px;
+        @include media-breakpoint-down(xl) {
+          margin-bottom: 10px;
+        }
+      }
+      .main-title {
+        font-weight: 400;
+        margin-bottom: 15px;
+        span {
+          font-weight: 700;
+        }
+      }
+      .main-para {
+        color: $secondary;
+      }
+      p {
+        color: $gray-color;
+        line-height: 1.7;
+        margin-bottom: 15px;
+      }
+    }
+  }
+}
+
+/*************  Services Section   **********/
+
+.services {
+  background-color: $primary;
+  padding-bottom: 0;
+  .title-area {
+    text-align: center;
+    margin-bottom: 50px;
+    @include media-breakpoint-down(md) {
+      margin-bottom: 30px;
+    }
+    p {
+      font-size: 24px;
+      color: $white;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+      @include media-breakpoint-down(xl) {
+        font-size: 20px;
+      }
+      @include media-breakpoint-down(md) {
+        font-size: 18px;
+      }
+    }
+    .main-title {
+      font-size: 45px;
+      font-weight: 700;
+      color: $white;
+      margin-bottom: 0;
+      @include media-breakpoint-down(xl) {
+        font-size: 30px;
+      }
+      @include media-breakpoint-down(md) {
+        font-size: 25px;
+      }
+    }
+  }
+  .img-slider {
+    .img-card {
+      position: relative;
+      p {
+        font-size: 30px;
+        font-weight: 600;
+        color: $white;
+        position: absolute;
+        top: 30px;
+        left: 30px;
+        margin-bottom: 0;
+        @include media-breakpoint-down(xl) {
+          font-size: 20px;
+        }
+      }
+      .arrow-more {
+        position: absolute;
+        bottom: 30px;
+        right: 30px;
+        background-color: $blue-color;
+        color: $white;
+        padding: 20px 25px;
+        transition: all 0.15s ease-in-out;
+        @include media-breakpoint-down(xl) {
+          padding: 10px 15px;
+          bottom: 20px;
+          right: 20px;
+        }
+        &:hover {
+          background-color: $white;
+          color: $secondary;
+        }
+        i {
+          font-size: 24px;
+        }
+      }
+    }
+  }
+  .owl-nav > button {
+    position: absolute;
+    top: -18%;
+    color: $white !important;
+    transition: all 0.15s ease-in-out;
+    @include media-breakpoint-down(xl) {
+      top: -20%;
+    }
+    &:hover {
+      color: $blue-color !important;
+    }
+    i {
+      font-size: 30px;
+    }
+
+    &.owl-prev {
+      left: 13%;
+      @include media-breakpoint-down(md) {
+        left: 5%;
+      }
+    }
+
+    &.owl-next {
+      right: 13%;
+      @include media-breakpoint-down(md) {
+        right: 5%;
+      }
+    }
+  }
+}
+
+/*************  Projects Section   **********/
+
+.projects {
+  @media only screen and (max-width: $desktop-1280) {
+    &.logo-before {
+      &::before {
+        display: none;
+      }
+    }
+    &.border-after {
+      &::after {
+        display: none;
+      }
+    }
+  }
+  .title-area {
+    text-align: center;
+    padding-bottom: 50px;
+    @include media-breakpoint-down(xl) {
+      padding-bottom: 30px;
+    }
+    .sub-title {
+      margin-bottom: 20px;
+      @include media-breakpoint-down(xl) {
+        margin-bottom: 10px;
+      }
+    }
+    .main-title {
+      margin-bottom: 20px;
+      @include media-breakpoint-down(xl) {
+        margin-bottom: 10px;
+      }
+    }
+    p {
+      color: $secondary;
+      margin-bottom: 0;
+    }
+  }
+  .project-img {
+    position: relative;
+    margin-bottom: 30px;
+    &:hover .img-info {
+      background-color: $white;
+      h6,
+      p {
+        color: $secondary;
+      }
+    }
+    img {
+      position: relative;
+      z-index: 0;
+    }
+    .img-info {
+      position: absolute;
+      bottom: 30px;
+      left: 0;
+      right: 0;
+      max-width: 88%;
+      margin: 0 auto;
+      z-index: 1;
+      background-color: $blue-color;
+      padding: 20px 30px;
+      transition: all 0.15s ease-in-out;
+      @include media-breakpoint-down(xl) {
+        padding: 15px;
+      }
+      @include media-breakpoint-down(lg) {
+        position: initial;
+        max-width: 100%;
+      }
+      h6 {
+        color: $white;
+        font-size: 22px;
+        font-weight: 600;
+        margin-bottom: 0;
+        min-height: 30px;
+        overflow: hidden;
+        -o-text-overflow: ellipsis;
+        text-overflow: ellipsis;
+        white-space: initial;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        @include media-breakpoint-down(xl) {
+          font-size: 18px;
+        }
+      }
+      p {
+        color: $white;
+        margin-bottom: 0;
+        min-height: 25px;
+        overflow: hidden;
+        -o-text-overflow: ellipsis;
+        text-overflow: ellipsis;
+        white-space: initial;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        @include media-breakpoint-down(xl) {
+          font-size: 16px;
+        }
+      }
+    }
+  }
+}
+
+/*************  Achievments Section   **********/
+
+.achievments {
+  position: relative;
+  background-image: url("../img/achivement-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 620px;
+  .achive-content {
+    .title-area {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      max-width: 750px;
+      padding-bottom: 70px;
+      margin: 0 auto;
+      @include media-breakpoint-down(lg) {
+        padding-bottom: 30px;
+      }
+      .sub-title {
+        color: $white;
+      }
+      .main-title {
+        color: $white;
+        margin-bottom: 30px;
+        @include media-breakpoint-down(xl) {
+          margin-bottom: 10px;
+        }
+      }
+      p {
+        color: $white;
+        line-height: 1.7;
+        margin-bottom: 0;
+        text-align: center;
+      }
+    }
+    .achie-card {
+      border: 1px solid $white;
+      background: rgba($white, 0.3);
+      box-shadow: 0 0 25px rgba($white, 0.3) inset;
+      padding: 35px 20px;
+      display: flex;
+      align-items: center;
+      @include media-breakpoint-down(xl) {
+        justify-content: center;
+        margin-bottom: 30px;
+        padding: 20px;
+      }
+      .achie-info {
+        padding-left: 20px;
+        h6 {
+          font-size: 40px;
+          font-weight: 600;
+          color: $white;
+          @media only screen and (max-width: $desktop-1440) {
+            font-size: 30px;
+          }
+        }
+        p {
+          font-size: 20px;
+          font-weight: 600;
+          color: $white;
+          margin-bottom: 0;
+          text-transform: uppercase;
+          white-space: nowrap;
+          @media only screen and (max-width: $desktop-1440) {
+            font-size: 16px;
+          }
+        }
+      }
+    }
+  }
+}
+
+/*************  Testimonials Section   **********/
+
+.testimonials {
+  @media only screen and (max-width: $desktop-1280) {
+    &.logo-after {
+      &::after {
+        display: none;
+      }
+    }
+    &.border-before {
+      &::before {
+        display: none;
+      }
+    }
+  }
+  @include media-breakpoint-down(md) {
+    padding-bottom: 70px;
+  }
+  .title-area {
+    padding-bottom: 50px;
+    text-align: center;
+    p {
+      color: $secondary;
+      margin-bottom: 0;
+    }
+  }
+  .img-card-slider {
+    .owl-item {
+      &.center {
+        .card {
+          background-color: $blue-color;
+        }
+        .card-info {
+          p {
+            color: $white;
+          }
+          h6 {
+            color: $white;
+          }
+        }
+      }
+    }
+    .card {
+      padding: 45px;
+      background-color: $card-bg;
+      border: 0;
+      @include media-breakpoint-down(xl) {
+        padding: 25px;
+      }
+      .card-img {
+        img {
+          border-radius: 50%;
+          max-width: 170px;
+          height: 170px;
+          border: 5px solid $white;
+          margin: auto;
+          @include media-breakpoint-down(md) {
+            max-width: 100px;
+            height: 100px;
+          }
+        }
+      }
+      .card-info {
+        padding-top: 10px;
+        text-align: center;
+        p {
+          color: $secondary;
+          line-height: 1.7;
+          min-height: 80px;
+          overflow: hidden;
+          -o-text-overflow: ellipsis;
+          text-overflow: ellipsis;
+          white-space: initial;
+          display: -webkit-box;
+          -webkit-line-clamp: 3;
+          -webkit-box-orient: vertical;
+        }
+        h6 {
+          font-size: 26px;
+          font-weight: 600;
+          color: $secondary;
+          min-height: 30px;
+          overflow: hidden;
+          -o-text-overflow: ellipsis;
+          text-overflow: ellipsis;
+          white-space: initial;
+          display: -webkit-box;
+          -webkit-line-clamp: 1;
+          -webkit-box-orient: vertical;
+          @include media-breakpoint-down(md) {
+            font-size: 20px;
+          }
+        }
+      }
+    }
+  }
+  .owl-nav > button {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    color: $primary !important;
+    transition: all 0.15s ease-in-out;
+    @media only screen and (max-width: $desktop-1280) {
+      top: initial;
+      bottom: -50px;
+    }
+    @media only screen and (max-width: $desktop-1280) {
+    }
+    &:hover {
+      color: $blue-color !important;
+    }
+    i {
+      font-size: 30px;
+    }
+
+    &.owl-prev {
+      left: -5%;
+      @media only screen and (max-width: $desktop-1440) {
+        left: -2.5%;
+      }
+      @media only screen and (max-width: $desktop-1280) {
+        left: 45%;
+      }
+      @include media-breakpoint-down(md) {
+        left: 35%;
+      }
+    }
+
+    &.owl-next {
+      right: -5%;
+      @media only screen and (max-width: $desktop-1440) {
+        right: -2.5%;
+      }
+      @media only screen and (max-width: $desktop-1280) {
+        right: 45%;
+      }
+      @include media-breakpoint-down(md) {
+        right: 35%;
+      }
+    }
+  }
+}
+
+/*************  Newslatter Section   **********/
+
+.newslatter {
+  background-image: url("../img/stay.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 400px;
+  @include media-breakpoint-down(lg) {
+    min-height: 260px;
+  }
+  .newslatter-info {
+    text-align: center;
+    .sub-title {
+      color: $white;
+      @include media-breakpoint-down(md) {
+        margin-bottom: 10px;
+      }
+    }
+    .main-title {
+      color: $white;
+      margin-bottom: 30px;
+    }
+    .input-group {
+      width: 50%;
+      margin: auto;
+      @include media-breakpoint-down(lg) {
+        width: 88%;
+      }
+      .form-control {
+        border-radius: 0;
+        padding-left: 30px;
+        &::placeholder {
+          font-size: 24px;
+          color: $secondary;
+          padding: 0;
+          @include media-breakpoint-down(xl) {
+            font-size: 18px;
+          }
+        }
+      }
+      #button-addon2 {
+        @include media-breakpoint-down(md) {
+          width: 100px;
+        }
+        &:hover {
+          color: $white;
+          border-color: $white;
+        }
+      }
+    }
+  }
+}
+
+/*************  Clients Section   **********/
+
+.clients {
+  background-image: url("../img/client-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  @include media-breakpoint-down(lg) {
+    min-height: 300px;
+  }
+  .clients-info {
+    text-align: center;
+    padding-bottom: 50px;
+    @include media-breakpoint-down(xl) {
+      padding-bottom: 30px;
+    }
+    .sub-title {
+      @include media-breakpoint-down(md) {
+        margin-bottom: 10px;
+      }
+    }
+    .main-title {
+      @include media-breakpoint-down(md) {
+        margin-bottom: 10px;
+      }
+    }
+    p {
+      color: $secondary;
+      margin-bottom: 0;
+    }
+  }
+  .company-img {
+    text-align: center;
+    @include media-breakpoint-down(md) {
+      padding-bottom: 30px;
+    }
+  }
+}

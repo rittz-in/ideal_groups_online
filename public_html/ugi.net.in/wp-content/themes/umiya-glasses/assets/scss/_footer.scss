@@ -1,0 +1,162 @@
+footer {
+  padding: 100px 0;
+  background-image: url("../img/footer-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  @include media-breakpoint-down(md) {
+    padding: 50px 0;
+  }
+  @include media-breakpoint-down(xl) {
+    padding-bottom: 15px;
+  }
+
+  .footer-title {
+    color: $footer-title;
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: capitalize;
+    padding-bottom: 30px;
+    margin: 0;
+    @include media-breakpoint-down(lg) {
+      font-size: 20px;
+      padding-bottom: 15px;
+    }
+  }
+  .footer-links {
+    @include media-breakpoint-down(md) {
+      margin-bottom: 30px;
+    }
+    ul {
+      padding: 0;
+    }
+    li {
+      list-style: none;
+      line-height: 1.45;
+      margin-bottom: 4px;
+      &:last-child {
+        margin-bottom: 0;
+      }
+      a {
+        font-size: 18px;
+        color: $white;
+        transition: all 0.15s ease-in-out;
+        &:hover {
+          color: $footer-title;
+        }
+        @include media-breakpoint-down(lg) {
+          font-size: 16px;
+        }
+      }
+    }
+  }
+  .contact-links {
+    p,
+    a {
+      font-size: 18px;
+      color: $white;
+      display: block;
+      margin-bottom: 0;
+      padding-bottom: 20px;
+      display: flex;
+      align-items: baseline;
+      transition: all 0.15s ease-in-out;
+      span {
+        padding-left: 10px;
+      }
+      @include media-breakpoint-down(lg) {
+        font-size: 16px;
+        padding-bottom: 15px;
+      }
+      @include media-breakpoint-down(md) {
+        padding-bottom: 10px;
+      }
+    }
+    a {
+      &:hover {
+        color: $footer-title;
+      }
+    }
+  }
+  .copyright-area {
+    background-color: $footer-bg;
+    width: 40%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 100px;
+    z-index: 1;
+    @media only screen and (max-width: $desktop-1440) {
+      padding-left: 50px;
+    }
+    @media only screen and (max-width: 1200px) {
+      padding-left: 30px;
+    }
+    @include media-breakpoint-down(xl) {
+      position: initial;
+      width: 100%;
+      align-items: center;
+      padding: 30px;
+      margin-top: 30px;
+      text-align: center;
+    }
+
+    &::after {
+      position: absolute;
+      content: "";
+      top: 0;
+      right: 3%;
+      background-image: url("../img/logo-big.png");
+      background-repeat: no-repeat;
+      background-size: 180px;
+      background-position: right;
+      height: 100%;
+      width: 100%;
+      z-index: -1;
+      @media only screen and (max-width: $desktop-1440) {
+        right: 6%;
+        background-size: 150px;
+      }
+      @include media-breakpoint-down(xl) {
+        display: none;
+      }
+    }
+
+    img {
+      max-width: 250px;
+    }
+    a {
+      font-size: 18px;
+      color: $secondary;
+      padding: 15px 0;
+      display: block;
+      @include media-breakpoint-down(lg) {
+        font-size: 16px;
+      }
+    }
+    .social-links {
+      a {
+        font-size: 18px;
+        color: $primary;
+        padding: 0 10px;
+        display: inline-flex;
+        transition: all 0.15s ease-in-out;
+        &:hover {
+          color: $footer-title;
+        }
+        &:first-child {
+          padding-left: 0;
+        }
+        &:last-child {
+          padding-right: 0;
+        }
+      }
+    }
+  }
+}

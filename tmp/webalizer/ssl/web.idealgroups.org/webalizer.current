@@ -1,0 +1,569 @@
+# Webalizer V2.23-08 Incremental Data - 07/21/2026 00:52:59
+2026 7 21 0 52 59
+509 394 66 70 4 53 1349650 86 49 0
+1 1 83 1 21
+29 29 59474 7 2 2
+45 40 36789 3 8 2
+25 25 54211 2 1 1
+51 43 49751 5 11 4
+29 28 68684 8 3 2
+93 53 57140 2 6 1
+16 15 71091 6 4 3
+28 26 98974 6 3 3
+31 29 78022 7 4 4
+107 71 163947 9 17 4
+15 12 156436 9 5 5
+7 5 70209 5 4 3
+6 2 56550 5 4 3
+3 2 55736 3 2 2
+1 1 794 1 0 0
+2 1 44537 2 1 1
+2 1 44537 2 1 1
+8 4 68326 6 5 4
+6 5 58254 3 3 2
+4 1 11877 4 1 1
+1 1 44311 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+13 12 92973 2
+18 17 51137 1
+6 5 2670 0
+12 11 5145 1
+33 28 86524 10
+14 10 49228 3
+13 13 16149 1
+13 8 5942 4
+13 13 5744 0
+15 10 17241 4
+94 59 158008 17
+5 5 2444 0
+20 19 40559 4
+9 6 90807 2
+14 13 5970 0
+92 52 100626 7
+14 13 49487 1
+27 23 128761 10
+18 17 61542 2
+12 11 122221 4
+18 17 109233 4
+10 8 58437 2
+11 10 14725 3
+15 14 74077 4
+6
+0
+0
+394
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+94
+0
+0
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.git/HEAD
+0 7 8319045105058736492 5558 0 0
+/config
+0 1 27003 2118 1 0
+/admin/.env
+0 2 7021237580787246180 1588 0 0
+/.claude.json
+0 1 3531103582835179520 794 0 0
+/.aider.conf.yml
+0 1 0 794 0 0
+/sitemap.xml
+0 108 0 85752 0 0
+/components/com_sppagebuilder/assets/css/sppagebuilder.css
+0 2 0 1588 0 0
+/.well-known/security.txt
+0 2 0 4236 0 0
+/.gitconfig
+0 1 0 794 0 0
+/config/secrets.yml
+0 2 0 1588 0 0
+/.ssh/id_ecdsa
+0 1 0 794 0 0
+/private-key
+0 2 0 1588 0 0
+/wp-admin
+0 2 0 1588 0 1
+/.env.production
+0 4 0 3176 0 0
+/.pypirc
+0 1 0 794 0 0
+/serviceAccountKey.json
+0 2 0 1588 0 0
+/config.json
+0 2 0 1588 0 0
+/.ssh/known_hosts
+0 1 0 794 0 0
+/auth.json
+0 1 0 794 0 0
+/.git-credentials
+0 1 0 794 0 0
+/.vscode/launch.json
+0 2 0 1588 0 0
+/.aws/config
+0 2 0 1588 0 0
+/.env.local
+0 3 0 2382 0 0
+/.boto
+0 1 0 794 0 0
+/.aws/credentials
+0 3 0 2382 0 0
+/credentials.json
+0 2 0 1588 0 0
+/docker-compose.yaml
+0 2 0 1588 0 0
+/.git/config
+0 11 0 8734 0 0
+/localhost.key
+0 2 0 1588 0 0
+/favicon.ico
+0 3 0 2382 0 0
+/project-details.html
+0 3 0 2382 0 0
+/.env.development
+0 2 0 1588 0 0
+/ssl/server.key
+0 2 0 1588 0 0
+/gradle.properties
+0 1 0 794 0 0
+/terraform.tfstate
+0 2 0 1588 0 0
+/.ssh/id_ed25519
+0 2 0 1588 0 0
+/secrets.json
+0 2 0 1588 0 0
+/firebase-adminsdk.json
+0 1 0 794 0 0
+/env
+0 2 0 8490 0 0
+/rclone.conf
+0 1 0 794 0 0
+/key.json
+0 2 0 1588 0 0
+/settings.py
+0 1 0 794 0 0
+/js/config.js
+0 2 0 1588 0 0
+/.ssh/authorized_keys
+0 2 0 1588 0 0
+/secrets.yml
+0 2 0 1588 0 0
+/.openclaw/openclaw.json
+0 1 0 794 0 0
+/ssl/localhost.key
+0 2 0 1588 0 0
+/z9x8c7v6b5-debug-trigger-www.web.idealgroups.org
+0 1 0 794 0 0
+/.ssh/config
+0 2 0 1588 0 0
+/.codex/config.toml
+0 1 0 794 0 0
+/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+0 4 0 3176 0 0
+/id_ed25519
+0 1 0 794 0 0
+/.continue/config.json
+0 1 0 794 0 0
+/host.key
+0 2 0 1588 0 0
+/
+0 45 0 1119494 45 8
+/.hermes/auth.json
+0 1 0 794 0 0
+/.hermes/config.yaml
+0 1 0 794 0 0
+/.docker/config.json
+0 2 0 1588 0 0
+/service-details.html
+0 3 0 2382 0 0
+/.gitlab-ci.yml
+0 2 0 1588 0 0
+/appsettings.Production.json
+0 1 0 794 0 0
+/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js.map
+0 1 0 794 0 0
+/id_ecdsa
+0 2 0 1588 0 0
+/robots.txt
+0 109 0 3379 0 0
+/.svn/entries
+0 2 0 1588 0 0
+/.gradle/gradle.properties
+0 1 0 794 0 0
+/.github/workflows/deploy.yml
+0 2 0 1588 0 0
+/appsettings.Development.json
+0 1 0 794 0 0
+/wp-json
+0 1 0 794 0 0
+/services.html
+0 3 0 2382 0 0
+# End Of Table - urls
+# -sites- (monthly)
+188.166.233.148
+0 5 1 1331 2 1783151325
+-
+94.154.43.186
+0 4 3 133159 3 1784348818
+/
+94.154.43.229
+0 3 1 44763 1 1784051107
+/
+154.54.100.177
+0 1 1 794 0 0
+-
+ec2-34-243-183-118.eu-west-1.compute.amazonaws.com
+0 1 0 226 1 1783739234
+/
+198.235.24.18
+0 1 1 44311 1 1783712803
+/
+149.77.126.34.bc.googleusercontent.com
+0 1 1 794 0 0
+-
+scan.visionheight.com
+0 2 2 22398 2 1783878755
+/
+216.73.217.114
+0 2 2 825 0 0
+-
+216.73.217.22
+0 54 54 22275 0 0
+-
+75.239.66.136.bc.googleusercontent.com
+0 1 1 794 0 0
+-
+47.92.197.236
+0 1 1 2118 1 1782937235
+/config
+171.106.172.144.static.cloudzy.com
+0 1 1 794 0 0
+-
+123.244.254.35.bc.googleusercontent.com
+0 1 1 18905 1 1783796732
+/
+ec2-34-222-192-68.us-west-2.compute.amazonaws.com
+0 2 2 11230 1 1783428407
+/
+94.154.43.185
+0 4 2 89074 2 1784595179
+/
+1a1.crawl.securitytrails.com
+0 1 0 362 1 1783582064
+/
+91.92.241.196
+0 4 4 3176 0 0
+-
+205.210.31.36
+0 1 1 44311 1 1783276044
+/
+94.154.43.188
+0 4 2 89074 2 1784420846
+/
+82.39.212.105
+0 20 16 26527 1 1782967206
+/
+139.185.46.40
+0 3 1 1165 1 1784368380
+/wp-admin
+54.146.94.167.censys-scanner.com
+0 3 2 12355 1 1783243696
+/
+ec2-3-219-86-171.compute-1.amazonaws.com
+0 1 1 11199 1 1784579962
+/
+176.172.132.66.censys-scanner.com
+0 2 1 11561 1 1783918617
+/
+94.154.43.184
+0 2 0 452 0 0
+-
+173.239.218.148
+0 1 0 83 0 0
+-
+202.120.37.109
+0 2 2 11199 1 1783461767
+/
+ec2-44-244-154-205.us-west-2.compute.amazonaws.com
+0 2 2 11230 1 1783621231
+/
+142.248.80.138
+0 1 1 11199 1 1783681064
+/
+205.210.31.147
+0 1 1 44311 1 1783800183
+/
+94.154.43.179
+0 3 2 88848 2 1783979131
+/
+146.190.38.244
+0 1 1 11199 1 1784401273
+/
+94.154.43.177
+0 5 2 89300 2 1783798245
+/
+83.191.90.34.bc.googleusercontent.com
+0 1 0 226 1 1783927524
+/
+216.73.216.95
+0 41 41 17294 0 0
+-
+205.210.31.25
+0 1 1 2118 0 0
+-
+205.210.31.102
+0 1 1 44311 1 1783526422
+/
+1a2.crawl.securitytrails.com
+0 1 0 362 1 1782976541
+/
+205.210.31.38
+0 2 2 88622 2 1783789487
+/
+156.227.28.171
+0 1 1 44311 1 1782937226
+/
+85.121.127.132
+0 20 16 26527 1 1783187468
+/
+216.73.217.10
+0 12 12 4950 0 0
+-
+216.73.217.129
+0 8 8 3300 0 0
+-
+164.97.172.144.static.cloudzy.com
+0 1 1 794 0 0
+-
+94.154.43.178
+0 1 1 44311 1 1783505917
+/
+86.155.45.199.censys-scanner.com
+0 3 2 12355 1 1783857725
+/
+54.195.132.66.censys-scanner.com
+0 3 2 12355 1 1784502297
+/
+216.73.217.141
+0 2 2 825 0 0
+-
+183.125.91.34.bc.googleusercontent.com
+0 1 0 226 1 1783548602
+/
+104.28.204.176
+0 79 44 53237 1 1783679368
+/project-details.html
+58.63.196.35.bc.googleusercontent.com
+0 1 1 794 0 0
+-
+104.28.211.190
+0 83 43 53015 1 1783350373
+/private-key
+67.205.156.59
+0 1 1 11199 1 1783167313
+/
+r3-235-eb.monitoring.internet-measurement.com
+0 1 1 11199 1 1784417823
+/
+88.151.33.92
+0 2 2 1588 0 0
+-
+94.154.43.187
+0 2 0 452 0 0
+-
+253.164.124.34.bc.googleusercontent.com
+0 1 1 794 0 0
+-
+216.73.217.103
+0 6 6 2475 0 0
+-
+198.235.24.236
+0 1 1 2118 0 0
+-
+216.73.216.104
+0 12 12 4950 0 0
+-
+164.92.244.208
+0 1 1 11199 1 1784011221
+/
+216.73.216.255
+0 16 16 6600 0 0
+-
+216.73.216.245
+0 58 58 23925 0 0
+-
+216.73.216.7
+0 4 4 1650 0 0
+-
+143.198.6.225
+0 1 0 226 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+94.154.43.185
+0 1 1 44311 1 1784595179
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.facebook.com/
+0 1
+- (Direct Request)
+0 502
+https://www.web.idealgroups.org/
+0 1
+https://duckduckgo.com/
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.10.0.0 Safari/
+0 7
+Mozilla/5.0 (compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot)
+0 12
+Mozilla/5.0 (compatible; Applebot/0.1; +http://www.apple.com/go/applebot)
+0 12
+Mozilla/5.0 (compatible; Claude-Web/1.0; +https://www.anthropic.com)
+0 8
+Mozilla/5.0 (X11; Linux x86_64)
+0 2
+Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot
+0 8
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot
+0 9
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+RecordedFuture Global Inventory Crawler
+0 2
+CCBot/2.0 (https://commoncrawl.org/faq/)
+0 18
+Mozilla/5.0 (X11; Linux x86_64) Firefox/117.0
+0 1
+Mozilla/5.0 (Linux; Android 9; SM-A505FM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (compatible; cohere-ai/1.0; +https://cohere.com)
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_1; rv:118.0) Gecko/20100101 Firefox/118.0
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 15_7_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 11
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/5d7.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+0 1
+visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
+0 2
+Go-http-client/2.0
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 15.7; rv:149.0) Gecko/20100101 Firefox/149.0
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+0 7
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+0 215
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user
+0 5
+Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/146.0.385
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+0 33
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15) Gecko/20100101 Firefox/119.0.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+0 4
+Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)
+0 12
+Mozilla/5.0 (Windows NT 11.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+0 3
+Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
+0 8
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com
+0 5
+Mozilla/5.0 (compatible; Google-Extended/1.0; +http://www.google.com/bot.html)
+0 10
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/121.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+0 1
+Mozilla/5.0 (compatible; wpbot/1.4; +https://forms.gle/ajBaxygz9jSR8p8G9)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+0 9
+meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)
+0 7
+Mozilla/5.0 (Linux; Android 14; V2309A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+0 2
+anthropic-ai
+0 8
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Version/17.0 Safari/605.1.15
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 (Silvy X Ran)
+0 2
+Scrapy/2.16.0 (+https://scrapy.org)
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

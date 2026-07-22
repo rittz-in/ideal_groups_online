@@ -1,0 +1,907 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202604 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.digicard.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2097                
+POS_TIME 2772                
+POS_VISITOR 36508               
+POS_DAY 39347               
+POS_DOMAIN 3497                
+POS_LOGIN 3940                
+POS_ROBOT 4095                
+POS_WORMS 4384                
+POS_EMAILSENDER 4515                
+POS_EMAILRECEIVER 4658                
+POS_SESSION 39984               
+POS_FILESIZE 40348               
+POS_REQUESTTIME 40493               
+POS_SIDER 40141               
+POS_FILETYPES 4793                
+POS_DOWNLOADS 4914                
+POS_OS 4962                
+POS_BROWSER 5201                
+POS_SCREENSIZE 6023                
+POS_UNKNOWNREFERER 6097                
+POS_UNKNOWNREFERERBROWSER 6486                
+POS_ORIGIN 6597                
+POS_SEREFERRALS 6733                
+POS_PAGEREFS 6894                
+POS_SEARCHWORDS 7042                
+POS_KEYWORDS 7194                
+POS_MISC 2436                
+POS_ERRORS 7253                
+POS_CLUSTER 3796                
+POS_SIDER_404 7432                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260501161518 8 1514 11649577594171
+FirstTime 20260401033102
+LastTime 20260430210457
+LastUpdate 20260501203021 8 0 7 0 0
+TotalVisits 91                  
+TotalUnique 72                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 72                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 1036 76 76 426668
+1 1 1 1046 32 32 19500
+2 4 4 6443 8 12 25719
+3 5 5 5216 5 10 808867
+4 8 9 23141 283 399 289026
+5 1 1 1036 2 9 25572
+6 3 3 5384 4 4 7510
+7 3 3 5389 6 6 794861
+8 13 13 27026 109 111 4365019
+9 10 10 12433 25 25 40858
+10 6 6 8302 3 4 434691
+11 15 15 17891 20 24 30598
+12 3 3 3137 5 5 415956
+13 6 6 6278 54 54 443228
+14 17 17 22107 14 18 422338
+15 10 10 22893 16 17 10432188
+16 9 9 11837 60 61 907775
+17 16 16 26560 95 100 2255715
+18 6 6 14180 22 24 38066
+19 5 5 4209 16 24 829369
+20 3 3 5393 20 22 45897
+21 3 3 7661 8 10 1213174
+22 7 7 10796 30 30 44294
+23 1 1 3318 24 24 99935
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+us 57 57 90773
+id 20 20 20816
+in 19 19 44731
+nl 11 11 10197
+gb 9 9 9113
+bg 7 7 6253
+ru 7 7 6296
+ca 7 8 19831
+de 5 5 14258
+rs 5 5 14258
+cn 2 2 4346
+zz 1 1 1047
+es 1 1 1046
+tw 1 1 1044
+ir 1 1 1037
+pk 1 1 3310
+fr 1 1 3318
+pl 1 1 1038
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+no_user_agent 2 6628 20260410155509 0
+bot[\s_+:,\.\;\/\\-] 2 2082 20260408033935 0
+[\s_+:,\.\;\/\\-]bot 1 1047 20260429213921 0
+curl 1 1038 20260408045927 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+Unknown 30 44990 0 0
+html 126 195154 0 0
+css 1 12568 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+androidoreo 1 1
+linuxubuntu 8 8
+Unknown 16 16
+android13 4 4
+ios_ipad 3 3
+macosx 3 3
+linux 41 41
+macosx15 16 16
+win7 2 2
+ios_iphone 6 6
+android 2 2
+android10 6 5
+win10 49 49
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 40
+chrome134.0.0.0 8 8
+chrome100.0.4896.127 1 1
+chrome142.0.0.0 3 3
+firefox133.0 4 4
+chrome91.0.4472.124 9 9
+firefox122.0 1 1
+chrome122.0.0.0 2 2
+chrome143.0.0.0 22 22
+safari14.0 1 1
+chrome116.0 5 5
+Unknown 2 2
+chrome58.0.3029.110 1 1
+chrome126.0.0.0 3 3
+chrome101.0.4951.41 1 1
+chrome63.0.3239.132 1 1
+chrome136.0.0.0 4 4
+mozilla 11 11
+safari 2 2
+chrome71.0.3578.99 1 1
+chrome120.0.0.0 5 5
+safari26.0 1 1
+chrome83.0.4103.61 1 1
+chrome147.0.0.0 7 7
+firefox134.0 6 6
+chrome135.0.0.0 1 1
+chrome85.0.4183.121 1 1
+chrome106.0.0.0 1 1
+firefox117.0 7 7
+firefox125.0 1 1
+firefox138.0 4 4
+netscape5.0 12 12
+chrome131.0.0.0 11 11
+firefox119.0.1 1 1
+firefox127.0 1 1
+chrome115.0.5790.73 3 2
+chrome124.0.0.0 4 4
+firefox142.0 3 3
+firefox149.0 2 2
+chrome71.0.2623.112 1 1
+safari18.4 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260425175620
+okhttp/3.14.9 20260408045927
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260412000827
+Mozilla/5.0_(l9scan/2.0.5333e24353e28313e2931313;__https://leakix.net) 20260422162627
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+okhttp/3.14.9 20260408045927
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 145 145
+From1 0 0
+From2 1 1
+From3 0 0
+From4 10 11
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_bing_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+409 98 8134
+301 64 18206
+406 219 45426
+403 3 1065
+206 1 1069
+421 2 724
+404 664 1242183
+405 32 23089222
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 473
+/static/pz.json 1 https://digicard.idealgroups.org/static/pz.json
+/.env.development.local 1 -
+/api/verify 1 -
+/.netrc 1 -
+/static/diff_worker.js 1 https://digicard.idealgroups.org/static/diff_worker.js
+/.git/config 23 -
+/imei 1 https://digicard.idealgroups.org/imei/
+/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif 1 https://digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif
+/mms-api/coins/hot/tickers 1 https://digicard.idealgroups.org/mms-api/coins/hot/tickers
+/AppInfo.aspx 1 https://digicard.idealgroups.org/AppInfo.aspx
+/dock/system/config/get 1 https://digicard.idealgroups.org/dock/system/config/get
+/api/im/v2/app/config 1 https://digicard.idealgroups.org/api/im/v2/app/config
+/api/v1/seller/login 1 https://digicard.idealgroups.org/api/v1/seller/login
+/static/css/index.css 1 https://digicard.idealgroups.org/static/css/index.css
+/api/Home/videoNew 1 https://digicard.idealgroups.org/api/Home/videoNew
+/telescope/requests 1 -
+/static/admincp/js/common.js 1 https://digicard.idealgroups.org/static/admincp/js/common.js
+/static/css/style.css 1 https://digicard.idealgroups.org/static/css/style.css
+/kdata/selectMqUrl 1 https://digicard.idealgroups.org/kdata/selectMqUrl
+/api/home-links 1 https://digicard.idealgroups.org/api/home-links
+/static/css/reset.css 1 https://digicard.idealgroups.org/static/css/reset.css
+/index/Common/getArticleList 1 https://digicard.idealgroups.org/index/Common/getArticleList
+/Home/Index/api 1 https://digicard.idealgroups.org/Home/Index/api
+/infe/rest/fig/advertise/common.json 1 https://digicard.idealgroups.org/infe/rest/fig/advertise/common.json%3Fmobile_open%3D1
+/api/Index/getHome 1 https://digicard.idealgroups.org/api/Index/getHome%3Fid%3D1
+/lottery/common.js 1 https://digicard.idealgroups.org/lottery/common.js
+/common/init 1 https://digicard.idealgroups.org/common/init
+/mobile/login.html 1 https://digicard.idealgroups.org/mobile/login.html
+/.boto 2 -
+/api/api/exchangerateuserconfig!get.action 1 https://digicard.idealgroups.org/api/api/exchangerateuserconfig%21get.action
+/aws.config.js 1 -
+/kdata/product 1 https://digicard.idealgroups.org/kdata/product
+/.env.dist 2 -
+/common/template/lottery/lecai/css/style.css 1 https://digicard.idealgroups.org/common/template/lottery/lecai/css/style.css
+/application.properties 1 -
+/.env_1 1 -
+/static/index/css/index.css 1 https://digicard.idealgroups.org/static/index/css/index.css
+/api/app/banners 1 https://digicard.idealgroups.org/api/app/banners
+/static/common/js/common.js 1 https://digicard.idealgroups.org/static/common/js/common.js
+/.env.dev 5 -
+/js/index.js 1 https://digicard.idealgroups.org/js/index.js
+/.env.stage 2 -
+/moddofuns 2 www.google.com
+/Web/js/v1/phone.js 1 https://digicard.idealgroups.org/Web/js/v1/phone.js
+/api/index/get_setting 1 https://digicard.idealgroups.org/api/index/get_setting
+/api.php/index/system 1 https://digicard.idealgroups.org/api.php/index/system
+/actuator/env 2 -
+/api/heartbeat 1 https://digicard.idealgroups.org/api/heartbeat
+/instatll 1 https://digicard.idealgroups.org/instatll%3Ftag%3Dmatto
+/chat/1 1 https://digicard.idealgroups.org/chat/1
+/a 1 https://digicard.idealgroups.org/a/
+/main/config/getkefuData 1 https://digicard.idealgroups.org/main/config/getkefuData
+/masterControl/getSystemSetting 1 https://digicard.idealgroups.org/masterControl/getSystemSetting
+/app/js/base.js 1 https://digicard.idealgroups.org/app/js/base.js
+/resources/main/common.js 1 https://digicard.idealgroups.org/resources/main/common.js
+/wp-content/plugins/ninja-forms-uploads/assets/js/nfpluginsettings.js 2 -
+/.git/HEAD 6 -
+/banner.do 1 https://digicard.idealgroups.org/banner.do%3Fcode%3D1
+/Pay_Index.html 1 https://digicard.idealgroups.org/Pay_Index.html
+/home/realtime/data 1 https://digicard.idealgroups.org/home/realtime/data
+/xingkong 1 https://digicard.idealgroups.org/xingkong/
+/include/ckeditor/plugins/smiley/images/angel_smile.gif 1 https://digicard.idealgroups.org/include/ckeditor/plugins/smiley/images/angel_smile.gif
+/config/.env.local 1 -
+/api/BaseInfo/xnb/24hr 1 https://digicard.idealgroups.org/api/BaseInfo/xnb/24hr
+/public/plugins/ckeditor/images/spacer.gif 1 https://digicard.idealgroups.org/public/plugins/ckeditor/images/spacer.gif
+/api/lottery/list 1 https://digicard.idealgroups.org/api/lottery/list
+/api/Event/basic 1 https://digicard.idealgroups.org/api/Event/basic
+/market/market-ws/iframe.html 1 https://digicard.idealgroups.org/market/market-ws/iframe.html
+/js/nsc/main.js 1 https://digicard.idealgroups.org/js/nsc/main.js
+/bundle.js 1 -
+/api/auth 1 -
+/.DS_Store 1 -
+/webjars/swagger-ui/index.html 1 -
+/.env.remote 1 -
+/siteheads 2 www.google.com
+/.env.php 1 -
+/.env.dev.local 1 -
+/api/front/index 1 https://digicard.idealgroups.org/api/front/index
+/api/new-version/daily/rooms/1 1 https://digicard.idealgroups.org/api/new-version/daily/rooms/1
+/api/form 1 -
+/digicard/public/assets/logo.png 8 -
+/api/payment 1 -
+/views/commData/commonSite.js 1 https://digicard.idealgroups.org/views/commData/commonSite.js
+/mfzbs/config/base 1 https://digicard.idealgroups.org/mfzbs/config/base
+/music163/music163.html 1 https://digicard.idealgroups.org/music163/music163.html
+/.git/logs/HEAD 1 -
+/docker-compose.env 1 -
+/.env.docker 2 -
+/api/wanlshop/common/init 1 https://digicard.idealgroups.org/api/wanlshop/common/init
+/api/app/getserviceinfo 1 https://digicard.idealgroups.org/api/app/getserviceinfo%3Ftoken%3D1
+/code1.html 1 https://digicard.idealgroups.org/code1.html
+/public/img/cz1.png 1 https://digicard.idealgroups.org/public/img/cz1.png
+/cx_platform/conf.json 1 https://digicard.idealgroups.org/cx_platform/conf.json
+/.env_settings 1 -
+/wap-api/banner/list 1 https://digicard.idealgroups.org/wap-api/banner/list
+/.env1 1 -
+/static/wap/css/common.css 1 https://digicard.idealgroups.org/static/wap/css/common.css
+/api/app/getExecutedRealOrders 1 https://digicard.idealgroups.org/api/app/getExecutedRealOrders
+/static/cpjy.png 1 https://digicard.idealgroups.org/static/cpjy.png
+/iexchange/webtrader 1 https://digicard.idealgroups.org/iexchange/webtrader/
+/trace.axd 1 -
+/api/send 1 -
+/wp-admin 16 https://twitter.com/
+/Readme.txt 1 https://digicard.idealgroups.org/Readme.txt
+/api/getWebSiteConfig 1 https://digicard.idealgroups.org/api/getWebSiteConfig
+/public/assets/js/lib/my-help.js 1 https://digicard.idealgroups.org/public/assets/js/lib/my-help.js
+/template/mb/lang/text-zh.json 1 https://digicard.idealgroups.org/template/mb/lang/text-zh.json
+/swagger.json 1 -
+/js/bankCheck.js 1 https://digicard.idealgroups.org/js/bankCheck.js
+/.pgpass 1 -
+/phpinfo.php 2 -
+/categories 1 https://digicard.idealgroups.org/categories
+/home/login.jpg 1 https://digicard.idealgroups.org/home/login.jpg
+/m/allticker/1 1 https://digicard.idealgroups.org/m/allticker/1
+/swagger/index.html 1 -
+/api/app/config 1 https://digicard.idealgroups.org/api/app/config
+/Public/home/js/fukuang.js 1 https://digicard.idealgroups.org/Public/home/js/fukuang.js
+/api/product/list 1 https://digicard.idealgroups.org/api/product/list
+/admin 11 https://digicard.idealgroups.org/admin
+/forerest/user/custSrv/findOne 1 https://digicard.idealgroups.org/forerest/user/custSrv/findOne
+/xy 1 https://digicard.idealgroups.org/xy/
+/template/920ka/css/lsy.css 1 https://digicard.idealgroups.org/template/920ka/css/lsy.css
+/env 1 -
+/application.yml 1 -
+/apps 1 https://digicard.idealgroups.org/apps/
+/public/js/global.js 1 https://digicard.idealgroups.org/public/js/global.js
+/api 5 https://digicard.idealgroups.org/api%3Fcode%3D1
+/Public/Home/ecshe_css/main.css 1 https://digicard.idealgroups.org/Public/Home/ecshe_css/main.css%3Fv%3D1543997196
+/api/Uploads/apiimei 1 https://digicard.idealgroups.org/api/Uploads/apiimei
+/lang.js 1 https://digicard.idealgroups.org/lang.js
+/password 3 https://www.digicard.idealgroups.org/password/
+/api/checkout 1 -
+/.well-known/security.txt 1 -
+/mobile/v3/appSuperDownload.do 1 https://digicard.idealgroups.org/mobile/v3/appSuperDownload.do
+/Public/Mobile/ecshe_css/wapmain.css 1 https://digicard.idealgroups.org/Public/Mobile/ecshe_css/wapmain.css%3Fv%3D1545408652
+/prod-api/home/zixun/info 1 https://digicard.idealgroups.org/prod-api/home/zixun/info/
+/api/feedback 1 -
+/js/app.js 1 https://digicard.idealgroups.org/js/app.js
+/api/user/language_list 1 https://digicard.idealgroups.org/api/user/language_list
+/mobile 2 https://digicard.idealgroups.org/mobile/
+/.env.container 1 -
+/phpinfo 3 -
+/dist/azzara/css/down.css 1 https://digicard.idealgroups.org/dist/azzara/css/down.css
+/api/app/contract/getMarketList 1 https://digicard.idealgroups.org/api/app/contract/getMarketList
+/api/siteConfig 1 https://digicard.idealgroups.org/api/siteConfig
+/_environment 1 -
+/market/coinList 1 https://digicard.idealgroups.org/market/coinList
+/h5/static/tabbar/txl.png 1 https://digicard.idealgroups.org/h5/static/tabbar/txl.png
+/static/wap/js/banner.js 1 https://digicard.idealgroups.org/static/wap/js/banner.js
+/aws-config.js 1 -
+/.dockerenv 1 -
+/site.js 1 https://digicard.idealgroups.org/site.js
+/js/home.js 1 https://digicard.idealgroups.org/js/home.js
+/syn 1 https://digicard.idealgroups.org/syn/
+/api/index/init 1 https://digicard.idealgroups.org/api/index/init
+/.env.sample 1 -
+/api/config 1 https://digicard.idealgroups.org/api/config
+/.env.prod 3 -
+/appxz/index.html 1 https://digicard.idealgroups.org/appxz/index.html
+/addons/fastim 1 https://digicard.idealgroups.org/addons/fastim/
+/zqwertyujjh/img/nyyh/game.css 1 https://digicard.idealgroups.org/zqwertyujjh/img/nyyh/game.css
+/api/init 1 https://digicard.idealgroups.org/api/init
+/data/json/config.json 1 https://digicard.idealgroups.org/data/json/config.json
+/v2/api-docs 1 -
+/member/js/lang_zh_CN.js 1 https://digicard.idealgroups.org/member/js/lang_zh_CN.js
+/dayrui/Fcms/View/login.html 2 https://www.digicard.idealgroups.org/dayrui/Fcms/View/login.html
+/common/member/js/user.util.js 1 https://digicard.idealgroups.org/common/member/js/user.util.js
+/info 1 -
+/s_api/basic/download/info 1 https://digicard.idealgroups.org/s_api/basic/download/info
+/wp-json/gravitysmtp/v1/tests/mock-data 3 -
+/api/site/getInfo.do 1 https://digicard.idealgroups.org/api/site/getInfo.do
+/api/system/config 1 https://digicard.idealgroups.org/api/system/config
+/.aws/credentials 9 -
+/page 1 https://digicard.idealgroups.org/page/
+/.env.development 5 -
+/skin/main/onload.js 1 https://digicard.idealgroups.org/skin/main/onload.js
+/api/Interface/mobile_ajax.asmx/GetWebConfig 1 https://digicard.idealgroups.org/api/Interface/mobile_ajax.asmx/GetWebConfig
+/dist_customer/static/images/loading.gif 1 https://digicard.idealgroups.org/dist_customer/static/images/loading.gif
+/v2 1 https://digicard.idealgroups.org/v2
+/friendGroup/list 1 https://digicard.idealgroups.org/friendGroup/list
+/kefu/css/style.css 1 https://digicard.idealgroups.org/kefu/css/style.css
+/im/h5 1 https://digicard.idealgroups.org/im/h5/
+/serviceAccountKey.json 4 -
+/.env_secret 1 -
+/pc 1 https://digicard.idealgroups.org/pc/
+/Public/home/wap/css/qdgame.css 1 https://digicard.idealgroups.org/Public/home/wap/css/qdgame.css
+/Public/H5/js/h5.js 1 https://digicard.idealgroups.org/Public/H5/js/h5.js
+/static/common/css/v.css 1 https://digicard.idealgroups.org/static/common/css/v.css
+/assets/js/main.js 1 https://digicard.idealgroups.org/assets/js/main.js
+/getConfig/listPopFrame.do 1 https://digicard.idealgroups.org/getConfig/listPopFrame.do%3Fcode%3D1%26position%3Dindex%26_%3D1601489645097
+/appsettings.json 1 -
+/zz.php 1 https://digicard.idealgroups.org/zz.php
+/dapp/api/getBanner 1 https://digicard.idealgroups.org/dapp/api/getBanner
+/biz/server/config 1 https://digicard.idealgroups.org/biz/server/config
+/credentials.json 4 -
+/api/seller/index/GetSellerConfigAll 1 https://digicard.idealgroups.org/api/seller/index/GetSellerConfigAll
+/_nuxt/img/icon-deposits.42478e2.svg 1 https://digicard.idealgroups.org/_nuxt/img/icon-deposits.42478e2.svg
+/api/login 1 -
+/api/uploads/apimap 1 https://digicard.idealgroups.org/api/uploads/apimap
+/index.php/sign 1 https://digicard.idealgroups.org/index.php/sign
+/js/mobiletalk.js 1 https://digicard.idealgroups.org/js/mobiletalk.js
+/api/chat/visitor/channelInfo 1 https://digicard.idealgroups.org/api/chat/visitor/channelInfo
+/snake 1 https://digicard.idealgroups.org/snake/
+/dwcc 1 https://digicard.idealgroups.org/dwcc/
+/55.html 1 https://digicard.idealgroups.org/55.html
+/api/submit 1 -
+/graphql 1 -
+/API/Web/chat.ashx 1 https://digicard.idealgroups.org/API/Web/chat.ashx
+/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif 1 https://digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif
+/saconfig/secure/yunwei.js 1 https://digicard.idealgroups.org/saconfig/secure/yunwei.js
+/.env.production 10 -
+/.env.production.local 2 -
+/AnMjSjfe87/policy/getVersion 1 https://digicard.idealgroups.org/AnMjSjfe87/policy/getVersion
+/graphql/api 1 -
+/1/1 1 https://digicard.idealgroups.org/1/1
+/360.html 1 https://digicard.idealgroups.org/360.html
+/api/index/getBannerList 1 https://digicard.idealgroups.org/api/index/getBannerList
+/m 2 https://digicard.idealgroups.org/m/
+/img/xxing.png 1 https://digicard.idealgroups.org/img/xxing.png
+/config.json 7 -
+/.env_sample 1 -
+/static/customer/js/xiaotian.cli.v2.js 1 https://digicard.idealgroups.org/static/customer/js/xiaotian.cli.v2.js
+/.git/refs/heads/main 1 -
+/api/room/join 1 https://digicard.idealgroups.org/api/room/join
+/js/config.js 1 -
+/mobile/film/css/index.css 1 https://digicard.idealgroups.org/mobile/film/css/index.css
+/7 1 https://digicard.idealgroups.org/7/
+/phone/images/icon_01.png 1 https://digicard.idealgroups.org/phone/images/icon_01.png
+/apis/globals 1 https://digicard.idealgroups.org/apis/globals
+/h5 3 https://digicard.idealgroups.org/h5/
+/xy/image/jiantou.png 1 https://digicard.idealgroups.org/xy/image/jiantou.png
+/Templates/user/js/global.js 1 https://digicard.idealgroups.org/Templates/user/js/global.js
+/js/yanzheng_yhk.js 1 https://digicard.idealgroups.org/js/yanzheng_yhk.js
+/doiconvs 2 www.google.com
+/qiantaizhuanyon_chaxun/chaxunkaiguan 1 https://digicard.idealgroups.org/qiantaizhuanyon_chaxun/chaxunkaiguan
+/api/common/findIpAddress 1 https://digicard.idealgroups.org/api/common/findIpAddress
+/api/account/price_rate 1 https://digicard.idealgroups.org/api/account/price_rate
+/pages/console/js/common.js 1 https://digicard.idealgroups.org/pages/console/js/common.js
+/static/home/css/css.css 1 https://digicard.idealgroups.org/static/home/css/css.css
+/fePublicInfo 1 https://digicard.idealgroups.org/fePublicInfo/
+/.env.local 12 -
+/static/index/js/lk/order.js 1 https://digicard.idealgroups.org/static/index/js/lk/order.js
+/s/5333e24353e28313e2931313/_/ 1 -
+/api/common/config 1 https://digicard.idealgroups.org/api/common/config
+/.openai/config.json 4 -
+/index/login 1 https://digicard.idealgroups.org/index/login
+/api/vue/common/config 1 https://digicard.idealgroups.org/api/vue/common/config
+/res/duan/tm.png 1 https://digicard.idealgroups.org/res/duan/tm.png
+/api/gql 1 -
+/api/apps/config 1 https://digicard.idealgroups.org/api/apps/config
+/api/callback 1 -
+/thriveGame.css 1 https://digicard.idealgroups.org/thriveGame.css
+/conf.js 1 https://digicard.idealgroups.org/conf.js
+/static/img/18.45305957.jpg 1 https://digicard.idealgroups.org/static/img/18.45305957.jpg
+/client/api/findConfigByKey 1 https://digicard.idealgroups.org/client/api/findConfigByKey%3FconfigKey%3Dlevel_config
+/ay-1.html 1 https://digicard.idealgroups.org/ay-1.html
+/api/graphql 1 -
+/api/stripe 1 -
+/api/webhook 1 -
+/.env.staging 5 -
+/admin/webadmin.php 1 https://digicard.idealgroups.org/admin/webadmin.php%3Fmod%3Ddo%26act%3Dlogin
+/index/index/home 1 https://digicard.idealgroups.org/index/index/home%3Fbusiness_id%3D1
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/administrator 5 https://digicard.idealgroups.org/administrator/
+/api/get/getnotice 1 https://digicard.idealgroups.org/api/get/getnotice
+/chat 2 https://digicard.idealgroups.org/chat/
+/jym-wn 1 https://digicard.idealgroups.org/jym-wn/
+/js/app.user.js 1 https://digicard.idealgroups.org/js/app.user.js
+/v3/api-docs 1 -
+/.env.live 2 -
+/getConfig/getArticle.do 1 https://digicard.idealgroups.org/getConfig/getArticle.do%3Fcode%3D1
+/api/newsletter 1 -
+/swagger/v1/swagger.json 1 -
+/static/picture/pc-ios.png 1 https://digicard.idealgroups.org/static/picture/pc-ios.png
+/mytio/config/base 1 https://digicard.idealgroups.org/mytio/config/base
+/mobile/lists.html 1 https://digicard.idealgroups.org/mobile/lists.html
+/wap/api/exchangerateuserconfig!get.action 1 https://digicard.idealgroups.org/wap/api/exchangerateuserconfig%21get.action
+/config.js 2 https://digicard.idealgroups.org/config.js
+/api/system/systemConfigs/getCustomerServiceLink 1 https://digicard.idealgroups.org/api/system/systemConfigs/getCustomerServiceLink
+/api/common/getAllSetting 1 https://digicard.idealgroups.org/api/common/getAllSetting
+/static/home/css/feiqi-ee5401a8e6.css 1 https://digicard.idealgroups.org/static/home/css/feiqi-ee5401a8e6.css
+/static/guide/ab.css 1 https://digicard.idealgroups.org/static/guide/ab.css
+/images/step-3.webp 1 https://digicard.idealgroups.org/images/step-3.webp
+//idealgroups.org/digicard/public/js/coreui.bundle.min.js 9 -
+/static/img/yqm.png 1 https://digicard.idealgroups.org/static/img/yqm.png
+/index.html 1 https://digicard.idealgroups.org/index.html
+/vip 1 https://digicard.idealgroups.org/vip/
+/js/a.script 1 https://digicard.idealgroups.org/js/a.script
+/.cursor/mcp.json 4 -
+/join_room 2 https://digicard.idealgroups.org/join_room
+/api/latestSdkConfig 1 https://digicard.idealgroups.org/api/latestSdkConfig
+/static/voice/default.wav 1 https://digicard.idealgroups.org/static/voice/default.wav
+/api/contact 1 -
+/.envrc 1 -
+/config/env 1 -
+/api/landing/check 1 https://digicard.idealgroups.org/api/landing/check%3Fdomain%3D.
+/_nuxt/app.js 1 -
+/css/scanner.css 1 https://digicard.idealgroups.org/css/scanner.css
+/banner/lunbo1.png 1 https://digicard.idealgroups.org/banner/lunbo1.png
+/api/shop/getKF 1 https://digicard.idealgroups.org/api/shop/getKF
+/api/v1/config 1 https://digicard.idealgroups.org/api/v1/config
+/im 1 https://digicard.idealgroups.org/im/
+/app_cn 1 https://digicard.idealgroups.org/app_cn/
+/js/i18n/language_cn.js 1 https://digicard.idealgroups.org/js/i18n/language_cn.js
+/robots.txt 2 -
+/.vscode/sftp.json 1 -
+/css/skin/ymPrompt.css 1 https://digicard.idealgroups.org/css/skin/ymPrompt.css
+/.git/refs/heads/master 1 -
+/api/link-submit 1 https://digicard.idealgroups.org/api/link-submit
+/@vite/env 1 -
+/.boto3 2 -
+/relayApi/api/notice/site_setting 1 https://digicard.idealgroups.org/relayApi/api/notice/site_setting
+/assets/tz.png 1 https://digicard.idealgroups.org/assets/tz.png
+/index/login/index 1 https://digicard.idealgroups.org/index/login/index
+/.anthropic/config.json 4 -
+/swagger-ui.html 1 -
+/login.action 1 -
+/api/index/gettreaty 1 https://digicard.idealgroups.org/api/index/gettreaty
+/.env.www 1 -
+/qishui/qishui.html 1 https://digicard.idealgroups.org/qishui/qishui.html
+/index/police/index.html 1 https://digicard.idealgroups.org/index/police/index.html%3Fagent%3D1000
+/Public/home/common/js/index.js 1 https://digicard.idealgroups.org/Public/home/common/js/index.js
+/getDownloadUrl 1 https://digicard.idealgroups.org/getDownloadUrl%3FappType%3DAndroid
+/api/subscribe 1 -
+/shouye.html 1 https://digicard.idealgroups.org/shouye.html
+/douyin/douyin.html 1 https://digicard.idealgroups.org/douyin/douyin.html
+/api/product/getPointStore 1 https://digicard.idealgroups.org/api/product/getPointStore
+/.env2 1 -
+/dwcc/cnfig/setinf 1 https://digicard.idealgroups.org/dwcc/cnfig/setinf
+/static/home/js/rooms.js 1 https://digicard.idealgroups.org/static/home/js/rooms.js
+/portal/index/protocol.html 1 https://digicard.idealgroups.org/portal/index/protocol.html
+/install.inc/vipsignInstall.css 1 https://digicard.idealgroups.org/install.inc/vipsignInstall.css
+/_next/static/chunks/main.js 1 -
+/app/static/picture/star.png 1 https://digicard.idealgroups.org/app/static/picture/star.png
+/api/user/config 1 https://digicard.idealgroups.org/api/user/config
+/js/base1.js 1 https://digicard.idealgroups.org/js/base1.js
+/.env_backup 1 -
+/Public/mobile/css/base.css 1 https://digicard.idealgroups.org/Public/mobile/css/base.css
+/static/js/user.js 1 https://digicard.idealgroups.org/static/js/user.js
+/admin/.env 2 -
+/api/banner 1 https://digicard.idealgroups.org/api/banner%3FappKey%3Dbxefdn
+/api/c/a 1 https://digicard.idealgroups.org/api/c/a
+/public/h5static/js/main.js 1 https://digicard.idealgroups.org/public/h5static/js/main.js
+/server 1 -
+/static/new/css/style.css 1 https://digicard.idealgroups.org/static/new/css/style.css
+/static/home/imgs/pico.png 1 https://digicard.idealgroups.org/static/home/imgs/pico.png
+/yongxing 1 https://digicard.idealgroups.org/yongxing/
+/v2/_catalog 1 -
+/apix/tongchengyue/tags 1 https://digicard.idealgroups.org/apix/tongchengyue/tags
+/app.js 1 -
+/api/app/indexList 1 https://digicard.idealgroups.org/api/app/indexList
+/api/user/ismustmobile 3 https://digicard.idealgroups.org/api/user/ismustmobile
+/wap 2 https://digicard.idealgroups.org/wap
+/api/index/productshow 1 https://digicard.idealgroups.org/api/index/productshow
+/mobile/preference 1 https://digicard.idealgroups.org/mobile/preference
+/resources/css/headernav.css 1 https://digicard.idealgroups.org/resources/css/headernav.css
+/app/static/js/download.js 1 https://digicard.idealgroups.org/app/static/js/download.js
+/api/dict/getServiceConfig 1 https://digicard.idealgroups.org/api/dict/getServiceConfig
+/other/getTopQuestion 1 https://digicard.idealgroups.org/other/getTopQuestion
+/api/product/getAll 1 https://digicard.idealgroups.org/api/product/getAll
+/1.html 1 https://digicard.idealgroups.org/1.html
+/f/user/index 1 https://digicard.idealgroups.org/f/user/index
+/mindex.html 1 https://digicard.idealgroups.org/mindex.html
+/pc.html 1 https://digicard.idealgroups.org/pc.html
+/api/Config/getShowConfig 1 https://digicard.idealgroups.org/api/Config/getShowConfig
+/S1/js/app.js 1 https://digicard.idealgroups.org/S1/js/app.js
+/h5/img/icon/rj.png 1 https://digicard.idealgroups.org/h5/img/icon/rj.png
+/.env.tmp 1 -
+/Public/Qts/Home/js/appAlert.js 1 https://digicard.idealgroups.org/Public/Qts/Home/js/appAlert.js
+/api/ping 1 https://digicard.idealgroups.org/api/ping
+/public/api/index/config 1 https://digicard.idealgroups.org/public/api/index/config
+/kuwo/kuwo.html 1 https://digicard.idealgroups.org/kuwo/kuwo.html
+/api/user/confinfo 1 https://digicard.idealgroups.org/api/user/confinfo
+/home/index/getcode 1 https://digicard.idealgroups.org/home/index/getcode
+/api/email 1 -
+/statics/images/ext/dir.gif 2 https://www.digicard.idealgroups.org/statics/images/ext/dir.gif
+/mobile/index/home 1 https://digicard.idealgroups.org/mobile/index/home
+/api/common/menus 1 https://digicard.idealgroups.org/api/common/menus%3Flang%3Dzh-Hans
+/server/api/site/getInfo.do 1 https://digicard.idealgroups.org/server/api/site/getInfo.do
+/.env.test 3 -
+/js/post.js 1 https://digicard.idealgroups.org/js/post.js/
+/api.php 2 https://digicard.idealgroups.org/api.php/
+/Temp/htm13/images/ga.png 1 https://digicard.idealgroups.org/Temp/htm13/images/ga.png
+/index/index/updateUserInfo 1 https://digicard.idealgroups.org/index/index/updateUserInfo
+/api/currency/getTradeCurrencyList 1 https://digicard.idealgroups.org/api/currency/getTradeCurrencyList
+/api/common/init 1 https://digicard.idealgroups.org/api/common/init
+/static/js/common.js 1 https://digicard.idealgroups.org/static/js/common.js
+/public/static/home/js/moblie/login.js 1 https://digicard.idealgroups.org/public/static/home/js/moblie/login.js
+/js/xz.js 1 https://digicard.idealgroups.org/js/xz.js
+/appsettings.Development.json 1 -
+/user/reg.php 1 https://digicard.idealgroups.org/user/reg.php
+/about 1 -
+/home/index 1 https://digicard.idealgroups.org/home/index
+/api/order 1 -
+/.kube/config 1 -
+/static/wap/js/order.js 1 https://digicard.idealgroups.org/static/wap/js/order.js
+/secrets.json 4 -
+/selectTempConfig 1 https://digicard.idealgroups.org/selectTempConfig
+/ajax/allcoin_a/id/0 1 https://digicard.idealgroups.org/ajax/allcoin_a/id/0%3Ft%3D0.3782499195965951
+/api-docs/swagger.json 1 -
+/css/nsc/reset.css 1 https://digicard.idealgroups.org/css/nsc/reset.css
+/melody/api/v1/base/heartbeat 1 https://digicard.idealgroups.org/melody/api/v1/base/heartbeat
+/.env.json 1 -
+/api/index/config 1 https://digicard.idealgroups.org/api/index/config
+/api/notice 1 https://digicard.idealgroups.org/api/notice
+/homes 1 https://digicard.idealgroups.org/homes/
+/queryVersion.php 1 https://digicard.idealgroups.org/queryVersion.php
+/user/login 5 -
+/.env.save 4 -
+/leftDao.php 1 https://digicard.idealgroups.org/leftDao.php%3Fcallback%3DjQuery183016740860980352856_1604309800583
+/.git/index 1 -
+/api/currency/quotation_new 1 https://digicard.idealgroups.org/api/currency/quotation_new
+/public/assets/img/index/pay1.png 1 https://digicard.idealgroups.org/public/assets/img/index/pay1.png
+/s3cmd.ini 1 -
+/site/info 1 https://digicard.idealgroups.org/site/info
+/static/js/main.js 1 -
+/api/v1/setting/main 1 https://digicard.idealgroups.org/api/v1/setting/main
+/platform 1 https://digicard.idealgroups.org/platform
+/addons/ltwl_paibao_dx/core/web 1 https://digicard.idealgroups.org/addons/ltwl_paibao_dx/core/web/
+/.env_config 1 -
+/api/index/index 1 https://digicard.idealgroups.org/api/index/index
+/api/set/appSysSet/getKeyByParam 1 https://digicard.idealgroups.org/api/set/appSysSet/getKeyByParam%3Fkey%3Dsys_set
+/swagger/swagger-ui.html 1 -
+/api/settings 1 https://digicard.idealgroups.org/api/settings
+/debug/default/view 1 -
+/Public/css/errorCss.css 1 https://digicard.idealgroups.org/Public/css/errorCss.css
+/api/chat/fish_init 1 https://digicard.idealgroups.org/api/chat/fish_init
+/Home/Get/getJnd28 1 https://digicard.idealgroups.org/Home/Get/getJnd28
+/.s3cfg 1 -
+/.aws/config 2 -
+/api/users/login 1 https://digicard.idealgroups.org/api/users/login
+/css/style.css 1 https://digicard.idealgroups.org/css/style.css
+/wp-login.php 4 -
+/static/wap/css/tipmask.css 1 https://digicard.idealgroups.org/static/wap/css/tipmask.css
+/static/js/download.js 1 https://digicard.idealgroups.org/static/js/download.js
+/api/index/webconfig 1 https://digicard.idealgroups.org/api/index/webconfig
+/files/pub_rem.js 1 https://digicard.idealgroups.org/files/pub_rem.js
+/site/api/v1/site/vipExclusiveDomain/getGuestDomain 1 https://digicard.idealgroups.org/site/api/v1/site/vipExclusiveDomain/getGuestDomain
+/info.php 2 -
+/static/wap/css/trade-history.css 1 https://digicard.idealgroups.org/static/wap/css/trade-history.css
+/.docker/config.json 1 -
+/_profiler/phpinfo 3 -
+/Template/Mobile/js/main.js 1 https://digicard.idealgroups.org/Template/Mobile/js/main.js
+/wap/api/syspara!getSyspara.action 1 https://digicard.idealgroups.org/wap/api/syspara%21getSyspara.action%3Fcode%3Dcustomer_service_url
+/index/aurl 1 https://digicard.idealgroups.org/index/aurl
+/public/css/style.css 1 https://digicard.idealgroups.org/public/css/style.css
+/plus/img/df_dedetitle.gif 1 https://digicard.idealgroups.org/plus/img/df_dedetitle.gif
+/static/index/css/trade-history.css 1 https://digicard.idealgroups.org/static/index/css/trade-history.css
+/h1//kf.html 1 https://digicard.idealgroups.org/h1//kf.html
+/Public/home/js/check.js 1 https://digicard.idealgroups.org/Public/home/js/check.js
+/im/index/user.html 1 https://digicard.idealgroups.org/im/index/user.html
+/index/home/login.html 1 https://digicard.idealgroups.org/index/home/login.html
+/api/events 1 https://digicard.idealgroups.org/api/events
+/static/js/chat-config.js 1 https://digicard.idealgroups.org/static/js/chat-config.js
+/share/init_data 1 https://digicard.idealgroups.org/share/init_data
+/api/app/appsetting/link/indexLink 1 https://digicard.idealgroups.org/api/app/appsetting/link/indexLink%3Fkey%3Dcustomer_service
+/system.php 1 https://digicard.idealgroups.org/system.php%3Fact%3Dpayments
+/Public/Wchat/js/cvphp.js 1 https://digicard.idealgroups.org/Public/Wchat/js/cvphp.js
+/public/static/index/picture/img_33.png 1 https://digicard.idealgroups.org/public/static/index/picture/img_33.png
+/Public/initJs.php 1 https://digicard.idealgroups.org/Public/initJs.php
+/api/card/config 1 https://digicard.idealgroups.org/api/card/config
+/docker/.env.local 1 -
+/api/user/time 1 https://digicard.idealgroups.org/api/user/time
+/api/swagger.json 1 -
+/appx 1 https://digicard.idealgroups.org/appx/
+/im/App/config 1 https://digicard.idealgroups.org/im/App/config
+/getLocale 1 https://digicard.idealgroups.org/getLocale
+/nyyh/game.css 1 https://digicard.idealgroups.org/nyyh/game.css
+/api/signup 1 -
+/img/pc-ios.png 1 https://digicard.idealgroups.org/img/pc-ios.png
+/wp-json 1 https://digicard.idealgroups.org/wp-json/
+/TikTok/TikTok.html 1 https://digicard.idealgroups.org/TikTok/TikTok.html
+/css/main.css 1 https://digicard.idealgroups.org/css/main.css
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 72
+45.148.10.62 13 13 31672 20260430031357
+119.235.222.178 10 10 10409 20260410144746
+118.99.99.133 10 10 10407 20260425110119
+204.76.203.25 9 9 29830 20260428073016
+213.35.119.176 8 8 8067 20260422091253
+165.154.46.163 6 7 18796 20260408045935
+88.151.34.248 4 4 2910 20260428080758
+140.245.50.113 4 4 4034 20260418140407
+140.245.49.159 4 4 4045 20260410095954
+140.245.32.2 4 4 4028 20260423174415
+103.168.66.237 4 4 10988 20260423234953
+195.178.110.223 3 3 2136 20260423192650
+204.76.203.27 3 3 9938 20260425043409
+157.245.36.108 3 3 4360 20260422162627
+89.244.95.88 2 2 5470 20260422182436
+93.123.109.180 2 2 2090 20260410103426
+93.123.109.214 2 2 2092 20260423110348
+35.186.186.214 2 2 1868 20260421104246
+115.231.78.15 2 2 4346 20260424140636
+88.151.33.247 2 2 2074 20260422184103
+3.151.194.164 2 2 2068 20260427071105
+93.216.67.49 2 2 5470 20260424171521
+94.26.106.205 2 2 1035 20260424222143
+103.168.67.159 2 2 2071 20260413131457
+15.164.176.233 2 2 2112 20260427130342
+46.101.73.57 1 1 1042 20260426133424
+44.197.109.186 1 1 1042 20260414020919
+64.23.213.76 1 1 1044 20260422172337
+64.23.176.51 1 1 1044 20260408070641
+66.132.172.101 1 1 1037 20260408065912
+151.243.143.47 1 1 1037 20260422062423
+5.175.178.10 1 1 3318 20260429154647
+167.94.146.58 1 1 1037 20260417203111
+143.244.47.83 1 1 0 20260422162955
+66.132.224.83 1 1 1034 20260425100931
+199.45.155.90 1 1 1039 20260415115940
+107.173.171.201 1 1 1045 20260424153705
+193.143.1.112 1 1 1035 20260425191442
+91.231.89.126 1 1 2152 20260422172005
+91.231.89.32 1 1 3318 20260422171800
+66.132.172.193 1 1 1047 20260402121250
+104.204.221.16 1 1 1033 20260430210457
+23.180.120.131 1 1 1047 20260407081822
+205.169.39.11 1 1 1047 20260422164202
+165.227.143.154 1 1 1036 20260418153132
+91.231.89.35 1 1 2152 20260422170859
+91.231.89.33 1 1 3318 20260422170943
+199.45.154.154 1 1 1045 20260410025347
+88.151.34.109 1 1 1038 20260418204317
+185.213.174.125 1 1 1045 20260419080235
+85.137.49.10 1 1 1046 20260425225225
+45.114.125.145 1 1 3310 20260430020059
+185.247.137.242 1 1 1036 20260412000827
+203.75.213.2 1 1 1044 20260427033438
+193.32.248.240 1 1 1046 20260430014948
+184.72.173.149 1 1 1046 20260409024849
+66.132.186.164 1 1 1047 20260425034835
+46.101.137.38 1 1 1046 20260424120415
+3.139.242.79 1 1 1035 20260415040536
+66.132.195.97 1 1 1046 20260425175620
+195.164.49.144 1 1 1038 20260422194655
+66.132.172.187 1 1 1034 20260401033102
+142.93.163.249 1 1 1035 20260404110127
+91.231.89.23 1 1 3318 20260422165747
+195.178.110.64 1 1 1044 20260405164811
+85.11.167.19 1 1 1036 20260424050810
+45.3.45.206 1 1 1045 20260430154456
+173.199.119.32 2 2 6628 20260411200911
+66.132.172.180 1 1 1044 20260417125708
+51.254.49.104 1 1 3318 20260422182707
+88.151.33.35 2 2 2087 20260423224804
+98.90.210.252 1 1 1035 20260413094047
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20260401 1 1 1034 1
+20260402 2 2 4365 2
+20260404 2 2 4345 2
+20260405 1 1 1044 1
+20260407 1 1 1047 1
+20260408 11 12 28539 6
+20260409 6 6 16434 2
+20260410 22 22 33005 6
+20260411 5 5 7350 2
+20260412 2 2 2070 2
+20260413 2 2 2072 2
+20260414 2 2 4360 2
+20260415 2 2 2074 2
+20260416 1 1 3310 1
+20260417 2 2 2081 2
+20260418 6 6 6108 3
+20260419 1 1 1045 1
+20260420 1 1 3318 1
+20260421 3 3 5178 2
+20260422 23 23 38714 16
+20260423 14 14 20297 6
+20260424 10 10 17296 7
+20260425 16 16 18925 7
+20260426 1 1 1042 1
+20260427 7 7 9596 5
+20260428 5 5 6220 2
+20260429 1 1 3318 1
+20260430 6 6 8525 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 2
+0s-30s 89
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 126 195154 87 76
+/login 15 24668 2 9
+/password/reset 8 14579 2 5
+/register 5 4625 0 0
+/.env.example 1 1069 0 1
+/_ignition/health-check 1 49 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+1K-2K 109
+100-500 269
+2K-5K 321
+5K+ 81
+500-1K 355
+44-100 99
+0-44 24
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

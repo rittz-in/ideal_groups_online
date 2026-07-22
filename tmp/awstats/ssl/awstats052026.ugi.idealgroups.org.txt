@@ -1,0 +1,511 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202605 will be lost/reset.
+# Last config file used to build this data file was /home1/idealgro/tmp/awstats/ssl/awstats.ugi.idealgroups.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2092                
+POS_TIME 2750                
+POS_VISITOR 11596               
+POS_DAY 11702               
+POS_DOMAIN 3360                
+POS_LOGIN 3580                
+POS_ROBOT 3735                
+POS_WORMS 3867                
+POS_EMAILSENDER 3998                
+POS_EMAILRECEIVER 4141                
+POS_SESSION 11775               
+POS_FILESIZE 12023               
+POS_REQUESTTIME 12141               
+POS_SIDER 11921               
+POS_FILETYPES 4276                
+POS_DOWNLOADS 4356                
+POS_OS 4404                
+POS_BROWSER 4479                
+POS_SCREENSIZE 4545                
+POS_UNKNOWNREFERER 4619                
+POS_UNKNOWNREFERERBROWSER 4706                
+POS_ORIGIN 4788                
+POS_SEREFERRALS 4918                
+POS_PAGEREFS 5062                
+POS_SEARCHWORDS 5210                
+POS_KEYWORDS 5362                
+POS_MISC 2414                
+POS_ERRORS 5421                
+POS_CLUSTER 3436                
+POS_SIDER_404 5564                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260601011647 1 0 7371078500732
+FirstTime 0
+LastTime 20260523181817
+LastUpdate 20260601192514 1 0 0 0 0
+TotalVisits 1                   
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 32 36 10072
+1 0 0 0 10 11 4232
+2 0 0 0 80 87 28491
+3 0 0 0 14 14 5654
+4 0 0 0 130 135 29709
+5 0 0 0 56 56 15765
+6 0 0 0 6 6 3042
+7 0 0 0 7 8 2941
+8 0 0 0 175 175 40144
+9 0 0 0 35 37 11575
+10 0 0 0 5 5 2231
+11 0 0 0 126 136 44511
+12 0 0 0 85 93 30951
+13 0 0 0 56 57 16374
+14 0 0 0 18 19 6844
+15 0 0 0 40 44 13685
+16 0 0 0 296 309 97259
+17 0 0 0 9 9 3393
+18 2 2 0 304 311 82867
+19 0 0 0 171 175 43186
+20 0 0 0 13 17 5979
+21 0 0 0 6 6 1872
+22 0 0 0 6 7 2459
+23 0 0 0 17 18 6491
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+il 2 2 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+Unknown 2 0 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+linux 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 1
+chrome124.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2 2
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+409 111 9213
+404 804 284456
+406 715 161364
+421 1 362
+403 130 54332
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 266
+/stripe.config.js 1 -
+/runtime-config.js 5 -
+/admin 2 -
+/api/shared/config.env 1 -
+/secrets.yml 4 -
+/_profiler/phpinfo 3 -
+/.env.dev 6 -
+/.svn/entries 1 -
+/.next/build-manifest.json 2 -
+/graphql/v1 2 -
+/config/secrets.yml 5 -
+/api/client_secret.json 2 -
+/client/stripe.config.js 1 -
+/api/swagger.json 1 -
+/var/task/netlify.toml 1 -
+/src/config/stripe.ts 1 -
+/app/next.config.js 1 -
+/var/task/nuxt.config.js 1 -
+/application.properties 4 -
+/application_default_credentials.json 2 -
+/appsettings.json 2 -
+/register 1 -
+/.envrc 1 -
+/api/config 7 -
+/app/next.config.mjs 1 -
+/dist/.vite/manifest.json 4 -
+/_next/static/buildManifest.js 3 -
+/.git/refs/heads/master 5 -
+/config/storage.yml 1 -
+/static/manifest.json 4 -
+//cdn.js 1 -
+/v1/graphql 2 -
+/profiler 1 -
+/aws.yaml 1 -
+/__/firebase/init.json 3 -
+/api/v1/credentials 1 -
+/aws_s3_config.json 1 -
+/config/service-account.json 2 -
+/.git/refs/heads/main 5 -
+/api/credentials 1 -
+/stripe.env 1 -
+/vercel.json 1 -
+/aws.json 1 -
+/.env.test 8 -
+/.env.local 22 -
+/sendgrid.env 1 -
+/phpinfo 3 -
+/@fs/.env.development 1 https://www.facebook.com/
+/info 3 -
+/firebase.json 2 -
+/robots.txt 9 -
+/api/v1/secrets 1 -
+/.DS_Store 1 -
+/.s3cfg 1 -
+/service-account.json 10 -
+/s3/.aws/config 1 -
+/storage/logs/laravel.log 4 -
+/.ssh/config 1 -
+/.env.tmp 1 -
+/api/settings 5 -
+/client_secrets.json 2 -
+/graphql/v2 2 -
+/api/health 4 -
+/openapi.json 5 -
+/dist/manifest.json 3 -
+/sitemap.xml 6 -
+/_cat/indices 1 -
+/app-ads.txt 1 -
+/.env_secret 1 -
+/.env_1 1 -
+/var/task/next.config.mjs 1 -
+/assets/manifest.json 3 -
+/tmui/login.jsp/.. 1 -
+/ 47 -
+/.ssh/authorized_keys 1 -
+/.env.ci 2 -
+/root/.aws/config 1 -
+/config.js 6 -
+/.env.stage 3 -
+/software/update.cgi 1 -
+/aws/s3/credentials 1 -
+/Dockerfile 1 -
+/swagger-ui.html 1 -
+/config/db.env 1 -
+/config.env 6 -
+/xampp/php-cgi.exe 1 -
+/wp-json/wc/v3/payment_gateways 1 -
+/env.json 5 -
+/login 2 -
+/wp-config.php 1 -
+/.env.remote 2 -
+/credentials.json 6 -
+/@fs/.env.local 2 https://www.notion.so/
+/configprops 1 -
+/.ssh/id_ed25519 5 -
+/_environment 2 -
+/_rNd9xZ7kL3 1 https://www.google.com/search
+/app/netlify.toml 1 -
+/serverless.yaml 1 -
+/config/application.properties 4 -
+/_next/build-manifest.json 3 -
+/config/credentials.json 2 -
+/aws_credentials.json 1 -
+/.stripe/ 1 -
+/.env.production.local 1 -
+/package-updates/perform.cgi 1 -
+/client_secret.json 2 -
+/js/config.js 1 -
+/firebase-debug.log 1 -
+/.git/index 1 -
+/app/nuxt.config.js 1 -
+/.npmrc 4 -
+/.git 1 -
+/firebase-credentials.json 2 -
+/sa-key.json 2 -
+/var/task/next.config.ts 1 -
+/serviceAccountKey.json 6 -
+/aws.env.json 1 -
+/docker-compose.prod.yml 1 -
+/.ssh/id_ecdsa 1 -
+/aws-credentials 1 -
+/s3-config.json 1 -
+/.env.preprod 2 -
+/settings.py 4 -
+/.ssh/known_hosts 1 -
+/v2/api-docs 1 -
+/.env.live 3 -
+/gql 2 -
+/wp-json/wc/v2/payment_gateways 1 -
+/terraform.tfvars 1 -
+/wp-admin/ 4 -
+/.env.save 9 -
+/profiler/phpinfo 1 -
+/aws-exports.js 1 -
+/.env.production 19 -
+/.hg/hgrc 1 -
+/aws/credentials 1 -
+/@fs/.env.test 1 https://stackoverflow.com/
+/.astro/manifest.json 3 -
+/build/manifest.json 3 -
+/asset-manifest.json 4 -
+/.env.example 8 -
+/src/aws-exports.js 1 -
+/s3.secret 1 -
+/.pypirc 4 -
+/ormconfig.json 1 -
+/.env.production.save 5 -
+/.env.aws 1 -
+/.env.txt 1 -
+/.env.dev.local 1 -
+/config/initializers/sendgrid.rb 1 -
+/app-config.json 5 -
+/keyfile.json 2 -
+/s3/bucket.env 1 -
+/@fs/etc/passwd 2 https://duckduckgo.com/
+/.well-known/jwks.json 4 -
+/actuator/env 3 -
+/aws.env 1 -
+/__env.js 5 -
+/_nuxt/builds/latest.json 4 -
+/s3/credentials 1 -
+/webpack-stats.json 4 -
+/Procfile 1 -
+/stripe.json 1 -
+/.env.local.save 5 -
+/root/.git-credentials 1 -
+/api/v1/env 4 -
+/manifest.webmanifest 4 -
+/config.json.save 1 -
+/firebase-adminsdk.json 2 -
+/env.js 5 -
+/firebase-service-account.json 6 -
+/.terraform.tfstate 1 -
+/.git/HEAD 13 -
+/root/.aws/credentials 1 -
+/config/env 1 -
+/storage/../../../.env 2 -
+/key.json 2 -
+/firebase-config.json 4 -
+/ads.txt 1 -
+/@fs/.git/config 2 https://www.notion.so/
+/user/login 1 -
+/.vscode/sftp.json 1 -
+/api/graphql 3 -
+/graphql 4 -
+/.env.development 11 -
+/../.env 1 -
+/var/task/next.config.js 1 -
+/../../.env 1 -
+/.env.prod 6 -
+/s3.yaml 1 -
+/old/aws_config 1 -
+/docker/overlay/config.json 1 -
+/.git/packed-refs 1 -
+/health 4 -
+/root/.netrc 1 -
+/app/credentials.json 2 -
+/query 2 -
+/sellers.json 1 -
+/gcp-service-account.json 2 -
+/.env_sample 1 -
+/.env_backup 1 -
+/.aws/credentials 15 -
+/.env.uat 2 -
+/gcp-credentials.json 2 -
+/terraform.tfstate 1 -
+/zz-nonexistent-test-8492.html 1 -
+/aws-config.js 2 -
+/file-manager/initialize 2 -
+/.git/FETCH_HEAD 5 -
+/api/v1/settings 5 -
+/.well-known/openid-configuration 1 -
+/api/v2/config 4 -
+/.env.staging 9 -
+/service-account-key.json 2 -
+/google-credentials.json 2 -
+/root/.gitconfig 1 -
+/.git/logs/HEAD 6 -
+/env 2 -
+/@fs/.env.production 1 https://chat.openai.com/
+/.env.dist 4 -
+/swagger.json 4 -
+/app/kibana 1 -
+/api/v2/settings 4 -
+/config/stripe.php 1 -
+/api/v1/config 6 -
+/.terraform/terraform.tfstate 1 -
+/functions/.runtimeconfig.json 1 -
+/stats.json 4 -
+/app/serverless.yaml 1 -
+/var/task/nuxt.config.ts 1 -
+/secrets.json 12 -
+/.git-credentials 2 -
+/app/etc/local.xml 1 -
+/.env.sample 3 -
+/admin/.env 9 -
+/actuator/heapdump 1 -
+/_profiler/latest 1 -
+/manifest.json 4 -
+/sa-private-key.json 2 -
+/application.yml 4 -
+/_nuxt/manifest.json 4 -
+/phpinfo.php 1 -
+/serverless.yml 3 -
+/api/env 7 -
+/root/.boto 1 -
+/_debugbar 1 -
+/.circleci/config.yml 1 -
+/.vite/manifest.json 3 -
+/api/openapi.json 4 -
+/google-service-account.json 6 -
+/.git/config 42 -
+/administrator/ 1 -
+/.env.docker 3 -
+/settings.json 5 -
+/docker-compose.yml 2 -
+/actuator/configprops 1 -
+/.docker/config.json 4 -
+/.aws/config 3 -
+/api/account 4 -
+/config.json 7 -
+/heapdump 1 -
+/aws.config.js 2 -
+/root/.s3cfg 1 -
+/graphiql 1 -
+/build-manifest.json 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1
+2.57.122.189 2 2 0 20260523181817
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20260523 2 2 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/inngest 1 0 1 0
+/api/inngest/fn 1 0 0 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 4
+0-44 9
+500-1K 42
+100-500 1611
+44-100 111
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

@@ -1,0 +1,72 @@
+.blog-banner {
+  background-image: url("../img/blog-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 300px;
+  position: relative;
+  .banner-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    left: 0;
+    right: 0;
+    position: absolute;
+    margin: auto;
+    .main-heading {
+      color: $white;
+      font-size: 70px;
+      font-weight: 700;
+      text-transform: uppercase;
+      @include media-breakpoint-down(lg) {
+        font-size: 45px;
+      }
+    }
+  }
+}
+
+.card-body {
+  background-color: $white;
+  .text-muted {
+    color: $gray-color;
+  }
+  .card-title {
+    color: $primary;
+  }
+  .card-text {
+    color: $secondary;
+  }
+  .card-btn {
+    line-height: 1.8;
+  }
+}
+.card-head {
+  background-color: $blue-color;
+  color: $white;
+}
+.card-bg {
+  #button-search {
+    @include media-breakpoint-down(xl) {
+      width: 100px;
+    }
+  }
+}
+.page-item.active .page-link {
+  background-color: $blue-color;
+  border-color: $blue-color;
+}
+
+
+
+/*************  Blog Details Page  **********/
+
+.blog-body{
+  p, li{
+    color: $secondary;
+    line-height: 1.7;
+  }
+  ul{
+    padding-left: 20px;
+  }
+}

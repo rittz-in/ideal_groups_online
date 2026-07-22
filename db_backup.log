@@ -36,3 +36,89 @@
 /bin/sh: /home1/idealgro/db_backup.sh: Permission denied
 /bin/sh: /home1/idealgro/db_backup.sh: Permission denied
 /usr/local/cpanel/bin/jailshell: /home1/idealgro/db_backup.sh: Permission denied
+==================================================
+Database Backup Started : 2026-07-22 15:39:02
+==================================================
+
+Cleaning old backups...
+Old backups removed.
+
+----------------------------------------
+Database : idealgro_web
+Started  : 15:39:02
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Status   : SUCCESS
+
+==================================================
+Backup Summary
+==================================================
+Total Databases : 1
+Successful      : 1
+Failed          : 0
+
+Backup Folder:
+/home1/idealgro/ideal_db_backups
+
+Completed At : 2026-07-22 15:39:06
+==================================================
+==================================================
+Database Backup Started : 2026-07-22 15:40:02
+==================================================
+
+Cleaning old backups...
+Old backups removed.
+
+----------------------------------------
+Database : idealgro_web
+Started  : 15:40:02
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Status   : SUCCESS
+
+==================================================
+Backup Summary
+==================================================
+Total Databases : 1
+Successful      : 1
+Failed          : 0
+
+Backup Folder:
+/home1/idealgro/ideal_db_backups
+
+Completed At : 2026-07-22 15:40:07
+==================================================
+==================================================
+Database Backup Started : 2026-07-22 15:41:02
+==================================================
+
+Cleaning old backups...
+Old backups removed.
+
+----------------------------------------
+Database : idealgro_web
+Started  : 15:41:02
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Status   : SUCCESS
+
+==================================================
+Backup Summary
+==================================================
+Total Databases : 1
+Successful      : 1
+Failed          : 0
+
+Backup Folder:
+/home1/idealgro/ideal_db_backups
+
+Completed At : 2026-07-22 15:41:06
+==================================================
+==================================================
+Database Backup Started : 2026-07-22 15:42:01
+==================================================
+
+Cleaning old backups...
+Old backups removed.
+
+----------------------------------------
+Database : idealgro_web
+Started  : 15:42:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.

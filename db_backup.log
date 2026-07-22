@@ -344,3 +344,14 @@ Backup Folder:
 
 Completed At : 2026-07-22 15:49:06
 ==================================================
+==================================================
+Database Backup Started : 2026-07-22 15:50:02
+==================================================
+
+Cleaning old backups...
+Old backups removed.
+
+----------------------------------------
+Database : idealgro_web
+Started  : 15:50:02
+mysqldump: [Warning] Using a password on the command line interface can be insecure.

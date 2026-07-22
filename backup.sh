@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home1/idealgro || exit
+cd /home1/idealgro/ || exit
 
 git add .
 

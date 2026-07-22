@@ -8,7 +8,7 @@ git config core.preloadIndex false
 git config pack.threads 1
 
 # Log file
-LOG="/home1/idealgro/db_backup.log"
+LOG="/home1/idealgro/backup_git.log"
 
 echo "==============================" >> $LOG
 echo "Backup started: $(date)" >> $LOG

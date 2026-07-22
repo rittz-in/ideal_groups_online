@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/21/2026 08:37:55
-2026 7 21 8 37 55
-244 103 47 28 8 49 3834474 101 51 0
-6 64 64 2 21
+# Webalizer V2.23-08 Incremental Data - 07/22/2026 14:11:05
+2026 7 22 14 11 5
+252 109 49 28 8 49 3979071 106 55 0
+2 5 64 2 22
 0 0 0 0 0 0
 5 3 93020 2 2 1
 3 0 0 1 0 0
@@ -22,8 +22,8 @@
 4 0 452 1 0 0
 8 5 158277 5 6 5
 8 5 323359 3 6 3
-69 18 556245 6 12 4
-0 0 0 0 0 0
+72 21 585252 8 14 6
+5 3 115590 2 3 2
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -47,29 +47,29 @@
 0 0 0 0
 1 0 226 0
 8 3 29233 2
-4 2 185474 4
+9 5 301064 7
 4 2 36713 3
 2 1 36284 2
 3 2 115255 2
 2 0 226 0
 23 9 699058 22
-16 11 187591 8
+19 14 216598 10
 8 1 93189 2
 2 1 36307 2
 6 4 151537 4
-1
+2
 0
 0
-103
-0
-0
-0
+109
 0
 0
 0
 0
 0
-40
+0
+0
+0
+41
 0
 0
 0
@@ -100,11 +100,11 @@
 0
 # -urls- 
 /assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js
-0 2 3617003161508785459 23938 0 0
+0 2 3347421805067267939 23938 0 0
 /assets/vendor/libs/node-waves/node-waves.js
-0 2 7596570299436266085 14620 0 0
+0 2 112 14620 0 0
 /register
-0 2 13899184 196538 1 0
+0 2 8319045105058736492 196538 1 0
 /order/status/ORD202606110001
 0 1 0 265 0 0
 /assets/vendor/libs/hammer/hammer.js
@@ -116,7 +116,7 @@
 /assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css
 0 1 0 1370 0 0
 /favicon.ico
-0 2 0 0 0 0
+0 3 0 0 0 0
 /assets/vendor/libs/typeahead-js/typeahead.css
 0 1 0 680 0 0
 /track-order
@@ -126,21 +126,21 @@
 /assets/vendor/css/rtl/theme-default.css
 0 1 0 11176 0 0
 /login
-0 33 0 1809529 7 5
+0 34 0 1845605 7 5
 /assets/img/fizzfavicon.svg
-0 10 18446744073709551615 789420 0 0
+0 11 0 868362 0 0
 /assets/vendor/libs/animate-css/animate.css
 0 1 0 10295 0 0
 /assets/vendor/fonts/tabler-icons.css
-0 1 0 31340 0 0
+0 1 145 31340 0 0
 /assets/vendor/js/helpers.js
-0 2 140319564211536 24758 0 0
+0 2 0 24758 0 0
 /assets/vendor/libs/@form-validation/umd/bundle/popular.min.js
-0 2 0 57022 0 0
+0 2 9453040 57022 0 0
 /assets/js/config.js
 0 2 0 1340 0 0
 /assets/js/main.js
-0 8 0 153972 0 0
+0 9 0 177231 0 0
 /assets/vendor/js/menu.js
 0 2 0 25002 0 0
 /assets/vendor/libs/node-waves/node-waves.css
@@ -148,13 +148,13 @@
 /robots.txt
 0 2 0 48 0 0
 /assets/vendor/libs/@form-validation/umd/plugin-bootstrap5/
-0 8 0 23024 5 3
+0 9 0 26433 6 4
 /assets/vendor/js/bootstrap.js
 0 2 0 365748 0 0
 /assets/js/pages-auth.js
 0 2 0 1758 0 0
 /assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
-0 8 0 16020 6 3
+0 9 0 18359 7 3
 # End Of Table - urls
 # -sites- (monthly)
 94.154.43.186
@@ -176,11 +176,14 @@
 0 3 2 115255 1 1784170057
 /login
 94.154.43.183
-0 1 0 226 0 0
--
+0 2 1 2565 1 1784665005
+/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
 46.172.132.66.censys-scanner.com
 0 3 2 36310 1 1784144598
 /login
+1b1.crawl.securitytrails.com
+0 1 0 362 1 1784728990
+-
 198.235.24.14
 0 1 0 0 0 0
 -
@@ -260,7 +263,7 @@ mail1.surge-inbox.org
 0 7 3 28841 2 1784320712
 /assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
 94.154.43.177
-0 5 5 123673 3 1784609064
+0 6 6 146932 3 1784609064
 /login
 ec2-18-246-253-188.us-west-2.compute.amazonaws.com
 0 3 2 36331 1 1783370958
@@ -275,7 +278,7 @@ ec2-18-246-253-188.us-west-2.compute.amazonaws.com
 0 1 0 0 0 0
 -
 94.154.43.178
-0 4 3 119405 3 1784122897
+0 5 4 122814 4 1784665005
 /assets/vendor/libs/@form-validation/umd/plugin-bootstrap5/
 192-210-150-198-host.colocrossing.com
 0 7 1 93587 1 1783452776
@@ -286,6 +289,9 @@ penzenstadler
 205.210.31.109
 0 1 0 410 1 1784301036
 -
+130.172.132.66.censys-scanner.com
+0 4 3 115228 1 1784729459
+/login
 94.154.43.187
 0 7 5 214297 5 1784491219
 /assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
@@ -300,23 +306,11 @@ r3-170-aa.monitoring.internet-measurement.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-94.154.43.229
-0 1 0 410 1 1784609063
+1b1.crawl.securitytrails.com
+0 1 0 362 1 1784728990
 -
-ec2-44-220-233-148.compute-1.amazonaws.com
-0 2 1 36315 1 1784610605
-/login
-104.28.251.199
-0 39 0 1296 0 0
--
-142.248.80.138
-0 25 16 425671 1 1784623073
-/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
-94.154.43.179
-0 1 0 226 0 0
--
-94.154.43.177
-0 1 1 92327 1 1784609064
+130.172.132.66.censys-scanner.com
+0 4 3 115228 1 1784729459
 /login
 # End Of Table - sites (daily)
 # -referrers- 
@@ -327,7 +321,7 @@ https://www.fizznfreeze.idealgroups.org
 https://fizznfreeze.idealgroups.org
 0 4
 - (Direct Request)
-0 218
+0 226
 https://fizznfreeze.idealgroups.org/track-order
 0 3
 https://fizznfreeze.idealgroups.org/register
@@ -361,7 +355,7 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14
 Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
 0 1
 RecordedFuture Global Inventory Crawler
-0 1
+0 2
 CCBot/2.0 (https://commoncrawl.org/faq/)
 0 3
 Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
@@ -375,7 +369,7 @@ Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G920P Build/LMY47X) AppleWebKit/53
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
-0 15
+0 19
 Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
 0 3
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15
@@ -390,10 +384,10 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 0 1
 Mozilla/5.0 (Linux; Android 4.4.3; KFAPWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/44.1.81 like Chrome/44.0.
 0 3
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36
-0 2
 Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0
 0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36
+0 2
 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
 0 4
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0
@@ -413,13 +407,13 @@ Mozilla/5.0 (compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot
 Mozilla/5.0 (compatible; Google-CloudVertexBot; +https://cloud.google.com/vertex-ai-bot)
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 42
+0 45
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 0 9
-Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
-0 4
 Mozilla/5.0 (compatible; GoogleOther; +https://developers.google.com/search/)
 0 6
+Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
+0 4
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147
 0 4
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)

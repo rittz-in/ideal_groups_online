@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/21/2026 17:42:35
-2026 7 21 17 42 35
-337 6 58 4 3 60 1254680 82 54 0
-3 1 137 1 21
+# Webalizer V2.23-08 Incremental Data - 07/22/2026 12:43:16
+2026 7 22 12 43 16
+347 6 59 4 3 60 1268297 87 56 0
+2 4 137 1 22
 3 0 41032 1 2 1
 2 0 12178 1 0 0
 89 2 263570 2 5 2
@@ -22,8 +22,8 @@
 3 0 20742 3 1 1
 2 0 166 1 0 0
 7 0 20825 5 5 5
-6 0 20641 3 5 4
-0 0 0 0 0 0
+7 0 20641 4 6 5
+9 0 13617 2 4 1
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -41,18 +41,18 @@
 0 0 0 0
 1 0 226 0
 138 1 528209 19
-4 1 333 2
-9 0 21044 5
+5 1 416 2
+13 0 21948 9
 3 0 41032 2
 90 3 263677 5
-3 0 343 2
+7 0 12973 2
 5 0 671 2
 1 0 0 1
 2 0 0 2
 5 0 226 4
 2 0 0 2
 4 0 0 3
-4 0 0 4
+5 0 0 5
 18 0 143180 4
 4 0 249 1
 5 1 12344 4
@@ -68,7 +68,7 @@
 0
 0
 0
-48
+49
 7
 0
 0
@@ -78,12 +78,12 @@
 0
 0
 3
-164
+166
 0
-88
+94
 0
 0
-18
+19
 0
 0
 0
@@ -102,7 +102,7 @@
 /sitemap.xml
 0 1 0 244 0 0
 /
-0 1 0 6255 26 3
+0 1 0 6255 28 4
 /robots.txt
 0 3 0 321 0 0
 /wp-json
@@ -139,6 +139,9 @@ r4-248-f8.monitoring.internet-measurement.com
 61.146.94.167.censys-scanner.com
 0 1 0 0 1 1784143875
 /
+198.235.24.162
+0 1 0 0 1 1784663967
+/
 1c1.crawl.securitytrails.com
 0 1 0 362 1 1783775517
 -
@@ -161,7 +164,7 @@ ec2-16-147-195-56.us-west-2.compute.amazonaws.com
 0 2 0 0 1 1783450494
 -
 91.92.241.196
-0 3 0 18267 0 0
+0 7 0 30897 0 0
 -
 45.157.54.14
 0 2 0 166 0 0
@@ -257,7 +260,7 @@ r5-83-53.monitoring.internet-measurement.com
 0 1 0 0 1 1783088601
 -
 ip149.ip-51-195-39.eu
-0 12 0 123304 6 1784607486
+0 17 0 124291 7 1784713085
 /
 ec2-100-28-138-4.compute-1.amazonaws.com
 0 1 0 0 1 1784067736
@@ -285,21 +288,18 @@ ip148.ip-51-195-39.eu
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-137.184.4.110
-0 2 0 0 1 1784625753
-/
-198.235.24.145
-0 1 0 0 1 1784655755
-/
+91.92.241.196
+0 4 0 12630 0 0
+-
 ip149.ip-51-195-39.eu
-0 3 0 20641 2 1784607486
+0 5 0 987 1 1784713085
 /
 # End Of Table - sites (daily)
 # -referrers- 
 https://www.ugi.net.in.idealgroups.org/
 0 3
 - (Direct Request)
-0 333
+0 343
 https://ugi.net.in.idealgroups.org/
 0 1
 # End Of Table - referrers
@@ -341,7 +341,7 @@ Mozilla/5.0 (compatible; cohere-ai/1.0; +https://cohere.com)
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-0 1
+0 2
 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 0 12
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
@@ -353,7 +353,7 @@ Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-0 3
+0 4
 visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
@@ -367,7 +367,7 @@ Goosee-Audit/1.0 (+internal-security-audit)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/129.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0
-0 3
+0 4
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -389,13 +389,13 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like 
 Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 20
+0 21
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-0 3
+0 7
 Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)
 0 6
 Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
-0 6
+0 7
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; rv:149.0) Gecko/20100101 Firefox/149.0
 0 2
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com
@@ -409,7 +409,7 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-0 6
+0 7
 Mozilla/5.0 (compatible; wpbot/1.4; +https://forms.gle/ajBaxygz9jSR8p8G9)
 0 4
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0

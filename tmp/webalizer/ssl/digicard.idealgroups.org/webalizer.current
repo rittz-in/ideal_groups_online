@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/21/2026 07:12:39
-2026 7 21 7 12 39
-369 84 75 5 9 59 3459786 122 66 0
-3 1 155 1 21
+# Webalizer V2.23-08 Incremental Data - 07/22/2026 09:37:12
+2026 7 22 9 37 12
+375 85 76 5 9 59 3464234 125 69 0
+2 1 155 1 22
 158 4 834296 7 13 5
 23 6 37516 5 9 3
 2 1 3672 2 2 2
@@ -23,7 +23,7 @@
 23 7 44857 6 10 4
 39 28 565744 11 31 7
 3 2 4710 3 3 3
-0 0 0 0 0 0
+6 1 4448 2 3 3
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -40,9 +40,9 @@
 4 2 917322 4
 8 4 11826 5
 5 1 6352 2
-8 0 1944 5
-5 2 9363 2
-6 2 5324 3
+10 0 2396 6
+8 2 10041 3
+7 3 8642 4
 6 3 29747 3
 8 3 423705 4
 12 4 56984 4
@@ -60,7 +60,7 @@
 2
 0
 0
-84
+85
 0
 0
 0
@@ -80,7 +80,7 @@
 0
 196
 4
-75
+80
 0
 0
 1
@@ -102,20 +102,20 @@
 /super-admin
 0 18 8319045105058736492 48397 1 0
 /password/reset
-0 3 3615887152911364657 2513 0 0
+0 3 0 2513 0 0
 /website/IdealGroups
 0 5 0 70237 1 0
 /.env.example
-0 1 7596857888815972352 1069 0 0
+0 1 0 1069 0 0
 /
-0 57 11474224 102673 62 12
+0 58 0 105991 65 14
 # End Of Table - urls
 # -sites- (monthly)
-50.17.204.35.bc.googleusercontent.com
-0 1 0 226 1 1783435029
-/
 94.154.43.186
 0 4 1 3996 1 1783798245
+/
+50.17.204.35.bc.googleusercontent.com
+0 1 0 226 1 1783435029
 /
 94.154.43.229
 0 2 2 6628 2 1784595179
@@ -159,6 +159,9 @@ ip125.kcy.lh-nap.net
 130.12.182.12
 0 2 0 452 0 0
 -
+105.72.212.24
+0 4 0 904 2 1784708223
+/
 198.235.24.159
 0 1 1 3310 1 1784562420
 /
@@ -304,7 +307,7 @@ ec2-184-34-110-84.us-west-2.compute.amazonaws.com
 0 2 1 3472 1 1783491839
 /
 94.154.43.187
-0 3 2 6854 2 1784051107
+0 5 3 10398 3 1784713032
 /
 253.164.124.34.bc.googleusercontent.com
 0 1 0 2428 0 0
@@ -338,14 +341,11 @@ r3-26-1a.monitoring.internet-measurement.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-94.154.43.229
-0 1 1 3310 1 1784595179
+105.72.212.24
+0 4 0 904 2 1784708223
 /
-1b1.crawl.securitytrails.com
-0 1 0 362 1 1784617959
-/
-scan.visionheight.com
-0 1 1 1038 1 1784593138
+94.154.43.187
+0 2 1 3544 1 1784713032
 /
 # End Of Table - sites (daily)
 # -referrers- 
@@ -354,7 +354,7 @@ https://www.digicard.idealgroups.org/
 https://www.digicard.idealgroups.org/public/plugins/ckeditor/images/spacer.gif
 0 1
 - (Direct Request)
-0 335
+0 341
 https://digicard.idealgroups.org/password/
 0 3
 https://www.digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif
@@ -428,7 +428,7 @@ Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0
 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
 0 2
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
-0 12
+0 16
 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/28.0 Chrome/130.0.0.0 Mobile Safari/
 0 3
 WhatsApp/2.23.20.0
@@ -446,17 +446,17 @@ Mozilla/5.0 (compatible; Google-CloudVertexBot; +https://cloud.google.com/vertex
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/146.0.385
 0 6
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 34
+0 36
 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 0 24
 Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 0 2
-Mozilla/5.0 (compatible; GoogleOther; +https://developers.google.com/search/)
-0 1
 Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
 0 6
+Mozilla/5.0 (compatible; GoogleOther; +https://developers.google.com/search/)
+0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 0 4
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15

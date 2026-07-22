@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/21/2026 00:52:59
-2026 7 21 0 52 59
-509 394 66 70 4 53 1349650 86 49 0
-1 1 83 1 21
+# Webalizer V2.23-08 Incremental Data - 07/22/2026 09:37:12
+2026 7 22 9 37 12
+512 396 67 70 4 54 1394981 87 50 0
+3 1 83 1 22
 29 29 59474 7 2 2
 45 40 36789 3 8 2
 25 25 54211 2 1 1
@@ -23,7 +23,7 @@
 6 5 58254 3 3 2
 4 1 11877 4 1 1
 1 1 44311 1 1 1
-0 0 0 0 0 0
+3 2 45331 3 1 1
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -39,10 +39,10 @@
 12 11 5145 1
 33 28 86524 10
 14 10 49228 3
-13 13 16149 1
+14 14 16943 1
 13 8 5942 4
-13 13 5744 0
-15 10 17241 4
+14 13 5970 0
+16 11 61552 5
 94 59 158008 17
 5 5 2444 0
 20 19 40559 4
@@ -60,7 +60,7 @@
 6
 0
 0
-394
+396
 0
 0
 0
@@ -80,7 +80,7 @@
 1
 0
 0
-94
+95
 0
 0
 12
@@ -102,11 +102,11 @@
 /.git/HEAD
 0 7 8319045105058736492 5558 0 0
 /config
-0 1 27003 2118 1 0
-/admin/.env
-0 2 7021237580787246180 1588 0 0
+0 1 7162130782402641920 2118 1 0
 /.claude.json
-0 1 3531103582835179520 794 0 0
+0 1 0 794 0 0
+/admin/.env
+0 2 7957713625452457521 1588 0 0
 /.aider.conf.yml
 0 1 0 794 0 0
 /sitemap.xml
@@ -154,7 +154,7 @@
 /docker-compose.yaml
 0 2 0 1588 0 0
 /.git/config
-0 11 0 8734 0 0
+0 12 0 9528 0 0
 /localhost.key
 0 2 0 1588 0 0
 /favicon.ico
@@ -208,7 +208,7 @@
 /host.key
 0 2 0 1588 0 0
 /
-0 45 0 1119494 45 8
+0 46 0 1163805 46 9
 /.hermes/auth.json
 0 1 0 794 0 0
 /.hermes/config.yaml
@@ -248,7 +248,7 @@
 0 4 3 133159 3 1784348818
 /
 94.154.43.229
-0 3 1 44763 1 1784051107
+0 4 1 44989 1 1784051107
 /
 154.54.100.177
 0 1 1 794 0 0
@@ -334,8 +334,11 @@ ec2-44-244-154-205.us-west-2.compute.amazonaws.com
 205.210.31.147
 0 1 1 44311 1 1783800183
 /
+77.243.91.192
+0 1 1 794 0 0
+-
 94.154.43.179
-0 3 2 88848 2 1783979131
+0 4 3 133159 3 1784713032
 /
 146.190.38.244
 0 1 1 11199 1 1784401273
@@ -441,15 +444,21 @@ r3-235-eb.monitoring.internet-measurement.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-94.154.43.185
-0 1 1 44311 1 1784595179
+94.154.43.229
+0 1 0 226 0 0
+-
+77.243.91.192
+0 1 1 794 0 0
+-
+94.154.43.179
+0 1 1 44311 1 1784713032
 /
 # End Of Table - sites (daily)
 # -referrers- 
 https://www.facebook.com/
 0 1
 - (Direct Request)
-0 502
+0 505
 https://www.web.idealgroups.org/
 0 1
 https://duckduckgo.com/
@@ -470,6 +479,8 @@ Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.
 0 1
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot
 0 8
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/76.0.3809.100 Chrome/76.0.3809.100 Safar
+0 1
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot
 0 9
 Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
@@ -517,7 +528,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 33
+0 35
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15) Gecko/20100101 Firefox/119.0.1
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36

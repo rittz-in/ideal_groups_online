@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/21/2026 12:00:55
-2026 7 21 12 0 55
-170 49 36 3 9 33 2358781 78 36 0
-4 15 25 1 21
+# Webalizer V2.23-08 Incremental Data - 07/21/2026 18:52:15
+2026 7 21 18 52 15
+185 50 37 3 9 33 2397879 82 38 0
+6 15 25 1 21
 3 0 678 1 2 1
 4 3 115260 1 2 1
 4 0 0 1 0 0
@@ -22,7 +22,7 @@
 6 1 93146 2 2 1
 7 4 187852 3 6 3
 29 8 505232 6 13 6
-37 5 250524 4 8 4
+52 6 289622 6 12 6
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -51,7 +51,7 @@
 0 0 0 0
 4 2 72606 4
 3 2 115253 2
-10 4 201721 8
+25 5 240819 12
 5 2 185765 5
 5 0 678 2
 15 5 188499 7
@@ -60,7 +60,7 @@
 0
 0
 0
-49
+50
 0
 0
 0
@@ -68,8 +68,8 @@
 0
 0
 0
-3
-32
+4
+34
 0
 0
 0
@@ -78,12 +78,12 @@
 0
 0
 0
-25
+26
 0
-49
+58
 0
 0
-12
+13
 0
 0
 0
@@ -102,9 +102,9 @@
 /favicon.ico
 0 7 7594809989982218604 0 0 0
 /login
-0 32 3531103582835179520 1548309 0 2
+0 33 0 1584382 0 3
 /assets/img/fizzfavicon.svg
-0 10 7809632559044650349 789420 0 0
+0 10 0 789420 0 0
 # End Of Table - urls
 # -sites- (monthly)
 161.35.83.82
@@ -135,7 +135,7 @@ undefined.hostname.localhost
 0 12 3 109347 3 1784225516
 /login
 scan.visionheight.com
-0 2 1 36289 1 1783353641
+0 4 2 72571 2 1784659935
 /login
 156.135.48.34.bc.googleusercontent.com
 0 18 2 188229 1 1784541293
@@ -166,6 +166,9 @@ scan.visionheight.com
 /login
 165.245.178.210
 0 1 0 83 1 1784204224
+-
+3.166.186.35.bc.googleusercontent.com
+0 13 0 2816 1 1784657385
 -
 205.210.31.156
 0 2 1 92694 1 1784399727
@@ -220,6 +223,12 @@ r5-139-8b.monitoring.internet-measurement.com
 220.49.245.35.bc.googleusercontent.com
 0 16 1 95715 1 1784596389
 /login
+scan.visionheight.com
+0 2 1 36282 1 1784659935
+/login
+3.166.186.35.bc.googleusercontent.com
+0 13 0 2816 1 1784657385
+-
 142.248.80.138
 0 2 1 36289 1 1784623071
 /login
@@ -240,11 +249,11 @@ http://fizznfreeze.idealgroups.org
 https://fizznfreeze.idealgroups.org
 0 1
 - (Direct Request)
-0 149
+0 163
 http://www.fizznfreeze.idealgroups.org
 0 5
 http://fizznfreeze.idealgroups.org/
-0 4
+0 5
 http://fizznfreeze.idealgroups.org/login
 0 2
 http://www.fizznfreeze.idealgroups.org/
@@ -268,7 +277,7 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/11
 Mozilla/5.0 (compatible; cohere-ai/1.0; +https://cohere.com)
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
-0 15
+0 28
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0
 0 9
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
@@ -278,7 +287,7 @@ Go-http-client/1.1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
 0 34
 visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
-0 2
+0 4
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user
 0 1
 Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0

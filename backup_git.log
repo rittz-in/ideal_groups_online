@@ -51,3 +51,25 @@ Backup completed: Wed Jul 22 15:51:23 IST 2026
 ==============================
 ==============================
 Backup started: Wed Jul 22 15:52:01 IST 2026
+warning: You ran 'git add' with neither '-A (--all)' or '--ignore-removal',
+whose behaviour will change in Git 2.0 with respect to paths you removed.
+Paths like 'ideal_db_backups/idealgro_web_2026-07-22_15-51-01.sql.gz' that are
+removed from your working tree are ignored with this version of Git.
+
+* 'git add --ignore-removal <pathspec>', which is the current default,
+  ignores paths you removed from your working tree.
+
+* 'git add --all <pathspec>' will let you also record the removals.
+
+Run 'git status' to check the paths you removed from your working tree.
+
+Changes found. Creating commit...
+[main 79fd679] Backup 2026-07-22 15:52
+ 2 files changed, 26 insertions(+)
+Pushing to GitHub...
+remote: To https://github.com/rittz-in/ideal_groups_online.git
+   611808e..79fd679  main -> main
+Backup completed: Wed Jul 22 15:52:05 IST 2026
+==============================
+==============================
+Backup started: Thu Jul 23 02:00:04 IST 2026

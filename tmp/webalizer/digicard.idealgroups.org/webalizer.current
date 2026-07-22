@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/21/2026 11:29:17
-2026 7 21 11 29 17
-4161 101 58 16 2 29 232037918 821 45 0
-2 1 2568 1 21
+# Webalizer V2.23-08 Incremental Data - 07/22/2026 13:43:55
+2026 7 22 13 43 55
+4203 108 65 16 4 32 232073902 833 52 0
+3 3 2568 1 22
 19 2 16695 5 5 3
 1 1 0 1 1 1
 19 2 48522 5 3 3
@@ -22,8 +22,8 @@
 596 9 75375225 1 119 1
 9 6 10314 7 6 6
 817 20 76532651 2 277 2
-2 2 2097 2 2 2
-0 0 0 0 0 0
+36 7 33487 6 8 5
+8 2 4594 3 6 4
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -39,28 +39,28 @@
 23 5 20473 6
 0 0 0 0
 21 3 13849 3
-5 0 1130 3
-7 0 1582 3
-3 1 3705 1
+6 1 2179 4
+9 0 2034 4
+5 1 4157 2
 0 0 0 0
 816 19 76529258 277
 602 13 75384287 123
 2 2 2081 2
-3 1 1493 2
+6 2 4134 5
 3 1 3768 2
 3 2 3469 2
 1 1 1051 1
 1 1 1043 1
 8 2 14085 2
-4 3 5569 3
+5 4 6620 4
 17 3 44565 3
-13 1 12312 2
+44 5 37795 7
 24 4 13092 5
-2 0 309 0
+4 0 5165 0
 0
 0
 0
-101
+108
 0
 0
 0
@@ -68,7 +68,7 @@
 0
 0
 0
-109
+110
 4
 0
 0
@@ -78,12 +78,12 @@
 0
 0
 27
-3023
+3028
 4
-714
+741
 0
 0
-165
+167
 0
 0
 0
@@ -102,11 +102,11 @@
 /composer.json
 0 2 7594247040028797292 3966 0 0
 /vite.config.js
-0 2 0 544 0 0
+0 2 3687938141289592627 544 0 0
 /package-lock.json
-0 2 0 85544 0 0
+0 2 3328494591668664625 85544 0 0
 /register
-0 3 0 2778 0 0
+0 3 16300528 2778 0 0
 /storage/logs/laravel.log
 0 3 0 222196584 0 0
 /.gitattributes
@@ -128,7 +128,7 @@
 /package.json
 0 2 0 1038 0 0
 /
-0 63 0 95401 40 3
+0 70 0 111779 47 4
 /.gitignore
 0 2 0 454 0 0
 # End Of Table - urls
@@ -156,6 +156,9 @@ ec2-3-250-85-187.eu-west-1.compute.amazonaws.com
 /
 198.235.24.146
 0 1 1 3308 1 1783118801
+/
+105.72.212.24
+0 4 0 904 2 1784708214
 /
 149.77.126.34.bc.googleusercontent.com
 0 1 0 2428 0 0
@@ -247,8 +250,17 @@ ec2-3-89-155-66.compute-1.amazonaws.com
 tvinnet-91-238-67-159.tvinnet.ru
 0 17 0 1554 0 0
 -
+47.82.10.61
+0 2 0 4856 0 0
+-
+239.102.67.136.bc.googleusercontent.com
+0 13 1 12312 1 1784668705
+-
 216.24.210.35
 0 1 0 226 0 0
+-
+109-252-148-86.dynamic.spd-mgts.ru
+0 3 1 2641 1 1784727835
 -
 37.140.223.51
 0 1 0 226 0 0
@@ -265,6 +277,9 @@ tvinnet-91-238-67-159.tvinnet.ru
 105.68.246.238
 0 8 0 1808 3 1783605978
 /
+146.70.194.252
+0 18 3 13171 1 1784670488
+/
 185.177.72.12
 0 596 9 75375225 1 1784375890
 -
@@ -277,8 +292,14 @@ r4-208-d0.monitoring.internet-measurement.com
 143.198.49.253
 0 1 1 1051 1 1782904696
 /
+ec2-100-50-152-193.compute-1.amazonaws.com
+0 1 1 1049 1 1784702559
+/
 119.204.86.34.bc.googleusercontent.com
 0 1 1 1048 1 1784320947
+/
+201.248.229.8.bc.googleusercontent.com
+0 1 1 1051 1 1784660718
 /
 139.28.219.70
 0 21 3 13849 1 1784007922
@@ -309,18 +330,25 @@ r4-208-d0.monitoring.internet-measurement.com
 /
 # End Of Table - sites (monthly)
 # -sites- (daily)
-scan.visionheight.com
-0 1 1 1043 1 1784593063
+105.72.212.24
+0 4 0 904 2 1784708214
 /
-r3-45-2d.monitoring.internet-measurement.com
-0 1 1 1054 1 1784633357
+109-252-148-86.dynamic.spd-mgts.ru
+0 3 1 2641 1 1784727835
+-
+ec2-100-50-152-193.compute-1.amazonaws.com
+0 1 1 1049 1 1784702559
 /
 # End Of Table - sites (daily)
 # -referrers- 
 - (Direct Request)
-0 4145
+0 4185
 http://digicard.idealgroups.org/.env
 0 16
+http://digicard.idealgroups.org/
+0 1
+http://digicard.idealgroups.org/livewire/update
+0 1
 # End Of Table - referrers
 # -agents- 
 Mozilla/5.0
@@ -336,7 +364,7 @@ Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Win64; x64; Trident/4.0)
 Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E14
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
-0 13
+0 26
 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 0 1
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
@@ -356,13 +384,13 @@ Mozilla/5.0 (Linux; Android 8.1.0; Redmi 6) AppleWebKit/537.36 (KHTML, like Geck
 Mozilla/5.0 (Macintosh; Intel Mac OS X 15.7; rv:149.0) Gecko/20100101 Firefox/149.0
 0 1
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
-0 12
+0 16
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-0 21
+0 39
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 0 60
 Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
@@ -377,8 +405,14 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 0 1
-Mozilla/5.0 (compatible; CMS-Checker/1.0; +https://example.com)
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2836.21 Safari/537.36
 0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; CMS-Checker/1.0; +https://example.com)
+0 4
 Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
 0 3
 # End Of Table - agents

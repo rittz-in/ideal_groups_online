@@ -8,35 +8,35 @@ AWSTATS DATA FILE 8.0 (build 20240604)
 # update).
 BEGIN_MAP 28
 POS_GENERAL 2088                
-POS_TIME 2748                
-POS_VISITOR 5874                
-POS_DAY 5946                
-POS_DOMAIN 3298                
-POS_LOGIN 3509                
-POS_ROBOT 3664                
-POS_WORMS 3826                
-POS_EMAILSENDER 3957                
-POS_EMAILRECEIVER 4100                
-POS_SESSION 6002                
-POS_FILESIZE 6200                
-POS_REQUESTTIME 6315                
-POS_SIDER 6139                
-POS_FILETYPES 4235                
-POS_DOWNLOADS 4299                
-POS_OS 4347                
-POS_BROWSER 4412                
-POS_SCREENSIZE 4462                
-POS_UNKNOWNREFERER 4536                
-POS_UNKNOWNREFERERBROWSER 4623                
-POS_ORIGIN 4705                
-POS_SEREFERRALS 4835                
-POS_PAGEREFS 4979                
-POS_SEARCHWORDS 5127                
-POS_KEYWORDS 5279                
-POS_MISC 2412                
-POS_ERRORS 5338                
-POS_CLUSTER 3365                
-POS_SIDER_404 5480                
+POS_TIME 2740                
+POS_VISITOR 5869                
+POS_DAY 5941                
+POS_DOMAIN 3293                
+POS_LOGIN 3504                
+POS_ROBOT 3659                
+POS_WORMS 3821                
+POS_EMAILSENDER 3952                
+POS_EMAILRECEIVER 4095                
+POS_SESSION 5997                
+POS_FILESIZE 6195                
+POS_REQUESTTIME 6310                
+POS_SIDER 6134                
+POS_FILETYPES 4230                
+POS_DOWNLOADS 4294                
+POS_OS 4342                
+POS_BROWSER 4407                
+POS_SCREENSIZE 4457                
+POS_UNKNOWNREFERER 4531                
+POS_UNKNOWNREFERERBROWSER 4618                
+POS_ORIGIN 4700                
+POS_SEREFERRALS 4830                
+POS_PAGEREFS 4974                
+POS_SEARCHWORDS 5122                
+POS_KEYWORDS 5274                
+POS_MISC 2404                
+POS_ERRORS 5333                
+POS_CLUSTER 3360                
+POS_SIDER_404 5475                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -48,10 +48,10 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20260721051359 1301 189973 11715919568702
+LastLine 20260722064241 13 2527 12751682687658
 FirstTime 0
 LastTime 0
-LastUpdate 20260721201203 1301 0 1301 0 0
+LastUpdate 20260722193725 13 0 13 0 0
 TotalVisits 0                   
 TotalUnique 0                   
 MonthHostsKnown 0                   
@@ -60,16 +60,16 @@ END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
-QuickTimeSupport 0 0 0
 AddToFavourites 0 3 0
-JavaEnabled 0 0 0
-JavascriptDisabled 0 0 0
-TotalMisc 0 0 0
 PDFSupport 0 0 0
-FlashSupport 0 0 0
-DirectorSupport 0 0 0
-RealPlayerSupport 0 0 0
 WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
@@ -80,7 +80,7 @@ BEGIN_TIME 24
 3 0 0 0 19 19 4784
 4 0 0 0 6 6 0
 5 0 0 0 1229 1284 301670
-6 0 0 0 55 57 8572
+6 0 0 0 61 63 10222
 7 0 0 0 5 6 1592
 8 0 0 0 1 2 452
 9 0 0 0 4 4 908
@@ -92,7 +92,7 @@ BEGIN_TIME 24
 15 0 0 0 1 1 275
 16 0 0 0 0 0 0
 17 0 0 0 10 11 226
-18 0 0 0 4 4 1100
+18 0 0 0 11 11 3025
 19 0 0 0 16 18 4912
 20 0 0 0 6 6 1650
 21 0 0 0 17 18 4445
@@ -194,18 +194,18 @@ END_KEYWORDS
 
 # Errors - Hits - Bandwidth
 BEGIN_ERRORS 5
+403 26 9230
+406 187 42262
 404 4 1420
 409 432 35856
-403 26 9230
-301 869 249748
-406 187 42262
+301 882 253323
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
 BEGIN_SIDER_404 4
-/%2f.aws%2fcredentials 1 -
 /%2f.env 1 -
 /%2fbackend%2f.env 1 -
+/%2f.aws%2fcredentials 1 -
 /%2fpublic%2f.env 1 -
 END_SIDER_404
 
@@ -230,10 +230,10 @@ END_SIDER
 
 # Payload Range - Payload Frequency
 BEGIN_FILESIZE 4
-0-44 16
-100-500 1073
 5K+ 1
 44-100 432
+0-44 16
+100-500 1086
 END_FILESIZE
 
 # Request Time Range - Request Time Frequency

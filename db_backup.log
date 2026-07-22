@@ -35,3 +35,4 @@
 /bin/sh: /home1/idealgro/db_backup.sh: Permission denied
 /bin/sh: /home1/idealgro/db_backup.sh: Permission denied
 /bin/sh: /home1/idealgro/db_backup.sh: Permission denied
+/usr/local/cpanel/bin/jailshell: /home1/idealgro/db_backup.sh: Permission denied

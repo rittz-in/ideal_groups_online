@@ -32,3 +32,7 @@ vendor/
 .bash_history
 .bash_history
 .git-credentials
+
+
+db_backup.log
+db_backup.log

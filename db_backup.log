@@ -355,3 +355,42 @@ Old backups removed.
 Database : idealgro_web
 Started  : 15:50:02
 mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Status   : SUCCESS
+
+==================================================
+Backup Summary
+==================================================
+Total Databases : 1
+Successful      : 1
+Failed          : 0
+
+Backup Folder:
+/home1/idealgro/ideal_db_backups
+
+Completed At : 2026-07-22 15:50:07
+==================================================
+==================================================
+Database Backup Started : 2026-07-22 15:51:01
+==================================================
+
+Cleaning old backups...
+Old backups removed.
+
+----------------------------------------
+Database : idealgro_web
+Started  : 15:51:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Status   : SUCCESS
+
+==================================================
+Backup Summary
+==================================================
+Total Databases : 1
+Successful      : 1
+Failed          : 0
+
+Backup Folder:
+/home1/idealgro/ideal_db_backups
+
+Completed At : 2026-07-22 15:51:06
+==================================================

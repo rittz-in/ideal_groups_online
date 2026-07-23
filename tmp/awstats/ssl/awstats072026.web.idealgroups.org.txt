@@ -9,34 +9,34 @@ AWSTATS DATA FILE 8.0 (build 20240604)
 BEGIN_MAP 28
 POS_GENERAL 2092                
 POS_TIME 2766                
-POS_VISITOR 7934                
-POS_DAY 9664                
-POS_DOMAIN 3428                
-POS_LOGIN 3790                
-POS_ROBOT 3945                
-POS_WORMS 4343                
-POS_EMAILSENDER 4474                
-POS_EMAILRECEIVER 4617                
-POS_SESSION 10170               
-POS_FILESIZE 11188               
-POS_REQUESTTIME 11322               
-POS_SIDER 10317               
-POS_FILETYPES 4752                
-POS_DOWNLOADS 5008                
-POS_OS 5091                
-POS_BROWSER 5278                
-POS_SCREENSIZE 5746                
-POS_UNKNOWNREFERER 5820                
-POS_UNKNOWNREFERERBROWSER 6577                
-POS_ORIGIN 6843                
-POS_SEREFERRALS 6976                
-POS_PAGEREFS 7135                
-POS_SEARCHWORDS 7283                
-POS_KEYWORDS 7435                
+POS_VISITOR 7939                
+POS_DAY 9709                
+POS_DOMAIN 3432                
+POS_LOGIN 3794                
+POS_ROBOT 3949                
+POS_WORMS 4347                
+POS_EMAILSENDER 4478                
+POS_EMAILRECEIVER 4621                
+POS_SESSION 10236               
+POS_FILESIZE 11254               
+POS_REQUESTTIME 11388               
+POS_SIDER 10383               
+POS_FILETYPES 4756                
+POS_DOWNLOADS 5012                
+POS_OS 5095                
+POS_BROWSER 5282                
+POS_SCREENSIZE 5750                
+POS_UNKNOWNREFERER 5824                
+POS_UNKNOWNREFERERBROWSER 6581                
+POS_ORIGIN 6847                
+POS_SEREFERRALS 6980                
+POS_PAGEREFS 7139                
+POS_SEARCHWORDS 7287                
+POS_KEYWORDS 7439                
 POS_MISC 2430                
-POS_ERRORS 7494                
-POS_CLUSTER 3646                
-POS_SIDER_404 7625                
+POS_ERRORS 7498                
+POS_CLUSTER 3650                
+POS_SIDER_404 7630                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -48,38 +48,38 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20260722093712 3 493 12975597618922
+LastLine 20260723054900 4 723 12763707583697
 FirstTime 20260701073720
-LastTime 20260722093712
-LastUpdate 20260722193726 3 0 3 0 0
-TotalVisits 49                  
-TotalUnique 40                  
+LastTime 20260723054900
+LastUpdate 20260723203316 4 0 4 0 0
+TotalVisits 51                  
+TotalUnique 41                  
 MonthHostsKnown 0                   
-MonthHostsUnknown 43                  
+MonthHostsUnknown 44                  
 END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
 DirectorSupport 0 0 0
 JavascriptDisabled 0 0 0
-FlashSupport 0 0 0
-QuickTimeSupport 0 0 0
-AddToFavourites 0 3 0
 JavaEnabled 0 0 0
 WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
 RealPlayerSupport 0 0 0
-PDFSupport 0 0 0
-TotalMisc 0 0 0
+AddToFavourites 0 3 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
 BEGIN_TIME 24
 0 2 2 88622 6 11 4351
 1 1 1 44311 9 17 6826
-2 0 0 0 4 6 2670
+2 1 1 11199 5 7 2753
 3 1 1 794 6 11 4351
-4 16 18 81276 10 15 5248
-5 2 2 45105 8 12 4123
+4 16 18 81276 11 16 5474
+5 3 3 89416 8 12 4123
 6 2 2 11993 6 12 4950
 7 4 4 3176 7 9 2766
 8 0 0 0 7 14 5970
@@ -103,16 +103,16 @@ END_TIME
 # Domain - Pages - Hits - Bandwidth
 # The 25 first Pages must be first (order not required for others)
 BEGIN_DOMAIN 11
-us 37 40 174731
-gb 14 16 25766
-ua 14 14 620354
+us 38 41 185930
+ua 15 15 664665
 ro 14 16 25766
+gb 14 16 25766
 ca 7 9 281301
 bg 4 4 3176
 nl 3 3 2382
 cn 3 3 13317
-mt 1 1 794
 eg 1 1 44311
+mt 1 1 794
 be 1 1 11199
 END_DOMAIN
 
@@ -155,17 +155,17 @@ END_EMAILRECEIVER
 # Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
 BEGIN_FILETYPES 12
 js 6 4764 0 0
-org 1 794 0 0
-json 5 3970 0 0
-txt 2 4236 0 0
-css 1 794 0 0
 yml 2 1588 0 0
-env 1 794 0 0
-local 2 1588 0 0
-Unknown 33 34428 0 0
-html 53 1148553 0 0
-pypirc 1 794 0 0
 map 1 794 0 0
+Unknown 33 34428 0 0
+css 1 794 0 0
+pypirc 1 794 0 0
+env 1 794 0 0
+html 55 1204063 0 0
+json 5 3970 0 0
+local 2 1588 0 0
+org 1 794 0 0
+txt 2 4236 0 0
 END_FILETYPES
 
 # Downloads - Hits - Bandwidth
@@ -175,41 +175,41 @@ END_DOWNLOADS
 
 # OS ID - Hits
 BEGIN_OS ID - Hits - Pages 9
-Unknown 29 27
-macosx15 7 6
-macosx 14 12
-win10 45 43
-win11 1 1
-androidpie 1 1
-androidmarshmallow 1 1
 linux 8 7
+macosx15 8 7
+win10 46 44
+Unknown 29 27
+androidpie 1 1
 android 2 1
+macosx 14 12
+win11 1 1
+androidmarshmallow 1 1
 END_OS
 
 # Browser ID - Hits - Pages
 BEGIN_BROWSER 22
-Unknown 13 11
-chrome138.0.7204.23 1 1
-chrome131.0.0.0 2 1
-firefox117.0 1 0
-chrome138.0.0.0 1 1
+firefox141.0 1 1
+firefox150.0 1 1
+netscape5.0 6 6
 mozilla 16 16
 chrome136.0.0.0 2 2
-chrome118.0.0.0 1 1
-chrome147.0.0.0 27 26
-safari26.0 6 6
-firefox142.0 2 2
-chrome142.0.0.0 1 1
 chrome126.0.0.0 2 2
-firefox150.0 1 1
-chrome76.0.3809.100 1 1
-firefox121.0 1 1
-firefox149.0 15 12
+chrome138.0.0.0 1 1
 chrome76.0.3809.111 1 1
-chrome124.0.0.0 6 5
-firefox141.0 1 1
+chrome147.0.0.0 28 27
+chrome124.0.0.0 7 6
 chrome146.0.0.0 1 1
-netscape5.0 6 6
+chrome76.0.3809.100 1 1
+chrome131.0.0.0 2 1
+Unknown 13 11
+firefox149.0 15 12
+firefox117.0 1 0
+firefox121.0 1 1
+safari26.0 6 6
+chrome118.0.0.0 1 1
+firefox142.0 2 2
+chrome138.0.7204.23 1 1
+chrome142.0.0.0 1 1
 END_BROWSER
 
 # Screen size - Hits
@@ -220,22 +220,22 @@ END_SCREENSIZE
 BEGIN_UNKNOWNREFERER 7
 Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260719230428
 Mozilla/5.0_(compatible;_cohere-ai/1.0;__https://cohere.com) 20260710102914
-anthropic-ai 20260710102912
-Mozilla/5.0_(compatible;_Claude-Web/1.0;__https://www.anthropic.com) 20260710102912
-Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260718233703
 Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260712233244
 Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko);_compatible;_Perplexity-User/1.0;__https://perplexity.ai/perplexity-user 20260710102910
+Mozilla/5.0_(compatible;_Claude-Web/1.0;__https://www.anthropic.com) 20260710102912
+anthropic-ai 20260710102912
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260718233703
 END_UNKNOWNREFERER
 
 # Unknown referer Browser - Last visit date
 BEGIN_UNKNOWNREFERERBROWSER 2
-anthropic-ai 20260710102912
 Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260712233244
+anthropic-ai 20260710102912
 END_UNKNOWNREFERERBROWSER
 
 # Origin - Pages - Hits 
 BEGIN_ORIGIN 6
-From0 96 105
+From0 98 107
 From1 1 1
 From2 1 1
 From3 0 0
@@ -265,11 +265,11 @@ END_KEYWORDS
 
 # Errors - Hits - Bandwidth
 BEGIN_ERRORS 5
-403 1 355
-409 12 996
-301 2 576
 421 6 2172
-406 95 21470
+403 1 355
+409 13 1079
+301 2 576
+406 96 21696
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
@@ -279,54 +279,55 @@ END_SIDER_404
 # Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
 # [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
 # The 25 first Hits must be first (order not required for others)
-BEGIN_VISITOR 43
+BEGIN_VISITOR 44
 82.39.212.105 14 16 25766 20260702044006
-104.28.204.176 14 15 22315 20260710102928
 85.121.127.132 14 16 25766 20260704175108
+104.28.204.176 14 15 22315 20260710102928
 104.28.211.190 8 9 17551 20260706150620
 91.92.241.196 4 4 3176 20260711074118
-94.154.43.179 3 3 132933 20260722093712 20260722093712 /
 94.154.43.186 3 3 132933 20260718042658
+94.154.43.179 3 3 132933 20260722093712
 94.154.43.188 2 2 88622 20260719002726
-205.210.31.38 2 2 88622 20260711170447
-94.154.43.185 2 2 88622 20260721005259
-202.120.37.109 2 2 11199 20260707220247
-94.154.43.177 2 2 88622 20260711193045
 88.151.33.92 2 2 1588 20260719175451
+94.154.43.185 2 2 88622 20260721005259
+94.154.43.177 2 2 88622 20260711193045
+202.120.37.109 2 2 11199 20260707220247
+94.154.43.229 2 2 88622 20260723054900 20260723054900 /
+205.210.31.38 2 2 88622 20260711170447
 94.154.43.178 1 1 44311 20260708101837
-156.227.28.171 1 1 44311 20260701202026
-164.92.244.208 1 1 11199 20260714064021
-142.248.80.138 1 1 11199 20260710105744
-205.210.31.102 1 1 44311 20260708160022
 139.185.46.40 1 1 794 20260718095300
-87.236.176.235 1 1 11199 20260718233703
-66.132.195.54 1 1 11199 20260719230428
-3.139.242.79 1 1 11199 20260709211151
-154.54.100.177 1 1 794 20260710034416
+156.227.28.171 1 1 44311 20260701202026
+205.210.31.102 1 1 44311 20260708160022
 47.92.197.236 1 1 2118 20260701202035
-94.154.43.229 1 1 44311 20260714174507
-205.210.31.25 0 1 2118 
+154.54.100.177 1 1 794 20260710034416
+167.94.146.54 1 1 11199 20260705092753
 205.210.31.36 1 1 44311 20260705182724
 146.190.38.244 1 1 11199 20260718190113
-34.126.77.149 0 1 794 
-205.210.31.147 1 1 44311 20260711200303
-67.205.156.59 1 1 11199 20260704121513
-3.20.201.240 1 1 11199 20260712175235
-3.219.86.171 1 1 11199 20260720203922
-144.172.106.171 1 1 794 20260709095142
-35.254.244.123 1 1 18905 20260711190532
-144.172.97.164 1 1 794 20260710191937
 188.166.233.148 1 1 794 20260704053010
-77.243.91.192 1 1 794 20260722061716
+3.139.242.79 1 1 11199 20260709211151
+34.174.208.225 1 1 11199 20260723024841
+142.248.80.138 1 1 11199 20260710105744
+144.172.106.171 1 1 794 20260709095142
 199.45.155.86 1 1 11199 20260712120139
+35.254.244.123 1 1 18905 20260711190532
+87.236.176.235 1 1 11199 20260718233703
+3.20.201.240 1 1 11199 20260712175235
+66.132.195.54 1 1 11199 20260719230428
 198.235.24.18 1 1 44311 20260710194643
-66.132.172.176 1 1 11199 20260713045619
+67.205.156.59 1 1 11199 20260704121513
+205.210.31.147 1 1 44311 20260711200303
 198.235.24.236 0 1 2118 
-167.94.146.54 1 1 11199 20260705092753
+34.126.77.149 0 1 794 
+77.243.91.192 1 1 794 20260722061716
+3.219.86.171 1 1 11199 20260720203922
+66.132.172.176 1 1 11199 20260713045619
+144.172.97.164 1 1 794 20260710191937
+164.92.244.208 1 1 11199 20260714064021
+205.210.31.25 0 1 2118 
 END_VISITOR
 
 # Date - Pages - Hits - Bandwidth - Visits
-BEGIN_DAY 21
+BEGIN_DAY 22
 20260701 4 5 48811 3
 20260702 14 16 25766 1
 20260703 1 1 44311 1
@@ -348,55 +349,56 @@ BEGIN_DAY 21
 20260720 1 1 11199 1
 20260721 1 1 44311 1
 20260722 2 2 45105 2
+20260723 2 2 55510 2
 END_DAY
 
 # Session range - Number of visits
 BEGIN_SESSION 1
-0s-30s 48
+0s-30s 50
 END_SESSION
 
 # URL - Pages - Bandwidth - Entry - Exit
 # The 25 first Pages must be first (order not required for others)
 BEGIN_SIDER 29
-/ 44 1141407 39 36
+/ 46 1196917 41 38
 /.git/config 9 7146 3 6
 /.git/HEAD 5 3970 3 0
 /services.html 3 2382 0 0
+/.aws/credentials 3 2382 0 0
 /service-details.html 3 2382 0 0
 /project-details.html 3 2382 0 1
-/.aws/credentials 3 2382 0 0
-/.env.development 2 1588 0 0
-/secrets.yml 2 1588 0 0
-/env 2 8490 0 0
-/.env.local 2 1588 0 0
 /config.json 2 1588 0 0
+/secrets.yml 2 1588 0 0
 /.env.production 2 1588 0 0
 /wp-admin 2 1588 2 2
-/config 1 2118 1 1
-/.pypirc 1 794 0 1
-/.aws/config 1 794 0 0
-/key.json 1 794 0 0
-/terraform.tfstate 1 794 0 0
+/.env.local 2 1588 0 0
+/env 2 8490 0 0
+/.env.development 2 1588 0 0
 /.ssh/config 1 794 0 0
-/private-key 1 794 0 0
-/secrets.json 1 794 0 0
-/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js.map 1 794 0 0
-/.git/./config 1 794 1 1
 /z9x8c7v6b5-debug-trigger-www.web.idealgroups.org 1 794 0 0
+/.aws/config 1 794 0 0
 /gradle.properties 1 794 0 0
-/admin/.env 1 794 0 0
 /appsettings.Development.json 1 794 0 0
+/key.json 1 794 0 0
+/.pypirc 1 794 0 1
+/config 1 2118 1 1
+/admin/.env 1 794 0 0
+/secrets.json 1 794 0 0
+/terraform.tfstate 1 794 0 0
+/.git/./config 1 794 1 1
+/private-key 1 794 0 0
+/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js.map 1 794 0 0
 /.svn/entries 1 794 0 0
 END_SIDER
 
 # Payload Range - Payload Frequency
 BEGIN_FILESIZE 6
-5K+ 41
-0-44 112
-2K-5K 5
-100-500 104
 500-1K 238
-44-100 12
+100-500 105
+0-44 112
+5K+ 43
+44-100 13
+2K-5K 5
 END_FILESIZE
 
 # Request Time Range - Request Time Frequency

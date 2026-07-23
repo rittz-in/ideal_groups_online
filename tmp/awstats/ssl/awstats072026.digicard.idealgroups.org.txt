@@ -8,19 +8,19 @@ AWSTATS DATA FILE 8.0 (build 20240604)
 # update).
 BEGIN_MAP 28
 POS_GENERAL 2097                
-POS_TIME 2772                
-POS_VISITOR 11014               
-POS_DAY 12679               
+POS_TIME 2771                
+POS_VISITOR 11025               
+POS_DAY 12673               
 POS_DOMAIN 3399                
 POS_LOGIN 3765                
 POS_ROBOT 3920                
 POS_WORMS 4134                
 POS_EMAILSENDER 4265                
 POS_EMAILRECEIVER 4408                
-POS_SESSION 13162               
-POS_FILESIZE 13530               
-POS_REQUESTTIME 13669               
-POS_SIDER 13340               
+POS_SESSION 13156               
+POS_FILESIZE 13524               
+POS_REQUESTTIME 13663               
+POS_SIDER 13334               
 POS_FILETYPES 4543                
 POS_DOWNLOADS 4648                
 POS_OS 4696                
@@ -33,10 +33,10 @@ POS_SEREFERRALS 6308
 POS_PAGEREFS 6452                
 POS_SEARCHWORDS 6600                
 POS_KEYWORDS 6752                
-POS_MISC 2436                
+POS_MISC 2435                
 POS_ERRORS 6811                
 POS_CLUSTER 3621                
-POS_SIDER_404 6983                
+POS_SIDER_404 6993                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -48,10 +48,10 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20260722093712 6 1142 13272408219825
+LastLine 20260723152359 4 697 11337512995202
 FirstTime 20260701111819
 LastTime 20260722093712
-LastUpdate 20260722193722 6 0 6 0 0
+LastUpdate 20260723203314 4 0 4 0 0
 TotalVisits 50                  
 TotalUnique 41                  
 MonthHostsKnown 0                   
@@ -61,15 +61,15 @@ END_GENERAL
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
 PDFSupport 0 0 0
-JavascriptDisabled 0 0 0
-DirectorSupport 0 0 0
-TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
 QuickTimeSupport 0 0 0
 FlashSupport 0 0 0
-AddToFavourites 0 0 0
-JavaEnabled 0 0 0
-RealPlayerSupport 0 0 0
 WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
@@ -78,8 +78,8 @@ BEGIN_TIME 24
 1 1 1 3310 1 1 226
 2 2 2 4346 1 1 226
 3 0 0 0 0 0 0
-4 2 2 4362 2 2 912960
-5 4 4 8720 3 4 678
+4 2 2 4362 3 3 913186
+5 4 4 8720 4 5 1261
 6 0 0 0 3 5 6352
 7 0 0 0 10 10 2396
 8 1 1 1044 5 7 8997
@@ -89,7 +89,7 @@ BEGIN_TIME 24
 12 4 4 4160 8 8 52824
 13 4 4 8719 4 4 904
 14 0 0 0 4 5 7507
-15 6 6 9533 13 14 25247
+15 6 6 9533 15 16 26413
 16 25 25 120717 14 18 446846
 17 3 3 5381 1 2 2428
 18 3 3 5192 24 24 450037
@@ -110,11 +110,11 @@ ca 5 5 14285
 es 4 4 2904
 ru 3 3 3112
 be 2 2 2082
-jp 1 1 3318
-ro 1 1 838
-ir 1 1 1069
-cn 1 1 3318
 de 1 1 1034
+jp 1 1 3318
+cn 1 1 3318
+ir 1 1 1069
+ro 1 1 838
 END_DOMAIN
 
 # Cluster ID - Pages - Hits - Bandwidth
@@ -160,35 +160,35 @@ END_DOWNLOADS
 
 # OS ID - Hits
 BEGIN_OS ID - Hits - Pages 7
-android10 23 23
-ios_iphone 1 1
-linux 4 4
 win10 29 29
-Unknown 17 17
-macosx15 5 5
 macosx 3 3
+Unknown 17 17
+android10 23 23
+linux 4 4
+ios_iphone 1 1
+macosx15 5 5
 END_OS
 
 # Browser ID - Hits - Pages
 BEGIN_BROWSER 18
+chrome131.0.0.0 1 1
+safari26.0 2 2
+netscape5.0 5 5
+chrome120.0.0.0 1 1
+firefox149.0 2 2
+chrome150.0.0.0 21 21
+chrome130.0.0.0 2 2
 safari17.4.1 1 1
-firefox142.0 1 1
 chrome136.0.0.0 2 2
+firefox150.0 1 1
+chrome142.0.0.0 2 2
 Unknown 5 5
 chrome126.0.0.0 2 2
-netscape5.0 5 5
-safari26.0 2 2
+firefox142.0 1 1
 safari18.4 1 1
-chrome131.0.0.0 1 1
 mozilla 12 12
 chrome83.0.4103.61 1 1
-firefox150.0 1 1
-firefox149.0 2 2
-chrome130.0.0.0 2 2
-chrome150.0.0.0 21 21
 chrome147.0.0.0 20 20
-chrome120.0.0.0 1 1
-chrome142.0.0.0 2 2
 END_BROWSER
 
 # Screen size - Hits
@@ -197,18 +197,18 @@ END_SCREENSIZE
 
 # Unknown referer OS - Last visit date
 BEGIN_UNKNOWNREFERER 6
-Mozilla/5.0_(compatible;_GoogleOther;__https://developers.google.com/search/) 20260714183739
 Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260720154700
-Mozilla/5.0_(compatible;) 20260705095338
 Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260719221458
-Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260720055616
+Mozilla/5.0_(compatible;_GoogleOther;__https://developers.google.com/search/) 20260714183739
+Mozilla/5.0_(compatible;) 20260705095338
 WhatsApp/2.23.20.0 20260720160826
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260720055616
 END_UNKNOWNREFERER
 
 # Unknown referer Browser - Last visit date
 BEGIN_UNKNOWNREFERERBROWSER 2
-Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260720154700
 WhatsApp/2.23.20.0 20260720160826
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260720154700
 END_UNKNOWNREFERERBROWSER
 
 # Origin - Pages - Hits 
@@ -241,162 +241,163 @@ BEGIN_KEYWORDS 0
 END_KEYWORDS
 
 # Errors - Hits - Bandwidth
-BEGIN_ERRORS 8
+BEGIN_ERRORS 9
 421 2 724
-406 80 18080
-409 1 83
-302 2 417
-404 188 1028439
+403 1 583
+404 190 1029605
 500 1 424125
+302 2 417
+406 81 18306
 301 4 1159
+409 1 83
 405 4 1743576
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
 BEGIN_SIDER_404 143
-/app/service-account.json 1 -
-/secrets.yaml 1 -
-/.vultr-cli.yaml 1 -
-/.aws/credentials 3 -
-/chunk.js 1 -
-/root/.config/linode-cli 1 -
-/.env.prod 1 -
-/vendor.js 1 -
-/home/node/.config/gcloud/application_default_credentials.json 1 -
-/components/com_sppagebuilder/assets/css/sppagebuilder.css 1 -
-/dist/app.js 1 -
-/home/ubuntu/.config/linode-cli 1 -
-/cdp_api_key.json 1 -
-/.aws/config 1 -
-/static/js/app.js 1 -
-/assets/index.js 1 -
-/settings.py 1 -
-/.config/gh/hosts.yml 1 -
-/.git/./config 1 -
-/debug/vars 1 -
-/assets/app.js 1 -
-/config.toml 1 -
-/docker-compose.prod.yml 1 -
-/data/config.json 1 -
-/config.yaml 1 -
-/appsettings.json 2 -
-/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif 1 https://www.digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif
-/config.js 1 -
-/config/gcp.json 1 -
-/application.yml 1 -
-/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif 1 https://www.digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif
-/.linode-cli 1 -
-/secrets.json 2 -
-/.secrets 1 -
-/.env.development 4 -
-/gcp-credentials.json 1 -
-/secrets.py 1 -
-/application-prod.properties 1 -
-/.git/config 10 -
-/.docker/config.json 2 -
-/hcloud.yml 1 -
-/.netrc 1 -
-/password 3 https://digicard.idealgroups.org/password/
-/build/static/js/main.js 1 -
-/.pypirc 1 -
-/gcp-service-account.json 1 -
-/.hcloud.toml 1 -
-/static/js/bundle.js 1 -
-/.env.dist 1 -
-/config/secrets.yml 1 -
-/config.yml 1 -
-/root/.config/gcloud/application_default_credentials.json 1 -
-/appsettings.Production.json 1 -
-/.env.sample 1 -
-/.env.staging 1 -
-/.env.vault 1 -
-/serverless.yaml 1 -
-/config/development.json 1 -
-/api/config 2 -
-/.env.production.local 1 -
-/root/.streamlit/secrets.toml 1 -
-/api/settings 1 -
-/.envrc 1 -
-/root/.aws/credentials 1 -
-/dist/main.js 1 -
 /config/local.json 1 -
-/firebase-adminsdk.json 1 -
-/main.js 1 -
-/.env.local 5 -
-/settings.json 1 -
-/firebase-credentials.json 1 -
-/dist/bundle.js 1 -
-/app/credentials.json 1 -
-/js/config.js 2 -
-/secrets.yml 1 -
-/config.py 1 -
-/home/node/.aws/credentials 1 -
-/credentials.json 1 -
-/.env.tmp 1 -
-/src/.git/HEAD 1 -
-/public/plugins/ckeditor/images/spacer.gif 1 https://www.digicard.idealgroups.org/public/plugins/ckeditor/images/spacer.gif
-/app.js 1 -
-/bundle.js 1 -
-/config/master.key 1 -
-/home/ubuntu/.config/hcloud/cli.toml 1 -
-/application-dev.properties 1 -
-/.env.dev 1 -
-/root/.vultr-cli.yaml 1 -
-/.env.save 1 -
-/js/app.js 1 -
-/env.js 1 -
-/js/main.js 1 -
-/env.json 1 -
-/.flaskenv 1 -
-/docker-compose.override.yml 1 -
-/config/production.json 1 -
-/.streamlit/secrets.toml 1 -
-/settings.js 1 -
-/home/ubuntu/.config/gcloud/application_default_credentials.json 1 -
+/secrets.yaml 1 -
+/config/secrets.yml 1 -
 /actuator/configprops 1 -
-/config.json 4 -
-/home/ubuntu/.aws/credentials 1 -
-/main.bundle.js 1 -
-/appsettings.Development.json 1 -
-/.git-credentials 1 -
-/.env.production 4 -
-/.env.development.local 1 -
-/api/env 1 -
-/service-account.json 1 -
-/.gcp/credentials.json 1 -
-/.well-known/security.txt 2 -
-/terraform.tfvars 1 -
-/application.properties 1 -
-/home/ubuntu/.vultr-cli.yaml 1 -
-/wp-login.php 1 -
-/google-cloud-key.json 1 -
-/ecosystem.config.js 1 -
-/conf/settings.json 1 -
-/docker-compose.yml 1 -
-/server.js 1 -
-/.npmrc 1 -
-/index.js 1 -
-/config/default.json 1 -
-/root/.config/hcloud/cli.toml 1 -
-/terraform.tfstate 1 -
-/serverless.yml 1 -
-/docker-compose.yaml 1 -
-/application.yaml 1 -
-/actuator/env 2 -
-/.git/HEAD 9 -
-/home/ec2-user/.aws/credentials 1 -
-/robots.txt 3 -
-/.env.test.local 1 -
-/root/.config/gcloud/credentials.db 1 -
-/static/js/main.js 1 -
-/.env.test 1 -
-/.env.template 1 -
-/env 3 -
-/docker-compose.dev.yml 1 -
-/app.bundle.js 1 -
+/config/gcp.json 1 -
 /google-credentials.json 1 -
+/main.js 1 -
+/cdp_api_key.json 1 -
+/application.properties 1 -
+/wp-login.php 1 -
+/settings.json 1 -
+/.flaskenv 1 -
+/api/settings 1 -
+/.env.save 1 -
+/server.js 1 -
+/.env.development 4 -
+/public/plugins/ckeditor/images/spacer.gif 1 https://www.digicard.idealgroups.org/public/plugins/ckeditor/images/spacer.gif
+/.env.prod 1 -
+/docker-compose.yaml 1 -
+/google-cloud-key.json 1 -
+/home/ubuntu/.config/linode-cli 1 -
+/home/ec2-user/.aws/credentials 1 -
+/password 3 https://digicard.idealgroups.org/password/
+/application.yaml 1 -
+/bundle.js 1 -
+/credentials.json 1 -
 /.gcp/service-account.json 1 -
+/chunk.js 1 -
+/firebase-adminsdk.json 1 -
+/root/.config/linode-cli 1 -
+/config/default.json 1 -
+/.aws/credentials 3 -
+/secrets.json 2 -
+/settings.js 1 -
+/home/ubuntu/.aws/credentials 1 -
+/.env.vault 1 -
+/secrets.yml 1 -
+/.env.template 1 -
+/.streamlit/secrets.toml 1 -
+/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif 1 https://www.digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif
+/config/development.json 1 -
+/.git-credentials 1 -
+/config.py 1 -
+/hcloud.yml 1 -
+/src/.git/HEAD 1 -
+/main.bundle.js 1 -
+/docker-compose.dev.yml 1 -
+/home/ubuntu/.config/hcloud/cli.toml 1 -
+/secrets.py 1 -
+/dist/app.js 1 -
+/.env.test 1 -
+/index.js 1 -
+/ecosystem.config.js 1 -
+/.env.production.local 1 -
+/application.yml 1 -
+/.env.tmp 1 -
 /backend/.git/HEAD 1 -
+/actuator/env 2 -
+/serverless.yaml 1 -
+/.gcp/credentials.json 1 -
+/data/config.json 1 -
+/.linode-cli 1 -
+/config.yml 1 -
+/.vultr-cli.yaml 1 -
+/config/production.json 1 -
+/config.toml 1 -
+/.well-known/security.txt 2 -
+/.pypirc 1 -
+/.git/HEAD 10 -
+/docker-compose.prod.yml 1 -
+/api/config 2 -
+/home/ubuntu/.vultr-cli.yaml 1 -
+/.netrc 1 -
+/gcp-credentials.json 1 -
+/static/js/bundle.js 1 -
+/terraform.tfvars 1 -
+/dist/bundle.js 1 -
+/.env.local 5 -
+/.git/./config 1 -
+/root/.streamlit/secrets.toml 1 -
+/app/credentials.json 1 -
+/app.js 1 -
+/app/service-account.json 1 -
+/gcp-service-account.json 1 -
+/appsettings.Production.json 1 -
+/serverless.yml 1 -
+/home/node/.config/gcloud/application_default_credentials.json 1 -
+/static/js/app.js 1 -
+/.hcloud.toml 1 -
+/js/main.js 1 -
+/env 3 -
+/root/.vultr-cli.yaml 1 -
+/.npmrc 1 -
+/config/master.key 1 -
+/docker-compose.yml 1 -
+/.env.dev 1 -
+/env.json 1 -
+/settings.py 1 -
+/build/static/js/main.js 1 -
+/.env.development.local 1 -
+/js/config.js 2 -
+/root/.config/gcloud/application_default_credentials.json 1 -
+/.config/gh/hosts.yml 1 -
+/components/com_sppagebuilder/assets/css/sppagebuilder.css 1 -
+/docker-compose.override.yml 1 -
+/home/ubuntu/.config/gcloud/application_default_credentials.json 1 -
+/assets/app.js 1 -
+/env.js 1 -
+/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif 1 https://www.digicard.idealgroups.org/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif
+/root/.config/hcloud/cli.toml 1 -
+/config.yaml 1 -
+/terraform.tfstate 1 -
+/.git/config 11 -
+/vendor.js 1 -
+/service-account.json 1 -
+/root/.aws/credentials 1 -
+/robots.txt 3 -
+/static/js/main.js 1 -
+/api/env 1 -
+/.env.staging 1 -
+/.aws/config 1 -
+/app.bundle.js 1 -
+/firebase-credentials.json 1 -
+/assets/index.js 1 -
+/.env.sample 1 -
+/debug/vars 1 -
+/.secrets 1 -
+/config.json 4 -
+/application-dev.properties 1 -
+/home/node/.aws/credentials 1 -
+/.envrc 1 -
+/config.js 1 -
+/.env.test.local 1 -
+/application-prod.properties 1 -
+/root/.config/gcloud/credentials.db 1 -
+/.docker/config.json 2 -
+/appsettings.Development.json 1 -
+/appsettings.json 2 -
+/js/app.js 1 -
+/.env.production 4 -
+/.env.dist 1 -
+/conf/settings.json 1 -
+/dist/main.js 1 -
 END_SIDER_404
 
 # Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
@@ -405,45 +406,45 @@ END_SIDER_404
 BEGIN_VISITOR 41
 45.120.123.204 22 22 91579 20260720161025
 94.154.43.178 4 4 13264 20260718042658
-46.37.124.55 4 4 2904 20260702004100
 207.241.173.229 4 4 2913 20260719152327
+46.37.124.55 4 4 2904 20260702004100
+94.154.43.187 3 3 9946 20260722093712
 185.147.157.215 3 3 3112 20260717120019
-94.154.43.187 3 3 9946 20260722093712 20260722093712 /
-94.154.43.177 2 2 6620 20260717010118
-167.94.146.57 2 2 2083 20260709174558
-3.139.242.79 2 2 2074 20260721001858
-98.93.229.235 2 2 2080 20260707193845
-223.228.7.56 2 2 28092 20260720160936
-94.154.43.229 2 2 6628 20260721005259
 3.89.155.66 2 2 2081 20260704201611
-205.210.31.161 1 1 3310 20260719021941
-134.199.236.166 1 1 1045 20260715112556
-143.198.49.253 1 1 1045 20260701111819
-3.219.86.171 1 1 1047 20260720203922
-94.154.43.188 1 1 3318 20260720050420
-66.132.186.176 1 1 1046 20260712134105
-198.235.24.34 1 1 3310 20260703184147
-123.57.195.212 1 1 3318 20260717104921
-62.60.217.5 1 1 1069 20260701202046
-43.134.219.52 1 1 3318 20260701202023
-87.236.176.26 1 1 1038 20260720055616
-216.81.248.125 1 1 1046 20260709164906
+167.94.146.57 2 2 2083 20260709174558
+98.93.229.235 2 2 2080 20260707193845
+94.154.43.177 2 2 6620 20260717010118
+94.154.43.229 2 2 6628 20260721005259
+223.228.7.56 2 2 28092 20260720160936
+3.139.242.79 2 2 2074 20260721001858
+66.132.224.225 1 1 1036 20260717025932
 87.106.134.37 1 1 1034 20260705095338
+205.210.31.242 1 1 3310 20260714214054
+43.134.219.52 1 1 3318 20260701202023
+134.199.236.166 1 1 1045 20260715112556
+3.219.86.171 1 1 1047 20260720203922
+205.210.31.161 1 1 3310 20260719021941
+123.57.195.212 1 1 3318 20260717104921
+66.132.186.176 1 1 1046 20260712134105
+164.92.103.21 1 1 1037 20260711131919
+94.154.43.183 1 1 3310 20260719002726
+62.60.217.5 1 1 1069 20260701202046
+198.235.24.34 1 1 3310 20260703184147
+199.45.154.123 1 1 1048 20260702125416
 195.170.172.102 1 1 838 20260714183739
 23.95.96.140 1 1 1044 20260701185933
-94.154.43.183 1 1 3310 20260719002726
-199.45.154.123 1 1 1048 20260702125416
-66.132.224.225 1 1 1036 20260717025932
-94.154.43.185 1 1 3310 20260708101837
-199.45.155.103 1 1 1046 20260713054517
-152.42.225.238 1 1 1044 20260707083204
-164.92.103.21 1 1 1037 20260711131919
-66.132.224.79 1 1 1033 20260702115207
-87.236.176.105 1 1 1044 20260713043346
 199.45.154.128 1 1 1046 20260719221458
+199.45.155.103 1 1 1046 20260713054517
+87.236.176.105 1 1 1044 20260713043346
+94.154.43.185 1 1 3310 20260708101837
+66.132.224.79 1 1 1033 20260702115207
+87.236.176.26 1 1 1038 20260720055616
 94.154.43.186 1 1 3318 20260711193045
 198.235.24.159 1 1 3310 20260720154700
-205.210.31.242 1 1 3310 20260714214054
+94.154.43.188 1 1 3318 20260720050420
+216.81.248.125 1 1 1046 20260709164906
+143.198.49.253 1 1 1045 20260701111819
+152.42.225.238 1 1 1044 20260707083204
 END_VISITOR
 
 # Date - Pages - Hits - Bandwidth - Visits
@@ -475,14 +476,14 @@ END_DAY
 BEGIN_SESSION 4
 5mn-15mn 2
 2mn-5mn 1
-0s-30s 45
 30s-2mn 1
+0s-30s 46
 END_SESSION
 
 # URL - Pages - Bandwidth - Entry - Exit
 # The 25 first Pages must be first (order not required for others)
 BEGIN_SIDER 5
-/ 55 102878 47 45
+/ 55 102878 47 46
 /super-admin 18 48397 0 0
 /website/IdealGroups 5 70237 1 2
 /password/reset 3 2513 1 1
@@ -491,13 +492,13 @@ END_SIDER
 
 # Payload Range - Payload Frequency
 BEGIN_FILESIZE 7
-1K-2K 37
-5K+ 147
-100-500 91
-0-44 2
-500-1K 6
 2K-5K 91
 44-100 1
+500-1K 9
+1K-2K 37
+100-500 92
+5K+ 147
+0-44 2
 END_FILESIZE
 
 # Request Time Range - Request Time Frequency

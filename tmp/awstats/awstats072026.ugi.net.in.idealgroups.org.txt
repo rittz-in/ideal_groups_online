@@ -9,34 +9,34 @@ AWSTATS DATA FILE 8.0 (build 20240604)
 BEGIN_MAP 28
 POS_GENERAL 2095                
 POS_TIME 2760                
-POS_VISITOR 5955                
-POS_DAY 6064                
-POS_DOMAIN 3288                
-POS_LOGIN 3509                
-POS_ROBOT 3664                
-POS_WORMS 3796                
-POS_EMAILSENDER 3927                
-POS_EMAILRECEIVER 4070                
-POS_SESSION 6138                
-POS_FILESIZE 6405                
-POS_REQUESTTIME 6516                
-POS_SIDER 6285                
-POS_FILETYPES 4205                
-POS_DOWNLOADS 4283                
-POS_OS 4331                
-POS_BROWSER 4406                
-POS_SCREENSIZE 4476                
-POS_UNKNOWNREFERER 4550                
-POS_UNKNOWNREFERERBROWSER 4637                
-POS_ORIGIN 4719                
-POS_SEREFERRALS 4849                
-POS_PAGEREFS 4993                
-POS_SEARCHWORDS 5141                
-POS_KEYWORDS 5293                
+POS_VISITOR 5963                
+POS_DAY 6072                
+POS_DOMAIN 3295                
+POS_LOGIN 3516                
+POS_ROBOT 3671                
+POS_WORMS 3803                
+POS_EMAILSENDER 3934                
+POS_EMAILRECEIVER 4077                
+POS_SESSION 6146                
+POS_FILESIZE 6413                
+POS_REQUESTTIME 6524                
+POS_SIDER 6293                
+POS_FILETYPES 4212                
+POS_DOWNLOADS 4290                
+POS_OS 4338                
+POS_BROWSER 4413                
+POS_SCREENSIZE 4483                
+POS_UNKNOWNREFERER 4557                
+POS_UNKNOWNREFERERBROWSER 4644                
+POS_ORIGIN 4726                
+POS_SEREFERRALS 4856                
+POS_PAGEREFS 5000                
+POS_SEARCHWORDS 5148                
+POS_KEYWORDS 5300                
 POS_MISC 2424                
-POS_ERRORS 5352                
-POS_CLUSTER 3365                
-POS_SIDER_404 5487                
+POS_ERRORS 5359                
+POS_CLUSTER 3372                
+POS_SIDER_404 5495                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -48,10 +48,10 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20260722174038 42 9915 13833857449020
+LastLine 20260723154752 16 3792 12178070090389
 FirstTime 0
 LastTime 20260702033413
-LastUpdate 20260722193725 42 0 42 0 0
+LastUpdate 20260723203316 16 0 16 0 0
 TotalVisits 1                   
 TotalUnique 1                   
 MonthHostsKnown 0                   
@@ -60,16 +60,16 @@ END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
-TotalMisc 0 0 0
 JavascriptDisabled 0 0 0
-QuickTimeSupport 0 0 0
-PDFSupport 0 0 0
-DirectorSupport 0 0 0
-JavaEnabled 0 0 0
-RealPlayerSupport 0 0 0
 AddToFavourites 0 3 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
 WindowsMediaPlayerSupport 0 0 0
 FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
@@ -80,7 +80,7 @@ BEGIN_TIME 24
 3 2 2 22 18 18 17162
 4 0 0 0 1 1 226
 5 0 0 0 0 0 0
-6 0 0 0 1 1 6096
+6 0 0 0 2 2 6382
 7 0 0 0 2 2 12192
 8 0 0 0 3 3 535
 9 0 0 0 5 7 912
@@ -89,15 +89,15 @@ BEGIN_TIME 24
 12 0 0 0 7 7 12644
 13 0 0 0 1 2 0
 14 0 0 0 14 15 3475
-15 0 0 0 12 12 2860
+15 0 0 0 13 13 3146
 16 0 0 0 3 3 286
 17 0 0 0 6 6 1692
 18 0 0 0 3 4 0
 19 0 0 0 7 7 226
-20 0 0 0 6 6 0
+20 0 0 0 10 10 1144
 21 0 0 0 2 2 0
 22 0 0 0 2 2 0
-23 0 0 0 4 4 12192
+23 0 0 0 14 14 15052
 END_TIME
 
 # Domain - Pages - Hits - Bandwidth
@@ -197,22 +197,22 @@ END_KEYWORDS
 
 # Errors - Hits - Bandwidth
 BEGIN_ERRORS 5
-301 55 5744
-409 2 166
-403 14 4970
 404 14 55449
+301 71 10320
 406 20 4520
+403 14 4970
+409 2 166
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
 BEGIN_SIDER_404 7
+/.env.production 1 -
+/.aws/credentials 1 -
 /wp-content/languages/ 1 -
 /wp-json/gravitysmtp/v1/tests/mock-data 5 -
 /images/ 1 -
-/.git/config 2 -
-/.env.production 1 -
 /.git/HEAD 3 -
-/.aws/credentials 1 -
+/.git/config 2 -
 END_SIDER_404
 
 # Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
@@ -241,10 +241,10 @@ END_SIDER
 
 # Payload Range - Payload Frequency
 BEGIN_FILESIZE 4
-100-500 59
 5K+ 9
 44-100 2
 0-44 40
+100-500 75
 END_FILESIZE
 
 # Request Time Range - Request Time Frequency

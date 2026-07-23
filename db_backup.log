@@ -469,3 +469,28 @@ Backup Folder:
 
 Completed At : 2026-07-23 01:45:06
 ==================================================
+==================================================
+Database Backup Started : 2026-07-24 01:45:02
+==================================================
+
+Cleaning old backups...
+Old backups removed.
+
+----------------------------------------
+Database : idealgro_web
+Started  : 01:45:02
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Status   : SUCCESS
+
+==================================================
+Backup Summary
+==================================================
+Total Databases : 1
+Successful      : 1
+Failed          : 0
+
+Backup Folder:
+/home1/idealgro/ideal_db_backups
+
+Completed At : 2026-07-24 01:45:07
+==================================================

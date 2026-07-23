@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/22/2026 13:43:55
-2026 7 22 13 43 55
-4203 108 65 16 4 32 232073902 833 52 0
-3 3 2568 1 22
+# Webalizer V2.23-08 Incremental Data - 07/22/2026 19:04:36
+2026 7 22 19 4 36
+4215 108 66 16 4 33 232074898 845 53 0
+4 12 2568 1 22
 19 2 16695 5 5 3
 1 1 0 1 1 1
 19 2 48522 5 3 3
@@ -23,7 +23,7 @@
 9 6 10314 7 6 6
 817 20 76532651 2 277 2
 36 7 33487 6 8 5
-8 2 4594 3 6 4
+20 2 5590 4 18 5
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -52,7 +52,7 @@
 1 1 1051 1
 1 1 1043 1
 8 2 14085 2
-5 4 6620 4
+17 4 7616 16
 17 3 44565 3
 44 5 37795 7
 24 4 13092 5
@@ -83,7 +83,7 @@
 741
 0
 0
-167
+179
 0
 0
 0
@@ -102,11 +102,11 @@
 /composer.json
 0 2 7594247040028797292 3966 0 0
 /vite.config.js
-0 2 3687938141289592627 544 0 0
+0 2 0 544 0 0
 /package-lock.json
-0 2 3328494591668664625 85544 0 0
+0 2 0 85544 0 0
 /register
-0 3 16300528 2778 0 0
+0 3 0 2778 0 0
 /storage/logs/laravel.log
 0 3 0 222196584 0 0
 /.gitattributes
@@ -128,7 +128,7 @@
 /package.json
 0 2 0 1038 0 0
 /
-0 70 0 111779 47 4
+0 70 0 111779 48 4
 /.gitignore
 0 2 0 454 0 0
 # End Of Table - urls
@@ -157,6 +157,9 @@ ec2-3-250-85-187.eu-west-1.compute.amazonaws.com
 198.235.24.146
 0 1 1 3308 1 1783118801
 /
+147.139.206.118
+0 12 0 996 1 1784747076
+-
 105.72.212.24
 0 4 0 904 2 1784708214
 /
@@ -253,11 +256,11 @@ tvinnet-91-238-67-159.tvinnet.ru
 47.82.10.61
 0 2 0 4856 0 0
 -
-239.102.67.136.bc.googleusercontent.com
-0 13 1 12312 1 1784668705
--
 216.24.210.35
 0 1 0 226 0 0
+-
+239.102.67.136.bc.googleusercontent.com
+0 13 1 12312 1 1784668705
 -
 109-252-148-86.dynamic.spd-mgts.ru
 0 3 1 2641 1 1784727835
@@ -330,6 +333,9 @@ ec2-100-50-152-193.compute-1.amazonaws.com
 /
 # End Of Table - sites (monthly)
 # -sites- (daily)
+147.139.206.118
+0 12 0 996 1 1784747076
+-
 105.72.212.24
 0 4 0 904 2 1784708214
 /
@@ -342,7 +348,7 @@ ec2-100-50-152-193.compute-1.amazonaws.com
 # End Of Table - sites (daily)
 # -referrers- 
 - (Direct Request)
-0 4185
+0 4197
 http://digicard.idealgroups.org/.env
 0 16
 http://digicard.idealgroups.org/
@@ -359,6 +365,8 @@ Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.
 0 2
 Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
 0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+0 12
 Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Win64; x64; Trident/4.0)
 0 17
 Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E14

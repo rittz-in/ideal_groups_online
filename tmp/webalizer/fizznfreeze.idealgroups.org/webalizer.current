@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/21/2026 18:52:15
-2026 7 21 18 52 15
-185 50 37 3 9 33 2397879 82 38 0
-6 15 25 1 21
+# Webalizer V2.23-08 Incremental Data - 07/23/2026 08:57:38
+2026 7 23 8 57 38
+193 56 39 3 9 33 2628355 86 40 0
+2 4 25 1 23
 3 0 678 1 2 1
 4 3 115260 1 2 1
 4 0 0 1 0 0
@@ -24,7 +24,7 @@
 29 8 505232 6 13 6
 52 6 289622 6 12 6
 0 0 0 0 0 0
-0 0 0 0 0 0
+8 6 230476 2 4 2
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -38,10 +38,10 @@
 4 1 36456 2
 2 1 92694 2
 5 0 226 1
-0 0 0 0
+4 3 115252 2
 4 3 115252 2
 28 4 189248 13
-2 1 36289 2
+6 4 151513 4
 18 2 188229 3
 3 2 115230 2
 8 6 230512 4
@@ -60,7 +60,7 @@
 0
 0
 0
-50
+56
 0
 0
 0
@@ -69,7 +69,7 @@
 0
 0
 4
-34
+36
 0
 0
 0
@@ -100,11 +100,11 @@
 0
 # -urls- 
 /favicon.ico
-0 7 7594809989982218604 0 0 0
+0 9 7594809989982218604 0 0 0
 /login
-0 33 0 1584382 0 3
+0 35 0 1656553 0 3
 /assets/img/fizzfavicon.svg
-0 10 0 789420 0 0
+0 12 0 947304 0 0
 # End Of Table - urls
 # -sites- (monthly)
 161.35.83.82
@@ -203,11 +203,17 @@ r5-112-70.monitoring.internet-measurement.com
 88.5.62.34.bc.googleusercontent.com
 0 2 1 36317 1 1784564231
 /login
+195.172.132.66.censys-scanner.com
+0 4 3 115224 1 1784797051
+/login
 142.248.80.200
 0 2 1 36280 1 1783820246
 /login
 137.172.132.66.censys-scanner.com
 0 4 3 115260 1 1782993505
+/login
+205.186.132.66.censys-scanner.com
+0 4 3 115252 1 1784785814
 /login
 r5-139-8b.monitoring.internet-measurement.com
 0 1 1 78942 0 0
@@ -220,23 +226,11 @@ r5-139-8b.monitoring.internet-measurement.com
 /login
 # End Of Table - sites (monthly)
 # -sites- (daily)
-220.49.245.35.bc.googleusercontent.com
-0 16 1 95715 1 1784596389
+195.172.132.66.censys-scanner.com
+0 4 3 115224 1 1784797051
 /login
-scan.visionheight.com
-0 2 1 36282 1 1784659935
-/login
-3.166.186.35.bc.googleusercontent.com
-0 13 0 2816 1 1784657385
--
-142.248.80.138
-0 2 1 36289 1 1784623071
-/login
-86.36.107.136.bc.googleusercontent.com
-0 15 0 3268 1 1784635247
--
-139.172.132.66.censys-scanner.com
-0 4 3 115252 1 1784633731
+205.186.132.66.censys-scanner.com
+0 4 3 115252 1 1784785814
 /login
 # End Of Table - sites (daily)
 # -referrers- 
@@ -249,7 +243,7 @@ http://fizznfreeze.idealgroups.org
 https://fizznfreeze.idealgroups.org
 0 1
 - (Direct Request)
-0 163
+0 171
 http://www.fizznfreeze.idealgroups.org
 0 5
 http://fizznfreeze.idealgroups.org/
@@ -281,7 +275,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0
 0 9
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
-0 26
+0 34
 Go-http-client/1.1
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36

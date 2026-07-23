@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/22/2026 17:38:15
-2026 7 22 17 38 15
-2481 368 59 169 3 38 19738889 178 41 0
-17 176 908 1 22
+# Webalizer V2.23-08 Incremental Data - 07/23/2026 11:01:07
+2026 7 23 11 1 7
+2502 368 69 169 3 42 19744769 188 49 0
+6 3 908 1 23
 3 0 678 1 2 1
 0 0 0 0 0 0
 1 1 7174 1 1 1
@@ -23,8 +23,8 @@
 914 166 9443669 6 3 3
 12 1 50606 1 2 1
 3 2 42766 3 2 2
-383 10 216841 17 110 9
-0 0 0 0 0 0
+388 10 218311 21 115 14
+16 0 4410 6 5 3
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -34,25 +34,25 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 2 0 452 1
-36 8 248967 7
+37 8 249257 8
 3 0 5082 1
 1 1 35509 1
 0 0 0 0
 4 2 670 1
-132 1 139496 25
-6 2 30765 3
-2 2 14328 2
-1 1 7164 1
+141 1 142196 25
+7 2 30991 3
+3 2 14618 3
+2 1 7390 1
 1 1 7174 1
-80 0 52423 9
+83 0 53101 12
 2 1 7257 2
 1 1 307 0
 1 1 7164 1
 1 1 7174 1
 185 7 55684 53
-1084 163 9486078 53
-17 5 123376 5
-2 2 7481 1
+1085 163 9486372 54
+18 5 123670 6
+5 2 8363 4
 913 165 9451782 5
 1 1 7174 1
 2 2 35530 1
@@ -68,7 +68,7 @@
 0
 0
 0
-353
+369
 0
 0
 0
@@ -80,7 +80,7 @@
 2
 1527
 0
-45
+50
 0
 0
 186
@@ -100,13 +100,13 @@
 0
 # -urls- 
 /.git/objects/f6/11a2d8d0b2bd84e87ac1db76639e10bf45a3ce
-0 2 8030812521221731379 3142 0 0
+0 2 32762621198493030 3142 0 0
 /.git/objects/ce/35fee36d605dba3bcf99a973772e83ecb9fa74
-0 2 7957713625452457521 89330 0 0
+0 2 7884447741017483628 89330 0 0
 /.git/HEAD
-0 5 7526769998777118817 105 0 0
+0 5 28015 105 0 0
 /.git/objects/37/fc4ec306f842dcda843abf5eccb4c0818e7fd0
-0 2 29582736 202 0 0
+0 2 24776192 202 0 0
 /.git/logs/refs/remotes/origin/main
 0 2 0 1820 0 0
 /.git/objects/96/b196f6a1bc1490fad91d3a0d4baad46c72dbfd
@@ -130,7 +130,7 @@
 /.git/refs/remotes/origin/main
 0 2 0 82 0 0
 /.well-known/acme-challenge/I6IL5FOFCNHT2YBCH3YCAT1AK5OMTPYR
-0 1 3543830636907266048 64 0 0
+0 1 0 64 0 0
 /.well-known/acme-challenge/mlAhX9eJTcZsgRu4wsuL6NTcjp20bsEdfQmt7ARp7jU
 0 5 0 435 0 0
 /.git/objects/91/b44e8da597d830b2f00f91afaf068a3e99f5a5
@@ -152,23 +152,23 @@
 /.git/hooks/applypatch-msg.sample
 0 2 0 956 0 0
 /.git/objects/2b/5982e308f3dc76df2a1af3abed0b1a80c4fb39
-0 2 0 312 0 0
+0 2 85624666440413486 312 0 0
 /.git/objects/6f/359d62f26b5c537564e5dd7fcf41816577f809
-0 2 0 5438 0 0
+0 2 1784729257 5438 0 0
 /.git/objects/94/a586f94dbfb22a2c8c17978d4ef09aac91a391
-0 2 0 1238 0 0
+0 2 6938519 1238 0 0
 /.git/objects/36/67760ee7c51412068940364f82999faff7b68a
-0 2 10016341146432123697 460 0 0
+0 2 3977010730564136502 460 0 0
 /.git/objects/e6/e5693688efbbb892c5092a9427e9eb6f45d059
-0 2 1720094906337340983 342 0 0
+0 2 454833380353 342 0 0
 /.git/objects/2f/4af0e3ede7ff7a169954a282d0d69bf992f72e
-0 2 3976170725071270711 110 0 0
+0 2 0 110 0 0
 /.git/objects/03/b5494054b4d1e9ec1c186ceab54b9359c21cfd
-0 2 7171939 318 0 0
+0 2 0 318 0 0
 /.git/objects/b3/df9fa06a18d7c9565a9a78c54d4db6f31ba549
-0 2 7022344801877243953 994 0 0
+0 2 0 994 0 0
 /.git/objects/f3/99c40cea3ee5ce7c082db985fbe7a46b61003c
-0 2 7090204228625379955 598 0 0
+0 2 0 598 0 0
 /.git/objects/e6/3202188affe14e6d1023ec117a068c988b1174
 0 2 0 5368 0 0
 /.git/hooks/prepare-commit-msg.sample
@@ -215,10 +215,10 @@
 0 2 0 212 0 0
 /.git/objects/1b/4b068f78a5b40259cd8293e17e51d3e04819c0
 0 2 0 326 0 0
-/.git/objects/84/0bd7954d716c5c6df79c818416afcba2f6fc92
-0 2 0 172 0 0
 /.git/objects/1b/2b60cb87271467583f851cb79ed4697d6a2e69
 0 2 0 1492 0 0
+/.git/objects/84/0bd7954d716c5c6df79c818416afcba2f6fc92
+0 2 0 172 0 0
 /.git/objects/f7/d316ada0018a6622bf6c471c28e3636fc4fe36
 0 2 0 242 0 0
 /.git/objects/0e/8a6cdcc123932d0e14e2e9a857f4c7e73e7ab4
@@ -231,22 +231,22 @@
 0 2 0 320 0 0
 /.git/objects/88/62648728aa6aef57471270f2bc02009056a04a
 0 2 0 550 0 0
-/.git/objects/0f/6d4864721984f1e23681ac30cb53ebbbc8f3c2
-0 2 0 312 0 0
 /.git/refs/heads/main
 0 2 0 82 0 0
+/.git/objects/0f/6d4864721984f1e23681ac30cb53ebbbc8f3c2
+0 2 0 312 0 0
 /.git/objects/c2/1ec112752c9dd80fa88addf1e41093f92c6095
 0 2 0 3478 0 0
 /.git/objects/f4/7120508f4dcbe55d3b6e02995a5f059b7bb188
 0 2 0 244 0 0
-/.git/objects/5a/a1343a289709ae0de486e11cc9c279705da54c
-0 2 0 312 0 0
 /.git/objects/fd/a8a58ab3f92f89800bc079f038c4fb9b6d48c7
 0 2 0 320 0 0
-/.git/objects/f9/0d4271fca5977cedafbbe1057ca528d1d7cb2f
-0 2 0 4698 0 0
+/.git/objects/5a/a1343a289709ae0de486e11cc9c279705da54c
+0 2 0 312 0 0
 /.git/description
 0 2 0 146 0 0
+/.git/objects/f9/0d4271fca5977cedafbbe1057ca528d1d7cb2f
+0 2 0 4698 0 0
 /.git/ORIG_HEAD
 0 2 0 82 0 0
 /.git/hooks/pre-applypatch.sample
@@ -272,27 +272,27 @@
 /.git/objects/2c/418d77eb3f2d107fbbc8ed94180b52cf020851
 0 2 0 4092 0 0
 /.git/objects/00/6cdd73ec9a7f2067c845d34e88b48fe7d8a8a4
-0 2 0 4442 0 0
+0 2 87592792220971310 4442 0 0
 /.git/objects/d5/5df648c6ebf97e93d693cb0dd3a40aa74cdc91
-0 2 0 2168 0 0
+0 2 27044 2168 0 0
 /.git/hooks/update.sample
-0 2 0 7300 0 0
+0 2 3543827376980309553 7300 0 0
 /.git/hooks/pre-receive.sample
-0 2 0 1088 0 0
+0 2 3329908542230508077 1088 0 0
 /.git/objects/38/2ab9f6140ab231a85b89c8b74c49478eaf89b9
-0 2 85624666440413486 9588 0 0
+0 2 0 9588 0 0
 /.git/objects/29/edaeab5866565b29f20ccdce9de341399d5342
-0 2 1784729257 994 0 0
+0 2 7171939 994 0 0
 /.git/objects/be/25fb5db4cc03d693c45defb7b1e45eea880e32
-0 2 6938519 192 0 0
+0 2 8030590415766774574 192 0 0
 /.git/COMMIT_EDITMSG
-0 2 7002646021468613999 30 0 0
+0 2 0 30 0 0
 /.git/index
-0 2 7959267916447219712 263442 0 0
+0 2 0 263442 0 0
 /.git/objects/30/461c272fb612d03a7e9183c320b31739d3fda0
-0 2 116618572267831 3132 0 0
+0 2 0 3132 0 0
 /.git/objects/bf/bec336f06379fb5db98792b924c15d1d7415eb
-0 2 88157941197255214 998 0 0
+0 2 0 998 0 0
 /.git/FETCH_HEAD
 0 2 0 210 0 0
 /.git/hooks/pre-push.sample
@@ -337,10 +337,10 @@
 0 2 0 4072 0 0
 /.git/logs/HEAD
 0 2 0 2296 0 0
-/.git/objects/91/ca219fdb726c17de982063494a2d73bf7c3b7f
-0 2 0 1528 0 0
 /.git/objects/8b/c525742b9922a1bf37a688e47cb2f95cc98881
 0 2 0 1182 0 0
+/.git/objects/91/ca219fdb726c17de982063494a2d73bf7c3b7f
+0 2 0 1528 0 0
 /.git/objects/49/217463785ae374ebe87e1a7fba6553bcc4a74a
 0 2 0 1878 0 0
 /.git/objects/31/8f674fc0e433543dc05a33af9e6b0db0d73d3b
@@ -348,13 +348,13 @@
 /.git/objects/8d/d26ff649cacd09326518c0f250d03a7ce1f147
 0 2 0 4956 0 0
 /
-0 26 0 469794 33 0
+0 26 0 469794 40 1
 /.git/objects/fe/4c3f15639f653ef40709b3cdc0070a16ab94c8
 0 2 0 322 0 0
-/.git/objects/66/b8082207586e59ed6e0c930da59d0b5f0dfa5c
-0 2 0 4966 0 0
 /.git/objects/e7/9a789c949798d6c8b9aff2f79d0aca02e4e9ed
 0 2 0 2138 0 0
+/.git/objects/66/b8082207586e59ed6e0c930da59d0b5f0dfa5c
+0 2 0 4966 0 0
 /.git/objects/40/4bb15045ffc7c34a52e764ae7236ee16a50b2c
 0 2 0 1240 0 0
 /.git/objects/da/7c4517a15b7a47903e84c412bee2ced2766f03
@@ -392,29 +392,29 @@
 /.git/objects/0b/64ea3e905bd9662fe619a412c702f016a3a267
 0 2 0 202 0 0
 /.git/objects/c0/6662bc3f20c41b08b9cceeafd4107907114b5c
-0 2 0 3054 0 0
+0 2 4048232699972878336 3054 0 0
 /.git/objects/b9/c75e09548118cd6c02d695b143a595fe795137
-0 2 0 3166 0 0
+0 2 8390047170526445568 3166 0 0
 /.git/objects/b3/a0fd74aa37589367b8ef7d05ed5f3986d9356e
-0 2 0 8456 0 0
+0 2 7958754966228660848 8456 0 0
 /.git/objects/a7/4e4cfb5eebb1fe1de79650fcd6902e7ca10c36
-0 2 0 1586 0 0
+0 2 3346848998062383987 1586 0 0
 /.git/objects/2a/c351a3d0773326e5af143d840b488545a5eaba
-0 2 1784729257 244 0 0
+0 2 3346848998062383987 244 0 0
 /.git/objects/98/11467a45187a360e8af2ad34e074c6cee3d87e
-0 2 3276215236133746799 320 0 0
+0 2 8028843248856428148 320 0 0
 /.gitignore
-0 2 13186884080260494128 486 0 0
+0 2 8319667402903088999 486 0 0
 /robots.txt
-0 2 8026309749654451314 218 0 0
+0 2 24720688 218 0 0
 /.git/objects/6d/f296f83588df0ce01a605c24005d4b394d12d7
-0 2 3343762647550226280 4064 0 0
+0 2 0 4064 0 0
 /.git/hooks/post-update.sample
-0 2 7218769040896504881 378 0 0
+0 2 0 378 0 0
 /.git/objects/94/92e0cae3f75b12504805e1094707de2313106e
-0 2 3905233533365464368 320 0 0
+0 2 0 320 0 0
 /.git/objects/df/86eb82d98fe60108a34594a2f99568eab235b0
-0 2 29600176 202 0 0
+0 2 0 202 0 0
 /.git/objects/ff/f4f8233967a06889247133cb0d5658c8b70c84
 0 2 0 12174 0 0
 /.git/objects/a5/31be6d78191c8797d829e21b263e9c101696ad
@@ -460,6 +460,9 @@ ec2-3-140-199-151.us-east-2.compute.amazonaws.com
 15.bl.bot.semrush.com
 0 1 0 226 0 0
 -
+214.172.132.66.censys-scanner.com
+0 1 0 290 1 1784795761
+/
 161.118.251.181
 0 13 3 108787 1 1783993663
 /
@@ -493,6 +496,9 @@ scan.visionheight.com
 142.229.12.34.bc.googleusercontent.com
 0 1 0 0 1 1784737504
 /
+104.210.140.140
+0 8 0 2400 0 0
+-
 167.99.64.39
 0 1 0 83 0 0
 -
@@ -501,6 +507,9 @@ scan.visionheight.com
 -
 crawl-66-249-74-70.googlebot.com
 0 1 1 109 0 0
+-
+104.210.140.129
+0 1 0 300 0 0
 -
 191.237.250.106
 0 79 0 52197 1 1784287683
@@ -529,11 +538,20 @@ crawl-66-249-74-70.googlebot.com
 ec2-32-192-137-37.compute-1.amazonaws.com
 0 1 1 7164 1 1783154846
 /
+chan.probe.onyphe.net
+0 2 0 588 2 1784747502
+/
+196.172.132.66.censys-scanner.com
+0 1 0 290 1 1784768404
+/
 135.123.158.34.bc.googleusercontent.com
 0 4 0 1160 1 1784737570
 /
 104.155.45.199.censys-scanner.com
 0 3 2 30087 1 1784102290
+/
+jana.probe.onyphe.net
+0 1 0 294 1 1784747653
 /
 138.154.45.199.censys-scanner.com
 0 3 2 30097 1 1783473987
@@ -547,6 +565,9 @@ srv800447.hstgr.cloud
 216.244.66.194
 0 2 0 452 1 1784439699
 -
+adeel.probe.onyphe.net
+0 1 0 294 1 1784743279
+/
 151.115.100.24
 0 169 0 50663 1 1784737992
 /
@@ -558,6 +579,9 @@ ec2-18-208-51-154.compute-1.amazonaws.com
 -
 64.89.163.29
 0 1 1 35509 1 1784174125
+/
+dalton.probe.onyphe.net
+0 1 0 294 1 1784747768
 /
 ec2-54-194-24-104.eu-west-1.compute.amazonaws.com
 0 1 0 226 1 1783563509
@@ -571,6 +595,9 @@ ec2-52-26-108-53.us-west-2.compute.amazonaws.com
 104.195.132.66.censys-scanner.com
 0 1 1 7174 1 1784144920
 /
+185.137.164.2
+0 1 0 226 0 0
+-
 crawl-66-249-74-72.googlebot.com
 0 1 1 109 0 0
 -
@@ -610,6 +637,9 @@ ec2-16-170-172-93.eu-north-1.compute.amazonaws.com
 193.235.141.23
 0 1 1 7174 1 1783860096
 /
+159.65.242.166
+0 4 0 904 1 1784804467
+-
 136-0-207-203.ips.acedatacenter.com
 0 1 0 2428 0 0
 -
@@ -618,69 +648,40 @@ ec2-16-170-172-93.eu-north-1.compute.amazonaws.com
 /
 # End Of Table - sites (monthly)
 # -sites- (daily)
-151.115.100.36
-0 166 0 49781 1 1784741873
+214.172.132.66.censys-scanner.com
+0 1 0 290 1 1784795761
 /
-outbound1h.letsencrypt.org
-0 1 1 87 0 0
+104.210.140.140
+0 8 0 2400 0 0
 -
-17.bl.bot.semrush.com
-0 1 0 226 1 1784681261
+104.210.140.129
+0 1 0 300 0 0
+-
+196.172.132.66.censys-scanner.com
+0 1 0 290 1 1784768404
 /
-ec2-3-140-199-151.us-east-2.compute.amazonaws.com
-0 1 1 87 0 0
--
-15.bl.bot.semrush.com
+185.137.164.2
 0 1 0 226 0 0
 -
-ec2-13-212-228-222.ap-southeast-1.compute.amazonaws.com
-0 1 1 87 0 0
+159.65.242.166
+0 4 0 904 1 1784804467
 -
-ns31520396.ip-57-129-136.eu
-0 3 0 870 1 1784737686
-/
-142.229.12.34.bc.googleusercontent.com
-0 1 0 0 1 1784737504
-/
-205.bl.bot.semrush.com
-0 1 0 226 0 0
--
-77-236-4-108.static.play.pl
-0 10 0 2900 1 1784741706
-/
-135.123.158.34.bc.googleusercontent.com
-0 4 0 1160 1 1784737570
-/
-151.115.100.24
-0 169 0 50663 1 1784737992
-/
-ec2-52-26-108-53.us-west-2.compute.amazonaws.com
-0 1 1 87 0 0
--
-rs200.webhostbox.net
-0 2 2 128 0 0
--
-ec2-16-170-172-93.eu-north-1.compute.amazonaws.com
-0 1 1 87 0 0
--
-127.88.90.34.bc.googleusercontent.com
-0 19 3 110000 1 1784684137
-/
-14.bl.bot.semrush.com
-0 1 0 226 1 1784704824
-/
 # End Of Table - sites (daily)
 # -referrers- 
 http://kmanimalhealthcare.idealgroups.org/livewire/update
 0 1
 - (Direct Request)
-0 2470
+0 2491
 http://kmanimalhealthcare.idealgroups.org/
 0 10
 # End Of Table - referrers
 # -agents- 
 Mozilla/5.0
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0
+0 5
 Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:47.0) Gecko/20100101 Firefox/47.0
@@ -702,9 +703,11 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 0 3
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
-0 12
+0 14
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
 0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compat
+0 9
 Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0
 0 908
 Go-http-client/1.1
@@ -750,6 +753,8 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 0 1
 Mozilla/5.0 (X11; Debian; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.99 Safari/537.36
+0 1
+Python-urllib/3.10
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 0 1

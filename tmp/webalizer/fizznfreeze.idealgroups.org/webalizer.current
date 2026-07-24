@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/23/2026 08:57:38
-2026 7 23 8 57 38
-193 56 39 3 9 33 2628355 86 40 0
-2 4 25 1 23
+# Webalizer V2.23-08 Incremental Data - 07/24/2026 17:16:58
+2026 7 24 17 16 58
+312 155 62 41 13 43 7046819 116 52 0
+21 6 107 1 24
 3 0 678 1 2 1
 4 3 115260 1 2 1
 4 0 0 1 0 0
@@ -24,8 +24,8 @@
 29 8 505232 6 13 6
 52 6 289622 6 12 6
 0 0 0 0 0 0
-8 6 230476 2 4 2
-0 0 0 0 0 0
+14 10 381991 4 8 4
+113 95 4266949 21 26 10
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -49,18 +49,18 @@
 0 0 0 0
 3 2 115255 2
 0 0 0 0
-4 2 72606 4
-3 2 115253 2
-25 5 240819 12
+111 92 3890727 25
+9 7 564081 7
+27 6 277108 14
 5 2 185765 5
-5 0 678 2
+9 3 115904 4
 15 5 188499 7
 3 2 115255 2
 3 2 36286 2
 0
 0
 0
-56
+155
 0
 0
 0
@@ -69,7 +69,7 @@
 0
 0
 4
-36
+48
 0
 0
 0
@@ -78,7 +78,7 @@
 0
 0
 0
-26
+34
 0
 58
 0
@@ -99,19 +99,104 @@
 0
 0
 # -urls- 
+/assets/vendor/libs/sweetalert2/sweetalert2.js
+0 2 31138704 81556 0 0
+/assets/img/illustrations/login-img.png
+0 2 31141488 217686 0 0
+/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js
+0 2 0 23938 0 0
+/assets/vendor/libs/node-waves/node-waves.js
+0 2 31139136 14620 0 0
+/assets/vendor/libs/jquery/jquery.js
+0 2 31139568 225450 0 0
+/assets/vendor/libs/hammer/hammer.js
+0 2 31139696 51376 0 0
+/assets/vendor/libs/typeahead-js/typeahead.js
+0 2 31140224 49124 0 0
+/assets/img/illustrations/bg-shape-image-light.png
+0 2 31138992 3512 0 0
+/assets/vendor/css/rtl/core.css
+0 2 31137632 285314 0 0
+/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css
+0 2 0 2740 0 0
+/assets/vendor/fonts/flag-icons.css
+0 2 31137200 5770 0 0
 /favicon.ico
-0 9 7594809989982218604 0 0 0
+0 10 7594809989982218604 0 0 0
+/assets/vendor/libs/typeahead-js/typeahead.css
+0 2 31137904 1360 0 0
+/assets/vendor/fonts/fontawesome.css
+0 2 31136816 54982 0 0
+/.well-known/acme-challenge/KLG_nwYGbTmn-uH_q31k9zJYqu958wyO265GPnp3WHI
+0 5 3904115342875111473 435 0 0
+/assets/vendor/fonts/fontawesome/fa-brands-400.woff2
+0 2 31139952 216040 0 0
+/assets/css/demo.css
+0 2 31136944 1968 0 0
+/assets/vendor/css/rtl/theme-default.css
+0 2 31137056 22352 0 0
+/assets/vendor/fonts/tabler/tabler-icons.woff2
+0 2 31140368 1404544 0 0
 /login
-0 35 0 1656553 0 3
+0 47 3329623772980785454 2278579 4 3
+/assets/img/illustrations/bg-shape-image.png
+0 2 31138848 32346 0 0
+/assets/vendor/css/pages/page-auth.css
+0 2 31138336 2186 0 0
 /assets/img/fizzfavicon.svg
-0 12 0 947304 0 0
+0 18 3543829550280540160 1420956 0 0
+/assets/vendor/libs/sweetalert2/sweetalert2.css
+0 2 31138048 17458 0 0
+/assets/vendor/libs/@form-validation/umd/styles/
+0 2 31138192 4762 0 0
+/.well-known/acme-challenge/VYG2EIXPXLJT1QR4BGT8OGWOWEJ2JYF-
+0 1 8026310029767241313 64 0 0
+/assets/vendor/libs/animate-css/animate.css
+0 2 31137760 20590 0 0
+/assets/vendor/fonts/tabler-icons.css
+0 2 31136528 62680 0 0
+/assets/vendor/js/helpers.js
+0 2 31138464 24758 0 0
+/assets/vendor/libs/@form-validation/umd/bundle/popular.min.js
+0 2 0 57022 0 0
+/assets/js/config.js
+0 2 31138592 1340 0 0
+/.well-known/acme-challenge/0iBFGmbtM5Fy0YDmpfQj_hPRYPRIyLAS139LegBoKYU
+0 5 3688783644340728065 435 0 0
+/assets/js/main.js
+0 2 31141376 14418 0 0
+/assets/vendor/libs/popper/popper.js
+0 2 31139440 20542 0 0
+/assets/vendor/js/menu.js
+0 2 31140640 25002 0 0
+/assets/vendor/libs/node-waves/node-waves.css
+0 2 31137328 1996 0 0
+/.well-known/acme-challenge/ORMB3Q6QXK419MLBKY9L3HS17DCFB5JF
+0 1 0 64 0 0
+/assets/vendor/libs/@form-validation/umd/plugin-bootstrap5/
+0 2 0 2570 0 0
+/assets/vendor/js/bootstrap.js
+0 2 31139824 365748 0 0
+/assets/js/pages-auth.js
+0 2 31141248 1758 0 0
+/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
+0 2 0 1986 0 0
 # End Of Table - urls
 # -sites- (monthly)
+ec2-52-90-116-81.compute-1.amazonaws.com
+0 2 1 36295 1 1784910643
+/login
+158.173.77.245
+0 2 1 36289 1 1784831872
+/login
 161.35.83.82
 0 3 2 115227 1 1783324248
 /login
 220.49.245.35.bc.googleusercontent.com
 0 16 1 95715 1 1784596389
+/login
+preece.probe.onyphe.net
+0 1 1 92288 1 1784912477
 /login
 213.167.23.34.bc.googleusercontent.com
 0 2 1 36277 1 1784573273
@@ -161,9 +246,30 @@ scan.visionheight.com
 168.144.41.179
 0 3 0 678 1 1782938136
 -
+ec2-54-218-43-146.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ec2-47-129-234-56.ap-southeast-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+231.224.132.66.censys-scanner.com
+0 4 3 115226 1 1784839189
+/login
 111.155.45.199.censys-scanner.com
 0 4 3 115252 1 1784011189
 /login
+ns3246719.ip-91-134-35.eu
+0 2 1 36286 1 1784910936
+/login
+2a4e9a35-d14c-4054-9be5-c99025def9dd.nl-ams-2.baremetal.scw.cloud
+0 43 37 1853906 1 1784910506
+/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
+josh.probe.onyphe.net
+0 1 1 92288 1 1784913418
+/login
+ec2-44-243-82-214.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
 165.245.178.210
 0 1 0 83 1 1784204224
 -
@@ -176,6 +282,9 @@ scan.visionheight.com
 142.248.80.138
 0 2 1 36289 1 1784623071
 /login
+outbound2n.letsencrypt.org
+0 1 1 87 0 0
+-
 104.234.155.49
 0 1 0 226 1 1783139325
 -
@@ -185,6 +294,12 @@ scan.visionheight.com
 64.89.163.29
 0 2 1 92694 1 1784174128
 /login
+haydn.probe.onyphe.net
+0 1 1 92444 1 1784913013
+/login
+ec2-16-170-35-170.eu-north-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
 104.28.236.175
 0 2 1 36290 1 1783581284
 /login
@@ -194,8 +309,14 @@ r5-112-70.monitoring.internet-measurement.com
 169.186.132.66.censys-scanner.com
 0 4 3 115249 1 1783469441
 /login
+padilla.probe.onyphe.net
+0 2 0 828 1 1784912435
+-
 86.36.107.136.bc.googleusercontent.com
 0 15 0 3268 1 1784635247
+-
+rs200.webhostbox.net
+0 2 2 128 0 0
 -
 129.95.185.35.bc.googleusercontent.com
 0 2 1 36313 1 1784572104
@@ -206,6 +327,9 @@ r5-112-70.monitoring.internet-measurement.com
 195.172.132.66.censys-scanner.com
 0 4 3 115224 1 1784797051
 /login
+ec2-3-145-174-29.us-east-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
 142.248.80.200
 0 2 1 36280 1 1783820246
 /login
@@ -215,42 +339,128 @@ r5-112-70.monitoring.internet-measurement.com
 205.186.132.66.censys-scanner.com
 0 4 3 115252 1 1784785814
 /login
+ec2-13-213-1-120.ap-southeast-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ec2-3-14-6-13.us-east-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+andersen.probe.onyphe.net
+0 2 2 171386 1 1784912595
+/login
 r5-139-8b.monitoring.internet-measurement.com
 0 1 1 78942 0 0
 -
 139.172.132.66.censys-scanner.com
 0 4 3 115252 1 1784633731
 /login
+151.115.100.42
+0 43 37 1853940 1 1784910523
+/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
 69.155.45.199.censys-scanner.com
 0 4 3 115224 1 1783288151
 /login
+outbound2r.letsencrypt.org
+0 1 1 87 0 0
+-
+vds1419806.hosted-by-itldc.com
+0 4 2 36290 1 1784910483
+/login
+ec2-13-61-10-95.eu-north-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
 # End Of Table - sites (monthly)
 # -sites- (daily)
-195.172.132.66.censys-scanner.com
-0 4 3 115224 1 1784797051
+ec2-52-90-116-81.compute-1.amazonaws.com
+0 2 1 36295 1 1784910643
 /login
-205.186.132.66.censys-scanner.com
-0 4 3 115252 1 1784785814
+preece.probe.onyphe.net
+0 1 1 92288 1 1784912477
 /login
+ec2-54-218-43-146.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ec2-47-129-234-56.ap-southeast-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ns3246719.ip-91-134-35.eu
+0 2 1 36286 1 1784910936
+/login
+2a4e9a35-d14c-4054-9be5-c99025def9dd.nl-ams-2.baremetal.scw.cloud
+0 43 37 1853906 1 1784910506
+/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
+josh.probe.onyphe.net
+0 1 1 92288 1 1784913418
+/login
+ec2-44-243-82-214.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+outbound2n.letsencrypt.org
+0 1 1 87 0 0
+-
+haydn.probe.onyphe.net
+0 1 1 92444 1 1784913013
+/login
+ec2-16-170-35-170.eu-north-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+padilla.probe.onyphe.net
+0 2 0 828 1 1784912435
+-
+rs200.webhostbox.net
+0 2 2 128 0 0
+-
+ec2-3-145-174-29.us-east-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ec2-13-213-1-120.ap-southeast-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ec2-3-14-6-13.us-east-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+andersen.probe.onyphe.net
+0 2 2 171386 1 1784912595
+/login
+151.115.100.42
+0 43 37 1853940 1 1784910523
+/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
+outbound2r.letsencrypt.org
+0 1 1 87 0 0
+-
+vds1419806.hosted-by-itldc.com
+0 4 2 36290 1 1784910483
+/login
+ec2-13-61-10-95.eu-north-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
 # End Of Table - sites (daily)
 # -referrers- 
 http://www.fizznfreeze.idealgroups.org/login
-0 1
+0 34
 http://fizznfreeze.idealgroups.org/app
 0 1
 http://fizznfreeze.idealgroups.org
-0 6
+0 8
 https://fizznfreeze.idealgroups.org
 0 1
 - (Direct Request)
-0 171
+0 217
+http://www.fizznfreeze.idealgroups.org/assets/vendor/fonts/tabler-icons.css
+0 1
 http://www.fizznfreeze.idealgroups.org
 0 5
 http://fizznfreeze.idealgroups.org/
-0 5
+0 6
 http://fizznfreeze.idealgroups.org/login
-0 2
+0 35
 http://www.fizznfreeze.idealgroups.org/
+0 1
+http://fizznfreeze.idealgroups.org/assets/vendor/fonts/tabler-icons.css
+0 1
+http://fizznfreeze.idealgroups.org/assets/vendor/fonts/fontawesome.css
+0 1
+http://www.fizznfreeze.idealgroups.org/assets/vendor/fonts/fontawesome.css
 0 1
 # End Of Table - referrers
 # -agents- 
@@ -258,6 +468,8 @@ Mozilla/5.0
 0 3
 Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/7.0.55539 Mobile/12B466 Safari/600
 0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0
+0 7
 Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
 0 3
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot
@@ -266,24 +478,32 @@ Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
 0 1
 CCBot/2.0 (https://commoncrawl.org/faq/)
 0 1
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 10
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
 0 3
 Mozilla/5.0 (compatible; cohere-ai/1.0; +https://cohere.com)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
 0 28
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0
 0 9
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
-0 34
+0 38
 Go-http-client/1.1
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
 0 34
 visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
 0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3
+0 84
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user
 0 1
+Cpanel-HTTP-Client/1.0
+0 2
 Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
 0 3
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -294,6 +514,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
 0 3
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 0 12
+python-httpx/0.28.1
+0 2
 Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)
 0 1
 Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
@@ -308,7 +530,13 @@ Mozilla/5.0 (Kubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0
 0 3
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 0 6
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Sa
+0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
 0 2
 meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)
 0 1
@@ -320,6 +548,8 @@ Mozilla/5.0 (compatible; CMS-Checker/1.0; +https://example.com)
 0 10
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot
 0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+0 2
 # End Of Table - agents
 # -search strings- 
 # End Of Table - search strings

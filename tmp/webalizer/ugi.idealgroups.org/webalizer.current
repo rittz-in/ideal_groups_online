@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/23/2026 17:04:34
-2026 7 23 17 4 34
-795 7 63 3 5 34 220147 370 55 0
-5 6 353 1 23
+# Webalizer V2.23-08 Incremental Data - 07/24/2026 13:46:49
+2026 7 24 13 46 49
+816 7 69 3 5 35 225738 390 61 0
+1 6 353 1 24
 16 0 4281 3 13 2
 1 0 279 1 1 1
 2 0 561 1 1 1
@@ -24,8 +24,8 @@
 9 0 2302 3 7 2
 26 0 6296 3 11 3
 614 7 172597 17 235 11
-10 0 2652 5 8 3
-0 0 0 0 0 0
+25 0 6569 10 22 8
+6 0 1674 1 6 1
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -46,14 +46,14 @@
 0 0 0 0
 8 0 2008 7
 0 0 0 0
-13 0 3626 12
+19 0 5300 18
 23 0 6340 22
 3 0 678 2
 262 7 72405 131
 383 0 107843 120
-2 0 554 2
-19 0 5268 18
-28 0 7232 18
+15 0 4192 14
+20 0 5268 19
+29 0 7511 19
 10 0 2790 10
 0 0 0 0
 12 0 3300 12
@@ -68,7 +68,7 @@
 0
 0
 0
-747
+768
 0
 0
 0
@@ -102,9 +102,9 @@
 /.well-known/acme-challenge/8SFNY6V-3LN8079Y12HYB2TDKFX3MU5_
 0 1 0 64 0 0
 /.well-known/acme-challenge/zYYSJY_4nx5X7GXQo6Uemgtngv_PVriP2LWgI3hBWZY
-0 5 0 435 0 0
+0 5 3329629282631680000 435 0 0
 /.well-known/acme-challenge/XGMABLVXZJAPWLMMNHCOZH4N5NG3F5KC
-0 1 0 64 0 0
+0 1 10693424 64 0 0
 # End Of Table - urls
 # -sites- (monthly)
 88.4.11.34.bc.googleusercontent.com
@@ -122,6 +122,9 @@ outbound1h.letsencrypt.org
 232.59.155.104.bc.googleusercontent.com
 0 12 0 2776 1 1783974073
 -
+157.158.234.8.bc.googleusercontent.com
+0 8 0 2232 1 1784831091
+-
 194.103.137.158
 0 1 0 279 1 1783861951
 -
@@ -130,6 +133,9 @@ outbound1h.letsencrypt.org
 -
 ec2-13-60-186-2.eu-north-1.compute.amazonaws.com
 0 1 1 87 0 0
+-
+103.195.132.66.censys-scanner.com
+0 1 0 279 1 1784838916
 -
 146.190.117.4
 0 2 0 561 1 1783088099
@@ -161,6 +167,9 @@ scan.visionheight.com
 81.3.34.34.bc.googleusercontent.com
 0 4 0 1100 1 1784737530
 -
+46.37.124.55
+0 1 0 0 1 1784834091
+-
 static.239.79.46.78.clients.your-server.de
 0 1 0 226 1 1783224104
 -
@@ -172,6 +181,9 @@ static.239.79.46.78.clients.your-server.de
 -
 e4462bfb-4320-4582-8d81-8ea0a2866580.pl-waw-3.baremetal.scw.cloud
 0 166 0 47306 1 1784742257
+-
+138.197.141.82
+0 2 0 569 1 1784829989
 -
 168.144.41.179
 0 3 0 678 1 1782918848
@@ -230,6 +242,9 @@ ec2-54-162-6-183.compute-1.amazonaws.com
 115.69.197.104.bc.googleusercontent.com
 0 20 0 5580 1 1784737890
 -
+20.80.34.34.bc.googleusercontent.com
+0 3 0 837 1 1784831934
+-
 165.232.175.230
 0 1 0 83 0 0
 -
@@ -256,6 +271,9 @@ ec2-32-193-249-43.compute-1.amazonaws.com
 -
 ec2-32-199-44-248.compute-1.amazonaws.com
 0 6 0 1674 1 1784062323
+-
+ec2-100-50-152-193.compute-1.amazonaws.com
+0 6 0 1674 1 1784900809
 -
 78.239.204.35.bc.googleusercontent.com
 0 1 0 0 1 1784737523
@@ -298,20 +316,8 @@ ec2-3-20-232-246.us-east-2.compute.amazonaws.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-158.173.77.245
-0 6 0 1650 1 1784826274
--
-185.137.164.5
-0 1 0 226 0 0
--
-81.195.132.66.censys-scanner.com
-0 1 0 275 1 1784815142
--
-77.155.45.199.censys-scanner.com
-0 1 0 275 1 1784800069
--
-167.99.45.54
-0 1 0 226 0 0
+ec2-100-50-152-193.compute-1.amazonaws.com
+0 6 0 1674 1 1784900809
 -
 # End Of Table - sites (daily)
 # -referrers- 
@@ -320,11 +326,11 @@ http://ugi.idealgroups.org
 http://ugi.idealgroups.org/
 0 44
 - (Direct Request)
-0 726
+0 737
 http://www.ugi.idealgroups.org/
-0 21
+0 29
 http://www.ugi.idealgroups.org
-0 3
+0 5
 # End Of Table - referrers
 # -agents- 
 Mozilla/5.0
@@ -346,7 +352,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
 0 12
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
-0 8
+0 9
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 clst-pab
 0 6
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
@@ -367,14 +373,16 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 0 12
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.142 Safari/537.36
 0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+0 6
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3
 0 495
 Cpanel-HTTP-Client/1.0
 0 2
 Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
-0 2
+0 4
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 3
+0 4
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 0 4
 python-httpx/0.28.1
@@ -392,7 +400,7 @@ Mozilla/5.0 (Android 14; Mobile; rv:123.0) Gecko/123.0 Firefox/123
 Python-urllib/3.10
 0 1
 Mozilla/5.0 (compatible; CMS-Checker/1.0; +https://example.com)
-0 14
+0 25
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
 0 6
 # End Of Table - agents

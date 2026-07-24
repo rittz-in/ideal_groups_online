@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/23/2026 05:49:00
-2026 7 23 5 49 0
-516 398 68 70 5 55 1450800 89 52 0
-3 1 83 1 23
+# Webalizer V2.23-08 Incremental Data - 07/24/2026 11:36:48
+2026 7 24 11 36 48
+520 401 69 70 5 56 1517735 92 55 0
+3 1 83 1 24
 29 29 59474 7 2 2
 45 40 36789 3 8 2
 25 25 54211 2 1 1
@@ -24,8 +24,8 @@
 4 1 11877 4 1 1
 1 1 44311 1 1 1
 3 2 45331 3 1 1
-4 2 55819 3 2 2
-0 0 0 0 0 0
+5 3 67018 4 3 3
+3 2 55736 3 2 2
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -41,10 +41,10 @@
 15 11 93539 4
 14 14 16943 1
 13 8 5942 4
-14 13 5970 0
+16 14 50507 1
 16 11 61552 5
 94 59 158008 17
-5 5 2444 0
+6 6 13643 1
 20 19 40559 4
 9 6 90807 2
 14 13 5970 0
@@ -56,11 +56,11 @@
 18 17 109233 4
 10 8 58437 2
 11 10 14725 3
-15 14 74077 4
+16 15 85276 5
 6
 0
 0
-398
+401
 0
 0
 0
@@ -80,7 +80,7 @@
 1
 0
 0
-96
+97
 0
 0
 13
@@ -102,13 +102,13 @@
 /.git/HEAD
 0 7 8319045105058736492 5558 0 0
 /config
-0 1 0 2118 1 0
-/admin/.env
-0 2 7957713625452457573 1588 0 0
+0 1 8602278188327988577 2118 1 0
 /.claude.json
-0 1 3530822107858468864 794 0 0
+0 1 3275369708633551733 794 0 0
+/admin/.env
+0 2 30803244233024626 1588 0 0
 /.aider.conf.yml
-0 1 0 794 0 0
+0 1 39462192 794 0 0
 /sitemap.xml
 0 108 0 85752 0 0
 /components/com_sppagebuilder/assets/css/sppagebuilder.css
@@ -208,7 +208,7 @@
 /host.key
 0 2 0 1588 0 0
 /
-0 48 0 1219315 48 10
+0 51 0 1286024 51 12
 /.hermes/auth.json
 0 1 0 794 0 0
 /.hermes/config.yaml
@@ -245,7 +245,7 @@
 0 5 1 1331 2 1783151325
 -
 94.154.43.186
-0 4 3 133159 3 1784348818
+0 5 4 177470 4 1784882715
 /
 94.154.43.229
 0 5 2 89300 2 1784785740
@@ -263,7 +263,7 @@ ec2-34-243-183-118.eu-west-1.compute.amazonaws.com
 0 1 1 794 0 0
 -
 scan.visionheight.com
-0 2 2 22398 2 1783878755
+0 3 3 33597 3 1784893008
 /
 216.73.217.114
 0 2 2 825 0 0
@@ -416,7 +416,7 @@ r3-235-eb.monitoring.internet-measurement.com
 0 2 2 1588 0 0
 -
 94.154.43.187
-0 3 0 678 0 0
+0 4 0 904 0 0
 -
 253.164.124.34.bc.googleusercontent.com
 0 1 1 794 0 0
@@ -439,6 +439,9 @@ r3-235-eb.monitoring.internet-measurement.com
 216.73.216.245
 0 58 58 23925 0 0
 -
+ec2-13-219-67-125.compute-1.amazonaws.com
+0 1 1 11199 1 1784850795
+/
 216.73.216.7
 0 4 4 1650 0 0
 -
@@ -447,11 +450,11 @@ r3-235-eb.monitoring.internet-measurement.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-94.154.43.229
-0 1 1 44311 1 1784785740
+94.154.43.186
+0 1 1 44311 1 1784882715
 /
-225.208.174.34.bc.googleusercontent.com
-0 2 1 11282 1 1784774921
+scan.visionheight.com
+0 1 1 11199 1 1784893008
 /
 94.154.43.187
 0 1 0 226 0 0
@@ -461,7 +464,7 @@ r3-235-eb.monitoring.internet-measurement.com
 https://www.facebook.com/
 0 1
 - (Direct Request)
-0 508
+0 512
 https://web.idealgroups.org/
 0 1
 https://www.web.idealgroups.org/
@@ -517,7 +520,7 @@ Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/5d7.36 (KHTML
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 0 1
 visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
-0 2
+0 3
 Go-http-client/2.0
 0 3
 Mozilla/5.0 (Macintosh; Intel Mac OS X 15.7; rv:149.0) Gecko/20100101 Firefox/149.0
@@ -535,7 +538,9 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 37
+0 39
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/131.0.0.0 Safari/537.36
+0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15) Gecko/20100101 Firefox/119.0.1
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36

@@ -8,7 +8,7 @@ AWSTATS DATA FILE 8.0 (build 20240604)
 # update).
 BEGIN_MAP 28
 POS_GENERAL 2088                
-POS_TIME 2740                
+POS_TIME 2737                
 POS_VISITOR 5869                
 POS_DAY 5941                
 POS_DOMAIN 3293                
@@ -33,7 +33,7 @@ POS_SEREFERRALS 4830
 POS_PAGEREFS 4974                
 POS_SEARCHWORDS 5122                
 POS_KEYWORDS 5274                
-POS_MISC 2404                
+POS_MISC 2401                
 POS_ERRORS 5333                
 POS_CLUSTER 3360                
 POS_SIDER_404 5475                
@@ -48,10 +48,10 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20260722064241 13 2527 12751682687658
+LastLine 20260724113527 6 1164 14178797731799
 FirstTime 0
 LastTime 0
-LastUpdate 20260722193725 13 0 13 0 0
+LastUpdate 20260724191051 6 0 6 0 0
 TotalVisits 0                   
 TotalUnique 0                   
 MonthHostsKnown 0                   
@@ -60,16 +60,16 @@ END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
-AddToFavourites 0 3 0
-PDFSupport 0 0 0
-WindowsMediaPlayerSupport 0 0 0
-QuickTimeSupport 0 0 0
-JavascriptDisabled 0 0 0
-JavaEnabled 0 0 0
 RealPlayerSupport 0 0 0
 TotalMisc 0 0 0
+AddToFavourites 0 3 0
+JavascriptDisabled 0 0 0
 DirectorSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
 FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
@@ -85,7 +85,7 @@ BEGIN_TIME 24
 8 0 0 0 1 2 452
 9 0 0 0 4 4 908
 10 0 0 0 9 9 2475
-11 0 0 0 0 0 0
+11 0 0 0 6 6 1650
 12 0 0 0 6 7 1695
 13 0 0 0 22 22 6050
 14 0 0 0 2 2 550
@@ -196,16 +196,16 @@ END_KEYWORDS
 BEGIN_ERRORS 5
 403 26 9230
 406 187 42262
-404 4 1420
 409 432 35856
-301 882 253323
+404 4 1420
+301 888 254973
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
 BEGIN_SIDER_404 4
-/%2f.env 1 -
 /%2fbackend%2f.env 1 -
 /%2f.aws%2fcredentials 1 -
+/%2f.env 1 -
 /%2fpublic%2f.env 1 -
 END_SIDER_404
 
@@ -231,9 +231,9 @@ END_SIDER
 # Payload Range - Payload Frequency
 BEGIN_FILESIZE 4
 5K+ 1
-44-100 432
 0-44 16
-100-500 1086
+100-500 1092
+44-100 432
 END_FILESIZE
 
 # Request Time Range - Request Time Frequency

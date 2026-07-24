@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/23/2026 16:22:47
-2026 7 23 16 22 47
-377 6 63 4 3 62 1277126 115 64 0
-6 1 137 1 23
+# Webalizer V2.23-08 Incremental Data - 07/24/2026 16:27:25
+2026 7 24 16 27 25
+656 6 68 4 4 66 1340052 128 69 0
+3 1 275 1 24
 3 0 41032 1 2 1
 2 0 12178 1 0 0
 89 2 263570 2 5 2
@@ -24,8 +24,8 @@
 7 0 20825 5 5 5
 7 0 20641 4 6 5
 11 0 14426 4 5 2
-28 0 8020 6 27 7
-0 0 0 0 0 0
+30 0 8730 8 29 9
+277 0 62216 3 11 3
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -35,7 +35,7 @@
 0 0 0 0 0 0
 6 0 62129 3
 10 0 53662 6
-5 0 21037 2
+6 0 21120 3
 9 0 47604 5
 23 0 45915 21
 0 0 0 0
@@ -44,18 +44,18 @@
 7 1 1126 3
 13 0 21948 9
 3 0 41032 2
-90 3 263677 5
+365 3 325584 14
 7 0 12973 2
 5 0 671 2
 1 0 0 1
 7 0 1259 7
-6 0 809 5
+7 0 1035 6
 2 0 0 2
 4 0 0 3
 5 0 0 5
-19 0 143406 4
+20 0 143761 5
 5 0 832 2
-5 1 12344 4
+6 1 12699 5
 6 0 18267 3
 2
 0
@@ -77,13 +77,13 @@
 1
 0
 0
-9
-179
+12
+226
 0
-99
+282
 0
 0
-25
+71
 0
 0
 0
@@ -100,18 +100,24 @@
 0
 # -urls- 
 /sitemap.xml
-0 1 8391443509326802035 244 0 0
+0 1 3329340111073574912 244 0 0
 /
-0 1 7594245677633991525 6255 33 5
+0 1 8314037637164392813 6255 38 5
 /robots.txt
-0 3 1760621618 321 0 0
+0 3 8319045105058736492 321 0 0
 /wp-json
-0 1 30102928 48047 0 0
+0 1 3832895551094798134 48047 0 0
 # End Of Table - urls
 # -sites- (monthly)
 r4-248-f8.monitoring.internet-measurement.com
 0 1 0 0 1 1783292575
 -
+ec2-3-255-164-226.eu-west-1.compute.amazonaws.com
+0 275 0 61907 1 1784892130
+-
+156.245.246.154
+0 1 0 83 1 1784861514
+/
 216.24.210.186
 0 1 0 83 0 0
 -
@@ -141,6 +147,9 @@ r4-248-f8.monitoring.internet-measurement.com
 /
 198.235.24.162
 0 1 0 0 1 1784663967
+/
+192.186.132.66.censys-scanner.com
+0 1 0 355 1 1784846245
 /
 1c1.crawl.securitytrails.com
 0 1 0 362 1 1783775517
@@ -178,6 +187,12 @@ ec2-16-147-195-56.us-west-2.compute.amazonaws.com
 ip234.ip-51-68-179.eu
 0 3 0 41032 1 1782868610
 -
+168.144.130.38
+0 1 0 226 1 1784910445
+/
+ec2-3-219-86-171.compute-1.amazonaws.com
+0 1 0 355 1 1784837843
+/
 56.146.94.167.censys-scanner.com
 0 1 0 0 1 1784141822
 /
@@ -300,30 +315,23 @@ ip148.ip-51-195-39.eu
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-scan.visionheight.com
-0 1 0 355 1 1784775410
-/
-69.195.132.66.censys-scanner.com
-0 1 0 355 1 1784821667
-/
-192-227-176-16-host.colocrossing.com
-0 2 0 710 1 1784795039
-/
-no-reverse-dns-configured.com
-0 18 0 4758 1 1784780139
+ec2-3-255-164-226.eu-west-1.compute.amazonaws.com
+0 275 0 61907 1 1784892130
 -
-232.224.132.66.censys-scanner.com
-0 1 0 355 1 1784767272
+156.245.246.154
+0 1 0 83 1 1784861514
 /
-ip149.ip-51-195-39.eu
-0 5 0 1487 2 1784823767
--
+168.144.130.38
+0 1 0 226 1 1784910445
+/
 # End Of Table - sites (daily)
 # -referrers- 
+https://ugi.net.in.idealgroups.org
+0 1
 https://www.ugi.net.in.idealgroups.org/
 0 3
 - (Direct Request)
-0 373
+0 651
 https://ugi.net.in.idealgroups.org/
 0 1
 # End Of Table - referrers
@@ -358,11 +366,15 @@ Mozilla/5.0 (iPad; CPU OS 18_5_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, lik
 0 1
 Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0
 0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.0.0 Safari/537.36
+0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (compatible; cohere-ai/1.0; +https://cohere.com)
 0 15
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.8191.1319 Mobile Sa
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 0 4
@@ -371,7 +383,7 @@ Mozilla/5.0 (SS; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0
 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 0 12
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
-0 9
+0 10
 Mozilla/5.0 (Linux; Android 14; CPH2557) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
 0 27
 Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.8567.1790 
@@ -422,6 +434,8 @@ Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)
 0 6
 Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
 0 7
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 275
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 0 18
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; rv:149.0) Gecko/20100101 Firefox/149.0
@@ -446,6 +460,8 @@ meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters
 0 12
 anthropic-ai
 0 18
+cve-2026-63030/1.0
+0 1
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot
 0 6
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36

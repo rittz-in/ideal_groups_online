@@ -9,34 +9,34 @@ AWSTATS DATA FILE 8.0 (build 20240604)
 BEGIN_MAP 28
 POS_GENERAL 2095                
 POS_TIME 2760                
-POS_VISITOR 5975                
-POS_DAY 6084                
-POS_DOMAIN 3306                
-POS_LOGIN 3527                
-POS_ROBOT 3682                
-POS_WORMS 3814                
-POS_EMAILSENDER 3945                
-POS_EMAILRECEIVER 4088                
-POS_SESSION 6158                
-POS_FILESIZE 6425                
-POS_REQUESTTIME 6537                
-POS_SIDER 6305                
-POS_FILETYPES 4223                
-POS_DOWNLOADS 4301                
-POS_OS 4349                
-POS_BROWSER 4424                
-POS_SCREENSIZE 4494                
-POS_UNKNOWNREFERER 4568                
-POS_UNKNOWNREFERERBROWSER 4655                
-POS_ORIGIN 4737                
-POS_SEREFERRALS 4867                
-POS_PAGEREFS 5011                
-POS_SEARCHWORDS 5159                
-POS_KEYWORDS 5311                
+POS_VISITOR 5976                
+POS_DAY 6085                
+POS_DOMAIN 3307                
+POS_LOGIN 3528                
+POS_ROBOT 3683                
+POS_WORMS 3815                
+POS_EMAILSENDER 3946                
+POS_EMAILRECEIVER 4089                
+POS_SESSION 6159                
+POS_FILESIZE 6426                
+POS_REQUESTTIME 6538                
+POS_SIDER 6306                
+POS_FILETYPES 4224                
+POS_DOWNLOADS 4302                
+POS_OS 4350                
+POS_BROWSER 4425                
+POS_SCREENSIZE 4495                
+POS_UNKNOWNREFERER 4569                
+POS_UNKNOWNREFERERBROWSER 4656                
+POS_ORIGIN 4738                
+POS_SEREFERRALS 4868                
+POS_PAGEREFS 5012                
+POS_SEARCHWORDS 5160                
+POS_KEYWORDS 5312                
 POS_MISC 2424                
-POS_ERRORS 5370                
-POS_CLUSTER 3383                
-POS_SIDER_404 5507                
+POS_ERRORS 5371                
+POS_CLUSTER 3384                
+POS_SIDER_404 5508                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -48,10 +48,10 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20260724134650 30 7925 14205249717465
+LastLine 20260725160617 35 7583 18049386953177
 FirstTime 0
 LastTime 20260702033413
-LastUpdate 20260724191050 30 0 30 0 0
+LastUpdate 20260725192348 35 0 35 0 0
 TotalVisits 1                   
 TotalUnique 1                   
 MonthHostsKnown 0                   
@@ -60,16 +60,16 @@ END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
-QuickTimeSupport 0 0 0
-JavascriptDisabled 0 0 0
-RealPlayerSupport 0 0 0
-JavaEnabled 0 0 0
-WindowsMediaPlayerSupport 0 0 0
-PDFSupport 0 0 0
 DirectorSupport 0 0 0
-FlashSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
 TotalMisc 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
 AddToFavourites 0 3 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
@@ -88,12 +88,12 @@ BEGIN_TIME 24
 11 0 0 0 0 0 0
 12 0 0 0 12 13 14190
 13 0 0 0 7 8 1716
-14 0 0 0 14 15 3475
-15 0 0 0 13 13 3146
-16 0 0 0 3 3 286
+14 0 0 0 16 17 4039
+15 0 0 0 44 44 12012
+16 0 0 0 4 4 572
 17 0 0 0 6 6 1692
 18 0 0 0 4 5 282
-19 0 0 0 7 7 226
+19 0 0 0 8 8 452
 20 0 0 0 10 10 1144
 21 0 0 0 2 2 0
 22 0 0 0 2 2 0
@@ -197,22 +197,22 @@ END_KEYWORDS
 
 # Errors - Hits - Bandwidth
 BEGIN_ERRORS 5
-404 14 55449
-406 20 4520
-301 100 18575
 409 3 249
+406 21 4746
+301 134 28291
 403 14 4970
+404 14 55449
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
 BEGIN_SIDER_404 7
-/.git/HEAD 3 -
 /images/ 1 -
 /.env.production 1 -
-/.aws/credentials 1 -
-/wp-content/languages/ 1 -
 /.git/config 2 -
+/.aws/credentials 1 -
 /wp-json/gravitysmtp/v1/tests/mock-data 5 -
+/wp-content/languages/ 1 -
+/.git/HEAD 3 -
 END_SIDER_404
 
 # Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
@@ -235,15 +235,15 @@ END_SESSION
 # URL - Pages - Bandwidth - Entry - Exit
 # The 25 first Pages must be first (order not required for others)
 BEGIN_SIDER 2
-/wp-content/plugins/ 1 0 0 1
 /wp-includes/blocks/ 1 22 1 0
+/wp-content/plugins/ 1 0 0 1
 END_SIDER
 
 # Payload Range - Payload Frequency
 BEGIN_FILESIZE 4
-100-500 104
 44-100 3
 5K+ 9
+100-500 139
 0-44 40
 END_FILESIZE
 

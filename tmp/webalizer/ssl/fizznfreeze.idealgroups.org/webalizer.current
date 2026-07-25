@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/24/2026 17:27:16
-2026 7 24 17 27 16
-884 281 77 41 14 78 14394478 193 82 0
-27 11 328 2 24
+# Webalizer V2.23-08 Incremental Data - 07/25/2026 17:40:41
+2026 7 25 17 40 41
+1092 426 107 42 16 88 23268089 274 113 0
+12 2 328 2 25
 0 0 0 0 0 0
 5 3 93020 2 2 1
 3 0 0 1 0 0
@@ -25,42 +25,42 @@
 72 21 585252 8 14 6
 6 3 115816 3 3 2
 8 4 208406 4 5 4
-623 168 10206775 27 82 23
+747 256 17687823 49 135 44
+84 57 1392563 12 28 10
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-0 0 0 0 0 0
-5 2 115474 2
-63 31 886893 19
+15 4 152666 10
+65 32 886917 19
 4 2 115255 2
-2 1 36316 2
-13 5 393655 8
+4 2 36340 2
+15 6 393679 8
 3 1 36541 3
-3 3 29007 2
-7 5 144600 5
-68 17 463481 10
-7 5 286903 4
-6 5 144233 4
+8 5 65566 4
+12 8 259882 7
+70 18 556218 12
+9 6 286927 4
+8 6 144257 4
 276 0 52201 10
-1 0 226 0
+45 41 1110404 12
 8 3 29233 2
-9 5 301064 7
-4 2 36713 3
-330 160 9787740 61
-14 5 337802 9
-3 0 452 0
-23 9 699058 22
-19 14 216598 10
-8 1 93189 2
-2 1 36307 2
-6 4 151537 4
+11 6 301088 7
+6 3 36737 3
+332 161 9787764 61
+81 53 2804299 33
+10 0 3224 7
+57 39 3273615 41
+25 19 2615554 11
+13 5 131402 4
+8 2 36783 4
+7 4 151537 4
 5
 0
 0
-281
+426
 0
 0
 0
@@ -68,8 +68,8 @@
 0
 0
 0
-2
-69
+8
+95
 0
 0
 0
@@ -77,10 +77,10 @@
 0
 0
 0
-0
-212
+4
+236
 3
-264
+267
 0
 0
 48
@@ -100,89 +100,94 @@
 0
 # -urls- 
 /assets/vendor/libs/sweetalert2/sweetalert2.js
-0 5 8636304 390122 0 0
+0 8 4121124827718298935 512456 0 0
 /assets/img/illustrations/login-img.png
-0 3 8637264 326529 0 0
+0 4 8319045105058736492 435372 0 0
 /assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js
-0 7 3976732347037908992 146375 0 0
+0 10 27976992 182282 0 0
 /assets/vendor/libs/node-waves/node-waves.js
-0 7 8319045105058736492 84476 0 0
-/assets/vendor/libs/jquery/jquery.js
-0 5 8636736 917853 0 0
+0 10 0 106406 0 0
 /register
-0 2 7454149454504748408 196538 1 0
+0 8 0 418674 2 1
+/assets/vendor/libs/jquery/jquery.js
+0 8 0 1256028 0 0
 /order/status/ORD202606110001
-0 1 8591216 265 0 0
+0 1 0 265 0 0
 /assets/vendor/libs/hammer/hammer.js
-0 7 0 284640 0 0
+0 10 0 361704 0 0
 /assets/vendor/libs/typeahead-js/typeahead.js
-0 7 0 325760 0 0
+0 10 0 399446 0 0
 /assets/img/illustrations/bg-shape-image-light.png
-0 3 8636592 5268 0 0
+0 4 0 7024 0 0
 /assets/vendor/css/rtl/core.css
-0 4 0 570628 0 0
+0 8 0 3075203 0 0
+/password/reset
+0 5 28068224 5667 0 0
 /assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css
-0 4 0 5480 0 0
+0 5 0 6850 0 0
 /assets/vendor/fonts/flag-icons.css
-0 3 8635904 8655 0 0
+0 6 0 82338 0 0
 /favicon.ico
-0 5 0 0 0 0
+0 7 0 0 0 0
 /assets/vendor/libs/typeahead-js/typeahead.css
-0 4 0 2720 0 0
+0 5 0 3400 0 0
 /assets/vendor/fonts/fontawesome.css
-0 3 8635472 82473 0 0
+0 6 0 386768 0 0
 /assets/vendor/fonts/fontawesome/fa-brands-400.woff2
-0 3 8636864 324060 0 0
+0 4 0 432080 0 0
 /track-order
 0 1 0 13813 1 0
 /assets/css/demo.css
-0 4 0 3936 0 0
+0 5 0 4920 0 0
 /assets/vendor/css/rtl/theme-default.css
-0 4 0 44704 0 0
+0 5 0 55880 0 0
 /assets/vendor/fonts/tabler/tabler-icons.woff2
-0 3 8637392 2106816 0 0
+0 4 0 2809088 0 0
 /login
-0 56 0 2921066 10 6
+0 79 0 4426718 13 7
 /assets/img/illustrations/bg-shape-image.png
-0 3 8636448 48519 0 0
+0 4 0 64692 0 0
 /assets/vendor/css/pages/page-auth.css
-0 3 8636176 3279 0 0
+0 4 0 4372 0 0
 /assets/img/fizzfavicon.svg
-0 22 0 1736724 0 0
+0 31 0 2447202 0 0
 /assets/vendor/libs/sweetalert2/sweetalert2.css
-0 3 8635760 26187 0 0
+0 4 0 34916 0 0
 /assets/vendor/libs/@form-validation/umd/styles/
-0 3 8636032 7143 0 0
+0 4 0 9524 0 0
 /assets/vendor/libs/animate-css/animate.css
-0 4 0 41180 0 0
+0 5 0 51475 0 0
 /assets/vendor/fonts/tabler-icons.css
-0 4 0 125360 0 0
+0 10 0 1243850 0 0
 /assets/vendor/js/helpers.js
-0 7 0 150089 0 0
+0 10 0 187226 0 0
 /assets/vendor/libs/@form-validation/umd/bundle/popular.min.js
-0 7 0 307453 0 0
+0 10 0 392986 0 0
 /assets/js/config.js
-0 7 0 6408 0 0
+0 10 0 8418 0 0
 /assets/js/main.js
-0 15 0 268635 0 0
+0 18 0 290262 0 0
 /assets/vendor/libs/popper/popper.js
-0 5 8637136 80353 0 0
+0 8 0 111166 0 0
 /assets/vendor/js/menu.js
-0 7 0 147003 0 0
+0 10 0 184506 0 0
 /assets/vendor/libs/node-waves/node-waves.css
-0 4 0 3992 0 0
+0 5 0 4990 0 0
 /robots.txt
-0 2 0 48 0 0
+0 24 0 576 0 0
 /assets/vendor/libs/@form-validation/umd/plugin-bootstrap5/
-0 15 0 40515 7 5
+0 18 0 44370 7 6
 /assets/vendor/js/bootstrap.js
-0 7 0 2508646 0 0
+0 10 0 3057268 0 0
 /assets/js/pages-auth.js
-0 7 0 11079 0 0
+0 10 0 13716 0 0
 /assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
-0 15 0 28355 7 4
+0 18 0 31334 7 5
 # End Of Table - urls
 # -sites- (monthly)
+kuukococo15.example.com
+0 2 0 423 1 1784917741
+-
 94.154.43.186
 0 2 1 23669 1 1784434665
 -
@@ -192,6 +197,9 @@
 94.154.43.229
 0 3 1 4045 2 1784609063
 -
+vps-65114e90.vps.ovh.ca
+0 42 40 1110154 1 1784983230
+/password/reset
 v2202604348435447007.goodsrv.de
 0 78 0 4589 1 1784910411
 -
@@ -204,6 +212,9 @@ v2202604348435447007.goodsrv.de
 174.100.172.144.static.cloudzy.com
 0 2 0 0 0 0
 -
+huber.probe.onyphe.net
+0 1 1 78942 0 0
+-
 124.as215599.net
 0 4 0 452 0 0
 -
@@ -211,11 +222,14 @@ v2202604348435447007.goodsrv.de
 0 3 2 115255 1 1784170057
 /login
 94.154.43.183
-0 2 1 2565 1 1784665005
+0 3 1 2791 1 1784665005
 /assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
 46.172.132.66.censys-scanner.com
 0 3 2 36310 1 1784144598
 /login
+horn.probe.onyphe.net
+0 1 0 583 1 1784915589
+-
 1b1.crawl.securitytrails.com
 0 1 0 362 1 1784728990
 -
@@ -243,20 +257,29 @@ ec2-44-220-233-148.compute-1.amazonaws.com
 164.92.126.211
 0 3 2 115255 1 1784050545
 /login
+kayden.probe.onyphe.net
+0 1 0 583 1 1784916262
+-
 scan.visionheight.com
 0 2 1 36284 1 1783353755
 /login
 schroeder.probe.onyphe.net
-0 1 1 92483 1 1784913726
+0 2 2 184810 1 1784914999
 /login
 ec2-54-208-69-69.compute-1.amazonaws.com
 0 38 37 1774976 1 1784910702
 /assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
+kuukococo11.example.com
+0 2 0 423 1 1785001241
+-
 94.154.43.185
 0 7 5 283365 6 1784799927
 /login
 72.11.155.223
 0 3 2 115224 1 1784539408
+/login
+gabriel.probe.onyphe.net
+0 1 1 92327 1 1784914879
 /login
 104.164.173.226
 0 2 1 36283 1 1784911197
@@ -264,6 +287,9 @@ ec2-54-208-69-69.compute-1.amazonaws.com
 91.92.241.196
 0 9 0 452 0 0
 -
+212.16.122.34.bc.googleusercontent.com
+0 2 1 36309 1 1784960020
+/login
 192-227-176-16-host.colocrossing.com
 0 2 1 36307 1 1784498791
 /login
@@ -274,11 +300,17 @@ ec2-54-208-69-69.compute-1.amazonaws.com
 0 2 1 36280 1 1784913973
 /login
 94.154.43.188
-0 3 2 27078 2 1784320712
-/assets/vendor/libs/@form-validation/umd/plugin-bootstrap5/
+0 4 3 119405 3 1784968820
+/login
 ec2-34-245-65-19.eu-west-1.compute.amazonaws.com
 0 4 2 72599 1 1784911235
 /login
+nuha.probe.onyphe.net
+0 1 0 298 1 1784915476
+-
+4cdb651a-1b70-4af2-bd48-5adf222b60d3.fr-par-1.baremetal.scw.cloud
+0 44 38 1932853 1 1784914364
+/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
 ec2-32-186-103-127.us-west-2.compute.amazonaws.com
 0 3 2 36303 1 1783523591
 /login
@@ -297,6 +329,9 @@ ec2-32-186-103-127.us-west-2.compute.amazonaws.com
 78.189.24.202.static.ttnet.com.tr
 0 1 0 291 1 1784910403
 -
+143.110.210.166
+0 3 2 115258 1 1784963651
+/login
 chan.probe.onyphe.net
 0 1 0 426 1 1784912445
 -
@@ -309,6 +344,9 @@ chan.probe.onyphe.net
 2a4e9a35-d14c-4054-9be5-c99025def9dd.nl-ams-2.baremetal.scw.cloud
 0 44 38 1932851 1 1784910509
 /assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
+nikhil.probe.onyphe.net
+0 1 1 78942 0 0
+-
 ec2-3-255-180-90.eu-west-1.compute.amazonaws.com
 0 1 0 226 1 1783746618
 -
@@ -324,12 +362,18 @@ mail1.surge-inbox.org
 136.244.231.35.bc.googleusercontent.com
 0 1 0 0 0 0
 -
+schmidt.probe.onyphe.net
+0 1 0 410 1 1784914732
+-
 140.248.75.115
 0 2 0 0 0 0
 -
 114.154.45.199.censys-scanner.com
 0 3 2 115248 1 1784853369
 /login
+104.28.197.14
+0 1 0 213 1 1784939619
+-
 192.172.132.66.censys-scanner.com
 0 2 1 36313 1 1783467418
 /login
@@ -337,19 +381,28 @@ mail1.surge-inbox.org
 0 2 0 1053 1 1783452725
 -
 94.154.43.179
-0 7 3 28841 2 1784320712
-/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
+0 8 3 29251 3 1784968819
+-
 94.154.43.177
 0 8 8 152680 4 1784858067
 /assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
+oneal.probe.onyphe.net
+0 1 0 290 1 1784915286
+-
 haydn.probe.onyphe.net
 0 1 0 410 1 1784912385
+-
+mariah.probe.onyphe.net
+0 1 1 78942 0 0
 -
 ec2-18-246-253-188.us-west-2.compute.amazonaws.com
 0 3 2 36331 1 1783370958
 /login
 stephen.probe.onyphe.net
 0 1 1 92483 1 1784912601
+/login
+p54933467.dip0.t-ipconnect.de
+0 13 11 1150542 1 1784921178
 /login
 195.170.172.102
 0 30 10 316530 1 1784079138
@@ -363,21 +416,45 @@ stephen.probe.onyphe.net
 135.136.19.180
 0 6 4 230472 1 1784910666
 /login
+56.141.139.34.bc.googleusercontent.com
+0 5 1 36742 1 1784939408
+/login
 164.97.172.144.static.cloudzy.com
 0 1 0 0 0 0
 -
 94.154.43.178
 0 5 4 122814 4 1784665005
 /assets/vendor/libs/@form-validation/umd/plugin-bootstrap5/
+static.254.14.105.178.clients.your-server.de
+0 4 0 452 1 1784932747
+-
 192-210-150-198-host.colocrossing.com
 0 7 1 93587 1 1783452776
 /login
+104.28.233.75
+0 1 0 213 1 1784939641
+-
+dedicated.vsys.host
+0 3 1 36499 1 1784915446
+-
+cohen.probe.onyphe.net
+0 1 0 294 1 1784915300
+-
+p5dd8474b.dip0.t-ipconnect.de
+0 16 14 3637407 1 1784921660
+/login
+104.28.244.40
+0 1 0 0 1 1784939612
+-
 penzenstadler
 0 4 3 283333 1 1783452699
 /login
 103.76.88.36
 0 1 0 226 0 0
 -
+216.73.217.174
+0 49 31 296728 3 1784927519
+/password/reset
 205.210.31.109
 0 1 0 410 1 1784301036
 -
@@ -399,8 +476,17 @@ penzenstadler
 219.172.132.66.censys-scanner.com
 0 1 0 213 1 1784770575
 -
+andersen.probe.onyphe.net
+0 1 0 302 1 1784915491
+-
+kidd.probe.onyphe.net
+0 1 0 583 1 1784916736
+-
 r3-170-aa.monitoring.internet-measurement.com
 0 1 1 78942 0 0
+-
+milla.probe.onyphe.net
+0 1 0 302 1 1784916125
 -
 151.115.100.42
 0 44 38 1932884 1 1784910527
@@ -411,122 +497,87 @@ ec2-54-164-167-77.compute-1.amazonaws.com
 103.196.9.228
 0 4 2 72561 1 1784910404
 /login
+nieves.probe.onyphe.net
+0 2 0 724 1 1784916101
+-
+andrea.probe.onyphe.net
+0 1 0 583 1 1784916413
+-
 ec2-54-147-7-104.compute-1.amazonaws.com
 0 276 0 52201 1 1784893924
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-v2202604348435447007.goodsrv.de
-0 78 0 4589 1 1784910411
+vps-65114e90.vps.ovh.ca
+0 42 40 1110154 1 1784983230
+/password/reset
+94.154.43.183
+0 1 0 226 0 0
 -
-64.89.161.82
-0 58 34 3576332 1 1784910624
-/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
-124.as215599.net
-0 4 0 452 0 0
+kuukococo11.example.com
+0 2 0 423 1 1785001241
 -
-kuukococo13.example.com
-0 2 0 423 1 1784914036
+212.16.122.34.bc.googleusercontent.com
+0 2 1 36309 1 1784960020
+/login
+94.154.43.188
+0 1 1 92327 1 1784968820
+/login
+143.110.210.166
+0 3 2 115258 1 1784963651
+/login
+104.28.197.14
+0 1 0 213 1 1784939619
 -
-schroeder.probe.onyphe.net
-0 1 1 92483 1 1784913726
-/login
-ec2-54-208-69-69.compute-1.amazonaws.com
-0 38 37 1774976 1 1784910702
-/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
-104.164.173.226
-0 2 1 36283 1 1784911197
-/login
-81.171.72.135
-0 34 0 7458 1 1784910319
+94.154.43.179
+0 1 0 410 1 1784968819
 -
-198.13.158.153
-0 2 1 36280 1 1784913973
+56.141.139.34.bc.googleusercontent.com
+0 5 1 36742 1 1784939408
 /login
-ec2-34-245-65-19.eu-west-1.compute.amazonaws.com
-0 4 2 72599 1 1784911235
-/login
-78.189.24.202.static.ttnet.com.tr
-0 1 0 291 1 1784910403
+104.28.233.75
+0 1 0 213 1 1784939641
 -
-chan.probe.onyphe.net
-0 1 0 426 1 1784912445
+104.28.244.40
+0 1 0 0 1 1784939612
 -
-94.154.43.184
-0 1 1 23259 0 0
--
-171.22.217.113
-0 4 2 72563 1 1784911215
-/login
-2a4e9a35-d14c-4054-9be5-c99025def9dd.nl-ams-2.baremetal.scw.cloud
-0 44 38 1932851 1 1784910509
-/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
-154.28.229.246
-0 2 1 36283 1 1784910390
-/login
-114.154.45.199.censys-scanner.com
-0 3 2 115248 1 1784853369
-/login
-94.154.43.177
-0 2 2 5748 1 1784858067
-/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
-haydn.probe.onyphe.net
-0 1 0 410 1 1784912385
--
-stephen.probe.onyphe.net
-0 1 1 92483 1 1784912601
-/login
-129.as215599.net
-0 4 0 452 0 0
--
-135.136.19.180
-0 6 4 230472 1 1784910666
-/login
-134.as215599.net
-0 4 0 452 0 0
--
-151.115.100.42
-0 44 38 1932884 1 1784910527
-/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
-ec2-54-164-167-77.compute-1.amazonaws.com
-0 2 1 36316 1 1784863409
-/login
-103.196.9.228
-0 4 2 72561 1 1784910404
-/login
-ec2-54-147-7-104.compute-1.amazonaws.com
-0 276 0 52201 1 1784893924
+216.73.217.174
+0 24 12 288 0 0
 -
 # End Of Table - sites (daily)
 # -referrers- 
 https://www.fizznfreeze.idealgroups.org/assets/vendor/fonts/tabler-icons.css
 0 1
 https://fizznfreeze.idealgroups.org/
-0 7
+0 11
+https://www.google.com/search
+0 5
 https://www.fizznfreeze.idealgroups.org
 0 5
 https://fizznfreeze.idealgroups.org
 0 7
 - (Direct Request)
-0 742
+0 898
 https://fizznfreeze.idealgroups.org/track-order
 0 3
 https://fizznfreeze.idealgroups.org/assets/img/fizzfavicon.svg
 0 1
 https://fizznfreeze.idealgroups.org/assets/vendor/fonts/tabler-icons.css
-0 2
+0 3
 https://fizznfreeze.idealgroups.org/register
 0 2
 https://www.fizznfreeze.idealgroups.org/
-0 1
+0 6
 https://www.fizznfreeze.idealgroups.org/assets/vendor/fonts/fontawesome.css
 0 1
+https://fizznfreeze.idealgroups.org:443
+0 1
 https://fizznfreeze.idealgroups.org/assets/vendor/fonts/fontawesome.css
-0 2
+0 3
 https://www.fizznfreeze.idealgroups.org/login
-0 35
+0 36
 https://fizznfreeze.idealgroups.org/login
-0 75
+0 109
 # End Of Table - referrers
 # -agents- 
 Mozilla/5.0 (compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot)
@@ -535,6 +586,8 @@ Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like 
 0 2
 Mozilla/5.0 (compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot)
 0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+0 3
 Mozilla/5.0 (Windows NT 10.0; rv:88.0) Gecko/20100101 Firefox/88.0
 0 3
 Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
@@ -546,7 +599,7 @@ Mozilla/5.0 (X11; Linux x86_64)
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)
 0 1
 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0
-0 4
+0 21
 Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
 0 3
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -569,12 +622,16 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14
 0 2
 Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G920P Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 C
 0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 Assetnote
+0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 1
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
 0 27
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 clst-pab
@@ -582,7 +639,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
 0 3
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-0 38
+0 39
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.22
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
@@ -601,28 +658,34 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/13
 0 4
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0
 0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
 0 1
 Mozilla/5.0 (Linux; Android 4.4.3; KFAPWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/44.1.81 like Chrome/44.0.
 0 3
-Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0
-0 4
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36
 0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0
+0 4
 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
 0 4
 Mozilla/5.0 (Kubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0
 0 4
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.40 Mobile Safari/537.36
+0 13
 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E)
 0 7
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 0 10
 Mozilla/5.0 (compatible; DuckDuckBot/1.1; +http://duckduckgo.com/duckduckbot.html)
 0 4
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+0 49
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3
-0 86
+0 129
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 0 58
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0
@@ -632,7 +695,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like 
 Mozilla/5.0 (CentOS; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-0 3
+0 5
 Mozilla/5.0 (compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)
 0 3
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Safari/605.1.15
@@ -642,7 +705,11 @@ Mozilla/5.0 (compatible; Google-CloudVertexBot; +https://cloud.google.com/vertex
 Mozilla/5.0 (Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 51
+0 54
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+0 3
+Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6422.113 Mobile Safari/537.36
+0 2
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 0 4
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 (Silvy X Ran;
@@ -650,23 +717,27 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 0 10
 python-httpx/0.28.1
-0 2
-Mozilla/5.0 (compatible; GoogleOther; +https://developers.google.com/search/)
-0 6
+0 3
 Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
 0 4
+Mozilla/5.0 (compatible; GoogleOther; +https://developers.google.com/search/)
+0 6
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+0 16
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147
 0 4
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)
 0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+0 42
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-0 9
+0 12
 Mozilla/5.0 (SS; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Sa
-0 2
+0 6
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 0 6
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
@@ -687,6 +758,8 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like 
 0 3
 # End Of Table - agents
 # -search strings- 
+www.fizznfreeze.idealgroups.org
+5
 # End Of Table - search strings
 # -usernames- 
 # End Of Table - usernames

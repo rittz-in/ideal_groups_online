@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/24/2026 16:58:03
-2026 7 24 16 58 3
-420 0 87 0 5 72 132514 147 86 0
-4 2 155 1 24
+# Webalizer V2.23-08 Incremental Data - 07/25/2026 17:40:10
+2026 7 25 17 40 10
+705 0 93 0 5 77 198784 165 93 0
+4 3 275 1 25
 3 0 1293 2 1 1
 0 0 0 0 0 0
 60 0 17305 2 12 2
@@ -25,8 +25,8 @@
 0 0 0 0 0 0
 96 0 30823 27 35 23
 25 0 8882 12 20 11
-5 0 1874 4 3 3
-0 0 0 0 0 0
+9 0 3849 7 6 6
+281 0 64295 4 15 4
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -34,15 +34,15 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 4 0 1162 4
-5 0 1874 2
+7 0 2326 3
 3 0 1065 2
 6 0 1743 2
 4 0 2104 4
 3 0 1293 0
 3 0 1293 1
-156 0 43937 29
+431 0 106360 39
 2 0 452 0
-5 0 2010 4
+6 0 2365 5
 2 0 938 2
 68 0 20571 19
 2 0 945 2
@@ -50,12 +50,12 @@
 8 0 2939 6
 7 0 2812 4
 52 0 12880 13
-39 0 15385 19
+44 0 17616 24
 7 0 2584 5
 15 0 5979 9
 4 0 1648 3
-10 0 3778 8
-6 0 2229 4
+11 0 4004 8
+7 0 2812 5
 4 0 1648 3
 2
 0
@@ -77,13 +77,13 @@
 0
 0
 0
-84
-194
+91
+246
 0
-133
+314
 0
 0
-7
+52
 0
 0
 0
@@ -108,10 +108,13 @@ kuukococo15.example.com
 0 4 0 1975 3 1784905482
 -
 94.154.43.229
-0 4 0 1261 1 1784735677
+0 5 0 1844 2 1784933867
 -
 64.89.161.82
 0 12 0 6639 1 1784740477
+-
+ec2-54-224-74-50.compute-1.amazonaws.com
+0 275 0 62423 1 1784963912
 -
 205.210.31.183
 0 1 0 583 1 1784069629
@@ -123,7 +126,7 @@ ec2-35-86-202-156.us-west-2.compute.amazonaws.com
 0 2 0 710 1 1783351444
 -
 94.154.43.183
-0 3 0 1035 1 1784030353
+0 4 0 1261 1 1784030353
 -
 146.190.117.4
 0 2 0 710 1 1783088100
@@ -148,6 +151,9 @@ ec2-44-220-233-148.compute-1.amazonaws.com
 -
 205.169.39.13
 0 2 0 710 1 1784773860
+-
+ec2-34-195-23-187.compute-1.amazonaws.com
+0 1 0 355 1 1784971908
 -
 scan.visionheight.com
 0 3 0 1065 3 1784547117
@@ -206,11 +212,11 @@ e4462bfb-4320-4582-8d81-8ea0a2866580.pl-waw-3.baremetal.scw.cloud
 193.149.176.200
 0 1 0 355 1 1784742932
 -
-96.195.132.66.censys-scanner.com
-0 1 0 355 1 1784852382
--
 ec2-35-83-252-63.us-west-2.compute.amazonaws.com
 0 2 0 710 1 1783394109
+-
+96.195.132.66.censys-scanner.com
+0 1 0 355 1 1784852382
 -
 140.172.132.66.censys-scanner.com
 0 1 0 355 1 1784799175
@@ -275,6 +281,12 @@ exit-08.tor.r0cket.net
 140.248.75.126
 0 1 0 583 0 0
 -
+64.95.11.191
+0 2 0 452 1 1784944554
+-
+p54933467.dip0.t-ipconnect.de
+0 1 0 583 1 1784914935
+-
 205.210.31.41
 0 1 0 583 1 1783804166
 -
@@ -307,6 +319,9 @@ ec2-100-58-73-231.compute-1.amazonaws.com
 -
 193.32.248.184
 0 2 0 710 1 1784737714
+-
+p5dd8474b.dip0.t-ipconnect.de
+0 1 0 583 1 1784915461
 -
 78.239.204.35.bc.googleusercontent.com
 0 3 0 581 1 1784737552
@@ -356,6 +371,9 @@ ec2-13-219-67-125.compute-1.amazonaws.com
 tor-exit-4
 0 1 0 355 1 1784754028
 -
+23.180.120.146
+0 3 0 1065 1 1785001210
+-
 65.110.40.138
 0 3 0 1065 1 1784386177
 -
@@ -364,17 +382,17 @@ tor-exit-4
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-94.154.43.186
-0 1 0 583 1 1784905482
+ec2-54-224-74-50.compute-1.amazonaws.com
+0 275 0 62423 1 1784963912
 -
-94.154.43.229
-0 1 0 226 0 0
+ec2-34-195-23-187.compute-1.amazonaws.com
+0 1 0 355 1 1784971908
 -
-72.11.155.223
-0 2 0 710 1 1784912274
+64.95.11.191
+0 2 0 452 1 1784944554
 -
-96.195.132.66.censys-scanner.com
-0 1 0 355 1 1784852382
+23.180.120.146
+0 3 0 1065 1 1785001210
 -
 # End Of Table - sites (daily)
 # -referrers- 
@@ -383,7 +401,7 @@ https://www.google.com/search
 https://ugi.idealgroups.org/
 0 3
 - (Direct Request)
-0 390
+0 675
 https://www.ugi.idealgroups.org/
 0 24
 https://www.ugi.idealgroups.org
@@ -424,6 +442,8 @@ CCBot/2.0 (https://commoncrawl.org/faq/)
 0 14
 Mozilla/5.0 (X11; Linux x86_64) Firefox/117.0
 0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.1; +https://openai.com/gptbot
+0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; rv:143.0) Gecko/20100101 Firefox/143.0
 0 1
 Mozilla/5.0 (Windows NT 11.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
@@ -431,6 +451,8 @@ Mozilla/5.0 (Windows NT 11.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 Mozilla/5.0 (compatible; cohere-ai/1.0; +https://cohere.com)
 0 14
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0
 0 2
@@ -452,11 +474,13 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like G
 0 1
 Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E14
+0 3
 Go-http-client/2.0
 0 3
-Mozilla/5.0 (Macintosh; Intel Mac OS X 15.7; rv:149.0) Gecko/20100101 Firefox/149.0
-0 1
 Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 15.7; rv:149.0) Gecko/20100101 Firefox/149.0
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
 0 1
@@ -469,6 +493,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
 0 2
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.40 Mobile Safari/537.36
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 0 1
@@ -485,7 +511,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (compatible; Google-CloudVertexBot; +https://cloud.google.com/vertex-ai-bot)
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 34
+0 36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15
 0 2
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -503,7 +529,7 @@ Hello from Palo Alto Networks, find out more about our scans in https://docs-cor
 Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Mobile Saf
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-0 1
+0 2
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com
 0 15
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
@@ -526,6 +552,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 0 4
 anthropic-ai
 0 16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 275
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot
 0 12
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot

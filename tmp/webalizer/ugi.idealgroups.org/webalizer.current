@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/24/2026 13:46:49
-2026 7 24 13 46 49
-816 7 69 3 5 35 225738 390 61 0
-1 6 353 1 24
+# Webalizer V2.23-08 Incremental Data - 07/25/2026 16:03:32
+2026 7 25 16 3 32
+823 7 71 3 5 36 227667 397 63 0
+2 6 353 1 25
 16 0 4281 3 13 2
 1 0 279 1 1 1
 2 0 561 1 1 1
@@ -26,7 +26,7 @@
 614 7 172597 17 235 11
 25 0 6569 10 22 8
 6 0 1674 1 6 1
-0 0 0 0 0 0
+7 0 1929 2 7 2
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -34,7 +34,7 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 3 0 833 3
-12 0 2859 3
+13 0 3138 4
 0 0 0 0
 6 0 1650 6
 1 0 226 1
@@ -49,7 +49,7 @@
 19 0 5300 18
 23 0 6340 22
 3 0 678 2
-262 7 72405 131
+268 7 74055 137
 383 0 107843 120
 15 0 4192 14
 20 0 5268 19
@@ -68,7 +68,7 @@
 0
 0
 0
-768
+775
 0
 0
 0
@@ -102,9 +102,9 @@
 /.well-known/acme-challenge/8SFNY6V-3LN8079Y12HYB2TDKFX3MU5_
 0 1 0 64 0 0
 /.well-known/acme-challenge/zYYSJY_4nx5X7GXQo6Uemgtngv_PVriP2LWgI3hBWZY
-0 5 3329629282631680000 435 0 0
+0 5 0 435 0 0
 /.well-known/acme-challenge/XGMABLVXZJAPWLMMNHCOZH4N5NG3F5KC
-0 1 10693424 64 0 0
+0 1 0 64 0 0
 # End Of Table - urls
 # -sites- (monthly)
 88.4.11.34.bc.googleusercontent.com
@@ -145,6 +145,9 @@ ec2-13-60-186-2.eu-north-1.compute.amazonaws.com
 -
 ec2-100-57-135-227.compute-1.amazonaws.com
 0 6 0 1650 1 1784073150
+-
+158.173.77.72
+0 6 0 1650 1 1784995412
 -
 r3-78-4e.monitoring.internet-measurement.com
 0 2 0 558 1 1784751666
@@ -190,6 +193,9 @@ e4462bfb-4320-4582-8d81-8ea0a2866580.pl-waw-3.baremetal.scw.cloud
 -
 ec2-3-219-86-171.compute-1.amazonaws.com
 0 6 0 1674 1 1784663955
+-
+173.239.247.7
+0 1 0 279 1 1784943842
 -
 225.235.116.34.bc.googleusercontent.com
 0 40 0 11160 1 1784737929
@@ -316,8 +322,11 @@ ec2-3-20-232-246.us-east-2.compute.amazonaws.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-ec2-100-50-152-193.compute-1.amazonaws.com
-0 6 0 1674 1 1784900809
+158.173.77.72
+0 6 0 1650 1 1784995412
+-
+173.239.247.7
+0 1 0 279 1 1784943842
 -
 # End Of Table - sites (daily)
 # -referrers- 
@@ -326,7 +335,7 @@ http://ugi.idealgroups.org
 http://ugi.idealgroups.org/
 0 44
 - (Direct Request)
-0 737
+0 744
 http://www.ugi.idealgroups.org/
 0 29
 http://www.ugi.idealgroups.org
@@ -373,6 +382,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 0 12
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.142 Safari/537.36
 0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 0 6
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3

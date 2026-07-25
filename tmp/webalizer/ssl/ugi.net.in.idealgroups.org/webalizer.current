@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/24/2026 16:27:25
-2026 7 24 16 27 25
-656 6 68 4 4 66 1340052 128 69 0
-3 1 275 1 24
+# Webalizer V2.23-08 Incremental Data - 07/25/2026 14:57:56
+2026 7 25 14 57 56
+1210 8 76 6 5 120 1557171 391 77 0
+8 45 501 1 25
 3 0 41032 1 2 1
 2 0 12178 1 0 0
 89 2 263570 2 5 2
@@ -25,42 +25,42 @@
 7 0 20641 4 6 5
 11 0 14426 4 5 2
 30 0 8730 8 29 9
-277 0 62216 3 11 3
+279 0 63025 5 12 4
+552 2 216310 8 262 7
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-0 0 0 0 0 0
-6 0 62129 3
-10 0 53662 6
+7 0 62355 4
+511 2 244592 257
 6 0 21120 3
 9 0 47604 5
 23 0 45915 21
 0 0 0 0
 1 0 226 0
 138 1 528209 19
-7 1 1126 3
-13 0 21948 9
+11 1 2030 7
+14 0 22303 10
 3 0 41032 2
 365 3 325584 14
 7 0 12973 2
 5 0 671 2
-1 0 0 1
+46 0 23895 6
 7 0 1259 7
 7 0 1035 6
 2 0 0 2
 4 0 0 3
-5 0 0 5
-20 0 143761 5
+6 0 226 5
+21 0 144344 6
 5 0 832 2
 6 1 12699 5
 6 0 18267 3
 2
 0
 0
-6
+8
 0
 0
 0
@@ -77,13 +77,13 @@
 1
 0
 0
-12
-226
+25
+263
 0
-282
+292
 0
 0
-71
+563
 0
 0
 0
@@ -100,13 +100,17 @@
 0
 # -urls- 
 /sitemap.xml
-0 1 3329340111073574912 244 0 0
+0 1 115304760213808 244 0 0
+/wp-includes/js/jquery/jquery.js
+0 1 24141872 111433 0 0
+/wp-includes/css/dashicons.css
+0 1 24141952 36176 0 0
 /
-0 1 8314037637164392813 6255 38 5
+0 1 7094064932923012211 6255 45 6
 /robots.txt
-0 3 8319045105058736492 321 0 0
+0 3 0 321 0 0
 /wp-json
-0 1 3832895551094798134 48047 0 0
+0 1 24098192 48047 0 0
 # End Of Table - urls
 # -sites- (monthly)
 r4-248-f8.monitoring.internet-measurement.com
@@ -157,6 +161,12 @@ ec2-3-255-164-226.eu-west-1.compute.amazonaws.com
 ec2-100-56-168-118.compute-1.amazonaws.com
 0 1 0 0 1 1784056966
 /
+146.235.16.244
+0 501 2 190930 1 1784942809
+-
+ec2-34-195-23-187.compute-1.amazonaws.com
+0 1 0 355 1 1784971909
+/
 scan.visionheight.com
 0 2 0 355 2 1784775410
 /
@@ -184,17 +194,23 @@ ec2-16-147-195-56.us-west-2.compute.amazonaws.com
 192-227-176-16-host.colocrossing.com
 0 2 0 710 1 1784795039
 /
+94.154.43.188
+0 1 0 583 1 1784925241
+/
 ip234.ip-51-68-179.eu
 0 3 0 41032 1 1782868610
 -
 168.144.130.38
-0 1 0 226 1 1784910445
+0 2 0 452 2 1784939627
 /
 ec2-3-219-86-171.compute-1.amazonaws.com
 0 1 0 355 1 1784837843
 /
 56.146.94.167.censys-scanner.com
 0 1 0 0 1 1784141822
+/
+185.147.157.98
+0 3 0 1065 1 1784990771
 /
 94.154.43.184
 0 3 0 226 2 1784021643
@@ -214,11 +230,14 @@ ec2-3-219-86-171.compute-1.amazonaws.com
 ec2-54-162-6-183.compute-1.amazonaws.com
 0 1 0 0 1 1784057283
 /
+147.185.132.90
+0 1 0 583 1 1784991476
+/
 94.154.43.179
 0 4 0 904 0 0
 -
 94.154.43.177
-0 3 0 1035 1 1784755559
+0 4 0 1261 1 1784755559
 /
 154.154.45.199.censys-scanner.com
 0 1 0 0 1 1783474672
@@ -235,12 +254,18 @@ ec2-34-245-126-251.eu-west-1.compute.amazonaws.com
 198.235.24.155
 0 1 0 0 1 1784567994
 /
+104.28.227.185
+0 40 0 21892 0 0
+-
 44.195.132.66.censys-scanner.com
 0 1 0 0 1 1784167079
 /
 104.28.243.189
 0 88 2 263570 1 1783077935
 -
+168.232.192.35.bc.googleusercontent.com
+0 1 0 355 1 1784988626
+/
 70.155.45.199.censys-scanner.com
 0 1 0 0 1 1783266154
 -
@@ -298,6 +323,9 @@ ec2-100-28-138-4.compute-1.amazonaws.com
 ip141.ip-51-68-171.eu
 0 9 0 82396 1 1783211726
 -
+140.174.186.101
+0 4 0 904 1 1784968343
+-
 ec2-54-164-167-77.compute-1.amazonaws.com
 0 1 0 0 1 1784565609
 /
@@ -315,15 +343,30 @@ ip148.ip-51-195-39.eu
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-ec2-3-255-164-226.eu-west-1.compute.amazonaws.com
-0 275 0 61907 1 1784892130
+146.235.16.244
+0 501 2 190930 1 1784942809
 -
-156.245.246.154
-0 1 0 83 1 1784861514
+ec2-34-195-23-187.compute-1.amazonaws.com
+0 1 0 355 1 1784971909
 /
 168.144.130.38
-0 1 0 226 1 1784910445
+0 1 0 226 1 1784939627
 /
+185.147.157.98
+0 3 0 1065 1 1784990771
+/
+147.185.132.90
+0 1 0 583 1 1784991476
+/
+104.28.227.185
+0 40 0 21892 0 0
+-
+168.232.192.35.bc.googleusercontent.com
+0 1 0 355 1 1784988626
+/
+140.174.186.101
+0 4 0 904 1 1784968343
+-
 # End Of Table - sites (daily)
 # -referrers- 
 https://ugi.net.in.idealgroups.org
@@ -331,91 +374,161 @@ https://ugi.net.in.idealgroups.org
 https://www.ugi.net.in.idealgroups.org/
 0 3
 - (Direct Request)
-0 651
+0 717
+https://www.ugi.net.in.idealgroups.org/wp-login.php
+0 488
 https://ugi.net.in.idealgroups.org/
 0 1
 # End Of Table - referrers
 # -agents- 
 Mozilla/5.0 (compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot)
 0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+0 7
 Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0.1
+0 6
 Mozilla/5.0 (compatible; Applebot/0.1; +http://www.apple.com/go/applebot)
 0 13
 Mozilla/5.0 (compatible; Claude-Web/1.0; +https://www.anthropic.com)
 0 13
 Mozilla/5.0 (X11; Linux x86_64)
 0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15
+0 15
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-0 1
+0 2
 Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
 0 2
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot
 0 9
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; rv:92.0) Gecko/20100101 Firefox/92.0
+0 5
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot
 0 12
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+0 10
 Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
 0 1
 RecordedFuture Global Inventory Crawler
 0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15
+0 9
 CCBot/2.0 (https://commoncrawl.org/faq/)
 0 17
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+0 9
 Mozilla/5.0 (iPad; CPU OS 18_5_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/138.0.7204.156 Mobile/15E148 S
 0 1
 Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0
 0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15
+0 12
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.0.0 Safari/537.36
 0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+0 17
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+0 12
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0.1
+0 5
 Mozilla/5.0 (compatible; cohere-ai/1.0; +https://cohere.com)
 0 15
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-0 1
+0 11
 Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.8191.1319 Mobile Sa
 0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36
+0 13
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+0 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+0 12
 Mozilla/5.0 (SS; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 0 12
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
 0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; rv:91.0) Gecko/20100101 Firefox/91.0
+0 4
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36
+0 9
 Mozilla/5.0 (Linux; Android 14; CPH2557) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
 0 27
 Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.8567.1790 
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15
-0 1
+0 11
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-0 4
+0 5
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+0 7
 visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
 0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+0 13
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
+0 7
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+0 15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+0 15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
 0 1
 Go-http-client/2.0
 0 3
 Goosee-Audit/1.0 (+internal-security-audit)
 0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15
+0 16
+Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+0 10
+Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+0 10
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/129.0.0.0 Safari/537.36
 0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
+0 6
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0
 0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
+0 12
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 2
+0 13
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-0 4
+0 5
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0.1
+0 6
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user
 0 12
 Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
 0 4
+Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0
+0 5
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36
+0 11
 git/2.39.2
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -424,50 +537,90 @@ Mozilla/5.0 (compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15
+0 16
 Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.83 Mobile/
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 24
+0 26
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15
+0 12
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 0 7
 Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)
 0 6
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+0 1
 Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
-0 7
+0 8
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 0 275
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 0 18
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+0 12
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; rv:149.0) Gecko/20100101 Firefox/149.0
 0 2
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com
 0 15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; rv:93.0) Gecko/20100101 Firefox/93.0
+0 5
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147
-0 1
+0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0.2
+0 3
 Mozilla/5.0 (compatible; Google-Extended/1.0; +http://www.google.com/bot.html)
 0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; rv:90.0) Gecko/20100101 Firefox/90.0.1
+0 7
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+0 17
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; rv:89.0) Gecko/20100101 Firefox/89.0.2
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0.2
+0 6
 Mozilla/5.0 (compatible; wpbot/1.4; +https://forms.gle/ajBaxygz9jSR8p8G9)
 0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+0 19
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0.2
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+0 12
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15
+0 11
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+0 17
 meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)
 0 12
 anthropic-ai
 0 18
 cve-2026-63030/1.0
-0 1
+0 2
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot
 0 6
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-0 2
+0 12
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot
 0 15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36
+0 16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15
+0 11
 # End Of Table - agents
 # -search strings- 
 # End Of Table - search strings

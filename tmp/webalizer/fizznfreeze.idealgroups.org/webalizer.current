@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/25/2026 13:06:18
-2026 7 25 13 6 18
-428 241 81 41 13 47 11489824 152 68 0
-4 3 107 1 25
+# Webalizer V2.23-08 Incremental Data - 07/26/2026 15:29:28
+2026 7 26 15 29 28
+474 270 87 43 13 54 12309109 174 74 0
+5 4 107 1 26
 3 0 678 1 2 1
 4 3 115260 1 2 1
 4 0 0 1 0 0
@@ -26,8 +26,8 @@
 0 0 0 0 0 0
 14 10 381991 4 8 4
 216 177 8520732 36 53 23
-13 4 189222 4 9 3
-0 0 0 0 0 0
+16 6 304436 5 11 4
+43 27 704071 5 20 5
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -35,24 +35,24 @@
 0 0 0 0 0 0
 11 7 224138 8
 18 2 131995 4
-4 1 36456 2
+36 22 516396 12
 2 1 92694 2
-5 0 226 1
+9 2 36511 5
 4 3 115252 2
 4 3 115252 2
 32 6 304729 15
 6 4 151513 4
 18 2 188229 3
-3 2 115230 2
+6 4 230484 4
 8 6 230512 4
 22 1 40257 5
 3 0 678 3
 3 2 115255 2
-0 0 0 0
+4 2 72592 4
 111 92 3890727 25
 101 85 4628727 24
 36 9 429932 22
-5 2 185765 5
+8 4 300979 7
 9 3 115904 4
 17 6 224812 9
 3 2 115255 2
@@ -60,7 +60,7 @@
 0
 0
 0
-241
+270
 0
 0
 0
@@ -69,7 +69,7 @@
 0
 0
 7
-61
+69
 0
 0
 0
@@ -78,9 +78,9 @@
 0
 0
 0
-42
+48
 0
-64
+67
 0
 0
 13
@@ -100,23 +100,27 @@
 0
 # -urls- 
 /assets/vendor/libs/sweetalert2/sweetalert2.js
-0 4 7594809989982218604 163112 0 0
+0 5 7594809989982218604 203890 0 0
 /assets/img/illustrations/login-img.png
-0 4 3328779360902133038 435372 0 0
+0 4 3690472494217572609 435372 0 0
 /assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js
-0 4 455144142081 47876 0 0
+0 5 23962928 59845 0 0
 /assets/vendor/libs/node-waves/node-waves.js
-0 4 0 29240 0 0
+0 5 0 36550 0 0
+/register
+0 1 24018768 37016 0 0
 /assets/vendor/libs/jquery/jquery.js
 0 4 0 450900 0 0
 /assets/vendor/libs/hammer/hammer.js
-0 4 0 102752 0 0
+0 5 0 128440 0 0
 /assets/vendor/libs/typeahead-js/typeahead.js
-0 4 0 98248 0 0
+0 5 0 122810 0 0
 /assets/img/illustrations/bg-shape-image-light.png
 0 4 0 7024 0 0
 /assets/vendor/css/rtl/core.css
 0 4 0 570628 0 0
+/password/reset
+0 1 23978512 1126 0 0
 /assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css
 0 4 0 5480 0 0
 /assets/vendor/fonts/flag-icons.css
@@ -138,13 +142,13 @@
 /assets/vendor/fonts/tabler/tabler-icons.woff2
 0 4 0 2809088 0 0
 /login
-0 58 0 2844336 7 3
+0 67 0 3096899 7 3
 /assets/img/illustrations/bg-shape-image.png
 0 4 0 64692 0 0
 /assets/vendor/css/pages/page-auth.css
 0 4 0 4372 0 0
 /assets/img/fizzfavicon.svg
-0 25 0 1973550 0 0
+0 27 0 2131434 0 0
 /assets/vendor/libs/sweetalert2/sweetalert2.css
 0 4 0 34916 0 0
 /assets/vendor/libs/@form-validation/umd/styles/
@@ -156,31 +160,31 @@
 /assets/vendor/fonts/tabler-icons.css
 0 4 0 125360 0 0
 /assets/vendor/js/helpers.js
-0 4 0 49516 0 0
+0 5 0 61895 0 0
 /assets/vendor/libs/@form-validation/umd/bundle/popular.min.js
-0 4 0 114044 0 0
+0 5 0 142555 0 0
 /assets/js/config.js
-0 4 0 2680 0 0
+0 5 0 3350 0 0
 /.well-known/acme-challenge/0iBFGmbtM5Fy0YDmpfQj_hPRYPRIyLAS139LegBoKYU
 0 5 0 435 0 0
 /assets/js/main.js
-0 4 0 28836 0 0
+0 5 0 36045 0 0
 /assets/vendor/libs/popper/popper.js
-0 4 0 41084 0 0
+0 5 0 51355 0 0
 /assets/vendor/js/menu.js
-0 4 0 50004 0 0
+0 5 0 62505 0 0
 /assets/vendor/libs/node-waves/node-waves.css
 0 4 0 3992 0 0
 /.well-known/acme-challenge/ORMB3Q6QXK419MLBKY9L3HS17DCFB5JF
 0 1 0 64 0 0
 /assets/vendor/libs/@form-validation/umd/plugin-bootstrap5/
-0 4 0 5140 0 0
+0 5 0 6425 0 0
 /assets/vendor/js/bootstrap.js
-0 4 0 731496 0 0
+0 5 0 914370 0 0
 /assets/js/pages-auth.js
-0 4 0 3516 0 0
+0 6 0 5274 0 0
 /assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
-0 4 0 3972 0 0
+0 5 0 4965 0 0
 # End Of Table - urls
 # -sites- (monthly)
 ec2-52-90-116-81.compute-1.amazonaws.com
@@ -191,6 +195,9 @@ ec2-52-90-116-81.compute-1.amazonaws.com
 /login
 161.35.83.82
 0 3 2 115227 1 1783324248
+/login
+162.141.167.26
+0 32 21 479940 1 1785033870
 /login
 220.49.245.35.bc.googleusercontent.com
 0 16 1 95715 1 1784596389
@@ -288,6 +295,9 @@ mckinney.probe.onyphe.net
 ns3246719.ip-91-134-35.eu
 0 2 1 36286 1 1784910936
 /login
+96.52.108.136.bc.googleusercontent.com
+0 2 1 36308 1 1785079768
+/login
 2a4e9a35-d14c-4054-9be5-c99025def9dd.nl-ams-2.baremetal.scw.cloud
 0 43 37 1853906 1 1784910506
 /assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
@@ -339,6 +349,9 @@ ec2-16-170-35-170.eu-north-1.compute.amazonaws.com
 104.28.236.175
 0 2 1 36290 1 1783581284
 /login
+88.151.33.96
+0 4 2 36285 1 1785040840
+/login
 r5-112-70.monitoring.internet-measurement.com
 0 2 1 36313 1 1783175064
 /login
@@ -363,6 +376,9 @@ rs200.webhostbox.net
 cherise.probe.onyphe.net
 0 1 0 301 1 1784916557
 -
+188.166.116.185
+0 3 2 115214 1 1785008349
+/login
 88.5.62.34.bc.googleusercontent.com
 0 2 1 36317 1 1784564231
 /login
@@ -375,6 +391,9 @@ ec2-3-145-174-29.us-east-2.compute.amazonaws.com
 zahida.probe.onyphe.net
 0 1 1 78942 0 0
 -
+23-94-133-71-host.colocrossing.com
+0 3 2 115254 1 1785061762
+/login
 142.248.80.200
 0 2 1 36280 1 1783820246
 /login
@@ -395,6 +414,9 @@ ec2-3-14-6-13.us-east-2.compute.amazonaws.com
 -
 ec2-3-217-141-132.compute-1.amazonaws.com
 0 2 1 36313 1 1784929683
+/login
+100.49.127.34.bc.googleusercontent.com
+0 2 1 36284 1 1785079724
 /login
 179.100.139.34.bc.googleusercontent.com
 0 4 2 72593 1 1784917852
@@ -428,17 +450,20 @@ ec2-13-61-10-95.eu-north-1.compute.amazonaws.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-143.110.210.166
-0 3 2 115255 1 1784963644
+162.141.167.26
+0 32 21 479940 1 1785033870
 /login
-185.137.164.6
-0 2 0 452 0 0
--
-157.230.177.192
-0 4 0 904 1 1784984778
--
-52.230.100.152
-0 4 2 72611 1 1784937963
+96.52.108.136.bc.googleusercontent.com
+0 2 1 36308 1 1785079768
+/login
+88.151.33.96
+0 4 2 36285 1 1785040840
+/login
+23-94-133-71-host.colocrossing.com
+0 3 2 115254 1 1785061762
+/login
+100.49.127.34.bc.googleusercontent.com
+0 2 1 36284 1 1785079724
 /login
 # End Of Table - sites (daily)
 # -referrers- 
@@ -447,19 +472,19 @@ http://www.fizznfreeze.idealgroups.org/login
 http://fizznfreeze.idealgroups.org/app
 0 1
 http://fizznfreeze.idealgroups.org
-0 9
+0 14
 https://fizznfreeze.idealgroups.org
 0 1
 - (Direct Request)
-0 260
+0 298
 http://www.fizznfreeze.idealgroups.org/assets/vendor/fonts/tabler-icons.css
 0 2
 http://www.fizznfreeze.idealgroups.org
-0 6
+0 8
 http://fizznfreeze.idealgroups.org/
 0 6
 http://fizznfreeze.idealgroups.org/login
-0 68
+0 69
 http://www.fizznfreeze.idealgroups.org/
 0 1
 http://fizznfreeze.idealgroups.org/assets/vendor/fonts/tabler-icons.css
@@ -498,6 +523,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 0 28
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0
 0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 15_7_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15
+0 5
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
 0 38
 Go-http-client/1.1
@@ -506,6 +533,10 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 0 34
 visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
 0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 15.7; rv:149.0) Gecko/20100101 Firefox/149.0
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+0 6
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3
 0 168
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user
@@ -513,15 +544,19 @@ Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Perplexity-User/
 Cpanel-HTTP-Client/1.0
 0 2
 Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
-0 6
+0 9
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
 0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/146.0.385
+0 3
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
 0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+0 6
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 0 12
 python-httpx/0.28.1
@@ -550,6 +585,10 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
 0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.3.27
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+0 9
 meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)
 0 1
 anthropic-ai
@@ -559,7 +598,7 @@ Python-urllib/3.10
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot
 0 2
 Mozilla/5.0 (compatible; CMS-Checker/1.0; +https://example.com)
-0 14
+0 18
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36

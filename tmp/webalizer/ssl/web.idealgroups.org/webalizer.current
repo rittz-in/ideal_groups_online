@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/25/2026 13:34:09
-2026 7 25 13 34 9
-794 450 73 105 5 58 1737813 104 58 0
-6 1 269 1 25
+# Webalizer V2.23-08 Incremental Data - 07/26/2026 14:19:10
+2026 7 26 14 19 10
+803 457 77 105 5 63 1839933 110 62 0
+4 1 269 1 26
 29 29 59474 7 2 2
 45 40 36789 3 8 2
 25 25 54211 2 1 1
@@ -26,8 +26,8 @@
 3 2 45331 3 1 1
 5 3 67018 4 3 3
 3 2 55736 3 2 2
-274 49 220078 6 12 3
-0 0 0 0 0 0
+276 51 232071 8 13 4
+7 5 90127 4 5 3
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -40,27 +40,27 @@
 35 29 131061 11
 15 11 93539 4
 14 14 16943 1
-13 8 5942 4
+17 11 40333 7
 16 14 50507 1
-16 11 61552 5
+17 11 61778 5
 94 59 158008 17
 6 6 13643 1
-20 19 40559 4
+21 20 51758 5
 10 7 102006 3
-14 13 5970 0
+15 14 50281 1
 92 52 100626 7
 14 13 49487 1
 27 23 128761 10
-18 17 61542 2
+19 18 72741 3
 12 11 122221 4
 18 17 109233 4
 10 8 58437 2
-11 10 14725 3
+12 11 15519 3
 16 15 85276 5
 6
 0
 0
-450
+457
 0
 0
 0
@@ -74,13 +74,13 @@
 0
 0
 0
-0
+1
 0
 0
 2
 0
 0
-275
+276
 0
 0
 59
@@ -102,25 +102,25 @@
 /.git/HEAD
 0 7 8319045105058736492 5558 0 0
 /config
-0 1 3328491526257209203 2118 1 0
-/admin/.env
-0 3 25986464 2382 0 0
+0 1 3688780392966273328 2118 1 0
 /.claude.json
-0 1 3329621591103715118 794 0 0
+0 1 26216096 794 0 0
+/admin/.env
+0 3 7957713625452457521 2382 0 0
 /.env.sample
-0 1 26038560 794 0 0
+0 1 0 794 0 0
 /.aider.conf.yml
 0 1 0 794 0 0
 /.env.remote
-0 1 26038336 794 0 0
+0 1 0 794 0 0
 /.env.txt
-0 1 26040128 794 0 0
+0 1 0 794 0 0
 /sitemap.xml
 0 108 0 85752 0 0
 /.env.render
-0 1 26041136 794 0 0
+0 1 0 794 0 0
 /.env.railway
-0 1 26041024 794 0 0
+0 1 0 794 0 0
 /components/com_sppagebuilder/assets/css/sppagebuilder.css
 0 2 0 1588 0 0
 /.well-known/security.txt
@@ -134,19 +134,19 @@
 /private-key
 0 2 0 1588 0 0
 /.env.vercel
-0 1 26041248 794 0 0
+0 1 0 794 0 0
 /wp-admin
 0 2 0 1588 0 1
 /info
-0 1 26041696 794 0 0
+0 1 0 794 0 0
 /.env.production
 0 5 0 3970 0 0
 /.env.docker
-0 1 26039232 794 0 0
+0 1 0 794 0 0
 /.pypirc
 0 1 0 794 0 0
 /.env.preprod
-0 1 26039456 794 0 0
+0 1 0 794 0 0
 /serviceAccountKey.json
 0 2 0 1588 0 0
 /config.json
@@ -158,47 +158,47 @@
 /.git-credentials
 0 1 0 794 0 0
 /.env.save
-0 1 26038448 794 0 0
+0 1 0 794 0 0
 /.vscode/launch.json
 0 2 0 1588 0 0
 /.aws/config
 0 2 0 1588 0 0
 /.env.local
-0 4 0 3176 0 0
+0 4 3558179056669163520 3176 0 0
 /.boto
-0 1 0 794 0 0
+0 1 3761119432016986368 794 0 0
 /.aws/credentials
-0 3 0 2382 0 0
+0 3 8602282532781686784 2382 0 0
 /credentials.json
-0 2 0 1588 0 0
+0 2 7146777676180909679 1588 0 0
 /.env.uat
-0 1 26039568 794 0 0
+0 1 8029405158539198464 794 0 0
 /docker-compose.yaml
-0 2 0 1588 0 0
+0 2 27236 1588 0 0
 /.git/config
-0 15 0 11910 0 0
+0 16 3531103582835179520 12704 0 0
 /localhost.key
-0 2 0 1588 0 0
+0 2 8027103385834487808 1588 0 0
 /favicon.ico
-0 3 0 2382 0 0
+0 3 26182960 2382 0 0
 /project-details.html
 0 3 0 2382 0 0
 /.env1
-0 1 26039792 794 0 0
+0 1 0 794 0 0
 /_environment
-0 1 26041920 794 0 0
+0 1 0 794 0 0
 /.env.ci
-0 1 26039120 794 0 0
+0 1 0 794 0 0
 /.env.development
 0 3 0 2382 0 0
 /ssl/server.key
 0 2 0 1588 0 0
 /_profiler/phpinfo
-0 1 26041808 794 0 0
+0 1 0 794 0 0
 /.env.json
-0 1 26040240 794 0 0
+0 1 0 794 0 0
 /.env_copy
-0 1 26040016 794 0 0
+0 1 0 794 0 0
 /gradle.properties
 0 1 0 794 0 0
 /terraform.tfstate
@@ -208,9 +208,9 @@
 /secrets.json
 0 2 0 1588 0 0
 /.env.vault
-0 1 26040800 794 0 0
+0 1 0 794 0 0
 /.env.staging
-0 1 26002656 794 0 0
+0 1 0 794 0 0
 /firebase-adminsdk.json
 0 1 0 794 0 0
 /env
@@ -218,7 +218,7 @@
 /rclone.conf
 0 1 0 794 0 0
 /.env.neon
-0 1 26041472 794 0 0
+0 1 0 794 0 0
 /key.json
 0 2 0 1588 0 0
 /settings.py
@@ -228,19 +228,19 @@
 /.ssh/authorized_keys
 0 2 0 1588 0 0
 /.env.dev
-0 1 26038784 794 0 0
+0 1 0 794 0 0
 /secrets.yml
 0 2 0 1588 0 0
 /.env.supabase
-0 1 26041360 794 0 0
+0 1 0 794 0 0
 /.env.stage
-0 1 26039008 794 0 0
+0 1 0 794 0 0
 /.openclaw/openclaw.json
 0 1 0 794 0 0
 /ssl/localhost.key
 0 2 0 1588 0 0
 /.env.example
-0 1 26038672 794 0 0
+0 1 0 794 0 0
 /z9x8c7v6b5-debug-trigger-www.web.idealgroups.org
 0 1 0 794 0 0
 /.ssh/config
@@ -250,19 +250,19 @@
 /cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
 0 4 0 3176 0 0
 /.env2
-0 1 26039904 794 0 0
+0 1 0 794 0 0
 /id_ed25519
 0 1 0 794 0 0
 /.continue/config.json
 0 1 0 794 0 0
 /.env.prod
-0 1 26038896 794 0 0
+0 1 0 794 0 0
 /host.key
 0 2 0 1588 0 0
 /.env.dist
-0 1 26039680 794 0 0
+0 1 0 794 0 0
 /
-0 58 0 1428353 54 13
+0 64 0 1528659 58 13
 /.hermes/auth.json
 0 1 0 794 0 0
 /.hermes/config.yaml
@@ -270,19 +270,19 @@
 /.docker/config.json
 0 2 0 1588 0 0
 /.env.fly
-0 1 26040912 794 0 0
+0 1 0 794 0 0
 /phpinfo
-0 1 26041584 794 0 0
+0 1 0 794 0 0
 /service-details.html
 0 3 0 2382 0 0
 /.gitlab-ci.yml
 0 2 0 1588 0 0
 /.env.yaml
-0 1 26040352 794 0 0
+0 1 0 794 0 0
 /appsettings.Production.json
 0 1 0 794 0 0
 /.env.live
-0 1 26039344 794 0 0
+0 1 0 794 0 0
 /cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js.map
 0 1 0 794 0 0
 /id_ecdsa
@@ -294,17 +294,17 @@
 /.gradle/gradle.properties
 0 1 0 794 0 0
 /.env.yml
-0 1 26040464 794 0 0
+0 1 0 794 0 0
 /.github/workflows/deploy.yml
 0 2 0 1588 0 0
 /.env.test
-0 1 26038224 794 0 0
+0 1 0 794 0 0
 /appsettings.Development.json
 0 1 0 794 0 0
 /.env.backup1
-0 1 26040576 794 0 0
+0 1 0 794 0 0
 /.env.backup2
-0 1 26040688 794 0 0
+0 1 0 794 0 0
 /wp-json
 0 1 0 794 0 0
 /services.html
@@ -320,6 +320,9 @@
 94.154.43.229
 0 5 2 89300 2 1784785740
 /
+ec2-54-157-149-144.compute-1.amazonaws.com
+0 1 1 11199 1 1785002824
+/
 154.54.100.177
 0 1 1 794 0 0
 -
@@ -333,6 +336,9 @@ ec2-34-243-183-118.eu-west-1.compute.amazonaws.com
 0 1 1 44311 1 1783712803
 /
 149.77.126.34.bc.googleusercontent.com
+0 1 1 794 0 0
+-
+21.28.74.34.bc.googleusercontent.com
 0 1 1 794 0 0
 -
 scan.visionheight.com
@@ -363,7 +369,7 @@ ec2-34-222-192-68.us-west-2.compute.amazonaws.com
 0 2 2 11230 1 1783428407
 /
 94.154.43.185
-0 5 2 89300 2 1784595179
+0 6 2 89526 2 1784595179
 /
 1a1.crawl.securitytrails.com
 0 1 0 362 1 1783582064
@@ -398,9 +404,12 @@ ec2-3-219-86-171.compute-1.amazonaws.com
 225.208.174.34.bc.googleusercontent.com
 0 2 1 11282 1 1784774921
 /
+208.84.100.249
+0 4 3 34391 1 1785050472
+/
 94.154.43.184
-0 2 0 452 0 0
--
+0 3 1 44763 1 1785075550
+/
 173.239.218.148
 0 1 0 83 0 0
 -
@@ -430,6 +439,9 @@ ec2-44-244-154-205.us-west-2.compute.amazonaws.com
 /
 83.191.90.34.bc.googleusercontent.com
 0 1 0 226 1 1783927524
+/
+105.9.113.136.bc.googleusercontent.com
+0 1 1 11199 1 1785067344
 /
 216.73.216.95
 0 41 41 17294 0 0
@@ -532,30 +544,24 @@ ec2-13-219-67-125.compute-1.amazonaws.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-94.154.43.186
-0 1 1 44311 1 1784954784
-/
-ec2-54-173-131-118.compute-1.amazonaws.com
-0 1 1 11199 1 1784986449
-/
-172.104.87.34.bc.googleusercontent.com
-0 1 1 794 0 0
--
 94.154.43.185
 0 1 0 226 0 0
 -
-ec2-13-215-158-150.ap-southeast-1.compute.amazonaws.com
-0 269 45 162754 1 1784941058
--
-154.56.235.8.bc.googleusercontent.com
-0 1 1 794 0 0
--
+208.84.100.249
+0 4 3 34391 1 1785050472
+/
+94.154.43.184
+0 1 1 44311 1 1785075550
+/
+105.9.113.136.bc.googleusercontent.com
+0 1 1 11199 1 1785067344
+/
 # End Of Table - sites (daily)
 # -referrers- 
 https://www.facebook.com/
 0 1
 - (Direct Request)
-0 786
+0 795
 https://web.idealgroups.org/
 0 1
 https://www.web.idealgroups.org/
@@ -611,13 +617,17 @@ Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
 Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/5d7.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-0 1
+0 2
 visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
 0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0
+0 1
 Go-http-client/2.0
 0 3
 Mozilla/5.0 (Macintosh; Intel Mac OS X 15.7; rv:149.0) Gecko/20100101 Firefox/149.0
 0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
+0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 0 7
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
@@ -626,12 +636,16 @@ Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Perplexity-User/
 0 5
 Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
 0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0
+0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/146.0.385
 0 5
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 41
+0 43
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/131.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15) Gecko/20100101 Firefox/119.0.1
@@ -646,6 +660,8 @@ Hello from Palo Alto Networks, find out more about our scans in https://docs-cor
 0 8
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com
 0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+0 1
 Mozilla/5.0 (compatible; Google-Extended/1.0; +http://www.google.com/bot.html)
 0 10
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36

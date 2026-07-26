@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/25/2026 14:57:56
-2026 7 25 14 57 56
-1210 8 76 6 5 120 1557171 391 77 0
-8 45 501 1 25
+# Webalizer V2.23-08 Incremental Data - 07/26/2026 16:44:02
+2026 7 26 16 44 2
+1219 8 80 6 5 123 1562190 400 81 0
+3 1 501 1 26
 3 0 41032 1 2 1
 2 0 12178 1 0 0
 89 2 263570 2 5 2
@@ -26,20 +26,20 @@
 11 0 14426 4 5 2
 30 0 8730 8 29 9
 279 0 63025 5 12 4
-552 2 216310 8 262 7
-0 0 0 0 0 0
+553 2 216665 9 263 8
+8 0 4664 3 8 3
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 7 0 62355 4
-511 2 244592 257
+517 2 248090 263
 6 0 21120 3
 9 0 47604 5
 23 0 45915 21
 0 0 0 0
-1 0 226 0
+2 0 809 1
 138 1 528209 19
 11 1 2030 7
 14 0 22303 10
@@ -49,11 +49,11 @@
 5 0 671 2
 46 0 23895 6
 7 0 1259 7
-7 0 1035 6
+8 0 1618 7
 2 0 0 2
 4 0 0 3
 6 0 226 5
-21 0 144344 6
+22 0 144699 7
 5 0 832 2
 6 1 12699 5
 6 0 18267 3
@@ -77,8 +77,8 @@
 1
 0
 0
-25
-263
+32
+265
 0
 292
 0
@@ -100,17 +100,17 @@
 0
 # -urls- 
 /sitemap.xml
-0 1 115304760213808 244 0 0
+0 1 8386112018410635264 244 0 0
 /wp-includes/js/jquery/jquery.js
-0 1 24141872 111433 0 0
+0 1 8319045105058736492 111433 0 0
 /wp-includes/css/dashicons.css
-0 1 24141952 36176 0 0
+0 1 3905520475835543088 36176 0 0
 /
-0 1 7094064932923012211 6255 45 6
+0 1 38094128 6255 49 6
 /robots.txt
 0 3 0 321 0 0
 /wp-json
-0 1 24098192 48047 0 0
+0 1 0 48047 0 0
 # End Of Table - urls
 # -sites- (monthly)
 r4-248-f8.monitoring.internet-measurement.com
@@ -203,6 +203,9 @@ ip234.ip-51-68-179.eu
 168.144.130.38
 0 2 0 452 2 1784939627
 /
+182.8.225.112
+0 6 0 3498 1 1785031185
+/
 ec2-3-219-86-171.compute-1.amazonaws.com
 0 1 0 355 1 1784837843
 /
@@ -248,6 +251,12 @@ ec2-54-162-6-183.compute-1.amazonaws.com
 104.28.251.192
 0 2 0 20742 0 0
 -
+106.63.26.21
+0 1 0 583 1 1785048996
+/
+198.235.24.8
+0 1 0 583 1 1785084242
+/
 ec2-34-245-126-251.eu-west-1.compute.amazonaws.com
 0 1 0 226 1 1783733288
 -
@@ -287,6 +296,9 @@ ec2-32-193-249-43.compute-1.amazonaws.com
 no-reverse-dns-configured.com
 0 18 0 4758 1 1784780139
 -
+ec2-35-172-91-99.compute-1.amazonaws.com
+0 1 0 355 1 1785011806
+/
 198.235.24.145
 0 1 0 0 1 1784655755
 /
@@ -343,30 +355,15 @@ ip148.ip-51-195-39.eu
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-146.235.16.244
-0 501 2 190930 1 1784942809
--
-ec2-34-195-23-187.compute-1.amazonaws.com
-0 1 0 355 1 1784971909
+182.8.225.112
+0 6 0 3498 1 1785031185
 /
-168.144.130.38
-0 1 0 226 1 1784939627
+106.63.26.21
+0 1 0 583 1 1785048996
 /
-185.147.157.98
-0 3 0 1065 1 1784990771
+198.235.24.8
+0 1 0 583 1 1785084242
 /
-147.185.132.90
-0 1 0 583 1 1784991476
-/
-104.28.227.185
-0 40 0 21892 0 0
--
-168.232.192.35.bc.googleusercontent.com
-0 1 0 355 1 1784988626
-/
-140.174.186.101
-0 4 0 904 1 1784968343
--
 # End Of Table - sites (daily)
 # -referrers- 
 https://ugi.net.in.idealgroups.org
@@ -374,7 +371,7 @@ https://ugi.net.in.idealgroups.org
 https://www.ugi.net.in.idealgroups.org/
 0 3
 - (Direct Request)
-0 717
+0 726
 https://www.ugi.net.in.idealgroups.org/wp-login.php
 0 488
 https://ugi.net.in.idealgroups.org/
@@ -501,16 +498,16 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/605.1.15 (KHTML, like Geck
 0 16
 Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
 0 10
-Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0
-0 1
 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 0 10
+Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0
+0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/129.0.0.0 Safari/537.36
 0 1
-Mozilla/5.0 (X11; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-0 6
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0
 0 4
+Mozilla/5.0 (X11; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
+0 6
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
 0 12
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -529,6 +526,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 0 6
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36
 0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120
+0 1
 git/2.39.2
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -554,7 +553,7 @@ Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 0 1
 Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
-0 8
+0 9
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 0 275
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -585,6 +584,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 0 7
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; rv:89.0) Gecko/20100101 Firefox/89.0.2
 0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0.2
 0 6
 Mozilla/5.0 (compatible; wpbot/1.4; +https://forms.gle/ajBaxygz9jSR8p8G9)
@@ -607,6 +608,8 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like 
 0 17
 meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)
 0 12
+wp2shell
+0 6
 anthropic-ai
 0 18
 cve-2026-63030/1.0

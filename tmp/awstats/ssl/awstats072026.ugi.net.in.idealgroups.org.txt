@@ -8,35 +8,35 @@ AWSTATS DATA FILE 8.0 (build 20240604)
 # update).
 BEGIN_MAP 28
 POS_GENERAL 2099                
-POS_TIME 2769                
-POS_VISITOR 10386               
-POS_DAY 10562               
-POS_DOMAIN 3352                
-POS_LOGIN 3577                
-POS_ROBOT 3732                
-POS_WORMS 3974                
-POS_EMAILSENDER 4105                
-POS_EMAILRECEIVER 4248                
-POS_SESSION 10679               
-POS_FILESIZE 10922               
-POS_REQUESTTIME 11048               
-POS_SIDER 10825               
-POS_FILETYPES 4383                
-POS_DOWNLOADS 4509                
-POS_OS 4557                
-POS_BROWSER 4657                
-POS_SCREENSIZE 4782                
-POS_UNKNOWNREFERER 4856                
-POS_UNKNOWNREFERERBROWSER 4943                
-POS_ORIGIN 5025                
-POS_SEREFERRALS 5155                
-POS_PAGEREFS 5299                
-POS_SEARCHWORDS 5447                
-POS_KEYWORDS 5599                
-POS_MISC 2433                
-POS_ERRORS 5658                
-POS_CLUSTER 3433                
-POS_SIDER_404 5827                
+POS_TIME 2761                
+POS_VISITOR 10380               
+POS_DAY 10556               
+POS_DOMAIN 3345                
+POS_LOGIN 3570                
+POS_ROBOT 3725                
+POS_WORMS 3967                
+POS_EMAILSENDER 4098                
+POS_EMAILRECEIVER 4241                
+POS_SESSION 10673               
+POS_FILESIZE 10916               
+POS_REQUESTTIME 11042               
+POS_SIDER 10819               
+POS_FILETYPES 4376                
+POS_DOWNLOADS 4502                
+POS_OS 4550                
+POS_BROWSER 4650                
+POS_SCREENSIZE 4775                
+POS_UNKNOWNREFERER 4849                
+POS_UNKNOWNREFERERBROWSER 4936                
+POS_ORIGIN 5018                
+POS_SEREFERRALS 5148                
+POS_PAGEREFS 5292                
+POS_SEARCHWORDS 5440                
+POS_KEYWORDS 5592                
+POS_MISC 2425                
+POS_ERRORS 5651                
+POS_CLUSTER 3426                
+POS_SIDER_404 5821                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -48,10 +48,10 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20260725145756 554 159435 18049269706728
+LastLine 20260726164402 9 1255 18677678768178
 FirstTime 0
 LastTime 20260711220027
-LastUpdate 20260725192348 554 0 554 0 0
+LastUpdate 20260726191931 9 0 9 0 0
 TotalVisits 2                   
 TotalUnique 2                   
 MonthHostsKnown 0                   
@@ -60,27 +60,27 @@ END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
-TotalMisc 0 0 0
-QuickTimeSupport 0 0 0
-FlashSupport 0 0 0
-DirectorSupport 0 0 0
-WindowsMediaPlayerSupport 0 0 0
-RealPlayerSupport 0 0 0
-JavascriptDisabled 0 0 0
-JavaEnabled 0 0 0
-AddToFavourites 0 3 0
 PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 3 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
 BEGIN_TIME 24
 0 0 0 0 7 7 62355
-1 0 2 147609 508 509 96983
+1 0 2 147609 514 515 100481
 2 0 0 0 5 6 21120
 3 0 0 0 8 9 47604
 4 0 0 0 23 23 45915
 5 0 0 0 0 0 0
-6 0 0 0 1 1 226
+6 0 0 0 2 2 809
 7 0 0 0 137 138 528209
 8 0 0 0 9 11 1675
 9 0 0 0 12 14 22303
@@ -90,11 +90,11 @@ BEGIN_TIME 24
 13 0 0 0 4 5 671
 14 0 0 0 46 46 23895
 15 0 0 0 7 7 1259
-16 0 0 0 7 7 1035
+16 0 0 0 8 8 1618
 17 0 0 0 2 2 0
 18 0 0 0 3 4 0
 19 0 0 0 6 6 226
-20 0 0 0 10 21 144344
+20 0 0 0 11 22 144699
 21 0 0 0 5 5 832
 22 1 1 6255 5 5 6444
 23 0 0 0 6 6 18267
@@ -119,8 +119,8 @@ END_LOGIN
 # The 25 first Hits must be first (order not required for others)
 BEGIN_ROBOT 3
 bot[\s_+:,\.\;\/\\-] 2 214 20260709082653 2
-Applebot/ 1 48047 20260710072853 0
 unknown 1 107 20260703112523 1
+Applebot/ 1 48047 20260710072853 0
 END_ROBOT
 
 # Worm ID - Hits - Bandwidth - Last visit
@@ -152,17 +152,17 @@ END_DOWNLOADS
 
 # OS ID - Hits
 BEGIN_OS ID - Hits - Pages 3
-win10 1 1
 android 1 1
 macosx15 2 0
+win10 1 1
 END_OS
 
 # Browser ID - Hits - Pages
 BEGIN_BROWSER 4
 chrome131.0.0.0 1 1
-safari14.1.2 1 0
-firefox89.0.2 1 0
 chrome146.0.0.0 1 1
+firefox89.0.2 1 0
+safari14.1.2 1 0
 END_BROWSER
 
 # Screen size - Hits
@@ -208,204 +208,204 @@ END_KEYWORDS
 
 # Errors - Hits - Bandwidth
 BEGIN_ERRORS 8
-404 262 1231921
+403 32 12702
+404 264 1233087
+302 4 0
 301 49 0
+421 2 724
+400 1 125
 409 563 46729
 406 292 65992
-400 1 125
-421 2 724
-403 25 8849
-302 4 0
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
 BEGIN_SIDER_404 178
-/.astro/manifest.json 1 -
-/sh68732251005414203377 1 -
-/wp-remote-api 1 -
-/google-credentials.json 4 -
-/.svn/entries 1 -
-/.env.backup2 1 -
-/site/wp-json/ 1 -
-/.continue/config.json 1 -
-/.env1 1 -
-/wp-json/ 1 -
-/rclone.conf 1 -
-/.config/anthropic/credentials/default.json 1 -
-/application.yml 2 -
-/.boto 1 -
-/assets/vendor/glightbox/js/glightbox.min.js 1 -
-/.env.backup1 1 -
-/.env.dev 3 -
-/id_ecdsa 1 -
-/assets/vendor/php-email-form/validate.js 1 -
-/.bash_profile 1 -
-/.env.stage 1 -
-/build/manifest.json 1 -
-/bootstrap.yml 1 -
-/build-manifest.json 1 -
-/.gitconfig 1 -
-/google-key.json 1 -
-/stats.json 1 -
-/.anthropic/config.json 1 -
-/.env.example 1 -
-/.profile 1 -
-/.env.development 4 -
-/.gitlab-ci.yml 1 -
-/blog/ 1 -
-/firebase-adminsdk.json 2 -
-/.docker/config.json 3 -
-/client_secret.json 1 -
-/.env.txt 1 -
-/.git/config 8 -
-/wp-content/plugins/cidaas-pro-master/composer.json 2 -
-/service-account.json 4 -
-/appsettings.json 3 -
-/wp/wp-json/ 1 -
-/.env.local 4 -
-/firebase-key.json 1 -
-/assets/vendor/aos/aos.js 1 -
-/google-service-account.json 1 -
-/.env.yml 1 -
-/wp/ 1 -
-/actuator/env 2 -
-/auth.json 1 -
-/blog-verify 5 -
-/bootstrap.properties 1 -
 /ssl/server.key 1 -
-/keys/service-account.json 1 -
-/.env.uat 1 -
-/wp-content/plugins/divi-form-builder/css/backend-style.min.css 1 -
-/localhost.key 1 -
-/.env.prod 2 -
+/.ssh/authorized_keys 1 -
+/_next/build-manifest.json 1 -
+/.env1 1 -
+/.env.staging 4 -
+/.env.live 1 -
+/.env.local 4 -
+/.git/HEAD 6 -
+/static/manifest.json 1 -
+/google-credentials.json 4 -
+/service_account.json 1 -
+/wp/wp-json/ 1 -
+/.env.backup1 1 -
+/.aider.conf.yml 1 -
 /.vite/manifest.json 1 -
-/.hermes/config.yaml 1 -
-/serviceAccountKey.json 2 -
-/sendgrid.env 1 -
-/.env2 1 -
-/application_default_credentials.json 2 -
-/webpack-stats.json 1 -
-/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js 1 -
-/.mcp.json 1 -
-/asset-manifest.json 1 -
-/.env.docker 1 -
-/gcp-key.json 1 -
-/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/css/frontend.css 1 -
-/wordpress/ 1 -
-/wp-content/plugins/fancy-elementor-gallery-box/assets/js/fancy-elementor-flipbox.js 2 -
-/assets/vendor/isotope-layout/isotope.pkgd.min.js 1 -
-/.claude/settings.json 1 -
-/.env.json 1 -
-/components/com_sppagebuilder/assets/css/sppagebuilder.css 1 -
-/settings.py 2 -
-/wp-json/wp/v2/users 1 -
-/.config/gcloud/application_default_credentials.json 1 -
-/config/application.properties 2 -
-/secrets.yml 1 -
-/info 1 -
-/config.env 2 -
-/config.json 1 -
-/.streamlit/secrets.toml 2 -
-/.pypirc 2 -
-/.env.preprod 1 -
-/wp-json/hc/v1/themehunk-import 2 -
-/.next/build-manifest.json 1 -
-/.gradle/gradle.properties 2 -
-/.git-credentials 2 -
-/host.key 1 -
-/.npmrc 2 -
-/config/master.key 1 -
-/keyfile.json 2 -
-/.env.production 5 -
-/assets/js/main.js 1 -
-/credentials.json 3 -
 /.openclaw/openclaw.json 2 -
-/_profiler/phpinfo 1 -
+/wp-content/plugins/fancy-elementor-gallery-box/assets/js/fancy-elementor-flipbox.js 2 -
+/server.key 1 -
+/.profile 1 -
+/localhost.key 1 -
+/.env2 1 -
+/.anthropic/config.json 1 -
+/.env.test 2 -
+/credentials.json 3 -
+/config.env 2 -
+/auth.json 1 -
+/.aws/credentials 4 -
+/google-key.json 1 -
+/.docker/config.json 3 -
+/.mcp.json 1 -
+/.hermes/config.yaml 1 -
+/.git-credentials 2 -
+/config/database.yml 2 -
+/_next/static/buildManifest.js 1 -
+/.openclaw/agents/main/agent/models.json 1 -
+/application.yml 2 -
 /_nuxt/builds/latest.json 1 -
-/.env.sample 1 -
+/wp-remote-api 1 -
+/firebase-service-account.json 1 -
+/bootstrap.properties 1 -
+/.streamlit/secrets.toml 2 -
+/.env.stage 1 -
+/assets/vendor/swiper/swiper-bundle.min.js 1 -
+/.bash_profile 1 -
+/id_ed25519 1 -
+/manifest.json 1 -
+/.env.preprod 1 -
+/wp-content/plugins/cidaas-pro-master/composer.json 2 -
+/config/application.properties 2 -
+/.env.json 1 -
+/settings.py 2 -
+/docker-compose.yaml 2 -
+/wp/ 1 -
+/gcp-sa.json 1 -
 /storage/logs/laravel.log 2 -
 /console 1 -
-/.github/workflows/deploy.yml 1 -
-/.env.live 1 -
-/.env.test 2 -
-/_next/static/buildManifest.js 1 -
-/dist/manifest.json 1 -
-/ssl/localhost.key 1 -
-/.kube/config 1 -
-/terraform.tfstate 2 -
-/.git/HEAD 6 -
-/assets/vendor/swiper/swiper-bundle.min.js 1 -
-/static/manifest.json 1 -
-/.ssh/config 1 -
-/.bashrc 1 -
-/phpinfo 1 -
-/wp-json/gutenkit/v1/install-active-plugin 1 -
-/application.properties 2 -
-/.openclaw/agents/main/agent/models.json 1 -
-/.env.save 2 -
-/config/secrets.yml 3 -
-/.aider.conf.yml 1 -
-/firebase.json 1 -
-/_nuxt/manifest.json 1 -
-/.ssh/known_hosts 1 -
-/_next/build-manifest.json 1 -
-/gcp-credentials.json 2 -
-/.env.ci 1 -
-/.ssh/authorized_keys 1 -
-/appsettings.Production.json 2 -
+/wordpress/ 1 -
+/.config/anthropic/credentials/default.json 1 -
 /assets/vendor/purecounter/purecounter_vanilla.js 1 -
-/google-services.json 1 -
-/.openai/config.json 1 -
-/manifest.json 1 -
-/cms/wp-json/ 1 -
-/key.json 2 -
-/.ssh/id_ecdsa 1 -
-/_environment 1 -
-/.cursor/mcp.json 2 -
-/blog/wp-json/ 1 -
-/.env.dist 1 -
-/server.key 1 -
-/firebase-service-account.json 1 -
-/sa.json 1 -
-/private-key 1 -
-/gradle.properties 1 -
+/stats.json 1 -
+/gcp-credentials.json 2 -
+/_profiler/phpinfo 1 -
 /assets/manifest.json 1 -
-/.aws/credentials 4 -
-/service-account-key.json 1 -
-/docker-compose.yaml 2 -
-/.env.yaml 1 -
-/id_ed25519 1 -
-/admin/.env 3 -
-/settings 1 -
-/site/ 1 -
-/gcp-sa.json 1 -
-/app 1 -
-/wp-includes/.cache_key 1 -
-/service_account.json 1 -
 /cms/ 1 -
-/.zshrc 1 -
-/local.settings.json 1 -
-/assets/js/aos.js 1 -
-/config/database.yml 2 -
+/app 1 -
+/wp-json/wp/v2/users 1 -
+/wp-json/hc/v1/themehunk-import 2 -
+/.boto 1 -
 /secrets.json 4 -
-/dist/.vite/manifest.json 1 -
-/wordpress/wp-json/ 1 -
-/config/storage.yml 1 -
-/.s3cfg 1 -
-/.env.staging 4 -
-/.env.remote 1 -
-/wp-content/plugins/waves/style.css 1 -
+/.env.sample 1 -
+/.npmrc 2 -
+/application.properties 2 -
 /.vscode/launch.json 1 -
-/.aws/config 2 -
+/config/storage.yml 1 -
+/build/manifest.json 1 -
+/wp-includes/.cache_key 1 -
+/asset-manifest.json 1 -
+/gcp-key.json 1 -
+/local.settings.json 1 -
+/host.key 1 -
+/_environment 1 -
+/.env.yaml 1 -
+/appsettings.json 3 -
+/sa.json 1 -
+/wp-json/gutenkit/v1/install-active-plugin 1 -
+/.astro/manifest.json 1 -
+/components/com_sppagebuilder/assets/css/sppagebuilder.css 1 -
+/.env.remote 1 -
+/.ssh/config 1 -
+/.git/config 8 -
+/.ssh/known_hosts 1 -
+/key.json 2 -
+/.gitconfig 1 -
+/.config/gcloud/application_default_credentials.json 1 -
+/.env.dev 3 -
+/assets/js/main.js 1 -
+/.claude/settings.json 1 -
+/assets/vendor/glightbox/js/glightbox.min.js 1 -
+/.continue/config.json 1 -
+/site/wp-json/ 1 -
+/wordpress/wp-json/ 1 -
+/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/css/frontend.css 1 -
+/client_secret.json 1 -
+/info 1 -
+/webpack-stats.json 1 -
+/.env.prod 2 -
+/build-manifest.json 1 -
+/wp-json/ 3 -
+/keys/service-account.json 1 -
+/id_ecdsa 1 -
+/.env.yml 1 -
+/google-service-account.json 1 -
+/config.json 1 -
+/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js 1 -
+/blog/wp-json/ 1 -
+/sendgrid.env 1 -
+/.zshrc 1 -
+/.env.dist 1 -
+/.svn/entries 1 -
+/assets/vendor/isotope-layout/isotope.pkgd.min.js 1 -
+/.ssh/id_ecdsa 1 -
+/cms/wp-json/ 1 -
+/.next/build-manifest.json 1 -
+/.cursor/mcp.json 2 -
+/firebase.json 1 -
+/assets/js/aos.js 1 -
 /.env_copy 1 -
+/assets/vendor/php-email-form/validate.js 1 -
+/_nuxt/manifest.json 1 -
+/.gradle/gradle.properties 2 -
+/blog/ 1 -
+/admin/.env 3 -
+/phpinfo 1 -
+/actuator/env 2 -
+/config/master.key 1 -
+/assets/vendor/aos/aos.js 1 -
+/dist/manifest.json 1 -
+/.env.ci 1 -
+/firebase-key.json 1 -
+/.env.backup2 1 -
+/.s3cfg 1 -
+/service-account.json 4 -
+/.env.txt 1 -
+/rclone.conf 1 -
+/keyfile.json 2 -
+/.env.uat 1 -
+/dist/.vite/manifest.json 1 -
+/terraform.tfstate 2 -
+/wp-content/plugins/divi-form-builder/css/backend-style.min.css 1 -
+/.aws/config 2 -
+/.gitlab-ci.yml 1 -
+/blog-verify 5 -
+/application_default_credentials.json 2 -
+/.env.example 1 -
+/.bashrc 1 -
+/secrets.yml 1 -
+/settings 1 -
+/bootstrap.yml 1 -
+/.env.save 2 -
+/.env.docker 1 -
+/appsettings.Production.json 2 -
+/.openai/config.json 1 -
+/.kube/config 1 -
+/private-key 1 -
+/wp-content/plugins/waves/style.css 1 -
+/config/secrets.yml 3 -
+/serviceAccountKey.json 2 -
+/site/ 1 -
+/gradle.properties 1 -
+/google-services.json 1 -
+/service-account-key.json 1 -
+/.env.development 4 -
+/ssl/localhost.key 1 -
+/.env.production 5 -
+/.pypirc 2 -
+/sh68732251005414203377 1 -
+/firebase-adminsdk.json 2 -
+/.github/workflows/deploy.yml 1 -
 END_SIDER_404
 
 # Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
 # [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
 # The 25 first Hits must be first (order not required for others)
 BEGIN_VISITOR 3
-104.28.243.189 1 1 244 20260703112535
 35.254.244.123 1 1 6255 20260711220027
+104.28.243.189 1 1 244 20260703112535
 146.235.16.244 0 2 147609 
 END_VISITOR
 
@@ -424,17 +424,17 @@ END_SESSION
 # URL - Pages - Bandwidth - Entry - Exit
 # The 25 first Pages must be first (order not required for others)
 BEGIN_SIDER 2
-/sitemap.xml 1 244 1 1
 / 1 6255 1 1
+/sitemap.xml 1 244 1 1
 END_SIDER
 
 # Payload Range - Payload Frequency
 BEGIN_FILESIZE 5
-100-500 382
+100-500 383
 0-44 66
-500-1K 40
-5K+ 159
 44-100 563
+5K+ 159
+500-1K 48
 END_FILESIZE
 
 # Request Time Range - Request Time Frequency

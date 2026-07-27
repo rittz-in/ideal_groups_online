@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/26/2026 14:23:11
-2026 7 26 14 23 11
-1555 1 61 1 5 25 362056 845 54 0
-2 6 1281 1 26
+# Webalizer V2.23-08 Incremental Data - 07/27/2026 01:58:57
+2026 7 27 1 58 57
+1564 1 64 1 5 26 364531 854 58 0
+2 2 1281 1 27
 17 0 4043 3 13 2
 6 0 0 1 6 1
 2 0 550 2 2 2
@@ -27,14 +27,14 @@
 0 0 0 0 0 0
 12 0 3300 3 12 3
 0 0 0 0 0 0
-8 0 2200 2 8 2
+14 0 3850 4 14 4
+3 0 825 2 3 2
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0
-0 0 0 0
+1 0 275 1
+2 0 550 2
 0 0 0 0
 19 0 4784 10
 6 0 0 6
@@ -53,7 +53,7 @@
 17 0 1876 16
 11 0 3025 11
 18 0 4912 16
-6 0 1650 6
+12 0 3300 12
 18 0 4445 17
 14 0 3850 14
 32 0 7775 14
@@ -68,7 +68,7 @@
 0
 0
 0
-905
+914
 0
 0
 0
@@ -110,10 +110,13 @@ ns3253668.ip-217-182-88.eu
 0 1 0 226 1 1783235294
 -
 ec2-54-157-149-144.compute-1.amazonaws.com
-0 5 0 1375 1 1784915313
+0 10 0 2750 2 1785096871
 -
 192.71.30.8
 0 1 0 275 1 1783636742
+-
+141.172.132.66.censys-scanner.com
+0 2 0 550 1 1785117537
 -
 205.210.31.54
 0 11 0 3025 1 1783431105
@@ -178,11 +181,11 @@ scan.visionheight.com
 57.146.94.167.censys-scanner.com
 0 2 0 550 1 1783921752
 -
-29.182.61.34.bc.googleusercontent.com
-0 7 0 1925 1 1784658796
--
 ec2-3-219-86-171.compute-1.amazonaws.com
 0 5 0 1375 1 1784702561
+-
+29.182.61.34.bc.googleusercontent.com
+0 7 0 1925 1 1784658796
 -
 208.84.100.249
 0 2 0 550 1 1785050472
@@ -214,6 +217,9 @@ ec2-3-219-86-171.compute-1.amazonaws.com
 r5-84-54.monitoring.internet-measurement.com
 0 2 0 550 1 1784383202
 -
+ec2-32-193-141-171.compute-1.amazonaws.com
+0 1 0 275 1 1785096870
+-
 192.71.103.197
 0 1 0 275 1 1783636743
 -
@@ -228,6 +234,9 @@ r5-84-54.monitoring.internet-measurement.com
 -
 72.96.185.35.bc.googleusercontent.com
 0 4 0 1100 1 1784487004
+-
+87.224.132.66.censys-scanner.com
+0 1 0 275 1 1785110954
 -
 192.71.42.145
 0 1 0 275 1 1783636744
@@ -288,16 +297,16 @@ ec2-3-217-141-132.compute-1.amazonaws.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-208.84.100.249
-0 2 0 550 1 1785050472
+141.172.132.66.censys-scanner.com
+0 2 0 550 1 1785117537
 -
-ec2-3-217-141-132.compute-1.amazonaws.com
-0 6 0 1650 1 1785075791
+87.224.132.66.censys-scanner.com
+0 1 0 275 1 1785110954
 -
 # End Of Table - sites (daily)
 # -referrers- 
 - (Direct Request)
-0 1454
+0 1463
 http://web.idealgroups.org
 0 3
 http://web.idealgroups.org/
@@ -308,6 +317,8 @@ http://www.web.idealgroups.org/
 0 5
 # End Of Table - referrers
 # -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 6
 Mozilla/5.0
 0 5
 Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
@@ -317,7 +328,7 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
 0 12
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
-0 9
+0 12
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 0 3
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15

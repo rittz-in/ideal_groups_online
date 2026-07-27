@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/26/2026 09:36:56
-2026 7 26 9 36 56
-210 2 82 2 6 34 99073 180 83 0
-2 6 31 1 26
+# Webalizer V2.23-08 Incremental Data - 07/27/2026 01:31:46
+2026 7 27 1 31 46
+289 2 84 2 11 36 119837 216 85 0
+1 73 73 1 27
 4 0 678 2 3 2
 20 2 29376 2 18 1
 1 0 0 1 1 1
@@ -27,14 +27,14 @@
 3 0 854 3 3 3
 30 0 8282 15 28 15
 46 0 13088 5 46 5
-7 0 1974 2 7 2
-0 0 0 0 0 0
+13 0 3690 3 13 3
+73 0 19048 1 30 1
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 7 0 1809 7
-3 0 117 3
+76 0 19165 33
 12 0 2937 12
 20 2 17184 20
 1 0 226 1
@@ -56,7 +56,7 @@
 10 0 1144 10
 2 0 0 2
 2 0 0 2
-14 0 15052 12
+20 0 16768 18
 0
 0
 0
@@ -68,7 +68,7 @@
 0
 0
 0
-152
+218
 3
 0
 0
@@ -80,10 +80,10 @@
 14
 14
 0
-22
+25
 0
 0
-3
+13
 0
 0
 0
@@ -102,17 +102,20 @@
 /wp-content/plugins/
 0 1 7454916926557022572 0 0 0
 /wp-includes/blocks/
-0 1 8459286666592347950 22 0 0
+0 1 0 22 0 0
 # End Of Table - urls
 # -sites- (monthly)
 193.235.141.185
 0 1 0 282 1 1784859622
 -
+192.36.121.203
+0 1 0 286 1 1784764255
+-
 23-94-216-234-host.colocrossing.com
 0 1 0 282 1 1784876710
 -
-192.36.121.203
-0 1 0 286 1 1784764255
+93.152.221.13
+0 73 0 19048 1 1785115897
 -
 205.210.31.137
 0 1 0 0 1 1783890393
@@ -318,11 +321,11 @@ ec2-34-196-221-85.compute-1.amazonaws.com
 205.210.31.136
 0 1 0 0 1 1784491824
 -
-80.248.228.113
-0 1 0 282 1 1784859623
--
 104.28.214.112
 0 2 0 452 0 0
+-
+80.248.228.113
+0 1 0 282 1 1784859623
 -
 205.186.132.66.censys-scanner.com
 0 1 0 286 1 1784821672
@@ -332,6 +335,9 @@ ec2-34-196-221-85.compute-1.amazonaws.com
 -
 120.78.229.35.bc.googleusercontent.com
 0 1 0 0 1 1784574593
+-
+ec2-3-217-141-132.compute-1.amazonaws.com
+0 6 0 1716 1 1785109297
 -
 ec2-34-195-135-127.compute-1.amazonaws.com
 0 1 0 0 1 1782871328
@@ -353,22 +359,29 @@ ec2-34-195-135-127.compute-1.amazonaws.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-ec2-32-193-141-171.compute-1.amazonaws.com
-0 6 0 1692 1 1785058616
--
-106.63.26.141
-0 1 0 282 1 1785050461
+93.152.221.13
+0 73 0 19048 1 1785115897
 -
 # End Of Table - sites (daily)
 # -referrers- 
+http://ugi.net.in.idealgroups.org/_profiler/phpinfo
+0 9
+http://ugi.net.in.idealgroups.org/.env.example
+0 9
+http://ugi.net.in.idealgroups.org/.env.local
+0 9
+http://ugi.net.in.idealgroups.org/phpinfo
+0 9
 - (Direct Request)
-0 150
+0 175
 http://www.ugi.net.in.idealgroups.org
 0 2
 http://ugi.net.in.idealgroups.org/
-0 20
+0 29
 https://www.uco.com.tr//wp-login.php
 0 6
+http://ugi.net.in.idealgroups.org/.aws/credentials
+0 9
 http://ugi.net.in.idealgroups.org
 0 1
 http://www.ugi.net.in.idealgroups.org/
@@ -395,6 +408,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 0 6
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 0 18
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+0 44
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
 0 21
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0
@@ -412,7 +427,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-0 1
+0 7
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.1
 0 10
 Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
@@ -430,13 +445,15 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
 0 18
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-0 1
+0 16
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 0 4
 Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
 0 31
 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Sa
 0 6
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+0 14
 cve-2026-63030/1.0
 0 2
 Mozilla/5.0 (compatible; CMS-Checker/1.0; +https://example.com)

@@ -1,0 +1,128 @@
+.discount_price {
+    font-weight: bold;
+}
+
+.main_price {
+    font-weight: bold;
+}
+
+.productSection h6 {
+    color: #F7942A;
+}
+
+.productSection p {
+    margin-bottom: 2%;
+    text-align: justify;
+    color: #000;
+}
+
+.addCart,
+.buyNow {
+    cursor: pointer;
+}
+
+
+.productSizeActive:hover,
+.productSizeActive:active {
+    background-color: #b9a159;
+    border: 1px solid #b9a159 !important;
+    color: #240b0b;
+    font-weight: bold;
+}
+
+.productSizeActive {
+    background-color: #008000 !important;
+    border: 1px solid #008000 !important;
+    color: #ffffff !important;
+    font-weight: bold !important;
+}
+
+
+.discount_price {
+    color: #008000;
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+.main_price {
+    color: #ff0000;
+    font-size: 12px;
+    position: relative;
+    top: 5px;
+    left: -10px;
+}
+
+.longDescription p {
+    text-align: justify;
+    padding: 0px 40px 0px 0px;
+}
+
+.buyNow {
+    /* background-color: #FFA41C !important; */
+    color: #fff !important;
+    /* border: 1px solid #FFA41C !important; */
+}
+
+.buyNow:hover {
+    /* border: 1px solid #ffa41cc9; */
+    /* color: #240b0b !important; */
+}
+
+
+
+.quantity {
+    margin: 0;
+    padding: 0;
+}
+
+.quantity span {
+    color: #F7942A;
+    font-weight: bold;
+    margin-right: 5%;
+    font-size: 20px;
+}
+
+/* .quantity button {
+    background-color: #F7942A;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    width: 30px;
+    height: auto;
+    text-align: center;
+    transition: background-color 0.2s;
+} */
+
+/* .quantity button:hover {
+    background-color: #F7942A;
+} */
+.quantity .btn {
+    background-color: #F7942A;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+}
+
+.input-box {
+    width: 40px;
+    text-align: center;
+    border: none;
+    padding: 8px 10px;
+    font-size: 16px;
+    outline: none;
+}
+
+/* Hide the number input spin buttons */
+.input-box::-webkit-inner-spin-button,
+.input-box::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.input-box[type="number"] {
+    -moz-appearance: textfield;
+}

@@ -9,34 +9,34 @@ AWSTATS DATA FILE 8.0 (build 20240604)
 BEGIN_MAP 28
 POS_GENERAL 2100                
 POS_TIME 2782                
-POS_VISITOR 10804               
-POS_DAY 13402               
-POS_DOMAIN 3483                
-POS_LOGIN 3888                
-POS_ROBOT 4043                
-POS_WORMS 4392                
-POS_EMAILSENDER 4523                
-POS_EMAILRECEIVER 4666                
-POS_SESSION 13949               
-POS_FILESIZE 14455               
-POS_REQUESTTIME 14599               
-POS_SIDER 14128               
-POS_FILETYPES 4801                
-POS_DOWNLOADS 4983                
-POS_OS 5031                
-POS_BROWSER 5269                
-POS_SCREENSIZE 5959                
-POS_UNKNOWNREFERER 6033                
-POS_UNKNOWNREFERERBROWSER 6556                
-POS_ORIGIN 6794                
-POS_SEREFERRALS 6930                
-POS_PAGEREFS 7074                
-POS_SEARCHWORDS 7222                
-POS_KEYWORDS 7374                
+POS_VISITOR 10922               
+POS_DAY 13719               
+POS_DOMAIN 3500                
+POS_LOGIN 3921                
+POS_ROBOT 4076                
+POS_WORMS 4425                
+POS_EMAILSENDER 4556                
+POS_EMAILRECEIVER 4699                
+POS_SESSION 14292               
+POS_FILESIZE 14809               
+POS_REQUESTTIME 14953               
+POS_SIDER 14482               
+POS_FILETYPES 4834                
+POS_DOWNLOADS 5017                
+POS_OS 5065                
+POS_BROWSER 5304                
+POS_SCREENSIZE 6016                
+POS_UNKNOWNREFERER 6090                
+POS_UNKNOWNREFERERBROWSER 6613                
+POS_ORIGIN 6851                
+POS_SEREFERRALS 6987                
+POS_PAGEREFS 7131                
+POS_SEARCHWORDS 7279                
+POS_KEYWORDS 7431                
 POS_MISC 2446                
-POS_ERRORS 7433                
-POS_CLUSTER 3744                
-POS_SIDER_404 7614                
+POS_ERRORS 7490                
+POS_CLUSTER 3777                
+POS_SIDER_404 7672                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -48,74 +48,75 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20260726170316 341 79649 15545734254560
+LastLine 20260727171606 115 29588 15178862799731
 FirstTime 20260702200652
-LastTime 20260726102917
-LastUpdate 20260726191929 341 0 341 0 0
-TotalVisits 61                  
-TotalUnique 57                  
+LastTime 20260727142655
+LastUpdate 20260727191732 115 0 115 0 0
+TotalVisits 69                  
+TotalUnique 62                  
 MonthHostsKnown 0                   
-MonthHostsUnknown 66                  
+MonthHostsUnknown 71                  
 END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
-JavascriptDisabled 0 0 0
-PDFSupport 0 0 0
-QuickTimeSupport 0 0 0
-JavaEnabled 0 0 0
-FlashSupport 0 0 0
-AddToFavourites 0 7 0
 WindowsMediaPlayerSupport 0 0 0
 RealPlayerSupport 0 0 0
 TotalMisc 0 0 0
+AddToFavourites 0 9 0
 DirectorSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
 BEGIN_TIME 24
-0 2 3 151138 12 14 1552
-1 4 28 784245 27 42 131703
-2 4 5 187193 5 5 633
-3 1 1 36103 3 5 261
-4 4 5 391989 12 13 1916
-5 1 1 36102 5 6 899
-6 1 4 65103 4 6 487
-7 2 7 259073 6 9 857
-8 5 18 553446 45 52 2772
-9 2 4 286283 4 7 668
-10 2 6 180120 4 6 471
-11 0 0 0 276 278 52225
-12 6 38 1109683 7 11 93482
-13 0 3 29007 281 283 45413
-14 3 4 299672 6 9 1440
-15 0 0 0 5 8 36761
+0 2 3 151138 13 16 1576
+1 4 28 784245 28 44 131727
+2 4 5 187193 6 7 657
+3 1 1 36103 4 7 285
+4 4 5 391989 14 16 1940
+5 1 1 36102 6 8 923
+6 2 6 180150 6 9 724
+7 2 7 259073 8 12 1107
+8 5 18 553446 46 54 2796
+9 2 4 286283 5 9 692
+10 4 8 252324 9 12 1292
+11 3 4 93289 277 281 52249
+12 6 38 1109683 8 13 93506
+13 0 3 29007 282 285 45437
+14 5 7 507018 9 13 2084
+15 0 0 0 6 10 36785
 16 22 159 9769851 132 175 17937
-17 10 49 2726280 28 34 78043
-18 2 2 72167 13 14 3671
-19 18 30 3233807 26 32 155064
-20 2 15 2541959 7 10 73595
-21 1 1 92327 11 14 39099
-22 1 1 36094 7 9 713
-23 2 3 151114 3 4 423
+17 18 67 4963297 33 42 79739
+18 2 12 2001890 14 16 3695
+19 18 30 3233807 27 34 155088
+20 2 15 2541959 8 12 73619
+21 1 1 92327 12 16 39123
+22 1 4 451300 8 11 737
+23 5 14 609513 4 6 447
 END_TIME
 
 # Domain - Pages - Hits - Bandwidth
 # The 25 first Pages must be first (order not required for others)
-BEGIN_DOMAIN 13
-us 48 158 9077912
-de 9 23 4786277
-ua 9 36 1092006
+BEGIN_DOMAIN 14
+us 49 160 9192959
+de 20 65 9826622
+ua 10 37 1184333
 gb 8 78 3937455
+in 7 9 258450
 ca 7 33 942562
-in 4 5 165161
 ru 3 5 378788
 fr 3 38 1932643
+zz 2 2 72204
 rs 2 3 263752
-nl 1 2 115022
+be 1 3 193961
 es 1 1 36079
+nl 1 2 115022
 ro 0 4 186157
-be 0 1 78942
 END_DOMAIN
 
 # Cluster ID - Pages - Hits - Bandwidth
@@ -130,9 +131,9 @@ END_LOGIN
 # Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
 # The 25 first Hits must be first (order not required for others)
 BEGIN_ROBOT 6
-bot[\s_+:,\.\;\/\\-] 56 369994 20260726170314 42
-DuckDuckBot 2 2050 20260715013104 0
+bot[\s_+:,\.\;\/\\-] 79 370546 20260727171606 65
 Applebot/ 2 89237 20260715013104 0
+DuckDuckBot 2 2050 20260715013104 0
 unknown 2 48 20260725124026 2
 bingbot/ 1 36070 20260715012758 0
 checker 1 92327 20260726123635 0
@@ -155,12 +156,12 @@ END_EMAILRECEIVER
 
 # Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
 BEGIN_FILETYPES 6
-svg 31 2447202 0 0
-js 181 7168581 0 0
-Unknown 87 4677574 0 0
+svg 37 2920854 0 0
+js 184 7348101 0 0
 woff2 8 3241168 0 0
-css 68 4951143 0 0
-png 12 507088 0 0
+png 14 525017 0 0
+css 91 8617488 0 0
+Unknown 106 5868359 0 0
 END_FILETYPES
 
 # Downloads - Hits - Bandwidth
@@ -169,56 +170,57 @@ END_DOWNLOADS
 
 # OS ID - Hits
 BEGIN_OS ID - Hits - Pages 12
-linuxubuntu 9 5
-win7 1 1
-macosx14 2 1
-win10 179 35
+Unknown 23 11
+macosx15 17 9
 macosx 1 1
 androidkitkat 1 1
 androidlollipop 3 3
-linux 139 21
+linuxubuntu 9 5
+win7 1 1
+linux 141 22
+android10 48 17
+macosx14 2 1
 linuxdebian 1 1
-Unknown 21 10
-android10 13 7
-macosx15 17 9
+win10 193 42
 END_OS
 
 # Browser ID - Hits - Pages
-BEGIN_BROWSER 34
-mozilla 20 9
-chrome123.0.6312.40 10 5
-chrome142.0.0.0 10 5
-chrome131.0.0.0 4 4
-chrome109.0.0.0 1 1
-chrome146.0.0.0 6 0
-chrome149.0.0.0 3 2
-Unknown 1 1
-firefox88.0 2 1
+BEGIN_BROWSER 35
 firefox137.0 1 1
-chrome143.0.0.0 13 4
-chrome145.0.0.0 4 2
+chrome135.0.0.0 36 3
 chrome38.0.2125.102 3 3
-chrome124.0.0.0 39 7
-chrome148.0.0.0 34 2
-safari18.3 1 1
-safari13.1.2 2 1
-chrome134.0.0.0 116 10
-firefox150.0 7 1
-chrome44.0.2403.128 1 1
 chrome126.0.0.0 2 2
-chrome122.0.0.0 1 1
-msie10.0 1 1
-chrome138.0.0.0 1 1
-safari18.4 1 0
+firefox104.0 1 1
+Unknown 1 1
 chrome130.0.0.0 2 2
-chrome120 2 2
+chrome146.0.0.0 6 0
+chrome109.0.0.0 1 1
+safari18.3 1 1
+chrome123.0.6312.40 41 12
+safari18.4 1 0
+chrome131.0.0.0 4 4
+chrome148.0.0.0 34 2
+chrome44.0.2403.128 1 1
+chrome123.0.0.0 1 1
+chrome122.0.0.0 3 3
+chrome134.0.0.0 116 10
+chrome142.0.0.0 12 6
+chrome143.0.0.0 24 8
+chrome150.0.0.0 4 3
+safari13.1.2 2 1
+chrome124.0.0.0 39 7
 netscape5.0 1 1
 firefox134.0 7 4
 firefox149.0 8 4
-chrome135.0.0.0 36 3
-chrome147.0.0.0 45 11
-firefox104.0 1 1
-chrome123.0.0.0 1 1
+firefox150.0 7 1
+chrome149.0.0.0 3 2
+chrome138.0.0.0 1 1
+mozilla 22 10
+chrome147.0.0.0 46 12
+chrome145.0.0.0 4 2
+chrome120 2 2
+msie10.0 1 1
+firefox88.0 2 1
 END_BROWSER
 
 # Screen size - Hits
@@ -227,10 +229,10 @@ END_SCREENSIZE
 
 # Unknown referer OS - Last visit date
 BEGIN_UNKNOWNREFERER 4
-Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260705012727
-Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260724003615
-Mozilla/5.0_(compatible;_GoogleOther;__https://developers.google.com/search/) 20260715013108
 Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260720193611
+Mozilla/5.0_(compatible;_GoogleOther;__https://developers.google.com/search/) 20260715013108
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260727142657
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260724003615
 END_UNKNOWNREFERER
 
 # Unknown referer Browser - Last visit date
@@ -240,11 +242,11 @@ END_UNKNOWNREFERERBROWSER
 
 # Origin - Pages - Hits 
 BEGIN_ORIGIN 6
-From0 67 216
+From0 81 262
 From1 0 0
 From2 0 0
 From3 0 0
-From4 28 171
+From4 33 178
 From5 0 0
 END_ORIGIN
 
@@ -269,226 +271,232 @@ END_KEYWORDS
 
 # Errors - Hits - Bandwidth
 BEGIN_ERRORS 9
-421 2 724
-403 4 2332
 419 3 7302
-406 451 101700
-405 3 1929
+301 9 2665
+421 2 724
+302 114 29131
 409 94 7802
-302 105 26200
-404 302 0
-301 8 2370
+406 452 101926
+405 3 1929
+403 4 2332
+404 328 76
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
-BEGIN_SIDER_404 131
-/keyfile.json 3 -
-/.env.sample 3 -
-/service-account-key.json 1 -
-/.env_copy 2 -
-/.env.development 5 -
-/appsettings.json 2 -
-/firebase-adminsdk.json 3 -
-/secrets.json 3 -
-/./resources/assets/vendor/js/bootstrap.js 2 -
+BEGIN_SIDER_404 132
+/cdp_api_key.json 1 -
+/.env.preprod 2 -
+/.openclaw/agents/main/agent/models.json 1 -
 /sa.json 2 -
-/.env.yml 2 -
-/.env.example 6 -
-/.env.test 3 -
-/.env.staging 4 -
-/.env.ci 2 -
-/js/app.js 1 -
-/.env.uat 2 -
-/js/main.js 1 -
-/js/config.js 2 -
-/assets/app.js 1 -
-/static/js/main.js 1 -
-/firebase-key.json 2 -
-/_rNd9xZ7kL3 2 https://www.google.com/search
-/app.bundle.js 1 -
-/application_default_credentials.json 2 -
-/.env.docker 2 -
-/settings.js 3 -
-/env.js 1 -
-/dist/bundle.js 1 -
-/docker-compose.override.yml 1 -
-/.env.remote 2 -
-/aaa 2 -
+/config.py 1 -
 /.env.production.local 1 -
-/.npmrc 1 -
-/.git/HEAD 8 -
-/api/env 3 -
-/actuator/env 1 -
-/docker-compose.dev.yml 1 -
-/.env.txt 2 -
-/.git/config 17 -
+/.env.test.local 1 -
+/main.js 1 -
+/.aws/credentials 2 -
+/.env.development.local 1 -
+/info 2 -
+/aaa 2 -
+/config.js 3 -
+/assets/index.js 1 -
+/login/app-ads.txt 3 -
+/dist/app.js 1 -
+/docker-compose.prod.yml 1 -
 /.env.json 2 -
+/.env.dist 3 -
+/gcp-credentials.json 2 -
+/js/env.js 2 -
+/js/config.js 2 -
+/.flaskenv 1 -
+/actuator/env 1 -
+/env.js 1 -
+/docker-compose.dev.yml 1 -
+/.config/gcloud/application_default_credentials.json 2 -
+/key.json 3 -
+/application_default_credentials.json 2 -
+/storage/logs/laravel.log 1 -
+/service_account.json 1 -
+/app/.git/HEAD 1 -
+/gcp-sa.json 2 -
+/.env.staging 4 -
+/config/secrets.yml 1 -
+/.env.backup1 2 -
+/.aws/config 1 -
+/app.bundle.js 1 -
+/login/ads.txt 3 -
+/.env.backup2 2 -
+//fizznfreeze.idealgroups.org/login' 1 -
+/static/js/main.js 1 -
+/_profiler/phpinfo 2 -
+/dist/bundle.js 1 -
+/.env2 2 -
+/.env.ci 2 -
+/settings.json 1 -
+/_environment 2 -
+/main.bundle.js 1 -
+/firebase-key.json 2 -
+/dist/main.js 1 -
+/css/theme-styles.css 2 https://fizznfreeze.idealgroups.org/track-order
+/google-credentials.json 3 -
+/gcp-key.json 2 -
+/firebase-service-account.json 1 -
+/sitemap.xml 59 -
+/.env.stage 2 -
+/.env.remote 2 -
+/./resources/assets/vendor/js/bootstrap.js 2 -
+/.env.local 7 -
+/.env.save 4 -
+/service-account-key.json 1 -
+/.env.dev 4 -
+/.env.production 8 -
+/.openclaw/openclaw.json 1 -
+/.anthropic/config.json 1 -
+/credentials.json 4 -
+/.env.docker 2 -
+/./node_modules/hammerjs/hammer.js 2 -
+/./node_modules/perfect-scrollbar/dist/perfect-scrollbar.js 2 -
+/admin/.env 2 -
+/.env.development 5 -
+/client_secret.json 1 -
+/.env.sample 3 -
+/docker-compose.override.yml 1 -
+/static/js/app.js 1 -
+/.env.yml 2 -
+/config/master.key 1 -
+/index.js 1 -
+/api/config 2 -
+/settings.js 3 -
+/.git/config 18 -
+/config.json 5 -
+/appsettings.json 2 -
+/bundle.js 1 -
+/.env.example 6 -
+/assets/app.js 1 -
+/./node_modules/node-waves/src/js/waves.js 2 -
+/docker-compose.yml 1 -
+/js/main.js 1 -
+/service-account.json 3 -
+/google-service-account.json 1 -
+/.env.uat 2 -
+/login/sellers.json 3 -
+/.env_copy 2 -
+/public/.git/HEAD 1 -
+/.openai/config.json 1 -
+/.env.txt 2 -
+/google-key.json 2 -
+/.npmrc 1 -
+/.env.test 3 -
+/./node_modules/bootstrap/dist/js/bootstrap.esm.js 2 -
+/api/env 3 -
+/.env.prod 4 -
+/static/js/bundle.js 1 -
+/serviceAccountKey.json 1 -
 /settings.py 1 -
 /app.js 1 -
-/chunk.js 1 -
-/firebase-service-account.json 1 -
-/.env.preprod 2 -
-/env.json 1 -
-/js/env.js 2 -
-/login/ads.txt 3 -
-/.env.live 2 -
-/.env.save 4 -
-/./node_modules/node-waves/src/js/waves.js 2 -
-/.env.test.local 1 -
-/login/app-ads.txt 3 -
-/build/static/js/main.js 1 -
-/docker-compose.prod.yml 1 -
-/.aws/credentials 2 -
-/bundle.js 1 -
-/info 2 -
-/config.py 1 -
-/login/sellers.json 3 -
-/.flaskenv 1 -
-/config.json 5 -
-/.config/gcloud/application_default_credentials.json 2 -
-/.env.stage 2 -
-/main.bundle.js 1 -
-/.env1 2 -
-/env 1 -
-/secrets.py 1 -
-/static/js/bundle.js 1 -
-/.env.production 8 -
-/google-credentials.json 3 -
-/dist/app.js 1 -
-/google-key.json 2 -
-/config.js 3 -
-/_profiler/phpinfo 2 -
-/./node_modules/bootstrap/dist/js/bootstrap.esm.js 2 -
-/./node_modules/typeahead.js/dist/typeahead.bundle.js 2 -
-/.env.backup1 2 -
-/public/.git/HEAD 1 -
-/./node_modules/perfect-scrollbar/dist/perfect-scrollbar.js 2 -
-/vendor.js 1 -
-/cdp_api_key.json 1 -
-/docker-compose.yml 1 -
-/.env.dist 3 -
-/.env.yaml 2 -
-/_environment 2 -
-/gcp-credentials.json 2 -
-/service-account.json 3 -
-/.openclaw/openclaw.json 1 -
-/credentials.json 4 -
-/.env.local 7 -
-/.env.template 1 -
-/app/.git/HEAD 1 -
-/main.js 1 -
-/google-service-account.json 1 -
-/.env.prod 4 -
-/storage/logs/laravel.log 1 -
-/gcp-key.json 2 -
-/.aws/config 1 -
-/server.js 1 -
 /.cursor/mcp.json 1 -
-/gcp-sa.json 2 -
-/.anthropic/config.json 1 -
-/.env.development.local 1 -
-/.env.tmp 1 -
-/.openai/config.json 1 -
-/.env.backup2 2 -
-/serviceAccountKey.json 1 -
-//fizznfreeze.idealgroups.org/login' 1 -
-/assets/index.js 1 -
-/client_secret.json 1 -
-/settings.json 1 -
-/key.json 3 -
-/sitemap.xml 36 -
-/.env2 2 -
-/admin/.env 2 -
-/config/secrets.yml 1 -
+/firebase-adminsdk.json 3 -
+/env.json 1 -
+/secrets.py 1 -
 /docker-compose.yaml 1 -
-/static/js/app.js 1 -
-/.env.dev 4 -
-/css/theme-styles.css 1 https://fizznfreeze.idealgroups.org/track-order
-/api/config 2 -
-/service_account.json 1 -
-/dist/main.js 1 -
-/./node_modules/hammerjs/hammer.js 2 -
-/.envrc 1 -
-/.openclaw/agents/main/agent/models.json 1 -
-/index.js 1 -
-/config/master.key 1 -
+/env 1 -
+/server.js 1 -
+/js/app.js 1 -
+/.env.template 1 -
 /phpinfo 2 -
+/_rNd9xZ7kL3 2 https://www.google.com/search
+/.envrc 1 -
+/secrets.json 3 -
+/chunk.js 1 -
+/.env.live 2 -
+/.git/HEAD 8 -
+/vendor.js 1 -
+/./node_modules/typeahead.js/dist/typeahead.bundle.js 2 -
+/.env.tmp 1 -
+/.env1 2 -
+/build/static/js/main.js 1 -
+/.env.yaml 2 -
+/keyfile.json 3 -
+/wp-json 1 https://www.fizznfreeze.idealgroups.org/wp-json/
 END_SIDER_404
 
 # Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
 # [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
 # The 25 first Hits must be first (order not required for others)
-BEGIN_VISITOR 66
+BEGIN_VISITOR 71
+84.147.52.103 12 41 4673993 20260726230539
+93.216.71.75 8 24 5152629 20260726175800
 148.113.205.188 6 38 1109683 20260725124030
-84.147.52.103 5 10 1149706 20260724192618
-93.216.71.75 4 13 3636571 20260724193420
-216.9.225.89 3 3 282923 20260707193139
-142.248.80.200 3 16 425038 20260712013728
-94.154.43.185 3 5 282729 20260723094527
-54.208.69.69 3 36 1774766 20260724163142
-62.210.198.177 3 38 1932643 20260724173244
-151.115.100.42 3 38 1932671 20260724162848
 142.248.80.138 3 16 425041 20260721083752
+94.154.43.185 3 5 282729 20260723094527
+216.9.225.89 3 3 282923 20260707193139
+62.210.198.177 3 38 1932643 20260724173244
+54.208.69.69 3 36 1774766 20260724163142
+151.115.100.42 3 38 1932671 20260724162848
+49.14.166.174 3 4 93289 20260727112428
+142.248.80.200 3 16 425038 20260712013728
 51.158.248.200 3 38 1932641 20260724162829
-91.231.89.34 2 2 184810 20260724174319
-94.154.43.187 2 7 239259 20260710143210
 64.89.161.82 2 34 3575044 20260724163022
-34.122.16.212 2 2 72170 20260726022010
-103.196.9.228 2 2 72141 20260724162644
+23.180.120.148 2 2 72204 20260727103845
 171.22.217.113 2 2 72143 20260724164015
-49.14.133.201 2 3 93020 20260702200655
+94.154.43.187 2 7 239259 20260710143210
 34.245.65.19 2 2 72176 20260724164035
 135.136.19.180 2 4 230049 20260724163106
+34.122.16.212 2 2 72170 20260726022010
+49.14.133.201 2 3 93020 20260702200655
 162.141.167.26 2 2 36077 20260726024358
-188.166.116.185 1 2 115022 20260725193914
-154.28.229.246 1 1 36073 20260724162630
-104.164.173.226 1 1 36073 20260724163957
-198.13.158.153 1 1 36070 20260724172613
-91.231.89.100 0 1 78942 
-91.196.152.146 0 1 78942 
-85.137.57.233 1 1 36079 20260724174754
-23.94.133.71 1 1 36097 20260726102917
-143.110.210.166 1 2 115045 20260725071411
-94.154.43.188 1 4 122404 20260725084020
-94.154.43.178 1 4 122404 20260712191949
-44.220.233.148 1 1 36102 20260721051005
-94.154.43.183 0 1 2339 
-91.196.152.144 1 1 92327 20260724174119
-34.139.141.56 1 1 36103 20260725003008
-54.164.167.77 1 1 36103 20260724032329
-164.92.126.211 1 2 115042 20260714173545
-66.132.172.130 1 2 115018 20260722141059
-94.154.43.179 0 3 27937 
-199.45.154.157 1 2 115042 20260716024737
-199.45.154.114 1 2 115035 20260724003609
-185.247.137.2 1 1 36094 20260705012719
-198.235.24.35 1 1 92483 20260720193611
-198.46.154.22 1 1 98269 20260707193200
-94.154.43.229 0 1 3409 
-72.11.155.223 1 2 115014 20260720092328
+91.231.89.34 2 2 184810 20260724174319
+103.196.9.228 2 2 72141 20260724162644
 32.193.141.171 1 1 36099 20260725182418
+54.164.167.77 1 1 36103 20260724032329
+94.154.43.183 0 1 2339 
+85.137.57.233 1 1 36079 20260724174754
+34.139.141.56 1 1 36103 20260725003008
+66.132.172.46 1 1 36097 20260715194318
+23.94.133.71 1 1 36097 20260726102917
+94.154.43.179 0 3 27937 
+94.154.43.178 1 4 122404 20260712191949
+157.245.1.183 1 2 115047 20260727063332
+66.132.172.186 1 2 115008 20260715040551
+143.110.210.166 1 2 115045 20260725071411
+164.92.126.211 1 2 115042 20260714173545
+198.235.24.35 1 1 92483 20260720193611
+91.231.89.100 0 1 78942 
+64.225.56.152 1 2 115016 20260720101146
+154.28.229.246 1 1 36073 20260724162630
+198.46.154.22 1 1 98269 20260707193200
+91.196.152.162 0 1 78942 
+192.227.176.16 1 1 36094 20260719220631
+94.154.43.188 1 4 122404 20260725084020
+91.196.152.146 0 1 78942 
+192.210.150.198 1 1 92327 20260707193150
+195.170.172.102 0 4 186157 
+87.236.176.17 0 1 78942 
+87.236.176.170 0 1 78942 
+94.154.43.186 1 2 115586 20260727141047
+72.11.155.223 1 2 115014 20260720092328
+66.132.172.130 1 2 115018 20260722141059
+199.45.154.114 1 2 115035 20260724003609
+104.164.173.226 1 1 36073 20260724163957
+3.151.194.164 1 1 36074 20260706160235
+91.196.152.144 1 1 92327 20260724174119
 94.154.43.177 1 8 152680 20260721044424
 54.157.149.144 1 1 36068 20260725182418
-66.132.172.192 1 1 36100 20260707233658
-3.151.194.164 1 1 36074 20260706160235
-195.170.172.102 0 4 186157 
-192.227.176.16 1 1 36094 20260719220631
-66.132.172.46 1 1 36097 20260715194318
-91.196.152.162 0 1 78942 
-66.132.172.186 1 2 115008 20260715040551
-192.210.150.198 1 1 92327 20260707193150
-66.132.172.140 1 2 115020 20260723085959
-161.35.83.82 1 2 115021 20260706075053
-64.225.56.152 1 2 115016 20260720101146
 94.154.43.184 1 2 115586 20260717044852
-87.236.176.170 0 1 78942 
+185.247.137.2 1 1 36094 20260705012719
 91.196.152.67 1 1 92483 20260724170321
 167.94.146.59 1 2 115014 20260707231413
-94.154.43.186 0 1 23259 
+188.166.116.185 1 2 115022 20260725193914
+199.45.154.157 1 2 115042 20260716024737
+161.35.83.82 1 2 115021 20260706075053
+66.132.172.140 1 2 115020 20260723085959
+198.13.158.153 1 1 36070 20260724172613
+66.132.172.192 1 1 36100 20260707233658
+44.220.233.148 1 1 36102 20260721051005
+87.236.176.90 1 1 36077 20260727142655
+94.154.43.229 0 1 3409 
 END_VISITOR
 
 # Date - Pages - Hits - Bandwidth - Visits
-BEGIN_DAY 22
+BEGIN_DAY 23
 20260702 2 3 93020 1
 20260705 1 2 115036 1
 20260706 2 3 151095 2
@@ -510,38 +518,40 @@ BEGIN_DAY 22
 20260723 2 3 207347 2
 20260724 41 234 17311437 20
 20260725 13 47 1576443 8
-20260726 4 7 137255 3
+20260726 15 49 5177600 6
+20260727 8 11 487886 5
 END_DAY
 
 # Session range - Number of visits
-BEGIN_SESSION 4
-30s-2mn 1
+BEGIN_SESSION 5
+5mn-15mn 1
 15mn-30mn 2
-0s-30s 57
+30s-2mn 4
 2mn-5mn 1
+0s-30s 61
 END_SESSION
 
 # URL - Pages - Bandwidth - Entry - Exit
 # The 25 first Pages must be first (order not required for others)
 BEGIN_SIDER 7
-/login 79 4390648 59 54
+/login 92 5366601 65 60
+/register 6 467424 1 2
 /assets/vendor/fonts/tabler/tabler-icons.woff2 4 2809088 0 3
 /assets/vendor/fonts/fontawesome/fa-brands-400.woff2 4 432080 0 1
-/register 4 270582 1 1
-/password/reset 2 2266 0 1
-/track-order 1 13813 1 0
-/order/status/ORD202606110001 1 265 0 1
+/password/reset 3 5909 1 1
+/order/status/ORD202606110001 3 795 0 2
+/track-order 2 27630 2 0
 END_SIDER
 
 # Payload Range - Payload Frequency
 BEGIN_FILESIZE 7
-0-44 362
-5K+ 306
-44-100 94
-2K-5K 35
+44-100 95
+1K-2K 30
+100-500 575
+0-44 412
+2K-5K 40
 500-1K 46
-1K-2K 28
-100-500 562
+5K+ 350
 END_FILESIZE
 
 # Request Time Range - Request Time Frequency

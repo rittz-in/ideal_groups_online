@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/27/2026 01:31:46
-2026 7 27 1 31 46
-289 2 84 2 11 36 119837 216 85 0
-1 73 73 1 27
+# Webalizer V2.23-08 Incremental Data - 07/28/2026 16:23:55
+2026 7 28 16 23 55
+314 14 96 6 11 38 124512 228 87 0
+10 12 73 1 28
 4 0 678 2 3 2
 20 2 29376 2 18 1
 1 0 0 1 1 1
@@ -28,8 +28,8 @@
 30 0 8282 15 28 15
 46 0 13088 5 46 5
 13 0 3690 3 13 3
-73 0 19048 1 30 1
-0 0 0 0 0 0
+86 0 22725 3 42 3
+12 12 998 10 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -49,10 +49,10 @@
 8 0 1716 7
 17 0 4039 4
 44 0 12012 44
-4 0 572 4
+16 12 1570 4
 7 0 1918 7
-5 0 282 4
-19 0 3598 19
+7 0 857 5
+30 0 6700 30
 10 0 1144 10
 2 0 0 2
 2 0 0 2
@@ -60,7 +60,7 @@
 0
 0
 0
-2
+14
 0
 0
 0
@@ -68,7 +68,7 @@
 0
 0
 0
-218
+231
 3
 0
 0
@@ -101,18 +101,26 @@
 # -urls- 
 /wp-content/plugins/
 0 1 7454916926557022572 0 0 0
+/.well-known/acme-challenge/zd2CZUG8Kwn6f2LQasN1lsuqI4reSXJfp8b5sTji9Jw
+0 5 0 435 0 0
 /wp-includes/blocks/
 0 1 0 22 0 0
+/.well-known/acme-challenge/nX4Bf6Yr-c6ht2EJGr0V-0H4TZ9jL9Qd1kbBycq2gNM
+0 5 0 435 0 0
+/.well-known/acme-challenge/WMP64LR93_9W6D2HLUF4JFO0ME3Q9GFS
+0 1 80 64 0 0
+/.well-known/acme-challenge/620A54WYRLRUN8P87798LP2O6495TT9J
+0 1 0 64 0 0
 # End Of Table - urls
 # -sites- (monthly)
 193.235.141.185
 0 1 0 282 1 1784859622
 -
-192.36.121.203
-0 1 0 286 1 1784764255
--
 23-94-216-234-host.colocrossing.com
 0 1 0 282 1 1784876710
+-
+192.36.121.203
+0 1 0 286 1 1784764255
 -
 93.152.221.13
 0 73 0 19048 1 1785115897
@@ -120,11 +128,20 @@
 205.210.31.137
 0 1 0 0 1 1783890393
 -
+ec2-47-129-238-8.ap-southeast-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
 141.172.132.66.censys-scanner.com
 0 1 0 286 1 1784788658
 -
+ec2-16-192-166-246.eu-north-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
 88.189.245.35.bc.googleusercontent.com
 0 1 0 0 1 1784574018
+-
+ec2-34-210-167-226.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
 -
 178.73.235.125
 0 1 0 282 1 1784859624
@@ -186,8 +203,14 @@ static.239.79.46.78.clients.your-server.de
 91.92.241.196
 0 9 0 43124 0 0
 -
+outbound2l.letsencrypt.org
+0 1 1 87 0 0
+-
 205.210.31.212
 0 1 0 286 1 1784738534
+-
+ec2-3-0-249-92.ap-southeast-1.compute.amazonaws.com
+0 1 1 87 0 0
 -
 r5-218-da.monitoring.internet-measurement.com
 0 1 0 0 1 1783119118
@@ -273,6 +296,9 @@ ec2-32-193-141-171.compute-1.amazonaws.com
 ec2-52-203-46-65.compute-1.amazonaws.com
 0 1 0 0 1 1784073150
 -
+ec2-44-246-122-112.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
 80.248.234.207
 0 1 0 286 1 1784764254
 -
@@ -281,6 +307,12 @@ ec2-52-203-46-65.compute-1.amazonaws.com
 -
 87.224.132.66.censys-scanner.com
 0 1 0 0 1 1783473511
+-
+ec2-16-170-173-16.eu-north-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+rs200.webhostbox.net
+0 2 2 128 0 0
 -
 205.210.31.45
 0 1 0 0 1 1783437908
@@ -294,11 +326,17 @@ ec2-52-203-46-65.compute-1.amazonaws.com
 5.133.213.61
 0 1 0 286 1 1784764256
 -
+ec2-3-16-183-44.us-east-2.compute.amazonaws.com
+0 2 2 174 0 0
+-
 ec2-32-193-249-43.compute-1.amazonaws.com
 0 1 0 0 1 1784062157
 -
 146.247.227.159
 0 1 0 282 1 1784859623
+-
+198.235.24.19
+0 11 0 3102 1 1785180138
 -
 83.140.96.94
 0 1 0 286 1 1784764254
@@ -321,11 +359,11 @@ ec2-34-196-221-85.compute-1.amazonaws.com
 205.210.31.136
 0 1 0 0 1 1784491824
 -
-104.28.214.112
-0 2 0 452 0 0
--
 80.248.228.113
 0 1 0 282 1 1784859623
+-
+104.28.214.112
+0 2 0 452 0 0
 -
 205.186.132.66.censys-scanner.com
 0 1 0 286 1 1784821672
@@ -342,6 +380,9 @@ ec2-3-217-141-132.compute-1.amazonaws.com
 ec2-34-195-135-127.compute-1.amazonaws.com
 0 1 0 0 1 1782871328
 -
+164.90.135.20
+0 2 0 575 1 1785176028
+-
 185.13.43.89
 0 1 0 282 1 1784859624
 -
@@ -357,10 +398,40 @@ ec2-34-195-135-127.compute-1.amazonaws.com
 208.84.101.164
 0 1 0 0 1 1784235062
 -
+outbound2r.letsencrypt.org
+0 1 1 87 0 0
+-
 # End Of Table - sites (monthly)
 # -sites- (daily)
-93.152.221.13
-0 73 0 19048 1 1785115897
+ec2-47-129-238-8.ap-southeast-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ec2-16-192-166-246.eu-north-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ec2-34-210-167-226.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+outbound2l.letsencrypt.org
+0 1 1 87 0 0
+-
+ec2-3-0-249-92.ap-southeast-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ec2-44-246-122-112.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ec2-16-170-173-16.eu-north-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+rs200.webhostbox.net
+0 2 2 128 0 0
+-
+ec2-3-16-183-44.us-east-2.compute.amazonaws.com
+0 2 2 174 0 0
+-
+outbound2r.letsencrypt.org
+0 1 1 87 0 0
 -
 # End Of Table - sites (daily)
 # -referrers- 
@@ -368,16 +439,16 @@ http://ugi.net.in.idealgroups.org/_profiler/phpinfo
 0 9
 http://ugi.net.in.idealgroups.org/.env.example
 0 9
-http://ugi.net.in.idealgroups.org/.env.local
-0 9
 http://ugi.net.in.idealgroups.org/phpinfo
 0 9
+http://ugi.net.in.idealgroups.org/.env.local
+0 9
 - (Direct Request)
-0 175
+0 189
 http://www.ugi.net.in.idealgroups.org
 0 2
 http://ugi.net.in.idealgroups.org/
-0 29
+0 40
 https://www.uco.com.tr//wp-login.php
 0 6
 http://ugi.net.in.idealgroups.org/.aws/credentials
@@ -399,6 +470,8 @@ Mozilla/5.0 (compatible; SecurityResearch/1.0; )
 Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
 0 1
 Mozilla/5.0 (iPhone; CPU iPhone OS 16_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/122.0.6261.89 Mobile/15
+0 10
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
 0 10
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 0 2
@@ -428,6 +501,8 @@ Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
 0 7
+Cpanel-HTTP-Client/1.0
+0 2
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.1
 0 10
 Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
@@ -443,11 +518,11 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 0 9
 Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
-0 18
+0 29
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 0 16
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-0 4
+0 6
 Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
 0 31
 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Sa

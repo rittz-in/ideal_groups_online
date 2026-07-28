@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/27/2026 01:58:57
-2026 7 27 1 58 57
-1564 1 64 1 5 26 364531 854 58 0
-2 2 1281 1 27
+# Webalizer V2.23-08 Incremental Data - 07/28/2026 13:51:42
+2026 7 28 13 51 42
+1568 1 66 1 5 27 365652 857 60 0
+2 2 1281 1 28
 17 0 4043 3 13 2
 6 0 0 1 6 1
 2 0 550 2 2 2
@@ -29,7 +29,7 @@
 0 0 0 0 0 0
 14 0 3850 4 14 4
 3 0 825 2 3 2
-0 0 0 0 0 0
+4 0 1121 2 3 2
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -44,9 +44,9 @@
 2 0 452 0
 4 0 908 3
 9 0 2475 9
-6 0 1650 6
+8 0 2200 8
 7 0 1695 5
-22 0 6050 22
+24 0 6621 23
 8 0 2200 8
 1 0 275 1
 0 0 0 0
@@ -68,7 +68,7 @@
 0
 0
 0
-914
+918
 0
 0
 0
@@ -139,6 +139,9 @@ ec2-34-195-23-187.compute-1.amazonaws.com
 scan.visionheight.com
 0 12 0 3300 2 1784892927
 -
+45.172.132.66.censys-scanner.com
+0 2 0 550 1 1785239019
+-
 185.177.72.205
 0 1281 1 301037 1 1784610837
 -
@@ -181,11 +184,11 @@ scan.visionheight.com
 57.146.94.167.censys-scanner.com
 0 2 0 550 1 1783921752
 -
-ec2-3-219-86-171.compute-1.amazonaws.com
-0 5 0 1375 1 1784702561
--
 29.182.61.34.bc.googleusercontent.com
 0 7 0 1925 1 1784658796
+-
+ec2-3-219-86-171.compute-1.amazonaws.com
+0 5 0 1375 1 1784702561
 -
 208.84.100.249
 0 2 0 550 1 1785050472
@@ -240,6 +243,9 @@ ec2-32-193-141-171.compute-1.amazonaws.com
 -
 192.71.42.145
 0 1 0 275 1 1783636744
+-
+24.199.113.213
+0 2 0 571 1 1785246702
 -
 68.183.177.25
 0 1 0 226 0 0
@@ -297,20 +303,20 @@ ec2-3-217-141-132.compute-1.amazonaws.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-141.172.132.66.censys-scanner.com
-0 2 0 550 1 1785117537
+45.172.132.66.censys-scanner.com
+0 2 0 550 1 1785239019
 -
-87.224.132.66.censys-scanner.com
-0 1 0 275 1 1785110954
+24.199.113.213
+0 2 0 571 1 1785246702
 -
 # End Of Table - sites (daily)
 # -referrers- 
 - (Direct Request)
-0 1463
+0 1466
 http://web.idealgroups.org
 0 3
 http://web.idealgroups.org/
-0 88
+0 89
 http://www.web.idealgroups.org
 0 5
 http://www.web.idealgroups.org/
@@ -328,7 +334,7 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
 0 12
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
-0 12
+0 14
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 0 3
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15
@@ -349,6 +355,8 @@ Mozilla/5.0 (Windows NT 11.0; Win64; x64; rv:119.0) Gecko/20100101 Firefox/119.0
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.1
 0 10
+Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
+0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
 0 41
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36

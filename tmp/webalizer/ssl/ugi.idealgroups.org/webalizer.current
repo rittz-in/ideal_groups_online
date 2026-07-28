@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/27/2026 17:36:55
-2026 7 27 17 36 55
-715 0 97 0 5 79 202631 171 99 0
-3 1 275 1 27
+# Webalizer V2.23-08 Incremental Data - 07/28/2026 17:11:17
+2026 7 28 17 11 17
+719 0 99 0 5 79 204150 173 101 0
+3 1 275 1 28
 3 0 1293 2 1 1
 0 0 0 0 0 0
 60 0 17305 2 12 2
@@ -28,8 +28,8 @@
 9 0 3849 7 6 6
 284 0 65360 6 17 6
 3 0 1035 2 1 1
-4 0 1747 3 3 3
-0 0 0 0 0 0
+5 0 2102 4 3 3
+3 0 1164 3 2 2
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -48,14 +48,14 @@
 2 0 945 2
 5 0 1245 2
 9 0 3165 6
-7 0 2812 4
-54 0 13461 14
-45 0 18199 25
+8 0 3038 4
+55 0 14044 15
+46 0 18554 26
 10 0 3649 7
 15 0 5979 9
 5 0 2231 4
 11 0 4004 8
-8 0 3038 5
+9 0 3393 5
 4 0 1648 3
 2
 0
@@ -77,10 +77,10 @@
 0
 0
 0
-96
-248
+98
+249
 0
-317
+318
 0
 0
 52
@@ -156,7 +156,7 @@ ec2-34-195-23-187.compute-1.amazonaws.com
 0 1 0 355 1 1784971908
 -
 scan.visionheight.com
-0 3 0 1065 3 1784547117
+0 4 0 1420 4 1785258677
 -
 r5-15-f.monitoring.internet-measurement.com
 0 1 0 355 1 1784716574
@@ -215,11 +215,11 @@ e4462bfb-4320-4582-8d81-8ea0a2866580.pl-waw-3.baremetal.scw.cloud
 193.149.176.200
 0 1 0 355 1 1784742932
 -
-ec2-35-83-252-63.us-west-2.compute.amazonaws.com
-0 2 0 710 1 1783394109
--
 96.195.132.66.censys-scanner.com
 0 1 0 355 1 1784852382
+-
+ec2-35-83-252-63.us-west-2.compute.amazonaws.com
+0 2 0 710 1 1783394109
 -
 140.172.132.66.censys-scanner.com
 0 1 0 355 1 1784799175
@@ -231,7 +231,7 @@ vmi2882430.contaboserver.net
 0 1 0 355 1 1783468124
 -
 94.154.43.184
-0 8 0 3236 4 1785098077
+0 9 0 3462 4 1785098077
 -
 142.172.132.66.censys-scanner.com
 0 1 0 355 1 1784154151
@@ -326,6 +326,9 @@ ec2-100-58-73-231.compute-1.amazonaws.com
 157.230.122.121
 0 2 0 710 1 1785002636
 -
+165.42.75.34.bc.googleusercontent.com
+0 1 0 355 0 0
+-
 107-173-171-201-host.colocrossing.com
 0 2 0 710 1 1784509271
 -
@@ -386,6 +389,9 @@ tor-exit-4
 23.180.120.146
 0 3 0 1065 1 1785001210
 -
+198.235.24.135
+0 1 0 583 1 1785257235
+-
 65.110.40.138
 0 3 0 1065 1 1784386177
 -
@@ -394,14 +400,14 @@ tor-exit-4
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-194.102.104.29
-0 2 0 581 1 1785170073
+scan.visionheight.com
+0 1 0 355 1 1785258677
 -
-94.154.43.188
-0 1 0 583 1 1785126254
+94.154.43.184
+0 1 0 226 0 0
 -
-198.235.24.16
-0 1 0 583 1 1785173815
+198.235.24.135
+0 1 0 583 1 1785257235
 -
 # End Of Table - sites (daily)
 # -referrers- 
@@ -410,7 +416,7 @@ https://www.google.com/search
 https://ugi.idealgroups.org/
 0 3
 - (Direct Request)
-0 684
+0 688
 https://www.ugi.idealgroups.org/
 0 25
 https://www.ugi.idealgroups.org
@@ -482,7 +488,7 @@ Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKi
 Go-http-client/1.1
 0 34
 visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
-0 3
+0 4
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36
 0 1
 Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
@@ -491,9 +497,9 @@ Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (K
 0 3
 Go-http-client/2.0
 0 3
-Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36
-0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 15.7; rv:149.0) Gecko/20100101 Firefox/149.0
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
 0 1
@@ -524,7 +530,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (compatible; Google-CloudVertexBot; +https://cloud.google.com/vertex-ai-bot)
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 40
+0 41
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15
 0 2
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -538,7 +544,7 @@ Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Samsun
 Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)
 0 12
 Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
-0 6
+0 7
 Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Mobile Saf
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36

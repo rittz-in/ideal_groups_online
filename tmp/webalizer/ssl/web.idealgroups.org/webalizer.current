@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/27/2026 10:18:49
-2026 7 27 10 18 49
-809 461 78 105 5 63 1908024 114 65 0
-4 1 269 1 27
+# Webalizer V2.23-08 Incremental Data - 07/28/2026 16:33:26
+2026 7 28 16 33 26
+820 469 83 105 6 65 2010789 123 70 0
+6 1 269 1 28
 29 29 59474 7 2 2
 45 40 36789 3 8 2
 25 25 54211 2 1 1
@@ -29,7 +29,7 @@
 276 51 232071 8 13 4
 7 5 90127 4 5 3
 6 4 68091 4 4 3
-0 0 0 0 0 0
+11 8 102765 6 9 5
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -42,14 +42,14 @@
 14 14 16943 1
 17 11 40333 7
 16 14 50507 1
-17 11 61778 5
+22 14 85479 9
 95 60 202319 18
-6 6 13643 1
+9 8 25998 3
 21 20 51758 5
-10 7 102006 3
+12 9 157516 5
 15 14 50281 1
 92 52 100626 7
-14 13 49487 1
+15 14 60686 2
 27 23 128761 10
 19 18 72741 3
 12 11 122221 4
@@ -57,18 +57,18 @@
 10 8 58437 2
 12 11 15519 3
 16 15 85276 5
-7
+8
 0
 0
-461
-0
-0
-0
+469
 0
 0
 0
 0
-2
+0
+0
+0
+3
 0
 0
 0
@@ -80,7 +80,7 @@
 2
 0
 0
-277
+278
 0
 0
 59
@@ -102,13 +102,13 @@
 /.git/HEAD
 0 7 8319045105058736492 5558 0 0
 /config
-0 1 7162130782402641920 2118 1 0
-/admin/.env
-0 3 0 2382 0 0
+0 1 3258125842437373952 2118 1 0
 /.claude.json
-0 1 7957713625452457521 794 0 0
+0 1 16356656 794 0 0
+/admin/.env
+0 3 3275369708633551733 2382 0 0
 /.env.sample
-0 1 15521072 794 0 0
+0 1 0 794 0 0
 /.aider.conf.yml
 0 1 0 794 0 0
 /.env.remote
@@ -180,7 +180,7 @@
 /localhost.key
 0 2 0 1588 0 0
 /favicon.ico
-0 4 0 3176 0 0
+0 5 0 3970 0 0
 /project-details.html
 0 3 0 2382 0 0
 /.env1
@@ -262,7 +262,7 @@
 /.env.dist
 0 1 0 794 0 0
 /
-0 67 0 1595368 61 15
+0 73 0 1695674 66 15
 /.hermes/auth.json
 0 1 0 794 0 0
 /.hermes/config.yaml
@@ -306,11 +306,14 @@
 /.env.backup2
 0 1 0 794 0 0
 /wp-json
-0 1 0 794 0 0
+0 2 0 1588 0 0
 /services.html
 0 3 0 2382 0 0
 # End Of Table - urls
 # -sites- (monthly)
+ec2-100-30-207-100.compute-1.amazonaws.com
+0 1 1 11199 1 1785256406
+/
 188.166.233.148
 0 5 1 1331 2 1783151325
 -
@@ -320,20 +323,26 @@
 94.154.43.229
 0 6 3 133611 3 1785147529
 /
-154.54.100.177
-0 1 1 794 0 0
--
 ec2-54-157-149-144.compute-1.amazonaws.com
 0 1 1 11199 1 1785002824
 /
+154.54.100.177
+0 1 1 794 0 0
+-
 ec2-54-173-131-118.compute-1.amazonaws.com
 0 1 1 11199 1 1784986449
+/
+94.154.43.183
+0 1 1 44311 1 1785246092
 /
 ec2-34-243-183-118.eu-west-1.compute.amazonaws.com
 0 1 0 226 1 1783739234
 /
 198.235.24.18
 0 1 1 44311 1 1783712803
+/
+23.180.120.148
+0 4 3 23475 1 1785231883
 /
 149.77.126.34.bc.googleusercontent.com
 0 1 1 794 0 0
@@ -384,7 +393,7 @@ ec2-34-222-192-68.us-west-2.compute.amazonaws.com
 0 1 1 44311 1 1783276044
 /
 94.154.43.188
-0 4 2 89074 2 1784420846
+0 5 2 89300 2 1784420846
 /
 82.39.212.105
 0 20 16 26527 1 1782967206
@@ -458,6 +467,9 @@ ec2-44-244-154-205.us-west-2.compute.amazonaws.com
 1a2.crawl.securitytrails.com
 0 1 0 362 1 1782976541
 /
+24.199.113.213
+0 1 1 11199 1 1785246703
+/
 205.210.31.38
 0 2 2 88622 2 1783789487
 /
@@ -515,6 +527,9 @@ r3-235-eb.monitoring.internet-measurement.com
 253.164.124.34.bc.googleusercontent.com
 0 1 1 794 0 0
 -
+128.172.132.66.censys-scanner.com
+0 3 2 12355 1 1785239511
+/
 154.56.235.8.bc.googleusercontent.com
 0 1 1 794 0 0
 -
@@ -547,24 +562,32 @@ ec2-13-219-67-125.compute-1.amazonaws.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-94.154.43.229
-0 1 1 44311 1 1785147529
+ec2-100-30-207-100.compute-1.amazonaws.com
+0 1 1 11199 1 1785256406
 /
-62.146.94.167.censys-scanner.com
-0 3 2 12355 1 1785124415
+94.154.43.183
+0 1 1 44311 1 1785246092
 /
-scan.visionheight.com
-0 1 1 11199 1 1785130865
+23.180.120.148
+0 4 3 23475 1 1785231883
 /
-94.154.43.179
+94.154.43.188
 0 1 0 226 0 0
 -
+24.199.113.213
+0 1 1 11199 1 1785246703
+/
+128.172.132.66.censys-scanner.com
+0 3 2 12355 1 1785239511
+/
 # End Of Table - sites (daily)
 # -referrers- 
+https://web.idealgroups.org/wp-json/
+0 1
 https://www.facebook.com/
 0 1
 - (Direct Request)
-0 801
+0 811
 https://web.idealgroups.org/
 0 1
 https://www.web.idealgroups.org/
@@ -616,7 +639,9 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 15_7_5) AppleWebKit/605.1.15 (KHTML, like
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
-0 14
+0 17
+Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+0 4
 Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/5d7.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
@@ -638,8 +663,10 @@ Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +c
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user
 0 5
 Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
-0 2
+0 3
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0
 0 1
@@ -648,7 +675,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 45
+0 47
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/131.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15) Gecko/20100101 Firefox/119.0.1

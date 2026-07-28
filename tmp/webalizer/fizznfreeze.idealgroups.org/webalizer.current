@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/27/2026 15:24:11
-2026 7 27 15 24 11
-511 276 95 43 14 61 12572405 191 81 0
-5 6 107 1 27
+# Webalizer V2.23-08 Incremental Data - 07/28/2026 17:03:35
+2026 7 28 17 3 35
+534 282 99 43 14 62 12990981 198 84 0
+1 17 107 1 28
 3 0 678 1 2 1
 4 3 115260 1 2 1
 4 0 0 1 0 0
@@ -28,8 +28,8 @@
 216 177 8520732 36 53 23
 16 6 304436 5 11 4
 49 30 812950 8 26 8
-31 3 154417 5 11 4
-0 0 0 0 0 0
+37 7 384847 8 15 6
+17 2 188146 1 3 1
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -50,17 +50,17 @@
 3 2 115255 2
 10 2 73963 8
 111 92 3890727 25
-101 85 4628727 24
+121 89 4932089 29
 36 9 429932 22
 8 4 300979 7
 15 6 224783 10
 17 6 224812 9
 3 2 115255 2
-3 2 36286 2
+6 4 151500 4
 0
 0
 0
-276
+282
 0
 0
 0
@@ -69,7 +69,7 @@
 0
 0
 10
-75
+78
 0
 0
 0
@@ -80,7 +80,7 @@
 0
 56
 0
-70
+84
 0
 0
 24
@@ -102,15 +102,15 @@
 /assets/vendor/libs/sweetalert2/sweetalert2.js
 0 5 7594809989982218604 203890 0 0
 /assets/img/illustrations/login-img.png
-0 4 4120292497312251904 435372 0 0
+0 4 0 435372 0 0
 /assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js
-0 5 8668464 59845 0 0
+0 5 0 59845 0 0
 /assets/vendor/libs/node-waves/node-waves.js
 0 5 0 36550 0 0
-/assets/vendor/libs/jquery/jquery.js
-0 4 0 450900 0 0
 /register
 0 1 0 37016 0 0
+/assets/vendor/libs/jquery/jquery.js
+0 4 0 450900 0 0
 /assets/vendor/libs/hammer/hammer.js
 0 5 0 128440 0 0
 /assets/vendor/libs/typeahead-js/typeahead.js
@@ -142,13 +142,13 @@
 /assets/vendor/fonts/tabler/tabler-icons.woff2
 0 4 0 2809088 0 0
 /login
-0 72 0 3277323 7 3
+0 76 0 3534027 7 3
 /assets/img/illustrations/bg-shape-image.png
 0 4 0 64692 0 0
 /assets/vendor/css/pages/page-auth.css
 0 4 0 4372 0 0
 /assets/img/fizzfavicon.svg
-0 28 0 2210376 0 0
+0 30 0 2368260 0 0
 /assets/vendor/libs/sweetalert2/sweetalert2.css
 0 4 0 34916 0 0
 /assets/vendor/libs/@form-validation/umd/styles/
@@ -331,6 +331,9 @@ ec2-44-243-82-214.us-west-2.compute.amazonaws.com
 142.248.80.138
 0 2 1 36289 1 1784623071
 /login
+r5-46-2e.monitoring.internet-measurement.com
+0 1 1 78942 0 0
+-
 schmidt.probe.onyphe.net
 0 1 0 422 1 1784914755
 -
@@ -340,6 +343,9 @@ outbound2n.letsencrypt.org
 157.230.177.192
 0 4 0 904 1 1784984778
 -
+82.102.18.118
+0 17 2 188146 1 1785258211
+/login
 104.234.155.49
 0 1 0 226 1 1783139325
 -
@@ -373,6 +379,9 @@ maia.probe.onyphe.net
 169.186.132.66.censys-scanner.com
 0 4 3 115249 1 1783469441
 /login
+r5-201-c9.monitoring.internet-measurement.com
+0 2 1 36272 1 1785195625
+/login
 padilla.probe.onyphe.net
 0 2 0 828 1 1784912435
 -
@@ -402,6 +411,9 @@ ec2-35-172-91-99.compute-1.amazonaws.com
 /login
 157.245.1.183
 0 3 2 115254 1 1785134005
+/login
+134.209.83.37
+0 3 2 115216 1 1785174991
 /login
 ec2-3-145-174-29.us-east-2.compute.amazonaws.com
 0 1 1 87 0 0
@@ -474,21 +486,9 @@ ec2-13-61-10-95.eu-north-1.compute.amazonaws.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-93.152.221.13
-0 20 1 37792 1 1785115858
+82.102.18.118
+0 17 2 188146 1 1785258211
 /login
-193.47.62.168
-0 1 0 0 1 1785144419
--
-157.245.1.183
-0 3 2 115254 1 1785134005
-/login
-ip246.ip-51-79-208.net
-0 6 0 1371 1 1785165851
--
-158.101.144.198
-0 1 0 0 0 0
--
 # End Of Table - sites (daily)
 # -referrers- 
 http://www.fizznfreeze.idealgroups.org/login
@@ -496,11 +496,11 @@ http://www.fizznfreeze.idealgroups.org/login
 http://fizznfreeze.idealgroups.org/app
 0 1
 http://fizznfreeze.idealgroups.org
-0 15
+0 16
 https://fizznfreeze.idealgroups.org
 0 1
 - (Direct Request)
-0 326
+0 347
 http://www.fizznfreeze.idealgroups.org/assets/vendor/fonts/tabler-icons.css
 0 2
 http://www.fizznfreeze.idealgroups.org
@@ -508,7 +508,7 @@ http://www.fizznfreeze.idealgroups.org
 http://fizznfreeze.idealgroups.org/
 0 7
 http://fizznfreeze.idealgroups.org/login
-0 69
+0 70
 http://www.fizznfreeze.idealgroups.org/
 0 1
 https://fishingsport.cv.ua//wp-login.php
@@ -530,7 +530,7 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/12
 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0
 0 18
 Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
-0 3
+0 6
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot
 0 2
 Mozilla/5.0 (compatible; SecurityResearch/1.0; )
@@ -578,7 +578,9 @@ Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Perplexity-User/
 Cpanel-HTTP-Client/1.0
 0 2
 Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
-0 9
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 17
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

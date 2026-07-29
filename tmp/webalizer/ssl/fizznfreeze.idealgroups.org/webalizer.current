@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/28/2026 12:00:30
-2026 7 28 12 0 30
-1576 552 133 42 17 100 29482168 342 138 0
-5 2 328 2 28
+# Webalizer V2.23-08 Incremental Data - 07/29/2026 15:38:40
+2026 7 29 15 38 40
+1589 559 136 42 17 100 29841978 350 143 0
+6 4 328 2 29
 0 0 0 0 0 0
 5 3 93020 2 2 1
 3 0 0 1 0 0
@@ -29,8 +29,8 @@
 99 65 1580481 15 34 13
 386 74 5318995 18 39 11
 66 34 641731 15 19 8
-17 10 65435 5 4 3
-0 0 0 0 0 0
+20 12 180688 6 6 4
+10 5 244557 6 6 4
 0 0 0 0 0 0
 0 0 0 0 0 0
 19 6 152714 10
@@ -40,19 +40,19 @@
 23 8 393953 8
 9 3 37025 4
 20 13 209905 8
-21 12 260204 7
-72 19 556242 12
+24 14 375461 9
+73 19 556468 12
 15 9 286999 4
 20 11 253616 12
 285 6 145538 13
 53 45 1203213 14
 288 5 74444 12
-20 11 509102 11
-10 5 36785 3
+22 12 601839 13
+14 7 73122 5
 334 162 9787788 61
 112 77 5158261 47
 28 14 2005585 11
-68 45 3425203 45
+71 47 3540456 47
 27 20 2615578 11
 19 8 131474 4
 15 7 452037 4
@@ -60,7 +60,7 @@
 5
 0
 0
-552
+559
 0
 0
 0
@@ -69,7 +69,7 @@
 0
 0
 9
-117
+121
 0
 0
 0
@@ -78,9 +78,9 @@
 0
 0
 4
-340
+341
 3
-452
+453
 0
 0
 94
@@ -100,17 +100,17 @@
 0
 # -urls- 
 /assets/vendor/libs/sweetalert2/sweetalert2.js
-0 9 8391173023964083505 646350 0 0
+0 9 25956 646350 0 0
 /assets/img/illustrations/login-img.png
 0 4 8319045105058736492 435372 0 0
 /assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js
-0 10 3618360825615482880 182282 0 0
+0 10 3330471509297083950 182282 0 0
 /assets/vendor/libs/node-waves/node-waves.js
-0 10 18226368 106406 0 0
-/assets/vendor/libs/jquery/jquery.js
-0 8 0 1256028 0 0
+0 10 29251616 106406 0 0
 /register
 0 10 0 615516 2 1
+/assets/vendor/libs/jquery/jquery.js
+0 8 0 1256028 0 0
 /order/status/ORD202606110001
 0 3 0 795 0 0
 /assets/vendor/libs/hammer/hammer.js
@@ -144,39 +144,39 @@
 /assets/vendor/fonts/tabler/tabler-icons.woff2
 0 4 0 2809088 0 0
 /login
-0 103 0 5819714 14 14
+0 107 0 6020341 15 16
 /assets/img/illustrations/bg-shape-image.png
 0 5 0 80865 0 0
 /assets/vendor/css/pages/page-auth.css
 0 5 0 8111 0 0
 /assets/img/fizzfavicon.svg
-0 39 0 3078738 0 0
+0 41 0 3236622 0 0
 /assets/vendor/libs/sweetalert2/sweetalert2.css
 0 5 0 80267 0 0
 /assets/vendor/libs/@form-validation/umd/styles/
 0 5 0 20899 1 0
 /assets/vendor/libs/animate-css/animate.css
-0 8 0 334339 0 0
+0 8 2416067955524120878 334339 0 0
 /assets/vendor/fonts/tabler-icons.css
-0 15 0 2331000 0 0
+0 15 7310597220861961006 2331000 0 0
 /assets/vendor/js/helpers.js
-0 11 0 231323 0 0
+0 11 3543828442178912256 231323 0 0
 /assets/vendor/libs/@form-validation/umd/bundle/popular.min.js
-0 10 0 392986 0 0
+0 10 3543541486826893361 392986 0 0
 /assets/js/config.js
-0 11 0 9947 0 0
+0 11 6557578831684580914 9947 0 0
 /assets/js/main.js
-0 20 0 336780 0 0
+0 20 3543827376979915825 336780 0 0
 /assets/vendor/libs/popper/popper.js
-0 8 0 111166 0 0
+0 8 7002588541653120368 111166 0 0
 /assets/vendor/js/menu.js
-0 10 0 184506 0 0
+0 10 7596570299436266085 184506 0 0
 /assets/vendor/libs/node-waves/node-waves.css
 0 6 0 7826 0 0
 /robots.txt
-0 76 0 1824 0 0
+0 77 0 1848 0 0
 /assets/vendor/libs/@form-validation/umd/plugin-bootstrap5/
-0 20 0 51188 9 6
+0 20 0 51188 9 7
 /assets/vendor/js/bootstrap.js
 0 10 0 3057268 0 0
 /assets/js/pages-auth.js
@@ -263,8 +263,14 @@ r4-2-2.monitoring.internet-measurement.com
 1c1.crawl.securitytrails.com
 0 1 0 362 1 1783582141
 -
+146.190.120.134
+0 3 2 115257 1 1785309999
+/login
 ec2-44-220-233-148.compute-1.amazonaws.com
 0 2 1 36315 1 1784610605
+/login
+165.227.216.9
+0 3 2 115253 1 1785267441
 /login
 164.92.126.211
 0 3 2 115255 1 1784050545
@@ -315,8 +321,8 @@ gabriel.probe.onyphe.net
 0 2 1 36280 1 1784913973
 /login
 94.154.43.188
-0 5 4 122814 4 1785027825
-/assets/vendor/libs/@form-validation/umd/plugin-bootstrap5/
+0 6 4 123224 5 1785335417
+-
 ec2-34-245-65-19.eu-west-1.compute.amazonaws.com
 0 4 2 72599 1 1784911235
 /login
@@ -360,7 +366,7 @@ chan.probe.onyphe.net
 0 1 0 426 1 1784912445
 -
 94.154.43.184
-0 3 2 115996 1 1784263732
+0 4 3 208323 2 1785335418
 /login
 171.22.217.113
 0 4 2 72563 1 1784911215
@@ -417,7 +423,7 @@ ec2-32-193-141-171.compute-1.amazonaws.com
 0 2 1 36312 1 1785003858
 /login
 94.154.43.177
-0 9 9 155019 5 1785219138
+0 10 9 155245 5 1785219138
 /assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
 oneal.probe.onyphe.net
 0 1 0 290 1 1784915286
@@ -466,6 +472,9 @@ p54933467.dip0.t-ipconnect.de
 /login
 164.97.172.144.static.cloudzy.com
 0 1 0 0 0 0
+-
+216.73.216.247
+0 2 1 24 0 0
 -
 94.154.43.178
 0 5 4 122814 4 1784665005
@@ -558,7 +567,7 @@ milla.probe.onyphe.net
 0 1 0 302 1 1784916125
 -
 static.169.73.63.178.clients.your-server.de
-0 2 1 36284 1 1785182277
+0 4 2 72597 2 1785337664
 /login
 151.115.100.42
 0 44 38 1932884 1 1784910527
@@ -586,21 +595,24 @@ ec2-54-147-7-104.compute-1.amazonaws.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-scan.visionheight.com
-0 2 1 36284 1 1785207070
+146.190.120.134
+0 3 2 115257 1 1785309999
 /login
-94.154.43.185
-0 1 1 23259 0 0
+94.154.43.188
+0 1 0 410 1 1785335417
 -
-94.154.43.179
-0 1 1 3409 1 1785219138
-/assets/vendor/libs/@form-validation/umd/plugin-bootstrap5/
+94.154.43.184
+0 1 1 92327 1 1785335418
+/login
 94.154.43.177
-0 1 1 2339 1 1785219138
-/assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
-216.73.216.71
-0 12 6 144 0 0
+0 1 0 226 0 0
 -
+216.73.216.247
+0 2 1 24 0 0
+-
+static.169.73.63.178.clients.your-server.de
+0 2 1 36313 1 1785337664
+/login
 # End Of Table - sites (daily)
 # -referrers- 
 https://www.fizznfreeze.idealgroups.org/assets/vendor/fonts/tabler-icons.css
@@ -616,7 +628,7 @@ https://www.fizznfreeze.idealgroups.org
 https://fizznfreeze.idealgroups.org
 0 10
 - (Direct Request)
-0 1366
+0 1376
 https://fizznfreeze.idealgroups.org/track-order
 0 7
 https://fizznfreeze.idealgroups.org/assets/img/fizzfavicon.svg
@@ -626,7 +638,7 @@ https://fizznfreeze.idealgroups.org/assets/vendor/fonts/tabler-icons.css
 https://fizznfreeze.idealgroups.org/register
 0 2
 https://www.fizznfreeze.idealgroups.org/
-0 7
+0 8
 https://www.fizznfreeze.idealgroups.org/assets/vendor/fonts/fontawesome.css
 0 1
 https://fizznfreeze.idealgroups.org:443
@@ -634,7 +646,7 @@ https://fizznfreeze.idealgroups.org:443
 https://fizznfreeze.idealgroups.org/assets/vendor/fonts/fontawesome.css
 0 3
 https://www.fizznfreeze.idealgroups.org/login
-0 37
+0 39
 https://fizznfreeze.idealgroups.org/login
 0 111
 # End Of Table - referrers
@@ -730,27 +742,27 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (Linux; Android 4.4.3; KFAPWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/44.1.81 like Chrome/44.0.
 0 3
 Mozilla/5.0 (compatible; wp2shell-checker/1.0)
-0 2
-Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0
 0 4
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36
 0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0
+0 4
 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
 0 4
 Mozilla/5.0 (Kubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0
 0 4
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E)
-0 7
 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.40 Mobile Safari/537.36
 0 47
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E)
+0 7
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 0 11
 Mozilla/5.0 (compatible; DuckDuckBot/1.1; +http://duckduckgo.com/duckduckbot.html)
 0 4
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
-0 153
+0 155
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3
 0 129
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -776,17 +788,17 @@ Mozilla/5.0 (compatible; Google-CloudVertexBot; +https://cloud.google.com/vertex
 Mozilla/5.0 (Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 65
+0 68
 Mozilla/5.0 (compatible; GoFastSiteChecker/1.0)
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 0 3
 Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6422.113 Mobile Safari/537.36
 0 2
-Mozilla/5.0 (Debian; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-0 2
 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 0 5
+Mozilla/5.0 (Debian; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+0 2
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0
 0 1
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -797,10 +809,10 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 0 10
 python-httpx/0.28.1
 0 3
-Mozilla/5.0 (compatible; GoogleOther; +https://developers.google.com/search/)
-0 6
 Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
 0 4
+Mozilla/5.0 (compatible; GoogleOther; +https://developers.google.com/search/)
+0 6
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 0 278
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -812,7 +824,7 @@ Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +http
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 0 42
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-0 21
+0 27
 Mozilla/5.0 (PLAYSTATION 3; 1.10)
 0 1
 Mozilla/5.0 (SS; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36

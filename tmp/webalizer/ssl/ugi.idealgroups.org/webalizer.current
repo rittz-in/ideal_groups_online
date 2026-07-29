@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/28/2026 17:11:17
-2026 7 28 17 11 17
-719 0 99 0 5 79 204150 173 101 0
-3 1 275 1 28
+# Webalizer V2.23-08 Incremental Data - 07/29/2026 06:14:13
+2026 7 29 6 14 13
+727 0 101 0 5 81 207317 179 105 0
+3 3 275 1 29
 3 0 1293 2 1 1
 0 0 0 0 0 0
 60 0 17305 2 12 2
@@ -29,17 +29,17 @@
 284 0 65360 6 17 6
 3 0 1035 2 1 1
 5 0 2102 4 3 3
-3 0 1164 3 2 2
-0 0 0 0 0 0
+5 0 1973 5 3 3
+6 0 2358 3 5 3
 0 0 0 0 0 0
 0 0 0 0 0 0
 4 0 1162 4
 7 0 2326 3
 3 0 1065 2
 6 0 1743 2
-5 0 2687 5
+8 0 3980 7
 3 0 1293 0
-3 0 1293 1
+6 0 2358 4
 431 0 106360 39
 2 0 452 0
 6 0 2365 5
@@ -53,9 +53,9 @@
 46 0 18554 26
 10 0 3649 7
 15 0 5979 9
-5 0 2231 4
+6 0 2814 5
 11 0 4004 8
-9 0 3393 5
+10 0 3619 5
 4 0 1648 3
 2
 0
@@ -77,10 +77,10 @@
 0
 0
 0
-98
-249
+104
+250
 0
-318
+319
 0
 0
 52
@@ -180,7 +180,7 @@ r5-15-f.monitoring.internet-measurement.com
 0 2 0 710 0 0
 -
 94.154.43.185
-0 2 0 809 1 1784371595
+0 3 0 1392 2 1785270092
 -
 1a1.crawl.securitytrails.com
 0 2 0 724 2 1784811003
@@ -207,7 +207,7 @@ e4462bfb-4320-4582-8d81-8ea0a2866580.pl-waw-3.baremetal.scw.cloud
 0 7 0 2130 1 1784742244
 -
 94.154.43.188
-0 5 0 2201 3 1785126254
+0 6 0 2784 4 1785299629
 -
 138.197.141.82
 0 2 0 710 1 1784829990
@@ -215,11 +215,11 @@ e4462bfb-4320-4582-8d81-8ea0a2866580.pl-waw-3.baremetal.scw.cloud
 193.149.176.200
 0 1 0 355 1 1784742932
 -
-96.195.132.66.censys-scanner.com
-0 1 0 355 1 1784852382
--
 ec2-35-83-252-63.us-west-2.compute.amazonaws.com
 0 2 0 710 1 1783394109
+-
+96.195.132.66.censys-scanner.com
+0 1 0 355 1 1784852382
 -
 140.172.132.66.censys-scanner.com
 0 1 0 355 1 1784799175
@@ -261,7 +261,7 @@ ec2-34-243-144-170.eu-west-1.compute.amazonaws.com
 0 1 0 226 1 1783728439
 -
 94.154.43.179
-0 1 0 226 0 0
+0 2 0 452 0 0
 -
 165.232.139.48
 0 2 0 710 1 1784293532
@@ -359,6 +359,9 @@ p5dd8474b.dip0.t-ipconnect.de
 243.200.204.35.bc.googleusercontent.com
 0 1 0 226 1 1783343990
 -
+207.241.172.220
+0 3 0 1065 1 1785305653
+-
 173.239.218.151
 0 1 0 83 0 0
 -
@@ -380,6 +383,9 @@ ec2-52-54-96-193.compute-1.amazonaws.com
 ec2-13-219-67-125.compute-1.amazonaws.com
 0 1 0 355 1 1784565699
 -
+216.73.217.18
+0 2 0 710 1 1785299954
+-
 205.210.31.236
 0 1 0 583 1 1783838860
 -
@@ -400,14 +406,14 @@ tor-exit-4
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-scan.visionheight.com
-0 1 0 355 1 1785258677
+94.154.43.188
+0 1 0 583 1 1785299629
 -
-94.154.43.184
-0 1 0 226 0 0
+207.241.172.220
+0 3 0 1065 1 1785305653
 -
-198.235.24.135
-0 1 0 583 1 1785257235
+216.73.217.18
+0 2 0 710 1 1785299954
 -
 # End Of Table - sites (daily)
 # -referrers- 
@@ -416,7 +422,7 @@ https://www.google.com/search
 https://ugi.idealgroups.org/
 0 3
 - (Direct Request)
-0 688
+0 696
 https://www.ugi.idealgroups.org/
 0 25
 https://www.ugi.idealgroups.org
@@ -497,9 +503,9 @@ Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (K
 0 3
 Go-http-client/2.0
 0 3
-Mozilla/5.0 (Macintosh; Intel Mac OS X 15.7; rv:149.0) Gecko/20100101 Firefox/149.0
-0 1
 Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 15.7; rv:149.0) Gecko/20100101 Firefox/149.0
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
 0 1
@@ -516,7 +522,9 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/1
 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.40 Mobile Safari/537.36
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 1
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+0 2
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3
 0 18
 python-requests/2.32.3
@@ -526,11 +534,11 @@ Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Perplexity-User/
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 0 12
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-0 1
+0 2
 Mozilla/5.0 (compatible; Google-CloudVertexBot; +https://cloud.google.com/vertex-ai-bot)
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-0 41
+0 44
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15
 0 2
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -561,6 +569,8 @@ Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHT
 0 16
 SpillBot/1.0 (+https://spill.sh/about; opt-out: https://spill.sh/remove)
 0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 0 1
 Mozilla/5.0 (compatible; wpbot/1.4; +https://forms.gle/ajBaxygz9jSR8p8G9)

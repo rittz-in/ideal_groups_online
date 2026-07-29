@@ -8,35 +8,35 @@ AWSTATS DATA FILE 8.0 (build 20240604)
 # update).
 BEGIN_MAP 28
 POS_GENERAL 2088                
-POS_TIME 2736                
-POS_VISITOR 5876                
-POS_DAY 5948                
-POS_DOMAIN 3300                
-POS_LOGIN 3511                
-POS_ROBOT 3666                
-POS_WORMS 3828                
-POS_EMAILSENDER 3959                
-POS_EMAILRECEIVER 4102                
-POS_SESSION 6004                
-POS_FILESIZE 6202                
-POS_REQUESTTIME 6317                
-POS_SIDER 6141                
-POS_FILETYPES 4237                
-POS_DOWNLOADS 4301                
-POS_OS 4349                
-POS_BROWSER 4414                
-POS_SCREENSIZE 4464                
-POS_UNKNOWNREFERER 4538                
-POS_UNKNOWNREFERERBROWSER 4625                
-POS_ORIGIN 4707                
-POS_SEREFERRALS 4837                
-POS_PAGEREFS 4981                
-POS_SEARCHWORDS 5129                
-POS_KEYWORDS 5281                
-POS_MISC 2400                
-POS_ERRORS 5340                
-POS_CLUSTER 3367                
-POS_SIDER_404 5482                
+POS_TIME 2744                
+POS_VISITOR 5886                
+POS_DAY 5958                
+POS_DOMAIN 3309                
+POS_LOGIN 3520                
+POS_ROBOT 3675                
+POS_WORMS 3837                
+POS_EMAILSENDER 3968                
+POS_EMAILRECEIVER 4111                
+POS_SESSION 6014                
+POS_FILESIZE 6212                
+POS_REQUESTTIME 6327                
+POS_SIDER 6151                
+POS_FILETYPES 4246                
+POS_DOWNLOADS 4310                
+POS_OS 4358                
+POS_BROWSER 4423                
+POS_SCREENSIZE 4473                
+POS_UNKNOWNREFERER 4547                
+POS_UNKNOWNREFERERBROWSER 4634                
+POS_ORIGIN 4716                
+POS_SEREFERRALS 4846                
+POS_PAGEREFS 4990                
+POS_SEARCHWORDS 5138                
+POS_KEYWORDS 5290                
+POS_MISC 2408                
+POS_ERRORS 5349                
+POS_CLUSTER 3376                
+POS_SIDER_404 5492                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -48,10 +48,10 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20260728135142 4 551 13693611905161
+LastLine 20260729054152 244 55003 11453205277146
 FirstTime 0
 LastTime 0
-LastUpdate 20260728191815 4 0 4 0 0
+LastUpdate 20260729192615 244 0 244 0 0
 TotalVisits 0                   
 TotalUnique 0                   
 MonthHostsKnown 0                   
@@ -60,26 +60,26 @@ END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
-TotalMisc 0 0 0
 PDFSupport 0 0 0
-FlashSupport 0 0 0
-RealPlayerSupport 0 0 0
-WindowsMediaPlayerSupport 0 0 0
-AddToFavourites 0 4 0
+QuickTimeSupport 0 0 0
 DirectorSupport 0 0 0
 JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
 JavaEnabled 0 0 0
-QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 4 0
+TotalMisc 0 0 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
 BEGIN_TIME 24
-0 0 0 0 1 1 275
+0 0 0 0 7 7 1925
 1 0 0 0 2 2 550
 2 0 0 0 0 0 0
-3 0 0 0 19 19 4784
+3 0 0 0 25 25 6434
 4 0 0 0 6 6 0
-5 0 0 0 1229 1284 301670
+5 0 0 0 1415 1510 359501
 6 0 0 0 61 63 10222
 7 0 0 0 7 8 2142
 8 0 0 0 1 2 452
@@ -92,7 +92,7 @@ BEGIN_TIME 24
 15 0 0 0 1 1 275
 16 0 0 0 0 0 0
 17 0 0 0 16 17 1876
-18 0 0 0 11 11 3025
+18 0 0 0 17 17 4675
 19 0 0 0 16 18 4912
 20 0 0 0 12 12 3300
 21 0 0 0 17 18 4445
@@ -194,19 +194,19 @@ END_KEYWORDS
 
 # Errors - Hits - Bandwidth
 BEGIN_ERRORS 5
-403 26 9230
-404 4 1420
-301 914 262123
-409 432 35856
 406 187 42262
+404 4 1420
+301 1122 321916
+403 26 9230
+409 468 38844
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
 BEGIN_SIDER_404 4
-/%2fbackend%2f.env 1 -
 /%2f.aws%2fcredentials 1 -
-/%2f.env 1 -
+/%2fbackend%2f.env 1 -
 /%2fpublic%2f.env 1 -
+/%2f.env 1 -
 END_SIDER_404
 
 # Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
@@ -230,10 +230,10 @@ END_SIDER
 
 # Payload Range - Payload Frequency
 BEGIN_FILESIZE 4
-44-100 432
-0-44 16
-100-500 1119
 5K+ 1
+100-500 1327
+44-100 468
+0-44 16
 END_FILESIZE
 
 # Request Time Range - Request Time Frequency

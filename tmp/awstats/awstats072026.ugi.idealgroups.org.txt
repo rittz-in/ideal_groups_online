@@ -8,35 +8,35 @@ AWSTATS DATA FILE 8.0 (build 20240604)
 # update).
 BEGIN_MAP 28
 POS_GENERAL 2088                
-POS_TIME 2750                
-POS_VISITOR 6014                
-POS_DAY 6301                
-POS_DOMAIN 3314                
-POS_LOGIN 3557                
-POS_ROBOT 3712                
-POS_WORMS 3844                
-POS_EMAILSENDER 3975                
-POS_EMAILRECEIVER 4118                
-POS_SESSION 6376                
-POS_FILESIZE 6805                
-POS_REQUESTTIME 6911                
-POS_SIDER 6522                
-POS_FILETYPES 4253                
-POS_DOWNLOADS 4335                
-POS_OS 4383                
-POS_BROWSER 4460                
-POS_SCREENSIZE 4534                
-POS_UNKNOWNREFERER 4608                
-POS_UNKNOWNREFERERBROWSER 4836                
-POS_ORIGIN 4956                
-POS_SEREFERRALS 5086                
-POS_PAGEREFS 5230                
-POS_SEARCHWORDS 5378                
-POS_KEYWORDS 5530                
-POS_MISC 2413                
-POS_ERRORS 5589                
-POS_CLUSTER 3413                
-POS_SIDER_404 5705                
+POS_TIME 2759                
+POS_VISITOR 6029                
+POS_DAY 6316                
+POS_DOMAIN 3328                
+POS_LOGIN 3571                
+POS_ROBOT 3726                
+POS_WORMS 3858                
+POS_EMAILSENDER 3989                
+POS_EMAILRECEIVER 4132                
+POS_SESSION 6391                
+POS_FILESIZE 6820                
+POS_REQUESTTIME 6927                
+POS_SIDER 6537                
+POS_FILETYPES 4267                
+POS_DOWNLOADS 4349                
+POS_OS 4397                
+POS_BROWSER 4474                
+POS_SCREENSIZE 4548                
+POS_UNKNOWNREFERER 4622                
+POS_UNKNOWNREFERERBROWSER 4850                
+POS_ORIGIN 4970                
+POS_SEREFERRALS 5100                
+POS_PAGEREFS 5244                
+POS_SEARCHWORDS 5392                
+POS_KEYWORDS 5544                
+POS_MISC 2422                
+POS_ERRORS 5603                
+POS_CLUSTER 3427                
+POS_SIDER_404 5720                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -48,10 +48,10 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20260728161500 7 678 16993130167513
+LastLine 20260729061412 759 180157 14698586679984
 FirstTime 0
 LastTime 20260722162429
-LastUpdate 20260728191814 7 0 7 0 0
+LastUpdate 20260729192613 759 0 759 0 0
 TotalVisits 6                   
 TotalUnique 6                   
 MonthHostsKnown 0                   
@@ -61,15 +61,15 @@ END_GENERAL
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
 JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
 RealPlayerSupport 0 0 0
+AddToFavourites 0 99 0
+WindowsMediaPlayerSupport 0 0 0
 PDFSupport 0 0 0
 FlashSupport 0 0 0
-QuickTimeSupport 0 0 0
-AddToFavourites 0 99 0
-JavaEnabled 0 0 0
-WindowsMediaPlayerSupport 0 0 0
 TotalMisc 0 0 0
 DirectorSupport 0 0 0
+JavaEnabled 0 0 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
@@ -80,7 +80,7 @@ BEGIN_TIME 24
 3 0 0 0 6 6 1650
 4 0 0 0 1 1 226
 5 0 0 0 2 2 578
-6 0 0 0 2 2 578
+6 0 0 0 5 5 1403
 7 0 0 0 0 0 0
 8 0 0 0 2 2 309
 9 0 0 0 9 10 2720
@@ -94,7 +94,7 @@ BEGIN_TIME 24
 17 0 0 0 226 412 114940
 18 0 0 0 15 17 4761
 19 0 0 0 25 26 6918
-20 0 0 0 34 35 9185
+20 0 0 0 697 791 232647
 21 0 0 0 10 10 2790
 22 0 0 0 0 0 0
 23 0 0 0 12 12 3300
@@ -163,8 +163,8 @@ END_SCREENSIZE
 
 # Unknown referer OS - Last visit date
 BEGIN_UNKNOWNREFERER 2
-Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20260722162429
 Cpanel-HTTP-Client/1.0 20260722162414
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20260722162429
 END_UNKNOWNREFERER
 
 # Unknown referer Browser - Last visit date
@@ -203,9 +203,9 @@ END_KEYWORDS
 
 # Errors - Hits - Bandwidth
 BEGIN_ERRORS 3
-301 775 218569
+409 51 4233
+301 1523 441943
 406 53 11978
-409 40 3320
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
@@ -217,11 +217,11 @@ END_SIDER_404
 # The 25 first Hits must be first (order not required for others)
 BEGIN_VISITOR 6
 119.18.54.35 2 2 128 20260722162414
+23.178.112.107 1 1 87 20260722162428
 34.220.224.113 1 1 87 20260722162429
 3.20.232.246 1 1 87 20260722162429
-23.178.112.107 1 1 87 20260722162428
-13.60.186.2 1 1 87 20260722162428
 54.151.164.58 1 1 87 20260722162428
+13.60.186.2 1 1 87 20260722162428
 END_VISITOR
 
 # Date - Pages - Hits - Bandwidth - Visits
@@ -244,9 +244,9 @@ END_SIDER
 
 # Payload Range - Payload Frequency
 BEGIN_FILESIZE 3
-100-500 922
+100-500 1670
 0-44 5
-44-100 47
+44-100 58
 END_FILESIZE
 
 # Request Time Range - Request Time Frequency

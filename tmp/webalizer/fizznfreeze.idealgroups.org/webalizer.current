@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/28/2026 17:03:35
-2026 7 28 17 3 35
-534 282 99 43 14 62 12990981 198 84 0
-1 17 107 1 28
+# Webalizer V2.23-08 Incremental Data - 07/29/2026 07:26:32
+2026 7 29 7 26 32
+569 304 102 43 14 65 13739459 216 87 0
+2 3 107 1 29
 3 0 678 1 2 1
 4 3 115260 1 2 1
 4 0 0 1 0 0
@@ -29,8 +29,8 @@
 16 6 304436 5 11 4
 49 30 812950 8 26 8
 37 7 384847 8 15 6
-17 2 188146 1 3 1
-0 0 0 0 0 0
+20 4 303396 2 5 2
+32 20 633228 2 16 2
 0 0 0 0 0 0
 0 0 0 0 0 0
 11 7 224138 8
@@ -38,9 +38,9 @@
 36 22 516396 12
 2 1 92694 2
 9 2 36511 5
-4 3 115252 2
+33 21 633233 16
 7 5 230506 4
-32 6 304729 15
+35 8 419976 17
 6 4 151513 4
 19 2 188229 4
 6 4 230484 4
@@ -52,7 +52,7 @@
 111 92 3890727 25
 121 89 4932089 29
 36 9 429932 22
-8 4 300979 7
+11 6 416229 9
 15 6 224783 10
 17 6 224812 9
 3 2 115255 2
@@ -60,7 +60,7 @@
 0
 0
 0
-282
+304
 0
 0
 0
@@ -69,7 +69,7 @@
 0
 0
 10
-78
+81
 0
 0
 0
@@ -78,7 +78,7 @@
 0
 0
 0
-56
+66
 0
 84
 0
@@ -100,21 +100,21 @@
 0
 # -urls- 
 /assets/vendor/libs/sweetalert2/sweetalert2.js
-0 5 7594809989982218604 203890 0 0
+0 6 7594809989982218604 244668 0 0
 /assets/img/illustrations/login-img.png
 0 4 0 435372 0 0
 /assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js
-0 5 0 59845 0 0
+0 6 0 71814 0 0
 /assets/vendor/libs/node-waves/node-waves.js
-0 5 0 36550 0 0
+0 6 0 43860 0 0
+/assets/vendor/libs/jquery/jquery.js
+0 5 0 563625 0 0
 /register
 0 1 0 37016 0 0
-/assets/vendor/libs/jquery/jquery.js
-0 4 0 450900 0 0
 /assets/vendor/libs/hammer/hammer.js
-0 5 0 128440 0 0
+0 6 0 154128 0 0
 /assets/vendor/libs/typeahead-js/typeahead.js
-0 5 0 122810 0 0
+0 6 0 147372 0 0
 /assets/img/illustrations/bg-shape-image-light.png
 0 4 0 7024 0 0
 /assets/vendor/css/rtl/core.css
@@ -142,13 +142,13 @@
 /assets/vendor/fonts/tabler/tabler-icons.woff2
 0 4 0 2809088 0 0
 /login
-0 76 0 3534027 7 3
+0 79 0 3642291 7 3
 /assets/img/illustrations/bg-shape-image.png
 0 4 0 64692 0 0
 /assets/vendor/css/pages/page-auth.css
-0 4 0 4372 0 0
+0 5 0 5465 0 0
 /assets/img/fizzfavicon.svg
-0 30 0 2368260 0 0
+0 32 0 2526144 0 0
 /assets/vendor/libs/sweetalert2/sweetalert2.css
 0 4 0 34916 0 0
 /assets/vendor/libs/@form-validation/umd/styles/
@@ -160,31 +160,31 @@
 /assets/vendor/fonts/tabler-icons.css
 0 4 0 125360 0 0
 /assets/vendor/js/helpers.js
-0 5 0 61895 0 0
+0 6 0 74274 0 0
 /assets/vendor/libs/@form-validation/umd/bundle/popular.min.js
-0 5 0 142555 0 0
+0 6 0 171066 0 0
 /assets/js/config.js
-0 5 0 3350 0 0
+0 6 0 4020 0 0
 /.well-known/acme-challenge/0iBFGmbtM5Fy0YDmpfQj_hPRYPRIyLAS139LegBoKYU
 0 5 0 435 0 0
 /assets/js/main.js
-0 5 0 36045 0 0
+0 6 0 43254 0 0
 /assets/vendor/libs/popper/popper.js
-0 5 0 51355 0 0
+0 6 0 61626 0 0
 /assets/vendor/js/menu.js
-0 5 0 62505 0 0
+0 6 0 75006 0 0
 /assets/vendor/libs/node-waves/node-waves.css
 0 4 0 3992 0 0
 /.well-known/acme-challenge/ORMB3Q6QXK419MLBKY9L3HS17DCFB5JF
 0 1 0 64 0 0
 /assets/vendor/libs/@form-validation/umd/plugin-bootstrap5/
-0 5 0 6425 0 0
+0 6 0 7710 0 0
 /assets/vendor/js/bootstrap.js
-0 5 0 914370 0 0
+0 6 0 1097244 0 0
 /assets/js/pages-auth.js
-0 6 0 5274 0 0
+0 7 0 6153 0 0
 /assets/vendor/libs/@form-validation/umd/plugin-auto-focus/
-0 5 0 4965 0 0
+0 6 0 5958 0 0
 # End Of Table - urls
 # -sites- (monthly)
 ec2-52-90-116-81.compute-1.amazonaws.com
@@ -222,6 +222,12 @@ preece.probe.onyphe.net
 /login
 64.225.56.152
 0 3 2 115230 1 1784542300
+/login
+146.190.120.134
+0 3 2 115247 1 1785309991
+/login
+165.227.216.9
+0 3 2 115250 1 1785267432
 /login
 164.92.126.211
 0 3 2 115253 1 1784050537
@@ -373,6 +379,9 @@ ec2-16-170-35-170.eu-north-1.compute.amazonaws.com
 r5-112-70.monitoring.internet-measurement.com
 0 2 1 36313 1 1783175064
 /login
+91.92.42.30
+0 29 18 517981 1 1785303670
+-
 maia.probe.onyphe.net
 0 1 0 293 1 1784916362
 -
@@ -486,21 +495,24 @@ ec2-13-61-10-95.eu-north-1.compute.amazonaws.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-82.102.18.118
-0 17 2 188146 1 1785258211
+146.190.120.134
+0 3 2 115247 1 1785309991
 /login
+91.92.42.30
+0 29 18 517981 1 1785303670
+-
 # End Of Table - sites (daily)
 # -referrers- 
 http://www.fizznfreeze.idealgroups.org/login
-0 69
+0 71
 http://fizznfreeze.idealgroups.org/app
 0 1
 http://fizznfreeze.idealgroups.org
-0 16
+0 17
 https://fizznfreeze.idealgroups.org
 0 1
 - (Direct Request)
-0 347
+0 379
 http://www.fizznfreeze.idealgroups.org/assets/vendor/fonts/tabler-icons.css
 0 2
 http://www.fizznfreeze.idealgroups.org
@@ -567,6 +579,10 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 0 34
 visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
 0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/114.0.5735.110 Safari/537.36
+0 6
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/113.0.0.0 Safari/537.36
+0 12
 Mozilla/5.0 (Macintosh; Intel Mac OS X 15.7; rv:149.0) Gecko/20100101 Firefox/149.0
 0 7
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -578,7 +594,7 @@ Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Perplexity-User/
 Cpanel-HTTP-Client/1.0
 0 2
 Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
-0 12
+0 15
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
 0 17
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -613,8 +629,10 @@ Mozilla/5.0 (Kubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0
 0 3
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15
+0 11
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-0 9
+0 12
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Sa

@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/29/2026 06:14:12
-2026 7 29 6 14 12
-1733 7 83 3 5 66 487419 1087 75 0
-1 3 756 1 29
+# Webalizer V2.23-08 Incremental Data - 07/30/2026 17:05:44
+2026 7 30 17 5 44
+1792 7 87 3 22 75 500811 1092 77 0
+2 4 756 1 30
 16 0 4281 3 13 2
 1 0 279 1 1 1
 2 0 561 1 1 1
@@ -30,8 +30,8 @@
 127 0 28881 5 77 5
 21 0 5740 4 18 3
 757 0 223737 2 591 2
-3 0 825 1 3 1
-0 0 0 0 0 0
+5 0 1277 3 3 1
+57 0 12940 2 5 2
 0 0 0 0 0 0
 3 0 833 3
 99 0 21598 55
@@ -44,17 +44,17 @@
 2 0 309 1
 10 0 2720 8
 0 0 0 0
-8 0 2008 7
+61 0 13832 8
 0 0 0 0
 19 0 5300 18
 23 0 6340 22
 14 0 3747 13
 272 7 75061 139
-412 0 114940 134
+416 0 116056 138
 17 0 4761 15
 26 0 6918 25
 791 0 232647 615
-10 0 2790 10
+12 0 3242 10
 0 0 0 0
 12 0 3300 12
 0
@@ -68,7 +68,7 @@
 0
 0
 0
-1622
+1660
 0
 0
 0
@@ -80,10 +80,10 @@
 0
 0
 0
-53
+58
 0
 0
-51
+67
 0
 0
 0
@@ -102,9 +102,9 @@
 /.well-known/acme-challenge/8SFNY6V-3LN8079Y12HYB2TDKFX3MU5_
 0 1 0 64 0 0
 /.well-known/acme-challenge/zYYSJY_4nx5X7GXQo6Uemgtngv_PVriP2LWgI3hBWZY
-0 5 0 435 0 0
+0 5 7526766700158350693 435 0 0
 /.well-known/acme-challenge/XGMABLVXZJAPWLMMNHCOZH4N5NG3F5KC
-0 1 0 64 0 0
+0 1 29873456 64 0 0
 # End Of Table - urls
 # -sites- (monthly)
 88.4.11.34.bc.googleusercontent.com
@@ -127,6 +127,9 @@ outbound1h.letsencrypt.org
 -
 ec2-54-173-131-118.compute-1.amazonaws.com
 0 6 0 1674 1 1785097696
+-
+193.200.229.243
+0 1 0 226 0 0
 -
 194.103.137.158
 0 1 0 279 1 1783861951
@@ -185,6 +188,9 @@ scan.visionheight.com
 178.73.248.186
 0 1 0 279 1 1783861952
 -
+fragile-demise.vmheaven.io
+0 53 0 11824 1 1785409859
+-
 81.3.34.34.bc.googleusercontent.com
 0 4 0 1100 1 1784737530
 -
@@ -209,6 +215,9 @@ e4462bfb-4320-4582-8d81-8ea0a2866580.pl-waw-3.baremetal.scw.cloud
 138.197.141.82
 0 2 0 569 1 1784829989
 -
+pingj.lsd.cat
+0 1 0 226 0 0
+-
 168.144.41.179
 0 3 0 678 1 1782918848
 -
@@ -232,6 +241,9 @@ chan.probe.onyphe.net
 -
 193.235.141.7
 0 1 0 279 1 1783861949
+-
+63.111.107.136.bc.googleusercontent.com
+0 4 0 1116 1 1785431144
 -
 193.183.107.141
 0 1 0 279 1 1783861952
@@ -358,21 +370,58 @@ ec2-3-20-232-246.us-east-2.compute.amazonaws.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-207.241.172.220
-0 3 0 825 1 1785305652
+fragile-demise.vmheaven.io
+0 53 0 11824 1 1785409859
+-
+63.111.107.136.bc.googleusercontent.com
+0 4 0 1116 1 1785431144
 -
 # End Of Table - sites (daily)
 # -referrers- 
+http://ugi.idealgroups.org/.env-config.js
+0 1
+http://ugi.idealgroups.org/.env.js
+0 1
 http://ugi.idealgroups.org
 0 1
 http://ugi.idealgroups.org/
-0 56
+0 92
 - (Direct Request)
-0 1631
+0 1634
+http://ugi.idealgroups.org/.aws/credentials
+0 1
+http://ugi.idealgroups.org/settings.py
+0 1
+http://ugi.idealgroups.org/config/parameters.yml
+0 1
+http://ugi.idealgroups.org/config/application.yml
+0 1
+http://ugi.idealgroups.org/app/config/parameters.yml
+0 1
+http://ugi.idealgroups.org/server.js
+0 1
+http://ugi.idealgroups.org/appsettings.json
+0 1
 http://www.ugi.idealgroups.org/
-0 40
+0 42
+http://ugi.idealgroups.org/.git/config
+0 1
+http://ugi.idealgroups.org/application.yml
+0 1
+http://ugi.idealgroups.org/config.json
+0 1
+http://ugi.idealgroups.org/docker-compose.yml
+0 1
+http://ugi.idealgroups.org/app.js
+0 1
+http://ugi.idealgroups.org/composer.json
+0 1
+http://ugi.idealgroups.org/config.js
+0 1
+http://ugi.idealgroups.org/.gitconfig
+0 1
 http://www.ugi.idealgroups.org
-0 5
+0 6
 # End Of Table - referrers
 # -agents- 
 Mozilla/5.0
@@ -395,6 +444,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/605.1.15 (KHTML, like Geck
 0 32
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 0 63
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15
+0 7
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -405,8 +456,12 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 0 40
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+0 8
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36
 0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 4
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
 0 32
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
@@ -426,7 +481,7 @@ Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKi
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
 0 6
 Go-http-client/1.1
-0 1
+0 3
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
 0 18
 visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
@@ -451,6 +506,8 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/12
 0 4
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+0 7
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 0 6
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
@@ -469,18 +526,26 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 0 4
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15
 0 31
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0
+0 3
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 0 4
 python-httpx/0.28.1
 0 3
 Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
 0 45
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+0 4
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 0 64
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/131.0.6778.85 Safari/537.36
 0 6
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; rv:93.0) Gecko/20100101 Firefox/93.0
 0 31
+Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0
+0 4
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; rv:90.0) Gecko/20100101 Firefox/90.0.1
 0 1
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
@@ -501,10 +566,12 @@ Mozilla/5.0 (Android 14; Mobile; rv:123.0) Gecko/123.0 Firefox/123
 0 10
 Python-urllib/3.10
 0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 7
 Mozilla/5.0 (compatible; CMS-Checker/1.0; +https://example.com)
-0 25
+0 29
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
-0 6
+0 12
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36
 0 31
 # End Of Table - agents

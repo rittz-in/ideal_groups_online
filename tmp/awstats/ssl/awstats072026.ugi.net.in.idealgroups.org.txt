@@ -9,34 +9,34 @@ AWSTATS DATA FILE 8.0 (build 20240604)
 BEGIN_MAP 28
 POS_GENERAL 2099                
 POS_TIME 2768                
-POS_VISITOR 12821               
-POS_DAY 12997               
-POS_DOMAIN 3370                
-POS_LOGIN 3595                
-POS_ROBOT 3750                
-POS_WORMS 3992                
-POS_EMAILSENDER 4123                
-POS_EMAILRECEIVER 4266                
-POS_SESSION 13114               
-POS_FILESIZE 13357               
-POS_REQUESTTIME 13484               
-POS_SIDER 13260               
-POS_FILETYPES 4401                
-POS_DOWNLOADS 4527                
-POS_OS 4575                
-POS_BROWSER 4675                
-POS_SCREENSIZE 4800                
-POS_UNKNOWNREFERER 4874                
-POS_UNKNOWNREFERERBROWSER 4961                
-POS_ORIGIN 5043                
-POS_SEREFERRALS 5173                
-POS_PAGEREFS 5317                
-POS_SEARCHWORDS 5465                
-POS_KEYWORDS 5617                
+POS_VISITOR 13010               
+POS_DAY 13186               
+POS_DOMAIN 3377                
+POS_LOGIN 3602                
+POS_ROBOT 3757                
+POS_WORMS 3999                
+POS_EMAILSENDER 4130                
+POS_EMAILRECEIVER 4273                
+POS_SESSION 13303               
+POS_FILESIZE 13546               
+POS_REQUESTTIME 13673               
+POS_SIDER 13449               
+POS_FILETYPES 4408                
+POS_DOWNLOADS 4534                
+POS_OS 4582                
+POS_BROWSER 4682                
+POS_SCREENSIZE 4807                
+POS_UNKNOWNREFERER 4881                
+POS_UNKNOWNREFERERBROWSER 4968                
+POS_ORIGIN 5050                
+POS_SEREFERRALS 5180                
+POS_PAGEREFS 5324                
+POS_SEARCHWORDS 5472                
+POS_KEYWORDS 5624                
 POS_MISC 2432                
-POS_ERRORS 5676                
-POS_CLUSTER 3451                
-POS_SIDER_404 5846                
+POS_ERRORS 5683                
+POS_CLUSTER 3458                
+POS_SIDER_404 5853                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -48,10 +48,10 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20260729172758 294 81646 10013582838687
+LastLine 20260730135146 110 23200 17190761119419
 FirstTime 0
 LastTime 20260711220027
-LastUpdate 20260729192614 294 0 294 0 0
+LastUpdate 20260730191709 110 0 110 0 0
 TotalVisits 2                   
 TotalUnique 2                   
 MonthHostsKnown 0                   
@@ -61,41 +61,41 @@ END_GENERAL
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
 TotalMisc 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
 QuickTimeSupport 0 0 0
-JavascriptDisabled 0 0 0
+AddToFavourites 0 3 0
 DirectorSupport 0 0 0
 RealPlayerSupport 0 0 0
-WindowsMediaPlayerSupport 0 0 0
-PDFSupport 0 0 0
 JavaEnabled 0 0 0
-FlashSupport 0 0 0
-AddToFavourites 0 3 0
+JavascriptDisabled 0 0 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
 BEGIN_TIME 24
 0 0 0 0 8 8 62938
-1 0 2 147609 514 515 100481
+1 0 2 147609 515 517 100836
 2 0 0 0 7 8 22286
-3 0 0 0 9 10 47959
+3 0 0 0 17 18 50799
 4 0 0 0 23 23 45915
 5 0 0 0 2 2 1166
 6 0 0 0 2 2 809
-7 0 0 0 141 142 529629
+7 0 0 0 154 156 533857
 8 0 0 0 9 11 1675
 9 0 0 0 12 14 22303
 10 0 0 0 3 3 41032
 11 1 1 244 359 364 325340
 12 0 0 0 7 7 12973
-13 0 0 0 4 5 671
+13 0 0 0 7 10 1607
 14 0 0 0 47 47 24478
 15 0 0 0 7 7 1259
 16 0 0 0 230 278 119707
-17 0 0 0 15 20 5295
-18 0 0 0 4 6 355
-19 0 0 0 7 7 809
-20 0 0 0 17 28 146055
-21 0 0 0 6 6 1415
+17 0 0 0 63 79 26515
+18 0 0 0 5 7 710
+19 0 0 0 18 26 6336
+20 0 0 0 18 29 146638
+21 0 0 0 7 7 1998
 22 1 1 6255 6 6 6799
 23 0 0 0 7 7 18622
 END_TIME
@@ -119,8 +119,8 @@ END_LOGIN
 # The 25 first Hits must be first (order not required for others)
 BEGIN_ROBOT 3
 bot[\s_+:,\.\;\/\\-] 2 214 20260709082653 2
-unknown 1 107 20260703112523 1
 Applebot/ 1 48047 20260710072853 0
+unknown 1 107 20260703112523 1
 END_ROBOT
 
 # Worm ID - Hits - Bandwidth - Last visit
@@ -140,10 +140,10 @@ END_EMAILRECEIVER
 
 # Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
 BEGIN_FILETYPES 4
-js 1 111433 0 0
-css 1 36176 0 0
 xml 1 244 0 0
 html 1 6255 0 0
+css 1 36176 0 0
+js 1 111433 0 0
 END_FILETYPES
 
 # Downloads - Hits - Bandwidth
@@ -152,17 +152,17 @@ END_DOWNLOADS
 
 # OS ID - Hits
 BEGIN_OS ID - Hits - Pages 3
-win10 1 1
 macosx15 2 0
+win10 1 1
 android 1 1
 END_OS
 
 # Browser ID - Hits - Pages
 BEGIN_BROWSER 4
 chrome146.0.0.0 1 1
+chrome131.0.0.0 1 1
 firefox89.0.2 1 0
 safari14.1.2 1 0
-chrome131.0.0.0 1 1
 END_BROWSER
 
 # Screen size - Hits
@@ -209,306 +209,309 @@ END_KEYWORDS
 # Errors - Hits - Bandwidth
 BEGIN_ERRORS 8
 301 49 0
-400 1 125
-404 457 1334307
 421 2 724
-406 355 80230
-403 73 29156
-409 567 47061
+406 394 88818
+403 95 37725
 302 4 0
+409 567 47061
+400 1 125
+404 499 1353777
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
-BEGIN_SIDER_404 281
-/.env.live 2 -
-/main.js 1 -
-/.cursor/mcp.json 2 -
-/hcloud.yml 1 -
-/assets/manifest.json 1 -
-/.env.preprod 1 -
-/actuator/configprops 1 -
-/docker-compose.yaml 3 -
-/_profiler/phpinfo 1 -
-/blog-verify 6 -
-/_environment 1 -
-/wp-json/gutenkit/v1/install-active-plugin 1 -
-/components/com_sppagebuilder/assets/css/sppagebuilder.css 1 -
-/config.js 3 -
-/.env.txt 1 -
-/.continue/config.json 1 -
-/webpack-stats.json 1 -
-/.next/build-manifest.json 1 -
-/env 2 -
-/gcp-service-account.json 1 -
-/.ssh/id_ecdsa 1 -
-/config.yml 1 -
-/secrets.yml 2 -
-/serverless.yaml 1 -
-/.envrc 1 -
-/.env.production.local 1 -
-/config/application.properties 2 -
-/.docker/config.json 4 -
-/root/.config/gcloud/credentials.db 1 -
-/sh88423716 1 -
-/google-services.json 1 -
-/.env.yaml 1 -
-/service-account.json 5 -
-/.anthropic/config.json 1 -
-/.env.yml 1 -
-/.env.backup2 1 -
-/wp-json/ 3 -
-/home/ubuntu/.config/gcloud/application_default_credentials.json 1 -
-/.streamlit/secrets.toml 3 -
-/config.json 4 -
-/cms/ 1 -
-/.astro/manifest.json 1 -
-/site/wp-json/ 1 -
-/keyfile.json 2 -
-/wp-content/plugins/waves/style.css 1 -
-/.pypirc 2 -
-/ecosystem.config.js 1 -
-/assets/vendor/swiper/swiper-bundle.min.js 1 -
-/gradle.properties 1 -
-/.aws/credentials 7 -
-/sendgrid.env 1 -
-/.openai/config.json 1 -
-/.hermes/config.yaml 1 -
+BEGIN_SIDER_404 284
+/config.toml 1 -
+/settings 1 -
 /.git-credentials 2 -
-/.github/workflows/deploy.yml 1 -
-/sa.json 1 -
-/js/main.js 1 -
-/local.settings.json 1 -
-/wp-json/wp/v2/users 1 -
-/static/js/main.js 1 -
-/docker-compose.prod.yml 1 -
-/info 1 -
 /wordpress/wp-json/ 1 -
-/zz-nonexistent-test-8492.html 2 -
-/private-key 1 -
-/actuator/env 3 -
-/_next/build-manifest.json 1 -
-/ads.txt 3 -
-/.boto 1 -
+/serverless.yml 1 -
+/.env.yaml 1 -
 /static/js/bundle.js 1 -
-/js/env.js 2 -
-/appsettings.Production.json 3 -
-/home/ubuntu/.vultr-cli.yaml 1 -
-/rclone.conf 1 -
-/.env.backup1 1 -
-/.env1 1 -
 /_nuxt/manifest.json 1 -
-/_nuxt/builds/latest.json 1 -
-/blog/ 1 -
+/.env.staging 6 -
+/assets/index.js 1 -
+/.env.test 3 -
+/storage/logs/laravel.log 2 -
+/build/static/js/main.js 1 -
+/wp-json/ 3 -
+/id_ecdsa 1 -
+/actuator/configprops 1 -
+/home/ubuntu/.config/hcloud/cli.toml 1 -
+/webpack-stats.json 1 -
+/static/manifest.json 1 -
+/gradle.properties 1 -
+/.env.stage 2 -
+/chunk.js 1 -
+/home/ec2-user/.aws/credentials 1 -
+/hcloud.yml 1 -
+/application.yml 2 -
+/root/.config/gcloud/credentials.db 1 -
+/js/env.js 4 -
+/.pypirc 2 -
+/home/ubuntu/.vultr-cli.yaml 1 -
+/.DS_Store 2 -
+/.boto 1 -
+/google-credentials.json 5 -
+/.env.remote 1 -
+/application.yaml 1 -
+/.zshrc 1 -
+/root/.vultr-cli.yaml 1 -
+/wp-remote-api 1 -
+/service_account.json 1 -
+/vendor.js 1 -
+/.env.production 14 -
+/conf/settings.json 1 -
+/robots.txt 4 -
+/.env.backup2 1 -
+/build-manifest.json 1 -
+/wp-content/plugins/fancy-elementor-gallery-box/assets/js/fancy-elementor-flipbox.js 2 -
+/config/database.yml 2 -
+/server.key 1 -
+/google-cloud-key.json 1 -
+/config/default.json 1 -
+/appsettings.Development.json 1 -
+/config/application.properties 2 -
+/.env_copy 1 -
+/.env.json 1 -
+/host.key 1 -
+/site/ 1 -
+/cdp_api_key.json 1 -
+/.s3cfg 1 -
+/wp-content/plugins/cidaas-pro-master/composer.json 2 -
+/wp-json/wp/v2/users 1 -
+/bundle.js 1 -
+/root/.config/linode-cli 1 -
+/.anthropic/config.json 1 -
+/ads.txt 5 -
+/.hermes/config.yaml 1 -
+/.next/build-manifest.json 1 -
+/.env.development.local 1 -
+/config/gcp.json 1 -
+/config.yml 1 -
+/home/ubuntu/.aws/credentials 1 -
+/.profile 1 -
+/info 1 -
+/assets/vendor/isotope-layout/isotope.pkgd.min.js 1 -
+/.env.ci 1 -
+/home/ubuntu/.config/linode-cli 1 -
+/application_default_credentials.json 2 -
+/sellers.json 5 -
+/.env.production.local 1 -
+/.streamlit/secrets.toml 3 -
 /root/.config/gcloud/application_default_credentials.json 1 -
-/firebase-credentials.json 1 -
-/data/config.json 1 -
+/debug/vars 1 -
+/.continue/config.json 1 -
+/.gitconfig 1 -
+/config/storage.yml 1 -
+/rclone.conf 1 -
+/js/app.js 1 -
+/gcp-service-account.json 1 -
+/secrets.yml 2 -
+/.env.prod 4 -
+/open/ 2 https://www.ugi.net.in.idealgroups.org/
+/.openclaw/agents/main/agent/models.json 1 -
+/.env.dist 2 -
+/auth.json 1 -
+/.config/anthropic/credentials/default.json 1 -
+/docker-compose.yml 1 -
+/stats.json 1 -
+/config.yaml 1 -
+/.github/workflows/deploy.yml 1 -
+/home/node/.aws/credentials 1 -
+/serviceAccountKey.json 2 -
+/../.env 1 -
+/.env.dev 5 -
+/.env.yml 1 -
+/api/gateway/heartbeat 2 https://www.ugi.net.in.idealgroups.org/
+/wordpress/ 1 -
 /google-service-account.json 1 -
 /config/development.json 1 -
-/.env.local 9 -
-/gcp-key.json 1 -
-/.env.dist 2 -
-/dist/manifest.json 1 -
-/.env.stage 2 -
-/application.yml 2 -
-/.env.prod 4 -
-/console 1 -
-/phpinfo 1 -
-/.gcp/credentials.json 1 -
-/.env.production 11 -
-/.env_copy 1 -
-/secrets.py 1 -
-/conf/settings.json 1 -
-/firebase-service-account.json 1 -
-/.gitlab-ci.yml 1 -
-/home/ubuntu/.config/linode-cli 1 -
-/cdp_api_key.json 1 -
-/dist/app.js 1 -
-/app 1 -
-/wp-json/hc/v1/themehunk-import 2 -
-/.gcp/service-account.json 1 -
-/env.json 1 -
-/wp/wp-json/ 1 -
-/app/credentials.json 1 -
-/settings.js 3 -
-/.bash_profile 1 -
-/config/storage.yml 1 -
-/wp-remote-api 1 -
-/dist/bundle.js 1 -
-/.gitconfig 1 -
-/wp/ 1 -
-/config/secrets.yml 4 -
-/config 1 -
-/chunk.js 1 -
-/appsettings.Development.json 1 -
-/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js 1 -
-/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/css/frontend.css 1 -
-/.env.tmp 1 -
-/bootstrap.yml 1 -
-/static/js/app.js 1 -
-/docker-compose.dev.yml 1 -
-/credentials.json 4 -
-/application_default_credentials.json 2 -
-/google-key.json 1 -
-/settings 1 -
-/wp-content/plugins/cidaas-pro-master/composer.json 2 -
-/service_account.json 1 -
-/bootstrap.properties 1 -
-/.DS_Store 2 -
-/.env.development.local 1 -
-/config/database.yml 2 -
-/.claude/settings.json 1 -
-/bundle.js 1 -
-/.ssh/config 1 -
-/wp-content/plugins/fancy-elementor-gallery-box/assets/js/fancy-elementor-flipbox.js 2 -
-/google-cloud-key.json 1 -
-/root/.config/hcloud/cli.toml 1 -
-/wp-includes/.cache_key 1 -
-/docker-compose.yml 1 -
-/build-manifest.json 1 -
-/.env2 1 -
-/app.bundle.js 1 -
-/config.toml 1 -
-/.mcp.json 1 -
-/api/config 3 -
-/docker-compose.override.yml 1 -
-/sh68732251005414203377 1 -
-/server.js 1 -
-/assets/vendor/glightbox/js/glightbox.min.js 1 -
-/.env.template 1 -
-/app.js 1 -
-/firebase-adminsdk.json 3 -
-/.openclaw/openclaw.json 2 -
-/.kube/config 1 -
-/config/master.key 2 -
-/vendor.js 1 -
-/.linode-cli 1 -
-/debug/vars 1 -
-/js/app.js 1 -
-/.flaskenv 1 -
-/assets/vendor/isotope-layout/isotope.pkgd.min.js 1 -
-/api/env 3 -
-/.env.sample 2 -
-/secrets.yaml 1 -
-/.openclaw/agents/main/agent/models.json 1 -
-/.git/HEAD 11 -
-/build/manifest.json 1 -
-/server.key 1 -
-/build/static/js/main.js 1 -
-/cms/wp-json/ 1 -
-/.zshrc 1 -
-/firebase.json 1 -
-/gcp-sa.json 1 -
-/app/service-account.json 1 -
-/app-ads.txt 3 -
-/.svn/entries 1 -
-/gcp-credentials.json 3 -
-/terraform.tfstate 3 -
-/config.env 4 -
-/.env.vault 1 -
-/home/ubuntu/.config/hcloud/cli.toml 1 -
-/terraform.tfvars 1 -
-/home/ec2-user/.aws/credentials 1 -
-/site/ 1 -
-/.s3cfg 1 -
-/robots.txt 4 -
-/..%2f.env 1 -
-/.env.test.local 1 -
-/config/local.json 1 -
-/assets/app.js 1 -
-/assets/index.js 1 -
-/serviceAccountKey.json 2 -
-/root/.vultr-cli.yaml 1 -
-/host.key 1 -
-/.ssh/known_hosts 1 -
-/assets/js/aos.js 1 -
-/key.json 2 -
-/.env.json 1 -
-/.vscode/launch.json 1 -
-/config.yaml 1 -
-/.secrets 1 -
-/.config/anthropic/credentials/default.json 1 -
-/.env.development 5 -
-/../.env 1 -
-/.env.ci 1 -
-/settings.py 3 -
-/index.js 1 -
-/blog/wp-json/ 1 -
-/.env.staging 6 -
-/settings.json 1 -
-/dist/.vite/manifest.json 1 -
-/application.properties 3 -
-/.gradle/gradle.properties 2 -
-/api/settings 1 -
-/localhost.key 1 -
-/home/ubuntu/.aws/credentials 1 -
-/root/.streamlit/secrets.toml 1 -
-/_next/static/buildManifest.js 1 -
-/service-account-key.json 1 -
-/js/config.js 2 -
-/.hcloud.toml 1 -
-/home/node/.aws/credentials 1 -
-/client_secret.json 1 -
-/.vite/manifest.json 1 -
-/static/manifest.json 1 -
-/.vultr-cli.yaml 1 -
-/.env.remote 1 -
-/wp-content/plugins/all-in-one-wp-migration/lib/view/assets/css/reset.min.css 1 -
-/wordpress/ 1 -
-/assets/vendor/purecounter/purecounter_vanilla.js 1 -
-/env.js 1 -
-/appsettings.json 4 -
-/google-credentials.json 5 -
-/admin/.env 3 -
-/.bashrc 1 -
-/assets/vendor/php-email-form/validate.js 1 -
-/.env.save 4 -
-/secrets.json 5 -
-/auth.json 1 -
-/keys/service-account.json 1 -
-/.env.dev 5 -
-/.npmrc 2 -
-/root/.aws/credentials 1 -
-/root/.config/linode-cli 1 -
-/assets/js/main.js 1 -
-/config/gcp.json 1 -
-/.env.test 3 -
-/asset-manifest.json 1 -
-/.profile 1 -
-/.env.docker 1 -
-/wp-content/plugins/divi-form-builder/css/backend-style.min.css 1 -
-/main.bundle.js 1 -
-/application.yaml 1 -
-/firebase-key.json 1 -
-/assets/vendor/aos/aos.js 1 -
-/config/production.json 1 -
-/ssl/server.key 1 -
-/.ssh/authorized_keys 1 -
-/id_ecdsa 1 -
-/serverless.yml 1 -
+/data/config.json 1 -
 /manifest.json 1 -
-/id_ed25519 1 -
-/dist/main.js 1 -
-/ssl/localhost.key 1 -
-/.env.example 4 -
-/.config/gcloud/application_default_credentials.json 1 -
-/sellers.json 3 -
-/.aider.conf.yml 1 -
-/config.py 1 -
-/stats.json 1 -
-/config/default.json 1 -
-/.env.uat 1 -
-/.git/config 15 -
-/home/node/.config/gcloud/application_default_credentials.json 1 -
-/storage/logs/laravel.log 2 -
+/.env.test.local 1 -
+/zz-nonexistent-test-8492.html 2 -
+/.docker/config.json 4 -
+/.npmrc 2 -
+/blog/wp-json/ 1 -
+/config 1 -
+/key.json 2 -
+/_nuxt/builds/latest.json 1 -
+/config.js 5 -
+/.hcloud.toml 1 -
+/.env.sample 2 -
+/app-ads.txt 5 -
+/.flaskenv 1 -
+/localhost.key 1 -
+/static/js/app.js 1 -
+/_next/static/buildManifest.js 1 -
+/docker-compose.prod.yml 1 -
+/.gcp/service-account.json 1 -
+/private-key 1 -
+/actuator/env 3 -
+/gcp-sa.json 1 -
+/secrets.json 5 -
+/.envrc 1 -
+/config/production.json 1 -
+/wp/wp-json/ 1 -
+/dist/app.js 1 -
+/app/service-account.json 1 -
+/sh68732251005414203377 1 -
+/.git/config 17 -
+/appsettings.json 4 -
+/.env.save 4 -
+/api/env 5 -
+/.gitlab-ci.yml 1 -
+/main.bundle.js 1 -
+/env 3 -
+/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js 1 -
+/cms/ 1 -
+/secrets.py 1 -
+/wp-content/plugins/waves/style.css 1 -
+/assets/js/main.js 1 -
+/.env.example 6 -
+/assets/vendor/aos/aos.js 1 -
+/serverless.yaml 1 -
+/env.js 1 -
+/.env.local 12 -
+/docker-compose.yaml 3 -
+/components/com_sppagebuilder/assets/css/sppagebuilder.css 1 -
+/client_secret.json 1 -
+/appsettings.Production.json 3 -
+/.claude/settings.json 1 -
+/api/settings 1 -
+/assets/vendor/purecounter/purecounter_vanilla.js 1 -
+/js/main.js 1 -
+/google-services.json 1 -
+/admin/.env 3 -
+/settings.py 3 -
+/server.js 1 -
+/credentials.json 4 -
+/app/credentials.json 1 -
+/assets/manifest.json 1 -
+/app.js 1 -
+/.gradle/gradle.properties 2 -
+/firebase-adminsdk.json 3 -
+/app 1 -
+/site/wp-json/ 1 -
+/open/visitors/info/gets 2 https://www.ugi.net.in.idealgroups.org/
+/config/secrets.yml 4 -
+/.cursor/mcp.json 2 -
+/terraform.tfstate 3 -
+/build/manifest.json 1 -
+/dist/.vite/manifest.json 1 -
+/.env.backup1 1 -
+/env.json 1 -
+/.vscode/launch.json 1 -
+/.env.template 1 -
+/_next/build-manifest.json 1 -
+/wp-json/gutenkit/v1/install-active-plugin 1 -
+/sh88423716 1 -
+/console 1 -
+/.env2 1 -
+/api/config 5 -
+/wp/ 1 -
+/.vultr-cli.yaml 1 -
+/asset-manifest.json 1 -
+/sa.json 1 -
+/keys/service-account.json 1 -
+/firebase-key.json 1 -
+/dist/bundle.js 1 -
 /.aws/config 3 -
+/.bash_profile 1 -
+/.env.live 2 -
+/wp-json/hc/v1/themehunk-import 2 -
+/ssl/server.key 1 -
+/.linode-cli 1 -
+/root/.aws/credentials 1 -
+/wp-content/plugins/divi-form-builder/css/backend-style.min.css 1 -
+/ssl/localhost.key 1 -
+/.vite/manifest.json 1 -
+/root/.streamlit/secrets.toml 1 -
+/.kube/config 1 -
+/.env.vault 1 -
+/terraform.tfvars 1 -
+/_profiler/phpinfo 1 -
+/.astro/manifest.json 1 -
+/config.json 7 -
+/docker-compose.dev.yml 1 -
+/assets/vendor/php-email-form/validate.js 1 -
+/main.js 1 -
+/config/master.key 2 -
+/gcp-key.json 1 -
+/.openai/config.json 1 -
+/.env.uat 1 -
+/settings.js 5 -
+/assets/app.js 1 -
+/.openclaw/openclaw.json 2 -
+/bootstrap.properties 1 -
+/dist/manifest.json 1 -
+/settings.json 1 -
+/..%2f.env 1 -
+/google-key.json 1 -
+/config.env 4 -
+/.mcp.json 1 -
+/.env.tmp 1 -
+/_environment 1 -
+/keyfile.json 2 -
+/assets/vendor/glightbox/js/glightbox.min.js 1 -
+/dist/main.js 1 -
+/firebase-service-account.json 1 -
+/assets/js/aos.js 1 -
+/.ssh/authorized_keys 1 -
+/.env.txt 1 -
+/service-account.json 5 -
+/application.properties 3 -
+/cms/wp-json/ 1 -
+/config.py 1 -
+/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/css/frontend.css 1 -
+/.git/HEAD 12 -
+/bootstrap.yml 1 -
+/id_ed25519 1 -
+/.env.docker 1 -
+/gcp-credentials.json 3 -
+/blog-verify 6 -
+/.aider.conf.yml 1 -
+/sendgrid.env 1 -
+/home/ubuntu/.config/gcloud/application_default_credentials.json 1 -
+/secrets.yaml 1 -
+/wp-includes/.cache_key 1 -
+/app.bundle.js 1 -
+/.ssh/known_hosts 1 -
+/ecosystem.config.js 1 -
+/root/.config/hcloud/cli.toml 1 -
+/blog/ 1 -
+/index.js 1 -
+/local.settings.json 1 -
+/service-account-key.json 1 -
+/config/local.json 1 -
+/docker-compose.override.yml 1 -
+/.gcp/credentials.json 1 -
+/phpinfo 1 -
+/home/node/.config/gcloud/application_default_credentials.json 1 -
+/.svn/entries 1 -
+/.bashrc 1 -
+/.aws/credentials 8 -
+/assets/vendor/swiper/swiper-bundle.min.js 1 -
+/.env.preprod 1 -
+/static/js/main.js 1 -
+/firebase.json 1 -
+/.env.development 6 -
+/.env1 1 -
+/.config/gcloud/application_default_credentials.json 1 -
+/.ssh/id_ecdsa 1 -
+/js/config.js 5 -
+/wp-content/plugins/all-in-one-wp-migration/lib/view/assets/css/reset.min.css 1 -
+/.ssh/config 1 -
+/.secrets 1 -
+/firebase-credentials.json 1 -
 END_SIDER_404
 
 # Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
 # [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
 # The 25 first Hits must be first (order not required for others)
 BEGIN_VISITOR 3
-104.28.243.189 1 1 244 20260703112535
 35.254.244.123 1 1 6255 20260711220027
+104.28.243.189 1 1 244 20260703112535
 146.235.16.244 0 2 147609 
 END_VISITOR
 
@@ -527,17 +530,17 @@ END_SESSION
 # URL - Pages - Bandwidth - Entry - Exit
 # The 25 first Pages must be first (order not required for others)
 BEGIN_SIDER 2
-/sitemap.xml 1 244 1 1
 / 1 6255 1 1
+/sitemap.xml 1 244 1 1
 END_SIDER
 
 # Payload Range - Payload Frequency
 BEGIN_FILESIZE 5
-100-500 528
-500-1K 206
 44-100 567
-0-44 70
 5K+ 159
+0-44 74
+500-1K 234
+100-500 606
 END_FILESIZE
 
 # Request Time Range - Request Time Frequency

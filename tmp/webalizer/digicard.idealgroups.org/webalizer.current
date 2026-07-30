@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/29/2026 09:27:38
-2026 7 29 9 27 38
-7310 118 83 16 4 42 239025470 1111 70 0
-5 1 3000 1 29
+# Webalizer V2.23-08 Incremental Data - 07/30/2026 15:50:11
+2026 7 30 15 50 11
+7327 119 85 16 4 43 239027841 1113 72 0
+1 16 3000 1 30
 19 2 16695 5 5 3
 1 1 0 1 1 1
 19 2 48522 5 3 3
@@ -30,8 +30,8 @@
 51 0 11138 5 14 4
 11 1 406602 2 2 2
 21 5 17845 4 7 4
-3004 4 6512712 5 236 5
-0 0 0 0 0 0
+3005 5 6513755 6 237 6
+16 0 1328 1 1 1
 0 0 0 0 0 0
 2574 36 79924672 377
 28 3 53693 3
@@ -48,11 +48,11 @@
 2 2 2081 2
 6 2 4134 5
 9 1 5448 8
-3 2 3469 2
+19 2 4797 3
 3 1 1503 3
 7 1 2747 7
 9 3 15135 3
-33 7 20478 19
+34 8 21521 20
 23 3 46269 9
 44 5 37795 7
 34 5 419410 6
@@ -60,7 +60,7 @@
 0
 0
 0
-118
+119
 0
 0
 0
@@ -83,7 +83,7 @@
 1097
 0
 0
-205
+221
 0
 0
 0
@@ -102,11 +102,11 @@
 /composer.json
 0 2 7594247040028797292 3966 0 0
 /vite.config.js
-0 2 3329906360303695661 544 0 0
+0 2 0 544 0 0
 /package-lock.json
-0 2 7596857888815972352 85544 0 0
+0 2 0 85544 0 0
 /register
-0 3 25491216 2778 0 0
+0 3 0 2778 0 0
 /storage/logs/laravel.log
 0 3 0 222196584 0 0
 /.gitattributes
@@ -128,7 +128,7 @@
 /package.json
 0 2 0 1038 0 0
 /
-0 79 0 127992 63 5
+0 80 0 129035 64 5
 /.gitignore
 0 2 0 454 0 0
 # End Of Table - urls
@@ -265,6 +265,9 @@ ec2-3-89-155-66.compute-1.amazonaws.com
 201.172.132.66.censys-scanner.com
 0 2 1 3469 1 1783180780
 /
+ec2-34-195-207-10.compute-1.amazonaws.com
+0 1 1 1043 1 1785354004
+/
 ec2-32-193-141-171.compute-1.amazonaws.com
 0 12 0 3408 2 1785096871
 /
@@ -286,11 +289,11 @@ tvinnet-91-238-67-159.tvinnet.ru
 47.82.10.61
 0 2 0 4856 0 0
 -
-239.102.67.136.bc.googleusercontent.com
-0 13 1 12312 1 1784668705
--
 216.24.210.35
 0 1 0 226 0 0
+-
+239.102.67.136.bc.googleusercontent.com
+0 13 1 12312 1 1784668705
 -
 109-252-148-86.dynamic.spd-mgts.ru
 0 3 1 2641 1 1784727835
@@ -379,30 +382,21 @@ ec2-100-50-152-193.compute-1.amazonaws.com
 158.158.36.150
 0 18 0 1494 1 1785034241
 -
+52.238.192.78
+0 16 0 1328 1 1785426578
+-
 74.234.77.71
 0 1 0 226 1 1783050322
 /
 # End Of Table - sites (monthly)
 # -sites- (daily)
-ec2-100-60-135-156.compute-1.amazonaws.com
-0 1 1 1052 1 1785295431
-/
-ec2-54-205-166-115.compute-1.amazonaws.com
-0 1 1 1044 1 1785283754
-/
-46.101.148.55
-0 1 1 1050 1 1785317258
-/
-185.177.72.29
-0 3000 0 6508526 1 1785305403
+52.238.192.78
+0 16 0 1328 1 1785426578
 -
-185.147.157.64
-0 1 1 1040 1 1785302630
-/
 # End Of Table - sites (daily)
 # -referrers- 
 - (Direct Request)
-0 7291
+0 7308
 http://digicard.idealgroups.org/.env
 0 16
 http://digicard.idealgroups.org/
@@ -452,6 +446,8 @@ Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHT
 Mozilla/5.0 (Linux; Android 8.1.0; Redmi 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 15.7; rv:149.0) Gecko/20100101 Firefox/149.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.0.0 Safari/537.36
 0 1
 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0
 0 6

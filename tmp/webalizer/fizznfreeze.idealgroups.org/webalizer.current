@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 07/29/2026 07:26:32
-2026 7 29 7 26 32
-569 304 102 43 14 65 13739459 216 87 0
-2 3 107 1 29
+# Webalizer V2.23-08 Incremental Data - 07/30/2026 15:30:58
+2026 7 30 15 30 58
+591 308 103 43 14 67 13986891 222 90 0
+2 3 107 1 30
 3 0 678 1 2 1
 4 3 115260 1 2 1
 4 0 0 1 0 0
@@ -30,15 +30,15 @@
 49 30 812950 8 26 8
 37 7 384847 8 15 6
 20 4 303396 2 5 2
-32 20 633228 2 16 2
-0 0 0 0 0 0
+34 21 669509 3 18 3
+20 3 211151 2 4 2
 0 0 0 0 0 0
 11 7 224138 8
 39 3 169787 8
 36 22 516396 12
 2 1 92694 2
 9 2 36511 5
-33 21 633233 16
+50 22 729174 18
 7 5 230506 4
 35 8 419976 17
 6 4 151513 4
@@ -48,19 +48,19 @@
 22 1 40257 5
 3 0 678 3
 3 2 115255 2
-10 2 73963 8
+13 4 189173 10
 111 92 3890727 25
 121 89 4932089 29
 36 9 429932 22
 11 6 416229 9
 15 6 224783 10
 17 6 224812 9
-3 2 115255 2
+5 3 151536 4
 6 4 151500 4
 0
 0
 0
-304
+308
 0
 0
 0
@@ -69,7 +69,7 @@
 0
 0
 10
-81
+84
 0
 0
 0
@@ -80,10 +80,10 @@
 0
 66
 0
-84
+98
 0
 0
-24
+25
 0
 0
 0
@@ -107,10 +107,10 @@
 0 6 0 71814 0 0
 /assets/vendor/libs/node-waves/node-waves.js
 0 6 0 43860 0 0
-/assets/vendor/libs/jquery/jquery.js
-0 5 0 563625 0 0
 /register
 0 1 0 37016 0 0
+/assets/vendor/libs/jquery/jquery.js
+0 5 0 563625 0 0
 /assets/vendor/libs/hammer/hammer.js
 0 6 0 154128 0 0
 /assets/vendor/libs/typeahead-js/typeahead.js
@@ -142,13 +142,13 @@
 /assets/vendor/fonts/tabler/tabler-icons.woff2
 0 4 0 2809088 0 0
 /login
-0 79 0 3642291 7 3
+0 82 0 3806710 7 5
 /assets/img/illustrations/bg-shape-image.png
 0 4 0 64692 0 0
 /assets/vendor/css/pages/page-auth.css
 0 5 0 5465 0 0
 /assets/img/fizzfavicon.svg
-0 32 0 2526144 0 0
+0 33 0 2605086 0 0
 /assets/vendor/libs/sweetalert2/sweetalert2.css
 0 4 0 34916 0 0
 /assets/vendor/libs/@form-validation/umd/styles/
@@ -272,7 +272,7 @@ schroeder.probe.onyphe.net
 0 2 1 92866 1 1784577065
 /login
 192-227-176-16-host.colocrossing.com
-0 3 2 115255 1 1784498796
+0 6 4 230465 2 1785425436
 /login
 e4462bfb-4320-4582-8d81-8ea0a2866580.pl-waw-3.baremetal.scw.cloud
 0 43 37 1853942 1 1784914395
@@ -311,7 +311,7 @@ mckinney.probe.onyphe.net
 0 4 3 115252 1 1784011189
 /login
 ns3246719.ip-91-134-35.eu
-0 2 1 36286 1 1784910936
+0 4 2 72567 2 1785364456
 /login
 96.52.108.136.bc.googleusercontent.com
 0 2 1 36308 1 1785079768
@@ -412,6 +412,9 @@ cherise.probe.onyphe.net
 88.5.62.34.bc.googleusercontent.com
 0 2 1 36317 1 1784564231
 /login
+146.70.194.252
+0 17 1 95941 1 1785391034
+/login
 195.172.132.66.censys-scanner.com
 0 4 3 115224 1 1784797051
 /login
@@ -495,12 +498,12 @@ ec2-13-61-10-95.eu-north-1.compute.amazonaws.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-146.190.120.134
-0 3 2 115247 1 1785309991
+192-227-176-16-host.colocrossing.com
+0 3 2 115210 1 1785425436
 /login
-91.92.42.30
-0 29 18 517981 1 1785303670
--
+146.70.194.252
+0 17 1 95941 1 1785391034
+/login
 # End Of Table - sites (daily)
 # -referrers- 
 http://www.fizznfreeze.idealgroups.org/login
@@ -508,11 +511,11 @@ http://www.fizznfreeze.idealgroups.org/login
 http://fizznfreeze.idealgroups.org/app
 0 1
 http://fizznfreeze.idealgroups.org
-0 17
+0 18
 https://fizznfreeze.idealgroups.org
 0 1
 - (Direct Request)
-0 379
+0 400
 http://www.fizznfreeze.idealgroups.org/assets/vendor/fonts/tabler-icons.css
 0 2
 http://www.fizznfreeze.idealgroups.org
@@ -596,7 +599,7 @@ Cpanel-HTTP-Client/1.0
 Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
 0 15
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-0 17
+0 34
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -639,9 +642,13 @@ Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHT
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.26
+0 3
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edge/92.0
 0 2
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.3.27
 0 3

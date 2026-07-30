@@ -8,35 +8,35 @@ AWSTATS DATA FILE 8.0 (build 20240604)
 # update).
 BEGIN_MAP 28
 POS_GENERAL 2092                
-POS_TIME 2741                
-POS_VISITOR 9113                
-POS_DAY 9185                
-POS_DOMAIN 3307                
-POS_LOGIN 3518                
-POS_ROBOT 3673                
-POS_WORMS 3805                
-POS_EMAILSENDER 3936                
-POS_EMAILRECEIVER 4079                
-POS_SESSION 9241                
-POS_FILESIZE 9439                
-POS_REQUESTTIME 9556                
-POS_SIDER 9378                
-POS_FILETYPES 4214                
-POS_DOWNLOADS 4278                
-POS_OS 4326                
-POS_BROWSER 4391                
-POS_SCREENSIZE 4441                
-POS_UNKNOWNREFERER 4515                
-POS_UNKNOWNREFERERBROWSER 4602                
-POS_ORIGIN 4684                
-POS_SEREFERRALS 4814                
-POS_PAGEREFS 4958                
-POS_SEARCHWORDS 5106                
-POS_KEYWORDS 5258                
-POS_MISC 2405                
-POS_ERRORS 5317                
-POS_CLUSTER 3374                
-POS_SIDER_404 5457                
+POS_TIME 2739                
+POS_VISITOR 9111                
+POS_DAY 9183                
+POS_DOMAIN 3305                
+POS_LOGIN 3516                
+POS_ROBOT 3671                
+POS_WORMS 3803                
+POS_EMAILSENDER 3934                
+POS_EMAILRECEIVER 4077                
+POS_SESSION 9239                
+POS_FILESIZE 9437                
+POS_REQUESTTIME 9554                
+POS_SIDER 9376                
+POS_FILETYPES 4212                
+POS_DOWNLOADS 4276                
+POS_OS 4324                
+POS_BROWSER 4389                
+POS_SCREENSIZE 4439                
+POS_UNKNOWNREFERER 4513                
+POS_UNKNOWNREFERERBROWSER 4600                
+POS_ORIGIN 4682                
+POS_SEREFERRALS 4812                
+POS_PAGEREFS 4956                
+POS_SEARCHWORDS 5104                
+POS_KEYWORDS 5256                
+POS_MISC 2403                
+POS_ERRORS 5315                
+POS_CLUSTER 3372                
+POS_SIDER_404 5455                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -48,10 +48,10 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20260729061413 8 1550 12397132448447
+LastLine 20260730005516 5 563 9022636989731
 FirstTime 0
 LastTime 0
-LastUpdate 20260729192614 8 0 8 0 0
+LastUpdate 20260730191709 5 0 5 0 0
 TotalVisits 0                   
 TotalUnique 0                   
 MonthHostsKnown 0                   
@@ -61,20 +61,20 @@ END_GENERAL
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
 RealPlayerSupport 0 0 0
-JavaEnabled 0 0 0
-AddToFavourites 0 1 0
-QuickTimeSupport 0 0 0
 JavascriptDisabled 0 0 0
-TotalMisc 0 0 0
-PDFSupport 0 0 0
-FlashSupport 0 0 0
+JavaEnabled 0 0 0
 WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 1 0
 DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
 BEGIN_TIME 24
-0 0 0 0 4 4 1162
+0 0 0 0 5 5 1388
 1 0 0 0 6 7 1971
 2 0 0 0 2 3 710
 3 0 0 0 5 6 1743
@@ -95,7 +95,7 @@ BEGIN_TIME 24
 18 0 0 0 8 10 2939
 19 0 0 0 14 15 5624
 20 0 0 0 6 6 2814
-21 0 0 0 10 11 4004
+21 0 0 0 14 15 4908
 22 0 0 0 10 10 3619
 23 0 0 0 3 4 1648
 END_TIME
@@ -193,170 +193,170 @@ END_KEYWORDS
 
 # Errors - Hits - Bandwidth
 BEGIN_ERRORS 5
+406 323 72094
 404 233 82611
-421 2 724
-406 318 70964
 409 52 4316
 403 104 42441
+421 2 724
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
 BEGIN_SIDER_404 155
-/bootstrap.properties 1 -
-/gcp-sa.json 1 -
-/.env.stage 1 -
-/api/openapi.json 2 -
-/.env.json 1 -
-/.env.backup1 1 -
-/.git/config 10 -
-/service-account.json 1 -
-/.claude.json 1 -
-/.gradle/gradle.properties 1 -
-/firebase-config.json 1 -
-/.streamlit/secrets.toml 1 -
-/.env.txt 1 -
-/.env.local 4 -
-/.openclaw/openclaw.json 1 -
-/.well-known/jwks.json 2 -
-/.env2 1 -
-/api/v1/config 1 -
-/localhost.key 1 -
-/ngsw.json 1 -
-/firebase-key.json 1 -
-/appsettings.Production.json 1 -
-/runtime-config.js 1 -
-/open/visitors/info/gets 4 https://www.ugi.idealgroups.org/
-/config.env 2 -
-/application.yml 2 -
-/settings.py 1 -
-/components/com_sppagebuilder/assets/css/sppagebuilder.css 1 -
-/terraform.tfstate 1 -
-/public/admin.json 1 -
+/firebase-credentials.json 1 -
 /v1/graphql 1 -
-/.env.docker 1 -
-/.env.uat 1 -
-/.vscode/launch.json 1 -
-/.env.preprod 1 -
-/api/v1/env 1 -
-/api/health 2 -
-/wp-json/ 1 -
-/config.js 2 -
-/application.properties 2 -
-/.git/HEAD 5 -
-/sendgrid.env 1 -
-/docker-compose.yaml 1 -
-/wp-json 2 -
-/.env.backup2 1 -
-/.hermes/auth.json 1 -
-/settings.js 1 -
-/.env1 1 -
-/api/env 3 -
-/ssl/server.key 1 -
-/api/v1/settings 2 -
-/.env.dev 3 -
-/config/database.yml 1 -
-/z9x8c7v6b5-debug-trigger-ugi.idealgroups.org 1 -
-/.ssh/id_ecdsa 1 -
-/sa.json 2 -
-/local.settings.json 1 -
-/.env.test 2 -
-/application_default_credentials.json 1 -
-/_profiler/phpinfo 1 -
-/api/gateway/heartbeat 4 https://www.ugi.idealgroups.org/
-/admin/.env 2 -
-/ads.txt 3 -
-/config/gcp-credentials.json 1 -
-/config/secrets.yml 2 -
-/env.js 1 -
-/.env.yaml 1 -
-/.aider.conf.yml 1 -
-/robots.txt 4 -
-/manifest.webmanifest 1 -
-/config/master.key 1 -
-/gcp-credentials.json 1 -
-/ 7 https://www.ugi.idealgroups.org/
-/actuator 1 -
-/open/ 4 https://www.ugi.idealgroups.org/
-/server.key 1 -
-/.env.development 3 -
-/api/account 2 -
-/.env.yml 1 -
-/api/v2/config 2 -
-/.env.prod 1 -
-/.config/anthropic/credentials/default.json 1 -
-/_environment 1 -
-/config/application.properties 2 -
-/.bashrc 1 -
-/env.json 1 -
-/__/firebase/init.json 2 -
 /sellers.json 3 -
-/graphql 1 -
-/.env.save 1 -
-/host.key 1 -
-/.ssh/id_ed25519 1 -
-/firebase-adminsdk.json 1 -
-/.claude/settings.json 1 -
-/.env.dist 1 -
-/keyfile.json 1 -
 /.env.live 1 -
 /js/config.js 1 -
-/auth.json 1 -
-/actuator/env 2 -
-/secrets.yml 1 -
-/.aws/config 1 -
+/.env.backup2 1 -
 /.gitlab-ci.yml 1 -
-/settings.json 1 -
-/bootstrap.yml 1 -
-/actuator/configprops 1 -
-/.zshrc 1 -
-/firebase-credentials.json 1 -
-/private-key 1 -
-/.hermes/config.yaml 1 -
-/administrator/components/com_sppagebuilder/config.xml 1 -
-/rclone.conf 1 -
-/.aws/credentials 2 -
-/info 1 -
-/service-worker.js 1 -
-/values.yaml 1 -
-/.codex/config.toml 1 -
-/.continue/config.json 1 -
-/gradle.properties 1 -
-/api/config 3 -
-/.config/gcloud/application_default_credentials.json 1 -
-/config.json 3 -
+/robots.txt 4 -
 /js/env.js 1 -
-/phpinfo 1 -
-/.env.remote 1 -
-/.env.staging 2 -
-/.env_copy 1 -
-/.ssh/known_hosts 1 -
-/.git-credentials 1 -
-/health 1 -
-/google-key.json 1 -
-/google-credentials.json 2 -
-/.env.production 3 -
-/app-ads.txt 3 -
-/appsettings.json 1 -
-/__env.js 1 -
-/keys/service-account.json 1 -
-/storage/logs/laravel.log 1 -
-/_rNd9xZ7kL3 1 https://www.google.com/search
-/.bash_profile 1 -
-/.mcp.json 1 -
+/.ssh/id_ecdsa 1 -
+/sa.json 2 -
+/.env.json 1 -
+/.hermes/auth.json 1 -
+/.env2 1 -
+/_profiler/phpinfo 1 -
+/.env.dev 3 -
+/config.env 2 -
+/ngsw.json 1 -
+/.env.prod 1 -
+/service-worker.js 1 -
 /api/v2/settings 2 -
-/sw.js 1 -
-/.env.sample 1 -
+/.ssh/known_hosts 1 -
+/.config/gcloud/application_default_credentials.json 1 -
+/.env.uat 1 -
+/secrets.json 1 -
+/.config/anthropic/credentials/default.json 1 -
+/gradle.properties 1 -
+/app-ads.txt 3 -
+/.env.development 3 -
+/settings.js 1 -
+/phpinfo 1 -
+/.env1 1 -
+/storage/logs/laravel.log 1 -
+/ssl/server.key 1 -
+/.well-known/jwks.json 2 -
+/docker-compose.yaml 1 -
+/.env.test 2 -
+/settings.json 1 -
+/api/env 3 -
+/openapi.json 1 -
+/.aider.conf.yml 1 -
+/z9x8c7v6b5-debug-trigger-ugi.idealgroups.org 1 -
+/.hermes/config.yaml 1 -
+/.zshrc 1 -
+/auth.json 1 -
+/components/com_sppagebuilder/assets/css/sppagebuilder.css 1 -
+/info 1 -
+/firebase-adminsdk.json 1 -
+/.env.production 3 -
+/open/visitors/info/gets 4 https://www.ugi.idealgroups.org/
+/local.settings.json 1 -
+/api/config 3 -
+/api/v1/config 1 -
+/private-key 1 -
+/.git/config 10 -
+/terraform.tfstate 1 -
+/config/application.properties 2 -
+/appsettings.Production.json 1 -
+/.codex/config.toml 1 -
+/api/gateway/heartbeat 4 https://www.ugi.idealgroups.org/
+/application.properties 2 -
+/gcp-key.json 2 -
+/env.js 1 -
+/credentials.json 1 -
+/__/firebase/init.json 2 -
+/.bashrc 1 -
+/bootstrap.properties 1 -
+/.continue/config.json 1 -
+/host.key 1 -
+/gcp-credentials.json 1 -
+/.bash_profile 1 -
+/open/ 4 https://www.ugi.idealgroups.org/
+/.env.remote 1 -
+/service-account.json 1 -
+/public/admin.json 1 -
+/api/health 2 -
+/.cursor/mcp.json 1 -
+/config/storage.yml 1 -
+/api/openapi.json 2 -
+/.env.save 1 -
+/.gradle/gradle.properties 1 -
+/settings.py 1 -
+/.aws/config 1 -
+/.git/HEAD 5 -
+/api/v1/settings 2 -
+/administrator/components/com_sppagebuilder/config.xml 1 -
+/localhost.key 1 -
+/.env.txt 1 -
+/.env.staging 2 -
+/health 1 -
+/manifest.webmanifest 1 -
+/keyfile.json 1 -
+/.env.yaml 1 -
+/sendgrid.env 1 -
+/keys/service-account.json 1 -
+/bootstrap.yml 1 -
+/.env.backup1 1 -
+/google-key.json 1 -
+/values.yaml 1 -
+/config/database.yml 1 -
+/ 7 https://www.ugi.idealgroups.org/
+/.env.ci 1 -
+/.env.docker 1 -
+/runtime-config.js 1 -
+/.streamlit/secrets.toml 1 -
+/__env.js 1 -
+/.git-credentials 1 -
+/google-credentials.json 2 -
+/.claude.json 1 -
+/.env.preprod 1 -
+/.env.dist 1 -
+/wp-json/ 1 -
+/application_default_credentials.json 1 -
+/.mcp.json 1 -
+/.openclaw/openclaw.json 1 -
+/gcp-sa.json 1 -
+/api/account 2 -
+/.env.yml 1 -
+/firebase-config.json 1 -
 /key.json 1 -
 /.svn/entries 1 -
-/credentials.json 1 -
-/config/storage.yml 1 -
-/.cursor/mcp.json 1 -
-/openapi.json 1 -
-/gcp-key.json 2 -
-/secrets.json 1 -
-/.env.example 4 -
-/.env.ci 1 -
+/api/v2/config 2 -
+/actuator/env 2 -
 /.gitconfig 1 -
+/config.json 3 -
+/admin/.env 2 -
+/application.yml 2 -
+/config/secrets.yml 2 -
+/.env.example 4 -
+/api/v1/env 1 -
+/.env.stage 1 -
+/.vscode/launch.json 1 -
+/server.key 1 -
+/.env.sample 1 -
+/actuator/configprops 1 -
+/.env_copy 1 -
+/ads.txt 3 -
+/graphql 1 -
+/wp-json 2 -
+/.aws/credentials 2 -
+/sw.js 1 -
+/_rNd9xZ7kL3 1 https://www.google.com/search
+/firebase-key.json 1 -
+/env.json 1 -
+/_environment 1 -
+/appsettings.json 1 -
+/secrets.yml 1 -
+/config/gcp-credentials.json 1 -
+/actuator 1 -
+/config/master.key 1 -
+/.claude/settings.json 1 -
+/.ssh/id_ed25519 1 -
+/.env.local 4 -
+/config.js 2 -
+/rclone.conf 1 -
 END_SIDER_404
 
 # Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
@@ -380,10 +380,10 @@ END_SIDER
 
 # Payload Range - Payload Frequency
 BEGIN_FILESIZE 4
+100-500 619
 44-100 52
-0-44 17
-100-500 614
 500-1K 44
+0-44 17
 END_FILESIZE
 
 # Request Time Range - Request Time Frequency

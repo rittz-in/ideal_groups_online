@@ -4037,3 +4037,98 @@ Backup completed: Thu Jul 30 02:00:34 IST 2026
 ==============================
 ==============================
 Backup started: Fri Jul 31 02:00:03 IST 2026
+warning: You ran 'git add' with neither '-A (--all)' or '--ignore-removal',
+whose behaviour will change in Git 2.0 with respect to paths you removed.
+Paths like 'ideal_db_backups/idealgro_web_2026-07-22_15-51-01.sql.gz' that are
+removed from your working tree are ignored with this version of Git.
+
+* 'git add --ignore-removal <pathspec>', which is the current default,
+  ignores paths you removed from your working tree.
+
+* 'git add --all <pathspec>' will let you also record the removals.
+
+Run 'git status' to check the paths you removed from your working tree.
+
+warning: CRLF will be replaced by LF in public_html/digicard/.htaccess.
+The file will have its original line endings in your working directory.
+Changes found. Creating commit...
+[main 3dc20a1] Backup 2026-07-31 02:00
+ 159 files changed, 20833 insertions(+), 19891 deletions(-)
+ rewrite .cpanel/datastore/ssl_FETCHINSTALLEDHOSTS (99%)
+ rewrite .cpanel/email_accounts.json (100%)
+ create mode 100644 public_html/web/writable/session/ci_session07e0234c290f5420ed739b8c7eb8bc66f31cb5bc
+ create mode 100644 public_html/web/writable/session/ci_session167997c5bf447f007c78096782ad53f8c0ae61cc
+ create mode 100644 public_html/web/writable/session/ci_session1d96ef43ea6cf671d1f5711af1233146bb9e100c
+ create mode 100644 public_html/web/writable/session/ci_session1dc09dd0ae6d7281c98de9666c22c80088b72467
+ create mode 100644 public_html/web/writable/session/ci_session3d73ebd66cc3b2bd43d3f581e0b76e521fe40e15
+ create mode 100644 public_html/web/writable/session/ci_session417f630fa1ac2f0c37460416ae05f11b216a08a6
+ create mode 100644 public_html/web/writable/session/ci_session43e0aa035e3a2029c934df5bac3a47632dc097e9
+ create mode 100644 public_html/web/writable/session/ci_session46971c1beddb5c40e386ca5c253baeee9b47b83c
+ create mode 100644 public_html/web/writable/session/ci_session4d3671be93f2704906b96aaebe539cb76c49434b
+ create mode 100644 public_html/web/writable/session/ci_session58c0d7c0e1bd3a1cffd9cc44cb176bb155d075cb
+ create mode 100644 public_html/web/writable/session/ci_session5a500465b9469003bb93b6a2db5fccab193a8ddb
+ create mode 100644 public_html/web/writable/session/ci_session6c0f9875884536252f8c8363a7c7f4c99e65b9ee
+ create mode 100644 public_html/web/writable/session/ci_session8804588e6e130873eff7a6252688b2030e106e5f
+ create mode 100644 public_html/web/writable/session/ci_session8bb242f2453f10844b3e01c7ed8b3a8fd64c0836
+ create mode 100644 public_html/web/writable/session/ci_session8bc7ec938a90dbd3cdcfaa0d5cf3a538a6066a76
+ create mode 100644 public_html/web/writable/session/ci_session9ce8bb3500cdc10af3a4470a8f0af8d46f3094cc
+ create mode 100644 public_html/web/writable/session/ci_sessiona6e7378db5879b3ba7eb9645e090cdaa3f821217
+ create mode 100644 public_html/web/writable/session/ci_sessionaa187e33ad772adede319b809d3569b56657b7bd
+ create mode 100644 public_html/web/writable/session/ci_sessionba0c5cfddcccf641c878f30fe25699554e9c7c3d
+ create mode 100644 public_html/web/writable/session/ci_sessionc8e851300c1a64f9bba60c0d30099b4157f332ed
+ create mode 100644 public_html/web/writable/session/ci_sessionca0283fdc86f09989855d2e49d693e5147052535
+ create mode 100644 public_html/web/writable/session/ci_sessioncc66a9ecf2dc804a7c42ec8756ffc6504ed58bb3
+ create mode 100644 public_html/web/writable/session/ci_sessiond3681a5da35626df9fe251bd4b20c58d988e8401
+ create mode 100644 public_html/web/writable/session/ci_sessione7ee02b18828afa2a226c0d302ee51383064591e
+ create mode 100644 public_html/web/writable/session/ci_sessionf9236dc427772c21705d3b0e233cb703876e2da1
+ rewrite tmp/webalizer/ctry_usage_202607.png (98%)
+ rewrite tmp/webalizer/daily_usage_202607.png (98%)
+ rewrite tmp/webalizer/digicard.idealgroups.org/daily_usage_202607.png (97%)
+ rewrite tmp/webalizer/fizznfreeze.idealgroups.org/ctry_usage_202607.png (97%)
+ rewrite tmp/webalizer/fizznfreeze.idealgroups.org/daily_usage_202607.png (97%)
+ rewrite tmp/webalizer/fizznfreeze.idealgroups.org/hourly_usage_202607.png (96%)
+ rewrite tmp/webalizer/fizznfreeze.idealgroups.org/usage.png (96%)
+ rewrite tmp/webalizer/hourly_usage_202607.png (96%)
+ rewrite tmp/webalizer/kmanimalhealthcare.idealgroups.org/ctry_usage_202607.png (97%)
+ rewrite tmp/webalizer/kmanimalhealthcare.idealgroups.org/daily_usage_202607.png (97%)
+ rewrite tmp/webalizer/kmanimalhealthcare.idealgroups.org/hourly_usage_202607.png (96%)
+ rewrite tmp/webalizer/kmanimalhealthcare.idealgroups.org/usage.png (97%)
+ rewrite tmp/webalizer/ssl/digicard.idealgroups.org/daily_usage_202607.png (97%)
+ rewrite tmp/webalizer/ssl/digicard.idealgroups.org/hourly_usage_202607.png (96%)
+ rewrite tmp/webalizer/ssl/fizznfreeze.idealgroups.org/ctry_usage_202607.png (98%)
+ rewrite tmp/webalizer/ssl/fizznfreeze.idealgroups.org/daily_usage_202607.png (97%)
+ rewrite tmp/webalizer/ssl/fizznfreeze.idealgroups.org/hourly_usage_202607.png (96%)
+ rewrite tmp/webalizer/ssl/fizznfreeze.idealgroups.org/usage.png (63%)
+ rewrite tmp/webalizer/ssl/idealgroups.org/ctry_usage_202607.png (98%)
+ rewrite tmp/webalizer/ssl/idealgroups.org/daily_usage_202607.png (98%)
+ rewrite tmp/webalizer/ssl/idealgroups.org/hourly_usage_202607.png (96%)
+ rewrite tmp/webalizer/ssl/idealgroups.org/usage.png (97%)
+ rewrite tmp/webalizer/ssl/kmanimalhealthcare.idealgroups.org/ctry_usage_202607.png (98%)
+ rewrite tmp/webalizer/ssl/kmanimalhealthcare.idealgroups.org/daily_usage_202607.png (97%)
+ rewrite tmp/webalizer/ssl/kmanimalhealthcare.idealgroups.org/hourly_usage_202607.png (96%)
+ rewrite tmp/webalizer/ssl/kmanimalhealthcare.idealgroups.org/usage.png (71%)
+ rewrite tmp/webalizer/ssl/ugi.idealgroups.org/daily_usage_202607.png (97%)
+ rewrite tmp/webalizer/ssl/ugi.idealgroups.org/hourly_usage_202607.png (96%)
+ rewrite tmp/webalizer/ssl/ugi.idealgroups.org/usage.png (97%)
+ rewrite tmp/webalizer/ssl/ugi.net.in.idealgroups.org/ctry_usage_202607.png (97%)
+ rewrite tmp/webalizer/ssl/ugi.net.in.idealgroups.org/daily_usage_202607.png (97%)
+ rewrite tmp/webalizer/ssl/ugi.net.in.idealgroups.org/hourly_usage_202607.png (96%)
+ rewrite tmp/webalizer/ssl/web.idealgroups.org/daily_usage_202607.png (97%)
+ rewrite tmp/webalizer/ugi.idealgroups.org/ctry_usage_202607.png (97%)
+ rewrite tmp/webalizer/ugi.idealgroups.org/daily_usage_202607.png (97%)
+ rewrite tmp/webalizer/ugi.idealgroups.org/hourly_usage_202607.png (96%)
+ rewrite tmp/webalizer/ugi.idealgroups.org/usage.png (97%)
+ rewrite tmp/webalizer/ugi.net.in.idealgroups.org/daily_usage_202607.png (97%)
+ rewrite tmp/webalizer/ugi.net.in.idealgroups.org/hourly_usage_202607.png (96%)
+ rewrite tmp/webalizer/ugi.net.in.idealgroups.org/usage.png (97%)
+ rewrite tmp/webalizer/usage.png (97%)
+ rewrite tmp/webalizer/web.idealgroups.org/daily_usage_202607.png (77%)
+ rewrite tmp/webalizer/web.idealgroups.org/hourly_usage_202607.png (95%)
+ rewrite tmp/webalizer/web.idealgroups.org/usage.png (63%)
+Pushing to GitHub...
+remote: To https://github.com/rittz-in/ideal_groups_online.git
+   d4dd32d..3dc20a1  main -> main
+Backup completed: Fri Jul 31 02:00:31 IST 2026
+==============================
+==============================
+Backup started: Sat Aug  1 02:00:04 IST 2026

@@ -673,3 +673,29 @@ Backup Folder:
 
 Completed At : 2026-07-31 01:45:03
 ==================================================
+==================================================
+Database Backup Started : 2026-08-01 01:45:01
+==================================================
+
+Cleaning old backups...
+Old backups removed.
+
+----------------------------------------
+Database : idealgro_web
+Started  : 01:45:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+mysqldump: Got errno 122 on write
+Status   : FAILED
+
+==================================================
+Backup Summary
+==================================================
+Total Databases : 1
+Successful      : 0
+Failed          : 1
+
+Backup Folder:
+/home1/idealgro/ideal_db_backups
+
+Completed At : 2026-08-01 01:45:02
+==================================================
